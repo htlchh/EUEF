@@ -1,0 +1,521 @@
+<WikifierOutput>
+<InputFilename>
+APW19990827_0184.htm
+</InputFilename>
+<InputText>
+   O&apos;Hare Closes Terminal for Security
+
+ CHICAGO (AP) --  United Airlines   shut down a  terminal   for hours so authorities could search for a passenger who ran past a  security   checkpoint and disappeared into the crowd at  O&apos;Hare International Airport  . 
+
+ 
+
+ United spokeswoman Kristina Price said 131 flights were canceled Thursday and more than 100 were delayed nationwide because of the incident. About 6,000 passengers were cleared from the terminal during the search, airline officials said. 
+
+ 
+
+ Eighty more flights were canceled today and numerous others were delayed as the effects of the shutdown lingered, Price said, adding that the carrier hoped to be back to a normal schedule by this afternoon. 
+
+ 
+
+ The man was not found and Chicago police said officers turned up nothing suspicious. 
+
+ 
+
+ He was leaving a  concourse   and heading toward the  baggage claim  area when he turned back and ran up a one-way staircase leading to the concourse, United spokesman Matthew Triaca said. Guards are stationed at the staircase, but the man ran past them. 
+
+ 
+
+ No United flights left the terminal during the search and only a few landed at other United gates. Some flights resumed by early evening. 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>O&apos;Hare</EntitySurfaceForm>
+	<EntityTextStart>3</EntityTextStart>
+	<EntityTextEnd>9</EntityTextEnd>
+	<LinkerScore>-0.1622961328224707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>O&apos;Hare_International_Airport</WikiTitle>
+		<WikiTitleID>248434</WikiTitleID>
+		<RankerScore>0.3230208626969459</RankerScore>
+		<Attributes>airport	airfield	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.3230208626969459</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare,_Chicago</WikiTitle> <WikiTitleID>1589301</WikiTitleID> <RankerScore>0.24004254462149827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_(CTA)</WikiTitle> <WikiTitleID>7232520</WikiTitleID> <RankerScore>0.29608037839847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brendan_O&apos;Hare</WikiTitle> <WikiTitleID>1263246</WikiTitleID> <RankerScore>0.07042810714154293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_(CTA_Blue_Line_O&apos;Hare_branch)</WikiTitle> <WikiTitleID>7275936</WikiTitleID> <RankerScore>0.07042810714154293</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Closes</EntitySurfaceForm>
+	<EntityTextStart>10</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Closes_Vol._1</WikiTitle>
+		<WikiTitleID>2248120</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>United Airlines</EntitySurfaceForm>
+	<EntityTextStart>58</EntityTextStart>
+	<EntityTextEnd>73</EntityTextEnd>
+	<LinkerScore>1.7267954097300717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Airlines</WikiTitle>
+		<WikiTitleID>32307</WikiTitleID>
+		<RankerScore>0.8966621477351663</RankerScore>
+		<Attributes>airline	section	member	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.8966621477351663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UAL_Corporation</WikiTitle> <WikiTitleID>3038280</WikiTitleID> <RankerScore>0.10333785226483368</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>O&apos;Hare International Airport</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>255</EntityTextEnd>
+	<LinkerScore>0.8327827843622881</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>O&apos;Hare_International_Airport</WikiTitle>
+		<WikiTitleID>248434</WikiTitleID>
+		<RankerScore>0.6894513823229298</RankerScore>
+		<Attributes>airport	airfield	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.6894513823229298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare,_Chicago</WikiTitle> <WikiTitleID>1589301</WikiTitleID> <RankerScore>0.31054861767707026</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>O&apos;Hare International</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>247</EntityTextEnd>
+	<LinkerScore>1.0911799706278762</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>O&apos;Hare_International_Airport</WikiTitle>
+		<WikiTitleID>248434</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>airport	airfield	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>O&apos;Hare</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>233</EntityTextEnd>
+	<LinkerScore>0.3433275107143161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>O&apos;Hare_International_Airport</WikiTitle>
+		<WikiTitleID>248434</WikiTitleID>
+		<RankerScore>0.45073760797113566</RankerScore>
+		<Attributes>airport	airfield	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.45073760797113566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare,_Chicago</WikiTitle> <WikiTitleID>1589301</WikiTitleID> <RankerScore>0.24478291531964305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_(CTA)</WikiTitle> <WikiTitleID>7232520</WikiTitleID> <RankerScore>0.1650434251837441</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brendan_O&apos;Hare</WikiTitle> <WikiTitleID>1263246</WikiTitleID> <RankerScore>0.06971802576273863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_(CTA_Blue_Line_O&apos;Hare_branch)</WikiTitle> <WikiTitleID>7275936</WikiTitleID> <RankerScore>0.06971802576273863</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Airport</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>255</EntityTextEnd>
+	<LinkerScore>0.7038206218837155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airport</WikiTitle>
+		<WikiTitleID>37575</WikiTitleID>
+		<RankerScore>0.16950838288753903</RankerScore>
+		<Attributes>airport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airport</WikiTitle> <WikiTitleID>37575</WikiTitleID> <RankerScore>0.16950838288753903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_(film)</WikiTitle> <WikiTitleID>99459</WikiTitleID> <RankerScore>0.060210551156098836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_International_Airport</WikiTitle> <WikiTitleID>248457</WikiTitleID> <RankerScore>0.06422958177265187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_(TV_series)</WikiTitle> <WikiTitleID>1655409</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_(novel)</WikiTitle> <WikiTitleID>1451929</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airtrain_(Brisbane)</WikiTitle> <WikiTitleID>853491</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_(MBTA_station)</WikiTitle> <WikiTitleID>966111</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_Station_(MTR)</WikiTitle> <WikiTitleID>1391191</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jinnah_International_Airport</WikiTitle> <WikiTitleID>4822831</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport,_Roanoke,_Virginia</WikiTitle> <WikiTitleID>17188120</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_(MARTA_station)</WikiTitle> <WikiTitleID>4789665</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sydney_Airport</WikiTitle> <WikiTitleID>266313</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keikyū_Airport_Line</WikiTitle> <WikiTitleID>7234068</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HAL_Bangalore_International_Airport</WikiTitle> <WikiTitleID>1482146</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munich_Airport</WikiTitle> <WikiTitleID>266998</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_Station_(OC_Transpo)</WikiTitle> <WikiTitleID>4354535</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Park_Airport</WikiTitle> <WikiTitleID>2468206</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airport_and_East_Hills_railway_line,_Sydney</WikiTitle> <WikiTitleID>1041357</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hobart_International_Airport</WikiTitle> <WikiTitleID>860952</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pukatawagan_Airport</WikiTitle> <WikiTitleID>3574538</WikiTitleID> <RankerScore>0.0415324402461006</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>479</EntityTextStart>
+	<EntityTextEnd>486</EntityTextEnd>
+	<LinkerScore>0.35001499853826273</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.4166451685977391</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.4166451685977391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.08334446794601987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.2553051179820734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.16136077752814781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.08334446794601987</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago</EntitySurfaceForm>
+	<EntityTextStart>748</EntityTextStart>
+	<EntityTextEnd>755</EntityTextEnd>
+	<LinkerScore>0.8131201149696636</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago</WikiTitle>
+		<WikiTitleID>6886</WikiTitleID>
+		<RankerScore>0.2857558523968072</RankerScore>
+		<Attributes>place	settlement	community	city	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago</WikiTitle> <WikiTitleID>6886</WikiTitleID> <RankerScore>0.2857558523968072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(band)</WikiTitle> <WikiTitleID>168876</WikiTitleID> <RankerScore>0.0458842729735026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(musical)</WikiTitle> <WikiTitleID>213077</WikiTitleID> <RankerScore>0.04385968866299852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(2002_film)</WikiTitle> <WikiTitleID>201534</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Chicago</WikiTitle> <WikiTitleID>32127</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Fire_(soccer)</WikiTitle> <WikiTitleID>245694</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Chicago)</WikiTitle> <WikiTitleID>950469</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Blackhawks</WikiTitle> <WikiTitleID>73126</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bears</WikiTitle> <WikiTitleID>6611</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(magazine)</WikiTitle> <WikiTitleID>11267556</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(That_Toddlin&apos;_Town)</WikiTitle> <WikiTitleID>7197338</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Symphony_Orchestra</WikiTitle> <WikiTitleID>150201</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Rush</WikiTitle> <WikiTitleID>328192</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(album)</WikiTitle> <WikiTitleID>994449</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reisinger</WikiTitle> <WikiTitleID>6779185</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(Prison_Break_episode)</WikiTitle> <WikiTitleID>8483895</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Cubs</WikiTitle> <WikiTitleID>6654</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(1927_film)</WikiTitle> <WikiTitleID>198061</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.03673530505686422</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago police</EntitySurfaceForm>
+	<EntityTextStart>748</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>1.0162541179583804</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago_Police_Department</WikiTitle>
+		<WikiTitleID>753103</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago_Police_Department</WikiTitle> <WikiTitleID>753103</WikiTitleID> <RankerScore>1.2669301787486011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Police_Department</WikiTitle> <WikiTitleID>753103</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>756</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>1.0379017320581871</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago_Police_Department</WikiTitle>
+		<WikiTitleID>753103</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago_Police_Department</WikiTitle> <WikiTitleID>753103</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>staircase</EntitySurfaceForm>
+	<EntityTextStart>928</EntityTextStart>
+	<EntityTextEnd>937</EntityTextEnd>
+	<LinkerScore>0.5577419598793586</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Staircase</WikiTitle>
+		<WikiTitleID>256537</WikiTitleID>
+		<RankerScore>0.44352762512179267</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Staircase</WikiTitle> <WikiTitleID>256537</WikiTitleID> <RankerScore>0.44352762512179267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stairway</WikiTitle> <WikiTitleID>256015</WikiTitleID> <RankerScore>0.22705965067102102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staircase_voltammetry</WikiTitle> <WikiTitleID>14097159</WikiTitleID> <RankerScore>0.17191115374889934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lock_(water_transport)</WikiTitle> <WikiTitleID>165585</WikiTitleID> <RankerScore>0.15750157045828705</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>concourse</EntitySurfaceForm>
+	<EntityTextStart>953</EntityTextStart>
+	<EntityTextEnd>962</EntityTextEnd>
+	<LinkerScore>1.0046646603271912</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Concourse</WikiTitle>
+		<WikiTitleID>1103409</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Concourse</WikiTitle> <WikiTitleID>1103409</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Matthew</EntitySurfaceForm>
+	<EntityTextStart>981</EntityTextStart>
+	<EntityTextEnd>988</EntityTextEnd>
+	<LinkerScore>0.1600063727968472</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gospel_of_Matthew</WikiTitle>
+		<WikiTitleID>12492</WikiTitleID>
+		<RankerScore>0.08216074723569128</RankerScore>
+		<Attributes>book</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gospel_of_Matthew</WikiTitle> <WikiTitleID>12492</WikiTitleID> <RankerScore>0.08216074723569128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_the_Evangelist</WikiTitle> <WikiTitleID>20672</WikiTitleID> <RankerScore>0.05423132122450409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_(ship)</WikiTitle> <WikiTitleID>1833996</WikiTitleID> <RankerScore>0.054039563250142746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_(DC_Comics)</WikiTitle> <WikiTitleID>16904300</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_(name)</WikiTitle> <WikiTitleID>367684</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Nelson</WikiTitle> <WikiTitleID>3172157</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Buchanan</WikiTitle> <WikiTitleID>9222332</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Friedberger</WikiTitle> <WikiTitleID>3026508</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ulmus_parvifolia_&apos;Matthew&apos;</WikiTitle> <WikiTitleID>8032893</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sir_Matthew_Ridley,_3rd_Baronet</WikiTitle> <WikiTitleID>12563818</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Desperate_Housewives_characters</WikiTitle> <WikiTitleID>2384549</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_Storm_Matthew_(2004)</WikiTitle> <WikiTitleID>3990619</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_(d._1199)</WikiTitle> <WikiTitleID>11012964</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Temptation_of_Christ</WikiTitle> <WikiTitleID>2405263</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_of_Alsace</WikiTitle> <WikiTitleID>10178620</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_and_Hunter_Islands</WikiTitle> <WikiTitleID>1832217</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sir_Matthew_Ridley,_2nd_Baronet</WikiTitle> <WikiTitleID>10444288</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sir_Matthew_Ridley,_4th_Baronet</WikiTitle> <WikiTitleID>12563147</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Walton_(cricketer)</WikiTitle> <WikiTitleID>17415043</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Rose_(EastEnders)</WikiTitle> <WikiTitleID>3724134</WikiTitleID> <RankerScore>0.04762166872292129</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>staircase</EntitySurfaceForm>
+	<EntityTextStart>1030</EntityTextStart>
+	<EntityTextEnd>1039</EntityTextEnd>
+	<LinkerScore>0.4270757387435772</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Staircase</WikiTitle>
+		<WikiTitleID>256537</WikiTitleID>
+		<RankerScore>0.42491510474681593</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Staircase</WikiTitle> <WikiTitleID>256537</WikiTitleID> <RankerScore>0.42491510474681593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stairway</WikiTitle> <WikiTitleID>256015</WikiTitleID> <RankerScore>0.21735533629653414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staircase_voltammetry</WikiTitle> <WikiTitleID>14097159</WikiTitleID> <RankerScore>0.18395428176812034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lock_(water_transport)</WikiTitle> <WikiTitleID>165585</WikiTitleID> <RankerScore>0.17377527718852956</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

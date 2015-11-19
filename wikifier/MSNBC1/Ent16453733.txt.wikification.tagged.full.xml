@@ -1,0 +1,1251 @@
+<WikifierOutput>
+<InputFilename>
+Ent16453733.txt
+</InputFilename>
+<InputText>
+Barbara Walters stands by Rosie O’Donnell 
+‘View’ host denies Trump&apos;s claim she wanted comedian off morning show 
+ 
+NEW YORK - Barbara Walters is back from vacation — and she’s standing by Rosie O’Donnell in her bitter battle of words with Donald Trump. 
+ 
+Walters, creator of ABC’s “The View,” said Wednesday on the daytime chat show that she never told Trump she didn’t want O’Donnell on the show, as he has claimed. “Nothing could be further from the truth,” she said. 
+ 
+“She has brought a new vitality to this show and the ratings prove it,” Walters said of O’Donnell, who is on vacation this week. When she returns, Walters said, “We will all welcome her back with open arms.” 
+ 
+Walters also took a moment to smooth things over with The Donald, who got all riled up when O’Donnell said on “The View” that he had been “bankrupt so many times.” 
+ 
+“ABC has asked me to say this just to clarify things, and I will quote: ‘Donald Trump has never filed for personal bankruptcy. Several of his casino companies have filed for business bankruptcies. They are out of bankruptcy now,”’ Walters said. 
+ 
+O’Donnell and Trump have been feuding since he announced last month that Miss USA Tara Conner, whose title had been in jeopardy because of underage drinking, would keep her crown. Trump is the owner of the Miss Universe Organization, which includes Miss USA and Miss Teen USA. 
+ 
+The 44-year-old outspoken moderator of “The View,” who joined the show in September, said Trump’s news conference with Conner had annoyed her “on a multitude of levels” and that the twice-divorced real estate mogul had no right to be “the moral compass for 20-year-olds in America.” 
+ 
+Trump fired back, calling O’Donnell a “loser” and a “bully,” among other insults, in various media interviews. 
+ 
+He is the host of NBC’s “The Apprentice,” which begins its new season Sunday. 
+
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Barbara Walters</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>1.0801312242958758</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Barbara_Walters</WikiTitle>
+		<WikiTitleID>335069</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personality	journalist	person	alumnus	winner	jew	anchor	memoirists	reporter</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barbara_Walters</WikiTitle> <WikiTitleID>335069</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>62</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>0.3932524429592831</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.5086701457826949</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.14599531551951136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.25133144877534214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.5086701457826949</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.0940030899224516</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>comedian</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>0.707085999304796</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Comedian</WikiTitle>
+		<WikiTitleID>179375</WikiTitleID>
+		<RankerScore>0.30537888335761754</RankerScore>
+		<Attributes>comedian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Comedian</WikiTitle> <WikiTitleID>179375</WikiTitleID> <RankerScore>0.30537888335761754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comedy</WikiTitle> <WikiTitleID>6735</WikiTitleID> <RankerScore>0.11072170669993943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stand-up_comedy</WikiTitle> <WikiTitleID>103067</WikiTitleID> <RankerScore>0.14207480370622108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Owarai</WikiTitle> <WikiTitleID>3917812</WikiTitleID> <RankerScore>0.11072170669993943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comics</WikiTitle> <WikiTitleID>145443</WikiTitleID> <RankerScore>0.11072170669993943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stephen_Colbert</WikiTitle> <WikiTitleID>335195</WikiTitleID> <RankerScore>0.10965948613640371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_comedy</WikiTitle> <WikiTitleID>89602</WikiTitleID> <RankerScore>0.11072170669993943</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>116</EntityTextStart>
+	<EntityTextEnd>124</EntityTextEnd>
+	<LinkerScore>0.44512087614901824</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.19476805252617285</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.19476805252617285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.1056057191700901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.043794310152002254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.03857834812657263</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barbara Walters</EntitySurfaceForm>
+	<EntityTextStart>127</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.0687585166695128</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Barbara_Walters</WikiTitle>
+		<WikiTitleID>335069</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>personality	journalist	person	alumnus	winner	jew	anchor	memoirists	reporter</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barbara_Walters</WikiTitle> <WikiTitleID>335069</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>—</EntitySurfaceForm>
+	<EntityTextStart>165</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>—</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Donald Trump</EntitySurfaceForm>
+	<EntityTextStart>240</EntityTextStart>
+	<EntityTextEnd>252</EntityTextEnd>
+	<LinkerScore>1.2772516902795503</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>247</EntityTextStart>
+	<EntityTextEnd>252</EntityTextEnd>
+	<LinkerScore>0.4709371505762593</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.49218669540210236</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.17310067347568484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.2380278482035073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.49218669540210236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.09668478291870529</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chat show</EntitySurfaceForm>
+	<EntityTextStart>325</EntityTextStart>
+	<EntityTextEnd>334</EntityTextEnd>
+	<LinkerScore>0.9878633263090594</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Talk/Chat_show</WikiTitle>
+		<WikiTitleID>87893</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Talk/Chat_show</WikiTitle> <WikiTitleID>87893</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chat</EntitySurfaceForm>
+	<EntityTextStart>325</EntityTextStart>
+	<EntityTextEnd>329</EntityTextEnd>
+	<LinkerScore>0.6247324865493837</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Talk/Chat_show</WikiTitle>
+		<WikiTitleID>87893</WikiTitleID>
+		<RankerScore>0.2377912748432166</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chat_(bird)</WikiTitle> <WikiTitleID>185152</WikiTitleID> <RankerScore>0.14299233472837758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_chat</WikiTitle> <WikiTitleID>174492</WikiTitleID> <RankerScore>0.11312412632024875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chat_room</WikiTitle> <WikiTitleID>38892</WikiTitleID> <RankerScore>0.10121845282163142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Instant_messaging_&amp;_messengers</WikiTitle> <WikiTitleID>55951</WikiTitleID> <RankerScore>0.10121845282163142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khat</WikiTitle> <WikiTitleID>56324</WikiTitleID> <RankerScore>0.10121845282163142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Relay_Chat</WikiTitle> <WikiTitleID>14730</WikiTitleID> <RankerScore>0.10121845282163142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conversation</WikiTitle> <WikiTitleID>228569</WikiTitleID> <RankerScore>0.10121845282163142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk/Chat_show</WikiTitle> <WikiTitleID>87893</WikiTitleID> <RankerScore>0.2377912748432166</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>355</EntityTextStart>
+	<EntityTextEnd>360</EntityTextEnd>
+	<LinkerScore>-0.014742129711930091</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.44801905563405675</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.1689872824280428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.27889535945661725</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.44801905563405675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.10409830248128309</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Donald</EntitySurfaceForm>
+	<EntityTextStart>740</EntityTextStart>
+	<EntityTextEnd>750</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>933</EntityTextStart>
+	<EntityTextEnd>938</EntityTextEnd>
+	<LinkerScore>-0.1782494952446131</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.4236636744796855</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.15169072172729126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.3269753703051107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.4236636744796855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.09767023348791258</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>personal bankruptcy</EntitySurfaceForm>
+	<EntityTextStart>959</EntityTextStart>
+	<EntityTextEnd>978</EntityTextEnd>
+	<LinkerScore>1.0760240428740988</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Personal_bankruptcy</WikiTitle>
+		<WikiTitleID>321206</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Personal_bankruptcy</WikiTitle> <WikiTitleID>321206</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bankruptcy</EntitySurfaceForm>
+	<EntityTextStart>968</EntityTextStart>
+	<EntityTextEnd>978</EntityTextEnd>
+	<LinkerScore>0.47104264123171713</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bankruptcy</WikiTitle>
+		<WikiTitleID>4695</WikiTitleID>
+		<RankerScore>0.4311734592371382</RankerScore>
+		<Attributes>problem</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bankruptcy</WikiTitle> <WikiTitleID>4695</WikiTitleID> <RankerScore>0.4311734592371382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bankruptcy_in_the_United_States</WikiTitle> <WikiTitleID>1327248</WikiTitleID> <RankerScore>0.08086898326299057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chapter_11,_Title_11,_United_States_Code</WikiTitle> <WikiTitleID>7279</WikiTitleID> <RankerScore>0.26092520058789337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bankruptcy_in_the_United_Kingdom</WikiTitle> <WikiTitleID>2744707</WikiTitleID> <RankerScore>0.07567745230399263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insolvency</WikiTitle> <WikiTitleID>1335092</WikiTitleID> <RankerScore>0.07567745230399263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_bankruptcy</WikiTitle> <WikiTitleID>321206</WikiTitleID> <RankerScore>0.07567745230399263</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>casino</EntitySurfaceForm>
+	<EntityTextStart>995</EntityTextStart>
+	<EntityTextEnd>1001</EntityTextEnd>
+	<LinkerScore>1.3221057320143983</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Casino</WikiTitle>
+		<WikiTitleID>5215</WikiTitleID>
+		<RankerScore>0.31388861053885775</RankerScore>
+		<Attributes>casino</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Casino</WikiTitle> <WikiTitleID>5215</WikiTitleID> <RankerScore>0.31388861053885775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Native_American_gambling_enterprises</WikiTitle> <WikiTitleID>58286</WikiTitleID> <RankerScore>0.06128525256348944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Casino_game</WikiTitle> <WikiTitleID>5362</WikiTitleID> <RankerScore>0.058842309785644364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regional_casino</WikiTitle> <WikiTitleID>5963003</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Casino_Regina</WikiTitle> <WikiTitleID>5391526</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pavilion_(structure)</WikiTitle> <WikiTitleID>1358820</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spirit_Mountain_Casino_(Oregon)</WikiTitle> <WikiTitleID>5901942</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cassino_(card_game)</WikiTitle> <WikiTitleID>946852</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Casino_Canberra</WikiTitle> <WikiTitleID>2619144</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Integrated_Resort</WikiTitle> <WikiTitleID>1938040</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gambling</WikiTitle> <WikiTitleID>11921</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Lick_Resort_Casino</WikiTitle> <WikiTitleID>8511510</WikiTitleID> <RankerScore>0.06288709190133426</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bankruptcies</EntitySurfaceForm>
+	<EntityTextStart>1036</EntityTextStart>
+	<EntityTextEnd>1048</EntityTextEnd>
+	<LinkerScore>0.7620756445056411</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bankruptcy</WikiTitle>
+		<WikiTitleID>4695</WikiTitleID>
+		<RankerScore>0.797201862668724</RankerScore>
+		<Attributes>problem</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bankruptcy</WikiTitle> <WikiTitleID>4695</WikiTitleID> <RankerScore>0.797201862668724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bankruptcy_in_the_United_States</WikiTitle> <WikiTitleID>1327248</WikiTitleID> <RankerScore>0.20279813733127608</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bankruptcy</EntitySurfaceForm>
+	<EntityTextStart>1066</EntityTextStart>
+	<EntityTextEnd>1076</EntityTextEnd>
+	<LinkerScore>0.4857690477172444</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bankruptcy</WikiTitle>
+		<WikiTitleID>4695</WikiTitleID>
+		<RankerScore>0.41585785454594415</RankerScore>
+		<Attributes>problem</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bankruptcy</WikiTitle> <WikiTitleID>4695</WikiTitleID> <RankerScore>0.41585785454594415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bankruptcy_in_the_United_States</WikiTitle> <WikiTitleID>1327248</WikiTitleID> <RankerScore>0.09300355111346705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chapter_11,_Title_11,_United_States_Code</WikiTitle> <WikiTitleID>7279</WikiTitleID> <RankerScore>0.24134633771974254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bankruptcy_in_the_United_Kingdom</WikiTitle> <WikiTitleID>2744707</WikiTitleID> <RankerScore>0.08326408554028208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insolvency</WikiTitle> <WikiTitleID>1335092</WikiTitleID> <RankerScore>0.08326408554028208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_bankruptcy</WikiTitle> <WikiTitleID>321206</WikiTitleID> <RankerScore>0.08326408554028208</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>1115</EntityTextStart>
+	<EntityTextEnd>1120</EntityTextEnd>
+	<LinkerScore>-0.07517585924989209</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.44648344655532946</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.16214036881043487</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.28697765913969814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.44648344655532946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.10439852549453764</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>feuding</EntitySurfaceForm>
+	<EntityTextStart>1131</EntityTextStart>
+	<EntityTextEnd>1138</EntityTextEnd>
+	<LinkerScore>0.46346210380401576</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Feud_(professional_wrestling)</WikiTitle>
+		<WikiTitleID>639004</WikiTitleID>
+		<RankerScore>0.6688341673957741</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Feud_(professional_wrestling)</WikiTitle> <WikiTitleID>639004</WikiTitleID> <RankerScore>0.6688341673957741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Feud</WikiTitle> <WikiTitleID>292136</WikiTitleID> <RankerScore>0.33116583260422605</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miss USA</EntitySurfaceForm>
+	<EntityTextStart>1174</EntityTextStart>
+	<EntityTextEnd>1182</EntityTextEnd>
+	<LinkerScore>1.4752330930476034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_USA</WikiTitle>
+		<WikiTitleID>884918</WikiTitleID>
+		<RankerScore>0.710043520382268</RankerScore>
+		<Attributes>show	pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.710043520382268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1995</WikiTitle> <WikiTitleID>10342603</WikiTitleID> <RankerScore>0.09263043868798321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1992</WikiTitle> <WikiTitleID>12045304</WikiTitleID> <RankerScore>0.04676294504255334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1954</WikiTitle> <WikiTitleID>17287265</WikiTitleID> <RankerScore>0.05703720580208865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1996</WikiTitle> <WikiTitleID>9928539</WikiTitleID> <RankerScore>0.04676294504255334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1997</WikiTitle> <WikiTitleID>9847849</WikiTitleID> <RankerScore>0.04676294504255334</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USA</EntitySurfaceForm>
+	<EntityTextStart>1179</EntityTextStart>
+	<EntityTextEnd>1182</EntityTextEnd>
+	<LinkerScore>1.4153787770759936</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_USA</WikiTitle>
+		<WikiTitleID>884918</WikiTitleID>
+		<RankerScore>0.7101109667616509</RankerScore>
+		<Attributes>show	pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.7101109667616509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1995</WikiTitle> <WikiTitleID>10342603</WikiTitleID> <RankerScore>0.09260861805778588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1992</WikiTitle> <WikiTitleID>12045304</WikiTitleID> <RankerScore>0.04675218382313296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1954</WikiTitle> <WikiTitleID>17287265</WikiTitleID> <RankerScore>0.05702386371116443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1996</WikiTitle> <WikiTitleID>9928539</WikiTitleID> <RankerScore>0.04675218382313296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1997</WikiTitle> <WikiTitleID>9847849</WikiTitleID> <RankerScore>0.04675218382313296</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tara Conner</EntitySurfaceForm>
+	<EntityTextStart>1183</EntityTextStart>
+	<EntityTextEnd>1194</EntityTextEnd>
+	<LinkerScore>1.3930901597370589</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tara_Conner</WikiTitle>
+		<WikiTitleID>4407544</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>winner	person	delegate	controversy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tara_Conner</WikiTitle> <WikiTitleID>4407544</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tara</EntitySurfaceForm>
+	<EntityTextStart>1183</EntityTextStart>
+	<EntityTextEnd>1187</EntityTextEnd>
+	<LinkerScore>0.21642055914011263</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hill_of_Tara</WikiTitle>
+		<WikiTitleID>241133</WikiTitleID>
+		<RankerScore>0.07145163217473587</RankerScore>
+		<Attributes>site	attraction	monument	mountain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hill_of_Tara</WikiTitle> <WikiTitleID>241133</WikiTitleID> <RankerScore>0.07145163217473587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_Maclay</WikiTitle> <WikiTitleID>211256</WikiTitleID> <RankerScore>0.05564072055013873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(Buddhism)</WikiTitle> <WikiTitleID>1200064</WikiTitleID> <RankerScore>0.05302282399470604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_River_(Montenegro)</WikiTitle> <WikiTitleID>1465842</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara,_Russia</WikiTitle> <WikiTitleID>1418719</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(Devi)</WikiTitle> <WikiTitleID>432313</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_Mountain</WikiTitle> <WikiTitleID>1441029</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara,_Saga</WikiTitle> <WikiTitleID>469456</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_Plantation</WikiTitle> <WikiTitleID>2544111</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara,_Ontario</WikiTitle> <WikiTitleID>2009356</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_Fremont</WikiTitle> <WikiTitleID>504118</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(Northern_Ireland)</WikiTitle> <WikiTitleID>4468208</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taraka</WikiTitle> <WikiTitleID>373119</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara,_Queensland</WikiTitle> <WikiTitleID>7645739</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_Palmer-Tomkinson</WikiTitle> <WikiTitleID>285056</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(2001_film)</WikiTitle> <WikiTitleID>3310465</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(genus)</WikiTitle> <WikiTitleID>5827154</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(name)</WikiTitle> <WikiTitleID>5850228</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tara_(comics)</WikiTitle> <WikiTitleID>5387289</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Tara</WikiTitle> <WikiTitleID>3113656</WikiTitleID> <RankerScore>0.048228519016495254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>jeopardy</EntitySurfaceForm>
+	<EntityTextStart>1220</EntityTextStart>
+	<EntityTextEnd>1228</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jeopardy!</WikiTitle>
+		<WikiTitleID>156743</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>show	ending	game	program</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>underage drinking</EntitySurfaceForm>
+	<EntityTextStart>1240</EntityTextStart>
+	<EntityTextEnd>1257</EntityTextEnd>
+	<LinkerScore>1.0595524715434919</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Legal_drinking_age</WikiTitle>
+		<WikiTitleID>1015583</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Legal_drinking_age</WikiTitle> <WikiTitleID>1015583</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>1281</EntityTextStart>
+	<EntityTextEnd>1286</EntityTextEnd>
+	<LinkerScore>0.5321433937997874</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.5396961318235516</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.13962195567285893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.23078248519963437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.5396961318235516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.08989942730395516</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miss Universe</EntitySurfaceForm>
+	<EntityTextStart>1307</EntityTextStart>
+	<EntityTextEnd>1320</EntityTextEnd>
+	<LinkerScore>1.665627976264086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_Universe</WikiTitle>
+		<WikiTitleID>150340</WikiTitleID>
+		<RankerScore>0.3857426422279699</RankerScore>
+		<Attributes>show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_Universe</WikiTitle> <WikiTitleID>150340</WikiTitleID> <RankerScore>0.3857426422279699</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1992</WikiTitle> <WikiTitleID>6698534</WikiTitleID> <RankerScore>0.05666467331199104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1982</WikiTitle> <WikiTitleID>6741682</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1993</WikiTitle> <WikiTitleID>6698510</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2007</WikiTitle> <WikiTitleID>6116441</WikiTitleID> <RankerScore>0.060407932800995705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1994</WikiTitle> <WikiTitleID>6698483</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1995</WikiTitle> <WikiTitleID>6659194</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1987</WikiTitle> <WikiTitleID>6614841</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1981</WikiTitle> <WikiTitleID>6744989</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1997</WikiTitle> <WikiTitleID>5984255</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2000</WikiTitle> <WikiTitleID>6635817</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1989</WikiTitle> <WikiTitleID>6614748</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1986</WikiTitle> <WikiTitleID>6732856</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2002</WikiTitle> <WikiTitleID>6611509</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1996</WikiTitle> <WikiTitleID>6651851</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1990</WikiTitle> <WikiTitleID>6703114</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2009</WikiTitle> <WikiTitleID>16783562</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1954</WikiTitle> <WikiTitleID>14711928</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2006</WikiTitle> <WikiTitleID>4868875</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miss Universe Organization</EntitySurfaceForm>
+	<EntityTextStart>1307</EntityTextStart>
+	<EntityTextEnd>1333</EntityTextEnd>
+	<LinkerScore>1.302166324587062</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_Universe_Organization</WikiTitle>
+		<WikiTitleID>1130367</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_Universe_Organization</WikiTitle> <WikiTitleID>1130367</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Universe</EntitySurfaceForm>
+	<EntityTextStart>1312</EntityTextStart>
+	<EntityTextEnd>1320</EntityTextEnd>
+	<LinkerScore>1.665627976264086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_Universe</WikiTitle>
+		<WikiTitleID>150340</WikiTitleID>
+		<RankerScore>0.3857426422279699</RankerScore>
+		<Attributes>show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_Universe</WikiTitle> <WikiTitleID>150340</WikiTitleID> <RankerScore>0.3857426422279699</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1992</WikiTitle> <WikiTitleID>6698534</WikiTitleID> <RankerScore>0.05666467331199104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1982</WikiTitle> <WikiTitleID>6741682</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1993</WikiTitle> <WikiTitleID>6698510</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2007</WikiTitle> <WikiTitleID>6116441</WikiTitleID> <RankerScore>0.060407932800995705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1994</WikiTitle> <WikiTitleID>6698483</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1995</WikiTitle> <WikiTitleID>6659194</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1987</WikiTitle> <WikiTitleID>6614841</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1981</WikiTitle> <WikiTitleID>6744989</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1997</WikiTitle> <WikiTitleID>5984255</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2000</WikiTitle> <WikiTitleID>6635817</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1989</WikiTitle> <WikiTitleID>6614748</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1986</WikiTitle> <WikiTitleID>6732856</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2002</WikiTitle> <WikiTitleID>6611509</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1996</WikiTitle> <WikiTitleID>6651851</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1990</WikiTitle> <WikiTitleID>6703114</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2009</WikiTitle> <WikiTitleID>16783562</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_1954</WikiTitle> <WikiTitleID>14711928</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_2006</WikiTitle> <WikiTitleID>4868875</WikiTitleID> <RankerScore>0.03107404697869021</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miss USA</EntitySurfaceForm>
+	<EntityTextStart>1350</EntityTextStart>
+	<EntityTextEnd>1358</EntityTextEnd>
+	<LinkerScore>1.3300725295874012</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_USA</WikiTitle>
+		<WikiTitleID>884918</WikiTitleID>
+		<RankerScore>0.7067427123250274</RankerScore>
+		<Attributes>show	pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.7067427123250274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1995</WikiTitle> <WikiTitleID>10342603</WikiTitleID> <RankerScore>0.026010033772863594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1992</WikiTitle> <WikiTitleID>12045304</WikiTitleID> <RankerScore>0.026010033772863594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1954</WikiTitle> <WikiTitleID>17287265</WikiTitleID> <RankerScore>0.10412873998731478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1996</WikiTitle> <WikiTitleID>9928539</WikiTitleID> <RankerScore>0.11109844636906697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1997</WikiTitle> <WikiTitleID>9847849</WikiTitleID> <RankerScore>0.026010033772863594</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USA</EntitySurfaceForm>
+	<EntityTextStart>1355</EntityTextStart>
+	<EntityTextEnd>1358</EntityTextEnd>
+	<LinkerScore>1.260784344185851</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_USA</WikiTitle>
+		<WikiTitleID>884918</WikiTitleID>
+		<RankerScore>0.7045455073163321</RankerScore>
+		<Attributes>show	pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.7045455073163321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1995</WikiTitle> <WikiTitleID>10342603</WikiTitleID> <RankerScore>0.02619635656651539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1992</WikiTitle> <WikiTitleID>12045304</WikiTitleID> <RankerScore>0.02619635656651539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1954</WikiTitle> <WikiTitleID>17287265</WikiTitleID> <RankerScore>0.10491423778228103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1996</WikiTitle> <WikiTitleID>9928539</WikiTitleID> <RankerScore>0.11195118520184061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA_1997</WikiTitle> <WikiTitleID>9847849</WikiTitleID> <RankerScore>0.02619635656651539</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miss Teen USA</EntitySurfaceForm>
+	<EntityTextStart>1363</EntityTextStart>
+	<EntityTextEnd>1376</EntityTextEnd>
+	<LinkerScore>1.4430888557313593</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_Teen_USA</WikiTitle>
+		<WikiTitleID>974311</WikiTitleID>
+		<RankerScore>0.8123501639682175</RankerScore>
+		<Attributes>pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miss_Teen_USA</WikiTitle> <WikiTitleID>974311</WikiTitleID> <RankerScore>0.8123501639682175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Teen_USA_1991</WikiTitle> <WikiTitleID>12002754</WikiTitleID> <RankerScore>0.10395813380945344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Tennessee_Teen_USA</WikiTitle> <WikiTitleID>974338</WikiTitleID> <RankerScore>0.08369170222232906</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USA</EntitySurfaceForm>
+	<EntityTextStart>1373</EntityTextStart>
+	<EntityTextEnd>1376</EntityTextEnd>
+	<LinkerScore>0.6671358098438247</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miss_USA</WikiTitle>
+		<WikiTitleID>884918</WikiTitleID>
+		<RankerScore>0.2138527144644868</RankerScore>
+		<Attributes>show	pageant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.13978746791820304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Space_Alliance</WikiTitle> <WikiTitleID>3575579</WikiTitleID> <RankerScore>0.04580025652580312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.2138527144644868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_cricket_team</WikiTitle> <WikiTitleID>980450</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USA_Network</WikiTitle> <WikiTitleID>77826</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_league_team</WikiTitle> <WikiTitleID>1164082</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>912874</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_USA</WikiTitle> <WikiTitleID>2164858</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_speedway_team</WikiTitle> <WikiTitleID>12529464</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>89611</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USA_(album)</WikiTitle> <WikiTitleID>993725</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_United_States</WikiTitle> <WikiTitleID>63876</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_American_football_team</WikiTitle> <WikiTitleID>6339980</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7392631</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>7129278</WikiTitleID> <RankerScore>0.035327033005382764</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>outspoken</EntitySurfaceForm>
+	<EntityTextStart>1397</EntityTextStart>
+	<EntityTextEnd>1406</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>OutSPOKEN</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>moderator</EntitySurfaceForm>
+	<EntityTextStart>1407</EntityTextStart>
+	<EntityTextEnd>1416</EntityTextEnd>
+	<LinkerScore>-0.4704234829286224</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Neutron_moderator</WikiTitle>
+		<WikiTitleID>188896</WikiTitleID>
+		<RankerScore>0.09870657661683867</RankerScore>
+		<Attributes>moderator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Neutron_moderator</WikiTitle> <WikiTitleID>188896</WikiTitleID> <RankerScore>0.09870657661683867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forum_moderator</WikiTitle> <WikiTitleID>2010221</WikiTitleID> <RankerScore>0.09053161408994004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moderator_of_the_General_Assembly</WikiTitle> <WikiTitleID>2224779</WikiTitleID> <RankerScore>0.09617685397598504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chair_(official)</WikiTitle> <WikiTitleID>3452243</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Master_of_Ceremonies</WikiTitle> <WikiTitleID>1217327</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moderator_of_the_General_Assembly_of_the_Church_of_Scotland</WikiTitle> <WikiTitleID>1682048</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moderators_and_clerks_in_the_Church_of_Scotland</WikiTitle> <WikiTitleID>3158529</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_governor</WikiTitle> <WikiTitleID>2246691</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_presenter</WikiTitle> <WikiTitleID>156746</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moderate</WikiTitle> <WikiTitleID>650414</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moderator_of_the_Presbyterian_Church_in_Ireland</WikiTitle> <WikiTitleID>5421078</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presbyterian_polity</WikiTitle> <WikiTitleID>58926</WikiTitleID> <RankerScore>0.07939832836858181</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>real estate</EntitySurfaceForm>
+	<EntityTextStart>1578</EntityTextStart>
+	<EntityTextEnd>1589</EntityTextEnd>
+	<LinkerScore>1.1784412758707092</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Real_estate</WikiTitle>
+		<WikiTitleID>63089</WikiTitleID>
+		<RankerScore>0.6413166915783187</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Real_estate</WikiTitle> <WikiTitleID>63089</WikiTitleID> <RankerScore>0.6413166915783187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_property</WikiTitle> <WikiTitleID>26277</WikiTitleID> <RankerScore>0.09605651582797975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real-estate_developer</WikiTitle> <WikiTitleID>440254</WikiTitleID> <RankerScore>0.16505082183221675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_estate_broker</WikiTitle> <WikiTitleID>440273</WikiTitleID> <RankerScore>0.09757597076148475</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mogul</EntitySurfaceForm>
+	<EntityTextStart>1590</EntityTextStart>
+	<EntityTextEnd>1595</EntityTextEnd>
+	<LinkerScore>0.8313656429988854</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Business_magnate</WikiTitle>
+		<WikiTitleID>416486</WikiTitleID>
+		<RankerScore>0.5402279378298409</RankerScore>
+		<Attributes>occupation	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Business_magnate</WikiTitle> <WikiTitleID>416486</WikiTitleID> <RankerScore>0.5402279378298409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mogul_skiing</WikiTitle> <WikiTitleID>6759160</WikiTitleID> <RankerScore>0.161364841658264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Media_proprietor</WikiTitle> <WikiTitleID>182948</WikiTitleID> <RankerScore>0.14704613035536507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2-6-0</WikiTitle> <WikiTitleID>1089049</WikiTitleID> <RankerScore>0.15136109015653004</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Trump</EntitySurfaceForm>
+	<EntityTextStart>1667</EntityTextStart>
+	<EntityTextEnd>1672</EntityTextEnd>
+	<LinkerScore>0.4094004485114616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Donald_Trump</WikiTitle>
+		<WikiTitleID>4848272</WikiTitleID>
+		<RankerScore>0.5425175366835363</RankerScore>
+		<Attributes>writer	person	alumnus	businesspeople	catholic	host	executive	candidate	participant	billionaire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Trump_(magazine)</WikiTitle> <WikiTitleID>489947</WikiTitleID> <RankerScore>0.13684158568020563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump</WikiTitle> <WikiTitleID>253639</WikiTitleID> <RankerScore>0.232531667843783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donald_Trump</WikiTitle> <WikiTitleID>4848272</WikiTitleID> <RankerScore>0.5425175366835363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trump_(card_games)</WikiTitle> <WikiTitleID>6509278</WikiTitleID> <RankerScore>0.08810920979247518</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

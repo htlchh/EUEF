@@ -1,0 +1,1332 @@
+<WikifierOutput>
+<InputFilename>
+Tra16454203.txt
+</InputFilename>
+<InputText>
+Thousands of holiday travelers without luggage 
+Fog, technical glitch at London&apos;s Heathrow Airport snarls baggage system 
+ 
+LONDON - Thousands of airline passengers still have not received their luggage after fog disrupted flights at London&apos;s Heathrow Airport late last year, airline officials said Wednesday. 
+ 
+The chaos was compounded when faults developed with a baggage belt at Heathrow&apos;s Terminal 4, said British Airways, the airline that was worst affected. 
+ 
+BA said Wednesday it still had &quot;several thousand&quot; bags that have not been delivered to their owners. 
+ 
+Many are still stacked at Heathrow&apos;s Terminal 1 and Terminal 4, and BA is now using freight planes and volunteers to deliver them to their owners. 
+ 
+The problem began before the Christmas holiday with a fault on a baggage belt at Terminal 4, a BA spokesman said on condition of anonymity. That caused an initial backlog, and about 8,000 bags were not delivered, he said. 
+ 
+The fog at Heathrow caused further problems, and there was another Terminal 4 baggage belt problem on Dec. 29 — leading to about 10,000 bags being undelivered, the spokesman said. 
+ 
+Over the holiday season, the airline dealt with about 75,000 bags a day at Heathrow and handled about 1 million passengers, the spokesman said. 
+ 
+The baggage problem coincided with changes in working practices for BA baggage handlers at Terminals 1 and 4, before the airline&apos;s planned move to Terminal 5 in March 2008, he said. 
+
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Thousands</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>9</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>luggage</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>0.8440670594500186</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Luggage</WikiTitle>
+		<WikiTitleID>979665</WikiTitleID>
+		<RankerScore>0.7612467951235362</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Luggage</WikiTitle> <WikiTitleID>979665</WikiTitleID> <RankerScore>0.7612467951235362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Luggage</WikiTitle> <WikiTitleID>639550</WikiTitleID> <RankerScore>0.23875320487646384</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fog</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>0.5029797456766327</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fog</WikiTitle>
+		<WikiTitleID>58991</WikiTitleID>
+		<RankerScore>0.27139061488816324</RankerScore>
+		<Attributes>hazard	accident	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fog</WikiTitle> <WikiTitleID>58991</WikiTitleID> <RankerScore>0.27139061488816324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fog_(band)</WikiTitle> <WikiTitleID>10249125</WikiTitleID> <RankerScore>0.22409086012441423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fog_(album)</WikiTitle> <WikiTitleID>16008528</WikiTitleID> <RankerScore>0.19191049299898114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bakersfield_Condors</WikiTitle> <WikiTitleID>1888165</WikiTitleID> <RankerScore>0.1563040159942207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knives_Out</WikiTitle> <WikiTitleID>1462102</WikiTitleID> <RankerScore>0.1563040159942207</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>glitch</EntitySurfaceForm>
+	<EntityTextStart>63</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>0.8776842126417238</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Glitch</WikiTitle>
+		<WikiTitleID>310005</WikiTitleID>
+		<RankerScore>0.5838718262280308</RankerScore>
+		<Attributes>loanword	electronics	error</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Glitch</WikiTitle> <WikiTitleID>310005</WikiTitleID> <RankerScore>0.5838718262280308</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glitch_(music)</WikiTitle> <WikiTitleID>233469</WikiTitleID> <RankerScore>0.4161281737719692</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>79</EntityTextEnd>
+	<LinkerScore>0.9628431748310771</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.23783882918910196</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.23783882918910196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.03919007622555783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.0893777262856768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.03727019813527431</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London&apos;s Heathrow Airport</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>1.0940033872379855</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>82</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.6648777311614427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.4172863900274775</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.4172863900274775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.24676010297664655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.26189535426521793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.07405815273065787</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow Airport</EntitySurfaceForm>
+	<EntityTextStart>82</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.5728331821773974</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.43893620599221284</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.43893620599221284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Central_railway_station</WikiTitle> <WikiTitleID>2266292</WikiTitleID> <RankerScore>0.32624951744705993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.23481427656072715</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Airport</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.5167212103874846</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Central_railway_station</WikiTitle>
+		<WikiTitleID>2266292</WikiTitleID>
+		<RankerScore>0.5183425004244282</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.320448293234335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Central_railway_station</WikiTitle> <WikiTitleID>2266292</WikiTitleID> <RankerScore>0.5183425004244282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.16120920634123684</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>124</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>0.12275240104280985</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.5704718631858818</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.42952813681411833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.5704718631858818</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thousands</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>146</EntityTextStart>
+	<EntityTextEnd>153</EntityTextEnd>
+	<LinkerScore>0.5443266156763916</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.39722201954129616</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.39722201954129616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.10091340336480586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.2556217754215993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.14532939830749278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.10091340336480586</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>luggage</EntitySurfaceForm>
+	<EntityTextStart>195</EntityTextStart>
+	<EntityTextEnd>202</EntityTextEnd>
+	<LinkerScore>1.3656598296011782</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Luggage</WikiTitle>
+		<WikiTitleID>979665</WikiTitleID>
+		<RankerScore>0.7993706670285684</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Luggage</WikiTitle> <WikiTitleID>979665</WikiTitleID> <RankerScore>0.7993706670285684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Luggage</WikiTitle> <WikiTitleID>639550</WikiTitleID> <RankerScore>0.2006293329714316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fog</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>212</EntityTextEnd>
+	<LinkerScore>0.9924695134672744</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fog</WikiTitle>
+		<WikiTitleID>58991</WikiTitleID>
+		<RankerScore>0.4792135689690063</RankerScore>
+		<Attributes>hazard	accident	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fog</WikiTitle> <WikiTitleID>58991</WikiTitleID> <RankerScore>0.4792135689690063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distance_fog</WikiTitle> <WikiTitleID>304557</WikiTitleID> <RankerScore>0.2598484580527673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fogging_(photography)</WikiTitle> <WikiTitleID>4647383</WikiTitleID> <RankerScore>0.2609379729782264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London&apos;s Heathrow Airport</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>259</EntityTextEnd>
+	<LinkerScore>1.1656449031386247</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>240</EntityTextEnd>
+	<LinkerScore>0.7569882003663699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.23109606169990282</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.23109606169990282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.03737777065202801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.12861926349114078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.03546511200923108</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>243</EntityTextStart>
+	<EntityTextEnd>251</EntityTextEnd>
+	<LinkerScore>0.7806807707916452</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.484162841957794</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.484162841957794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.22130951844890426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.22948689120057136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.06504074839273037</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow Airport</EntitySurfaceForm>
+	<EntityTextStart>243</EntityTextStart>
+	<EntityTextEnd>259</EntityTextEnd>
+	<LinkerScore>0.6223059374226652</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.48324206948949566</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.48324206948949566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Central_railway_station</WikiTitle> <WikiTitleID>2266292</WikiTitleID> <RankerScore>0.3094021820370469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.20735574847345742</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Airport</EntitySurfaceForm>
+	<EntityTextStart>252</EntityTextStart>
+	<EntityTextEnd>259</EntityTextEnd>
+	<LinkerScore>0.4751257918000572</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Central_railway_station</WikiTitle>
+		<WikiTitleID>2266292</WikiTitleID>
+		<RankerScore>0.5309606055236478</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.33266147107482147</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Central_railway_station</WikiTitle> <WikiTitleID>2266292</WikiTitleID> <RankerScore>0.5309606055236478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.1363779234015308</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>276</EntityTextStart>
+	<EntityTextEnd>283</EntityTextEnd>
+	<LinkerScore>0.2667243043959605</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.38345306923068756</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.38345306923068756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.08960883984330549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.28163545288800024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.15569379819470114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.08960883984330549</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chaos</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>322</EntityTextEnd>
+	<LinkerScore>-0.08024007265748442</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chaos_(Xenosaga)</WikiTitle>
+		<WikiTitleID>1516294</WikiTitleID>
+		<RankerScore>0.24849539705382653</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chaos_(Xenosaga)</WikiTitle> <WikiTitleID>1516294</WikiTitleID> <RankerScore>0.24849539705382653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chaos_theory</WikiTitle> <WikiTitleID>6295</WikiTitleID> <RankerScore>0.19346630798936096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chaos_(mythology)</WikiTitle> <WikiTitleID>728004</WikiTitleID> <RankerScore>0.18070027032135058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attractor</WikiTitle> <WikiTitleID>191094</WikiTitleID> <RankerScore>0.18866901231773098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chaos_(physics)</WikiTitle> <WikiTitleID>7876079</WikiTitleID> <RankerScore>0.18866901231773098</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>faults</EntitySurfaceForm>
+	<EntityTextStart>343</EntityTextStart>
+	<EntityTextEnd>349</EntityTextEnd>
+	<LinkerScore>0.47930294215362956</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fault_(geology)</WikiTitle>
+		<WikiTitleID>182787</WikiTitleID>
+		<RankerScore>0.30571627929411954</RankerScore>
+		<Attributes>fault</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fault_(geology)</WikiTitle> <WikiTitleID>182787</WikiTitleID> <RankerScore>0.30571627929411954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fault_(technology)</WikiTitle> <WikiTitleID>4685393</WikiTitleID> <RankerScore>0.17170481014891503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fault_(dog)</WikiTitle> <WikiTitleID>798084</WikiTitleID> <RankerScore>0.1863524487686793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_bug</WikiTitle> <WikiTitleID>37085</WikiTitleID> <RankerScore>0.1681132308941431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wine_fault</WikiTitle> <WikiTitleID>3031996</WikiTitleID> <RankerScore>0.1681132308941431</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>baggage belt</EntitySurfaceForm>
+	<EntityTextStart>367</EntityTextStart>
+	<EntityTextEnd>379</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conveyor_belt</WikiTitle>
+		<WikiTitleID>51734</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>383</EntityTextStart>
+	<EntityTextEnd>391</EntityTextEnd>
+	<LinkerScore>0.3145151256696863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.44961726007128217</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.44961726007128217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.2583466805004861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.22927033173378658</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.06276572769444505</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terminal 4</EntitySurfaceForm>
+	<EntityTextStart>394</EntityTextStart>
+	<EntityTextEnd>404</EntityTextEnd>
+	<LinkerScore>-0.09431574488177703</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle>
+		<WikiTitleID>4074987</WikiTitleID>
+		<RankerScore>0.5100917883221757</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_tube_station</WikiTitle> <WikiTitleID>811356</WikiTitleID> <RankerScore>0.4899082116778242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle> <WikiTitleID>4074987</WikiTitleID> <RankerScore>0.5100917883221757</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British</EntitySurfaceForm>
+	<EntityTextStart>411</EntityTextStart>
+	<EntityTextEnd>418</EntityTextEnd>
+	<LinkerScore>0.5510489140873016</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.14364811331375632</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.14364811331375632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.04804868440040496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.04620380781504382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Raj</WikiTitle> <WikiTitleID>4208015</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_English</WikiTitle> <WikiTitleID>4179</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_Kingdom</WikiTitle> <WikiTitleID>10793</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Armed_Forces</WikiTitle> <WikiTitleID>31730</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honourable_East_India_Company</WikiTitle> <WikiTitleID>43281</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Her_Majesty&apos;s_Government</WikiTitle> <WikiTitleID>334930</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_Kingdom</WikiTitle> <WikiTitleID>182410</WikiTitleID> <RankerScore>0.044829376145340875</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British Airways</EntitySurfaceForm>
+	<EntityTextStart>411</EntityTextStart>
+	<EntityTextEnd>426</EntityTextEnd>
+	<LinkerScore>1.710619320125077</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>British_Airways</WikiTitle>
+		<WikiTitleID>3970</WikiTitleID>
+		<RankerScore>0.8292223202229481</RankerScore>
+		<Attributes>airline	brand	airway	company	industry	member	conviction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>British_Airways</WikiTitle> <WikiTitleID>3970</WikiTitleID> <RankerScore>0.8292223202229481</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Airways_Ltd.</WikiTitle> <WikiTitleID>613864</WikiTitleID> <RankerScore>0.0796419224882263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centrica</WikiTitle> <WikiTitleID>1465521</WikiTitleID> <RankerScore>0.09113575728882568</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>432</EntityTextStart>
+	<EntityTextEnd>439</EntityTextEnd>
+	<LinkerScore>0.2574739132553219</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.4203593577717987</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.4203593577717987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.07833355610160814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.2930823237618177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.12989120626316739</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.07833355610160814</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>598</EntityTextStart>
+	<EntityTextEnd>606</EntityTextEnd>
+	<LinkerScore>0.09107899701795309</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.4039674541332716</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.4039674541332716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.3037914127313024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.22929359920411937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.06294753393130657</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terminal 4</EntitySurfaceForm>
+	<EntityTextStart>624</EntityTextStart>
+	<EntityTextEnd>634</EntityTextEnd>
+	<LinkerScore>0.9155631502816716</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Terminal_4_tube_station</WikiTitle>
+		<WikiTitleID>811356</WikiTitleID>
+		<RankerScore>0.5798156222557236</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_tube_station</WikiTitle> <WikiTitleID>811356</WikiTitleID> <RankerScore>0.5798156222557236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle> <WikiTitleID>4074987</WikiTitleID> <RankerScore>0.42018437774427636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Christmas</EntitySurfaceForm>
+	<EntityTextStart>751</EntityTextStart>
+	<EntityTextEnd>760</EntityTextEnd>
+	<LinkerScore>0.8745313672114662</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Christmas</WikiTitle>
+		<WikiTitleID>6237</WikiTitleID>
+		<RankerScore>0.17796253763030534</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Christmas</WikiTitle> <WikiTitleID>6237</WikiTitleID> <RankerScore>0.17796253763030534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_music</WikiTitle> <WikiTitleID>153569</WikiTitleID> <RankerScore>0.0662905383667889</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas,_Florida</WikiTitle> <WikiTitleID>109527</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_Island</WikiTitle> <WikiTitleID>5500</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>December_25</WikiTitle> <WikiTitleID>8270</WikiTitleID> <RankerScore>0.04122719095027833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas,_Michigan</WikiTitle> <WikiTitleID>1570081</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Rebecca_St._James_album)</WikiTitle> <WikiTitleID>4908085</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Oak_Ridge_Boys_album)</WikiTitle> <WikiTitleID>18444712</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Old_Man_Gloom_album)</WikiTitle> <WikiTitleID>9320421</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmastide</WikiTitle> <WikiTitleID>572380</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Chris_Isaak_album)</WikiTitle> <WikiTitleID>2592510</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Hillsong_album)</WikiTitle> <WikiTitleID>1569871</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Kimberley_Locke_album)</WikiTitle> <WikiTitleID>13054392</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_in_the_media</WikiTitle> <WikiTitleID>1276990</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_number-one_singles_in_the_UK</WikiTitle> <WikiTitleID>153842</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Jorma_Kaukonen_album)</WikiTitle> <WikiTitleID>18389631</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baptist_War</WikiTitle> <WikiTitleID>887551</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_(Jaci_Velasquez_album)</WikiTitle> <WikiTitleID>13407745</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Symphony_No._2_(Penderecki)</WikiTitle> <WikiTitleID>18592441</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_carol</WikiTitle> <WikiTitleID>153568</WikiTitleID> <RankerScore>0.04203057253250749</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fault</EntitySurfaceForm>
+	<EntityTextStart>776</EntityTextStart>
+	<EntityTextEnd>781</EntityTextEnd>
+	<LinkerScore>0.5772668603641614</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fault_(geology)</WikiTitle>
+		<WikiTitleID>182787</WikiTitleID>
+		<RankerScore>0.20937849357444796</RankerScore>
+		<Attributes>fault</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fault_(geology)</WikiTitle> <WikiTitleID>182787</WikiTitleID> <RankerScore>0.20937849357444796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fault_(technology)</WikiTitle> <WikiTitleID>4685393</WikiTitleID> <RankerScore>0.14276995042445162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fault_(power_engineering)</WikiTitle> <WikiTitleID>6499752</WikiTitleID> <RankerScore>0.15041259434860746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Xbox_360_technical_problems</WikiTitle> <WikiTitleID>6035530</WikiTitleID> <RankerScore>0.12435974041312321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interrupt</WikiTitle> <WikiTitleID>15289</WikiTitleID> <RankerScore>0.12435974041312321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culpability</WikiTitle> <WikiTitleID>568895</WikiTitleID> <RankerScore>0.12435974041312321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Short_circuit</WikiTitle> <WikiTitleID>235898</WikiTitleID> <RankerScore>0.12435974041312321</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>baggage belt</EntitySurfaceForm>
+	<EntityTextStart>787</EntityTextStart>
+	<EntityTextEnd>799</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conveyor_belt</WikiTitle>
+		<WikiTitleID>51734</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terminal 4</EntitySurfaceForm>
+	<EntityTextStart>803</EntityTextStart>
+	<EntityTextEnd>813</EntityTextEnd>
+	<LinkerScore>-0.17105013363167346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle>
+		<WikiTitleID>4074987</WikiTitleID>
+		<RankerScore>0.5072601150971292</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_tube_station</WikiTitle> <WikiTitleID>811356</WikiTitleID> <RankerScore>0.49273988490287085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle> <WikiTitleID>4074987</WikiTitleID> <RankerScore>0.5072601150971292</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>anonymity</EntitySurfaceForm>
+	<EntityTextStart>851</EntityTextStart>
+	<EntityTextEnd>860</EntityTextEnd>
+	<LinkerScore>0.43285588869304253</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anonymity</WikiTitle>
+		<WikiTitleID>181382</WikiTitleID>
+		<RankerScore>0.5110606560342754</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anonymity</WikiTitle> <WikiTitleID>181382</WikiTitleID> <RankerScore>0.5110606560342754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anonymous_P2P</WikiTitle> <WikiTitleID>454322</WikiTitleID> <RankerScore>0.24748606999271924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_privacy</WikiTitle> <WikiTitleID>1228060</WikiTitleID> <RankerScore>0.24145327397300537</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fog</EntitySurfaceForm>
+	<EntityTextStart>951</EntityTextStart>
+	<EntityTextEnd>954</EntityTextEnd>
+	<LinkerScore>0.9956316683837118</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fog</WikiTitle>
+		<WikiTitleID>58991</WikiTitleID>
+		<RankerScore>0.49024148420480185</RankerScore>
+		<Attributes>hazard	accident	phenomenon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fog</WikiTitle> <WikiTitleID>58991</WikiTitleID> <RankerScore>0.49024148420480185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Distance_fog</WikiTitle> <WikiTitleID>304557</WikiTitleID> <RankerScore>0.2542071514891812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fogging_(photography)</WikiTitle> <WikiTitleID>4647383</WikiTitleID> <RankerScore>0.25555136430601705</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>958</EntityTextStart>
+	<EntityTextEnd>966</EntityTextEnd>
+	<LinkerScore>0.13620985168107555</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.34325636718643565</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.34325636718643565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.2816999482426017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.2945023008863064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.08054138368465621</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terminal 4</EntitySurfaceForm>
+	<EntityTextStart>1014</EntityTextStart>
+	<EntityTextEnd>1024</EntityTextEnd>
+	<LinkerScore>-0.1464367284452108</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle>
+		<WikiTitleID>4074987</WikiTitleID>
+		<RankerScore>0.5122665941418919</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_tube_station</WikiTitle> <WikiTitleID>811356</WikiTitleID> <RankerScore>0.487733405858108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_4_railway_station</WikiTitle> <WikiTitleID>4074987</WikiTitleID> <RankerScore>0.5122665941418919</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>baggage belt</EntitySurfaceForm>
+	<EntityTextStart>1025</EntityTextStart>
+	<EntityTextEnd>1037</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conveyor_belt</WikiTitle>
+		<WikiTitleID>51734</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>belt problem</EntitySurfaceForm>
+	<EntityTextStart>1033</EntityTextStart>
+	<EntityTextEnd>1045</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belt_problem</WikiTitle>
+		<WikiTitleID>11127382</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dec. 29</EntitySurfaceForm>
+	<EntityTextStart>1049</EntityTextStart>
+	<EntityTextEnd>1056</EntityTextEnd>
+	<LinkerScore>0.880790228123404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>December_29</WikiTitle>
+		<WikiTitleID>8893</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>December_29</WikiTitle> <WikiTitleID>8893</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>—</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1058</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>—</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>holiday season</EntitySurfaceForm>
+	<EntityTextStart>1139</EntityTextStart>
+	<EntityTextEnd>1153</EntityTextEnd>
+	<LinkerScore>1.0645653243582585</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Christmas_and_holiday_season</WikiTitle>
+		<WikiTitleID>6772172</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Christmas_and_holiday_season</WikiTitle> <WikiTitleID>6772172</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>1159</EntityTextStart>
+	<EntityTextEnd>1166</EntityTextEnd>
+	<LinkerScore>0.08295205457195651</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.36580119601456756</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.36580119601456756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.10613386360455843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.28246726087404556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.13946381590227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.10613386360455843</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heathrow</EntitySurfaceForm>
+	<EntityTextStart>1205</EntityTextStart>
+	<EntityTextEnd>1213</EntityTextEnd>
+	<LinkerScore>0.3664678226349465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Heathrow_Airport</WikiTitle>
+		<WikiTitleID>13595</WikiTitleID>
+		<RankerScore>0.37383642586253807</RankerScore>
+		<Attributes>airport	project	attraction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.37383642586253807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminals_1,_2,_3_tube_station</WikiTitle> <WikiTitleID>811350</WikiTitleID> <RankerScore>0.26089122619655214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_London</WikiTitle> <WikiTitleID>94089</WikiTitleID> <RankerScore>0.286898107109084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow,_Florida</WikiTitle> <WikiTitleID>109776</WikiTitleID> <RankerScore>0.07837424083182583</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airline</EntitySurfaceForm>
+	<EntityTextStart>1398</EntityTextStart>
+	<EntityTextEnd>1405</EntityTextEnd>
+	<LinkerScore>0.06204723652687408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airline</WikiTitle>
+		<WikiTitleID>1942</WikiTitleID>
+		<RankerScore>0.3659572516182121</RankerScore>
+		<Attributes>airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airline</WikiTitle> <WikiTitleID>1942</WikiTitleID> <RankerScore>0.3659572516182121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_airlines</WikiTitle> <WikiTitleID>186708</WikiTitleID> <RankerScore>0.10679183259243337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines</WikiTitle> <WikiTitleID>32307</WikiTitleID> <RankerScore>0.27976222451141997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low-cost_carrier</WikiTitle> <WikiTitleID>428422</WikiTitleID> <RankerScore>0.14069685868550122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UPS_Airlines</WikiTitle> <WikiTitleID>9704675</WikiTitleID> <RankerScore>0.10679183259243337</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Terminal 5</EntitySurfaceForm>
+	<EntityTextStart>1424</EntityTextStart>
+	<EntityTextEnd>1434</EntityTextEnd>
+	<LinkerScore>0.9645941123721875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heathrow_Terminal_5_station</WikiTitle>
+		<WikiTitleID>1302390</WikiTitleID>
+		<RankerScore>0.5162827103145441</RankerScore>
+		<Attributes>stations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_5_station</WikiTitle> <WikiTitleID>1302390</WikiTitleID> <RankerScore>0.5162827103145441</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathrow_Terminal_5_building</WikiTitle> <WikiTitleID>16901609</WikiTitleID> <RankerScore>0.2303857898926116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.17872194646798362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TWA_Flight_Center</WikiTitle> <WikiTitleID>7903538</WikiTitleID> <RankerScore>0.07460955332486068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>March 2008</EntitySurfaceForm>
+	<EntityTextStart>1438</EntityTextStart>
+	<EntityTextEnd>1448</EntityTextEnd>
+	<LinkerScore>0.8817661874147081</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>March_2008</WikiTitle>
+		<WikiTitleID>13292294</WikiTitleID>
+		<RankerScore>0.5840837546359954</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>March_2008</WikiTitle> <WikiTitleID>13292294</WikiTitleID> <RankerScore>0.5840837546359954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_AIBA_African_2008_Olympic_Qualifying_Tournament</WikiTitle> <WikiTitleID>16549298</WikiTitleID> <RankerScore>0.20434827006754727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zimbabwean_presidential_election,_2008</WikiTitle> <WikiTitleID>8233464</WikiTitleID> <RankerScore>0.2115679752964574</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2008</EntitySurfaceForm>
+	<EntityTextStart>1444</EntityTextStart>
+	<EntityTextEnd>1448</EntityTextEnd>
+	<LinkerScore>0.7274868753644401</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>March_2008</WikiTitle>
+		<WikiTitleID>13292294</WikiTitleID>
+		<RankerScore>0.5231097016460776</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>March_2008</WikiTitle> <WikiTitleID>13292294</WikiTitleID> <RankerScore>0.5231097016460776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2nd_AIBA_African_2008_Olympic_Qualifying_Tournament</WikiTitle> <WikiTitleID>16549298</WikiTitleID> <RankerScore>0.22712245554177246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zimbabwean_presidential_election,_2008</WikiTitle> <WikiTitleID>8233464</WikiTitleID> <RankerScore>0.2497678428121498</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

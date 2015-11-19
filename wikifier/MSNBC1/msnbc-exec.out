@@ -1,0 +1,1736 @@
+Params:[-annotateData, /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8/, /home/chenhui/workspace/nel-framework/benchmark/cmd-exec-results/wikifier/MSNBC/, false, configs/STAND_ALONE_NO_INFERENCE.xml]
+Usage: either
+	$java ReferenceAssistant -trainSvmModelsOnly <pathToConfigFile>
+or
+	$java ReferenceAssistant -buildTrainingDataAndTrain <pathToProblems> <pathToRawTexts> <pathToConfigFile>
+or
+	$java ReferenceAssistant -annotateData <inputPath> <outputPath> <generateFeatureDumps>  <pathToConfigFile> 
+or
+	$java ReferenceAssistant -referenceAssistant <pathToProblemFileOrFolder> <pathToRawTextFilesFolder> <pathToExplanations>  <pathToConfigFile> 
+Creating wordnet dictionary from data/WordNet/...
+Dictionary opened.
+----------------->Bypassing the curator!
+Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+Done  - Loading the most recent redirect pages from Wikipedia to normalize the output links to the latest version
+Consructing wikipedia summary from a proto buffer
+Done - consructing wikipedia summary from a proto buffer
+Opening the index for the complete index interface
+Prefetching the basic information about the wikipedia articles
+0 titles processed out of 2478573
+50000 titles processed out of 2478573
+100000 titles processed out of 2478573
+150000 titles processed out of 2478573
+200000 titles processed out of 2478573
+250000 titles processed out of 2478573
+300000 titles processed out of 2478573
+350000 titles processed out of 2478573
+400000 titles processed out of 2478573
+450000 titles processed out of 2478573
+500000 titles processed out of 2478573
+550000 titles processed out of 2478573
+600000 titles processed out of 2478573
+650000 titles processed out of 2478573
+700000 titles processed out of 2478573
+750000 titles processed out of 2478573
+800000 titles processed out of 2478573
+850000 titles processed out of 2478573
+900000 titles processed out of 2478573
+950000 titles processed out of 2478573
+1000000 titles processed out of 2478573
+1050000 titles processed out of 2478573
+1100000 titles processed out of 2478573
+1150000 titles processed out of 2478573
+1200000 titles processed out of 2478573
+1250000 titles processed out of 2478573
+1300000 titles processed out of 2478573
+1350000 titles processed out of 2478573
+1400000 titles processed out of 2478573
+1450000 titles processed out of 2478573
+1500000 titles processed out of 2478573
+1550000 titles processed out of 2478573
+1600000 titles processed out of 2478573
+1650000 titles processed out of 2478573
+1700000 titles processed out of 2478573
+1750000 titles processed out of 2478573
+1800000 titles processed out of 2478573
+1850000 titles processed out of 2478573
+1900000 titles processed out of 2478573
+1950000 titles processed out of 2478573
+2000000 titles processed out of 2478573
+2050000 titles processed out of 2478573
+2100000 titles processed out of 2478573
+2150000 titles processed out of 2478573
+2200000 titles processed out of 2478573
+2250000 titles processed out of 2478573
+2300000 titles processed out of 2478573
+2350000 titles processed out of 2478573
+2400000 titles processed out of 2478573
+2450000 titles processed out of 2478573
+Actual capacities:
+TitleEssentialData:6584983
+Loaded 2478573 nonNormalizedTitles
+Done prefetching the basic data about 2478573 Wikipedia articles
+Loading information about surface form to title id mappings
+1 surface forms is linkable out of 0. There are 4045674  surface forms total; last surface form read: Lord of Coucy
+97517 surface forms is linkable out of 100000. There are 4045674  surface forms total; last surface form read: Casino, New South Wales
+194898 surface forms is linkable out of 200000. There are 4045674  surface forms total; last surface form read: St. Dominic’s Church
+292403 surface forms is linkable out of 300000. There are 4045674  surface forms total; last surface form read: GATT
+389929 surface forms is linkable out of 400000. There are 4045674  surface forms total; last surface form read: Beotia
+487517 surface forms is linkable out of 500000. There are 4045674  surface forms total; last surface form read: Heartbreaker
+584941 surface forms is linkable out of 600000. There are 4045674  surface forms total; last surface form read: The White Dove
+682530 surface forms is linkable out of 700000. There are 4045674  surface forms total; last surface form read: Polish league's
+780024 surface forms is linkable out of 800000. There are 4045674  surface forms total; last surface form read: G.Beck
+877578 surface forms is linkable out of 900000. There are 4045674  surface forms total; last surface form read: Pacific Air Transport
+974928 surface forms is linkable out of 1000000. There are 4045674  surface forms total; last surface form read: Guo Zhendong
+1072497 surface forms is linkable out of 1100000. There are 4045674  surface forms total; last surface form read: N-630
+1169923 surface forms is linkable out of 1200000. There are 4045674  surface forms total; last surface form read: Arbor Lodge State Park
+1267393 surface forms is linkable out of 1300000. There are 4045674  surface forms total; last surface form read: 1996's Hurricane Fausto
+1364869 surface forms is linkable out of 1400000. There are 4045674  surface forms total; last surface form read: The Story of Doctor Dolittle
+1462285 surface forms is linkable out of 1500000. There are 4045674  surface forms total; last surface form read: WBZB
+1559770 surface forms is linkable out of 1600000. There are 4045674  surface forms total; last surface form read: State Highway 50A
+1657156 surface forms is linkable out of 1700000. There are 4045674  surface forms total; last surface form read: Antoniadi scale
+1754586 surface forms is linkable out of 1800000. There are 4045674  surface forms total; last surface form read: Mulroy
+1852081 surface forms is linkable out of 1900000. There are 4045674  surface forms total; last surface form read: Yellow birch
+1949629 surface forms is linkable out of 2000000. There are 4045674  surface forms total; last surface form read: Aleksandr Grigorievich Stoletov
+2047112 surface forms is linkable out of 2100000. There are 4045674  surface forms total; last surface form read: Rob Valentine
+2144606 surface forms is linkable out of 2200000. There are 4045674  surface forms total; last surface form read: Christ 777
+2242083 surface forms is linkable out of 2300000. There are 4045674  surface forms total; last surface form read: “Alice” shorts
+2339613 surface forms is linkable out of 2400000. There are 4045674  surface forms total; last surface form read: Knights of Da Gama
+2437162 surface forms is linkable out of 2500000. There are 4045674  surface forms total; last surface form read: Anastasiopolis
+2534551 surface forms is linkable out of 2600000. There are 4045674  surface forms total; last surface form read: Hearing protection
+2632026 surface forms is linkable out of 2700000. There are 4045674  surface forms total; last surface form read: Orhuwhorun
+2729550 surface forms is linkable out of 2800000. There are 4045674  surface forms total; last surface form read: Warren Ellis'
+2826976 surface forms is linkable out of 2900000. There are 4045674  surface forms total; last surface form read: rag-time
+2924328 surface forms is linkable out of 3000000. There are 4045674  surface forms total; last surface form read: urnebes
+3021839 surface forms is linkable out of 3100000. There are 4045674  surface forms total; last surface form read: As Rapture Comes
+3119182 surface forms is linkable out of 3200000. There are 4045674  surface forms total; last surface form read: marrow
+3216681 surface forms is linkable out of 3300000. There are 4045674  surface forms total; last surface form read: Object-based
+3314218 surface forms is linkable out of 3400000. There are 4045674  surface forms total; last surface form read: Siege of Dapur
+3411829 surface forms is linkable out of 3500000. There are 4045674  surface forms total; last surface form read: National Unity Cabinet
+3509255 surface forms is linkable out of 3600000. There are 4045674  surface forms total; last surface form read: 43 countries recognise
+3606784 surface forms is linkable out of 3700000. There are 4045674  surface forms total; last surface form read: maneštra
+3704260 surface forms is linkable out of 3800000. There are 4045674  surface forms total; last surface form read: Digital Datcom
+3801698 surface forms is linkable out of 3900000. There are 4045674  surface forms total; last surface form read: Louisville Courier
+3899161 surface forms is linkable out of 4000000. There are 4045674  surface forms total; last surface form read: Risset
+There are 102007 unlinkable surface forms
+Actual capacities:
+SurfaceFormData:4961459
+Done loading information about surface form to title id mappings
+WordNet config file: configs/jwnl_properties.xml
+[INFO][net.didion.jwnl.dictionary.Dictionary] - Installing dictionary net.didion.jwnl.dictionary.FileBackedDictionary@1fb700ee
+Done initializing the system: 72007 milliseconds elapsed
+Memory usage : 2172 MB
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+character encoding = UTF8
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//TvN16442342.txt
+Constructing the problem...
+Adding feature: Forms
+Adding feature: Capitalization
+Adding feature: WordTypeInformation
+Adding feature: Affixes
+Adding feature: PreviousTag1
+Adding feature: PreviousTag2
+Adding feature: GazetteersFeatures
+Adding feature: BrownClusterPaths
+Adding feature: prevTagsForContext
+Adding feature: PredictionsLevel1
+Working parameters are:
+inferenceMethod=GREEDY
+beamSize=5
+thresholdPrediction=false
+predictionConfidenceThreshold=-1.0
+labelTypes
+	PER	ORG	LOC	MISC
+logging=false
+debuggingLogPath=../../DebugLog//finalSystemBILOUdebugLog.txt
+forceNewSentenceOnLineBreaks=true
+keepOriginalFileTokenizationAndSentenceSplitting=false
+taggingScheme=BILOU
+tokenizationScheme=DualTokenizationScheme
+pathToModelFile=data/NER_Data/Models/Demo/CoNLL//finalSystemBILOU.model
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt
+	-WordThres=5
+	-IsLowercased=false
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters
+	-WordThres=5
+	-IsLowercased=false
+Brown clusters resource: 
+	-Path: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt
+	-WordThres=5
+	-IsLowercased=false
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt
+1288301 words added
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters
+95262 words added
+Reading the Brown clusters resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt
+85963 words added
+loading dazzetteers....
+	loading gazzetteer:....data/NER_Data//KnownLists/Occupations.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiArtWork.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_country.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiCompetitionsBattlesEventsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiOrganizationsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_place.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_state.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiManMadeObjectNames.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiCompetitionsBattlesEvents.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/currencyFinal.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiFilms.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/VincentNgPeopleTitles.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiSongsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/KnownNationalities.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiSongs.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/measurments.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiFilmsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiPeopleRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_nationalities.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_title.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_jobs.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_names.big.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_name.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiPeople.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiLocationsRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/temporal_words.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiManMadeObjectNamesRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiLocations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiOrganizations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/known_corporations.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/WikiArtWorkRedirects.lst
+	loading gazzetteer:....data/NER_Data//KnownLists/cardinalNumber.txt
+	loading gazzetteer:....data/NER_Data//KnownLists/ordinalNumber.txt
+found 33 gazetteers
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =453
+		- Total unique tokens  =225
+		- Total unique tokens ignore case =212
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =13
+		- OOV tokens, no repetitions, Case Sensitive =5
+		- Total OOV tokens even after lowercasing  =13
+		- OOV tokens even after lowercasing, no repetition  =5
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =24
+		- OOV tokens, no repetitions, Case Sensitive =11
+		- Total OOV tokens even after lowercasing  =24
+		- OOV tokens even after lowercasing, no repetition  =10
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =16
+		- OOV tokens, no repetitions, Case Sensitive =11
+		- Total OOV tokens even after lowercasing  =16
+		- OOV tokens even after lowercasing, no repetition  =10
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 1005 milliseconds
+Constructing a problem for the following text: 
+U.S. mines still not safe enough, experts say 
+One year after Sago Mine accident, safety laws still need improving 
+ 
+BUCKHANNON, W. Va. - One year ago Tuesday, the nation was holding its breath fo...
+18 milliseconds elapsed on constructing the TF-IDF representation of the input text...TvN16442342.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for TvN16442342.txt
+Adding SHALLOW_PARSE and subChunk candidates for TvN16442342.txt
+Loading clusters...
+Loading wordnet database...
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity BUCKHANNON, W. Va[118-135]{21-25}
+Matched regex entity Buckhannon, W. Va[257-274]{49-53}
+Matched regex entity In West Virginia Tuesday, Randal McCloy[345-384]{70-77}
+Matched regex entity West Virginia Tuesday, Randal McCloy[348-384]{71-77}
+Matched regex entity Mine Safety and Health Administration[1219-1256]{240-245}
+Matched regex entity Safety and Health Administration[1224-1256]{241-245}
+Matched regex entity West Virginia's Sago Mine[1265-1290]{247-252}
+Matched regex entity Dennis O'Dell of United Mine Workers of America[2156-2203]{416-424}
+Matched regex entity United Mine Workers of America[2173-2203]{419-424}
+Matched regex entity Workers of America[2185-2203]{421-424}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+2353 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...TvN16442342.txt
+Done constructing the problem; running the inference
+Inference on the document  -- TvN16442342.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+11 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+68 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1140 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Twelve_Angry_Men
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Better_Way
+Annotation at test time--2047 milliseconds elapsed to annotate the document TvN16442342.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//USN16444287.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =766
+		- Total unique tokens  =361
+		- Total unique tokens ignore case =351
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =40
+		- OOV tokens, no repetitions, Case Sensitive =28
+		- Total OOV tokens even after lowercasing  =40
+		- OOV tokens even after lowercasing, no repetition  =28
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =56
+		- OOV tokens, no repetitions, Case Sensitive =37
+		- Total OOV tokens even after lowercasing  =56
+		- OOV tokens even after lowercasing, no repetition  =37
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =64
+		- OOV tokens, no repetitions, Case Sensitive =42
+		- Total OOV tokens even after lowercasing  =64
+		- OOV tokens even after lowercasing, no repetition  =42
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 354 milliseconds
+Constructing a problem for the following text: 
+Muslim with U.S. family is held, turned away 
+Authorities detain businessman of Syrian descent for four days in Las Vegas 
+ 
+FRESNO, Calif. - A German businessman of Syrian descent who wanted to su...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...USN16444287.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for USN16444287.txt
+Adding SHALLOW_PARSE and subChunk candidates for USN16444287.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Muslim with U.S.[0-16]{0-3}
+Matched regex entity Las Vegas FRESNO, Calif[112-138]{19-24}
+Matched regex entity Bakersfield, California[568-591]{101-104}
+Matched regex entity U.S. Customs and Border Protection[843-877]{153-158}
+Matched regex entity S. Customs and Border Protection[845-877]{153-158}
+Matched regex entity Council on American-Islamic Relations[1207-1244]{218-222}
+Matched regex entity Border Protection and FBI[2495-2520]{451-455}
+Matched regex entity Protection and FBI[2502-2520]{452-455}
+Matched regex entity Officials with U.S. Immigration and Customs Enforcement[2859-2914]{519-526}
+Matched regex entity U.S. Immigration and Customs Enforcement[2874-2914]{521-526}
+Matched regex entity S. Immigration and Customs Enforcement[2876-2914]{521-526}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+2047 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...USN16444287.txt
+Done constructing the problem; running the inference
+Inference on the document  -- USN16444287.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+6040 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+2635 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Majid
+Could not find WikiMatchData for title Omphalos_hypothesis
+Could not find WikiMatchData for title United_States_military_casualties_of_war
+Could not find WikiMatchData for title Las_Vegas_Valley
+Annotation at test time--9528 milliseconds elapsed to annotate the document USN16444287.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Ent16453733.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =352
+		- Total unique tokens  =191
+		- Total unique tokens ignore case =186
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =42
+		- OOV tokens, no repetitions, Case Sensitive =28
+		- Total OOV tokens even after lowercasing  =42
+		- OOV tokens even after lowercasing, no repetition  =27
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =45
+		- OOV tokens, no repetitions, Case Sensitive =31
+		- Total OOV tokens even after lowercasing  =44
+		- OOV tokens even after lowercasing, no repetition  =29
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =43
+		- OOV tokens, no repetitions, Case Sensitive =29
+		- Total OOV tokens even after lowercasing  =43
+		- OOV tokens even after lowercasing, no repetition  =28
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 141 milliseconds
+Constructing a problem for the following text: 
+Barbara Walters stands by Rosie O’Donnell 
+‘View’ host denies Trump's claim she wanted comedian off morning show 
+ 
+NEW YORK - Barbara Walters is back from vacation — and she’s standing by Rosie O’...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Ent16453733.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Ent16453733.txt
+Adding SHALLOW_PARSE and subChunk candidates for Ent16453733.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Donnell and Trump[1103-1120]{242-245}
+Matched regex entity Miss USA and Miss Teen USA[1350-1376]{287-293}
+Matched regex entity USA and Miss Teen USA[1355-1376]{288-293}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+952 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Ent16453733.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Ent16453733.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+20 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+593 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title OutSPOKEN
+Annotation at test time--1137 milliseconds elapsed to annotate the document Ent16453733.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Wor13259309.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =901
+		- Total unique tokens  =372
+		- Total unique tokens ignore case =356
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =49
+		- OOV tokens, no repetitions, Case Sensitive =36
+		- Total OOV tokens even after lowercasing  =49
+		- OOV tokens even after lowercasing, no repetition  =34
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =77
+		- OOV tokens, no repetitions, Case Sensitive =52
+		- Total OOV tokens even after lowercasing  =76
+		- OOV tokens even after lowercasing, no repetition  =48
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =77
+		- OOV tokens, no repetitions, Case Sensitive =52
+		- Total OOV tokens even after lowercasing  =76
+		- OOV tokens even after lowercasing, no repetition  =48
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 376 milliseconds
+Constructing a problem for the following text: 
+Al-Maliki adviser says official who supervised execution is target of probe 
+ 
+BAGHDAD, Iraq - Iraq’s national security adviser told NBC News on Wednesday that three individuals have been arrested ...
+1 milliseconds elapsed on constructing the TF-IDF representation of the input text...Wor13259309.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Wor13259309.txt
+Adding SHALLOW_PARSE and subChunk candidates for Wor13259309.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity BAGHDAD, Iraq[79-92]{11-14}
+Matched regex entity NBC News on Wednesday[133-154]{22-26}
+Matched regex entity The New York Times on Wednesday[2573-2604]{455-461}
+Matched regex entity New York Times on Wednesday[2577-2604]{456-461}
+Matched regex entity York Times on Wednesday[2581-2604]{457-461}
+Matched regex entity Muqtada, Muqtada[4080-4096]{739-742}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1202 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Wor13259309.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Wor13259309.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+57 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+2304 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Taunting
+Could not find WikiMatchData for title Telephone_interview
+Could not find WikiMatchData for title Turn_on_the_Bright_Lights
+Could not find WikiMatchData for title The_Security_Men
+Annotation at test time--2892 milliseconds elapsed to annotate the document Wor13259309.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Tec16454435.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =389
+		- Total unique tokens  =226
+		- Total unique tokens ignore case =222
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =12
+		- OOV tokens, no repetitions, Case Sensitive =6
+		- Total OOV tokens even after lowercasing  =12
+		- OOV tokens even after lowercasing, no repetition  =6
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =19
+		- OOV tokens, no repetitions, Case Sensitive =10
+		- Total OOV tokens even after lowercasing  =17
+		- OOV tokens even after lowercasing, no repetition  =8
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =22
+		- OOV tokens, no repetitions, Case Sensitive =13
+		- Total OOV tokens even after lowercasing  =19
+		- OOV tokens even after lowercasing, no repetition  =10
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 533 milliseconds
+Constructing a problem for the following text: 
+Upgrade makes aging Mars rovers smarter 
+Engineers transmitted new software to the rovers' onboard computers 
+ 
+LOS ANGELES - The twin Mars rovers are getting wiser with age. 
+ 
+Engineers have tran...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Tec16454435.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Tec16454435.txt
+Adding SHALLOW_PARSE and subChunk candidates for Tec16454435.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Jet Propulsion Laboratory, the NASA[557-592]{99-105}
+Matched regex entity Spirit and Opportunity[1311-1333]{237-240}
+Matched regex entity Wednesday and Opportunity on Jan[1646-1678]{300-305}
+Matched regex entity Opportunity on Jan[1660-1678]{302-305}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1393 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Tec16454435.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Tec16454435.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+28 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1280 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Old_Dog
+Could not find WikiMatchData for title Decide
+Could not find WikiMatchData for title —
+Annotation at test time--1612 milliseconds elapsed to annotate the document Tec16454435.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Spo16417540.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =921
+		- Total unique tokens  =444
+		- Total unique tokens ignore case =427
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =65
+		- OOV tokens, no repetitions, Case Sensitive =41
+		- Total OOV tokens even after lowercasing  =65
+		- OOV tokens even after lowercasing, no repetition  =38
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =84
+		- OOV tokens, no repetitions, Case Sensitive =45
+		- Total OOV tokens even after lowercasing  =83
+		- OOV tokens even after lowercasing, no repetition  =41
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =89
+		- OOV tokens, no repetitions, Case Sensitive =49
+		- Total OOV tokens even after lowercasing  =87
+		- OOV tokens even after lowercasing, no repetition  =44
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 355 milliseconds
+Constructing a problem for the following text: 
+Saban leaves Dolphins for Alabama job 
+Coach ends speculation, takes offer of 8 years, $32 million — all guaranteed 
+ 
+DAVIE, Fla. - Nick Saban is ’Bama bound. 
+ 
+Ending five weeks of denials and t...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Spo16417540.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Spo16417540.txt
+Adding SHALLOW_PARSE and subChunk candidates for Spo16417540.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Dolphins for Alabama[13-33]{2-5}
+Matched regex entity DAVIE, Fla[119-129]{21-24}
+Matched regex entity Wednesday at Saban[498-516]{94-97}
+Matched regex entity November, Saban[752-767]{150-153}
+Matched regex entity Instead, Huizenga[962-979]{190-193}
+Matched regex entity Nick and Terry[1160-1174]{235-238}
+Matched regex entity The Crimson Tide[1546-1562]{325-328}
+Matched regex entity Crimson Tide[1550-1562]{326-328}
+Matched regex entity Sunday, Alabama[1825-1840]{379-382}
+Matched regex entity Don Shula[2092-2101]{427-429}
+Matched regex entity December, Alabama[2401-2418]{489-492}
+Matched regex entity Oklahoma State in the Independence Bowl[2521-2560]{513-519}
+Matched regex entity Ron Rivera[2660-2670]{533-535}
+Matched regex entity Mike Sherman, San Diego Chargers[2700-2732]{541-547}
+Matched regex entity Cam Cameron, Indianapolis[2755-2780]{549-553}
+Matched regex entity Jim Caldwell, Tennessee Titans[2791-2821]{554-559}
+Matched regex entity Norm Chow and Pittsburgh Steelers[2844-2877]{561-566}
+Matched regex entity Chow and Pittsburgh Steelers[2849-2877]{562-566}
+Matched regex entity Russ Grimm and Ken Whisenhut[2889-2917]{567-572}
+Matched regex entity Grimm and Ken Whisenhut[2894-2917]{568-572}
+Matched regex entity Brian Wiedmeier, the Dolphins[3500-3529]{710-715}
+Matched regex entity The Arizona Cardinals and Atlanta Falcons[3570-3611]{722-728}
+Matched regex entity Arizona Cardinals and Atlanta Falcons[3574-3611]{723-728}
+Matched regex entity Cardinals and Atlanta Falcons[3582-3611]{724-728}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1420 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Spo16417540.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Spo16417540.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+62 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+3761 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Annotation at test time--4834 milliseconds elapsed to annotate the document Spo16417540.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Pol16447720.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =800
+		- Total unique tokens  =403
+		- Total unique tokens ignore case =384
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =48
+		- OOV tokens, no repetitions, Case Sensitive =31
+		- Total OOV tokens even after lowercasing  =48
+		- OOV tokens even after lowercasing, no repetition  =31
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =54
+		- OOV tokens, no repetitions, Case Sensitive =37
+		- Total OOV tokens even after lowercasing  =51
+		- OOV tokens even after lowercasing, no repetition  =34
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =62
+		- OOV tokens, no repetitions, Case Sensitive =45
+		- Total OOV tokens even after lowercasing  =60
+		- OOV tokens even after lowercasing, no repetition  =43
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 294 milliseconds
+Constructing a problem for the following text: 
+Mourners in Michigan welcome body of Ford  
+Ex-president 'who meant so much' scheduled to be buried Wednesday 
+ 
+GRAND RAPIDS, Mich. - Moving quietly and solemnly through the moonlight, mourners wa...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Pol16447720.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Pol16447720.txt
+Adding SHALLOW_PARSE and subChunk candidates for Pol16447720.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Mourners in Michigan[0-20]{0-3}
+Matched regex entity Wednesday GRAND RAPIDS, Mich[100-131]{16-21}
+Matched regex entity Karin Lewis[431-442]{75-77}
+Matched regex entity Grace Episcopal Church in East Grand Rapids[662-705]{124-131}
+Matched regex entity East Grand Rapids[688-705]{128-131}
+Matched regex entity Grand Rapids[693-705]{129-131}
+Matched regex entity Grand River[775-786]{144-146}
+Matched regex entity Richard Norton Smith[1073-1093]{204-207}
+Matched regex entity Norton Smith[1081-1093]{205-207}
+Matched regex entity Grand Rapids[1312-1324]{250-252}
+Matched regex entity Washington National Cathedral[1373-1402]{260-263}
+Matched regex entity Grand River[1745-1756]{323-325}
+Matched regex entity Gerald R. Ford Presidential Library and Museum[1764-1810]{327-334}
+Matched regex entity R. Ford Presidential Library and Museum[1771-1810]{328-334}
+Matched regex entity Ford Presidential Library and Museum[1774-1810]{329-334}
+Matched regex entity Presidential Library and Museum[1779-1810]{330-334}
+Matched regex entity Library and Museum[1792-1810]{331-334}
+Matched regex entity University of Michigan[1900-1922]{351-354}
+Matched regex entity Grand Rapids, and President Ford[2051-2083]{377-383}
+Matched regex entity Grand Rapids[2171-2183]{404-406}
+Matched regex entity America' The[2528-2541]{473-475}
+Matched regex entity Tom Brokaw and Ford[2784-2803]{520-524}
+Matched regex entity America, and America[2906-2926]{546-550}
+Matched regex entity Israel and Egypt[3586-3602]{674-677}
+Matched regex entity At the Grand Rapids[4114-4133]{781-785}
+Matched regex entity Grand Rapids[4121-4133]{783-785}
+Matched regex entity University of Michigan[4170-4192]{794-797}
+Matched regex entity Rancho Mirage, Calif[4355-4375]{835-839}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1208 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Pol16447720.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Pol16447720.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+58 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+2231 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Quietly
+Could not find WikiMatchData for title Plain_Brown_Wrapper
+Could not find WikiMatchData for title Repose
+Annotation at test time--3322 milliseconds elapsed to annotate the document Pol16447720.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Hea16451212.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =888
+		- Total unique tokens  =393
+		- Total unique tokens ignore case =365
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =29
+		- OOV tokens, no repetitions, Case Sensitive =21
+		- Total OOV tokens even after lowercasing  =29
+		- OOV tokens even after lowercasing, no repetition  =21
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =43
+		- OOV tokens, no repetitions, Case Sensitive =27
+		- Total OOV tokens even after lowercasing  =41
+		- OOV tokens even after lowercasing, no repetition  =26
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =47
+		- OOV tokens, no repetitions, Case Sensitive =30
+		- Total OOV tokens even after lowercasing  =44
+		- OOV tokens even after lowercasing, no repetition  =28
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 287 milliseconds
+Constructing a problem for the following text: 
+Health insurance bridges gap for poor families 
+Free medical care can help children get out of poverty, official says 
+ 
+BIRMINGHAM, Ala. - For years, Al Rohling watched parents quit their jobs whe...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Hea16451212.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Hea16451212.txt
+Adding SHALLOW_PARSE and subChunk candidates for Hea16451212.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity BIRMINGHAM, Ala[121-136]{20-23}
+Matched regex entity Blue Cross and Blue Shield of Alabama[777-814]{139-146}
+Matched regex entity Blue Shield of Alabama[792-814]{142-146}
+Matched regex entity Kaiser Commission on Medicaid and the Uninsured[1473-1520]{266-273}
+Matched regex entity Medicaid and the Uninsured[1494-1520]{269-273}
+Matched regex entity University of Alabama at Birmingham School of Nursing[3521-3574]{658-666}
+Matched regex entity Alabama at Birmingham School of Nursing[3535-3574]{660-666}
+Matched regex entity Birmingham School of Nursing[3546-3574]{662-666}
+Matched regex entity Highmark Blue Cross Blue Shield of Western Pennsylvania[3911-3966]{731-739}
+Matched regex entity Denise Grabner of Highmark[4185-4211]{780-784}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1075 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Hea16451212.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Hea16451212.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+31 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+3 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1840 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Blue_Cross_and_Blue_Shield_of_Alabama
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Health_insurance_coverage_in_the_United_States
+Could not find WikiMatchData for title Family_wage
+Could not find WikiMatchData for title $20,000
+Annotation at test time--2749 milliseconds elapsed to annotate the document Hea16451212.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Spo16455207.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =287
+		- Total unique tokens  =148
+		- Total unique tokens ignore case =142
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =3
+		- OOV tokens, no repetitions, Case Sensitive =3
+		- Total OOV tokens even after lowercasing  =3
+		- OOV tokens even after lowercasing, no repetition  =3
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =10
+		- OOV tokens, no repetitions, Case Sensitive =8
+		- Total OOV tokens even after lowercasing  =10
+		- OOV tokens even after lowercasing, no repetition  =8
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =6
+		- OOV tokens, no repetitions, Case Sensitive =5
+		- Total OOV tokens even after lowercasing  =6
+		- OOV tokens even after lowercasing, no repetition  =5
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 80 milliseconds
+Constructing a problem for the following text: 
+Riley takes indefinite leave of absence 
+61-year-old coach has been dealing with ongoing knee, hip injuries 
+ 
+MIAMI - Miami Heat coach Pat Riley is taking an indefinite leave of absence because of...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Spo16455207.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Spo16455207.txt
+Adding SHALLOW_PARSE and subChunk candidates for Spo16455207.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Pat Riley[136-145]{22-24}
+Matched regex entity Los Angeles Clippers on Wednesday[442-475]{77-82}
+Matched regex entity In September, Riley[812-831]{151-155}
+Matched regex entity September, Riley[815-831]{152-155}
+Matched regex entity Pat Riley[1030-1039]{194-196}
+Matched regex entity Shaquille O'Neal[1387-1403]{260-262}
+Matched regex entity O'Neal[1397-1403]{261-262}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+527 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Spo16455207.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Spo16455207.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+15 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+633 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Knee_pain
+Annotation at test time--806 milliseconds elapsed to annotate the document Spo16455207.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Wor16447201.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =636
+		- Total unique tokens  =318
+		- Total unique tokens ignore case =306
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =27
+		- OOV tokens, no repetitions, Case Sensitive =19
+		- Total OOV tokens even after lowercasing  =27
+		- OOV tokens even after lowercasing, no repetition  =19
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =59
+		- OOV tokens, no repetitions, Case Sensitive =38
+		- Total OOV tokens even after lowercasing  =59
+		- OOV tokens even after lowercasing, no repetition  =37
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =55
+		- OOV tokens, no repetitions, Case Sensitive =38
+		- Total OOV tokens even after lowercasing  =54
+		- OOV tokens even after lowercasing, no repetition  =36
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 179 milliseconds
+Constructing a problem for the following text: 
+Hindus throng to Ganges for bathing festival 
+Pilgrims believe dip in river during six week celebration will cleanse sin 
+ 
+ALLAHABAD, India - Nearly half a million Hindus braved near-freezing temp...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Wor16447201.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Wor16447201.txt
+Adding SHALLOW_PARSE and subChunk candidates for Wor16447201.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity ALLAHABAD, India[124-140]{19-22}
+Matched regex entity India on Wednesday[280-298]{46-49}
+Matched regex entity Ganges, the Yamuna[608-626]{112-116}
+Matched regex entity Great Pitcher Festival[1016-1038]{190-193}
+Matched regex entity God' After[1244-1257]{230-232}
+Matched regex entity Guinness Book of Records[3032-3056]{588-592}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+901 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Wor16447201.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Wor16447201.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+29 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1968 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Sacred_waters
+Could not find WikiMatchData for title V._S._Ramadevi
+Could not find WikiMatchData for title Kumbh
+Could not find WikiMatchData for title Hindi_Belt
+Annotation at test time--2456 milliseconds elapsed to annotate the document Wor16447201.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Pol16452612.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =710
+		- Total unique tokens  =347
+		- Total unique tokens ignore case =331
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =42
+		- OOV tokens, no repetitions, Case Sensitive =27
+		- Total OOV tokens even after lowercasing  =42
+		- OOV tokens even after lowercasing, no repetition  =27
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =46
+		- OOV tokens, no repetitions, Case Sensitive =31
+		- Total OOV tokens even after lowercasing  =44
+		- OOV tokens even after lowercasing, no repetition  =29
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =52
+		- OOV tokens, no repetitions, Case Sensitive =37
+		- Total OOV tokens even after lowercasing  =48
+		- OOV tokens even after lowercasing, no repetition  =33
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 196 milliseconds
+Constructing a problem for the following text: 
+Evolving presidential preferences 
+How will American voters compensate in the next search for a president? 
+ 
+WASHINGTON - Now that the 38th president has been laid to rest, the capital can take up...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Pol16452612.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Pol16452612.txt
+Adding SHALLOW_PARSE and subChunk candidates for Pol16452612.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Instead, Americans[1354-1372]{261-264}
+Matched regex entity Positively American, Sen[3443-3467]{676-680}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+591 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Pol16452612.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Pol16452612.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+26 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1544 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Americans
+Could not find WikiMatchData for title Daniel_Pfeiffer
+Annotation at test time--1755 milliseconds elapsed to annotate the document Pol16452612.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Tra16454203.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =264
+		- Total unique tokens  =129
+		- Total unique tokens ignore case =125
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =3
+		- OOV tokens, no repetitions, Case Sensitive =2
+		- Total OOV tokens even after lowercasing  =3
+		- OOV tokens even after lowercasing, no repetition  =2
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =3
+		- OOV tokens, no repetitions, Case Sensitive =2
+		- Total OOV tokens even after lowercasing  =3
+		- OOV tokens even after lowercasing, no repetition  =2
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =1
+		- OOV tokens, no repetitions, Case Sensitive =1
+		- Total OOV tokens even after lowercasing  =1
+		- OOV tokens even after lowercasing, no repetition  =1
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 62 milliseconds
+Constructing a problem for the following text: 
+Thousands of holiday travelers without luggage 
+Fog, technical glitch at London's Heathrow Airport snarls baggage system 
+ 
+LONDON - Thousands of airline passengers still have not received their lu...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Tra16454203.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Tra16454203.txt
+Adding SHALLOW_PARSE and subChunk candidates for Tra16454203.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity London's Heathrow Airport[73-98]{11-15}
+Matched regex entity London's Heathrow Airport[234-259]{35-39}
+Matched regex entity Heathrow's Terminal[383-402]{60-63}
+Matched regex entity Heathrow's Terminal[598-617]{101-104}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+283 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Tra16454203.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Tra16454203.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+10 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+694 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title —
+Annotation at test time--707 milliseconds elapsed to annotate the document Tra16454203.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Bus3683270.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =903
+		- Total unique tokens  =461
+		- Total unique tokens ignore case =447
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =55
+		- OOV tokens, no repetitions, Case Sensitive =52
+		- Total OOV tokens even after lowercasing  =55
+		- OOV tokens even after lowercasing, no repetition  =52
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =56
+		- OOV tokens, no repetitions, Case Sensitive =53
+		- Total OOV tokens even after lowercasing  =56
+		- OOV tokens even after lowercasing, no repetition  =53
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =66
+		- OOV tokens, no repetitions, Case Sensitive =60
+		- Total OOV tokens even after lowercasing  =65
+		- OOV tokens even after lowercasing, no repetition  =59
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 243 milliseconds
+Constructing a problem for the following text: 
+Stocks start new trading year with rally 
+Market indexes surge after Home Depot chief executive quits 
+ 
+NEW YORK - Stocks moved soundly higher in the first session of 2007 as investors cheered mos...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Bus3683270.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Bus3683270.txt
+Adding SHALLOW_PARSE and subChunk candidates for Bus3683270.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Institute for Supply Management[750-781]{128-132}
+Matched regex entity The Standard & Poor[1324-1343]{227-231}
+Matched regex entity Standard & Poor[1328-1343]{228-231}
+Matched regex entity President Gerald R. Ford, Wall Street[2356-2393]{417-424}
+Matched regex entity Goodyear Tire & Rubber Co[4026-4051]{733-738}
+Matched regex entity Tire & Rubber Co[4035-4051]{734-738}
+Matched regex entity Overseas, Japan[4821-4836]{890-893}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+1062 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Bus3683270.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Bus3683270.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+23 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+2142 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Composite_index
+Could not find WikiMatchData for title Standard_&_Poor's
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Market_trend
+Could not find WikiMatchData for title The_Russell
+Annotation at test time--2610 milliseconds elapsed to annotate the document Bus3683270.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//USN16443053.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =905
+		- Total unique tokens  =384
+		- Total unique tokens ignore case =374
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =23
+		- OOV tokens, no repetitions, Case Sensitive =11
+		- Total OOV tokens even after lowercasing  =23
+		- OOV tokens even after lowercasing, no repetition  =11
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =35
+		- OOV tokens, no repetitions, Case Sensitive =18
+		- Total OOV tokens even after lowercasing  =35
+		- OOV tokens even after lowercasing, no repetition  =18
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =29
+		- OOV tokens, no repetitions, Case Sensitive =21
+		- Total OOV tokens even after lowercasing  =29
+		- OOV tokens even after lowercasing, no repetition  =21
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 240 milliseconds
+Constructing a problem for the following text: 
+Few areas in U.S. get high public safety ratings 
+Only 6 of 75 communities win highest scores for emergency communications 
+ 
+WASHINGTON - Only six of 75 U.S. metropolitan areas won the highest gra...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...USN16443053.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for USN16443053.txt
+Adding SHALLOW_PARSE and subChunk candidates for USN16443053.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Washington, D.C.[480-496]{83-85}
+Matched regex entity Columbus, Ohio[531-545]{93-96}
+Matched regex entity Sioux Falls, S.D.[547-564]{97-100}
+Matched regex entity Laramie County, Wyo[570-589]{102-106}
+Matched regex entity Baton Rouge, La[640-655]{116-119}
+Matched regex entity Homeland Security Department[1193-1221]{214-217}
+Matched regex entity Homeland Security[1833-1850]{339-341}
+Matched regex entity Wednesday, Homeland Security Secretary Michael Chertoff[1942-1997]{358-365}
+Matched regex entity Homeland Security Secretary Michael Chertoff[1953-1997]{360-365}
+Matched regex entity Since the Sept[3874-3888]{676-679}
+Matched regex entity Homeland Security Department[4299-4327]{745-748}
+Matched regex entity Chicago, Cleveland and Baton Rouge[4637-4671]{804-810}
+Matched regex entity Cleveland and Baton Rouge[4646-4671]{806-810}
+Matched regex entity Baton Rouge[4660-4671]{808-810}
+Matched regex entity Mandan, N.D.[4763-4775]{826-829}
+Matched regex entity Mandan and Morton County, N.D.[5025-5055]{869-875}
+Matched regex entity Morton County, N.D.[5036-5055]{871-875}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+997 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...USN16443053.txt
+Done constructing the problem; running the inference
+Inference on the document  -- USN16443053.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+34 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+2 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1985 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title List_of_metropolitan_areas_of_the_United_States
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Emergency_communication_system
+Could not find WikiMatchData for title Emergency_communication_system
+Annotation at test time--2771 milliseconds elapsed to annotate the document USN16443053.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Bus16451112.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =891
+		- Total unique tokens  =405
+		- Total unique tokens ignore case =391
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =43
+		- OOV tokens, no repetitions, Case Sensitive =32
+		- Total OOV tokens even after lowercasing  =42
+		- OOV tokens even after lowercasing, no repetition  =30
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =61
+		- OOV tokens, no repetitions, Case Sensitive =35
+		- Total OOV tokens even after lowercasing  =60
+		- OOV tokens even after lowercasing, no repetition  =33
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =66
+		- OOV tokens, no repetitions, Case Sensitive =40
+		- Total OOV tokens even after lowercasing  =65
+		- OOV tokens even after lowercasing, no repetition  =38
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 441 milliseconds
+Constructing a problem for the following text: 
+Home Depot CEO Nardelli quits 
+Home-improvement retailer's chief executive had been criticized over pay 
+ 
+ATLANTA - Bob Nardelli abruptly resigned Wednesday as chairman and chief executive of The ...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Bus16451112.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Bus16451112.txt
+Adding SHALLOW_PARSE and subChunk candidates for Bus16451112.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity CEO in December[519-534]{86-89}
+Matched regex entity Home Depot, Nardelli[1507-1527]{270-274}
+Matched regex entity Depot, Nardelli[1512-1527]{271-274}
+Matched regex entity Robinson College[2898-2914]{533-535}
+Matched regex entity Center for Global Business Leadership at Georgia State University[2917-2982]{537-546}
+Matched regex entity Global Business Leadership at Georgia State University[2928-2982]{539-546}
+Matched regex entity Nardelli and Home Depot[3550-3573]{639-643}
+Matched regex entity John L. Clendenin, Claudio X. Gonzales and Milledge A. Hart III[5017-5080]{885-897}
+Matched regex entity Claudio X. Gonzales and Milledge A. Hart III[5036-5080]{889-897}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+335 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Bus16451112.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Bus16451112.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+17 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+574 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Immediately_(law)
+Could not find WikiMatchData for title Immediately_(law)
+Could not find WikiMatchData for title Helping_behavior
+Could not find WikiMatchData for title John_Clendenin
+Could not find WikiMatchData for title Shareholder_Meeting
+Annotation at test time--1549 milliseconds elapsed to annotate the document Bus16451112.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//TvN16442287.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =628
+		- Total unique tokens  =345
+		- Total unique tokens ignore case =319
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =40
+		- OOV tokens, no repetitions, Case Sensitive =24
+		- Total OOV tokens even after lowercasing  =40
+		- OOV tokens even after lowercasing, no repetition  =24
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =53
+		- OOV tokens, no repetitions, Case Sensitive =42
+		- Total OOV tokens even after lowercasing  =44
+		- OOV tokens even after lowercasing, no repetition  =32
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =49
+		- OOV tokens, no repetitions, Case Sensitive =43
+		- Total OOV tokens even after lowercasing  =34
+		- OOV tokens even after lowercasing, no repetition  =28
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 140 milliseconds
+Constructing a problem for the following text: 
+Five healthy resolutions for 2007 
+Follow nutritionist Joy Bauer's recommendations for a better year 
+ 
+Have you made a New Year's resolution yet? Have you broken it already? Don't despair. Nutriti...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...TvN16442287.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for TvN16442287.txt
+Adding SHALLOW_PARSE and subChunk candidates for TvN16442287.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Joy's Healthy Resolutions[320-345]{63-67}
+Matched regex entity Ring in the New Year[493-513]{96-101}
+Matched regex entity American Journal of Clinical Nutrition, July[1276-1320]{239-246}
+Matched regex entity Clinical Nutrition, July[1296-1320]{242-246}
+Matched regex entity Sara Lee Food & Beverage[1938-1962]{367-372}
+Matched regex entity Lee Food & Beverage[1943-1962]{368-372}
+Matched regex entity Food & Beverage[1947-1962]{369-372}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+385 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...TvN16442287.txt
+Done constructing the problem; running the inference
+Inference on the document  -- TvN16442287.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+23 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+1342 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Joy_Bauer
+Could not find WikiMatchData for title Joy_Bauer
+Could not find WikiMatchData for title American_Journal
+Could not find WikiMatchData for title The_American_Journal_of_Clinical_Nutrition
+Annotation at test time--2239 milliseconds elapsed to annotate the document TvN16442287.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Ent16444023.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =177
+		- Total unique tokens  =109
+		- Total unique tokens ignore case =106
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =5
+		- OOV tokens, no repetitions, Case Sensitive =4
+		- Total OOV tokens even after lowercasing  =5
+		- OOV tokens even after lowercasing, no repetition  =4
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =8
+		- OOV tokens, no repetitions, Case Sensitive =6
+		- Total OOV tokens even after lowercasing  =6
+		- OOV tokens even after lowercasing, no repetition  =5
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =16
+		- OOV tokens, no repetitions, Case Sensitive =11
+		- Total OOV tokens even after lowercasing  =14
+		- OOV tokens even after lowercasing, no repetition  =10
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 41 milliseconds
+Constructing a problem for the following text: 
+Timberlake, Diaz reportedly break up 
+Former N’ Sync singer seeing former flame, magazine reports 
+ 
+Justin Timberlake and Cameron Diaz have called it quits, according to a report in Star magazine....
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Ent16444023.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Ent16444023.txt
+Adding SHALLOW_PARSE and subChunk candidates for Ent16444023.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Timberlake, Diaz[0-16]{0-3}
+Matched regex entity Justin Timberlake and Cameron Diaz[101-135]{17-22}
+Matched regex entity Cameron Diaz[123-135]{20-22}
+Matched regex entity Star, Diaz[214-224]{37-40}
+Matched regex entity Vail, Colo[265-275]{49-52}
+Matched regex entity N' Sync[383-390]{74-76}
+Matched regex entity Diaz and Timberlake[569-588]{110-113}
+Matched regex entity Kids' Choice Awards[650-669]{124-128}
+Matched regex entity Finn and Spears[838-853]{160-163}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+109 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Ent16444023.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Ent16444023.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+7 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+476 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Annotation at test time--837 milliseconds elapsed to annotate the document Ent16444023.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Hea16384904.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =680
+		- Total unique tokens  =333
+		- Total unique tokens ignore case =319
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =36
+		- OOV tokens, no repetitions, Case Sensitive =24
+		- Total OOV tokens even after lowercasing  =36
+		- OOV tokens even after lowercasing, no repetition  =23
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =42
+		- OOV tokens, no repetitions, Case Sensitive =29
+		- Total OOV tokens even after lowercasing  =41
+		- OOV tokens even after lowercasing, no repetition  =27
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =37
+		- OOV tokens, no repetitions, Case Sensitive =29
+		- Total OOV tokens even after lowercasing  =34
+		- OOV tokens even after lowercasing, no repetition  =25
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 158 milliseconds
+Constructing a problem for the following text: 
+Resolution to imbibe less goes awry — already 
+Myriad of conflicting medical studies are enough to drive this writer to drink 
+ 
+The fruitcake’s been digested, the gift cards are empty, and now it’...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Hea16384904.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Hea16384904.txt
+Adding SHALLOW_PARSE and subChunk candidates for Hea16384904.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Stony Brook University in New York[1538-1572]{326-332}
+Matched regex entity Goteborg University in Sweden[2048-2077]{420-424}
+Matched regex entity Obsessed, I[2258-2269]{456-459}
+Matched regex entity University of Missouri[2783-2805]{552-555}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+402 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Hea16384904.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Hea16384904.txt
+1 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+26 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+6285 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title —
+Could not find WikiMatchData for title Finding
+Could not find WikiMatchData for title Laboratory_rat
+Could not find WikiMatchData for title —
+Annotation at test time--6605 milliseconds elapsed to annotate the document Hea16384904.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Tra16444229.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =257
+		- Total unique tokens  =146
+		- Total unique tokens ignore case =139
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =1
+		- OOV tokens, no repetitions, Case Sensitive =1
+		- Total OOV tokens even after lowercasing  =1
+		- OOV tokens even after lowercasing, no repetition  =1
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =6
+		- OOV tokens, no repetitions, Case Sensitive =5
+		- Total OOV tokens even after lowercasing  =6
+		- OOV tokens even after lowercasing, no repetition  =5
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =12
+		- OOV tokens, no repetitions, Case Sensitive =8
+		- Total OOV tokens even after lowercasing  =12
+		- OOV tokens even after lowercasing, no repetition  =8
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 63 milliseconds
+Constructing a problem for the following text: 
+5 charged in Texas airport luggage thefts 
+Workers at baggage-handling firm accused after bags found in pet store bin 
+ 
+HOUSTON - Five employees of a baggage-handling contractor have been charged ...
+1 milliseconds elapsed on constructing the TF-IDF representation of the input text...Tra16444229.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Tra16444229.txt
+Adding SHALLOW_PARSE and subChunk candidates for Tra16444229.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Houston Police Capt[580-599]{98-101}
+Matched regex entity Manuel and Ricardo Aguilar[694-720]{115-119}
+Matched regex entity Osorio and Perez[828-844]{146-149}
+Matched regex entity Menzies Aviation Group[1051-1073]{187-190}
+Matched regex entity Aviation Group[1059-1073]{188-190}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+366 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Tra16444229.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Tra16444229.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+12 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+0 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+510 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title Baggage_handling_system
+Could not find WikiMatchData for title Baggage_handling_system
+Could not find WikiMatchData for title Venegas
+Could not find WikiMatchData for title $20,000
+Could not find WikiMatchData for title Venegas
+Could not find WikiMatchData for title Immediately_(law)
+Annotation at test time--1394 milliseconds elapsed to annotate the document Tra16444229.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output
+Processing the file : /home/chenhui/workspace/nel-framework/benchmark/datasets/MSNBC/RawTextsSimpleChars_utf8//Tec16451635.txt
+Constructing the problem...
+Annotating the data with expressive features...
+Brown clusters OOV statistics:
+Data statistics:
+		- Total tokens with repetitions =252
+		- Total unique tokens  =141
+		- Total unique tokens ignore case =134
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brown-english-wikitext.case-intact.txt-c1000-freq10-v3.txt(covers 1288301 unique tokens)
+		- Total OOV tokens, Case Sensitive =3
+		- OOV tokens, no repetitions, Case Sensitive =3
+		- Total OOV tokens even after lowercasing  =3
+		- OOV tokens even after lowercasing, no repetition  =3
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/brownBllipClusters(covers 95262 unique tokens)
+		- Total OOV tokens, Case Sensitive =13
+		- OOV tokens, no repetitions, Case Sensitive =6
+		- Total OOV tokens even after lowercasing  =13
+		- OOV tokens even after lowercasing, no repetition  =6
+	* OOV statistics for the resource: data/NER_Data//BrownHierarchicalWordClusters/rcv1.clean.tokenized-c1000-p1.paths.txt(covers 85963 unique tokens)
+		- Total OOV tokens, Case Sensitive =17
+		- OOV tokens, no repetitions, Case Sensitive =8
+		- Total OOV tokens even after lowercasing  =17
+		- OOV tokens even after lowercasing, no repetition  =8
+Annotating the data with gazetteers
+Annotating the data with context-aggregation features (if necessary)
+Done Annotating the data with expressive features...
+Annontating data with the models tagger, the inference algoritm is: GREEDY
+Extracting features for level 2 inference
+Done - Extracting features for level 2 inference
+Done Annontating data with the models tagger, the inference algoritm is: GREEDY
+Inference time: 58 milliseconds
+Constructing a problem for the following text: 
+30 panda cubs born in China in 2006 
+Current total of giant pandas bred in captivity now 217 
+ 
+BEIJING - A mini-baby boom last year has pushed up the number of pandas bred in captivity in China to...
+0 milliseconds elapsed on constructing the TF-IDF representation of the input text...Tec16451635.txt
+Getting the wikifiable mentions candidates
+Getting the Wikifiable entitites
+Getting the text annotation
+Adding NER candidates for Tec16451635.txt
+Adding SHALLOW_PARSE and subChunk candidates for Tec16451635.txt
+Done - Getting the text annotation
+Adding manually specified mentions
+Regex matching...
+Matched regex entity Wolong Giant Panda Protection and Research Center[765-814]{141-148}
+Matched regex entity Giant Panda Protection and Research Center[772-814]{142-148}
+Matched regex entity Panda Protection and Research Center[778-814]{143-148}
+Matched regex entity Protection and Research Center[784-814]{144-148}
+Finished adding regex large chunk matching
+Extracting the candidate disambiguations for the mentions
+Done constructing the Wikifiable entities
+     ----  almost there....
+212 milliseconds elapsed on constructing potentially wikifiable entitites in the input text...Tec16451635.txt
+Done constructing the problem; running the inference
+Inference on the document  -- Tec16451635.txt
+0 milliseconds elapsed extracting features for the level: FeatureExtractorTitlesMatch
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorTitlesMatch
+17 milliseconds elapsed extracting features for the level: FeatureExtractorLexical
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorLexical
+879 milliseconds elapsed extracting features for the level: FeatureExtractorCoherence
+1 milliseconds elapsed ranking the candidates at level...FeatureExtractorCoherence
+Could not find WikiMatchData for title State_media
+Could not find WikiMatchData for title —
+Annotation at test time--1249 milliseconds elapsed to annotate the document Tec16451635.txt
+Done  running the inference
+Saving the simplest-form no nested entities Wikification output in html format
+Saving the full annotation in XML
+Saving the NER output

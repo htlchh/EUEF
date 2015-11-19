@@ -1,0 +1,956 @@
+<WikifierOutput>
+<InputFilename>
+APW19981120_1056.htm
+</InputFilename>
+<InputText>
+   Prosecutor: Botha may still stand trial
+
+ A  prosecutor   on Friday left open the possibility that former apartheid President  P.W. Botha   would be put on trial for abuses committed during  white rule  . 
+
+ Prosecutor Jan D&apos;Oliveira said he currently has insufficient evidence to prosecute Botha, but that information collected by the  Truth and Reconciliation Commission (South Africa)  , which investigated apartheid-era abuses, still must be evaluated to ascertain whether charges would ultimately be brought. 
+
+ Last month, the Truth Comission issued a landmark report on its findings. It said Botha had ordered the 1987 bombing of the  African National Congress  &apos; London headquarters and the 1988 bombing of a  Johannesburg   building housing an anti-apartheid group. 
+
+ When Botha was head of state in the 1980s, thousands of people were detained without trial. Many were tortured and others killed. 
+
+ The commission can grant  amnesty   to those who fully confess to politically motivated abuses committed during apartheid. Botha has said he has nothing to confess and has not sought amnesty. 
+
+ Earlier this year, Botha was convicted of  contempt of court   for refusing to testify before the commission. He was handed a suspended one-year jail sentence and a 10,000  rand  (dlrs 5,700) fine. He has appealed the decision. 
+
+ (sapa-aos) 
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>P.W. Botha</EntitySurfaceForm>
+	<EntityTextStart>130</EntityTextStart>
+	<EntityTextEnd>140</EntityTextEnd>
+	<LinkerScore>1.2272838135783697</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prosecutor</EntitySurfaceForm>
+	<EntityTextStart>211</EntityTextStart>
+	<EntityTextEnd>221</EntityTextEnd>
+	<LinkerScore>0.9283201083976779</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>insufficient evidence</EntitySurfaceForm>
+	<EntityTextStart>259</EntityTextStart>
+	<EntityTextEnd>280</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Legal_burden_of_proof</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>doctrine	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Botha</EntitySurfaceForm>
+	<EntityTextStart>294</EntityTextStart>
+	<EntityTextEnd>299</EntityTextEnd>
+	<LinkerScore>0.23703900080610255</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>0.4643478090519212</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Botha,_Alberta</WikiTitle> <WikiTitleID>3768270</WikiTitleID> <RankerScore>0.17429138832047011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_Botha</WikiTitle> <WikiTitleID>392101</WikiTitleID> <RankerScore>0.14119935194970046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>0.4643478090519212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johan_Botha_(cricketer)</WikiTitle> <WikiTitleID>3577659</WikiTitleID> <RankerScore>0.1100807253389541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regiment_Botha</WikiTitle> <WikiTitleID>5938901</WikiTitleID> <RankerScore>0.1100807253389541</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Truth and Reconciliation Commission</EntitySurfaceForm>
+	<EntityTextStart>340</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>1.6289444793949086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Truth_and_Reconciliation_Commission_(South_Africa)</WikiTitle>
+		<WikiTitleID>30865</WikiTitleID>
+		<RankerScore>0.6776753394751148</RankerScore>
+		<Attributes>event	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Truth_and_Reconciliation_Commission_(South_Africa)</WikiTitle> <WikiTitleID>30865</WikiTitleID> <RankerScore>0.6776753394751148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Truth_and_Reconciliation_Commission_(Peru)</WikiTitle> <WikiTitleID>1587466</WikiTitleID> <RankerScore>0.07798742753453358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Truth_and_reconciliation_commission</WikiTitle> <WikiTitleID>3154383</WikiTitleID> <RankerScore>0.08016370779352869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Truth_and_Reconciliation_Commission_(Sierra_Leone)</WikiTitle> <WikiTitleID>8356188</WikiTitleID> <RankerScore>0.05472450839894099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Truth_and_Reconciliation_Commission_(Liberia)</WikiTitle> <WikiTitleID>10543033</WikiTitleID> <RankerScore>0.05472450839894099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Truth_and_Reconciliation_Commission_(South_Korea)</WikiTitle> <WikiTitleID>17497312</WikiTitleID> <RankerScore>0.05472450839894099</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South Africa</EntitySurfaceForm>
+	<EntityTextStart>377</EntityTextStart>
+	<EntityTextEnd>389</EntityTextEnd>
+	<LinkerScore>1.450662724159639</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa</WikiTitle>
+		<WikiTitleID>17416221</WikiTitleID>
+		<RankerScore>0.34213363149015874</RankerScore>
+		<Attributes>nation	member	country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa</WikiTitle> <WikiTitleID>17416221</WikiTitleID> <RankerScore>0.34213363149015874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_cricket_team</WikiTitle> <WikiTitleID>759263</WikiTitleID> <RankerScore>0.0618428242088538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team</WikiTitle> <WikiTitleID>376115</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_football_team</WikiTitle> <WikiTitleID>1018598</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_South_Africa</WikiTitle> <WikiTitleID>44555</WikiTitleID> <RankerScore>0.05748543527156383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_South_Africa</WikiTitle> <WikiTitleID>2164954</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2281510</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3890717</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_league_team</WikiTitle> <WikiTitleID>2265301</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Boer_War</WikiTitle> <WikiTitleID>42720</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_wine</WikiTitle> <WikiTitleID>4111898</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Air_Force</WikiTitle> <WikiTitleID>480283</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_field_hockey_team</WikiTitle> <WikiTitleID>18523612</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_South_Africa</WikiTitle> <WikiTitleID>664778</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_baseball_team</WikiTitle> <WikiTitleID>3938371</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_Davis_Cup_team</WikiTitle> <WikiTitleID>9988610</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_South_Africa</WikiTitle> <WikiTitleID>27374</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_South_Africa</WikiTitle> <WikiTitleID>4752175</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Republic</WikiTitle> <WikiTitleID>28343</WikiTitleID> <RankerScore>0.03167871229584845</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>apartheid-era</EntitySurfaceForm>
+	<EntityTextStart>413</EntityTextStart>
+	<EntityTextEnd>426</EntityTextEnd>
+	<LinkerScore>1.1321527751646927</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa_under_apartheid</WikiTitle>
+		<WikiTitleID>2200527</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Last month</EntitySurfaceForm>
+	<EntityTextStart>520</EntityTextStart>
+	<EntityTextEnd>530</EntityTextEnd>
+	<LinkerScore>-0.4104542419225222</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>January_2005_in_India</WikiTitle>
+		<WikiTitleID>1405100</WikiTitleID>
+		<RankerScore>0.1768409552438305</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>January_2005_in_India</WikiTitle> <WikiTitleID>1405100</WikiTitleID> <RankerScore>0.1768409552438305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_2005_in_India</WikiTitle> <WikiTitleID>1454554</WikiTitleID> <RankerScore>0.17275244621141028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_2005_in_India</WikiTitle> <WikiTitleID>2175916</WikiTitleID> <RankerScore>0.1693793110065691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>April_2005_in_India</WikiTitle> <WikiTitleID>1557033</WikiTitleID> <RankerScore>0.16034242917939667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>May_2005_in_India</WikiTitle> <WikiTitleID>1826482</WikiTitleID> <RankerScore>0.16034242917939667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_2005_in_India</WikiTitle> <WikiTitleID>2186996</WikiTitleID> <RankerScore>0.16034242917939667</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Truth Comission</EntitySurfaceForm>
+	<EntityTextStart>536</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Truth_and_reconciliation_commission</WikiTitle>
+		<WikiTitleID>3154383</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>right</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Botha</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>607</EntityTextEnd>
+	<LinkerScore>0.6811822324185728</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>0.5243539721593448</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Botha,_Alberta</WikiTitle> <WikiTitleID>3768270</WikiTitleID> <RankerScore>0.15535389655097898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_Botha</WikiTitle> <WikiTitleID>392101</WikiTitleID> <RankerScore>0.12404937951798421</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>0.5243539721593448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johan_Botha_(cricketer)</WikiTitle> <WikiTitleID>3577659</WikiTitleID> <RankerScore>0.09812137588584607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regiment_Botha</WikiTitle> <WikiTitleID>5938901</WikiTitleID> <RankerScore>0.09812137588584607</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1987</EntitySurfaceForm>
+	<EntityTextStart>624</EntityTextStart>
+	<EntityTextEnd>628</EntityTextEnd>
+	<LinkerScore>1.126370543740204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1987</WikiTitle>
+		<WikiTitleID>34760</WikiTitleID>
+		<RankerScore>0.16484389148455575</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1987</WikiTitle> <WikiTitleID>34760</WikiTitleID> <RankerScore>0.16484389148455575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_film</WikiTitle> <WikiTitleID>171293</WikiTitleID> <RankerScore>0.052988150205013344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_music</WikiTitle> <WikiTitleID>160794</WikiTitleID> <RankerScore>0.05796918900226508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_literature</WikiTitle> <WikiTitleID>190213</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_NFL_season</WikiTitle> <WikiTitleID>2394676</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_video_gaming</WikiTitle> <WikiTitleID>1323020</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_baseball</WikiTitle> <WikiTitleID>2280370</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_sports</WikiTitle> <WikiTitleID>224740</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1987</WikiTitle> <WikiTitleID>204066</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_poetry</WikiTitle> <WikiTitleID>5513199</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1986–87_NHL_season</WikiTitle> <WikiTitleID>2377439</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_Rugby_World_Cup</WikiTitle> <WikiTitleID>380206</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_World_Series</WikiTitle> <WikiTitleID>992577</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_in_aviation</WikiTitle> <WikiTitleID>272362</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_CFL_season</WikiTitle> <WikiTitleID>2818354</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_PGA_Tour</WikiTitle> <WikiTitleID>14640069</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980s_in_comics</WikiTitle> <WikiTitleID>6782024</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1987</WikiTitle> <WikiTitleID>1564402</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ontario_general_election,_1987</WikiTitle> <WikiTitleID>852290</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987_NCAA_Men&apos;s_Division_I_Basketball_Tournament</WikiTitle> <WikiTitleID>4381062</WikiTitleID> <RankerScore>0.042599927606362685</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>African National Congress</EntitySurfaceForm>
+	<EntityTextStart>645</EntityTextStart>
+	<EntityTextEnd>670</EntityTextEnd>
+	<LinkerScore>1.2780785392017149</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>African_National_Congress</WikiTitle>
+		<WikiTitleID>2503</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>organisation	party	movement</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>African_National_Congress</WikiTitle> <WikiTitleID>2503</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>674</EntityTextStart>
+	<EntityTextEnd>680</EntityTextEnd>
+	<LinkerScore>1.290017735097673</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.17738557688094939</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.17738557688094939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.045503483017282936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.045277762938578624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.04304901042136406</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1988</EntitySurfaceForm>
+	<EntityTextStart>702</EntityTextStart>
+	<EntityTextEnd>706</EntityTextEnd>
+	<LinkerScore>1.2307306462465297</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1988</WikiTitle>
+		<WikiTitleID>34670</WikiTitleID>
+		<RankerScore>0.2681791194273642</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1988</WikiTitle> <WikiTitleID>34670</WikiTitleID> <RankerScore>0.2681791194273642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_film</WikiTitle> <WikiTitleID>171292</WikiTitleID> <RankerScore>0.04661816694501033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_music</WikiTitle> <WikiTitleID>160795</WikiTitleID> <RankerScore>0.05027189665122356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_literature</WikiTitle> <WikiTitleID>190212</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_video_gaming</WikiTitle> <WikiTitleID>1323016</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_baseball</WikiTitle> <WikiTitleID>2280392</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_sports</WikiTitle> <WikiTitleID>224739</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_NFL_season</WikiTitle> <WikiTitleID>2394304</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_poetry</WikiTitle> <WikiTitleID>5513192</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Summer_Olympics</WikiTitle> <WikiTitleID>82757</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_1988</WikiTitle> <WikiTitleID>370615</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Winter_Olympics</WikiTitle> <WikiTitleID>187504</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1988</WikiTitle> <WikiTitleID>39531</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_comics</WikiTitle> <WikiTitleID>11789888</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1987–88_NHL_season</WikiTitle> <WikiTitleID>1941799</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_PGA_Tour</WikiTitle> <WikiTitleID>14639984</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_CFL_season</WikiTitle> <WikiTitleID>2809781</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_in_aviation</WikiTitle> <WikiTitleID>273551</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108271</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_World_Series</WikiTitle> <WikiTitleID>1218082</WikiTitleID> <RankerScore>0.03734887158684717</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Johannesburg</EntitySurfaceForm>
+	<EntityTextStart>721</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>1.237711148914934</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Johannesburg</WikiTitle>
+		<WikiTitleID>58893</WikiTitleID>
+		<RankerScore>0.2533477689133037</RankerScore>
+		<Attributes>capital	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Johannesburg</WikiTitle> <WikiTitleID>58893</WikiTitleID> <RankerScore>0.2533477689133037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wanderers_Stadium</WikiTitle> <WikiTitleID>1413269</WikiTitleID> <RankerScore>0.05262669335183472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johannesburg,_California</WikiTitle> <WikiTitleID>107536</WikiTitleID> <RankerScore>0.05869899415237816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ellis_Park_Stadium</WikiTitle> <WikiTitleID>1390679</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johannesburg_(horse)</WikiTitle> <WikiTitleID>6358998</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Johannesburg</WikiTitle> <WikiTitleID>12888869</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charlton_Township,_Michigan</WikiTitle> <WikiTitleID>118893</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OR_Tambo_International_Airport</WikiTitle> <WikiTitleID>106491</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Wanderers</WikiTitle> <WikiTitleID>3384683</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Johannesburg</WikiTitle> <WikiTitleID>1126561</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fordsburg,_Gauteng</WikiTitle> <WikiTitleID>2250321</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_Summit_2002</WikiTitle> <WikiTitleID>72728</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suburbs_of_Johannesburg</WikiTitle> <WikiTitleID>1406945</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Johannesburg_Metropolitan_Municipality</WikiTitle> <WikiTitleID>2244836</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ATP_Johannesburg</WikiTitle> <WikiTitleID>15988529</WikiTitleID> <RankerScore>0.05294387863187363</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>anti-apartheid</EntitySurfaceForm>
+	<EntityTextStart>756</EntityTextStart>
+	<EntityTextEnd>770</EntityTextEnd>
+	<LinkerScore>0.5006216679652646</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anti-Apartheid_Movement</WikiTitle>
+		<WikiTitleID>1568479</WikiTitleID>
+		<RankerScore>0.6489170132119035</RankerScore>
+		<Attributes>movement	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anti-Apartheid_Movement</WikiTitle> <WikiTitleID>1568479</WikiTitleID> <RankerScore>0.6489170132119035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.35108298678809646</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Botha</EntitySurfaceForm>
+	<EntityTextStart>786</EntityTextStart>
+	<EntityTextEnd>791</EntityTextEnd>
+	<LinkerScore>0.6328698293337132</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>0.5919936273741242</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Botha,_Alberta</WikiTitle> <WikiTitleID>3768270</WikiTitleID> <RankerScore>0.13558797867648512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_Botha</WikiTitle> <WikiTitleID>392101</WikiTitleID> <RankerScore>0.10115101763070652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>0.5919936273741242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johan_Botha_(cricketer)</WikiTitle> <WikiTitleID>3577659</WikiTitleID> <RankerScore>0.08563368815934204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regiment_Botha</WikiTitle> <WikiTitleID>5938901</WikiTitleID> <RankerScore>0.08563368815934204</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>state</EntitySurfaceForm>
+	<EntityTextStart>804</EntityTextStart>
+	<EntityTextEnd>809</EntityTextEnd>
+	<LinkerScore>0.013955379566951823</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>States_and_territories_of_India</WikiTitle>
+		<WikiTitleID>375986</WikiTitleID>
+		<RankerScore>0.0820044799275436</RankerScore>
+		<Attributes>subdivision	state	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_India</WikiTitle> <WikiTitleID>375986</WikiTitleID> <RankerScore>0.0820044799275436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.051979710986611416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Mexico</WikiTitle> <WikiTitleID>87990</WikiTitleID> <RankerScore>0.04989850194574035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_Australia</WikiTitle> <WikiTitleID>4689096</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Brazil</WikiTitle> <WikiTitleID>229379</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Austria</WikiTitle> <WikiTitleID>214486</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Germany</WikiTitle> <WikiTitleID>217450</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(computer_science)</WikiTitle> <WikiTitleID>285512</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(law)</WikiTitle> <WikiTitleID>2383572</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>573933</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(administrative_division)</WikiTitle> <WikiTitleID>172400</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Australian_House_of_Assembly</WikiTitle> <WikiTitleID>579453</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Venezuela</WikiTitle> <WikiTitleID>1831965</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(physics)</WikiTitle> <WikiTitleID>658642</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Nigeria</WikiTitle> <WikiTitleID>226734</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_government</WikiTitle> <WikiTitleID>862851</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Malaysia</WikiTitle> <WikiTitleID>690318</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Sudan</WikiTitle> <WikiTitleID>579458</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermodynamic_state</WikiTitle> <WikiTitleID>2747182</WikiTitleID> <RankerScore>0.048006900420006146</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thousands</EntitySurfaceForm>
+	<EntityTextStart>824</EntityTextStart>
+	<EntityTextEnd>833</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>amnesty</EntitySurfaceForm>
+	<EntityTextStart>940</EntityTextStart>
+	<EntityTextEnd>947</EntityTextEnd>
+	<LinkerScore>1.3589127270062278</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amnesty</WikiTitle>
+		<WikiTitleID>3258</WikiTitleID>
+		<RankerScore>0.7455364865159284</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amnesty</WikiTitle> <WikiTitleID>3258</WikiTitleID> <RankerScore>0.7455364865159284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amnesty_for_Polish_citizens_in_USSR</WikiTitle> <WikiTitleID>15123009</WikiTitleID> <RankerScore>0.1450554365638059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immigration_reform</WikiTitle> <WikiTitleID>1580293</WikiTitleID> <RankerScore>0.10940807692026575</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fully</EntitySurfaceForm>
+	<EntityTextStart>963</EntityTextStart>
+	<EntityTextEnd>968</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fully</WikiTitle>
+		<WikiTitleID>4264781</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>apartheid</EntitySurfaceForm>
+	<EntityTextStart>1026</EntityTextStart>
+	<EntityTextEnd>1035</EntityTextEnd>
+	<LinkerScore>0.8949733554157663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa_under_apartheid</WikiTitle>
+		<WikiTitleID>2200527</WikiTitleID>
+		<RankerScore>0.5638931664686645</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.5638931664686645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_of_apartheid</WikiTitle> <WikiTitleID>79942</WikiTitleID> <RankerScore>0.13300910720135548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Separate_development</WikiTitle> <WikiTitleID>9521923</WikiTitleID> <RankerScore>0.07950165015497597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_and_the_apartheid_analogy</WikiTitle> <WikiTitleID>5329520</WikiTitleID> <RankerScore>0.14409442602002817</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_apartheid</WikiTitle> <WikiTitleID>12501365</WikiTitleID> <RankerScore>0.07950165015497597</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Botha</EntitySurfaceForm>
+	<EntityTextStart>1037</EntityTextStart>
+	<EntityTextEnd>1042</EntityTextEnd>
+	<LinkerScore>0.5808454583878035</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>0.5501346356550378</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Botha,_Alberta</WikiTitle> <WikiTitleID>3768270</WikiTitleID> <RankerScore>0.14976137041001153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_Botha</WikiTitle> <WikiTitleID>392101</WikiTitleID> <RankerScore>0.11080775388493361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>0.5501346356550378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johan_Botha_(cricketer)</WikiTitle> <WikiTitleID>3577659</WikiTitleID> <RankerScore>0.09464812002500853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regiment_Botha</WikiTitle> <WikiTitleID>5938901</WikiTitleID> <RankerScore>0.09464812002500853</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>amnesty</EntitySurfaceForm>
+	<EntityTextStart>1097</EntityTextStart>
+	<EntityTextEnd>1104</EntityTextEnd>
+	<LinkerScore>1.307077853824049</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amnesty</WikiTitle>
+		<WikiTitleID>3258</WikiTitleID>
+		<RankerScore>0.7076343098562942</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amnesty</WikiTitle> <WikiTitleID>3258</WikiTitleID> <RankerScore>0.7076343098562942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amnesty_for_Polish_citizens_in_USSR</WikiTitle> <WikiTitleID>15123009</WikiTitleID> <RankerScore>0.16675367736606933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immigration_reform</WikiTitle> <WikiTitleID>1580293</WikiTitleID> <RankerScore>0.12561201277763653</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Botha</EntitySurfaceForm>
+	<EntityTextStart>1128</EntityTextStart>
+	<EntityTextEnd>1133</EntityTextEnd>
+	<LinkerScore>0.21876344982535126</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pieter_Willem_Botha</WikiTitle>
+		<WikiTitleID>383252</WikiTitleID>
+		<RankerScore>0.4687060457858959</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Botha,_Alberta</WikiTitle> <WikiTitleID>3768270</WikiTitleID> <RankerScore>0.17672711437689992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_Botha</WikiTitle> <WikiTitleID>392101</WikiTitleID> <RankerScore>0.13114510972115223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pieter_Willem_Botha</WikiTitle> <WikiTitleID>383252</WikiTitleID> <RankerScore>0.4687060457858959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johan_Botha_(cricketer)</WikiTitle> <WikiTitleID>3577659</WikiTitleID> <RankerScore>0.11171086505802597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regiment_Botha</WikiTitle> <WikiTitleID>5938901</WikiTitleID> <RankerScore>0.11171086505802597</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>one-year</EntitySurfaceForm>
+	<EntityTextStart>1245</EntityTextStart>
+	<EntityTextEnd>1253</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_Year</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>jail</EntitySurfaceForm>
+	<EntityTextStart>1254</EntityTextStart>
+	<EntityTextEnd>1258</EntityTextEnd>
+	<LinkerScore>0.18374142426505755</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jail</WikiTitle>
+		<WikiTitleID>10819258</WikiTitleID>
+		<RankerScore>0.1903532929987788</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jail</WikiTitle> <WikiTitleID>10819258</WikiTitleID> <RankerScore>0.1903532929987788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prison</WikiTitle> <WikiTitleID>48936</WikiTitleID> <RankerScore>0.15875690863428674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operating_system-level_virtualization</WikiTitle> <WikiTitleID>2770340</WikiTitleID> <RankerScore>0.07783022028219987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carthage_Jail</WikiTitle> <WikiTitleID>1063287</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FreeBSD_jail</WikiTitle> <WikiTitleID>2469109</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liberty_Jail</WikiTitle> <WikiTitleID>1063276</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penal_system_of_Japan</WikiTitle> <WikiTitleID>2966451</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Street_Gaol_(1827)</WikiTitle> <WikiTitleID>12965019</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Prison</WikiTitle> <WikiTitleID>651583</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Huron_Historic_Gaol</WikiTitle> <WikiTitleID>5980855</WikiTitleID> <RankerScore>0.08186565401210494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>jail sentence</EntitySurfaceForm>
+	<EntityTextStart>1254</EntityTextStart>
+	<EntityTextEnd>1267</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sentence_(law)</WikiTitle>
+		<WikiTitleID>870351</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+
