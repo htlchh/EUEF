@@ -18,19 +18,19 @@ public class Evaluation<T> {
 			Map<String, Set<T>> goldStandard,
 			Matching<T> m)
 	{
-		Map<String, Set<T>> filteredSystemResult = m.preprocessSystemResult(systemResult);
-		Map<String, Set<T>> filteredGoldStandard = m.preprocessGoldStandard(goldStandard);
-		Map<String, Integer> tpMap = tp(filteredSystemResult, filteredGoldStandard, m);
-		Map<String, Integer> fpMap = fp(filteredSystemResult, filteredGoldStandard, m);
-		Map<String, Integer> fnMap = fn(filteredSystemResult, filteredGoldStandard, m);
-		int tp = countTP(tpMap);
-		int fp = countFP(fpMap);
-		int fn = countFN(fnMap);
+		m.preProcessSystemResult(systemResult);
+		m.preProcessGoldStandard(goldStandard);
+		Map<String, Integer> tpMap = tp(systemResult, goldStandard, m);
+		Map<String, Integer> fpMap = fp(systemResult, goldStandard, m);
+		Map<String, Integer> fnMap = fn(systemResult, goldStandard, m);
+		int tpCount = countTP(tpMap);
+		int fpCount = countFP(fpMap);
+		int fnCount = countFN(fnMap);
 		Map<String, Float> precisionMap = precision(tpMap, fpMap);
 		Map<String, Float> recallMap = recall(tpMap, fnMap);
 		Map<String, Float> f1Map = f1(precisionMap, recallMap);
-		float microPrecision = microPrecision(tp, fp);
-		float microRecall = microRecall(tp, fn);
+		float microPrecision = microPrecision(tpCount, fpCount);
+		float microRecall = microRecall(tpCount, fnCount);
 		float microF1 = microF1(microRecall, microPrecision);
 		float macroPrecision = macroPrecision(precisionMap);
 		float macroRecall = macroRecall(recallMap);
@@ -39,7 +39,7 @@ public class Evaluation<T> {
 		return new EvaluationResult(
 				microF1, microRecall, microPrecision,
 				macroF1, macroRecall, macroPrecision, 
-				tp, fn, fp, 
+				tpCount, fnCount, fpCount, 
 				precisionMap, recallMap, f1Map, 
 				tpMap, fpMap, fnMap);		
 	}
@@ -52,10 +52,10 @@ public class Evaluation<T> {
 	 * @param m
 	 * @return
 	 */
-	private static <T> Map<String, Integer> fn(Map<String, Set<T>> filteredSystemResult, Map<String, Set<T>> filteredGoldStandard, Matching<T> m) {
+	private static <T> Map<String, Integer> fn(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
 		Map<String, Integer> fnMap = new HashMap<String, Integer>();
-		for (String title : filteredGoldStandard.keySet()) {
-			int fn = getSingleFN(filteredSystemResult.get(title), filteredGoldStandard.get(title), m);
+		for (String title : goldStandard.keySet()) {
+			int fn = getSingleFN(systemResult.get(title), goldStandard.get(title), m);
 			fnMap.put(title, fn);
 		}
 		return fnMap;
@@ -71,8 +71,10 @@ public class Evaluation<T> {
 					break;
 				}
 			}
-			if (matched == false)
+			if (matched == false) {
+				System.out.println(g);
 				fn++;
+			}
 		}
 		return fn;
 	}
@@ -84,10 +86,10 @@ public class Evaluation<T> {
 	 * @param m
 	 * @return
 	 */
-	private static <T> Map<String, Integer> fp(Map<String, Set<T>> filteredSystemResult, Map<String, Set<T>> filteredGoldStandard, Matching<T> m) {
+	private static <T> Map<String, Integer> fp(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
 		Map<String, Integer> fpMap = new HashMap<String, Integer>();
-		for (String title : filteredGoldStandard.keySet()) {
-			int fp = getSingleFP(filteredSystemResult.get(title), filteredGoldStandard.get(title), m);
+		for (String title : goldStandard.keySet()) {
+			int fp = getSingleFP(systemResult.get(title), goldStandard.get(title), m);
 			fpMap.put(title, fp);
 		}
 		return fpMap;
@@ -115,10 +117,10 @@ public class Evaluation<T> {
 	 * @param m
 	 * @return
 	 */
-	private static <T> Map<String, Integer> tp(Map<String, Set<T>> filteredSystemResult,	Map<String, Set<T>> filteredGoldStandard, Matching<T> m) {
+	private static <T> Map<String, Integer> tp(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
 		Map<String, Integer> tpMap = new HashMap<String, Integer>();
-		for (String title : filteredSystemResult.keySet()) {
-			int tp = getSingleTP(filteredSystemResult.get(title), filteredGoldStandard.get(title), m);
+		for (String title : systemResult.keySet()) {
+			int tp = getSingleTP(systemResult.get(title), goldStandard.get(title), m);
 			tpMap.put(title, tp);
 		}
 		return tpMap;
@@ -261,283 +263,4 @@ public class Evaluation<T> {
 				: (float) tp / (float) (tp + fp);
 	}
 
-	
-	/*
-	private int similarityIntersection(Set<T> set1, Set<T> set2, Matching<T> m) {
-		int intersectionI = 0;
-		for (T obj1 : set1)
-			for (T obj2 : set2)
-				if (m.match(obj1, obj2)) {
-					intersectionI++;
-					break;
-				}
-		for (T obj2 : set2)
-			for (T obj1 : set1)
-				if (m.match(obj1, obj2)) {
-					intersectionI++;
-					break;
-				}
-		return intersectionI;
-	}
-	
-	private int dissimilaritySet(Set<T> set1, Set<T> set2, Matching<T> m) {
-		int diss = 0;
-		for (T obj1 : set1) {
-			boolean found = false;
-			for (T obj2 : set2)
-				if (m.match(obj1, obj2)) {
-					found = true;
-					break;
-				}
-			if (!found)
-				diss++;
-		}
-		return diss;
-	}
-	
-	private int similarityUnion(Set<T> set1, Set<T> set2) {
-		return set1.size() + set2.size();
-	}
-	
-	public float singleSimilarity(Set<T> set1, Set<T> set2, Matching<T> m) {
-		int intersectionI = similarityIntersection(set1, set2, m);
-		int unionI = similarityUnion(set1, set2);
-		return (unionI == 0) ? 1 : (float) intersectionI / (float) unionI;
-	}
-	
-	public float macroSimilarity(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-
-		float avg = 0;
-		for (String title : systemResult.keySet()) {
-			Set<T> set1 = systemResult.get(title);
-			Set<T> set2 = goldStandard.get(title);
-			avg += singleSimilarity(set1, set2, m);
-		}
-		return avg / (float) systemResult.size();
-	}
-	
-	public float microSimilarity(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-
-		long intersections = 0;
-		long unions = 0;
-		for (String title : systemResult.keySet()) {
-			Set<T> set1 = systemResult.get(title);
-			Set<T> set2 = goldStandard.get(title);
-			intersections += similarityIntersection(set1, set2, m);
-			unions += similarityUnion(set1, set2);			
-		}
-		return intersections / unions;
-	}
-	
-	public int dissimilarityListCount(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-
-		int dissim = 0;
-		for (String title : systemResult.keySet()) {
-			Set<T> set1 = systemResult.get(title);
-			Set<T> set2 = goldStandard.get(title);
-			dissim += dissimilaritySet(set1, set2, m);
-		}
-		return dissim;
-	}
-	
-	public int similarityListCount(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-
-		int intersect = 0;
-		for (String title : systemResult.keySet()) {
-			Set<T> set1 = systemResult.get(title);
-			Set<T> set2 = goldStandard.get(title);	
-			intersect += similarityIntersection(set1, set2, m);
-		}
-		return intersect;
-	}
-	
-	public long listUnion(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-
-		long union = 0;
-		for (String title : systemResult.keySet()) {
-			Set<T> set1 = systemResult.get(title);
-			Set<T> set2 = goldStandard.get(title);	
-			union += similarityUnion(set1, set2);
-		}
-		return union;
-	}
-	
-	public static float precision(int tp, int fp) {
-		return tp + fp == 0 ? 1 : (float) tp / (float) (tp + fp);
-	}
-	
-	public static float recall(int tp, int fn) {
-		return fn == 0 ? 1 : (float) tp / (float) (fn + tp);
-	}
-	
-	public static float microF1(float recall, float precision) {
-		return (recall + precision == 0) ? 0 : 2 * recall * precision / (recall + precision);
-	}
-	
-	private Map<String, Set<T>> getTpPreprocessed(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		Map<String, Set<T>> tp = new HashMap<String, Set<T>>();
-		for (String title : systemResult.keySet()) {
-			Set<T> exp = systemResult.get(title);
-			Set<T> comp = goldStandard.get(title);			
-			tp.put(title, getSingleTp(exp, comp, m));
-		}
-		return tp;
-	}
-	
-	public Set<T> getSingleTp(Set<T> systemResult, Set<T> goldStandard, Matching<T> m) {
-		Set<T> tpsi = new HashSet<T>();
-		for (T a1 : goldStandard)
-			for (T a2 : systemResult)
-				if (m.match(a1, a2)) {
-					tpsi.add(a2);
-					break;
-				}
-		return tpsi;
-	}
-	
-	private Map<String, Set<T>> getFpPreprocessed(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		Map<String, Set<T>> fp = new HashMap<String, Set<T>>();
-		for (String title : systemResult.keySet()) {
-			Set<T> exp = systemResult.get(title);
-			Set<T> comp = goldStandard.get(title);			
-			fp.put(title, getSingleFp(exp, comp, m));
-		}
-		return fp;
-	}
-	
-	public Set<T> getSingleFp(Set<T> systemResult, Set<T> goldStandard,	Matching<T> m) {
-		Set<T> fpsi = new HashSet<T>();
-		for (T a1 : systemResult) {
-			boolean found = false;
-			for (T a2 : goldStandard)
-				if (m.match(a1, a2)) {
-					found = true;
-					break;
-				}
-			if (!found)
-				fpsi.add(a1);
-		}
-		return fpsi;
-	}
-	
-	private Map<String, Set<T>> getFnPreprocessed(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		Map<String, Set<T>> fn = new HashMap<String, Set<T>>();
-		for (String title : systemResult.keySet()) {
-			Set<T> exp = systemResult.get(title);
-			Set<T> comp = goldStandard.get(title);			
-			fn.put(title, getSingleFn(exp, comp, m));
-		}
-		return fn;
-	}
-	
-	public Set<T> getSingleFn(Set<T> systemResult, Set<T> goldStandard,	Matching<T> m) {
-		Set<T> fnsi = new HashSet<T>();
-		for (T a1 : systemResult) {
-			boolean found = false;
-			for (T a2 : goldStandard)
-				if (m.match(a1, a2)) {
-					found = true;
-					break;
-				}
-			if (!found)
-				fnsi.add(a1);
-		}
-		return fnsi;
-	}
-	
-	public float macroPrecision(int[] tps, int[] fps) {
-		float macroPrec = 0;
-		float precisions[] = precisions(tps, fps);
-		for (int i = 0; i < tps.length; i++)
-			macroPrec += precisions[i];
-		macroPrec /= tps.length;
-		return macroPrec;
-	}
-	
-	public float[] precisions(int[] tps, int[] fps) {
-		float[] precisions = new float[tps.length];
-		for (int i = 0; i < tps.length; i++)
-			precisions[i] = precision(tps[i], fps[i]);
-		return precisions;
-	}
-	
-	public float macroRecall(int[] tps, int[] fps, int[] fns) {
-		float macroRec = 0;
-		float[] recalls = recalls(tps, fps, fns);
-		for (int i = 0; i < tps.length; i++)
-			macroRec += recalls[i];
-		macroRec /= tps.length;
-		return macroRec;
-	}
-
-	public float[] recalls(int[] tps, int[] fps, int[] fns) {
-		float[] recalls = new float[tps.length];
-		for (int i = 0; i < tps.length; i++)
-			recalls[i] = recall(tps[i], fns[i]);
-		return recalls;
-	}
-
-	public float macroF1(int[] tps, int[] fps, int[] fns) {
-		float macroF1 = 0;
-		float[] f1s = f1s(tps, fps, fns);
-		for (int i = 0; i < tps.length; i++)
-			macroF1 += f1s[i];
-		macroF1 /= tps.length;
-		return macroF1;
-	}
-
-	public float[] f1s(int[] tps, int[] fps, int[] fns) {
-		float[] f1s = new float[tps.length];
-		for (int i = 0; i < tps.length; i++)
-			f1s[i] = F1(recall(tps[i], fns[i]),
-					precision(tps[i], fps[i]));
-		return f1s;
-	}
-	
-	private int countTP(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		int tp = 0;
-		for (int tpi : tpArray(systemResult, goldStandard, m))
-			tp += tpi;
-		return tp;
-	}
-
-	private int countFP(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		int fp = 0;
-		for (int fpi : fpArray(systemResult, goldStandard, m))
-			fp += fpi;
-		return fp;
-	}	
-	
-	private int countFN(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		int fn = 0;
-		for (int fni : fnArray(systemResult, goldStandard, m))
-			fn += fni;
-		return fn;
-	}
-	
-	private int[] tpArray(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
-		int[] tps = new int[systemResult.size()];
-		for (int i = 0; i < systemResult.size(); i++)
-			tps[i] = getSingleTp(expectedResult.get(i), computedResult.get(i), m).size();
-		return tps;
-	}	
-	
-	private int[] fpArray(List<Set<T>> expectedResult,
-			List<Set<T>> computedResult, MatchRelation<T> m) {
-		int[] fps = new int[computedResult.size()];
-		for (int i = 0; i < computedResult.size(); i++)
-			fps[i] = getSingleFp(expectedResult.get(i), computedResult.get(i),
-					m).size();
-		return fps;
-	}	
-
-	private int[] fnArray(List<Set<T>> expectedResult,
-			List<Set<T>> computedResult, MatchRelation<T> m) {
-		int[] fns = new int[expectedResult.size()];
-		for (int i = 0; i < expectedResult.size(); i++)
-			fns[i] += getSingleFn(expectedResult.get(i), computedResult.get(i),
-					m).size();
-		return fns;
-	}
-	*/
 }

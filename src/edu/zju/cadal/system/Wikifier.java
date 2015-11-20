@@ -157,6 +157,7 @@ public class Wikifier extends AbstractERDSystem {
 		for (int i = 0; i < entityNodes.getLength(); i++) {
 			Node entityNode = entityNodes.item(i);
 			if (entityNode.getNodeType() == Node.ELEMENT_NODE && entityNode.getNodeName().equals("Entity")) {
+				String surfaceForm = null;
 				int position = -1;
 				int length = -1;
 				float linkerScore = -1;
@@ -172,7 +173,8 @@ public class Wikifier extends AbstractERDSystem {
 				NodeList childrenOfEntity = entityNode.getChildNodes();
 				for (int j = 0; j < childrenOfEntity.getLength(); j++) {
 					Node child = childrenOfEntity.item(j);
-
+					if (child.getNodeType() == Node.ELEMENT_NODE && child.getNodeName().equals("EntitySurfaceForm"))
+						surfaceForm = child.getTextContent().trim();
 					if (child.getNodeType() == Node.ELEMENT_NODE && child.getNodeName().equals("EntityTextStart"))
 						position = Integer.parseInt(child.getTextContent().trim());
 					if (child.getNodeType() == Node.ELEMENT_NODE && child.getNodeName().equals("EntityTextEnd"))
@@ -180,12 +182,12 @@ public class Wikifier extends AbstractERDSystem {
 					if (child.getNodeType() == Node.ELEMENT_NODE && child.getNodeName().equals("LinkerScore"))
 						linkerScore = Float.parseFloat(child.getTextContent().trim());
 					//填充mention
-					if (position != -1 && length != -1 && linkerScore != -1) {
+					if (surfaceForm != null && position != -1 && length != -1 && linkerScore != -1) {
 						if (linkerScore < 0) {
 							System.out.println(linkerScore);
 							linkerScore = 0;
 						}
-						mention = new Mention(position, length, linkerScore);
+						mention = new Mention(surfaceForm, position, length, linkerScore);
 					}	
 						
 					

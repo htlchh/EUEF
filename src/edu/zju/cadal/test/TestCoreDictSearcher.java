@@ -18,7 +18,7 @@ public class TestCoreDictSearcher {
 	@Test
 	public void test_search() throws IOException {
 		CoreDictSearcher s = new CoreDictSearcher("/home/chenhui/Data/lucene_index/crosswikis_index/coredict_index");
-		TopDocs topDocs = s.search("mention", "Al Goldman");
+		TopDocs topDocs = s.search("mention", "Goldman");
 		ScoreDoc[] scoreDocs = topDocs.scoreDocs;
 		for (int i = 0; i < scoreDocs.length; i++) 
 		{

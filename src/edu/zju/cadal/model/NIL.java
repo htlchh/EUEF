@@ -20,12 +20,12 @@ public class NIL implements Serializable {
 	 * @param m
 	 * @param score
 	 */
-	public NIL(Mention m, Entity e, float score) {
+	public NIL(Mention m, float score) {
 		this.m = m;
 		if (score < 0)
 			throw new RuntimeException("The Confidence Score of an NIL Would Never Be Negative.");
 		this.score = score;
-		this.e = e;
+		this.e = new Entity(0, "*null*");
 	}
 	
 	public NIL(Mention m) {
@@ -38,24 +38,12 @@ public class NIL implements Serializable {
 		return m;
 	}
 
-	public void setMention(Mention m) {
-		this.m = m;
-	}
-
 	public Entity getEntity() {
 		return e;
 	}
 
-	public void setEntity(Entity e) {
-		this.e = e;
-	}
-
 	public float getScore() {
 		return score;
-	}
-
-	public void setScore(float score) {
-		this.score = score;
 	}
 
 	@Override

@@ -8,13 +8,14 @@ import java.util.Set;
 import org.junit.Test;
 
 import edu.zju.cadal.cache.EvaluationResult;
+import edu.zju.cadal.matching.CandidateExactMatching;
 import edu.zju.cadal.matching.CandidateFuzzyMatching;
 import edu.zju.cadal.matching.Evaluation;
 import edu.zju.cadal.matching.MentionFuzzyMatching;
+import edu.zju.cadal.matching.PreProcessor;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.model.Mention;
-import edu.zju.cadal.system.PreProcessor;
 import edu.zju.cadal.utils.Pair;
 
 /**
@@ -27,22 +28,20 @@ public class TestPreProcessor {
 	@Test
 	public void test_deference() {
 		Set<Mention> mentionSet = new HashSet<Mention>();
-		mentionSet.add(new Mention(2, 5, 0.3f));
-		mentionSet.add(new Mention(3, 8, 0.7f));
-		mentionSet.add(new Mention(15, 10, 0.9f));
+		mentionSet.add(new Mention("", 2, 5, 0.3f));
+		mentionSet.add(new Mention("", 3, 8, 0.7f));
+		mentionSet.add(new Mention("", 15, 10, 0.9f));
 		System.out.println(mentionSet);
-		Set<Mention> filtered = PreProcessor.coreference(mentionSet);
-		System.out.println(filtered);
 		MentionFuzzyMatching mwm = new MentionFuzzyMatching();
-		System.out.println(mwm.match(new Mention(1, 4), new Mention(1, 4)));
+		System.out.println(mwm.match(new Mention("", 1, 4), new Mention("", 1, 4)));
 	}
 	
 	
 	@Test
 	public void test_filterOverlapCandidate() {
-		Mention m1 = new Mention(2, 5, 0.3f);
-		Mention m2 = new Mention(3, 8, 0.7f);
-		Mention m3 = new Mention(15, 10, 0.9f);
+		Mention m1 = new Mention("", 2, 5, 0.3f);
+		Mention m2 = new Mention("", 3, 8, 0.7f);
+		Mention m3 = new Mention("", 15, 10, 0.9f);
 		
 		Pair<Entity, Float> p1 = new Pair<Entity, Float>(new Entity(10), 0.5f);
 		Pair<Entity, Float> p2 = new Pair<Entity, Float>(new Entity(11), 0.6f);
@@ -81,7 +80,7 @@ public class TestPreProcessor {
 		Map<String, Set<Candidate>> goldStandard = new HashMap<String, Set<Candidate>>();
 		systemResult.put("test", sys);
 		goldStandard.put("test", gold);
-		EvaluationResult result = Evaluation.getResult(systemResult, goldStandard, new CandidateFuzzyMatching());
+		EvaluationResult result = Evaluation.getResult(systemResult, goldStandard, new CandidateExactMatching());
 		System.out.println(result);
 //		for (Candidate c : sys) {
 //			System.out.print(c.getMention() + " ");

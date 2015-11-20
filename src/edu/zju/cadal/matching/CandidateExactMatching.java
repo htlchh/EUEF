@@ -1,5 +1,6 @@
 package edu.zju.cadal.matching;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.HashSet;
@@ -8,11 +9,15 @@ import java.util.Map;
 import java.util.Set;
 
 import javax.swing.text.html.CSS;
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.xpath.XPathExpressionException;
+
+import org.xml.sax.SAXException;
 
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
-import edu.zju.cadal.system.PreProcessor;
 import edu.zju.cadal.utils.Pair;
+import edu.zju.cadal.webservice.MediaWikiAPI;
 
 /**
  * @author:chenhui 
@@ -21,6 +26,8 @@ import edu.zju.cadal.utils.Pair;
  */
 public class CandidateExactMatching implements Matching<Candidate> {
 
+	MediaWikiAPI api = MediaWikiAPI.getInstance();
+	
 	/**
 	 * 两个candidate匹配当且仅当mention相同，且有一个共同的消歧候选项
 	 */
@@ -35,9 +42,9 @@ public class CandidateExactMatching implements Matching<Candidate> {
 		Set<Integer> s3 = new HashSet<Integer>();
 		Set<Integer> s4 = new HashSet<Integer>();
 		for (Pair<Entity, Float> p : s1)
-			s3.add(PreProcessor.dereference(p.first.getId()));
+			s3.add(api.dereference(p.first.getId()));
 		for (Pair<Entity, Float> p : s2)
-			s4.add(PreProcessor.dereference(p.first.getId()));
+			s4.add(api.dereference(p.first.getId()));
 		s3.retainAll(s4);
 		if (s3.size() == 0)
 			return false;
@@ -45,7 +52,8 @@ public class CandidateExactMatching implements Matching<Candidate> {
 	}
 
 	@Override
-	public Map<String, Set<Candidate>> preprocessSystemResult(Map<String, Set<Candidate>> systemResult) {
+	public void preProcessSystemResult(Map<String, Set<Candidate>> systemResult) {
+		
 		//预处理id，加快比较速度
 		List<Integer> idList = new ArrayList<Integer>();
 		for (String title : systemResult.keySet()) {
@@ -53,31 +61,35 @@ public class CandidateExactMatching implements Matching<Candidate> {
 				for (Pair<Entity, Float> p : c.getPairSet())
 					idList.add(p.first.getId());
 		}
-		PreProcessor.prefetchWId(idList);
-		
-		Map<String, Set<Candidate>> filterSystemResult = new HashMap<String, Set<Candidate>>();
-		for (String title : systemResult.keySet()) {
-			filterSystemResult.put(title, PreProcessor.filterOverlapCandidate(systemResult.get(title)));
+		try {
+			api.prefetchWId(idList);
+			api.flush();
+		} catch (XPathExpressionException | IOException
+				| ParserConfigurationException | SAXException e) {
+			e.printStackTrace();
 		}
-		return filterSystemResult;
 	}
 
 	@Override
-	public Map<String, Set<Candidate>> preprocessGoldStandard(Map<String, Set<Candidate>> goldStandard) {
+	public void preProcessGoldStandard(Map<String, Set<Candidate>> goldStandard) {
 		List<Integer> idList = new ArrayList<Integer>();
 		for (String title : goldStandard.keySet()) {
 			for (Candidate c : goldStandard.get(title))
 				for (Pair<Entity, Float> p : c.getPairSet())
 					idList.add(p.first.getId());
 		}
-		PreProcessor.prefetchWId(idList);
-		
-		return goldStandard;
+		try {
+			api.prefetchWId(idList);
+			api.flush();
+		} catch (XPathExpressionException | IOException
+				| ParserConfigurationException | SAXException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Override
 	public String getName() {
-		return "Candidate Strong Matching";
+		return "Candidate Exact Matching";
 	}
 	
 }

@@ -25,7 +25,7 @@ public interface Matching<T> {
 	 * @param systemResult
 	 * @return
 	 */
-	public Map<String, Set<T>> preprocessSystemResult(Map<String, Set<T>> systemResult);
+	public void preProcessSystemResult(Map<String, Set<T>> systemResult);
 	
 	
 	/**
@@ -34,7 +34,7 @@ public interface Matching<T> {
 	 * @param goldStandard
 	 * @return
 	 */
-	public Map<String, Set<T>> preprocessGoldStandard(Map<String, Set<T>> goldStandard);
+	public void preProcessGoldStandard(Map<String, Set<T>> goldStandard);
 	
 	
 	

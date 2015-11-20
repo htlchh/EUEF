@@ -101,6 +101,7 @@ public class MSNBC extends AbstractDataset{
 					if (nNode.getNodeType() == Node.ELEMENT_NODE) {
 						Element eElement = (Element) nNode;
 						NodeList annData = eElement.getChildNodes();
+						String surfaceForm = null;
 						int position = -1;
 						int length = -1;
 						String title = null;
@@ -110,6 +111,8 @@ public class MSNBC extends AbstractDataset{
 							if (dataNode.getNodeType() == Node.ELEMENT_NODE) 
 							{
 								Element dataElement = (Element) dataNode;
+								if (dataElement.getTagName().equals("SurfaceForm"))
+									surfaceForm = dataElement.getTextContent().trim();
 								if (dataElement.getTagName().equals("Offset"))
 									position = Integer.parseInt(dataElement.getTextContent().trim());
 								if (dataElement.getTagName().equals("Length"))
@@ -128,7 +131,7 @@ public class MSNBC extends AbstractDataset{
 							}
 						}
 						if (title != null)
-							problemSet.add(new Problem(position, length, title));
+							problemSet.add(new Problem(surfaceForm, position, length, title));
 					} 
 				} // for
 				problemMap.put(docName, problemSet);
@@ -163,7 +166,7 @@ public class MSNBC extends AbstractDataset{
 			Set<Entity> entitySet = new HashSet<Entity>();
 			
 			for (Problem p : problemSet) {
-				Mention m = new Mention(p.position, p.length);
+				Mention m = new Mention(p.surfaceForm, p.position, p.length);
 				mentionSet.add(m);
 				int wid = api.getIdByTitle(p.title);
 				if (wid == -1) {
@@ -234,10 +237,12 @@ public class MSNBC extends AbstractDataset{
 	}
 	
 	private class Problem {
+		public String surfaceForm;
 		public int position, length;
 		public String title;
 		
-		public Problem(int position, int length, String title) {
+		public Problem(String surfaceForm, int position, int length, String title) {
+			this.surfaceForm = surfaceForm;
 			this.position = position;
 			this.length = length;
 			this.title = title;

@@ -56,18 +56,9 @@ public class Entity implements Serializable {
 		return id;
 	}
 
-	public void setId(int id) {
-		if (id < 0)
-			throw new RuntimeException("The Id of an Entity Would Never Be Negative.");		
-		this.id = id;
-	}
-
 	public String getTitle() {
 		return title;
 	}
 
-	public void setTitle(String title) {
-		this.title = title;
-	}
 	
 }

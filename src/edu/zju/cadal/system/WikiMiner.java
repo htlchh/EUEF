@@ -158,7 +158,7 @@ public class WikiMiner extends AbstractERDSystem{
 						int end = Integer.parseInt(ends.item(j).getNodeValue());
 						int length = end - start;
 						//填充变量
-						Mention m = new Mention(start, length, weight);
+						Mention m = new Mention(text.substring(start, start+length), start, length, weight);
 						Entity e = new Entity(id, title);
 						Set<Pair<Entity, Float>> pairSet = new HashSet<Pair<Entity, Float>>();
 						pairSet.add(new Pair<Entity, Float>(e, weight));

@@ -9,6 +9,7 @@ import edu.zju.cadal.cache.EvaluationResult;
 import edu.zju.cadal.cache.SystemResult;
 import edu.zju.cadal.cache.SystemResultDumper;
 import edu.zju.cadal.dataset.AbstractDataset;
+import edu.zju.cadal.exception.UnknowMatchingException;
 import edu.zju.cadal.matching.AnnotationExactMatching;
 import edu.zju.cadal.matching.AnnotationFuzzyMatching;
 import edu.zju.cadal.matching.CandidateExactMatching;
@@ -17,6 +18,8 @@ import edu.zju.cadal.matching.Evaluation;
 import edu.zju.cadal.matching.Matching;
 import edu.zju.cadal.matching.MentionExactMatching;
 import edu.zju.cadal.matching.MentionFuzzyMatching;
+import edu.zju.cadal.matching.NILExactMathcing;
+import edu.zju.cadal.matching.NILFuzzyMatching;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.system.AbstractERDSystem;
@@ -44,32 +47,27 @@ public class Executor<T> {
 			e.printStackTrace();
 		}
 		
-		/** mention模糊匹配 */
 		if (m instanceof MentionFuzzyMatching) {
 			MentionFuzzyMatching mwm = (MentionFuzzyMatching)m;
 			EvaluationResult evaluationResult = Evaluation.getResult(
 					result.getMentionCache(s.getName(), ds.getName()), 
 					ds.getGoldMention(), 
-					mwm);			
+					mwm);
 			System.out.println(evaluationResult);
 			evaluationResult.detailPRF();
 			SystemResultDumper.compare(result, ds, s, mwm);
 		}
-		
-		/** mention强匹配 */
-		if (m instanceof MentionExactMatching) {
-			MentionExactMatching msm = (MentionExactMatching)m;
-			EvaluationResult evaluationResult = Evaluation.getResult(
-					result.getMentionCache(s.getName(), ds.getName()), 
-					ds.getGoldMention(), 
-					msm);			
-			System.out.println(evaluationResult);
-			evaluationResult.detailPRF();
-			SystemResultDumper.compare(result, ds, s, msm);			
-		}
-		
-		/** candidate 模糊匹配 */
-		if (m instanceof CandidateFuzzyMatching) {
+//		else if (m instanceof MentionExactMatching) {
+//			MentionExactMatching msm = (MentionExactMatching)m;
+//			EvaluationResult evaluationResult = Evaluation.getResult(
+//					result.getMentionCache(s.getName(), ds.getName()), 
+//					ds.getGoldMention(), 
+//					msm);			
+//			System.out.println(evaluationResult);
+//			evaluationResult.detailPRF();
+//			SystemResultDumper.compare(result, ds, s, msm);			
+//		}
+		else if (m instanceof CandidateFuzzyMatching) {
 			CandidateFuzzyMatching cwm = (CandidateFuzzyMatching)m;
 			EvaluationResult evaluationResult = Evaluation.getResult(
 					result.getCandidateCache(s.getName(), ds.getName()), 
@@ -79,21 +77,17 @@ public class Executor<T> {
 			evaluationResult.detailPRF();
 			SystemResultDumper.compare(result, ds, s, cwm);				
 		}
-		
-		/** candidate 强匹配 */
-		if (m instanceof CandidateExactMatching) {
-			CandidateExactMatching csm = (CandidateExactMatching)m;
-			EvaluationResult evaluationResult = Evaluation.getResult(
-					result.getCandidateCache(s.getName(), ds.getName()), 
-					ds.getGoldCandidate(), 
-					csm);
-			System.out.println(evaluationResult);
-			evaluationResult.detailPRF();
-			SystemResultDumper.compare(result, ds, s, csm);				
-		}		
-		
-		/** annotation 模糊匹配 */
-		if (m instanceof AnnotationFuzzyMatching) {
+//		else if (m instanceof CandidateExactMatching) {
+//			CandidateExactMatching csm = (CandidateExactMatching)m;
+//			EvaluationResult evaluationResult = Evaluation.getResult(
+//					result.getCandidateCache(s.getName(), ds.getName()), 
+//					ds.getGoldCandidate(), 
+//					csm);
+//			System.out.println(evaluationResult);
+//			evaluationResult.detailPRF();
+//			SystemResultDumper.compare(result, ds, s, csm);				
+//		}		
+		else if (m instanceof AnnotationFuzzyMatching) {
 			AnnotationFuzzyMatching awm = (AnnotationFuzzyMatching)m;
 			EvaluationResult evaluationResult = Evaluation.getResult(
 					result.getAnnotationCache(s.getName(), ds.getName()), 
@@ -103,17 +97,38 @@ public class Executor<T> {
 			evaluationResult.detailPRF();
 			SystemResultDumper.compare(result, ds, s, awm);				
 		}
-		
-		/** annotation 强匹配 */
-		if (m instanceof AnnotationExactMatching) {
-			AnnotationExactMatching asm = (AnnotationExactMatching)m;
+//		else if (m instanceof AnnotationExactMatching) {
+//			AnnotationExactMatching asm = (AnnotationExactMatching)m;
+//			EvaluationResult evaluationResult = Evaluation.getResult(
+//					result.getAnnotationCache(s.getName(), ds.getName()), 
+//					ds.getGoldAnnotation(),
+//					asm);
+//			System.out.println(evaluationResult);
+//			evaluationResult.detailPRF();
+//			SystemResultDumper.compare(result, ds, s, asm);				
+//		}
+//		else if (m instanceof NILExactMathcing) {
+//			NILExactMathcing nem = (NILExactMathcing)m;
+//			EvaluationResult evaluationResult = Evaluation.getResult(
+//					result.getNILCache(s.getName(), ds.getName()), 
+//					ds.getGoldNIL(), 
+//					nem);
+//			System.out.println(evaluationResult);
+//			evaluationResult.detailPRF();
+//			SystemResultDumper.compare(result, ds, s, nem);
+//		}
+		else if (m instanceof NILFuzzyMatching) {
+			NILFuzzyMatching nfm = (NILFuzzyMatching)m;
 			EvaluationResult evaluationResult = Evaluation.getResult(
-					result.getAnnotationCache(s.getName(), ds.getName()), 
-					ds.getGoldAnnotation(),
-					asm);
+					result.getNILCache(s.getName(), ds.getName()), 
+					ds.getGoldNIL(), 
+					nfm);
 			System.out.println(evaluationResult);
 			evaluationResult.detailPRF();
-			SystemResultDumper.compare(result, ds, s, asm);				
+			SystemResultDumper.compare(result, ds, s, nfm);
+		}
+		else {
+			throw new UnknowMatchingException();
 		}
 	}
 }

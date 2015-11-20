@@ -12,6 +12,7 @@ public class Mention implements Serializable, Comparable<Mention> {
 
 	private static final long serialVersionUID = 1L;
 
+	String surfaceForm;
 	//mention在文档中的起始位置
 	private int position;
 	//mention的长度
@@ -19,7 +20,8 @@ public class Mention implements Serializable, Comparable<Mention> {
 	//mention的置信分数值
 	private float score;
 	
-	public Mention(int position, int length, float score) {
+	public Mention(String surfaceForm, int position, int length, float score) {
+		this.surfaceForm = surfaceForm;
 		if (position < 0)
 			throw new RuntimeException("The Position of a Mention Would Never Be Negative.");
 		this.position = position;
@@ -38,7 +40,8 @@ public class Mention implements Serializable, Comparable<Mention> {
 	 * @param position
 	 * @param length
 	 */
-	public Mention(int position, int length) {
+	public Mention(String surfaceForm, int position, int length) {
+		this.surfaceForm = surfaceForm;
 		if (position < 0)
 			throw new RuntimeException("The Position of a Mention Would Never Be Negative.");		
 		this.position = position;
@@ -73,6 +76,21 @@ public class Mention implements Serializable, Comparable<Mention> {
 			return false;
 		return true;
 	}
+	
+	public boolean overlap(Mention m) {
+		int p1 = this.getPosition();
+		int l1 = this.getLength();
+		int e1 = p1 + l1 - 1;
+		int p2 = m.getPosition();
+		int l2 = m.getLength();
+		int e2 = p2 + l2 - 1;
+		return (
+				(p1 <= p2 && p2 <= e1) ||
+				(p2 <= p1 && p1 <= e2) ||
+				(p1 >= p2 && e1 <= e2) ||
+				(p1 <= p2 && e1 >= e2)
+				);		
+	}	
 
 	@Override
 	public int compareTo(Mention o) {
@@ -81,37 +99,24 @@ public class Mention implements Serializable, Comparable<Mention> {
 
 	@Override
 	public String toString() {
-		return String.format("<%d,%d,%f>", this.position, this.length, this.score);
+		return String.format("<%s,%d,%d,%f>", this.surfaceForm, this.position, this.length, this.score);
+	}
+	
+	public String getSurfaceForm() {
+		return surfaceForm;
 	}
 	
 	public int getPosition() {
 		return position;
 	}
 
-	public void setPosition(int position) {
-		if (position < 0)
-			throw new RuntimeException("The Position of a Mention Would Never Be Negative.");
-		this.position = position;
-	}
 
 	public int getLength() {
 		return length;
 	}
 
-	public void setLength(int length) {
-		if (length <= 0)
-			throw new RuntimeException("The Length of a Mention Should Be Positive.");		
-		this.length = length;
-	}
-
 	public float getScore() {
 		return score;
-	}
-
-	public void setScore(float score) {
-		if (score < 0)
-			throw new RuntimeException("The Confidence Score of a Mention Should Be in [0, 1].");
-		this.score = score;
 	}
 	
 }

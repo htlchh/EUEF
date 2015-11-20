@@ -27,20 +27,19 @@ public class TestMentionMatching {
 		Map<String, Set<Mention>> goldStandard = new HashMap<String, Set<Mention>>();
 		Set<Mention> sys = new HashSet<Mention>();
 		Set<Mention> gold = new HashSet<Mention>();
-		sys.add(new Mention(1, 10, 0.8f));
-		sys.add(new Mention(5, 6, 0.9f));
-		gold.add(new Mention(2, 10));
-		gold.add(new Mention(20, 5));
+		sys.add(new Mention("CAC", 4976, 3, 0.5f));
+		sys.add(new Mention("Lennar", 4253, 6, 0.9f));
+		gold.add(new Mention("Lennar Corp.", 4253, 12, 1f));
+		gold.add(new Mention("CAC-40", 4976, 6, 1f));
 		systemResult.put("test", sys);
 		goldStandard.put("test", gold);
-		MentionExactMatching msm = new MentionExactMatching();
-		EvaluationResult result = Evaluation.getResult(systemResult, goldStandard, msm);
+		MentionFuzzyMatching mfm = new MentionFuzzyMatching();
+		mfm.setDistanceThreshold(0.000f);
+		
+		EvaluationResult result = Evaluation.getResult(systemResult, goldStandard, mfm);
 		System.out.println(result);
 		result.detailPRF();
 		
-		MentionFuzzyMatching mwm = new MentionFuzzyMatching();
-		result = Evaluation.getResult(systemResult, goldStandard, mwm);
-		System.out.println(result);
-		result.detailPRF();
 	}
+	
 }

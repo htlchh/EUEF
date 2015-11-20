@@ -70,25 +70,12 @@ public class Annotation implements Serializable{
 		return m;
 	}
 
-	public void setMention(Mention m) {
-		this.m = m;
-	}
-
 	public Entity getEntity() {
 		return e;
-	}
-
-	public void setEntity(Entity e) {
-		this.e = e;
 	}
 
 	public float getScore() {
 		return score;
 	}
-
-	public void setScore(float score) {
-		this.score = score;
-	}
-	
 	
 }

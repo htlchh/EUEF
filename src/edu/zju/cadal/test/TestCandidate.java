@@ -20,8 +20,8 @@ public class TestCandidate {
 
 	@Test
 	public void test_equal() {
-		Mention m1 = new Mention(0, 1, 1.0f);
-		Mention m2 = new Mention(2, 1, 0.5f);
+		Mention m1 = new Mention("", 0, 1, 1.0f);
+		Mention m2 = new Mention("", 2, 1, 0.5f);
 		
 		Entity e1 = new Entity(10);
 		Entity e2 = new Entity(11);

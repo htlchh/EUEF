@@ -201,6 +201,7 @@ public class Spotlight extends AbstractERDSystem{
 			wikiTitles.add(dbpediaApi.dbpediaToWikipedia(dbpTitle));
 		try {
 			mediaWikiApi.prefetchTitle(new Vector<String>(wikiTitles));
+			mediaWikiApi.flush();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -221,7 +222,7 @@ public class Spotlight extends AbstractERDSystem{
 				continue;
 			}
 			//填充各个变量
-			Mention m = new Mention(a.position, a.length);
+			Mention m = new Mention(a.surfaceForm, a.position, a.length);
 			Entity e = new Entity(wikipediaArticle, a.resource);
 			Annotation annotation = new Annotation(m, e, a.score);
 			Set<Pair<Entity, Float>> pairSet = new HashSet<Pair<Entity, Float>>();

@@ -1,11 +1,9 @@
 package edu.zju.cadal.matching;
 
-import java.util.HashMap;
 import java.util.Map;
 import java.util.Set;
 
 import edu.zju.cadal.model.Mention;
-import edu.zju.cadal.system.PreProcessor;
 
 /**
  * @author:chenhui 
@@ -20,22 +18,16 @@ public class MentionExactMatching implements Matching<Mention>{
 	}
 
 	@Override
-	public Map<String, Set<Mention>> preprocessSystemResult(Map<String, Set<Mention>> systemResult) {
-		Map<String, Set<Mention>> filteredResult = new HashMap<String, Set<Mention>>();
-		for (String title : systemResult.keySet()) {
-			filteredResult.put(title, PreProcessor.coreference(systemResult.get(title)));
-		}
-		return filteredResult;
+	public void preProcessSystemResult(Map<String, Set<Mention>> systemResult) {
 	}
 
 	@Override
-	public Map<String, Set<Mention>> preprocessGoldStandard(Map<String, Set<Mention>> goldStandard) {
-		return goldStandard;
+	public void preProcessGoldStandard(Map<String, Set<Mention>> goldStandard) {
 	}
 
 	@Override
 	public String getName() {
-		return "Mention Strong Matching";
+		return "Mention Exact Matching";
 	}
 
 }

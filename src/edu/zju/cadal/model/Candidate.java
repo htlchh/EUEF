@@ -73,16 +73,10 @@ public class Candidate implements Serializable {
 		return m;
 	}
 
-	public void setMention(Mention m) {
-		this.m = m;
-	}
 
 	public Set<Pair<Entity, Float>> getPairSet() {
 		return pairSet;
 	}
 
-	public void setPairSet(Set<Pair<Entity, Float>> pairSet) {
-		this.pairSet = pairSet;
-	}
 	
 }

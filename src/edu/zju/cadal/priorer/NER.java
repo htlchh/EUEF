@@ -45,7 +45,12 @@ public class NER extends Recognizer{
 		try {
 			List<Triple<String,Integer,Integer>> triples = stanford.classifyToCharacterOffsets(text);
 	        for (Triple<String,Integer,Integer> trip : triples) {
-	        	Mention mention = new Mention(trip.second, trip.third-trip.second, 1.0f);
+//	        	System.out.println(text.substring(trip.second, trip.third));
+	        	Mention mention = new Mention(
+	        			text.substring(trip.second, trip.third), 
+	        			trip.second, 
+	        			trip.third-trip.second, 
+	        			1.0f);
 	        	mentionSet.add(mention);
 	        }			
 		} catch (Exception e) {

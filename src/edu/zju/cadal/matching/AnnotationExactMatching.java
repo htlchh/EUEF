@@ -1,15 +1,21 @@
 package edu.zju.cadal.matching;
 
+import java.io.IOException;
 import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
 import java.util.Set;
 
+import javax.xml.parsers.ParserConfigurationException;
+import javax.xml.xpath.XPathExpressionException;
+
+import org.xml.sax.SAXException;
+
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.model.Mention;
-import edu.zju.cadal.system.PreProcessor;
+import edu.zju.cadal.webservice.MediaWikiAPI;
 
 /**
  * @author:chenhui 
@@ -17,6 +23,7 @@ import edu.zju.cadal.system.PreProcessor;
  * @date:2015年11月17日
  */
 public class AnnotationExactMatching implements Matching<Annotation>{
+	private MediaWikiAPI api = MediaWikiAPI.getInstance();
 	
 	@Override
 	public boolean match(Annotation a1, Annotation a2) {
@@ -27,42 +34,46 @@ public class AnnotationExactMatching implements Matching<Annotation>{
 		
 		Entity e1 = a1.getEntity();
 		Entity e2 = a2.getEntity();
-		if (PreProcessor.dereference(e1.getId()) != PreProcessor.dereference(e2.getId()))
+		if (api.dereference(e1.getId()) != api.dereference(e2.getId()))
 			return false;
 		
 		return true;
 	}
 
 	@Override
-	public Map<String, Set<Annotation>> preprocessSystemResult(Map<String, Set<Annotation>> systemResult) {
+	public void preProcessSystemResult(Map<String, Set<Annotation>> systemResult) {
 		//预先查询结果中的id，加快比较速度
 		List<Integer> idList = new ArrayList<Integer>();
 		for (Set<Annotation> aSet : systemResult.values()) 
 			for (Annotation a : aSet)
 				idList.add(a.getEntity().getId());
-		PreProcessor.prefetchWId(idList);
-		
-		//过滤掉mention重叠的annotation
-		Map<String, Set<Annotation>> filterSystemResult = new HashMap<String, Set<Annotation>>();
-		for (String title : systemResult.keySet()) {
-			filterSystemResult.put(title, PreProcessor.filterOverlapAnnotation(systemResult.get(title)));
+		try {
+			api.prefetchWId(idList);
+			api.flush();
+		} catch (XPathExpressionException | IOException
+				| ParserConfigurationException | SAXException e) {
+			e.printStackTrace();
 		}
-		return filterSystemResult;
 	}
 
 	@Override
-	public Map<String, Set<Annotation>> preprocessGoldStandard(Map<String, Set<Annotation>> goldStandard) {
+	public void preProcessGoldStandard(Map<String, Set<Annotation>> goldStandard) {
 		List<Integer> idList = new ArrayList<Integer>();
 		for (Set<Annotation> aSet : goldStandard.values()) 
 			for (Annotation a : aSet)
 				idList.add(a.getEntity().getId());
-		PreProcessor.prefetchWId(idList);
-		return goldStandard;
+		try {
+			api.prefetchWId(idList);
+			api.flush();
+		} catch (XPathExpressionException | IOException
+				| ParserConfigurationException | SAXException e) {
+			e.printStackTrace();
+		}
 	}
 
 	@Override
 	public String getName() {
-		return "Annotation Strong Matching";
+		return "Annotation Exact Matching";
 	}
 
 	

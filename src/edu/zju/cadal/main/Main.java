@@ -1,12 +1,10 @@
 package edu.zju.cadal.main;
 
 import edu.zju.cadal.dataset.MSNBC;
-import edu.zju.cadal.matching.AnnotationExactMatching;
 import edu.zju.cadal.matching.AnnotationFuzzyMatching;
-import edu.zju.cadal.matching.CandidateExactMatching;
 import edu.zju.cadal.matching.CandidateFuzzyMatching;
-import edu.zju.cadal.matching.MentionExactMatching;
 import edu.zju.cadal.matching.MentionFuzzyMatching;
+import edu.zju.cadal.matching.NILFuzzyMatching;
 import edu.zju.cadal.system.Priorer;
 import edu.zju.cadal.system.Spotlight;
 import edu.zju.cadal.system.WikiMiner;
@@ -30,14 +28,13 @@ public class Main {
 				"dataset/MSNBC/Problems");
 		
 		
-		MentionExactMatching msm = new MentionExactMatching();
-		MentionFuzzyMatching mwm = new MentionFuzzyMatching();
-		CandidateExactMatching csm = new CandidateExactMatching();
-		CandidateFuzzyMatching cwm = new CandidateFuzzyMatching();
-		AnnotationExactMatching asm = new AnnotationExactMatching();
-		AnnotationFuzzyMatching awm = new AnnotationFuzzyMatching();
+		MentionFuzzyMatching mm = new MentionFuzzyMatching();
+		mm.setDistanceThreshold(0.000f);
+		CandidateFuzzyMatching cm = new CandidateFuzzyMatching(mm);
+		AnnotationFuzzyMatching am = new AnnotationFuzzyMatching(mm);
+		NILFuzzyMatching nm = new NILFuzzyMatching(mm);
 		
-		Executor.run(msnbc, priorer, asm, "output/priorer-msnbc-asm.out");
+		Executor.run(msnbc, wm, mm, "output/wikimier-msnbc-mfm.out");
 	}
 
 }
