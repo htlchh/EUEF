@@ -6,15 +6,11 @@ import java.util.Set;
 
 import edu.zju.cadal.dataset.AbstractDataset;
 import edu.zju.cadal.exception.UnknowMatchingException;
-import edu.zju.cadal.matching.AnnotationExactMatching;
-import edu.zju.cadal.matching.AnnotationFuzzyMatching;
-import edu.zju.cadal.matching.CandidateExactMatching;
-import edu.zju.cadal.matching.CandidateFuzzyMatching;
+import edu.zju.cadal.matching.AnnotationMatching;
+import edu.zju.cadal.matching.CandidateMatching;
 import edu.zju.cadal.matching.Matching;
-import edu.zju.cadal.matching.MentionExactMatching;
-import edu.zju.cadal.matching.MentionFuzzyMatching;
-import edu.zju.cadal.matching.NILExactMathcing;
-import edu.zju.cadal.matching.NILFuzzyMatching;
+import edu.zju.cadal.matching.MentionMatching;
+import edu.zju.cadal.matching.NILMatching;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
@@ -37,21 +33,8 @@ public class SystemResultDumper<T> {
 	public static <T> void compare(SystemResult result, AbstractDataset ds, AbstractERDSystem s, Matching<T> m) throws UnknowMatchingException {
 		Map<String, String> rawTextMap = ds.getRawText();
 		
-//		if (m instanceof MentionExactMatching) {
-//			MentionExactMatching msm = (MentionExactMatching)m;
-//			Map<String, Set<Mention>> systemMentionMap = result.getMentionCache(s.getName(), ds.getName());
-//			Map<String, Set<Mention>> goldMentionMap = ds.getGoldMention();
-//			
-//			for (String title : rawTextMap.keySet())
-//				compare(
-//						title, 
-//						systemMentionMap.get(title), 
-//						goldMentionMap.get(title), 
-//						msm);			
-//		}
-		
-		if (m instanceof MentionFuzzyMatching) {
-			MentionFuzzyMatching mwm = (MentionFuzzyMatching)m;
+		if (m instanceof MentionMatching) {
+			MentionMatching mwm = (MentionMatching)m;
 			Map<String, Set<Mention>> systemMentionMap = result.getMentionCache(s.getName(), ds.getName());
 			Map<String, Set<Mention>> goldMentionMap = ds.getGoldMention();
 			
@@ -64,18 +47,8 @@ public class SystemResultDumper<T> {
 			}
 		}
 		
-//		else if (m instanceof AnnotationExactMatching) {
-//			AnnotationExactMatching asm = (AnnotationExactMatching)m;
-//			Map<String, Set<Annotation>> systemAnnotationMap = result.getAnnotationCache(s.getName(), ds.getName());
-//			Map<String, Set<Annotation>> goldAnnotationMap = ds.getGoldAnnotation();
-//			
-//			for (String title : rawTextMap.keySet()) {
-//				compare(title, systemAnnotationMap.get(title), goldAnnotationMap.get(title), asm);
-//			}
-//		}
-		
-		else if (m instanceof AnnotationFuzzyMatching) {
-			AnnotationFuzzyMatching awm = (AnnotationFuzzyMatching)m;
+		else if (m instanceof AnnotationMatching) {
+			AnnotationMatching awm = (AnnotationMatching)m;
 			Map<String, Set<Annotation>> systemAnnotationMap = result.getAnnotationCache(s.getName(), ds.getName());
 			Map<String, Set<Annotation>> goldAnnotationMap = ds.getGoldAnnotation();
 			
@@ -84,33 +57,17 @@ public class SystemResultDumper<T> {
 			}			
 		}
 		
-//		else if (m instanceof CandidateExactMatching) {
-//			CandidateExactMatching csm = (CandidateExactMatching)m;
-//			Map<String, Set<Candidate>> systemCandidateMap = result.getCandidateCache(s.getName(), ds.getName());
-//			Map<String, Set<Candidate>> goldCandidateMap = ds.getGoldCandidate();
-//			
-//			for (String title : rawTextMap.keySet())
-//				compare(title, systemCandidateMap.get(title), goldCandidateMap.get(title), csm);
-//		}
-		
-		else if (m instanceof CandidateFuzzyMatching) {
-			CandidateFuzzyMatching cwm = (CandidateFuzzyMatching)m;
+		else if (m instanceof CandidateMatching) {
+			CandidateMatching cwm = (CandidateMatching)m;
 			Map<String, Set<Candidate>> systemCandidateMap = result.getCandidateCache(s.getName(), ds.getName());
 			Map<String, Set<Candidate>> goldCandidateMap = ds.getGoldCandidate();
 			
 			for (String title : rawTextMap.keySet())
 				compare(title, systemCandidateMap.get(title), goldCandidateMap.get(title), cwm);
 		} 
-//		else if (m instanceof NILExactMathcing) {
-//			NILExactMathcing nem = (NILExactMathcing)m;
-//			Map<String, Set<NIL>> systemNILMap = result.getNILCache(s.getName(), ds.getName());
-//			Map<String, Set<NIL>> goldNILMap = ds.getGoldNIL();
-//			
-//			for (String title : rawTextMap.keySet()) 
-//				compare(title, systemNILMap.get(title), goldNILMap.get(title), nem);
-//		}
-		else if (m instanceof NILFuzzyMatching) {
-			NILFuzzyMatching nfm = (NILFuzzyMatching)m;
+
+		else if (m instanceof NILMatching) {
+			NILMatching nfm = (NILMatching)m;
 			Map<String, Set<NIL>> systemNILMap = result.getNILCache(s.getName(), ds.getName());
 			Map<String, Set<NIL>> goldNILMap = ds.getGoldNIL();
 			

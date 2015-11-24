@@ -23,13 +23,13 @@ import edu.zju.cadal.webservice.MediaWikiAPI;
  * @email:chenhuicn@126.com
  * @date:2015年11月17日
  */
-public class CandidateFuzzyMatching implements Matching<Candidate>{
+public class CandidateMatching implements Matching<Candidate>{
 
-	private MentionFuzzyMatching mfm;
+	private MentionMatching mfm;
 	private MediaWikiAPI api = MediaWikiAPI.getInstance();
 	private PreProcessor preProcessor;
 	
-	public CandidateFuzzyMatching(MentionFuzzyMatching mfm) {
+	public CandidateMatching(MentionMatching mfm) {
 		this.mfm = mfm;
 		this.preProcessor = new PreProcessor(mfm);
 	}

@@ -8,11 +8,8 @@ import java.util.Set;
 import org.junit.Test;
 
 import edu.zju.cadal.cache.EvaluationResult;
-import edu.zju.cadal.matching.CandidateExactMatching;
-import edu.zju.cadal.matching.CandidateFuzzyMatching;
 import edu.zju.cadal.matching.Evaluation;
-import edu.zju.cadal.matching.MentionFuzzyMatching;
-import edu.zju.cadal.matching.PreProcessor;
+import edu.zju.cadal.matching.MentionMatching;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.model.Mention;
@@ -32,7 +29,7 @@ public class TestPreProcessor {
 		mentionSet.add(new Mention("", 3, 8, 0.7f));
 		mentionSet.add(new Mention("", 15, 10, 0.9f));
 		System.out.println(mentionSet);
-		MentionFuzzyMatching mwm = new MentionFuzzyMatching();
+		MentionMatching mwm = new MentionMatching();
 		System.out.println(mwm.match(new Mention("", 1, 4), new Mention("", 1, 4)));
 	}
 	
@@ -80,8 +77,6 @@ public class TestPreProcessor {
 		Map<String, Set<Candidate>> goldStandard = new HashMap<String, Set<Candidate>>();
 		systemResult.put("test", sys);
 		goldStandard.put("test", gold);
-		EvaluationResult result = Evaluation.getResult(systemResult, goldStandard, new CandidateExactMatching());
-		System.out.println(result);
 //		for (Candidate c : sys) {
 //			System.out.print(c.getMention() + " ");
 //		}

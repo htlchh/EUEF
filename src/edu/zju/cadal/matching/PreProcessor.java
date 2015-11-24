@@ -19,9 +19,9 @@ import edu.zju.cadal.model.NIL;
  */
 public class PreProcessor {
 	
-	private MentionFuzzyMatching mfm;
+	private MentionMatching mfm;
 	
-	public PreProcessor(MentionFuzzyMatching mfm) {
+	public PreProcessor(MentionMatching mfm) {
 		this.mfm = mfm;
 	}
 	

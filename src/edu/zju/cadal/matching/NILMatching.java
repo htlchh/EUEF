@@ -11,11 +11,11 @@ import edu.zju.cadal.model.NIL;
  * @email:chenhuicn@126.com
  * @date:2015年11月19日
  */
-public class NILFuzzyMatching implements Matching<NIL>{
-	private MentionFuzzyMatching mfm;
+public class NILMatching implements Matching<NIL>{
+	private MentionMatching mfm;
 	private PreProcessor preProcessor;
 	
-	public NILFuzzyMatching(MentionFuzzyMatching mfm) {
+	public NILMatching(MentionMatching mfm) {
 		this.mfm = mfm;
 		preProcessor = new PreProcessor(mfm);
 	}

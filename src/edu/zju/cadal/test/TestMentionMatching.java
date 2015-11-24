@@ -1,23 +1,12 @@
 package edu.zju.cadal.test;
 
-import java.util.HashMap;
 import java.util.HashSet;
-import java.util.Map;
 import java.util.Set;
 
 import org.junit.Test;
 
-import edu.zju.cadal.cache.EvaluationResult;
-import edu.zju.cadal.exception.UnknowMatchingException;
-import edu.zju.cadal.matching.Evaluation;
-import edu.zju.cadal.matching.Matching;
-import edu.zju.cadal.matching.MentionExactMatching;
-import edu.zju.cadal.matching.MentionFuzzyMatching;
-import edu.zju.cadal.model.Annotation;
-import edu.zju.cadal.model.Candidate;
-import edu.zju.cadal.model.Entity;
+import edu.zju.cadal.matching.MentionMatching;
 import edu.zju.cadal.model.Mention;
-import edu.zju.cadal.model.NIL;
 
 /**
  * @author:chenhui 
@@ -34,7 +23,7 @@ public class TestMentionMatching {
 		sys.add(new Mention("Lennar", 4253, 6, 0.9f));
 		gold.add(new Mention("Lennar Corp.", 4253, 12, 1f));
 		gold.add(new Mention("CAC-40", 4976, 6, 1f));
-		MentionFuzzyMatching mfm = new MentionFuzzyMatching();
+		MentionMatching mfm = new MentionMatching();
 		mfm.setDistanceThreshold(0.000f);
 		
 		System.out.println(new Mention("CAC", 4976, 3, 0.5f) + "|" + new Mention("CAC-40", 4976, 6, 1f) + ":" +

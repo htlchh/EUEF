@@ -12,16 +12,16 @@ import edu.zju.cadal.utils.EditDistance;
  * @email:chenhuicn@126.com
  * @date:2015年11月16日
  */
-public class MentionFuzzyMatching implements Matching<Mention>{
+public class MentionMatching implements Matching<Mention>{
 
 	private PreProcessor preProcessor;
 	private float distanceThreshold = 0.85f;
 
-	public MentionFuzzyMatching() {
+	public MentionMatching() {
 		this.preProcessor = new PreProcessor(this);
 	}
 	
-	public MentionFuzzyMatching(float distanceThreshold) {
+	public MentionMatching(float distanceThreshold) {
 		this.distanceThreshold = distanceThreshold;
 	}
 

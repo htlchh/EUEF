@@ -1,10 +1,10 @@
 package edu.zju.cadal.main;
 
 import edu.zju.cadal.dataset.MSNBC;
-import edu.zju.cadal.matching.AnnotationFuzzyMatching;
-import edu.zju.cadal.matching.CandidateFuzzyMatching;
-import edu.zju.cadal.matching.MentionFuzzyMatching;
-import edu.zju.cadal.matching.NILFuzzyMatching;
+import edu.zju.cadal.matching.AnnotationMatching;
+import edu.zju.cadal.matching.CandidateMatching;
+import edu.zju.cadal.matching.MentionMatching;
+import edu.zju.cadal.matching.NILMatching;
 import edu.zju.cadal.system.Priorer;
 import edu.zju.cadal.system.Spotlight;
 import edu.zju.cadal.system.WikiMiner;
@@ -28,11 +28,11 @@ public class Main {
 				"dataset/MSNBC/Problems");
 		
 		
-		MentionFuzzyMatching mm = new MentionFuzzyMatching();
+		MentionMatching mm = new MentionMatching();
 		mm.setDistanceThreshold(0.000f);
-		CandidateFuzzyMatching cm = new CandidateFuzzyMatching(mm);
-		AnnotationFuzzyMatching am = new AnnotationFuzzyMatching(mm);
-		NILFuzzyMatching nm = new NILFuzzyMatching(mm);
+		CandidateMatching cm = new CandidateMatching(mm);
+		AnnotationMatching am = new AnnotationMatching(mm);
+		NILMatching nm = new NILMatching(mm);
 		
 		Executor.run(msnbc, wm, am, "output/wikimier-msnbc-mfm.out");
 	}

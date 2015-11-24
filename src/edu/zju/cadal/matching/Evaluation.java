@@ -18,8 +18,6 @@ public class Evaluation<T> {
 			Map<String, Set<T>> goldStandard,
 			Matching<T> m)
 	{
-//		m.preProcessSystemResult(systemResult);
-//		m.preProcessGoldStandard(goldStandard);
 		m.preProcessing(systemResult, goldStandard);
 		Map<String, Integer> tpMap = tp(systemResult, goldStandard, m);
 		Map<String, Integer> fpMap = fp(systemResult, goldStandard, m);
