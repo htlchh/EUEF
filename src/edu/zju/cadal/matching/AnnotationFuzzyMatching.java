@@ -44,26 +44,19 @@ public class AnnotationFuzzyMatching implements Matching<Annotation>{
 		return true;
 	}
 
+
 	@Override
-	public void preProcessSystemResult(Map<String, Set<Annotation>> systemResult) {
-		//预先查询结果中的id，加快比较速度
-		List<Integer> idList = new ArrayList<Integer>();
-		for (Set<Annotation> aSet : systemResult.values()) 
-			for (Annotation a : aSet)
-				idList.add(a.getEntity().getId());
-		try {
-			api.prefetchWId(idList);
-			api.flush();
-		} catch (XPathExpressionException | IOException
-				| ParserConfigurationException | SAXException e) {
-			e.printStackTrace();
-		}
-		preProcessor.filterFuzzyMatchAnnotation(systemResult);
+	public String getName() {
+		return "Annotation Fuzzy Matching";
 	}
 
 	@Override
-	public void preProcessGoldStandard(Map<String, Set<Annotation>> goldStandard) {
+	public void preProcessing(Map<String, Set<Annotation>> systemResult, Map<String, Set<Annotation>> goldStandard) {
 		List<Integer> idList = new ArrayList<Integer>();
+		//预先查询结果中的id，加快比较速度
+		for (Set<Annotation> aSet : systemResult.values()) 
+			for (Annotation a : aSet)
+				idList.add(a.getEntity().getId());
 		for (Set<Annotation> aSet : goldStandard.values()) 
 			for (Annotation a : aSet)
 				idList.add(a.getEntity().getId());
@@ -74,11 +67,9 @@ public class AnnotationFuzzyMatching implements Matching<Annotation>{
 				| ParserConfigurationException | SAXException e) {
 			e.printStackTrace();
 		}
-	}
-
-	@Override
-	public String getName() {
-		return "Annotation Fuzzy Matching";
+		
+		preProcessor.annotationCoreference(systemResult);
+		preProcessor.filterDuplicatedAnnotation(systemResult, goldStandard);
 	}
 
 }

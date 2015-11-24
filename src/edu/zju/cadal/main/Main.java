@@ -34,7 +34,7 @@ public class Main {
 		AnnotationFuzzyMatching am = new AnnotationFuzzyMatching(mm);
 		NILFuzzyMatching nm = new NILFuzzyMatching(mm);
 		
-		Executor.run(msnbc, wm, mm, "output/wikimier-msnbc-mfm.out");
+		Executor.run(msnbc, wm, am, "output/wikimier-msnbc-mfm.out");
 	}
 
 }

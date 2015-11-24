@@ -18,8 +18,9 @@ public class Evaluation<T> {
 			Map<String, Set<T>> goldStandard,
 			Matching<T> m)
 	{
-		m.preProcessSystemResult(systemResult);
-		m.preProcessGoldStandard(goldStandard);
+//		m.preProcessSystemResult(systemResult);
+//		m.preProcessGoldStandard(goldStandard);
+		m.preProcessing(systemResult, goldStandard);
 		Map<String, Integer> tpMap = tp(systemResult, goldStandard, m);
 		Map<String, Integer> fpMap = fp(systemResult, goldStandard, m);
 		Map<String, Integer> fnMap = fn(systemResult, goldStandard, m);
@@ -72,7 +73,6 @@ public class Evaluation<T> {
 				}
 			}
 			if (matched == false) {
-				System.out.println(g);
 				fn++;
 			}
 		}
@@ -101,6 +101,7 @@ public class Evaluation<T> {
 			boolean matched = false;
 			for (T g : goldStandard)
 				if (m.match(s, g) == true) {
+//					System.out.println(s);
 					matched = true;
 					break;
 				}

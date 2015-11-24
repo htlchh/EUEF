@@ -41,37 +41,6 @@ public class AnnotationExactMatching implements Matching<Annotation>{
 	}
 
 	@Override
-	public void preProcessSystemResult(Map<String, Set<Annotation>> systemResult) {
-		//预先查询结果中的id，加快比较速度
-		List<Integer> idList = new ArrayList<Integer>();
-		for (Set<Annotation> aSet : systemResult.values()) 
-			for (Annotation a : aSet)
-				idList.add(a.getEntity().getId());
-		try {
-			api.prefetchWId(idList);
-			api.flush();
-		} catch (XPathExpressionException | IOException
-				| ParserConfigurationException | SAXException e) {
-			e.printStackTrace();
-		}
-	}
-
-	@Override
-	public void preProcessGoldStandard(Map<String, Set<Annotation>> goldStandard) {
-		List<Integer> idList = new ArrayList<Integer>();
-		for (Set<Annotation> aSet : goldStandard.values()) 
-			for (Annotation a : aSet)
-				idList.add(a.getEntity().getId());
-		try {
-			api.prefetchWId(idList);
-			api.flush();
-		} catch (XPathExpressionException | IOException
-				| ParserConfigurationException | SAXException e) {
-			e.printStackTrace();
-		}
-	}
-
-	@Override
 	public String getName() {
 		return "Annotation Exact Matching";
 	}

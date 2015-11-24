@@ -139,9 +139,10 @@ public class SystemResultDumper<T> {
 			boolean matched = false;
 			String note = "\tFN";
 			for (T s : systemResult) 
-				if (m.match(g, s) == true) {
+				if (m.match(s, g) == true) {
 					note = "";
 					matched = true;
+					break;
 				}
 			if (matched == true)
 				tp++;
@@ -167,9 +168,10 @@ public class SystemResultDumper<T> {
 			boolean matched = false;
 			String note = "\tFP";
 			for (T g : gold) 
-				if (m.match(g, s) == true) {
+				if (m.match(s, g) == true) {
 					note = "";
 					matched = true;
+					break;
 				}
 			if (matched == false)
 				fp++;
@@ -190,7 +192,7 @@ public class SystemResultDumper<T> {
 		float p = tp + fp == 0 ? 1 : tp / (tp + fp);
 		float r = tp + fn == 0 ? 1 : tp / (tp + fn);
 		float f1 = p + r == 0 ? 0 : 2 * p * r / (p + r);
-		out.println("precision:" + p + "; recall:" + r + "; f1:" + f1 + "; tpCount:" + tp + "; fpCount:" + fp + "; fnCount:" + fn);
+		out.println("P/R/F:" + p + "/" + r + "/" + f1 + "; tpCount:" + tp + "; fpCount:" + fp + "; fnCount:" + fn);
 	}
 	
 	

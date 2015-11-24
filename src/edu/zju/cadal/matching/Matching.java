@@ -19,23 +19,7 @@ public interface Matching<T> {
 	public boolean match(T t1, T t2);
 	
 	
-	/**
-	 * 过滤系统产生的输出结果
-	 * 
-	 * @param systemResult
-	 * @return
-	 */
-	public void preProcessSystemResult(Map<String, Set<T>> systemResult);
-	
-	
-	/**
-	 * 过滤数据集的标注
-	 * 
-	 * @param goldStandard
-	 * @return
-	 */
-	public void preProcessGoldStandard(Map<String, Set<T>> goldStandard);
-	
+	public void preProcessing(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard);	
 	
 	
 	public String getName();

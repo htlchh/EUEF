@@ -54,20 +54,9 @@ public class CandidateFuzzyMatching implements Matching<Candidate>{
 		return true;
 	}
 
+
 	@Override
-	public void preProcessSystemResult(Map<String, Set<Candidate>> systemResult) {
-		preProcessor.filterFuzzyMatchCandidate(systemResult);
-		
-//		for (String title : systemResult.keySet()) {
-//			Set<Candidate> cSet1 = systemResult.get(title);
-//			Set<Candidate> cSet2 = systemResult.get(title);
-//			for (Candidate c1 : cSet1) {
-//				for (Candidate c2 : cSet2) {
-//					if (mfm.match(c1.getMention(), c2.getMention()) && c1 != c2)
-//						System.out.println(c1.getMention() + "|" + c2.getMention());
-//				}
-//			}
-//		}
+	public void preProcessing(Map<String, Set<Candidate>> systemResult,	Map<String, Set<Candidate>> goldStandard) {
 		//预处理id，加快比较速度
 		List<Integer> idList = new ArrayList<Integer>();
 		for (String title : systemResult.keySet()) {
@@ -75,23 +64,13 @@ public class CandidateFuzzyMatching implements Matching<Candidate>{
 				for (Pair<Entity, Float> p : c.getPairSet())
 					idList.add(p.first.getId());
 		}
-		try {
-			api.prefetchWId(idList);
-			api.flush();
-		} catch (XPathExpressionException | IOException
-				| ParserConfigurationException | SAXException e) {
-			e.printStackTrace();
-		}
-	}
-
-	@Override
-	public void preProcessGoldStandard(Map<String, Set<Candidate>> goldStandard) {
-		List<Integer> idList = new ArrayList<Integer>();
+		
 		for (String title : goldStandard.keySet()) {
 			for (Candidate c : goldStandard.get(title))
 				for (Pair<Entity, Float> p : c.getPairSet())
 					idList.add(p.first.getId());
 		}
+		
 		try {
 			api.prefetchWId(idList);
 			api.flush();
@@ -100,9 +79,10 @@ public class CandidateFuzzyMatching implements Matching<Candidate>{
 			e.printStackTrace();
 		}
 		
+		preProcessor.candidateCoreference(systemResult);
+		preProcessor.filterDuplicatedCandidate(systemResult, goldStandard);
 	}
-
-
+	
 	@Override
 	public String getName() {
 		return "Candidate Fuzzy Matching";

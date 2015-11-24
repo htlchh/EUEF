@@ -30,18 +30,16 @@ public class NILFuzzyMatching implements Matching<NIL>{
 		return true;
 	}
 
-	@Override
-	public void preProcessSystemResult(Map<String, Set<NIL>> systemResult) {
-		preProcessor.filterFuzzyMatchNIL(systemResult);
-	}
-
-	@Override
-	public void preProcessGoldStandard(Map<String, Set<NIL>> goldStandard) {
-	}
 
 	@Override
 	public String getName() {
 		return "NIL Fuzzy Matching";
+	}
+
+	@Override
+	public void preProcessing(Map<String, Set<NIL>> systemResult, Map<String, Set<NIL>> goldStandard) {
+		preProcessor.NILCoreference(systemResult);
+		preProcessor.filterDuplicatedNIL(systemResult, goldStandard);
 	}
 
 }
