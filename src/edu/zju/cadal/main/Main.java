@@ -34,7 +34,7 @@ public class Main {
 		AnnotationMatching am = new AnnotationMatching(mm);
 		NILMatching nm = new NILMatching(mm);
 		
-		Executor.run(msnbc, wm, am, "output/wikimier-msnbc-mfm.out");
+		Executor.run(msnbc, wm, am, "output/wikipedia-miner-msnbc-am000.out");
 	}
 
 }
