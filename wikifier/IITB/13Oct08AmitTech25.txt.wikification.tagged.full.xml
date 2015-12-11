@@ -1,0 +1,2848 @@
+<WikifierOutput>
+<InputFilename>
+13Oct08AmitTech25.txt
+</InputFilename>
+<InputText>
+Safe Transactions with Infected PCs
+
+A new tool assumes that a PC is loaded with malware--and protects transactions anyway
+
+Your computer has been breached by malicious hackers: it&apos;s completely loaded with malware and spyware. You&apos;re about to get online, connect to a financial institution, and make some transactions. Is there anything, at this point, that can keep your identity off the black market? SiteTrust, a tool released today by Waltham, MA, data-security company Verdasys, aims to protect users from fraud, even when their computers have been compromised.
+
+&quot;Malware is on the rise,&quot; says Verdasys chief technology officer Bill Ledingham. Many existing protection technologies don&apos;t work against all the malware that&apos;s out there, he says, partly because they&apos;re built to protect against known attacks. Users, he adds, are often inconsistent about employing antivirus software and keeping it updated, and even when they&apos;re not, some malware is sophisticated enough to get through anyway. &quot;Our premise,&quot; Ledingham says, &quot;is that, rather than trying to clean up the machines, assume the machine is already infected and focus on protecting the transaction that goes on between the consumer and the enterprise website.&quot;
+
+The problem of malware on users&apos; computers is &quot;the number-one problem that the financial institutions are wrestling with today,&quot; says Forrester Research senior analyst Geoffrey Turner, an expert on online fraud. Financial institutions can take steps to secure the connections between their servers and their customers&apos; PCs, Turner says; they can even ensure the security of the customer&apos;s Web browser. But they&apos;re stumped, he says, when it comes to the customer&apos;s operating system. Most successful attempts to steal computer users&apos; identities, Turner says, involve using malware to capture their credentials or conduct transactions behind the scenes without their knowledge. &quot;The challenge is, how do you secure the end-user computer?&quot; he says. &quot;Should you even, as a bank, be trying to do that?&quot;
+
+Verdasys thinks that the answer is yes. After licensing SiteTrust from Verdasys, a financial institution would provide it to users as a supplement to their existing antivirus software. Once SiteTrust is downloaded and installed, Ledingham says, it takes up less than a megabyte of disk space. When the user is connected to a protected site, SiteTrust consumes 1 to 2 percent of the computer&apos;s processing capacity. While the tool could work with multiple sites, the initial idea is that a customer would receive it for use with a specific website.
+
+SiteTrust bypasses malware because it is essentially a rootkit--a program designed to bury itself deep in a user&apos;s operating system, where it can take fundamental control of most of the software running on the machine. The idea, Ledingham says, is that SiteTrust will burrow down to a lower level than any malware on the system. Verdasys has put a lot of research into ensuring that SiteTrust does just that, Ledingham says, but he acknowledges that if the tool becomes successful, online criminals will probably focus on finding ways to go even deeper. He says that Verdasys plans to keep improving the tool, hoping to stay a step ahead of attackers. 
+
+
+
+When the user types in the URL of a protected site, Ledingham says, SiteTrust steps in. Without changing the appearance of the user&apos;s screen, SiteTrust separates the secure transaction from whatever else might be going on in the browser by running a fresh version of the browser code as its own &quot;process.&quot; (A process is the series of commands that the computer executes to run a program, and modern computers can run dozens of them at once.) SiteTrust then monitors this process to make sure that no other program tries to interfere with it. As the user interacts with the site, SiteTrust bypasses many of the vulnerabilities of the operating system, instead taking information from the user&apos;s keyboard, encrypting it immediately, and sending it to the website. SiteTrust currently runs on Windows machines and works with the Internet Explorer and Firefox browsers, but Ledingham says that the company is working on Linux, Mac, and Safari versions.
+
+SiteTrust is a new application of the technology behind Verdasys&apos;s existing product, the Digital Guardian, which is meant to protect businesses against internal theft. The Digital Guardian also uses a rootkit, installed on every computer in an organization, that watches what users do with sensitive information and flags suspicious behavior. Ledingham notes that, although rootkits have caused controversy in the past, particularly when they were installed without users&apos; knowledge, Verdasys has years of experience designing them so that they don&apos;t interfere with a computer&apos;s normal use. SiteTrust, Ledingham says, includes an uninstall option so that users can completely remove it if they choose, and it doesn&apos;t send any background information about the user to the protected site.
+
+Turner says that he appreciates Verdasys&apos;s approach with SiteTrust--in particular, the way that the company has planned for the inevitability of online criminals&apos; targeting the tool itself, lining up improvements to make that more difficult. He adds that the company&apos;s distribution model is important to getting SiteTrust to consumers. &quot;People aren&apos;t aware that they need this level of protection on their own PC,&quot; Turner says. Customers aren&apos;t likely to look for additional protection unless encouraged to do so by financial institutions that they trust. Turner also notes that receiving the tool from a trusted institution should help counter consumers&apos; general worries about rootkits.
+
+SiteTrust is launching to six million customers of an undisclosed online broker in the near future. The company plans to make additional deals to protect other websites.
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Infected</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>31</EntityTextEnd>
+	<LinkerScore>0.010558696557183</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Infected_(song)</WikiTitle>
+		<WikiTitleID>10836465</WikiTitleID>
+		<RankerScore>0.2415614902723888</RankerScore>
+		<Attributes>singles	song</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Infected_(song)</WikiTitle> <WikiTitleID>10836465</WikiTitleID> <RankerScore>0.2415614902723888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infected_(video_game)</WikiTitle> <WikiTitleID>4489694</WikiTitleID> <RankerScore>0.22970301067583332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infected_(album)</WikiTitle> <WikiTitleID>2043841</WikiTitleID> <RankerScore>0.21888211125354426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infected_by_Martin_Sargent</WikiTitle> <WikiTitleID>4186096</WikiTitleID> <RankerScore>0.15492669389911676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demon_Hunter_(album)</WikiTitle> <WikiTitleID>1302713</WikiTitleID> <RankerScore>0.15492669389911676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PCs</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>35</EntityTextEnd>
+	<LinkerScore>0.00714541033113042</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Personal_computer</WikiTitle>
+		<WikiTitleID>18457137</WikiTitleID>
+		<RankerScore>0.24839085628773122</RankerScore>
+		<Attributes>invention	computer	class	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Personal_computer</WikiTitle> <WikiTitleID>18457137</WikiTitleID> <RankerScore>0.24839085628773122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_PC_compatible</WikiTitle> <WikiTitleID>49803</WikiTitleID> <RankerScore>0.14905038478047036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_Personal_Computer</WikiTitle> <WikiTitleID>15032</WikiTitleID> <RankerScore>0.1921537037588138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Ontario</WikiTitle> <WikiTitleID>333635</WikiTitleID> <RankerScore>0.08208101103459693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Player_character</WikiTitle> <WikiTitleID>23622</WikiTitleID> <RankerScore>0.08208101103459693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>123462</WikiTitleID> <RankerScore>0.08208101103459693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constable</WikiTitle> <WikiTitleID>153928</WikiTitleID> <RankerScore>0.08208101103459693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer</WikiTitle> <WikiTitleID>7878457</WikiTitleID> <RankerScore>0.08208101103459693</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>213</EntityTextEnd>
+	<LinkerScore>1.151712347300974</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>spyware</EntitySurfaceForm>
+	<EntityTextStart>218</EntityTextStart>
+	<EntityTextEnd>225</EntityTextEnd>
+	<LinkerScore>1.128726697767722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spyware</WikiTitle>
+		<WikiTitleID>28951</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>technique	devices</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spyware</WikiTitle> <WikiTitleID>28951</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>financial institution</EntitySurfaceForm>
+	<EntityTextStart>268</EntityTextStart>
+	<EntityTextEnd>289</EntityTextEnd>
+	<LinkerScore>1.1570986475786715</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Financial_institution</WikiTitle>
+		<WikiTitleID>208836</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>black market</EntitySurfaceForm>
+	<EntityTextStart>389</EntityTextStart>
+	<EntityTextEnd>401</EntityTextEnd>
+	<LinkerScore>1.0221274841445331</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Underground_economy</WikiTitle>
+		<WikiTitleID>1304277</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Underground_economy</WikiTitle> <WikiTitleID>1304277</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Waltham</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>446</EntityTextEnd>
+	<LinkerScore>0.36338881558450153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Waltham,_Massachusetts</WikiTitle>
+		<WikiTitleID>68763</WikiTitleID>
+		<RankerScore>0.09603263313882385</RankerScore>
+		<Attributes>center	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Waltham,_Massachusetts</WikiTitle> <WikiTitleID>68763</WikiTitleID> <RankerScore>0.09603263313882385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Lincolnshire</WikiTitle> <WikiTitleID>2580158</WikiTitleID> <RankerScore>0.06969882109434941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_transmitting_station</WikiTitle> <WikiTitleID>1734603</WikiTitleID> <RankerScore>0.06055052690160297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Vermont</WikiTitle> <WikiTitleID>137237</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Minnesota</WikiTitle> <WikiTitleID>120912</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_(band)</WikiTitle> <WikiTitleID>6130814</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Quebec</WikiTitle> <WikiTitleID>16929021</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Maine</WikiTitle> <WikiTitleID>116008</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_New_Zealand</WikiTitle> <WikiTitleID>1028400</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_Abbey_(abbey)</WikiTitle> <WikiTitleID>125127</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham,_Kent</WikiTitle> <WikiTitleID>11220972</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_Cross</WikiTitle> <WikiTitleID>1968464</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_on_the_Wolds</WikiTitle> <WikiTitleID>3054882</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_Chase</WikiTitle> <WikiTitleID>5987630</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_Abbey,_Essex</WikiTitle> <WikiTitleID>1404622</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boston_Manufacturing_Company</WikiTitle> <WikiTitleID>4725619</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waltham_railway_station</WikiTitle> <WikiTitleID>18367597</WikiTitleID> <RankerScore>0.05526557277608741</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Waltham, MA</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>0.9460394414349477</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Waltham,_Massachusetts</WikiTitle>
+		<WikiTitleID>68763</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>center	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Waltham,_Massachusetts</WikiTitle> <WikiTitleID>68763</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fraud</EntitySurfaceForm>
+	<EntityTextStart>511</EntityTextStart>
+	<EntityTextEnd>516</EntityTextEnd>
+	<LinkerScore>0.7191611859562029</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fraud</WikiTitle>
+		<WikiTitleID>58790</WikiTitleID>
+		<RankerScore>0.17827351818302367</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fraud</WikiTitle> <WikiTitleID>58790</WikiTitleID> <RankerScore>0.17827351818302367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_fraud</WikiTitle> <WikiTitleID>382165</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Securities_fraud</WikiTitle> <WikiTitleID>2902209</WikiTitleID> <RankerScore>0.07471284939919025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confidence_trick</WikiTitle> <WikiTitleID>96637</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_fraud</WikiTitle> <WikiTitleID>486777</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_2008_Société_Générale_trading_loss_incident</WikiTitle> <WikiTitleID>15531221</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conjuration</WikiTitle> <WikiTitleID>263723</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_fraud</WikiTitle> <WikiTitleID>805626</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_corruption</WikiTitle> <WikiTitleID>66220</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jenny_Haniver</WikiTitle> <WikiTitleID>1268388</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Job_fraud</WikiTitle> <WikiTitleID>12463460</WikiTitleID> <RankerScore>0.07108576367162991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Credit_card_fraud</WikiTitle> <WikiTitleID>15905419</WikiTitleID> <RankerScore>0.10724175937311684</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chief technology officer</EntitySurfaceForm>
+	<EntityTextStart>608</EntityTextStart>
+	<EntityTextEnd>632</EntityTextEnd>
+	<LinkerScore>0.9386140863019358</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chief_technical_officer</WikiTitle>
+		<WikiTitleID>579193</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chief_technical_officer</WikiTitle> <WikiTitleID>579193</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>614</EntityTextStart>
+	<EntityTextEnd>624</EntityTextEnd>
+	<LinkerScore>0.6777291086953758</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.10880716439150538</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.10880716439150538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.0465895706488805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.04270138041481064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_Muslim_scientists_and_engineers</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asgard_technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Races_in_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.047170699090870793</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>714</EntityTextStart>
+	<EntityTextEnd>721</EntityTextEnd>
+	<LinkerScore>1.077225159122774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antivirus</EntitySurfaceForm>
+	<EntityTextStart>867</EntityTextStart>
+	<EntityTextEnd>876</EntityTextEnd>
+	<LinkerScore>1.0393175794751852</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antivirus_software</WikiTitle>
+		<WikiTitleID>268622</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antivirus_software</WikiTitle> <WikiTitleID>268622</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antivirus software</EntitySurfaceForm>
+	<EntityTextStart>867</EntityTextStart>
+	<EntityTextEnd>885</EntityTextEnd>
+	<LinkerScore>0.9409416116201527</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antivirus_software</WikiTitle>
+		<WikiTitleID>268622</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antivirus_software</WikiTitle> <WikiTitleID>268622</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>software</EntitySurfaceForm>
+	<EntityTextStart>877</EntityTextStart>
+	<EntityTextEnd>885</EntityTextEnd>
+	<LinkerScore>0.6541076688019658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_software</WikiTitle>
+		<WikiTitleID>5309</WikiTitleID>
+		<RankerScore>0.21224726565690624</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer_software</WikiTitle> <WikiTitleID>5309</WikiTitleID> <RankerScore>0.21224726565690624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_engineering</WikiTitle> <WikiTitleID>27010</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_patent</WikiTitle> <WikiTitleID>76266</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_program</WikiTitle> <WikiTitleID>5783</WikiTitleID> <RankerScore>0.07906153005756188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_software</WikiTitle> <WikiTitleID>454746</WikiTitleID> <RankerScore>0.06372458031003524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer_relationship_management</WikiTitle> <WikiTitleID>6968</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_synthesizer</WikiTitle> <WikiTitleID>165550</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_system</WikiTitle> <WikiTitleID>10768456</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah_database</WikiTitle> <WikiTitleID>810141</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_software</WikiTitle> <WikiTitleID>290786</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spatial_network_analysis_software</WikiTitle> <WikiTitleID>2497774</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_publisher</WikiTitle> <WikiTitleID>909542</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embedded_system</WikiTitle> <WikiTitleID>46630</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_retention_software</WikiTitle> <WikiTitleID>3100217</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_software</WikiTitle> <WikiTitleID>222034</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_software_vendor</WikiTitle> <WikiTitleID>1090523</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_agent</WikiTitle> <WikiTitleID>430106</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_source_software</WikiTitle> <WikiTitleID>277663</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement_of_software</WikiTitle> <WikiTitleID>29443</WikiTitleID> <RankerScore>0.03793921317502921</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>942</EntityTextStart>
+	<EntityTextEnd>949</EntityTextEnd>
+	<LinkerScore>1.082931496292026</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>1241</EntityTextStart>
+	<EntityTextEnd>1248</EntityTextEnd>
+	<LinkerScore>1.1580494015441318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>financial institutions</EntitySurfaceForm>
+	<EntityTextStart>1305</EntityTextStart>
+	<EntityTextEnd>1327</EntityTextEnd>
+	<LinkerScore>0.28627296813337677</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Financial_institution</WikiTitle>
+		<WikiTitleID>208836</WikiTitleID>
+		<RankerScore>0.6317120224967936</RankerScore>
+		<Attributes>services	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>0.6317120224967936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_services</WikiTitle> <WikiTitleID>433425</WikiTitleID> <RankerScore>0.3682879775032065</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wrestling</EntitySurfaceForm>
+	<EntityTextStart>1332</EntityTextStart>
+	<EntityTextEnd>1341</EntityTextEnd>
+	<LinkerScore>0.02822293340919882</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wrestling</WikiTitle>
+		<WikiTitleID>735092</WikiTitleID>
+		<RankerScore>0.07948027356666346</RankerScore>
+		<Attributes>game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wrestling</WikiTitle> <WikiTitleID>735092</WikiTitleID> <RankerScore>0.07948027356666346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scholastic_wrestling</WikiTitle> <WikiTitleID>1893219</WikiTitleID> <RankerScore>0.05793558692342662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collegiate_wrestling</WikiTitle> <WikiTitleID>622572</WikiTitleID> <RankerScore>0.05355428948300538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amateur_wrestling</WikiTitle> <WikiTitleID>943339</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling</WikiTitle> <WikiTitleID>24864</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Wrestling_Entertainment</WikiTitle> <WikiTitleID>62676</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Folk_wrestling</WikiTitle> <WikiTitleID>3601700</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greco-Roman_wrestling</WikiTitle> <WikiTitleID>839807</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iowa_Hawkeyes_wrestling</WikiTitle> <WikiTitleID>8101353</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_wrestling</WikiTitle> <WikiTitleID>3556314</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freestyle_wrestling</WikiTitle> <WikiTitleID>1123339</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_at_the_1928_Summer_Olympics</WikiTitle> <WikiTitleID>6528169</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>5744318</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_at_the_1976_Summer_Olympics</WikiTitle> <WikiTitleID>1603088</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Wrestling</WikiTitle> <WikiTitleID>7360396</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shuai_jiao</WikiTitle> <WikiTitleID>3414392</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_at_the_2008_Summer_Olympics</WikiTitle> <WikiTitleID>6517789</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Panthers_wrestling</WikiTitle> <WikiTitleID>16586705</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling_in_Japan</WikiTitle> <WikiTitleID>550410</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling_in_the_United_Kingdom</WikiTitle> <WikiTitleID>697832</WikiTitleID> <RankerScore>0.04758999117805321</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Forrester Research</EntitySurfaceForm>
+	<EntityTextStart>1360</EntityTextStart>
+	<EntityTextEnd>1378</EntityTextEnd>
+	<LinkerScore>1.071050003152254</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Forrester_Research</WikiTitle>
+		<WikiTitleID>581114</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Forrester_Research</WikiTitle> <WikiTitleID>581114</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Geoffrey Turner</EntitySurfaceForm>
+	<EntityTextStart>1394</EntityTextStart>
+	<EntityTextEnd>1409</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Geoffrey_Turner</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>1403</EntityTextStart>
+	<EntityTextEnd>1409</EntityTextEnd>
+	<LinkerScore>-0.06189846255213327</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06419356693073969</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06419356693073969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.05941271573157924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.05133021936479807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.048533146939581356</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>online fraud</EntitySurfaceForm>
+	<EntityTextStart>1424</EntityTextStart>
+	<EntityTextEnd>1436</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Internet_fraud</WikiTitle>
+		<WikiTitleID>805626</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>section</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fraud</EntitySurfaceForm>
+	<EntityTextStart>1431</EntityTextStart>
+	<EntityTextEnd>1436</EntityTextEnd>
+	<LinkerScore>0.7820685632163443</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fraud</WikiTitle>
+		<WikiTitleID>58790</WikiTitleID>
+		<RankerScore>0.1874792123667741</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fraud</WikiTitle> <WikiTitleID>58790</WikiTitleID> <RankerScore>0.1874792123667741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_fraud</WikiTitle> <WikiTitleID>382165</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Securities_fraud</WikiTitle> <WikiTitleID>2902209</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Confidence_trick</WikiTitle> <WikiTitleID>96637</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_fraud</WikiTitle> <WikiTitleID>486777</WikiTitleID> <RankerScore>0.08450749178462266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>January_2008_Société_Générale_trading_loss_incident</WikiTitle> <WikiTitleID>15531221</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conjuration</WikiTitle> <WikiTitleID>263723</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_fraud</WikiTitle> <WikiTitleID>805626</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_corruption</WikiTitle> <WikiTitleID>66220</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jenny_Haniver</WikiTitle> <WikiTitleID>1268388</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Job_fraud</WikiTitle> <WikiTitleID>12463460</WikiTitleID> <RankerScore>0.06895335873516432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Credit_card_fraud</WikiTitle> <WikiTitleID>15905419</WikiTitleID> <RankerScore>0.10743306723212429</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Financial institutions</EntitySurfaceForm>
+	<EntityTextStart>1438</EntityTextStart>
+	<EntityTextEnd>1460</EntityTextEnd>
+	<LinkerScore>1.0560311891442047</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Financial_institution</WikiTitle>
+		<WikiTitleID>208836</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>1550</EntityTextStart>
+	<EntityTextEnd>1556</EntityTextEnd>
+	<LinkerScore>-0.13936966479811333</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06422720956973925</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06422720956973925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.0595629964783857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.04905494962243516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.048656167313496465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Web browser</EntitySurfaceForm>
+	<EntityTextStart>1615</EntityTextStart>
+	<EntityTextEnd>1626</EntityTextEnd>
+	<LinkerScore>1.0242753760455194</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_browser</WikiTitle>
+		<WikiTitleID>33173</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Web_browser</WikiTitle> <WikiTitleID>33173</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>browser</EntitySurfaceForm>
+	<EntityTextStart>1619</EntityTextStart>
+	<EntityTextEnd>1626</EntityTextEnd>
+	<LinkerScore>0.4360698120595419</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_browser</WikiTitle>
+		<WikiTitleID>33173</WikiTitleID>
+		<RankerScore>0.22221569419814008</RankerScore>
+		<Attributes>browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Web_browser</WikiTitle> <WikiTitleID>33173</WikiTitleID> <RankerScore>0.22221569419814008</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbivory</WikiTitle> <WikiTitleID>44568</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_browser</WikiTitle> <WikiTitleID>647649</WikiTitleID> <RankerScore>0.1075327818657986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_interface</WikiTitle> <WikiTitleID>45249</WikiTitleID> <RankerScore>0.12826589445620518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netscape_(web_browser)</WikiTitle> <WikiTitleID>7210375</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_manager</WikiTitle> <WikiTitleID>11382</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_agent</WikiTitle> <WikiTitleID>487303</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_game</WikiTitle> <WikiTitleID>488438</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miller_Columns</WikiTitle> <WikiTitleID>2710690</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_wars</WikiTitle> <WikiTitleID>486709</WikiTitleID> <RankerScore>0.07742651849712232</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>operating system</EntitySurfaceForm>
+	<EntityTextStart>1690</EntityTextStart>
+	<EntityTextEnd>1706</EntityTextEnd>
+	<LinkerScore>0.8717141598865765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Operating_system</WikiTitle>
+		<WikiTitleID>22194</WikiTitleID>
+		<RankerScore>0.502807672402404</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Operating_system</WikiTitle> <WikiTitleID>22194</WikiTitleID> <RankerScore>0.502807672402404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS</WikiTitle> <WikiTitleID>20043</WikiTitleID> <RankerScore>0.1528895898826455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Microsoft_operating_systems</WikiTitle> <WikiTitleID>2043010</WikiTitleID> <RankerScore>0.10564364449423115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AmigaOS</WikiTitle> <WikiTitleID>3105</WikiTitleID> <RankerScore>0.13301544872648816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_i</WikiTitle> <WikiTitleID>248005</WikiTitleID> <RankerScore>0.10564364449423115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>1770</EntityTextStart>
+	<EntityTextEnd>1776</EntityTextEnd>
+	<LinkerScore>-0.38146568098717654</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06363520212071136</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06363520212071136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.0596654691418737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.048010798861590015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.04874638411034264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>1797</EntityTextStart>
+	<EntityTextEnd>1804</EntityTextEnd>
+	<LinkerScore>1.086890436329376</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>end-user</EntitySurfaceForm>
+	<EntityTextStart>1942</EntityTextStart>
+	<EntityTextEnd>1950</EntityTextEnd>
+	<LinkerScore>0.2686108952006269</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>End-user</WikiTitle>
+		<WikiTitleID>127759</WikiTitleID>
+		<RankerScore>0.4187450002170442</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>End-user</WikiTitle> <WikiTitleID>127759</WikiTitleID> <RankerScore>0.4187450002170442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>End-user_(computer_science)</WikiTitle> <WikiTitleID>3783979</WikiTitleID> <RankerScore>0.2724711429192557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_(computing)</WikiTitle> <WikiTitleID>16301990</WikiTitleID> <RankerScore>0.30878385686370013</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bank</EntitySurfaceForm>
+	<EntityTextStart>1994</EntityTextStart>
+	<EntityTextEnd>1998</EntityTextEnd>
+	<LinkerScore>0.805431501379331</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bank</WikiTitle>
+		<WikiTitleID>3753</WikiTitleID>
+		<RankerScore>0.1575776092606117</RankerScore>
+		<Attributes>invention	institution	entity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bank</WikiTitle> <WikiTitleID>3753</WikiTitleID> <RankerScore>0.1575776092606117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stream_bed</WikiTitle> <WikiTitleID>300026</WikiTitleID> <RankerScore>0.04864355146270274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_(topography)</WikiTitle> <WikiTitleID>9094822</WikiTitleID> <RankerScore>0.04709438750055234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flight_dynamics</WikiTitle> <WikiTitleID>221400</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_engine</WikiTitle> <WikiTitleID>1999259</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dike_(construction)</WikiTitle> <WikiTitleID>266132</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Branch_(banking)</WikiTitle> <WikiTitleID>7024420</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_teller</WikiTitle> <WikiTitleID>5277755</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_robbery</WikiTitle> <WikiTitleID>216340</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Credit_union</WikiTitle> <WikiTitleID>246079</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_wall</WikiTitle> <WikiTitleID>8599932</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bank_of_Tokyo-Mitsubishi_UFJ</WikiTitle> <WikiTitleID>2823064</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cant_(road/rail)</WikiTitle> <WikiTitleID>1664101</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Bank_of_the_United_States</WikiTitle> <WikiTitleID>55568</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_banks_in_Malaysia</WikiTitle> <WikiTitleID>6989118</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Rajhi_Bank</WikiTitle> <WikiTitleID>4142258</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_banks_in_the_United_Kingdom</WikiTitle> <WikiTitleID>1744314</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HBOS</WikiTitle> <WikiTitleID>659342</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_of_Finland</WikiTitle> <WikiTitleID>850543</WikiTitleID> <RankerScore>0.043922614810360784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>financial institution</EntitySurfaceForm>
+	<EntityTextStart>2107</EntityTextStart>
+	<EntityTextEnd>2128</EntityTextEnd>
+	<LinkerScore>1.1129809630167935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Financial_institution</WikiTitle>
+		<WikiTitleID>208836</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antivirus software</EntitySurfaceForm>
+	<EntityTextStart>2189</EntityTextStart>
+	<EntityTextEnd>2207</EntityTextEnd>
+	<LinkerScore>0.9335393006546676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antivirus_software</WikiTitle>
+		<WikiTitleID>268622</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antivirus_software</WikiTitle> <WikiTitleID>268622</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antivirus</EntitySurfaceForm>
+	<EntityTextStart>2189</EntityTextStart>
+	<EntityTextEnd>2198</EntityTextEnd>
+	<LinkerScore>0.9895026490172879</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antivirus_software</WikiTitle>
+		<WikiTitleID>268622</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antivirus_software</WikiTitle> <WikiTitleID>268622</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>software</EntitySurfaceForm>
+	<EntityTextStart>2199</EntityTextStart>
+	<EntityTextEnd>2207</EntityTextEnd>
+	<LinkerScore>0.9001696618440056</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_software</WikiTitle>
+		<WikiTitleID>5309</WikiTitleID>
+		<RankerScore>0.22105204589916438</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer_software</WikiTitle> <WikiTitleID>5309</WikiTitleID> <RankerScore>0.22105204589916438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_engineering</WikiTitle> <WikiTitleID>27010</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_patent</WikiTitle> <WikiTitleID>76266</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_program</WikiTitle> <WikiTitleID>5783</WikiTitleID> <RankerScore>0.0796948729975609</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_software</WikiTitle> <WikiTitleID>454746</WikiTitleID> <RankerScore>0.07491448186174944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer_relationship_management</WikiTitle> <WikiTitleID>6968</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_synthesizer</WikiTitle> <WikiTitleID>165550</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_system</WikiTitle> <WikiTitleID>10768456</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah_database</WikiTitle> <WikiTitleID>810141</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_software</WikiTitle> <WikiTitleID>290786</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spatial_network_analysis_software</WikiTitle> <WikiTitleID>2497774</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_publisher</WikiTitle> <WikiTitleID>909542</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embedded_system</WikiTitle> <WikiTitleID>46630</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_retention_software</WikiTitle> <WikiTitleID>3100217</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_software</WikiTitle> <WikiTitleID>222034</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_software_vendor</WikiTitle> <WikiTitleID>1090523</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_agent</WikiTitle> <WikiTitleID>430106</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_source_software</WikiTitle> <WikiTitleID>277663</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement_of_software</WikiTitle> <WikiTitleID>29443</WikiTitleID> <RankerScore>0.036725799955383845</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>megabyte</EntitySurfaceForm>
+	<EntityTextStart>2293</EntityTextStart>
+	<EntityTextEnd>2301</EntityTextEnd>
+	<LinkerScore>0.9904470924720103</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Megabyte</WikiTitle>
+		<WikiTitleID>19918</WikiTitleID>
+		<RankerScore>0.7514383655273159</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Megabyte</WikiTitle> <WikiTitleID>19918</WikiTitleID> <RankerScore>0.7514383655273159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mebibyte</WikiTitle> <WikiTitleID>60727</WikiTitleID> <RankerScore>0.24856163447268403</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>2591</EntityTextStart>
+	<EntityTextEnd>2598</EntityTextEnd>
+	<LinkerScore>1.1610597927258022</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>operating system</EntitySurfaceForm>
+	<EntityTextStart>2687</EntityTextStart>
+	<EntityTextEnd>2703</EntityTextEnd>
+	<LinkerScore>1.155983540429743</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Operating_system</WikiTitle>
+		<WikiTitleID>22194</WikiTitleID>
+		<RankerScore>0.6141224525195867</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Operating_system</WikiTitle> <WikiTitleID>22194</WikiTitleID> <RankerScore>0.6141224525195867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS</WikiTitle> <WikiTitleID>20043</WikiTitleID> <RankerScore>0.14292016228296334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Microsoft_operating_systems</WikiTitle> <WikiTitleID>2043010</WikiTitleID> <RankerScore>0.07323293323555828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AmigaOS</WikiTitle> <WikiTitleID>3105</WikiTitleID> <RankerScore>0.09649151872633328</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_i</WikiTitle> <WikiTitleID>248005</WikiTitleID> <RankerScore>0.07323293323555828</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>software</EntitySurfaceForm>
+	<EntityTextStart>2758</EntityTextStart>
+	<EntityTextEnd>2766</EntityTextEnd>
+	<LinkerScore>0.612200975462212</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer_software</WikiTitle>
+		<WikiTitleID>5309</WikiTitleID>
+		<RankerScore>0.2169047720918625</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer_software</WikiTitle> <WikiTitleID>5309</WikiTitleID> <RankerScore>0.2169047720918625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_engineering</WikiTitle> <WikiTitleID>27010</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_patent</WikiTitle> <WikiTitleID>76266</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_program</WikiTitle> <WikiTitleID>5783</WikiTitleID> <RankerScore>0.11114681618679895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Application_software</WikiTitle> <WikiTitleID>454746</WikiTitleID> <RankerScore>0.08789507927227776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer_relationship_management</WikiTitle> <WikiTitleID>6968</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_synthesizer</WikiTitle> <WikiTitleID>165550</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_system</WikiTitle> <WikiTitleID>10768456</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah_database</WikiTitle> <WikiTitleID>810141</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Educational_software</WikiTitle> <WikiTitleID>290786</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spatial_network_analysis_software</WikiTitle> <WikiTitleID>2497774</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_publisher</WikiTitle> <WikiTitleID>909542</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embedded_system</WikiTitle> <WikiTitleID>46630</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_retention_software</WikiTitle> <WikiTitleID>3100217</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Social_software</WikiTitle> <WikiTitleID>222034</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_software_vendor</WikiTitle> <WikiTitleID>1090523</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_agent</WikiTitle> <WikiTitleID>430106</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_source_software</WikiTitle> <WikiTitleID>277663</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement_of_software</WikiTitle> <WikiTitleID>29443</WikiTitleID> <RankerScore>0.03435607837935652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>burrow</EntitySurfaceForm>
+	<EntityTextStart>2840</EntityTextStart>
+	<EntityTextEnd>2846</EntityTextEnd>
+	<LinkerScore>1.0368879360190721</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Burrow</WikiTitle>
+		<WikiTitleID>2215876</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Burrow</WikiTitle> <WikiTitleID>2215876</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>malware</EntitySurfaceForm>
+	<EntityTextStart>2878</EntityTextStart>
+	<EntityTextEnd>2885</EntityTextEnd>
+	<LinkerScore>1.0988108286810214</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malware</WikiTitle>
+		<WikiTitleID>20901</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>improving</EntitySurfaceForm>
+	<EntityTextStart>3162</EntityTextStart>
+	<EntityTextEnd>3171</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Improve</WikiTitle>
+		<WikiTitleID>11374928</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>attackers</EntitySurfaceForm>
+	<EntityTextStart>3213</EntityTextStart>
+	<EntityTextEnd>3222</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attackers</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>company	studio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>URL</EntitySurfaceForm>
+	<EntityTextStart>3255</EntityTextStart>
+	<EntityTextEnd>3258</EntityTextEnd>
+	<LinkerScore>1.5080894307038117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Uniform_Resource_Locator</WikiTitle>
+		<WikiTitleID>32277</WikiTitleID>
+		<RankerScore>0.871886202190162</RankerScore>
+		<Attributes>identifier</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Uniform_Resource_Locator</WikiTitle> <WikiTitleID>32277</WikiTitleID> <RankerScore>0.871886202190162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unrestricted_Line_Officer</WikiTitle> <WikiTitleID>2248968</WikiTitleID> <RankerScore>0.128113797809838</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>browser</EntitySurfaceForm>
+	<EntityTextStart>3457</EntityTextStart>
+	<EntityTextEnd>3464</EntityTextEnd>
+	<LinkerScore>0.3621618885988576</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_browser</WikiTitle>
+		<WikiTitleID>33173</WikiTitleID>
+		<RankerScore>0.28363424146436883</RankerScore>
+		<Attributes>browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Web_browser</WikiTitle> <WikiTitleID>33173</WikiTitleID> <RankerScore>0.28363424146436883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbivory</WikiTitle> <WikiTitleID>44568</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_browser</WikiTitle> <WikiTitleID>647649</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_interface</WikiTitle> <WikiTitleID>45249</WikiTitleID> <RankerScore>0.12734379132656826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netscape_(web_browser)</WikiTitle> <WikiTitleID>7210375</WikiTitleID> <RankerScore>0.17000470402792697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_manager</WikiTitle> <WikiTitleID>11382</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_agent</WikiTitle> <WikiTitleID>487303</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_game</WikiTitle> <WikiTitleID>488438</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miller_Columns</WikiTitle> <WikiTitleID>2710690</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_wars</WikiTitle> <WikiTitleID>486709</WikiTitleID> <RankerScore>0.059859609025876566</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>browser</EntitySurfaceForm>
+	<EntityTextStart>3499</EntityTextStart>
+	<EntityTextEnd>3506</EntityTextEnd>
+	<LinkerScore>0.42085067923715086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_browser</WikiTitle>
+		<WikiTitleID>33173</WikiTitleID>
+		<RankerScore>0.2976678863856635</RankerScore>
+		<Attributes>browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Web_browser</WikiTitle> <WikiTitleID>33173</WikiTitleID> <RankerScore>0.2976678863856635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbivory</WikiTitle> <WikiTitleID>44568</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_browser</WikiTitle> <WikiTitleID>647649</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_interface</WikiTitle> <WikiTitleID>45249</WikiTitleID> <RankerScore>0.135280337548066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netscape_(web_browser)</WikiTitle> <WikiTitleID>7210375</WikiTitleID> <RankerScore>0.16723883842219556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_manager</WikiTitle> <WikiTitleID>11382</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>User_agent</WikiTitle> <WikiTitleID>487303</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_game</WikiTitle> <WikiTitleID>488438</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miller_Columns</WikiTitle> <WikiTitleID>2710690</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Browser_wars</WikiTitle> <WikiTitleID>486709</WikiTitleID> <RankerScore>0.057116133949153575</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vulnerabilities</EntitySurfaceForm>
+	<EntityTextStart>3838</EntityTextStart>
+	<EntityTextEnd>3853</EntityTextEnd>
+	<LinkerScore>0.7725729882273418</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vulnerability_(computing)</WikiTitle>
+		<WikiTitleID>1129827</WikiTitleID>
+		<RankerScore>0.6470237493609062</RankerScore>
+		<Attributes>exploit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vulnerability_(computing)</WikiTitle> <WikiTitleID>1129827</WikiTitleID> <RankerScore>0.6470237493609062</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulnerability</WikiTitle> <WikiTitleID>926974</WikiTitleID> <RankerScore>0.1624514999577265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exploit_(computer_security)</WikiTitle> <WikiTitleID>9875</WikiTitleID> <RankerScore>0.19052475068136732</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>operating system</EntitySurfaceForm>
+	<EntityTextStart>3861</EntityTextStart>
+	<EntityTextEnd>3877</EntityTextEnd>
+	<LinkerScore>1.1294479849177577</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Operating_system</WikiTitle>
+		<WikiTitleID>22194</WikiTitleID>
+		<RankerScore>0.6205407590179284</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Operating_system</WikiTitle> <WikiTitleID>22194</WikiTitleID> <RankerScore>0.6205407590179284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS</WikiTitle> <WikiTitleID>20043</WikiTitleID> <RankerScore>0.13943966020969256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Microsoft_operating_systems</WikiTitle> <WikiTitleID>2043010</WikiTitleID> <RankerScore>0.09751094457889282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AmigaOS</WikiTitle> <WikiTitleID>3105</WikiTitleID> <RankerScore>0.07125431809674312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_i</WikiTitle> <WikiTitleID>248005</WikiTitleID> <RankerScore>0.07125431809674312</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>keyboard</EntitySurfaceForm>
+	<EntityTextStart>3922</EntityTextStart>
+	<EntityTextEnd>3930</EntityTextEnd>
+	<LinkerScore>0.7520423023587957</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Keyboard_(computing)</WikiTitle>
+		<WikiTitleID>5266</WikiTitleID>
+		<RankerScore>0.1646680236953058</RankerScore>
+		<Attributes>electronics	devices	method</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Keyboard_instrument</WikiTitle> <WikiTitleID>49842</WikiTitleID> <RankerScore>0.0990075864954349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keyboard_(computing)</WikiTitle> <WikiTitleID>5266</WikiTitleID> <RankerScore>0.1646680236953058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_keyboard</WikiTitle> <WikiTitleID>320138</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musical_keyboard</WikiTitle> <WikiTitleID>20816</WikiTitleID> <RankerScore>0.07756427714631628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthesizer</WikiTitle> <WikiTitleID>10791746</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alphanumeric_keyboard</WikiTitle> <WikiTitleID>2984</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keyboardist</WikiTitle> <WikiTitleID>56708</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piano</WikiTitle> <WikiTitleID>23034</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_PC_keyboard</WikiTitle> <WikiTitleID>15440</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_piano</WikiTitle> <WikiTitleID>3503861</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wurlitzer_electric_piano</WikiTitle> <WikiTitleID>3353359</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organ_(music)</WikiTitle> <WikiTitleID>152778</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Keyboard_technology</WikiTitle> <WikiTitleID>16830</WikiTitleID> <RankerScore>0.0658760112662943</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Windows</EntitySurfaceForm>
+	<EntityTextStart>4018</EntityTextStart>
+	<EntityTextEnd>4025</EntityTextEnd>
+	<LinkerScore>1.569835642567455</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Microsoft_Windows</WikiTitle>
+		<WikiTitleID>18890</WikiTitleID>
+		<RankerScore>0.4816146501984394</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Microsoft_Windows</WikiTitle> <WikiTitleID>18890</WikiTitleID> <RankerScore>0.4816146501984394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_(film)</WikiTitle> <WikiTitleID>2397550</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_1.0</WikiTitle> <WikiTitleID>67387</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_API</WikiTitle> <WikiTitleID>81601</WikiTitleID> <RankerScore>0.07051504072830747</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Window_(computing)</WikiTitle> <WikiTitleID>207897</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_key</WikiTitle> <WikiTitleID>458117</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_NT</WikiTitle> <WikiTitleID>33438</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_95</WikiTitle> <WikiTitleID>34064</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_3.0</WikiTitle> <WikiTitleID>168400</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microsoft</WikiTitle> <WikiTitleID>19001</WikiTitleID> <RankerScore>0.09082745018557954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Microsoft_operating_systems</WikiTitle> <WikiTitleID>2043010</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windowing_system</WikiTitle> <WikiTitleID>151967</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Microsoft_Windows</WikiTitle> <WikiTitleID>13694</WikiTitleID> <RankerScore>0.035704285888767354</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Internet</EntitySurfaceForm>
+	<EntityTextStart>4054</EntityTextStart>
+	<EntityTextEnd>4062</EntityTextEnd>
+	<LinkerScore>0.6099118449077141</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Internet</WikiTitle>
+		<WikiTitleID>14539</WikiTitleID>
+		<RankerScore>0.2259002009311447</RankerScore>
+		<Attributes>medium	invention	introduction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Internet</WikiTitle> <WikiTitleID>14539</WikiTitleID> <RankerScore>0.2259002009311447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Wide_Web</WikiTitle> <WikiTitleID>33139</WikiTitleID> <RankerScore>0.09117089378594895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_radio</WikiTitle> <WikiTitleID>52301</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_protocol_suite</WikiTitle> <WikiTitleID>15476</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadband</WikiTitle> <WikiTitleID>147184</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_censorship_in_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>154457</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electronic_commerce</WikiTitle> <WikiTitleID>9611</WikiTitleID> <RankerScore>0.033381853564205775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_shopping</WikiTitle> <WikiTitleID>1118379</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_psychotherapy</WikiTitle> <WikiTitleID>18162521</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_World_Wide_Web</WikiTitle> <WikiTitleID>4192777</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Internet</WikiTitle> <WikiTitleID>13692</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_in_Malaysia</WikiTitle> <WikiTitleID>11341313</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_art</WikiTitle> <WikiTitleID>188958</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientology_and_the_Internet</WikiTitle> <WikiTitleID>13022347</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_banking</WikiTitle> <WikiTitleID>713996</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_in_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>250719</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_and_offline</WikiTitle> <WikiTitleID>41440</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>File_sharing</WikiTitle> <WikiTitleID>10922</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Magazine</WikiTitle> <WikiTitleID>3703367</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Online_gambling</WikiTitle> <WikiTitleID>2213921</WikiTitleID> <RankerScore>0.038208650101100035</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Internet Explorer</EntitySurfaceForm>
+	<EntityTextStart>4054</EntityTextStart>
+	<EntityTextEnd>4071</EntityTextEnd>
+	<LinkerScore>1.2375372432332303</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Internet_Explorer</WikiTitle>
+		<WikiTitleID>15215</WikiTitleID>
+		<RankerScore>0.7163412212536244</RankerScore>
+		<Attributes>client	component	browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Internet_Explorer</WikiTitle> <WikiTitleID>15215</WikiTitleID> <RankerScore>0.7163412212536244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Explorer_7</WikiTitle> <WikiTitleID>1622419</WikiTitleID> <RankerScore>0.11433533243145709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Explorer_for_Mac</WikiTitle> <WikiTitleID>1144328</WikiTitleID> <RankerScore>0.08470662103624987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Internet_Explorer</WikiTitle> <WikiTitleID>1873016</WikiTitleID> <RankerScore>0.04230841263933424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Explorer_Mobile</WikiTitle> <WikiTitleID>2160668</WikiTitleID> <RankerScore>0.04230841263933424</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Explorer</EntitySurfaceForm>
+	<EntityTextStart>4063</EntityTextStart>
+	<EntityTextEnd>4071</EntityTextEnd>
+	<LinkerScore>0.9557037786717322</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Internet_Explorer</WikiTitle>
+		<WikiTitleID>15215</WikiTitleID>
+		<RankerScore>0.43775078015791324</RankerScore>
+		<Attributes>client	component	browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Exploration</WikiTitle> <WikiTitleID>219878</WikiTitleID> <RankerScore>0.040821801400804145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gibson_Explorer</WikiTitle> <WikiTitleID>1887709</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Explorer</WikiTitle> <WikiTitleID>540317</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explorer_Plate</WikiTitle> <WikiTitleID>526273</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explorer_program</WikiTitle> <WikiTitleID>9917</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_Explorer</WikiTitle> <WikiTitleID>445959</WikiTitleID> <RankerScore>0.07959756304361669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Exploring_(Learning_for_Life)</WikiTitle> <WikiTitleID>1568877</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Space_Adventures_Explorer</WikiTitle> <WikiTitleID>4143986</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub_Marine_Explorer</WikiTitle> <WikiTitleID>4788064</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ARP_Explorer</WikiTitle> <WikiTitleID>5845489</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explorer_(album)</WikiTitle> <WikiTitleID>7095995</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Explorer</WikiTitle> <WikiTitleID>15215</WikiTitleID> <RankerScore>0.43775078015791324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_explorers</WikiTitle> <WikiTitleID>60043</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explorer_Scouts</WikiTitle> <WikiTitleID>1576258</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lockheed_Explorer</WikiTitle> <WikiTitleID>4917474</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explorer_1</WikiTitle> <WikiTitleID>61536</WikiTitleID> <RankerScore>0.033986911953666606</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Firefox</EntitySurfaceForm>
+	<EntityTextStart>4076</EntityTextStart>
+	<EntityTextEnd>4083</EntityTextEnd>
+	<LinkerScore>1.4535109454983033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mozilla_Firefox</WikiTitle>
+		<WikiTitleID>210892</WikiTitleID>
+		<RankerScore>0.8280629671743176</RankerScore>
+		<Attributes>browser	client</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mozilla_Firefox</WikiTitle> <WikiTitleID>210892</WikiTitleID> <RankerScore>0.8280629671743176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firefox_(film)</WikiTitle> <WikiTitleID>694482</WikiTitleID> <RankerScore>0.047461322722299346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firefox_(novel)</WikiTitle> <WikiTitleID>1673640</WikiTitleID> <RankerScore>0.045567964775646015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Firefox_(arcade_game)</WikiTitle> <WikiTitleID>2538903</WikiTitleID> <RankerScore>0.039453872663868475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Panda</WikiTitle> <WikiTitleID>26441</WikiTitleID> <RankerScore>0.039453872663868475</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>browsers</EntitySurfaceForm>
+	<EntityTextStart>4084</EntityTextStart>
+	<EntityTextEnd>4092</EntityTextEnd>
+	<LinkerScore>0.9178432384940984</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Web_browser</WikiTitle>
+		<WikiTitleID>33173</WikiTitleID>
+		<RankerScore>0.7383194466858433</RankerScore>
+		<Attributes>browser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Web_browser</WikiTitle> <WikiTitleID>33173</WikiTitleID> <RankerScore>0.7383194466858433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbivory</WikiTitle> <WikiTitleID>44568</WikiTitleID> <RankerScore>0.1007528282360598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_browser</WikiTitle> <WikiTitleID>647649</WikiTitleID> <RankerScore>0.16092772507809697</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Linux</EntitySurfaceForm>
+	<EntityTextStart>4144</EntityTextStart>
+	<EntityTextEnd>4149</EntityTextEnd>
+	<LinkerScore>1.3695984788617808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Linux</WikiTitle>
+		<WikiTitleID>6097297</WikiTitleID>
+		<RankerScore>0.5652382056309213</RankerScore>
+		<Attributes>platform</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Linux</WikiTitle> <WikiTitleID>6097297</WikiTitleID> <RankerScore>0.5652382056309213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linux_kernel</WikiTitle> <WikiTitleID>18510</WikiTitleID> <RankerScore>0.09234071388770795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linux_on_zSeries</WikiTitle> <WikiTitleID>1266604</WikiTitleID> <RankerScore>0.05166025186550246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linux_distribution</WikiTitle> <WikiTitleID>18212</WikiTitleID> <RankerScore>0.08411982115385838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Debian</WikiTitle> <WikiTitleID>8242</WikiTitleID> <RankerScore>0.05166025186550246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linux_for_PlayStation_2</WikiTitle> <WikiTitleID>1627189</WikiTitleID> <RankerScore>0.05166025186550246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linux_on_Power</WikiTitle> <WikiTitleID>1982458</WikiTitleID> <RankerScore>0.05166025186550246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ΜClinux</WikiTitle> <WikiTitleID>514556</WikiTitleID> <RankerScore>0.05166025186550246</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mac</EntitySurfaceForm>
+	<EntityTextStart>4151</EntityTextStart>
+	<EntityTextEnd>4154</EntityTextEnd>
+	<LinkerScore>0.04766082549130041</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Macintosh</WikiTitle>
+		<WikiTitleID>2420</WikiTitleID>
+		<RankerScore>0.15941864169461212</RankerScore>
+		<Attributes>computer	introduction	design</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Macintosh</WikiTitle> <WikiTitleID>2420</WikiTitleID> <RankerScore>0.15941864169461212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MAC</WikiTitle> <WikiTitleID>48141</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS</WikiTitle> <WikiTitleID>20043</WikiTitleID> <RankerScore>0.1212723049122717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_(rapper)</WikiTitle> <WikiTitleID>2250792</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS_X</WikiTitle> <WikiTitleID>20640</WikiTitleID> <RankerScore>0.1560245416654479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Andrew_McDermott</WikiTitle> <WikiTitleID>3591312</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_(Green_Wing)</WikiTitle> <WikiTitleID>4720231</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_characters_in_Foster&apos;s_Home_for_Imaginary_Friends</WikiTitle> <WikiTitleID>2236657</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple_Inc.</WikiTitle> <WikiTitleID>856</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mạc_Dynasty</WikiTitle> <WikiTitleID>4700517</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_Colville</WikiTitle> <WikiTitleID>1717227</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bernie_Mac</WikiTitle> <WikiTitleID>525038</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>It&apos;s_Always_Sunny_in_Philadelphia</WikiTitle> <WikiTitleID>2434796</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_Scorpio</WikiTitle> <WikiTitleID>5980210</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oklahoma_State_Penitentiary</WikiTitle> <WikiTitleID>5800186</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Raincoat</WikiTitle> <WikiTitleID>317739</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_Explorer_for_Mac</WikiTitle> <WikiTitleID>1144328</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mac_OS_9</WikiTitle> <WikiTitleID>205635</WikiTitleID> <RankerScore>0.03755230078184456</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Safari</EntitySurfaceForm>
+	<EntityTextStart>4160</EntityTextStart>
+	<EntityTextEnd>4166</EntityTextEnd>
+	<LinkerScore>1.0909777521608408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Safari_(web_browser)</WikiTitle>
+		<WikiTitleID>166842</WikiTitleID>
+		<RankerScore>0.5084606250770356</RankerScore>
+		<Attributes>browser	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Safari_(web_browser)</WikiTitle> <WikiTitleID>166842</WikiTitleID> <RankerScore>0.5084606250770356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safari</WikiTitle> <WikiTitleID>185166</WikiTitleID> <RankerScore>0.08428225779083673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safari_(EP)</WikiTitle> <WikiTitleID>10965581</WikiTitleID> <RankerScore>0.06886292568677227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pontiac_Safari</WikiTitle> <WikiTitleID>1749370</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safari_Rally</WikiTitle> <WikiTitleID>412775</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chevrolet_Astro</WikiTitle> <WikiTitleID>377143</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting</WikiTitle> <WikiTitleID>38791</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tata_Safari</WikiTitle> <WikiTitleID>1063205</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safari_Books_Online</WikiTitle> <WikiTitleID>8727445</WikiTitleID> <RankerScore>0.05639903190755924</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>4216</EntityTextStart>
+	<EntityTextEnd>4226</EntityTextEnd>
+	<LinkerScore>0.7827675832137705</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.1611995812165877</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.1611995812165877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.04296514496624374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.06165975603645039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_Muslim_scientists_and_engineers</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asgard_technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Races_in_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.043186795163571656</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guardian</EntitySurfaceForm>
+	<EntityTextStart>4275</EntityTextStart>
+	<EntityTextEnd>4283</EntityTextEnd>
+	<LinkerScore>0.26434872578538404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Guardian</WikiTitle>
+		<WikiTitleID>46973</WikiTitleID>
+		<RankerScore>0.0769945810625085</RankerScore>
+		<Attributes>list	newspaper	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Guardian</WikiTitle> <WikiTitleID>46973</WikiTitleID> <RankerScore>0.0769945810625085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(Marvel_Comics)</WikiTitle> <WikiTitleID>1658444</WikiTitleID> <RankerScore>0.05606136749856798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(band)</WikiTitle> <WikiTitleID>3152161</WikiTitleID> <RankerScore>0.058233848917422136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(DC_Comics)</WikiTitle> <WikiTitleID>899196</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(Ultima)</WikiTitle> <WikiTitleID>422442</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(United_States)</WikiTitle> <WikiTitleID>1598329</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardians_of_the_Universe</WikiTitle> <WikiTitleID>144157</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_guardian</WikiTitle> <WikiTitleID>1632880</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_temperament</WikiTitle> <WikiTitleID>12092900</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Guardian_(Belize)</WikiTitle> <WikiTitleID>6488551</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(video_game)</WikiTitle> <WikiTitleID>16489853</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoghi_Effendi</WikiTitle> <WikiTitleID>29366</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trinidad_Guardian</WikiTitle> <WikiTitleID>1796214</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Guardian</WikiTitle> <WikiTitleID>253170</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(database)</WikiTitle> <WikiTitleID>12875270</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(comics)</WikiTitle> <WikiTitleID>934623</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boss_(video_games)</WikiTitle> <WikiTitleID>249431</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Guardian_(1784)</WikiTitle> <WikiTitleID>1716436</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wali</WikiTitle> <WikiTitleID>274738</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Guardian_(Nigeria)</WikiTitle> <WikiTitleID>7397412</WikiTitleID> <RankerScore>0.04757118838361773</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>theft</EntitySurfaceForm>
+	<EntityTextStart>4339</EntityTextStart>
+	<EntityTextEnd>4344</EntityTextEnd>
+	<LinkerScore>0.380583909225701</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Theft</WikiTitle>
+		<WikiTitleID>31287</WikiTitleID>
+		<RankerScore>0.2320985604138721</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Theft</WikiTitle> <WikiTitleID>31287</WikiTitleID> <RankerScore>0.2320985604138721</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_sign_theft</WikiTitle> <WikiTitleID>570229</WikiTitleID> <RankerScore>0.10907276558388289</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoplifting</WikiTitle> <WikiTitleID>232169</WikiTitleID> <RankerScore>0.10909213299632564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.10994730820118384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ankh-Morpork_Thieves&apos;_Guild</WikiTitle> <WikiTitleID>1065688</WikiTitleID> <RankerScore>0.10994730820118384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Highwayman</WikiTitle> <WikiTitleID>423530</WikiTitleID> <RankerScore>0.10994730820118384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_vehicle_theft</WikiTitle> <WikiTitleID>214348</WikiTitleID> <RankerScore>0.10994730820118384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theft_Act_1968</WikiTitle> <WikiTitleID>833860</WikiTitleID> <RankerScore>0.10994730820118384</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guardian</EntitySurfaceForm>
+	<EntityTextStart>4358</EntityTextStart>
+	<EntityTextEnd>4366</EntityTextEnd>
+	<LinkerScore>-0.03314765147341525</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Guardian</WikiTitle>
+		<WikiTitleID>46973</WikiTitleID>
+		<RankerScore>0.07665835799460292</RankerScore>
+		<Attributes>list	newspaper	source</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Guardian</WikiTitle> <WikiTitleID>46973</WikiTitleID> <RankerScore>0.07665835799460292</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(Marvel_Comics)</WikiTitle> <WikiTitleID>1658444</WikiTitleID> <RankerScore>0.055177084779502276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(band)</WikiTitle> <WikiTitleID>3152161</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(DC_Comics)</WikiTitle> <WikiTitleID>899196</WikiTitleID> <RankerScore>0.06462186773786273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(Ultima)</WikiTitle> <WikiTitleID>422442</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(United_States)</WikiTitle> <WikiTitleID>1598329</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardians_of_the_Universe</WikiTitle> <WikiTitleID>144157</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_guardian</WikiTitle> <WikiTitleID>1632880</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_temperament</WikiTitle> <WikiTitleID>12092900</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Guardian_(Belize)</WikiTitle> <WikiTitleID>6488551</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(video_game)</WikiTitle> <WikiTitleID>16489853</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shoghi_Effendi</WikiTitle> <WikiTitleID>29366</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trinidad_Guardian</WikiTitle> <WikiTitleID>1796214</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Guardian</WikiTitle> <WikiTitleID>253170</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(database)</WikiTitle> <WikiTitleID>12875270</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guardian_(comics)</WikiTitle> <WikiTitleID>934623</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boss_(video_games)</WikiTitle> <WikiTitleID>249431</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Guardian_(1784)</WikiTitle> <WikiTitleID>1716436</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wali</WikiTitle> <WikiTitleID>274738</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Guardian_(Nigeria)</WikiTitle> <WikiTitleID>7397412</WikiTitleID> <RankerScore>0.04726721702870777</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rootkit</EntitySurfaceForm>
+	<EntityTextStart>4379</EntityTextStart>
+	<EntityTextEnd>4386</EntityTextEnd>
+	<LinkerScore>1.0589923094648466</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rootkit</WikiTitle>
+		<WikiTitleID>223942</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	method	exploit	attack</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rootkit</WikiTitle> <WikiTitleID>223942</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rootkits</EntitySurfaceForm>
+	<EntityTextStart>4552</EntityTextStart>
+	<EntityTextEnd>4560</EntityTextEnd>
+	<LinkerScore>1.0009465895261043</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rootkit</WikiTitle>
+		<WikiTitleID>223942</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	method	exploit	attack</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rootkit</WikiTitle> <WikiTitleID>223942</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>uninstall</EntitySurfaceForm>
+	<EntityTextStart>4808</EntityTextStart>
+	<EntityTextEnd>4817</EntityTextEnd>
+	<LinkerScore>1.0551723287140988</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Uninstaller</WikiTitle>
+		<WikiTitleID>697150</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Uninstaller</WikiTitle> <WikiTitleID>697150</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>4966</EntityTextStart>
+	<EntityTextEnd>4972</EntityTextEnd>
+	<LinkerScore>-0.33669525841330983</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06364914877237636</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06364914877237636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.0596254973717829</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.048591988430567945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.048713727377957226</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>model</EntitySurfaceForm>
+	<EntityTextStart>5248</EntityTextStart>
+	<EntityTextEnd>5253</EntityTextEnd>
+	<LinkerScore>0.12686663827478584</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Model_(person)</WikiTitle>
+		<WikiTitleID>48916</WikiTitleID>
+		<RankerScore>0.0963533995974038</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Model_(person)</WikiTitle> <WikiTitleID>48916</WikiTitleID> <RankerScore>0.0963533995974038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scientific_modelling</WikiTitle> <WikiTitleID>3224795</WikiTitleID> <RankerScore>0.05191915434931732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_theory</WikiTitle> <WikiTitleID>19858</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mathematical_model</WikiTitle> <WikiTitleID>20590</WikiTitleID> <RankerScore>0.04396488978432643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_(physical)</WikiTitle> <WikiTitleID>694147</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_(art)</WikiTitle> <WikiTitleID>2113557</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scale_model</WikiTitle> <WikiTitleID>297672</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deal_or_No_Deal_(US)_models</WikiTitle> <WikiTitleID>8822541</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_(economics)</WikiTitle> <WikiTitleID>638834</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structure_(mathematical_logic)</WikiTitle> <WikiTitleID>4055928</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_simulation</WikiTitle> <WikiTitleID>375416</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>3D_modeling</WikiTitle> <WikiTitleID>764382</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Car_model</WikiTitle> <WikiTitleID>2093075</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mental_model</WikiTitle> <WikiTitleID>994704</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_year</WikiTitle> <WikiTitleID>426916</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistical_model</WikiTitle> <WikiTitleID>27576</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supermodel</WikiTitle> <WikiTitleID>49082</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_rocket</WikiTitle> <WikiTitleID>134827</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bohr_model</WikiTitle> <WikiTitleID>4831</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_parliament</WikiTitle> <WikiTitleID>4740208</WikiTitleID> <RankerScore>0.047515444486408966</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>5381</EntityTextStart>
+	<EntityTextEnd>5387</EntityTextEnd>
+	<LinkerScore>-0.13718852128846978</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06442706633777265</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06442706633777265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.059517559632753896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.04957876790498772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.04861627094849916</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>financial institutions</EntitySurfaceForm>
+	<EntityTextStart>5482</EntityTextStart>
+	<EntityTextEnd>5504</EntityTextEnd>
+	<LinkerScore>0.6285915404244603</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Financial_institution</WikiTitle>
+		<WikiTitleID>208836</WikiTitleID>
+		<RankerScore>0.6828805692650047</RankerScore>
+		<Attributes>services	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>0.6828805692650047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_services</WikiTitle> <WikiTitleID>433425</WikiTitleID> <RankerScore>0.3171194307349952</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turner</EntitySurfaceForm>
+	<EntityTextStart>5522</EntityTextStart>
+	<EntityTextEnd>5528</EntityTextEnd>
+	<LinkerScore>-0.2762185964863145</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>J._M._W._Turner</WikiTitle>
+		<WikiTitleID>72187</WikiTitleID>
+		<RankerScore>0.06284375254349957</RankerScore>
+		<Attributes>academician	person	painter	artist	painting	printmaker	burial</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>J._M._W._Turner</WikiTitle> <WikiTitleID>72187</WikiTitleID> <RankerScore>0.06284375254349957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Turner_(placekicker)</WikiTitle> <WikiTitleID>1084093</WikiTitleID> <RankerScore>0.05962668331699375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Broadcasting_System</WikiTitle> <WikiTitleID>332695</WikiTitleID> <RankerScore>0.04951777924704059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Maine</WikiTitle> <WikiTitleID>115864</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_Georgia</WikiTitle> <WikiTitleID>96688</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Entertainment</WikiTitle> <WikiTitleID>411052</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>1110822</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_County,_South_Dakota</WikiTitle> <WikiTitleID>91779</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Kansas</WikiTitle> <WikiTitleID>763215</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Oregon</WikiTitle> <WikiTitleID>130911</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northeastern_Manitoulin_and_the_Islands,_Ontario</WikiTitle> <WikiTitleID>386956</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner</WikiTitle> <WikiTitleID>63402</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Turnpike</WikiTitle> <WikiTitleID>1571197</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_(car_company)</WikiTitle> <WikiTitleID>3123592</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner,_Michigan</WikiTitle> <WikiTitleID>117071</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Big_Joe_Turner</WikiTitle> <WikiTitleID>90425</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Turner_(cricketer)</WikiTitle> <WikiTitleID>1778951</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turner_Mountain_Ski_Resort</WikiTitle> <WikiTitleID>8835988</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Turner_(lyricist)</WikiTitle> <WikiTitleID>1916357</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ted_Turner</WikiTitle> <WikiTitleID>30475</WikiTitleID> <RankerScore>0.04870657558190978</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rootkits</EntitySurfaceForm>
+	<EntityTextStart>5644</EntityTextStart>
+	<EntityTextEnd>5652</EntityTextEnd>
+	<LinkerScore>0.8338501882633844</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rootkit</WikiTitle>
+		<WikiTitleID>223942</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	method	exploit	attack</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rootkit</WikiTitle> <WikiTitleID>223942</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>online broker</EntitySurfaceForm>
+	<EntityTextStart>5721</EntityTextStart>
+	<EntityTextEnd>5734</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Investing_online</WikiTitle>
+		<WikiTitleID>3638408</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>broker</EntitySurfaceForm>
+	<EntityTextStart>5728</EntityTextStart>
+	<EntityTextEnd>5734</EntityTextEnd>
+	<LinkerScore>0.10317440087980456</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stock_broker</WikiTitle>
+		<WikiTitleID>158974</WikiTitleID>
+		<RankerScore>0.22933268859032566</RankerScore>
+		<Attributes>services	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Broker</WikiTitle> <WikiTitleID>397129</WikiTitleID> <RankerScore>0.220543566313065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stock_broker</WikiTitle> <WikiTitleID>158974</WikiTitleID> <RankerScore>0.22933268859032566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insurance_broker</WikiTitle> <WikiTitleID>3035060</WikiTitleID> <RankerScore>0.11610069210271254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_estate_broker</WikiTitle> <WikiTitleID>440273</WikiTitleID> <RankerScore>0.10850576324847422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Securities_lending</WikiTitle> <WikiTitleID>2845914</WikiTitleID> <RankerScore>0.10850576324847422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mortgage_broker</WikiTitle> <WikiTitleID>1457266</WikiTitleID> <RankerScore>0.10850576324847422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Message_broker</WikiTitle> <WikiTitleID>7423668</WikiTitleID> <RankerScore>0.10850576324847422</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deals</EntitySurfaceForm>
+	<EntityTextStart>5792</EntityTextStart>
+	<EntityTextEnd>5797</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deals</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>company	store</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

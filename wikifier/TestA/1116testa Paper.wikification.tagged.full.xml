@@ -1,0 +1,2263 @@
+<WikifierOutput>
+<InputFilename>
+1116testa Paper
+</InputFilename>
+<InputText>
+Paper says Thatcher&apos;s office consulted astrologer.
+LONDON 1996-09-01
+A British newspaper said Margaret Thatcher was so shaken by an IRA attempt on her life when she was prime minister in 1984 that an astrologer was asked to warn her against future threats.
+The Sunday Telegraph quoted Majorie Orr as saying she did a horoscope chart for Thatcher, a Libran, after she narrowly escaped death in the Irish guerrilla bombing of a hotel during the Conservative Party conference more than a decade ago.
+Orr said Thatcher&apos;s press secretary Bernard Ingram asked her to telephone if she saw any threatening indications in the future.&quot; Bernard Ingham told me that if I ever heard anything that indicated danger I was to let him know,&quot; Orr said.
+Orr said she never had to telephone.
+She added that the horoscope was purely for security purposes and she was never consulted about political moves.
+Ingram was quoted as telling the newspaper he thought astrology was&quot; a load of rubbish&quot; and that he could not recall asking Orr to keep a watch on Thatcher&apos;s stars.
+Thatcher, dubbed the&quot; Iron Lady&quot; for her driven, forceful personality, was never known to have an interest in the occult and in fact has a university degree in chemistry.
+Former U.S. president Ronald Reagan&apos;s wife, Nancy, admitted in her biography My Turn that she regularly consulted an astrologer to help her plan her husband&apos;s schedule.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>11</EntityTextStart>
+	<EntityTextEnd>19</EntityTextEnd>
+	<LinkerScore>0.8568397110052979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.4522140036660474</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.4522140036660474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.0967683407906415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.17813247797748843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.0909617258552742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.0909617258552742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.0909617258552742</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>0.09202660870277171</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.5287770945157939</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.4712229054842061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.5287770945157939</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British</EntitySurfaceForm>
+	<EntityTextStart>71</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>0.9927263423423345</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.18287764896814288</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.18287764896814288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06216662957377234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.06087361055076868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Raj</WikiTitle> <WikiTitleID>4208015</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_English</WikiTitle> <WikiTitleID>4179</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_Kingdom</WikiTitle> <WikiTitleID>10793</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Armed_Forces</WikiTitle> <WikiTitleID>31730</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honourable_East_India_Company</WikiTitle> <WikiTitleID>43281</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Her_Majesty&apos;s_Government</WikiTitle> <WikiTitleID>334930</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_Kingdom</WikiTitle> <WikiTitleID>182410</WikiTitleID> <RankerScore>0.040828359465136244</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>newspaper</EntitySurfaceForm>
+	<EntityTextStart>79</EntityTextStart>
+	<EntityTextEnd>88</EntityTextEnd>
+	<LinkerScore>1.016674037359044</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Newspaper</WikiTitle>
+		<WikiTitleID>18582335</WikiTitleID>
+		<RankerScore>0.14176491074121905</RankerScore>
+		<Attributes>periodical	product	newspaper	format</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Newspaper</WikiTitle> <WikiTitleID>18582335</WikiTitleID> <RankerScore>0.14176491074121905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers</WikiTitle> <WikiTitleID>18546</WikiTitleID> <RankerScore>0.060425180589190074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Student_newspaper</WikiTitle> <WikiTitleID>1168956</WikiTitleID> <RankerScore>0.05687860408179661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Sweden</WikiTitle> <WikiTitleID>207301</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_American_newspapers</WikiTitle> <WikiTitleID>3494738</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_media</WikiTitle> <WikiTitleID>304113</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Turkey</WikiTitle> <WikiTitleID>3045015</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newspapers_of_Hong_Kong</WikiTitle> <WikiTitleID>267241</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Tajikistan</WikiTitle> <WikiTitleID>4277771</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_India</WikiTitle> <WikiTitleID>4050281</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_the_Netherlands</WikiTitle> <WikiTitleID>4050441</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amandala</WikiTitle> <WikiTitleID>6006358</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_South_Korea</WikiTitle> <WikiTitleID>4278015</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_early_Canadian_newspapers</WikiTitle> <WikiTitleID>357706</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>L&apos;Unità</WikiTitle> <WikiTitleID>1926403</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Scotland</WikiTitle> <WikiTitleID>3656139</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Australia</WikiTitle> <WikiTitleID>500076</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weekly_World_News</WikiTitle> <WikiTitleID>222550</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Star_newspaper</WikiTitle> <WikiTitleID>4917193</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Philadelphia_Inquirer</WikiTitle> <WikiTitleID>102952</WikiTitleID> <RankerScore>0.04358419438751731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Margaret Thatcher</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>111</EntityTextEnd>
+	<LinkerScore>1.2479591682088662</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.7974044290633241</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.7974044290633241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher_(Due_South)</WikiTitle> <WikiTitleID>7497483</WikiTitleID> <RankerScore>0.20259557093667593</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>103</EntityTextStart>
+	<EntityTextEnd>111</EntityTextEnd>
+	<LinkerScore>0.6711211460963029</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.4594662838879615</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.4594662838879615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.09200150123128358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.18707463608930805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.0871525262638156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.0871525262638156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.0871525262638156</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IRA attempt</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>143</EntityTextEnd>
+	<LinkerScore>0.978171715609348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shankill_Road_bombing</WikiTitle>
+		<WikiTitleID>4760827</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>incident	action	bombing	trouble</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shankill_Road_bombing</WikiTitle> <WikiTitleID>4760827</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IRA</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>135</EntityTextEnd>
+	<LinkerScore>0.45633051315192197</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Provisional_Irish_Republican_Army</WikiTitle>
+		<WikiTitleID>23299</WikiTitleID>
+		<RankerScore>0.19436617307520807</RankerScore>
+		<Attributes>movement	establishment	organization</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Provisional_Irish_Republican_Army</WikiTitle> <WikiTitleID>23299</WikiTitleID> <RankerScore>0.19436617307520807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Republican_Army</WikiTitle> <WikiTitleID>14732</WikiTitleID> <RankerScore>0.12663588655825694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Republican_Army_(1922–1969)</WikiTitle> <WikiTitleID>2342166</WikiTitleID> <RankerScore>0.10098159723041711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Individual_Retirement_Account</WikiTitle> <WikiTitleID>402055</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IRA_(Polish_heavy_metal_band)</WikiTitle> <WikiTitleID>9890060</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intercollegiate_Rowing_Association</WikiTitle> <WikiTitleID>9431464</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_Irish_Republican_Army</WikiTitle> <WikiTitleID>146032</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Reading_Association</WikiTitle> <WikiTitleID>5520530</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_IRAs</WikiTitle> <WikiTitleID>2261091</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Volunteers</WikiTitle> <WikiTitleID>341550</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>I.R.A._(band)</WikiTitle> <WikiTitleID>2631229</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_Reorganization_Act</WikiTitle> <WikiTitleID>55752</WikiTitleID> <RankerScore>0.06422403812623532</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prime minister</EntitySurfaceForm>
+	<EntityTextStart>169</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>0.07629912534177535</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_minister</WikiTitle>
+		<WikiTitleID>24109</WikiTitleID>
+		<RankerScore>0.1564219131750734</RankerScore>
+		<Attributes>title	minister</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_minister</WikiTitle> <WikiTitleID>24109</WikiTitleID> <RankerScore>0.1564219131750734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Canada</WikiTitle> <WikiTitleID>24135</WikiTitleID> <RankerScore>0.05830552905513924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_the_United_Kingdom</WikiTitle> <WikiTitleID>24150</WikiTitleID> <RankerScore>0.1025758971283734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Japan</WikiTitle> <WikiTitleID>24833</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Turkey</WikiTitle> <WikiTitleID>649557</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_France</WikiTitle> <WikiTitleID>218751</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Iraq</WikiTitle> <WikiTitleID>208879</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Italy</WikiTitle> <WikiTitleID>273741</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Spain</WikiTitle> <WikiTitleID>203556</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Thailand</WikiTitle> <WikiTitleID>211437</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Hungary</WikiTitle> <WikiTitleID>378359</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_the_Republic_of_Poland</WikiTitle> <WikiTitleID>40543</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_the_Netherlands</WikiTitle> <WikiTitleID>273726</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_government_of_São_Tomé_and_Príncipe</WikiTitle> <WikiTitleID>1985528</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Australia</WikiTitle> <WikiTitleID>24117</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Prime_Ministers_of_Albania</WikiTitle> <WikiTitleID>167235</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Laos</WikiTitle> <WikiTitleID>3971499</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Russia</WikiTitle> <WikiTitleID>339344</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Greece</WikiTitle> <WikiTitleID>273647</WikiTitleID> <RankerScore>0.04015862709655375</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>minister</EntitySurfaceForm>
+	<EntityTextStart>175</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>0.5719211036920048</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Minister_(government)</WikiTitle>
+		<WikiTitleID>739237</WikiTitleID>
+		<RankerScore>0.09813629686671699</RankerScore>
+		<Attributes>occupation	minister</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minister_(Christianity)</WikiTitle> <WikiTitleID>739238</WikiTitleID> <RankerScore>0.09494381606343091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_(government)</WikiTitle> <WikiTitleID>739237</WikiTitleID> <RankerScore>0.09813629686671699</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_rank</WikiTitle> <WikiTitleID>1204401</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clergy</WikiTitle> <WikiTitleID>50405</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_State</WikiTitle> <WikiTitleID>248410</WikiTitleID> <RankerScore>0.05894827292347991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ambassador</WikiTitle> <WikiTitleID>68651</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministers_and_elders_in_the_Church_of_Scotland</WikiTitle> <WikiTitleID>3242004</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cabinet_of_Israel</WikiTitle> <WikiTitleID>5006115</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Envoy_(title)</WikiTitle> <WikiTitleID>18002418</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Preacher</WikiTitle> <WikiTitleID>24972</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reverend</WikiTitle> <WikiTitleID>99176</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cabinet_(Fiji)</WikiTitle> <WikiTitleID>471946</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_without_portfolio</WikiTitle> <WikiTitleID>410161</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Altar_server</WikiTitle> <WikiTitleID>435921</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministers_of_the_New_Zealand_Government</WikiTitle> <WikiTitleID>1107448</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pastor</WikiTitle> <WikiTitleID>215153</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Kingdom</WikiTitle> <WikiTitleID>857149</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christianity</WikiTitle> <WikiTitleID>5211</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Council_of_Ministers_of_the_Republic_of_Colombia</WikiTitle> <WikiTitleID>7360355</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_(Catholic_Church)</WikiTitle> <WikiTitleID>8653075</WikiTitleID> <RankerScore>0.04399833024390424</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1984</EntitySurfaceForm>
+	<EntityTextStart>187</EntityTextStart>
+	<EntityTextEnd>191</EntityTextEnd>
+	<LinkerScore>1.1724728400182483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1984</WikiTitle>
+		<WikiTitleID>34578</WikiTitleID>
+		<RankerScore>0.2021668906580039</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1984</WikiTitle> <WikiTitleID>34578</WikiTitleID> <RankerScore>0.2021668906580039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_film</WikiTitle> <WikiTitleID>171620</WikiTitleID> <RankerScore>0.05118890933118676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_music</WikiTitle> <WikiTitleID>160790</WikiTitleID> <RankerScore>0.046890037623951324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_literature</WikiTitle> <WikiTitleID>190220</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_television</WikiTitle> <WikiTitleID>169737</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nineteen_Eighty-Four</WikiTitle> <WikiTitleID>87218</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_NFL_season</WikiTitle> <WikiTitleID>2395891</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_baseball</WikiTitle> <WikiTitleID>2280251</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_sports</WikiTitle> <WikiTitleID>224743</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_video_gaming</WikiTitle> <WikiTitleID>1323027</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Summer_Olympics</WikiTitle> <WikiTitleID>82762</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_1984</WikiTitle> <WikiTitleID>428505</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_poetry</WikiTitle> <WikiTitleID>5513385</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1984</WikiTitle> <WikiTitleID>40571</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Winter_Olympics</WikiTitle> <WikiTitleID>113362</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_in_aviation</WikiTitle> <WikiTitleID>268027</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nineteen_Eighty-Four_(film)</WikiTitle> <WikiTitleID>14254136</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_PGA_Tour</WikiTitle> <WikiTitleID>14640450</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1983–84_NHL_season</WikiTitle> <WikiTitleID>2377551</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>7964408</WikiTitleID> <RankerScore>0.041162009552168116</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>astrologer</EntitySurfaceForm>
+	<EntityTextStart>200</EntityTextStart>
+	<EntityTextEnd>210</EntityTextEnd>
+	<LinkerScore>0.5807275068220676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astrologer</WikiTitle>
+		<WikiTitleID>160335</WikiTitleID>
+		<RankerScore>0.32328559604966833</RankerScore>
+		<Attributes>astrologer	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astrologer</WikiTitle> <WikiTitleID>160335</WikiTitleID> <RankerScore>0.32328559604966833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astrology</WikiTitle> <WikiTitleID>2122</WikiTitleID> <RankerScore>0.16085461880870253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_astrology</WikiTitle> <WikiTitleID>5005288</WikiTitleID> <RankerScore>0.09445341185188057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jyotiṣa</WikiTitle> <WikiTitleID>186462</WikiTitleID> <RankerScore>0.09445341185188057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_astrologers</WikiTitle> <WikiTitleID>1095050</WikiTitleID> <RankerScore>0.09445341185188057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_astrology</WikiTitle> <WikiTitleID>958988</WikiTitleID> <RankerScore>0.13804613773410687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Onmyōdō</WikiTitle> <WikiTitleID>1962240</WikiTitleID> <RankerScore>0.09445341185188057</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Sunday Telegraph</EntitySurfaceForm>
+	<EntityTextStart>257</EntityTextStart>
+	<EntityTextEnd>277</EntityTextEnd>
+	<LinkerScore>0.18902722725899385</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunday_Telegraph</WikiTitle>
+		<WikiTitleID>446696</WikiTitleID>
+		<RankerScore>0.41546665439763275</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunday_Telegraph</WikiTitle> <WikiTitleID>446696</WikiTitleID> <RankerScore>0.41546665439763275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Daily_Telegraph_(Australia)</WikiTitle> <WikiTitleID>172311</WikiTitleID> <RankerScore>0.2466014522467192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Daily_Telegraph</WikiTitle> <WikiTitleID>172985</WikiTitleID> <RankerScore>0.337931893355648</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sunday Telegraph</EntitySurfaceForm>
+	<EntityTextStart>261</EntityTextStart>
+	<EntityTextEnd>277</EntityTextEnd>
+	<LinkerScore>0.29981629518610825</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sunday_Telegraph</WikiTitle>
+		<WikiTitleID>446696</WikiTitleID>
+		<RankerScore>0.45371794633278273</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sunday_Telegraph</WikiTitle> <WikiTitleID>446696</WikiTitleID> <RankerScore>0.45371794633278273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Daily_Telegraph_(Australia)</WikiTitle> <WikiTitleID>172311</WikiTitleID> <RankerScore>0.2242435748527325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Daily_Telegraph</WikiTitle> <WikiTitleID>172985</WikiTitleID> <RankerScore>0.3220384788144847</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Telegraph</EntitySurfaceForm>
+	<EntityTextStart>268</EntityTextStart>
+	<EntityTextEnd>277</EntityTextEnd>
+	<LinkerScore>0.35055282506621055</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Daily_Telegraph</WikiTitle>
+		<WikiTitleID>172985</WikiTitleID>
+		<RankerScore>0.19196164529103324</RankerScore>
+		<Attributes>newspaper</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telegraphy</WikiTitle> <WikiTitleID>30010</WikiTitleID> <RankerScore>0.1889802867091953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Daily_Telegraph</WikiTitle> <WikiTitleID>172985</WikiTitleID> <RankerScore>0.19196164529103324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraph_(album)</WikiTitle> <WikiTitleID>2290238</WikiTitleID> <RankerScore>0.08834318782983373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraph,_Texas</WikiTitle> <WikiTitleID>12024049</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraph_Avenue</WikiTitle> <WikiTitleID>919708</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraph_(Sofia)</WikiTitle> <WikiTitleID>15781726</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Telegraph_(Macon)</WikiTitle> <WikiTitleID>3365920</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_24_in_Michigan</WikiTitle> <WikiTitleID>2324458</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Telegraph_(Nashua)</WikiTitle> <WikiTitleID>175813</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraph,_Isles_of_Scilly</WikiTitle> <WikiTitleID>10221067</WikiTitleID> <RankerScore>0.07581641145284825</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Orr</EntitySurfaceForm>
+	<EntityTextStart>293</EntityTextStart>
+	<EntityTextEnd>296</EntityTextEnd>
+	<LinkerScore>-0.09854192875570139</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orr,_Minnesota</WikiTitle>
+		<WikiTitleID>121779</WikiTitleID>
+		<RankerScore>0.18154494455181647</RankerScore>
+		<Attributes>city	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Orr</WikiTitle> <WikiTitleID>4357419</WikiTitleID> <RankerScore>0.17526435576051466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr_(Catch-22)</WikiTitle> <WikiTitleID>636314</WikiTitleID> <RankerScore>0.1705966918580529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr,_Minnesota</WikiTitle> <WikiTitleID>121779</WikiTitleID> <RankerScore>0.18154494455181647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bobby_Orr</WikiTitle> <WikiTitleID>86913</WikiTitleID> <RankerScore>0.118148501957404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Lawrence_Orr</WikiTitle> <WikiTitleID>759219</WikiTitleID> <RankerScore>0.118148501957404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danny_Orr</WikiTitle> <WikiTitleID>2934005</WikiTitleID> <RankerScore>0.118148501957404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Edwin_Orr</WikiTitle> <WikiTitleID>10487328</WikiTitleID> <RankerScore>0.118148501957404</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horoscope chart</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horoscope</WikiTitle>
+		<WikiTitleID>39870</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>factor	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horoscope</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>326</EntityTextEnd>
+	<LinkerScore>1.1650193777226825</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horoscope</WikiTitle>
+		<WikiTitleID>39870</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>factor	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horoscope</WikiTitle> <WikiTitleID>39870</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>337</EntityTextStart>
+	<EntityTextEnd>345</EntityTextEnd>
+	<LinkerScore>0.5152756620680539</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.4130878638177361</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.4130878638177361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.10552880736174267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.17749544717390656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.10129596054887158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.10129596054887158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.10129596054887158</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Libran</EntitySurfaceForm>
+	<EntityTextStart>349</EntityTextStart>
+	<EntityTextEnd>355</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Twelve_Colonies</WikiTitle>
+		<WikiTitleID>1236319</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>race	colony	planet	government</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Irish</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>402</EntityTextEnd>
+	<LinkerScore>-0.3256927541794464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Irish_language</WikiTitle>
+		<WikiTitleID>15105</WikiTitleID>
+		<RankerScore>0.08732711002581676</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ireland</WikiTitle> <WikiTitleID>147575</WikiTitleID> <RankerScore>0.08417001765976119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_people</WikiTitle> <WikiTitleID>775859</WikiTitleID> <RankerScore>0.08493809618241495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_language</WikiTitle> <WikiTitleID>15105</WikiTitleID> <RankerScore>0.08732711002581676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland</WikiTitle> <WikiTitleID>14560</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_American</WikiTitle> <WikiTitleID>699390</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Ireland</WikiTitle> <WikiTitleID>377606</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_mythology</WikiTitle> <WikiTitleID>15175</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_poetry</WikiTitle> <WikiTitleID>338104</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Canadian</WikiTitle> <WikiTitleID>697558</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_literature</WikiTitle> <WikiTitleID>365154</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_diaspora</WikiTitle> <WikiTitleID>14561</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_Ireland</WikiTitle> <WikiTitleID>553319</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland</WikiTitle> <WikiTitleID>21265</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Free_State</WikiTitle> <WikiTitleID>42953</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_rugby_union_team</WikiTitle> <WikiTitleID>955500</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Éire</WikiTitle> <WikiTitleID>42965</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_football_team_(1882–1950)</WikiTitle> <WikiTitleID>6967081</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_rugby_league_team</WikiTitle> <WikiTitleID>738863</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Australian</WikiTitle> <WikiTitleID>2496481</WikiTitleID> <RankerScore>0.04373910447835336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>guerrilla</EntitySurfaceForm>
+	<EntityTextStart>403</EntityTextStart>
+	<EntityTextEnd>412</EntityTextEnd>
+	<LinkerScore>1.029139603661183</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guerrilla_warfare</WikiTitle>
+		<WikiTitleID>12720</WikiTitleID>
+		<RankerScore>0.31501765714903474</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guerrilla_warfare</WikiTitle> <WikiTitleID>12720</WikiTitleID> <RankerScore>0.31501765714903474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guerrilla_warfare_in_the_American_Civil_War</WikiTitle> <WikiTitleID>18533974</WikiTitleID> <RankerScore>0.1129427517879893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guerrilla_filmmaking</WikiTitle> <WikiTitleID>4490690</WikiTitleID> <RankerScore>0.0884870410660049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guerrilla_groups_of_Iran</WikiTitle> <WikiTitleID>17009805</WikiTitleID> <RankerScore>0.0967105099993942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Maquis</WikiTitle> <WikiTitleID>8862690</WikiTitleID> <RankerScore>0.0967105099993942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guerrilla_communication</WikiTitle> <WikiTitleID>162597</WikiTitleID> <RankerScore>0.0967105099993942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_guerrilla_movements</WikiTitle> <WikiTitleID>66670</WikiTitleID> <RankerScore>0.0967105099993942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Revolutionary_Armed_Forces_of_Colombia</WikiTitle> <WikiTitleID>26100</WikiTitleID> <RankerScore>0.0967105099993942</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hotel</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>431</EntityTextEnd>
+	<LinkerScore>0.6806656166197019</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hotel</WikiTitle>
+		<WikiTitleID>14276</WikiTitleID>
+		<RankerScore>0.2345459435815844</RankerScore>
+		<Attributes>hotel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hotel</WikiTitle> <WikiTitleID>14276</WikiTitleID> <RankerScore>0.2345459435815844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_house</WikiTitle> <WikiTitleID>24578</WikiTitleID> <RankerScore>0.11233501342114716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_pubs</WikiTitle> <WikiTitleID>8506006</WikiTitleID> <RankerScore>0.09044815994081315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyperion_Hotel</WikiTitle> <WikiTitleID>1846537</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chateau_Marmont_Hotel</WikiTitle> <WikiTitleID>350044</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blackstone_Hotel</WikiTitle> <WikiTitleID>3540506</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hotel_Petersberg</WikiTitle> <WikiTitleID>3530856</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tavern</WikiTitle> <WikiTitleID>272204</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>InterContinental_Hotel,_Kabul</WikiTitle> <WikiTitleID>1803749</WikiTitleID> <RankerScore>0.09377848050940922</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Conservative Party conference</EntitySurfaceForm>
+	<EntityTextStart>443</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conservative_Party_(UK)</WikiTitle>
+		<WikiTitleID>32113</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Conservative Party</EntitySurfaceForm>
+	<EntityTextStart>443</EntityTextStart>
+	<EntityTextEnd>461</EntityTextEnd>
+	<LinkerScore>1.3924132216817906</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conservative_Party_(UK)</WikiTitle>
+		<WikiTitleID>32113</WikiTitleID>
+		<RankerScore>0.17709508265585405</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(UK)</WikiTitle> <WikiTitleID>32113</WikiTitleID> <RankerScore>0.17709508265585405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Norway</WikiTitle> <WikiTitleID>1241411</WikiTitleID> <RankerScore>0.049262921374099766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>308647</WikiTitleID> <RankerScore>0.05052721087163393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada_(historical)</WikiTitle> <WikiTitleID>430819</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Manitoba</WikiTitle> <WikiTitleID>483355</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(Romania)</WikiTitle> <WikiTitleID>1619138</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(Romania,_1880–1918)</WikiTitle> <WikiTitleID>1860756</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_New_York</WikiTitle> <WikiTitleID>635592</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(South_Africa)</WikiTitle> <WikiTitleID>663468</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Nicaragua</WikiTitle> <WikiTitleID>2655115</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Alberta</WikiTitle> <WikiTitleID>458469</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Columbia_Conservative_Party</WikiTitle> <WikiTitleID>471759</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(Chile)</WikiTitle> <WikiTitleID>8467475</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Conservative_Party</WikiTitle> <WikiTitleID>1458424</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Saskatchewan</WikiTitle> <WikiTitleID>474142</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Ontario</WikiTitle> <WikiTitleID>333635</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(Uganda)</WikiTitle> <WikiTitleID>1826698</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_Conservative_Party</WikiTitle> <WikiTitleID>10559685</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_New_Brunswick</WikiTitle> <WikiTitleID>524745</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Edward_Island_Progressive_Conservative_Party</WikiTitle> <WikiTitleID>525177</WikiTitleID> <RankerScore>0.042536163829318366</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Conservative</EntitySurfaceForm>
+	<EntityTextStart>443</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>1.0330564290781719</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conservative_Party_(UK)</WikiTitle>
+		<WikiTitleID>32113</WikiTitleID>
+		<RankerScore>0.17857648401423212</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(UK)</WikiTitle> <WikiTitleID>32113</WikiTitleID> <RankerScore>0.17857648401423212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada_(historical)</WikiTitle> <WikiTitleID>430819</WikiTitleID> <RankerScore>0.05481352282300881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>308647</WikiTitleID> <RankerScore>0.05948832886513768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Columbia_Conservative_Party</WikiTitle> <WikiTitleID>471759</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Ontario</WikiTitle> <WikiTitleID>333635</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Judaism</WikiTitle> <WikiTitleID>6623</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservatism</WikiTitle> <WikiTitleID>6675</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Manitoba</WikiTitle> <WikiTitleID>483355</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Conservative_Party</WikiTitle> <WikiTitleID>3796828</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Edward_Island_Progressive_Conservative_Party</WikiTitle> <WikiTitleID>525177</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_New_York</WikiTitle> <WikiTitleID>635592</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Alberta</WikiTitle> <WikiTitleID>458469</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_New_Brunswick</WikiTitle> <WikiTitleID>524745</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>123462</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Conservative_Party</WikiTitle> <WikiTitleID>1458424</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Saskatchewan</WikiTitle> <WikiTitleID>474142</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservatism_in_the_United_States</WikiTitle> <WikiTitleID>2298740</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Nova_Scotia</WikiTitle> <WikiTitleID>522902</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_People&apos;s_Party_(Denmark)</WikiTitle> <WikiTitleID>403116</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Norway</WikiTitle> <WikiTitleID>1241411</WikiTitleID> <RankerScore>0.041595392017507136</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Party conference</EntitySurfaceForm>
+	<EntityTextStart>456</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>0.9597515616706361</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Party_conference</WikiTitle>
+		<WikiTitleID>3267525</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>conference	assembly</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Party_conference</WikiTitle> <WikiTitleID>3267525</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Orr</EntitySurfaceForm>
+	<EntityTextStart>497</EntityTextStart>
+	<EntityTextEnd>500</EntityTextEnd>
+	<LinkerScore>-0.14782247895608508</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orr,_Minnesota</WikiTitle>
+		<WikiTitleID>121779</WikiTitleID>
+		<RankerScore>0.18195692637297656</RankerScore>
+		<Attributes>city	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Orr</WikiTitle> <WikiTitleID>4357419</WikiTitleID> <RankerScore>0.17338766099577313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr_(Catch-22)</WikiTitle> <WikiTitleID>636314</WikiTitleID> <RankerScore>0.17098518501073373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr,_Minnesota</WikiTitle> <WikiTitleID>121779</WikiTitleID> <RankerScore>0.18195692637297656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bobby_Orr</WikiTitle> <WikiTitleID>86913</WikiTitleID> <RankerScore>0.11841755690512915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Lawrence_Orr</WikiTitle> <WikiTitleID>759219</WikiTitleID> <RankerScore>0.11841755690512915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danny_Orr</WikiTitle> <WikiTitleID>2934005</WikiTitleID> <RankerScore>0.11841755690512915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Edwin_Orr</WikiTitle> <WikiTitleID>10487328</WikiTitleID> <RankerScore>0.11841755690512915</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>506</EntityTextStart>
+	<EntityTextEnd>514</EntityTextEnd>
+	<LinkerScore>0.7792778098901614</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.46026750951108875</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.46026750951108875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.09647423744633593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.16551417379196498</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.09258135975020344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.09258135975020344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.09258135975020344</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>press secretary</EntitySurfaceForm>
+	<EntityTextStart>517</EntityTextStart>
+	<EntityTextEnd>532</EntityTextEnd>
+	<LinkerScore>0.758733605592971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Press_secretary</WikiTitle>
+		<WikiTitleID>456013</WikiTitleID>
+		<RankerScore>0.6085950987915582</RankerScore>
+		<Attributes>occupation	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Press_secretary</WikiTitle> <WikiTitleID>456013</WikiTitleID> <RankerScore>0.6085950987915582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_House_Press_Secretary</WikiTitle> <WikiTitleID>284101</WikiTitleID> <RankerScore>0.39140490120844185</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ingram</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>547</EntityTextEnd>
+	<LinkerScore>-0.3053535603693975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ingram,_Texas</WikiTitle>
+		<WikiTitleID>136251</WikiTitleID>
+		<RankerScore>0.2130896909807978</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ingram,_Pennsylvania</WikiTitle> <WikiTitleID>131126</WikiTitleID> <RankerScore>0.1914882383255349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Texas</WikiTitle> <WikiTitleID>136251</WikiTitleID> <RankerScore>0.2130896909807978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Wisconsin</WikiTitle> <WikiTitleID>139672</WikiTitleID> <RankerScore>0.17235199666260143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingerman_of_Hesbaye</WikiTitle> <WikiTitleID>1299373</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Northumberland</WikiTitle> <WikiTitleID>5132108</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MAC-10</WikiTitle> <WikiTitleID>452809</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone</EntitySurfaceForm>
+	<EntityTextStart>561</EntityTextStart>
+	<EntityTextEnd>570</EntityTextEnd>
+	<LinkerScore>0.49346055397499733</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone</WikiTitle>
+		<WikiTitleID>30003</WikiTitleID>
+		<RankerScore>0.211585018788534</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telephone</WikiTitle> <WikiTitleID>30003</WikiTitleID> <RankerScore>0.211585018788534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_banking</WikiTitle> <WikiTitleID>6222524</WikiTitleID> <RankerScore>0.06014862573526084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plain_old_telephone_service</WikiTitle> <WikiTitleID>160834</WikiTitleID> <RankerScore>0.0743586042230064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_number</WikiTitle> <WikiTitleID>30750</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-assisted_telephone_interviewing</WikiTitle> <WikiTitleID>1290555</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_marketing</WikiTitle> <WikiTitleID>665239</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer-premises_equipment</WikiTitle> <WikiTitleID>40982</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_whispers</WikiTitle> <WikiTitleID>291405</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_directory</WikiTitle> <WikiTitleID>162263</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teleconference</WikiTitle> <WikiTitleID>41783</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephony</WikiTitle> <WikiTitleID>41831</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.059446159204836264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bernard Ingham</EntitySurfaceForm>
+	<EntityTextStart>626</EntityTextStart>
+	<EntityTextEnd>640</EntityTextEnd>
+	<LinkerScore>1.2005667338332071</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bernard_Ingham</WikiTitle>
+		<WikiTitleID>1164434</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>academic	person	journalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bernard_Ingham</WikiTitle> <WikiTitleID>1164434</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ingham</EntitySurfaceForm>
+	<EntityTextStart>634</EntityTextStart>
+	<EntityTextEnd>640</EntityTextEnd>
+	<LinkerScore>-0.06042039565730846</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ingham,_Queensland</WikiTitle>
+		<WikiTitleID>1508076</WikiTitleID>
+		<RankerScore>0.2023641877645975</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ingham,_Queensland</WikiTitle> <WikiTitleID>1508076</WikiTitleID> <RankerScore>0.2023641877645975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingham_County,_Michigan</WikiTitle> <WikiTitleID>95089</WikiTitleID> <RankerScore>0.1653841210456516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingham,_Norfolk</WikiTitle> <WikiTitleID>98972</WikiTitleID> <RankerScore>0.1357699438007647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingham,_Suffolk</WikiTitle> <WikiTitleID>2260599</WikiTitleID> <RankerScore>0.12412043684724657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albert_Ingham</WikiTitle> <WikiTitleID>5380138</WikiTitleID> <RankerScore>0.12412043684724657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingham,_Ohio</WikiTitle> <WikiTitleID>13063044</WikiTitleID> <RankerScore>0.12412043684724657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingham,_Lincolnshire</WikiTitle> <WikiTitleID>1583567</WikiTitleID> <RankerScore>0.12412043684724657</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Orr</EntitySurfaceForm>
+	<EntityTextStart>725</EntityTextStart>
+	<EntityTextEnd>728</EntityTextEnd>
+	<LinkerScore>0.6673065751562441</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orr,_Minnesota</WikiTitle>
+		<WikiTitleID>121779</WikiTitleID>
+		<RankerScore>0.2641589371479189</RankerScore>
+		<Attributes>city	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Orr</WikiTitle> <WikiTitleID>4357419</WikiTitleID> <RankerScore>0.15764670692063265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr_(Catch-22)</WikiTitle> <WikiTitleID>636314</WikiTitleID> <RankerScore>0.15013741434503944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr,_Minnesota</WikiTitle> <WikiTitleID>121779</WikiTitleID> <RankerScore>0.2641589371479189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bobby_Orr</WikiTitle> <WikiTitleID>86913</WikiTitleID> <RankerScore>0.10701423539660225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Lawrence_Orr</WikiTitle> <WikiTitleID>759219</WikiTitleID> <RankerScore>0.10701423539660225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danny_Orr</WikiTitle> <WikiTitleID>2934005</WikiTitleID> <RankerScore>0.10701423539660225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Edwin_Orr</WikiTitle> <WikiTitleID>10487328</WikiTitleID> <RankerScore>0.10701423539660225</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Orr</EntitySurfaceForm>
+	<EntityTextStart>735</EntityTextStart>
+	<EntityTextEnd>738</EntityTextEnd>
+	<LinkerScore>0.6706673009586481</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orr,_Minnesota</WikiTitle>
+		<WikiTitleID>121779</WikiTitleID>
+		<RankerScore>0.26685051609597243</RankerScore>
+		<Attributes>city	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Orr</WikiTitle> <WikiTitleID>4357419</WikiTitleID> <RankerScore>0.15707701667654916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr_(Catch-22)</WikiTitle> <WikiTitleID>636314</WikiTitleID> <RankerScore>0.14950661143695804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr,_Minnesota</WikiTitle> <WikiTitleID>121779</WikiTitleID> <RankerScore>0.26685051609597243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bobby_Orr</WikiTitle> <WikiTitleID>86913</WikiTitleID> <RankerScore>0.1066414639476301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Lawrence_Orr</WikiTitle> <WikiTitleID>759219</WikiTitleID> <RankerScore>0.1066414639476301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danny_Orr</WikiTitle> <WikiTitleID>2934005</WikiTitleID> <RankerScore>0.1066414639476301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Edwin_Orr</WikiTitle> <WikiTitleID>10487328</WikiTitleID> <RankerScore>0.1066414639476301</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone</EntitySurfaceForm>
+	<EntityTextStart>761</EntityTextStart>
+	<EntityTextEnd>770</EntityTextEnd>
+	<LinkerScore>0.5103171914948036</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone</WikiTitle>
+		<WikiTitleID>30003</WikiTitleID>
+		<RankerScore>0.2114908394999564</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telephone</WikiTitle> <WikiTitleID>30003</WikiTitleID> <RankerScore>0.2114908394999564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_banking</WikiTitle> <WikiTitleID>6222524</WikiTitleID> <RankerScore>0.060055862915943586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plain_old_telephone_service</WikiTitle> <WikiTitleID>160834</WikiTitleID> <RankerScore>0.0745661100114955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_number</WikiTitle> <WikiTitleID>30750</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-assisted_telephone_interviewing</WikiTitle> <WikiTitleID>1290555</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_marketing</WikiTitle> <WikiTitleID>665239</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer-premises_equipment</WikiTitle> <WikiTitleID>40982</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_whispers</WikiTitle> <WikiTitleID>291405</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_directory</WikiTitle> <WikiTitleID>162263</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teleconference</WikiTitle> <WikiTitleID>41783</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephony</WikiTitle> <WikiTitleID>41831</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.059444289779327676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>horoscope</EntitySurfaceForm>
+	<EntityTextStart>791</EntityTextStart>
+	<EntityTextEnd>800</EntityTextEnd>
+	<LinkerScore>1.1165958168296768</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horoscope</WikiTitle>
+		<WikiTitleID>39870</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>factor	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horoscope</WikiTitle> <WikiTitleID>39870</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ingram</EntitySurfaceForm>
+	<EntityTextStart>885</EntityTextStart>
+	<EntityTextEnd>891</EntityTextEnd>
+	<LinkerScore>-0.4073180700945428</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ingram,_Texas</WikiTitle>
+		<WikiTitleID>136251</WikiTitleID>
+		<RankerScore>0.2130896909807978</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ingram,_Pennsylvania</WikiTitle> <WikiTitleID>131126</WikiTitleID> <RankerScore>0.1914882383255349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Texas</WikiTitle> <WikiTitleID>136251</WikiTitleID> <RankerScore>0.2130896909807978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Wisconsin</WikiTitle> <WikiTitleID>139672</WikiTitleID> <RankerScore>0.17235199666260143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingerman_of_Hesbaye</WikiTitle> <WikiTitleID>1299373</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ingram,_Northumberland</WikiTitle> <WikiTitleID>5132108</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MAC-10</WikiTitle> <WikiTitleID>452809</WikiTitleID> <RankerScore>0.14102335801035526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>newspaper</EntitySurfaceForm>
+	<EntityTextStart>918</EntityTextStart>
+	<EntityTextEnd>927</EntityTextEnd>
+	<LinkerScore>0.2886046178554749</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Newspaper</WikiTitle>
+		<WikiTitleID>18582335</WikiTitleID>
+		<RankerScore>0.12605267216932917</RankerScore>
+		<Attributes>periodical	product	newspaper	format</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Newspaper</WikiTitle> <WikiTitleID>18582335</WikiTitleID> <RankerScore>0.12605267216932917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers</WikiTitle> <WikiTitleID>18546</WikiTitleID> <RankerScore>0.06210156177648189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Student_newspaper</WikiTitle> <WikiTitleID>1168956</WikiTitleID> <RankerScore>0.05799831318201645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Sweden</WikiTitle> <WikiTitleID>207301</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_American_newspapers</WikiTitle> <WikiTitleID>3494738</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_media</WikiTitle> <WikiTitleID>304113</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Turkey</WikiTitle> <WikiTitleID>3045015</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newspapers_of_Hong_Kong</WikiTitle> <WikiTitleID>267241</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Tajikistan</WikiTitle> <WikiTitleID>4277771</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_India</WikiTitle> <WikiTitleID>4050281</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_the_Netherlands</WikiTitle> <WikiTitleID>4050441</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amandala</WikiTitle> <WikiTitleID>6006358</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_South_Korea</WikiTitle> <WikiTitleID>4278015</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_early_Canadian_newspapers</WikiTitle> <WikiTitleID>357706</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>L&apos;Unità</WikiTitle> <WikiTitleID>1926403</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Scotland</WikiTitle> <WikiTitleID>3656139</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Australia</WikiTitle> <WikiTitleID>500076</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weekly_World_News</WikiTitle> <WikiTitleID>222550</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Star_newspaper</WikiTitle> <WikiTitleID>4917193</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Philadelphia_Inquirer</WikiTitle> <WikiTitleID>102952</WikiTitleID> <RankerScore>0.044343967816010146</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>astrology</EntitySurfaceForm>
+	<EntityTextStart>939</EntityTextStart>
+	<EntityTextEnd>948</EntityTextEnd>
+	<LinkerScore>0.8056738072097264</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astrology</WikiTitle>
+		<WikiTitleID>2122</WikiTitleID>
+		<RankerScore>0.3243689612073556</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astrology</WikiTitle> <WikiTitleID>2122</WikiTitleID> <RankerScore>0.3243689612073556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_astrology</WikiTitle> <WikiTitleID>5005288</WikiTitleID> <RankerScore>0.08972359356868854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_astrology</WikiTitle> <WikiTitleID>159669</WikiTitleID> <RankerScore>0.16159769133600924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jyotiṣa</WikiTitle> <WikiTitleID>186462</WikiTitleID> <RankerScore>0.08486195077758933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_astrology</WikiTitle> <WikiTitleID>159668</WikiTitleID> <RankerScore>0.08486195077758933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Babylonian_astrology</WikiTitle> <WikiTitleID>5524744</WikiTitleID> <RankerScore>0.08486195077758933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Egyptian_astrology</WikiTitle> <WikiTitleID>8355897</WikiTitleID> <RankerScore>0.08486195077758933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Planets_in_astrology</WikiTitle> <WikiTitleID>1852754</WikiTitleID> <RankerScore>0.08486195077758933</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Orr</EntitySurfaceForm>
+	<EntityTextStart>1009</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>0.4649601653486761</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Orr_(Catch-22)</WikiTitle>
+		<WikiTitleID>636314</WikiTitleID>
+		<RankerScore>0.19709560896315564</RankerScore>
+		<Attributes>aviator	character	personnel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Orr</WikiTitle> <WikiTitleID>4357419</WikiTitleID> <RankerScore>0.1694700648927793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr_(Catch-22)</WikiTitle> <WikiTitleID>636314</WikiTitleID> <RankerScore>0.19709560896315564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orr,_Minnesota</WikiTitle> <WikiTitleID>121779</WikiTitleID> <RankerScore>0.17566934184680102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bobby_Orr</WikiTitle> <WikiTitleID>86913</WikiTitleID> <RankerScore>0.114441246074316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Lawrence_Orr</WikiTitle> <WikiTitleID>759219</WikiTitleID> <RankerScore>0.114441246074316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Danny_Orr</WikiTitle> <WikiTitleID>2934005</WikiTitleID> <RankerScore>0.114441246074316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._Edwin_Orr</WikiTitle> <WikiTitleID>10487328</WikiTitleID> <RankerScore>0.114441246074316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>1032</EntityTextStart>
+	<EntityTextEnd>1040</EntityTextEnd>
+	<LinkerScore>0.3862626677033871</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.4108542318025248</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.4108542318025248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.10202239823847878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.21971213867087608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.08913707709604012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.08913707709604012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.08913707709604012</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thatcher</EntitySurfaceForm>
+	<EntityTextStart>1050</EntityTextStart>
+	<EntityTextEnd>1058</EntityTextEnd>
+	<LinkerScore>0.4552394325381745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Margaret_Thatcher</WikiTitle>
+		<WikiTitleID>19831</WikiTitleID>
+		<RankerScore>0.42127277110631706</RankerScore>
+		<Attributes>convert	chemist	person	leaders	survivor	methodists	lawyer	secretary	peer	member	critic	head	woman	chancellor	anglican	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Margaret_Thatcher</WikiTitle> <WikiTitleID>19831</WikiTitleID> <RankerScore>0.42127277110631706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Arizona</WikiTitle> <WikiTitleID>106625</WikiTitleID> <RankerScore>0.1001991771065305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcherism</WikiTitle> <WikiTitleID>85479</WikiTitleID> <RankerScore>0.21514141745985196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Thatcher</WikiTitle> <WikiTitleID>12472940</WikiTitleID> <RankerScore>0.08779554477576683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatcher,_Colorado</WikiTitle> <WikiTitleID>8746965</WikiTitleID> <RankerScore>0.08779554477576683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thatching</WikiTitle> <WikiTitleID>103141</WikiTitleID> <RankerScore>0.08779554477576683</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iron Lady</EntitySurfaceForm>
+	<EntityTextStart>1072</EntityTextStart>
+	<EntityTextEnd>1081</EntityTextEnd>
+	<LinkerScore>1.1250302192028483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iron_Lady</WikiTitle>
+		<WikiTitleID>805768</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>names</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iron_Lady</WikiTitle> <WikiTitleID>805768</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>occult</EntitySurfaceForm>
+	<EntityTextStart>1164</EntityTextStart>
+	<EntityTextEnd>1170</EntityTextEnd>
+	<LinkerScore>0.8633843819023971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Occult</WikiTitle>
+		<WikiTitleID>22487</WikiTitleID>
+		<RankerScore>0.7794819349100781</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Occult</WikiTitle> <WikiTitleID>22487</WikiTitleID> <RankerScore>0.7794819349100781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Occultation</WikiTitle> <WikiTitleID>291234</WikiTitleID> <RankerScore>0.22051806508992197</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>university degree</EntitySurfaceForm>
+	<EntityTextStart>1189</EntityTextStart>
+	<EntityTextEnd>1206</EntityTextEnd>
+	<LinkerScore>0.5243037969925766</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Academic_degree</WikiTitle>
+		<WikiTitleID>167241</WikiTitleID>
+		<RankerScore>0.6059413453925004</RankerScore>
+		<Attributes>degree</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Academic_degree</WikiTitle> <WikiTitleID>167241</WikiTitleID> <RankerScore>0.6059413453925004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor&apos;s_degree</WikiTitle> <WikiTitleID>188874</WikiTitleID> <RankerScore>0.39405865460749956</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>university</EntitySurfaceForm>
+	<EntityTextStart>1189</EntityTextStart>
+	<EntityTextEnd>1199</EntityTextEnd>
+	<LinkerScore>0.11852664675092711</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>University</WikiTitle>
+		<WikiTitleID>31794</WikiTitleID>
+		<RankerScore>0.12621857908953119</RankerScore>
+		<Attributes>stage	university</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>University</WikiTitle> <WikiTitleID>31794</WikiTitleID> <RankerScore>0.12621857908953119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Oxford</WikiTitle> <WikiTitleID>31797</WikiTitleID> <RankerScore>0.08304936972588021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Cambridge</WikiTitle> <WikiTitleID>31796</WikiTitleID> <RankerScore>0.08198204524054417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Nigeria</WikiTitle> <WikiTitleID>2677719</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Edinburgh</WikiTitle> <WikiTitleID>64395</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Vienna</WikiTitle> <WikiTitleID>53049</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_St_Andrews</WikiTitle> <WikiTitleID>181348</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Paris</WikiTitle> <WikiTitleID>84692</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Glasgow</WikiTitle> <WikiTitleID>39569</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Australia</WikiTitle> <WikiTitleID>322780</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Heidelberg</WikiTitle> <WikiTitleID>100649</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Higher_education</WikiTitle> <WikiTitleID>14423</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Tübingen</WikiTitle> <WikiTitleID>262301</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Padua</WikiTitle> <WikiTitleID>378253</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Königsberg</WikiTitle> <WikiTitleID>670971</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Copenhagen</WikiTitle> <WikiTitleID>176767</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wrocław</WikiTitle> <WikiTitleID>446706</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Sheffield</WikiTitle> <WikiTitleID>310417</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_State_University</WikiTitle> <WikiTitleID>649879</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aristotle_University_of_Thessaloniki</WikiTitle> <WikiTitleID>715160</WikiTitleID> <RankerScore>0.04169117682023791</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chemistry</EntitySurfaceForm>
+	<EntityTextStart>1210</EntityTextStart>
+	<EntityTextEnd>1219</EntityTextEnd>
+	<LinkerScore>1.13063454940987</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chemistry</WikiTitle>
+		<WikiTitleID>5180</WikiTitleID>
+		<RankerScore>0.19251818942415314</RankerScore>
+		<Attributes>science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chemistry</WikiTitle> <WikiTitleID>5180</WikiTitleID> <RankerScore>0.19251818942415314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alchemy_and_chemistry_in_Islam</WikiTitle> <WikiTitleID>8770201</WikiTitleID> <RankerScore>0.0497709157966548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nobel_Prize_in_Chemistry</WikiTitle> <WikiTitleID>21660</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AP_Chemistry</WikiTitle> <WikiTitleID>1865258</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clinical_chemistry</WikiTitle> <WikiTitleID>65622</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy</WikiTitle> <WikiTitleID>9649</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soil_chemistry</WikiTitle> <WikiTitleID>4715070</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biochemistry</WikiTitle> <WikiTitleID>3954</WikiTitleID> <RankerScore>0.05405558279050712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_substance</WikiTitle> <WikiTitleID>9722260</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_chemistry</WikiTitle> <WikiTitleID>7888444</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philosophy_of_chemistry</WikiTitle> <WikiTitleID>1403587</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_industry</WikiTitle> <WikiTitleID>58721</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Chemistry_Olympiad</WikiTitle> <WikiTitleID>526214</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_chemistry</WikiTitle> <WikiTitleID>242001</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurochemistry</WikiTitle> <WikiTitleID>542223</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_Science</WikiTitle> <WikiTitleID>7058879</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_chemistry</WikiTitle> <WikiTitleID>1416046</WikiTitleID> <RankerScore>0.05026109371347749</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>1228</EntityTextStart>
+	<EntityTextEnd>1232</EntityTextEnd>
+	<LinkerScore>0.8695837229064415</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.2044513310779274</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.2044513310779274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.04020512418378347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.039124276595455726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.042130545184872546</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. president</EntitySurfaceForm>
+	<EntityTextStart>1228</EntityTextStart>
+	<EntityTextEnd>1242</EntityTextEnd>
+	<LinkerScore>0.6609923138519964</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President_of_the_United_States</WikiTitle>
+		<WikiTitleID>24113</WikiTitleID>
+		<RankerScore>0.588612732812865</RankerScore>
+		<Attributes>president</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>2.0367201705176092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan</WikiTitle> <WikiTitleID>25433</WikiTitleID> <RankerScore>0.18908515187273253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.588612732812865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_the_United_States</WikiTitle> <WikiTitleID>208991</WikiTitleID> <RankerScore>0.07410070510480085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Bush</WikiTitle> <WikiTitleID>3414021</WikiTitleID> <RankerScore>0.07410070510480085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.07410070510480085</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ronald Reagan</EntitySurfaceForm>
+	<EntityTextStart>1243</EntityTextStart>
+	<EntityTextEnd>1256</EntityTextEnd>
+	<LinkerScore>0.28328592680406534</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ronald_Reagan</WikiTitle>
+		<WikiTitleID>25433</WikiTitleID>
+		<RankerScore>0.6119579850392121</RankerScore>
+		<Attributes>person	personnel	broadcaster	presbyterian	announcer	recipient	nominee	candidate	disciple	leaders	state	survivor	actor	writer	president	officer	politician	personality	republican</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan</WikiTitle> <WikiTitleID>25433</WikiTitleID> <RankerScore>0.6119579850392121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Death_and_state_funeral_of_Ronald_Reagan</WikiTitle> <WikiTitleID>1758494</WikiTitleID> <RankerScore>0.388042014960788</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reagan</EntitySurfaceForm>
+	<EntityTextStart>1250</EntityTextStart>
+	<EntityTextEnd>1256</EntityTextEnd>
+	<LinkerScore>0.7705318575612221</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ronald_Reagan</WikiTitle>
+		<WikiTitleID>25433</WikiTitleID>
+		<RankerScore>0.3078565203450846</RankerScore>
+		<Attributes>person	personnel	broadcaster	presbyterian	announcer	recipient	nominee	candidate	disciple	leaders	state	survivor	actor	writer	president	officer	politician	personality	republican</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan</WikiTitle> <WikiTitleID>25433</WikiTitleID> <RankerScore>0.3078565203450846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presidency_of_Ronald_Reagan</WikiTitle> <WikiTitleID>871552</WikiTitleID> <RankerScore>0.135786857955256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reagan_County,_Texas</WikiTitle> <WikiTitleID>91471</WikiTitleID> <RankerScore>0.06156980640460597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_H._Reagan_High_School_(Houston,_Texas)</WikiTitle> <WikiTitleID>2285300</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ronald_W._Reagan_High_School</WikiTitle> <WikiTitleID>16781109</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan_Washington_National_Airport</WikiTitle> <WikiTitleID>181392</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Henninger_Reagan</WikiTitle> <WikiTitleID>932332</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reagan,_Indiana</WikiTitle> <WikiTitleID>15053453</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan_Presidential_Library</WikiTitle> <WikiTitleID>711267</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reagan,_Texas</WikiTitle> <WikiTitleID>12452518</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ronald_Reagan_High_School_(San_Antonio,_Texas)</WikiTitle> <WikiTitleID>11570596</WikiTitleID> <RankerScore>0.06184835191188168</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nancy</EntitySurfaceForm>
+	<EntityTextStart>1265</EntityTextStart>
+	<EntityTextEnd>1270</EntityTextEnd>
+	<LinkerScore>0.9241856723580922</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nancy_Reagan</WikiTitle>
+		<WikiTitleID>21181</WikiTitleID>
+		<RankerScore>0.3623338004657299</RankerScore>
+		<Attributes>actor	socialite	survivor	person	alumnus	presbyterian	republican	recipient	adoptee</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nancy_(Oliver_Twist)</WikiTitle> <WikiTitleID>1683039</WikiTitleID> <RankerScore>0.04253568101812839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AS_Nancy</WikiTitle> <WikiTitleID>1640855</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_(comics)</WikiTitle> <WikiTitleID>888313</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Reagan</WikiTitle> <WikiTitleID>21181</WikiTitleID> <RankerScore>0.3623338004657299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Benoit</WikiTitle> <WikiTitleID>1847817</WikiTitleID> <RankerScore>0.041135743594469004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Hayton</WikiTitle> <WikiTitleID>3501967</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Wilson_(guitarist)</WikiTitle> <WikiTitleID>618546</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Nancy</WikiTitle> <WikiTitleID>9180881</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Mitford</WikiTitle> <WikiTitleID>125819</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Callahan</WikiTitle> <WikiTitleID>3147264</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Nancy</WikiTitle> <WikiTitleID>9222048</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SLUC_Nancy</WikiTitle> <WikiTitleID>3462795</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Nancy_(1944)</WikiTitle> <WikiTitleID>1486571</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Sinatra</WikiTitle> <WikiTitleID>21683</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Nancy_(1789)</WikiTitle> <WikiTitleID>5820399</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Astor,_Viscountess_Astor</WikiTitle> <WikiTitleID>59363</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy,_Kentucky</WikiTitle> <WikiTitleID>4921970</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Gribble</WikiTitle> <WikiTitleID>319989</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Hughes</WikiTitle> <WikiTitleID>2438795</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nancy_Woods</WikiTitle> <WikiTitleID>463266</WikiTitleID> <RankerScore>0.032587927936568985</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>biography</EntitySurfaceForm>
+	<EntityTextStart>1288</EntityTextStart>
+	<EntityTextEnd>1297</EntityTextEnd>
+	<LinkerScore>0.024403779455301283</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Biography</WikiTitle>
+		<WikiTitleID>7370562</WikiTitleID>
+		<RankerScore>0.1992562034626876</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Biography</WikiTitle> <WikiTitleID>7370562</WikiTitleID> <RankerScore>0.1992562034626876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sirah_Rasul_Allah</WikiTitle> <WikiTitleID>173708</WikiTitleID> <RankerScore>0.0883221469113872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Agricola_(book)</WikiTitle> <WikiTitleID>1663256</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dwight_D._Eisenhower</WikiTitle> <WikiTitleID>8182</WikiTitleID> <RankerScore>0.16034757313605122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biographical_dictionary</WikiTitle> <WikiTitleID>1753308</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viva_Villa!_(book)</WikiTitle> <WikiTitleID>6727206</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harriet_Miers</WikiTitle> <WikiTitleID>1180779</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._R._R._Tolkien</WikiTitle> <WikiTitleID>15872</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_mathematicians</WikiTitle> <WikiTitleID>80143</WikiTitleID> <RankerScore>0.09201234608164567</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>astrologer</EntitySurfaceForm>
+	<EntityTextStart>1338</EntityTextStart>
+	<EntityTextEnd>1348</EntityTextEnd>
+	<LinkerScore>0.48731314581188623</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Astrologer</WikiTitle>
+		<WikiTitleID>160335</WikiTitleID>
+		<RankerScore>0.3147753172951858</RankerScore>
+		<Attributes>astrologer	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Astrologer</WikiTitle> <WikiTitleID>160335</WikiTitleID> <RankerScore>0.3147753172951858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astrology</WikiTitle> <WikiTitleID>2122</WikiTitleID> <RankerScore>0.16120877759158397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_astrology</WikiTitle> <WikiTitleID>5005288</WikiTitleID> <RankerScore>0.14112502413342964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jyotiṣa</WikiTitle> <WikiTitleID>186462</WikiTitleID> <RankerScore>0.09572272024495014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_astrologers</WikiTitle> <WikiTitleID>1095050</WikiTitleID> <RankerScore>0.09572272024495014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_astrology</WikiTitle> <WikiTitleID>958988</WikiTitleID> <RankerScore>0.09572272024495014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Onmyōdō</WikiTitle> <WikiTitleID>1962240</WikiTitleID> <RankerScore>0.09572272024495014</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

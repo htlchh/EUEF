@@ -1,0 +1,3243 @@
+<WikifierOutput>
+<InputFilename>
+APW20001130.2108.0849
+</InputFilename>
+<InputText>
+  LONDON (AP) _ After three defeats in the House of Lords, Britain&apos;s Labor government resorted to rarely used powers Thursday to pass legislation lowering the age of consent for homosexuals from 18 to 16.   House of Commons speaker Michael Martin said he was invoking the Parliament Act to force through a Sexual Offenses Bill that makes the age of consent the same for both homosexuals and heterosexuals. It became law after being given Royal Assent by Queen Elizabeth II.   Lawmakers in the House of Commons overwhelmingly approved the bill earlier this year, but the House of Lords this month rejected it for the third time.   The Lords&apos; powers, however, are limited to delaying legislation by blocking it and bouncing it back to the House of Commons. The Parliament Act was created to ensure that the will of the country&apos;s elected lawmakers prevails.   The bill brings Britain in line with most other European Union nations.   ``It is a reform which, in my personal view, is long overdue and is only right for a country that has a history of reform and challenging prejudice,&apos;&apos; said Home Secretary Jack Straw, Britain&apos;s top law enforcement officer.   ``This act will help us to build a safe, just and tolerant society,&apos;&apos; he added.   Angela Mason, director of the gay rights group Stonewall, said Parliament&apos;s action was ``a great step toward equality.&apos;&apos;   ``When the history books come to be written I believe it will be seen as the moment when this country finally began to change, when lesbians and gay men started to take our place as equal members of society,&apos;&apos; she said.   Peter Tatchell, of the group OutRage!, said: ``This victory is a welcome and historic milestone in the long struggle for gay human rights.&apos;&apos;   ``My only regret is that it has taken 33 years during which time hundreds of gay men have been unjustly jailed for victimless relationships.&apos;&apos;   However, family values campaigner and Conservative ex-Leader of the Lords Baroness Young accused the government of behaving in a ``completely dictatorial manner&apos;&apos; toward Parliament.   Straw dismissed the criticism. ``In the circumstances I believe that the use of the Parliament Act in this case is proper and justified,&apos;&apos; he said.   Five years ago, Parliament narrowly rejected lowering the age of consent for homosexuals to 16, reducing it instead from 21 to 18. Homosexual sex between adults ceased to be a crime in Britain three decades ago.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>8</EntityTextEnd>
+	<LinkerScore>0.08532634602850656</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.5113022761901319</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.4886977238098681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.5113022761901319</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>House of Lords</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>1.1240134136610007</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Lords</WikiTitle>
+		<WikiTitleID>13658</WikiTitleID>
+		<RankerScore>0.41060380700644095</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>House_of_Lords</WikiTitle> <WikiTitleID>13658</WikiTitleID> <RankerScore>0.41060380700644095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judicial_functions_of_the_House_of_Lords</WikiTitle> <WikiTitleID>87198</WikiTitleID> <RankerScore>0.14161505930905202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(band)</WikiTitle> <WikiTitleID>8530864</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_House_of_Lords</WikiTitle> <WikiTitleID>500704</WikiTitleID> <RankerScore>0.07280768748420482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cromwell&apos;s_Upper_House</WikiTitle> <WikiTitleID>15121044</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(House_of_Lords_album)</WikiTitle> <WikiTitleID>16945677</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(album)</WikiTitle> <WikiTitleID>14864071</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_of_Appeal_in_Ordinary</WikiTitle> <WikiTitleID>610732</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_House_of_Lords</WikiTitle> <WikiTitleID>767256</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prussian_House_of_Lords</WikiTitle> <WikiTitleID>10937359</WikiTitleID> <RankerScore>0.05356763517147175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>66</EntityTextEnd>
+	<LinkerScore>0.01285960898044304</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.16601035335557673</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.16601035335557673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.046120127798056305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.11079579346270067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.03982786619903919</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Labor</EntitySurfaceForm>
+	<EntityTextStart>69</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>1.0195040716950623</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Australian_Labor_Party</WikiTitle>
+		<WikiTitleID>1495</WikiTitleID>
+		<RankerScore>0.20285760385104654</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Australian_Labor_Party</WikiTitle> <WikiTitleID>1495</WikiTitleID> <RankerScore>0.20285760385104654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labor_Party_(Israel)</WikiTitle> <WikiTitleID>368881</WikiTitleID> <RankerScore>0.05757435469502524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_(economics)</WikiTitle> <WikiTitleID>95856</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Labor,_Family,_and_Social_Solidarity_(Romania)</WikiTitle> <WikiTitleID>6187077</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_candidates_and_parties_in_Canada</WikiTitle> <WikiTitleID>463385</WikiTitleID> <RankerScore>0.05452278151103383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Department_of_Labor</WikiTitle> <WikiTitleID>44273</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_law</WikiTitle> <WikiTitleID>18657</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manual_labour</WikiTitle> <WikiTitleID>846373</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_movement</WikiTitle> <WikiTitleID>92983</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_Committee_on_Education_and_Labor</WikiTitle> <WikiTitleID>2049139</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labours_of_Hercules</WikiTitle> <WikiTitleID>1418970</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Labour_economics</WikiTitle> <WikiTitleID>18178</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Childbirth</WikiTitle> <WikiTitleID>83449</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independent_Labour_Party_(in_Manitoba)_(II)</WikiTitle> <WikiTitleID>859838</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Secretary_of_Labor</WikiTitle> <WikiTitleID>44275</WikiTitleID> <RankerScore>0.0570871049952412</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Labor government</EntitySurfaceForm>
+	<EntityTextStart>69</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>0.9050626053610259</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Australian_Labor_Party</WikiTitle>
+		<WikiTitleID>1495</WikiTitleID>
+		<RankerScore>0.3623024716868494</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Australian_Labor_Party</WikiTitle> <WikiTitleID>1495</WikiTitleID> <RankerScore>0.9109291591094928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daglish_ministry</WikiTitle> <WikiTitleID>1848174</WikiTitleID> <RankerScore>0.12808789165651197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_legislative_election,_1965</WikiTitle> <WikiTitleID>8454002</WikiTitleID> <RankerScore>0.12808789165651197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_New_South_Wales</WikiTitle> <WikiTitleID>1211428</WikiTitleID> <RankerScore>0.12534596168710277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joan_Kirner</WikiTitle> <WikiTitleID>63594</WikiTitleID> <RankerScore>0.12808789165651197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Labor_Party</WikiTitle> <WikiTitleID>1495</WikiTitleID> <RankerScore>0.3623024716868494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scullin_Ministry</WikiTitle> <WikiTitleID>1202739</WikiTitleID> <RankerScore>0.12808789165651197</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>legislation</EntitySurfaceForm>
+	<EntityTextStart>134</EntityTextStart>
+	<EntityTextEnd>145</EntityTextEnd>
+	<LinkerScore>0.921931407572412</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Legislation</WikiTitle>
+		<WikiTitleID>51913</WikiTitleID>
+		<RankerScore>0.18470292313217065</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Legislation</WikiTitle> <WikiTitleID>51913</WikiTitleID> <RankerScore>0.18470292313217065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_law</WikiTitle> <WikiTitleID>26784</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Acts_of_the_Scottish_Parliament_from_1999</WikiTitle> <WikiTitleID>3606328</WikiTitleID> <RankerScore>0.04276056655316129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislature</WikiTitle> <WikiTitleID>44421</WikiTitleID> <RankerScore>0.07872214511471506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_legislation</WikiTitle> <WikiTitleID>59511</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constitution_of_Canada</WikiTitle> <WikiTitleID>7411</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_mandatory_age_limits_and_related_laws</WikiTitle> <WikiTitleID>3470751</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-Jewish_legislation_in_prewar_Nazi_Germany</WikiTitle> <WikiTitleID>12812413</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>African-American_Civil_Rights_Movement_(1955–1968)</WikiTitle> <WikiTitleID>49001</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_National_Service_Act</WikiTitle> <WikiTitleID>9202007</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_Benefices_Act_1860</WikiTitle> <WikiTitleID>14517279</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freedom_of_information_in_the_United_States</WikiTitle> <WikiTitleID>140403</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aboriginal_Cultural_Heritage_Act_2003_(Qld)</WikiTitle> <WikiTitleID>16054160</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bill_(proposed_law)</WikiTitle> <WikiTitleID>377411</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guano_Islands_Act</WikiTitle> <WikiTitleID>560774</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_federal_legislation</WikiTitle> <WikiTitleID>59508</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_anti-terrorism_legislation,_2004</WikiTitle> <WikiTitleID>887343</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Signing_statement_(United_States)</WikiTitle> <WikiTitleID>3741151</WikiTitleID> <RankerScore>0.04081260971764429</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>homosexuals</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>189</EntityTextEnd>
+	<LinkerScore>0.28132491255704206</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Homosexuality</WikiTitle>
+		<WikiTitleID>5488304</WikiTitleID>
+		<RankerScore>0.2118173207356202</RankerScore>
+		<Attributes>study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.2118173207356202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.17276675711528014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_gay_men_in_Nazi_Germany_and_the_Holocaust</WikiTitle> <WikiTitleID>42402</WikiTitleID> <RankerScore>0.08921295304912553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Islam</WikiTitle> <WikiTitleID>15471</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Christian_denominational_positions_on_homosexuality</WikiTitle> <WikiTitleID>1677175</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Iran</WikiTitle> <WikiTitleID>1794863</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_orientation_and_military_service</WikiTitle> <WikiTitleID>1918232</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Cameroon</WikiTitle> <WikiTitleID>3995945</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bible_and_homosexuality</WikiTitle> <WikiTitleID>2216235</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Christianity</WikiTitle> <WikiTitleID>7272</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Anglicanism</WikiTitle> <WikiTitleID>292208</WikiTitleID> <RankerScore>0.052620296909997415</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>House of Commons</EntitySurfaceForm>
+	<EntityTextStart>207</EntityTextStart>
+	<EntityTextEnd>223</EntityTextEnd>
+	<LinkerScore>0.904022378195562</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13828</WikiTitleID>
+		<RankerScore>0.31319881756589163</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.31319881756589163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_House_of_Commons</WikiTitle> <WikiTitleID>64313</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons</WikiTitle> <WikiTitleID>216091</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_House_of_Commons</WikiTitle> <WikiTitleID>148408</WikiTitleID> <RankerScore>0.11042380490866187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Northern_Ireland</WikiTitle> <WikiTitleID>535413</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Southern_Ireland</WikiTitle> <WikiTitleID>148800</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.10653205168983969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unreformed_House_of_Commons</WikiTitle> <WikiTitleID>2559255</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tweede_Kamer</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Carolina_House_of_Representatives</WikiTitle> <WikiTitleID>491835</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House</WikiTitle> <WikiTitleID>13590</WikiTitleID> <RankerScore>0.04698453258356069</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Michael Martin</EntitySurfaceForm>
+	<EntityTextStart>232</EntityTextStart>
+	<EntityTextEnd>246</EntityTextEnd>
+	<LinkerScore>1.1244528946855663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michael_Martin_(politician)</WikiTitle>
+		<WikiTitleID>742435</WikiTitleID>
+		<RankerScore>0.8002054898602328</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michael_Martin_(politician)</WikiTitle> <WikiTitleID>742435</WikiTitleID> <RankerScore>0.8002054898602328</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michael_Martin_(philosopher)</WikiTitle> <WikiTitleID>743205</WikiTitleID> <RankerScore>0.10373372218683127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michael_Martin_(Neighbours)</WikiTitle> <WikiTitleID>4691682</WikiTitleID> <RankerScore>0.09606078795293596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>268</EntityTextStart>
+	<EntityTextEnd>286</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts_1911_and_1949</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>dispute	laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>272</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>0.2423218637523208</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.21396226409720667</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.21396226409720667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.09884636342177293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.10629352971546564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.03417046133915028</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>272</EntityTextStart>
+	<EntityTextEnd>286</EntityTextEnd>
+	<LinkerScore>1.1334811033987857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts</WikiTitle>
+		<WikiTitleID>68510</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_Acts</WikiTitle> <WikiTitleID>68510</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sexual Offenses</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>321</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sex_and_the_law</WikiTitle>
+		<WikiTitleID>146566</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>laws	crime</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>homosexuals</EntitySurfaceForm>
+	<EntityTextStart>375</EntityTextStart>
+	<EntityTextEnd>386</EntityTextEnd>
+	<LinkerScore>0.27101023339761454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Homosexuality</WikiTitle>
+		<WikiTitleID>5488304</WikiTitleID>
+		<RankerScore>0.22850249336143144</RankerScore>
+		<Attributes>study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.22850249336143144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.18442716105763232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_gay_men_in_Nazi_Germany_and_the_Holocaust</WikiTitle> <WikiTitleID>42402</WikiTitleID> <RankerScore>0.08538534577702585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Islam</WikiTitle> <WikiTitleID>15471</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Christian_denominational_positions_on_homosexuality</WikiTitle> <WikiTitleID>1677175</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Iran</WikiTitle> <WikiTitleID>1794863</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_orientation_and_military_service</WikiTitle> <WikiTitleID>1918232</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Cameroon</WikiTitle> <WikiTitleID>3995945</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bible_and_homosexuality</WikiTitle> <WikiTitleID>2216235</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Christianity</WikiTitle> <WikiTitleID>7272</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Anglicanism</WikiTitle> <WikiTitleID>292208</WikiTitleID> <RankerScore>0.05016849998039104</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>heterosexuals</EntitySurfaceForm>
+	<EntityTextStart>391</EntityTextStart>
+	<EntityTextEnd>404</EntityTextEnd>
+	<LinkerScore>1.059001560919218</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heterosexuality</WikiTitle>
+		<WikiTitleID>14084</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heterosexuality</WikiTitle> <WikiTitleID>14084</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>law</EntitySurfaceForm>
+	<EntityTextStart>416</EntityTextStart>
+	<EntityTextEnd>419</EntityTextEnd>
+	<LinkerScore>0.47394676005681774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Law</WikiTitle>
+		<WikiTitleID>17538</WikiTitleID>
+		<RankerScore>0.1674503215606461</RankerScore>
+		<Attributes>science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.1674503215606461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.071661677921555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.05596129497303887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor_of_Laws</WikiTitle> <WikiTitleID>299903</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_school</WikiTitle> <WikiTitleID>3262885</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halakha</WikiTitle> <WikiTitleID>13873</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah</WikiTitle> <WikiTitleID>30343</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisprudence</WikiTitle> <WikiTitleID>16366</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laws_of_science</WikiTitle> <WikiTitleID>71110</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_(stochastic_processes)</WikiTitle> <WikiTitleID>6673876</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_education</WikiTitle> <WikiTitleID>221054</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_law</WikiTitle> <WikiTitleID>39098</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juris_Doctor</WikiTitle> <WikiTitleID>153041</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_Singapore</WikiTitle> <WikiTitleID>1165902</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_law</WikiTitle> <WikiTitleID>26364</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_law</WikiTitle> <WikiTitleID>26784</WikiTitleID> <RankerScore>0.04146627679675059</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Royal Assent</EntitySurfaceForm>
+	<EntityTextStart>438</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>1.597361299587162</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Royal_Assent</WikiTitle>
+		<WikiTitleID>153067</WikiTitleID>
+		<RankerScore>0.8897092206783916</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Royal_Assent</WikiTitle> <WikiTitleID>153067</WikiTitleID> <RankerScore>0.8897092206783916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Assent_(Ireland)</WikiTitle> <WikiTitleID>3202413</WikiTitleID> <RankerScore>0.11029077932160844</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Queen Elizabeth</EntitySurfaceForm>
+	<EntityTextStart>454</EntityTextStart>
+	<EntityTextEnd>469</EntityTextEnd>
+	<LinkerScore>0.16005735970624543</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>12153654</WikiTitleID>
+		<RankerScore>0.11843963477596846</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Elizabeth_I_of_England</WikiTitle> <WikiTitleID>10128</WikiTitleID> <RankerScore>0.09755977802272423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle> <WikiTitleID>12153654</WikiTitleID> <RankerScore>0.11843963477596846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_Bowes-Lyon</WikiTitle> <WikiTitleID>46744</WikiTitleID> <RankerScore>0.08955833737421352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RMS_Queen_Elizabeth</WikiTitle> <WikiTitleID>165376</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth,_Saskatoon</WikiTitle> <WikiTitleID>9584231</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elisabeth_of_Bavaria_(1876–1965)</WikiTitle> <WikiTitleID>1216468</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_Woodville</WikiTitle> <WikiTitleID>47901</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Queen_Elizabeth_(1913)</WikiTitle> <WikiTitleID>485634</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_Hall</WikiTitle> <WikiTitleID>1345203</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_of_Aragon</WikiTitle> <WikiTitleID>1858520</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_of_York</WikiTitle> <WikiTitleID>47907</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_class_battleship</WikiTitle> <WikiTitleID>465261</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_(band)</WikiTitle> <WikiTitleID>1229417</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_de_Burgh</WikiTitle> <WikiTitleID>412696</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elisabeth_of_Hungary</WikiTitle> <WikiTitleID>414393</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Queen_Elizabeth_(CVF)</WikiTitle> <WikiTitleID>631232</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_III_of_Manticore</WikiTitle> <WikiTitleID>1462377</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MS_Queen_Elizabeth</WikiTitle> <WikiTitleID>13692536</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queenie</WikiTitle> <WikiTitleID>838667</WikiTitleID> <RankerScore>0.040849544107476106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Queen</EntitySurfaceForm>
+	<EntityTextStart>454</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>-0.22379234517915703</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Queen_regnant</WikiTitle>
+		<WikiTitleID>887147</WikiTitleID>
+		<RankerScore>0.1612208891099243</RankerScore>
+		<Attributes>title	empress	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Queen_(band)</WikiTitle> <WikiTitleID>42010</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle> <WikiTitleID>12153654</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_regnant</WikiTitle> <WikiTitleID>887147</WikiTitleID> <RankerScore>0.1612208891099243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_consort</WikiTitle> <WikiTitleID>170435</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy</WikiTitle> <WikiTitleID>19013</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47923</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_Australia</WikiTitle> <WikiTitleID>4732795</WikiTitleID> <RankerScore>0.14841782491867445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_(album)</WikiTitle> <WikiTitleID>718750</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_Canada</WikiTitle> <WikiTitleID>56504</WikiTitleID> <RankerScore>0.11852060626129526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_(playing_card)</WikiTitle> <WikiTitleID>500960</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_(chess)</WikiTitle> <WikiTitleID>47505</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_Netherlands</WikiTitle> <WikiTitleID>52791</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_(TTC)</WikiTitle> <WikiTitleID>1304252</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mary_of_Teck</WikiTitle> <WikiTitleID>48419</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Portuguese_monarchs</WikiTitle> <WikiTitleID>88446</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_I_of_England</WikiTitle> <WikiTitleID>10128</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ysandre_de_la_Courcel</WikiTitle> <WikiTitleID>2203725</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_(Snow_White)</WikiTitle> <WikiTitleID>570546</WikiTitleID> <RankerScore>0.03363768704177094</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Queen Elizabeth II</EntitySurfaceForm>
+	<EntityTextStart>454</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>1.131784368583363</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>12153654</WikiTitleID>
+		<RankerScore>0.5179192302432418</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle> <WikiTitleID>12153654</WikiTitleID> <RankerScore>0.5179192302432418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RMS_Queen_Elizabeth_2</WikiTitle> <WikiTitleID>49200</WikiTitleID> <RankerScore>0.09128407855831863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>QE2</WikiTitle> <WikiTitleID>49554</WikiTitleID> <RankerScore>0.09128407855831863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_Canada</WikiTitle> <WikiTitleID>56504</WikiTitleID> <RankerScore>0.1451824556151553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_Australia</WikiTitle> <WikiTitleID>4732795</WikiTitleID> <RankerScore>0.15433015702496572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Elizabeth II</EntitySurfaceForm>
+	<EntityTextStart>460</EntityTextStart>
+	<EntityTextEnd>472</EntityTextEnd>
+	<LinkerScore>1.1003234312962997</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>12153654</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle> <WikiTitleID>12153654</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Elizabeth</EntitySurfaceForm>
+	<EntityTextStart>460</EntityTextStart>
+	<EntityTextEnd>469</EntityTextEnd>
+	<LinkerScore>0.15750995480992488</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>12153654</WikiTitleID>
+		<RankerScore>0.12403932703013473</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Elizabeth_I_of_England</WikiTitle> <WikiTitleID>10128</WikiTitleID> <RankerScore>0.10322428445184825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_II_of_the_United_Kingdom</WikiTitle> <WikiTitleID>12153654</WikiTitleID> <RankerScore>0.12403932703013473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_Bowes-Lyon</WikiTitle> <WikiTitleID>46744</WikiTitleID> <RankerScore>0.09061236088709419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RMS_Queen_Elizabeth</WikiTitle> <WikiTitleID>165376</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth,_Saskatoon</WikiTitle> <WikiTitleID>9584231</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elisabeth_of_Bavaria_(1876–1965)</WikiTitle> <WikiTitleID>1216468</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_Woodville</WikiTitle> <WikiTitleID>47901</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Queen_Elizabeth_(1913)</WikiTitle> <WikiTitleID>485634</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_Hall</WikiTitle> <WikiTitleID>1345203</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_of_Aragon</WikiTitle> <WikiTitleID>1858520</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_of_York</WikiTitle> <WikiTitleID>47907</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_class_battleship</WikiTitle> <WikiTitleID>465261</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Elizabeth_(band)</WikiTitle> <WikiTitleID>1229417</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_de_Burgh</WikiTitle> <WikiTitleID>412696</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elisabeth_of_Hungary</WikiTitle> <WikiTitleID>414393</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Queen_Elizabeth_(CVF)</WikiTitle> <WikiTitleID>631232</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elizabeth_III_of_Manticore</WikiTitle> <WikiTitleID>1462377</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MS_Queen_Elizabeth</WikiTitle> <WikiTitleID>13692536</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queenie</WikiTitle> <WikiTitleID>838667</WikiTitleID> <RankerScore>0.04012494280181899</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lawmakers</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>485</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Legislator</WikiTitle>
+		<WikiTitleID>661622</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>legislator	legislature	profession	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>House of Commons</EntitySurfaceForm>
+	<EntityTextStart>493</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>0.921804335069849</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13828</WikiTitleID>
+		<RankerScore>0.29691542737859405</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.29691542737859405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_House_of_Commons</WikiTitle> <WikiTitleID>64313</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons</WikiTitle> <WikiTitleID>216091</WikiTitleID> <RankerScore>0.09870391527309345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_House_of_Commons</WikiTitle> <WikiTitleID>148408</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Northern_Ireland</WikiTitle> <WikiTitleID>535413</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Southern_Ireland</WikiTitle> <WikiTitleID>148800</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.12800635435480537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unreformed_House_of_Commons</WikiTitle> <WikiTitleID>2559255</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tweede_Kamer</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Carolina_House_of_Representatives</WikiTitle> <WikiTitleID>491835</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House</WikiTitle> <WikiTitleID>13590</WikiTitleID> <RankerScore>0.04763743029935071</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>House of Lords</EntitySurfaceForm>
+	<EntityTextStart>570</EntityTextStart>
+	<EntityTextEnd>584</EntityTextEnd>
+	<LinkerScore>0.8869201143932391</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Lords</WikiTitle>
+		<WikiTitleID>13658</WikiTitleID>
+		<RankerScore>0.43505574945200526</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>House_of_Lords</WikiTitle> <WikiTitleID>13658</WikiTitleID> <RankerScore>0.43505574945200526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judicial_functions_of_the_House_of_Lords</WikiTitle> <WikiTitleID>87198</WikiTitleID> <RankerScore>0.14847269839280544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(band)</WikiTitle> <WikiTitleID>8530864</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_House_of_Lords</WikiTitle> <WikiTitleID>500704</WikiTitleID> <RankerScore>0.07267159731006949</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cromwell&apos;s_Upper_House</WikiTitle> <WikiTitleID>15121044</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(House_of_Lords_album)</WikiTitle> <WikiTitleID>16945677</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords_(album)</WikiTitle> <WikiTitleID>14864071</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_of_Appeal_in_Ordinary</WikiTitle> <WikiTitleID>610732</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_House_of_Lords</WikiTitle> <WikiTitleID>767256</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prussian_House_of_Lords</WikiTitle> <WikiTitleID>10937359</WikiTitleID> <RankerScore>0.04911427926358855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>legislation</EntitySurfaceForm>
+	<EntityTextStart>682</EntityTextStart>
+	<EntityTextEnd>693</EntityTextEnd>
+	<LinkerScore>0.4837764076454818</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Legislation</WikiTitle>
+		<WikiTitleID>51913</WikiTitleID>
+		<RankerScore>0.1536332766230252</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Legislation</WikiTitle> <WikiTitleID>51913</WikiTitleID> <RankerScore>0.1536332766230252</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_law</WikiTitle> <WikiTitleID>26784</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Acts_of_the_Scottish_Parliament_from_1999</WikiTitle> <WikiTitleID>3606328</WikiTitleID> <RankerScore>0.04472467880020267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislature</WikiTitle> <WikiTitleID>44421</WikiTitleID> <RankerScore>0.08889334052217567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_legislation</WikiTitle> <WikiTitleID>59511</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constitution_of_Canada</WikiTitle> <WikiTitleID>7411</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_mandatory_age_limits_and_related_laws</WikiTitle> <WikiTitleID>3470751</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-Jewish_legislation_in_prewar_Nazi_Germany</WikiTitle> <WikiTitleID>12812413</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>African-American_Civil_Rights_Movement_(1955–1968)</WikiTitle> <WikiTitleID>49001</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_National_Service_Act</WikiTitle> <WikiTitleID>9202007</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_Benefices_Act_1860</WikiTitle> <WikiTitleID>14517279</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freedom_of_information_in_the_United_States</WikiTitle> <WikiTitleID>140403</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aboriginal_Cultural_Heritage_Act_2003_(Qld)</WikiTitle> <WikiTitleID>16054160</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bill_(proposed_law)</WikiTitle> <WikiTitleID>377411</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guano_Islands_Act</WikiTitle> <WikiTitleID>560774</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_federal_legislation</WikiTitle> <WikiTitleID>59508</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_anti-terrorism_legislation,_2004</WikiTitle> <WikiTitleID>887343</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Signing_statement_(United_States)</WikiTitle> <WikiTitleID>3741151</WikiTitleID> <RankerScore>0.04192639435615273</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>House of Commons</EntitySurfaceForm>
+	<EntityTextStart>737</EntityTextStart>
+	<EntityTextEnd>753</EntityTextEnd>
+	<LinkerScore>1.013384313199266</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13828</WikiTitleID>
+		<RankerScore>0.38132819690203307</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.38132819690203307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_House_of_Commons</WikiTitle> <WikiTitleID>64313</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons</WikiTitle> <WikiTitleID>216091</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_House_of_Commons</WikiTitle> <WikiTitleID>148408</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.1033782963613241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Northern_Ireland</WikiTitle> <WikiTitleID>535413</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_Southern_Ireland</WikiTitle> <WikiTitleID>148800</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.15727494536438602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unreformed_House_of_Commons</WikiTitle> <WikiTitleID>2559255</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tweede_Kamer</WikiTitle> <WikiTitleID>155519</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Carolina_House_of_Representatives</WikiTitle> <WikiTitleID>491835</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House</WikiTitle> <WikiTitleID>13590</WikiTitleID> <RankerScore>0.035801856137225696</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>755</EntityTextStart>
+	<EntityTextEnd>773</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts_1911_and_1949</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>dispute	laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>759</EntityTextStart>
+	<EntityTextEnd>773</EntityTextEnd>
+	<LinkerScore>1.1576259921379841</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts</WikiTitle>
+		<WikiTitleID>68510</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_Acts</WikiTitle> <WikiTitleID>68510</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>759</EntityTextStart>
+	<EntityTextEnd>769</EntityTextEnd>
+	<LinkerScore>0.6693772330425043</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.5331070367984192</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.5331070367984192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.06771288211058217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.07920500156484349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.018822063501538533</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>873</EntityTextStart>
+	<EntityTextEnd>880</EntityTextEnd>
+	<LinkerScore>0.21587023973357278</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.17211801101804788</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.17211801101804788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.05108431602141882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.09581994330913601</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04005751350890572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>European Union nations</EntitySurfaceForm>
+	<EntityTextStart>905</EntityTextStart>
+	<EntityTextEnd>927</EntityTextEnd>
+	<LinkerScore>1.0689534748608236</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Member_State_of_the_European_Union</WikiTitle>
+		<WikiTitleID>10890716</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Member_State_of_the_European_Union</WikiTitle> <WikiTitleID>10890716</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>European Union</EntitySurfaceForm>
+	<EntityTextStart>905</EntityTextStart>
+	<EntityTextEnd>919</EntityTextEnd>
+	<LinkerScore>1.5489175904337584</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>European_Union</WikiTitle>
+		<WikiTitleID>9317</WikiTitleID>
+		<RankerScore>0.34015940344478995</RankerScore>
+		<Attributes>organization	system	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>European_Union</WikiTitle> <WikiTitleID>9317</WikiTitleID> <RankerScore>0.34015940344478995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Union_Special_Representative</WikiTitle> <WikiTitleID>2899127</WikiTitleID> <RankerScore>0.0643165363295593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flags_of_Europe</WikiTitle> <WikiTitleID>4505203</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Europe</WikiTitle> <WikiTitleID>10025</WikiTitleID> <RankerScore>0.059383896984804334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Europe</WikiTitle> <WikiTitleID>205583</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Space_Agency</WikiTitle> <WikiTitleID>10363</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ECHO_(European_Commission)</WikiTitle> <WikiTitleID>1190828</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy_policy_of_the_European_Union</WikiTitle> <WikiTitleID>8864153</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_European_Union</WikiTitle> <WikiTitleID>39767</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_political_party</WikiTitle> <WikiTitleID>767583</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_European_Union</WikiTitle> <WikiTitleID>1598533</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_the_European_Union</WikiTitle> <WikiTitleID>925527</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Council_of_the_European_Union</WikiTitle> <WikiTitleID>5866</WikiTitleID> <RankerScore>0.048740014840076944</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Union</EntitySurfaceForm>
+	<EntityTextStart>914</EntityTextStart>
+	<EntityTextEnd>919</EntityTextEnd>
+	<LinkerScore>1.384732847505662</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>European_Union</WikiTitle>
+		<WikiTitleID>9317</WikiTitleID>
+		<RankerScore>0.35841126050824085</RankerScore>
+		<Attributes>organization	system	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>European_Union</WikiTitle> <WikiTitleID>9317</WikiTitleID> <RankerScore>0.35841126050824085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Union_Special_Representative</WikiTitle> <WikiTitleID>2899127</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flags_of_Europe</WikiTitle> <WikiTitleID>4505203</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Europe</WikiTitle> <WikiTitleID>10025</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Europe</WikiTitle> <WikiTitleID>205583</WikiTitleID> <RankerScore>0.054029135164504624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Space_Agency</WikiTitle> <WikiTitleID>10363</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ECHO_(European_Commission)</WikiTitle> <WikiTitleID>1190828</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy_policy_of_the_European_Union</WikiTitle> <WikiTitleID>8864153</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_European_Union</WikiTitle> <WikiTitleID>39767</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_political_party</WikiTitle> <WikiTitleID>767583</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_European_Union</WikiTitle> <WikiTitleID>1598533</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_the_European_Union</WikiTitle> <WikiTitleID>925527</WikiTitleID> <RankerScore>0.04668986077221602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Council_of_the_European_Union</WikiTitle> <WikiTitleID>5866</WikiTitleID> <RankerScore>0.07397113583287837</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prejudice</EntitySurfaceForm>
+	<EntityTextStart>1069</EntityTextStart>
+	<EntityTextEnd>1078</EntityTextEnd>
+	<LinkerScore>0.9799442029513155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prejudice</WikiTitle>
+		<WikiTitleID>77182</WikiTitleID>
+		<RankerScore>0.38161702272604275</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prejudice</WikiTitle> <WikiTitleID>77182</WikiTitleID> <RankerScore>0.38161702272604275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prejudice_(legal_procedure)</WikiTitle> <WikiTitleID>649139</WikiTitleID> <RankerScore>0.140331283058809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Racism</WikiTitle> <WikiTitleID>25613</WikiTitleID> <RankerScore>0.20137534294865772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biphobia</WikiTitle> <WikiTitleID>247171</WikiTitleID> <RankerScore>0.1383381756332452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antisemitism</WikiTitle> <WikiTitleID>1078</WikiTitleID> <RankerScore>0.1383381756332452</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Home Secretary</EntitySurfaceForm>
+	<EntityTextStart>1087</EntityTextStart>
+	<EntityTextEnd>1101</EntityTextEnd>
+	<LinkerScore>1.3613616015858259</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Home_Secretary</WikiTitle>
+		<WikiTitleID>149104</WikiTitleID>
+		<RankerScore>0.6514234526698521</RankerScore>
+		<Attributes>establishment	office</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Home_Secretary</WikiTitle> <WikiTitleID>149104</WikiTitleID> <RankerScore>0.6514234526698521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Home_Office</WikiTitle> <WikiTitleID>225695</WikiTitleID> <RankerScore>0.14884052993949853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_for_Home_Affairs_(India)</WikiTitle> <WikiTitleID>5940866</WikiTitleID> <RankerScore>0.10921294823723467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Shortt</WikiTitle> <WikiTitleID>1216111</WikiTitleID> <RankerScore>0.09052306915341467</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jack Straw</EntitySurfaceForm>
+	<EntityTextStart>1102</EntityTextStart>
+	<EntityTextEnd>1112</EntityTextEnd>
+	<LinkerScore>1.327772710378427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jack_Straw</WikiTitle>
+		<WikiTitleID>242476</WikiTitleID>
+		<RankerScore>0.7105218082530141</RankerScore>
+		<Attributes>witness	person	secretary	anglican	politics	leaders	member	chancellor	president</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jack_Straw</WikiTitle> <WikiTitleID>242476</WikiTitleID> <RankerScore>0.7105218082530141</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jack_Straw_(rebel_leader)</WikiTitle> <WikiTitleID>242487</WikiTitleID> <RankerScore>0.15640201865457506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jack_Straw_(song)</WikiTitle> <WikiTitleID>16658862</WikiTitleID> <RankerScore>0.1330761730924109</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>1114</EntityTextStart>
+	<EntityTextEnd>1121</EntityTextEnd>
+	<LinkerScore>0.11400440649803105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.16822678361112953</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.16822678361112953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.04716826016186352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.0929846631515249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.040683546651498946</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>law enforcement officer</EntitySurfaceForm>
+	<EntityTextStart>1128</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>0.3048805562994019</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.323631643819363</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Law_enforcement_officer</WikiTitle> <WikiTitleID>1876263</WikiTitleID> <RankerScore>0.2587657435688882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.323631643819363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.25804779532109834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_agency</WikiTitle> <WikiTitleID>2092378</WikiTitleID> <RankerScore>0.15955481729065044</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>law</EntitySurfaceForm>
+	<EntityTextStart>1128</EntityTextStart>
+	<EntityTextEnd>1131</EntityTextEnd>
+	<LinkerScore>0.9134161047415104</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Law</WikiTitle>
+		<WikiTitleID>17538</WikiTitleID>
+		<RankerScore>0.18866796692234275</RankerScore>
+		<Attributes>science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.18866796692234275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.07119879999891084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.05917859542259073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor_of_Laws</WikiTitle> <WikiTitleID>299903</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_school</WikiTitle> <WikiTitleID>3262885</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Halakha</WikiTitle> <WikiTitleID>13873</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torah</WikiTitle> <WikiTitleID>30343</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jurisprudence</WikiTitle> <WikiTitleID>16366</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laws_of_science</WikiTitle> <WikiTitleID>71110</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_(stochastic_processes)</WikiTitle> <WikiTitleID>6673876</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_education</WikiTitle> <WikiTitleID>221054</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_law</WikiTitle> <WikiTitleID>39098</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_European_Union</WikiTitle> <WikiTitleID>276436</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juris_Doctor</WikiTitle> <WikiTitleID>153041</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_Singapore</WikiTitle> <WikiTitleID>1165902</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_law</WikiTitle> <WikiTitleID>26364</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_law</WikiTitle> <WikiTitleID>26784</WikiTitleID> <RankerScore>0.04005615515624445</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Angela Mason</EntitySurfaceForm>
+	<EntityTextStart>1237</EntityTextStart>
+	<EntityTextEnd>1249</EntityTextEnd>
+	<LinkerScore>0.9868864652698482</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Angela_Mason</WikiTitle>
+		<WikiTitleID>762427</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>activist	parent	person	commander	officer	servant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Angela_Mason</WikiTitle> <WikiTitleID>762427</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mason</EntitySurfaceForm>
+	<EntityTextStart>1244</EntityTextStart>
+	<EntityTextEnd>1249</EntityTextEnd>
+	<LinkerScore>1.0712260126022466</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Angela_Mason</WikiTitle>
+		<WikiTitleID>762427</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>activist	parent	person	commander	officer	servant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Angela_Mason</WikiTitle> <WikiTitleID>762427</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>director</EntitySurfaceForm>
+	<EntityTextStart>1251</EntityTextStart>
+	<EntityTextEnd>1259</EntityTextEnd>
+	<LinkerScore>0.1812185992130408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Film_director</WikiTitle>
+		<WikiTitleID>506181</WikiTitleID>
+		<RankerScore>0.07988889334156783</RankerScore>
+		<Attributes>occupation	director</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Film_director</WikiTitle> <WikiTitleID>506181</WikiTitleID> <RankerScore>0.07988889334156783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_director</WikiTitle> <WikiTitleID>518021</WikiTitleID> <RankerScore>0.05586476721460819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatre_director</WikiTitle> <WikiTitleID>103078</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Board_of_directors</WikiTitle> <WikiTitleID>4822</WikiTitleID> <RankerScore>0.04712249722646771</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_video_director</WikiTitle> <WikiTitleID>1901819</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Executive_director</WikiTitle> <WikiTitleID>2051602</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_director</WikiTitle> <WikiTitleID>438428</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animation_director</WikiTitle> <WikiTitleID>3304549</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Managing_director</WikiTitle> <WikiTitleID>1328935</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_(education)</WikiTitle> <WikiTitleID>7075436</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Management</WikiTitle> <WikiTitleID>19881</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_director</WikiTitle> <WikiTitleID>2283342</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director-general</WikiTitle> <WikiTitleID>1434447</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artistic_director</WikiTitle> <WikiTitleID>1536254</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technical_director</WikiTitle> <WikiTitleID>699158</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_director</WikiTitle> <WikiTitleID>631159</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curator</WikiTitle> <WikiTitleID>391167</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supervisor</WikiTitle> <WikiTitleID>1957147</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chief_executive_officer</WikiTitle> <WikiTitleID>52234</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_of_Central_Intelligence</WikiTitle> <WikiTitleID>456058</WikiTitleID> <RankerScore>0.04806610836572684</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay</EntitySurfaceForm>
+	<EntityTextStart>1267</EntityTextStart>
+	<EntityTextEnd>1270</EntityTextEnd>
+	<LinkerScore>0.5916632842630231</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.23944114429518493</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.23944114429518493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_pornography</WikiTitle> <WikiTitleID>14917847</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT</WikiTitle> <WikiTitleID>66936</WikiTitleID> <RankerScore>0.13029696815535705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pride_parade_(LGBT_community)</WikiTitle> <WikiTitleID>58168</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_Liberation</WikiTitle> <WikiTitleID>1727494</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Happiness</WikiTitle> <WikiTitleID>169409</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Secret_(The_O.C._episode)</WikiTitle> <WikiTitleID>6476877</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexuality_and_gender_identity-based_cultures</WikiTitle> <WikiTitleID>68264</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.10137174117486447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lesbian</WikiTitle> <WikiTitleID>17846</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_bar</WikiTitle> <WikiTitleID>501560</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Compton_Street</WikiTitle> <WikiTitleID>428916</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_teen_fiction</WikiTitle> <WikiTitleID>4950637</WikiTitleID> <RankerScore>0.04068385741343027</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay rights</EntitySurfaceForm>
+	<EntityTextStart>1267</EntityTextStart>
+	<EntityTextEnd>1277</EntityTextEnd>
+	<LinkerScore>1.2502101042888238</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>LGBT_social_movements</WikiTitle>
+		<WikiTitleID>13070</WikiTitleID>
+		<RankerScore>0.4487741993372584</RankerScore>
+		<Attributes>right</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.4487741993372584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_the_United_States</WikiTitle> <WikiTitleID>3510770</WikiTitleID> <RankerScore>0.10873846487956743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_LGBT_rights_by_region</WikiTitle> <WikiTitleID>1791234</WikiTitleID> <RankerScore>0.11405573152638404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_the_United_Kingdom</WikiTitle> <WikiTitleID>3523509</WikiTitleID> <RankerScore>0.06568632085135805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT</WikiTitle> <WikiTitleID>66936</WikiTitleID> <RankerScore>0.06568632085135805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_Netherlands</WikiTitle> <WikiTitleID>249609</WikiTitleID> <RankerScore>0.06568632085135805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Romania</WikiTitle> <WikiTitleID>3534144</WikiTitleID> <RankerScore>0.06568632085135805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Canada</WikiTitle> <WikiTitleID>3497256</WikiTitleID> <RankerScore>0.06568632085135805</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stonewall</EntitySurfaceForm>
+	<EntityTextStart>1284</EntityTextStart>
+	<EntityTextEnd>1293</EntityTextEnd>
+	<LinkerScore>0.3152822537651743</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stonewall_(UK)</WikiTitle>
+		<WikiTitleID>445587</WikiTitleID>
+		<RankerScore>0.21969587958669073</RankerScore>
+		<Attributes>establishment	group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stonewall_riots</WikiTitle> <WikiTitleID>29383</WikiTitleID> <RankerScore>0.17051437942748637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_(UK)</WikiTitle> <WikiTitleID>445587</WikiTitleID> <RankerScore>0.21969587958669073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_Manitoba</WikiTitle> <WikiTitleID>4836039</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_(film)</WikiTitle> <WikiTitleID>1834238</WikiTitleID> <RankerScore>0.07409810860429474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_Texas</WikiTitle> <WikiTitleID>135932</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_County,_Texas</WikiTitle> <WikiTitleID>91443</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_Louisiana</WikiTitle> <WikiTitleID>115552</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_(comics)</WikiTitle> <WikiTitleID>5295401</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_Mississippi</WikiTitle> <WikiTitleID>124665</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_Oklahoma</WikiTitle> <WikiTitleID>130538</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall,_North_Carolina</WikiTitle> <WikiTitleID>128121</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Stonewall</WikiTitle> <WikiTitleID>3401316</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_ironclad_Kōtetsu</WikiTitle> <WikiTitleID>1119348</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_Inn</WikiTitle> <WikiTitleID>633724</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_(LYNX_station)</WikiTitle> <WikiTitleID>8958391</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_(solitaire)</WikiTitle> <WikiTitleID>2110488</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_Single</WikiTitle> <WikiTitleID>9777052</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stonewall_F.C.</WikiTitle> <WikiTitleID>10551197</WikiTitleID> <RankerScore>0.03571277549210187</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>1300</EntityTextStart>
+	<EntityTextEnd>1310</EntityTextEnd>
+	<LinkerScore>0.23658534816366628</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.1310002307129272</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.1310002307129272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.09090492555299753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.08458103238138305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.040794930079570135</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>equality</EntitySurfaceForm>
+	<EntityTextStart>1346</EntityTextStart>
+	<EntityTextEnd>1354</EntityTextEnd>
+	<LinkerScore>0.0635894853220764</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Social_equality</WikiTitle>
+		<WikiTitleID>177845</WikiTitleID>
+		<RankerScore>0.17811464203610114</RankerScore>
+		<Attributes>system	socioeconomics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Social_equality</WikiTitle> <WikiTitleID>177845</WikiTitleID> <RankerScore>0.17811464203610114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Egalitarianism</WikiTitle> <WikiTitleID>10113</WikiTitleID> <RankerScore>0.1304085818674303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equality_(mathematics)</WikiTitle> <WikiTitleID>90446</WikiTitleID> <RankerScore>0.10454183808455844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gender_equality</WikiTitle> <WikiTitleID>1271927</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Racial_equality</WikiTitle> <WikiTitleID>667941</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Testimony_of_Equality</WikiTitle> <WikiTitleID>1812258</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equation</WikiTitle> <WikiTitleID>9284</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equality_of_outcome</WikiTitle> <WikiTitleID>354800</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equal_Protection_Clause</WikiTitle> <WikiTitleID>950939</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equality_before_the_law</WikiTitle> <WikiTitleID>3492548</WikiTitleID> <RankerScore>0.08384784828741572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lesbians</EntitySurfaceForm>
+	<EntityTextStart>1492</EntityTextStart>
+	<EntityTextEnd>1500</EntityTextEnd>
+	<LinkerScore>1.1387310445715162</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lesbian</WikiTitle>
+		<WikiTitleID>17846</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lesbian</WikiTitle> <WikiTitleID>17846</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay men</EntitySurfaceForm>
+	<EntityTextStart>1505</EntityTextStart>
+	<EntityTextEnd>1512</EntityTextEnd>
+	<LinkerScore>0.7864023791874135</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.5027575941780054</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.5027575941780054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.28309729872197464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_gay_men_in_Nazi_Germany_and_the_Holocaust</WikiTitle> <WikiTitleID>42402</WikiTitleID> <RankerScore>0.21414510710002008</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay</EntitySurfaceForm>
+	<EntityTextStart>1505</EntityTextStart>
+	<EntityTextEnd>1508</EntityTextEnd>
+	<LinkerScore>1.0528424528702138</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.31369055576220417</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.31369055576220417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.09691967406200103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.08616735048536724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_pornography</WikiTitle> <WikiTitleID>14917847</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT</WikiTitle> <WikiTitleID>66936</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pride_parade_(LGBT_community)</WikiTitle> <WikiTitleID>58168</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_Liberation</WikiTitle> <WikiTitleID>1727494</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Happiness</WikiTitle> <WikiTitleID>169409</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Secret_(The_O.C._episode)</WikiTitle> <WikiTitleID>6476877</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexuality_and_gender_identity-based_cultures</WikiTitle> <WikiTitleID>68264</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lesbian</WikiTitle> <WikiTitleID>17846</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_bar</WikiTitle> <WikiTitleID>501560</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Compton_Street</WikiTitle> <WikiTitleID>428916</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_teen_fiction</WikiTitle> <WikiTitleID>4950637</WikiTitleID> <RankerScore>0.03870941689926366</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peter Tatchell</EntitySurfaceForm>
+	<EntityTextStart>1582</EntityTextStart>
+	<EntityTextEnd>1596</EntityTextEnd>
+	<LinkerScore>1.3593594459063347</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Tatchell</WikiTitle>
+		<WikiTitleID>265778</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>activist	citizen	republican	person	politician	immigrant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_Tatchell</WikiTitle> <WikiTitleID>265778</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>OutRage</EntitySurfaceForm>
+	<EntityTextStart>1611</EntityTextStart>
+	<EntityTextEnd>1618</EntityTextEnd>
+	<LinkerScore>1.0954781692737972</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>OutRage!</WikiTitle>
+		<WikiTitleID>493280</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>group	establishment	forum</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>OutRage!</WikiTitle> <WikiTitleID>493280</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay</EntitySurfaceForm>
+	<EntityTextStart>1703</EntityTextStart>
+	<EntityTextEnd>1706</EntityTextEnd>
+	<LinkerScore>0.4848877927799255</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.20997468385950116</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.20997468385950116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.11443824634624752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_pornography</WikiTitle> <WikiTitleID>14917847</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT</WikiTitle> <WikiTitleID>66936</WikiTitleID> <RankerScore>0.13469527080879531</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pride_parade_(LGBT_community)</WikiTitle> <WikiTitleID>58168</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_Liberation</WikiTitle> <WikiTitleID>1727494</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Happiness</WikiTitle> <WikiTitleID>169409</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Secret_(The_O.C._episode)</WikiTitle> <WikiTitleID>6476877</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexuality_and_gender_identity-based_cultures</WikiTitle> <WikiTitleID>68264</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lesbian</WikiTitle> <WikiTitleID>17846</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_bar</WikiTitle> <WikiTitleID>501560</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Compton_Street</WikiTitle> <WikiTitleID>428916</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_teen_fiction</WikiTitle> <WikiTitleID>4950637</WikiTitleID> <RankerScore>0.0416070614604197</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>human rights</EntitySurfaceForm>
+	<EntityTextStart>1707</EntityTextStart>
+	<EntityTextEnd>1719</EntityTextEnd>
+	<LinkerScore>1.143246774256356</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Human_rights</WikiTitle>
+		<WikiTitleID>13831</WikiTitleID>
+		<RankerScore>0.18766605543251297</RankerScore>
+		<Attributes>abuse	right</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Human_rights</WikiTitle> <WikiTitleID>13831</WikiTitleID> <RankerScore>0.18766605543251297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>217487</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Cuba</WikiTitle> <WikiTitleID>596938</WikiTitleID> <RankerScore>0.052996449348756004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_North_Korea</WikiTitle> <WikiTitleID>1565499</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Hong_Kong</WikiTitle> <WikiTitleID>2449915</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_human_rights_law</WikiTitle> <WikiTitleID>219877</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Russia</WikiTitle> <WikiTitleID>785595</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_Rights_Act_1998</WikiTitle> <WikiTitleID>639628</WikiTitleID> <RankerScore>0.07425315093279619</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_São_Tomé_and_Príncipe</WikiTitle> <WikiTitleID>5376374</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Brazil</WikiTitle> <WikiTitleID>1559576</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Japan</WikiTitle> <WikiTitleID>2945072</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Nigeria</WikiTitle> <WikiTitleID>5779069</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Iran</WikiTitle> <WikiTitleID>16652449</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Indonesia</WikiTitle> <WikiTitleID>4409435</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_United_Kingdom</WikiTitle> <WikiTitleID>1607449</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Lebanon</WikiTitle> <WikiTitleID>6137103</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Right</WikiTitle> <WikiTitleID>51490</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_Republic_of_Macedonia</WikiTitle> <WikiTitleID>4853268</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Malaysia</WikiTitle> <WikiTitleID>3645990</WikiTitleID> <RankerScore>0.04281777151787093</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay</EntitySurfaceForm>
+	<EntityTextStart>1802</EntityTextStart>
+	<EntityTextEnd>1805</EntityTextEnd>
+	<LinkerScore>0.7568765322552857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.24875165525792922</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.24875165525792922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.11701647137850038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.1135771447319054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_pornography</WikiTitle> <WikiTitleID>14917847</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_community</WikiTitle> <WikiTitleID>89129</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT</WikiTitle> <WikiTitleID>66936</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pride_parade_(LGBT_community)</WikiTitle> <WikiTitleID>58168</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_Liberation</WikiTitle> <WikiTitleID>1727494</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Happiness</WikiTitle> <WikiTitleID>169409</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Secret_(The_O.C._episode)</WikiTitle> <WikiTitleID>6476877</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexuality_and_gender_identity-based_cultures</WikiTitle> <WikiTitleID>68264</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lesbian</WikiTitle> <WikiTitleID>17846</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_bar</WikiTitle> <WikiTitleID>501560</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Compton_Street</WikiTitle> <WikiTitleID>428916</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay_teen_fiction</WikiTitle> <WikiTitleID>4950637</WikiTitleID> <RankerScore>0.04005036374089731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gay men</EntitySurfaceForm>
+	<EntityTextStart>1802</EntityTextStart>
+	<EntityTextEnd>1809</EntityTextEnd>
+	<LinkerScore>0.14748372137638183</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gay</WikiTitle>
+		<WikiTitleID>5171128</WikiTitleID>
+		<RankerScore>0.40931508641503667</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.40931508641503667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.3859888977269906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_gay_men_in_Nazi_Germany_and_the_Holocaust</WikiTitle> <WikiTitleID>42402</WikiTitleID> <RankerScore>0.2046960158579728</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>victimless</EntitySurfaceForm>
+	<EntityTextStart>1840</EntityTextStart>
+	<EntityTextEnd>1850</EntityTextEnd>
+	<LinkerScore>0.2771910803582418</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Victimless_crime</WikiTitle>
+		<WikiTitleID>50803</WikiTitleID>
+		<RankerScore>0.5909344586186001</RankerScore>
+		<Attributes>dispute	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Victimless_crime</WikiTitle> <WikiTitleID>50803</WikiTitleID> <RankerScore>0.5909344586186001</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_order_crime</WikiTitle> <WikiTitleID>3905736</WikiTitleID> <RankerScore>0.4090655413813999</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>family values</EntitySurfaceForm>
+	<EntityTextStart>1879</EntityTextStart>
+	<EntityTextEnd>1892</EntityTextEnd>
+	<LinkerScore>1.0348712202710773</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Family_values</WikiTitle>
+		<WikiTitleID>581358</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Family_values</WikiTitle> <WikiTitleID>581358</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Conservative</EntitySurfaceForm>
+	<EntityTextStart>1908</EntityTextStart>
+	<EntityTextEnd>1920</EntityTextEnd>
+	<LinkerScore>1.0390712718391848</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Conservative_Party_(UK)</WikiTitle>
+		<WikiTitleID>32113</WikiTitleID>
+		<RankerScore>0.24339773711111273</RankerScore>
+		<Attributes>party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Conservative_Party_(UK)</WikiTitle> <WikiTitleID>32113</WikiTitleID> <RankerScore>0.24339773711111273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada_(historical)</WikiTitle> <WikiTitleID>430819</WikiTitleID> <RankerScore>0.05123358185534457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>308647</WikiTitleID> <RankerScore>0.06643108616398122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Columbia_Conservative_Party</WikiTitle> <WikiTitleID>471759</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Ontario</WikiTitle> <WikiTitleID>333635</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Judaism</WikiTitle> <WikiTitleID>6623</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservatism</WikiTitle> <WikiTitleID>6675</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Manitoba</WikiTitle> <WikiTitleID>483355</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Conservative_Party</WikiTitle> <WikiTitleID>3796828</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Edward_Island_Progressive_Conservative_Party</WikiTitle> <WikiTitleID>525177</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_New_York</WikiTitle> <WikiTitleID>635592</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Alberta</WikiTitle> <WikiTitleID>458469</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_New_Brunswick</WikiTitle> <WikiTitleID>524745</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Canada</WikiTitle> <WikiTitleID>123462</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Conservative_Party</WikiTitle> <WikiTitleID>1458424</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Party_of_Saskatchewan</WikiTitle> <WikiTitleID>474142</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservatism_in_the_United_States</WikiTitle> <WikiTitleID>2298740</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Progressive_Conservative_Association_of_Nova_Scotia</WikiTitle> <WikiTitleID>522902</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_People&apos;s_Party_(Denmark)</WikiTitle> <WikiTitleID>403116</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conservative_Party_of_Norway</WikiTitle> <WikiTitleID>1241411</WikiTitleID> <RankerScore>0.03758456440409185</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baroness</EntitySurfaceForm>
+	<EntityTextStart>1944</EntityTextStart>
+	<EntityTextEnd>1952</EntityTextEnd>
+	<LinkerScore>0.5635849776655364</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>House_of_Lords</WikiTitle>
+		<WikiTitleID>13658</WikiTitleID>
+		<RankerScore>0.3593756178427354</RankerScore>
+		<Attributes>house</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baroness_(G.I._Joe)</WikiTitle> <WikiTitleID>3081248</WikiTitleID> <RankerScore>0.15476942317856093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baroness_(band)</WikiTitle> <WikiTitleID>7673816</WikiTitleID> <RankerScore>0.1518205300113698</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baroness</WikiTitle> <WikiTitleID>336233</WikiTitleID> <RankerScore>0.11134480965577798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Freiherr</WikiTitle> <WikiTitleID>532530</WikiTitleID> <RankerScore>0.11134480965577798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baroness_(solitaire)</WikiTitle> <WikiTitleID>2392624</WikiTitleID> <RankerScore>0.11134480965577798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Lords</WikiTitle> <WikiTitleID>13658</WikiTitleID> <RankerScore>0.3593756178427354</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baroness Young</EntitySurfaceForm>
+	<EntityTextStart>1944</EntityTextStart>
+	<EntityTextEnd>1958</EntityTextEnd>
+	<LinkerScore>1.5339905303203252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Janet_Young,_Baroness_Young</WikiTitle>
+		<WikiTitleID>352630</WikiTitleID>
+		<RankerScore>0.8618809620169074</RankerScore>
+		<Attributes>chancellor	person	leaders	councillor	peer	dragon	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Janet_Young,_Baroness_Young</WikiTitle> <WikiTitleID>352630</WikiTitleID> <RankerScore>0.8618809620169074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barbara_Young,_Baroness_Young_of_Old_Scone</WikiTitle> <WikiTitleID>470801</WikiTitleID> <RankerScore>0.13811903798309264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>dictatorial</EntitySurfaceForm>
+	<EntityTextStart>2012</EntityTextStart>
+	<EntityTextEnd>2023</EntityTextEnd>
+	<LinkerScore>0.15155053916646793</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dictatorship</WikiTitle>
+		<WikiTitleID>9033</WikiTitleID>
+		<RankerScore>0.43124017139219106</RankerScore>
+		<Attributes>abuse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dictatorship</WikiTitle> <WikiTitleID>9033</WikiTitleID> <RankerScore>0.43124017139219106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dictator</WikiTitle> <WikiTitleID>8409</WikiTitleID> <RankerScore>0.35831031497667826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_dictator</WikiTitle> <WikiTitleID>375358</WikiTitleID> <RankerScore>0.21044951363113068</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>2040</EntityTextStart>
+	<EntityTextEnd>2050</EntityTextEnd>
+	<LinkerScore>0.06948026276111663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.13774088147097302</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.13774088147097302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.09302017198551472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.07923838357126108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.040588268410132425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>2134</EntityTextStart>
+	<EntityTextEnd>2152</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts_1911_and_1949</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>dispute	laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament Act</EntitySurfaceForm>
+	<EntityTextStart>2138</EntityTextStart>
+	<EntityTextEnd>2152</EntityTextEnd>
+	<LinkerScore>1.0603147856390391</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_Acts</WikiTitle>
+		<WikiTitleID>68510</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_Acts</WikiTitle> <WikiTitleID>68510</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>2138</EntityTextStart>
+	<EntityTextEnd>2148</EntityTextEnd>
+	<LinkerScore>0.12918468582983705</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.17680645790590385</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.17680645790590385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.1046815050466546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.10654649359973992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.03599797314398245</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Parliament</EntitySurfaceForm>
+	<EntityTextStart>2220</EntityTextStart>
+	<EntityTextEnd>2230</EntityTextEnd>
+	<LinkerScore>0.4152327393906538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle>
+		<WikiTitleID>13964</WikiTitleID>
+		<RankerScore>0.1424949236520128</RankerScore>
+		<Attributes>legislature	parliament	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13964</WikiTitleID> <RankerScore>0.1424949236520128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament</WikiTitle> <WikiTitleID>24406</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_England</WikiTitle> <WikiTitleID>378033</WikiTitleID> <RankerScore>0.08218241449239405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_New_Zealand</WikiTitle> <WikiTitleID>340639</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_(band)</WikiTitle> <WikiTitleID>106230</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Canada</WikiTitle> <WikiTitleID>87446</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Great_Britain</WikiTitle> <WikiTitleID>378032</WikiTitleID> <RankerScore>0.07171927556088746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_India</WikiTitle> <WikiTitleID>410238</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Australia</WikiTitle> <WikiTitleID>302298</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Malaysia</WikiTitle> <WikiTitleID>505877</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Romania</WikiTitle> <WikiTitleID>4462971</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_of_Commons_of_the_United_Kingdom</WikiTitle> <WikiTitleID>13828</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Fiji</WikiTitle> <WikiTitleID>647259</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Westminster</WikiTitle> <WikiTitleID>24170</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_South_Africa</WikiTitle> <WikiTitleID>376182</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Majlis-e-Shoora</WikiTitle> <WikiTitleID>855988</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Finland</WikiTitle> <WikiTitleID>211456</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hellenic_Parliament</WikiTitle> <WikiTitleID>2449826</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Singapore</WikiTitle> <WikiTitleID>1890794</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Italy</WikiTitle> <WikiTitleID>1417859</WikiTitleID> <RankerScore>0.04138843448792386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>homosexuals</EntitySurfaceForm>
+	<EntityTextStart>2281</EntityTextStart>
+	<EntityTextEnd>2292</EntityTextEnd>
+	<LinkerScore>0.3464136612106702</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Homosexuality</WikiTitle>
+		<WikiTitleID>5488304</WikiTitleID>
+		<RankerScore>0.24115764220008126</RankerScore>
+		<Attributes>study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.24115764220008126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.18019704919314622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_gay_men_in_Nazi_Germany_and_the_Holocaust</WikiTitle> <WikiTitleID>42402</WikiTitleID> <RankerScore>0.08343547601191356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Islam</WikiTitle> <WikiTitleID>15471</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_social_movements</WikiTitle> <WikiTitleID>13070</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Christian_denominational_positions_on_homosexuality</WikiTitle> <WikiTitleID>1677175</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Iran</WikiTitle> <WikiTitleID>1794863</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_orientation_and_military_service</WikiTitle> <WikiTitleID>1918232</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Cameroon</WikiTitle> <WikiTitleID>3995945</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bible_and_homosexuality</WikiTitle> <WikiTitleID>2216235</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Christianity</WikiTitle> <WikiTitleID>7272</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gay</WikiTitle> <WikiTitleID>5171128</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality_and_Anglicanism</WikiTitle> <WikiTitleID>292208</WikiTitleID> <RankerScore>0.049520983259485896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Homosexual sex</EntitySurfaceForm>
+	<EntityTextStart>2335</EntityTextStart>
+	<EntityTextEnd>2349</EntityTextEnd>
+	<LinkerScore>0.9804216239176117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Human_sexual_behavior</WikiTitle>
+		<WikiTitleID>14337</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Human_sexual_behavior</WikiTitle> <WikiTitleID>14337</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Homosexual</EntitySurfaceForm>
+	<EntityTextStart>2335</EntityTextStart>
+	<EntityTextEnd>2345</EntityTextEnd>
+	<LinkerScore>0.47293119382918214</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Homosexual_orientation</WikiTitle>
+		<WikiTitleID>13407427</WikiTitleID>
+		<RankerScore>0.5628358420130072</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.5628358420130072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.43716415798699293</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sex</EntitySurfaceForm>
+	<EntityTextStart>2346</EntityTextStart>
+	<EntityTextEnd>2349</EntityTextEnd>
+	<LinkerScore>0.9987569270991515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Human_sexual_behavior</WikiTitle>
+		<WikiTitleID>14337</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Human_sexual_behavior</WikiTitle> <WikiTitleID>14337</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ceased</EntitySurfaceForm>
+	<EntityTextStart>2365</EntityTextStart>
+	<EntityTextEnd>2371</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cease_and_desist</WikiTitle>
+		<WikiTitleID>477954</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>letters	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>crime</EntitySurfaceForm>
+	<EntityTextStart>2380</EntityTextStart>
+	<EntityTextEnd>2385</EntityTextEnd>
+	<LinkerScore>1.123101992129563</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Crime</WikiTitle>
+		<WikiTitleID>5785</WikiTitleID>
+		<RankerScore>0.15453943600510153</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Crime</WikiTitle> <WikiTitleID>5785</WikiTitleID> <RankerScore>0.15453943600510153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_film</WikiTitle> <WikiTitleID>408001</WikiTitleID> <RankerScore>0.05508765802839437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_fiction</WikiTitle> <WikiTitleID>86025</WikiTitleID> <RankerScore>0.05723636299341103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_comics</WikiTitle> <WikiTitleID>8114271</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Criminal_law</WikiTitle> <WikiTitleID>7397054</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_in_South_Africa</WikiTitle> <WikiTitleID>6551455</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_views_of_suicide</WikiTitle> <WikiTitleID>3064768</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_in_Canada</WikiTitle> <WikiTitleID>705876</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forensic_science</WikiTitle> <WikiTitleID>45710</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Get_tough_on_crime</WikiTitle> <WikiTitleID>3698499</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_in_Washington,_D.C.</WikiTitle> <WikiTitleID>2359082</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heist_film</WikiTitle> <WikiTitleID>1153824</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_procedural</WikiTitle> <WikiTitleID>479154</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_writer</WikiTitle> <WikiTitleID>207497</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White-collar_crime</WikiTitle> <WikiTitleID>264782</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detective_fiction</WikiTitle> <WikiTitleID>8192</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crime_in_the_United_States</WikiTitle> <WikiTitleID>7172656</WikiTitleID> <RankerScore>0.052366895926649504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>2389</EntityTextStart>
+	<EntityTextEnd>2396</EntityTextEnd>
+	<LinkerScore>0.14641324722322357</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.1572337015841544</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.1572337015841544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.04600308552655504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.08156395809076097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04207054439991351</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

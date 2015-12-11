@@ -1,9 +1,6 @@
 package edu.zju.cadal.utils;
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月19日
- */
+
+
 public class EditDistance {
 	public static float distance(String s1, String s2) {
 		float d[][];//matrix

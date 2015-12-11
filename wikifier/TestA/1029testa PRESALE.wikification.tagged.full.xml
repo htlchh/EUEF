@@ -1,0 +1,1747 @@
+<WikifierOutput>
+<InputFilename>
+1029testa PRESALE
+</InputFilename>
+<InputText>
+PRESALE- Bay Co Bldg Auth, Mich..
+AMT: 1,200,000 DATE: 09/05/96 NYC Time: 1600 CUSIP: 072261
+ISSUER: Bay Co Building Authority ST: MI
+ISSUE: Bldg auth( law enforcement ctr) Series 1996-A TAX STAT: Exempt-REV
+M/ SP/ F: NA/ NA/ NA BOOK ENTRY: N
+ENHANCEMENTS: None BANK QUAL: Y
+DTD: 09/01/96 SURE BID: Y
+DUE: 11/1/96-11 SR MGR:
+1ST CPN: 11/01/96
+CALL: 11/1/05@ 101, dtp 11/1/07 NIC
+DELIVERY: 45 days approx ORDERS:
+PAYING AGENT: Michigan National Bank, Detroit
+L.O.: Bodman, Longely&amp; Dahling, Detroit
+F.A.: First of Michigan Corp., Detroit
+LAST SALE: None
+Year Amount Coupon Yield Price Conc.
+1996 45,000
+1997 50,000
+1998 55,000
+1999 55,000
+2000 60,000
+2001 65,000
+2002 70,000
+2003 70,000
+2004 75,000
+2005 80,000
+2006 85,000
+2007 90,000
+2008 90,000
+2009 95,000
+2010 105,000
+2011 110,000
+COMPETITIVE PRE-SALE CONTRIBUTED BY J.J. KENNY K-SHEETS:
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Mich.</EntitySurfaceForm>
+	<EntityTextStart>27</EntityTextStart>
+	<EntityTextEnd>32</EntityTextEnd>
+	<LinkerScore>0.5932247165609192</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michigan</WikiTitle>
+		<WikiTitleID>18859</WikiTitleID>
+		<RankerScore>0.5174132293493764</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michigan</WikiTitle> <WikiTitleID>18859</WikiTitleID> <RankerScore>0.5174132293493764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Supreme_Court</WikiTitle> <WikiTitleID>1313678</WikiTitleID> <RankerScore>0.3007837343430839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michoacán</WikiTitle> <WikiTitleID>195805</WikiTitleID> <RankerScore>0.18180303630753963</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NYC</EntitySurfaceForm>
+	<EntityTextStart>64</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>0.6994404898718041</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York_City</WikiTitle>
+		<WikiTitleID>645042</WikiTitleID>
+		<RankerScore>0.4909476153421775</RankerScore>
+		<Attributes>area	capital	settlement	place	establishment	game	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.4909476153421775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Central_Railroad</WikiTitle> <WikiTitleID>345656</WikiTitleID> <RankerScore>0.15848454774003654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.13431295956772638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Department_of_Transportation</WikiTitle> <WikiTitleID>4162678</WikiTitleID> <RankerScore>0.10812743867502976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NYC_(song)</WikiTitle> <WikiTitleID>11834832</WikiTitleID> <RankerScore>0.10812743867502976</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NIC</EntitySurfaceForm>
+	<EntityTextStart>375</EntityTextStart>
+	<EntityTextEnd>378</EntityTextEnd>
+	<LinkerScore>-0.06069925209848717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Network_card</WikiTitle>
+		<WikiTitleID>243613</WikiTitleID>
+		<RankerScore>0.20669399939770447</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Network_card</WikiTitle> <WikiTitleID>243613</WikiTitleID> <RankerScore>0.20669399939770447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North-American_Interfraternity_Conference</WikiTitle> <WikiTitleID>798383</WikiTitleID> <RankerScore>0.17055308222292764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domain_name_registry</WikiTitle> <WikiTitleID>158284</WikiTitleID> <RankerScore>0.17429430113526473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>InterNIC</WikiTitle> <WikiTitleID>153651</WikiTitleID> <RankerScore>0.14948620574803442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Idaho_College</WikiTitle> <WikiTitleID>1895765</WikiTitleID> <RankerScore>0.14948620574803442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Ice_Centre_(UK)</WikiTitle> <WikiTitleID>1586296</WikiTitleID> <RankerScore>0.14948620574803442</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Detroit</EntitySurfaceForm>
+	<EntityTextStart>450</EntityTextStart>
+	<EntityTextEnd>457</EntityTextEnd>
+	<LinkerScore>0.5951758953239177</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Detroit,_Michigan</WikiTitle>
+		<WikiTitleID>8687</WikiTitleID>
+		<RankerScore>0.22522237925179775</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Detroit,_Michigan</WikiTitle> <WikiTitleID>8687</WikiTitleID> <RankerScore>0.22522237925179775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Pistons</WikiTitle> <WikiTitleID>72871</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Red_Wings</WikiTitle> <WikiTitleID>8795</WikiTitleID> <RankerScore>0.07502917618034831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Tigers</WikiTitle> <WikiTitleID>8579</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Lions</WikiTitle> <WikiTitleID>8577</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Palace_of_Auburn_Hills</WikiTitle> <WikiTitleID>623472</WikiTitleID> <RankerScore>0.07993068835483973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Oregon</WikiTitle> <WikiTitleID>130894</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Shock</WikiTitle> <WikiTitleID>237111</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Detroit</WikiTitle> <WikiTitleID>305530</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Detroit</WikiTitle> <WikiTitleID>1363510</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Metropolitan_Wayne_County_Airport</WikiTitle> <WikiTitleID>294538</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Marauders</WikiTitle> <WikiTitleID>305305</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Indy_Grand_Prix</WikiTitle> <WikiTitleID>7252881</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Detroit_Mercy</WikiTitle> <WikiTitleID>744308</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Texas</WikiTitle> <WikiTitleID>136516</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Alabama</WikiTitle> <WikiTitleID>104822</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Illinois</WikiTitle> <WikiTitleID>111794</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_River</WikiTitle> <WikiTitleID>8935</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Symphony_Orchestra</WikiTitle> <WikiTitleID>155553</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fort_Detroit</WikiTitle> <WikiTitleID>2833392</WikiTitleID> <RankerScore>0.03645986801253025</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Detroit</EntitySurfaceForm>
+	<EntityTextStart>490</EntityTextStart>
+	<EntityTextEnd>497</EntityTextEnd>
+	<LinkerScore>0.5924336109787935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Detroit,_Michigan</WikiTitle>
+		<WikiTitleID>8687</WikiTitleID>
+		<RankerScore>0.23176957230432896</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Detroit,_Michigan</WikiTitle> <WikiTitleID>8687</WikiTitleID> <RankerScore>0.23176957230432896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Pistons</WikiTitle> <WikiTitleID>72871</WikiTitleID> <RankerScore>0.06978497069774572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Red_Wings</WikiTitle> <WikiTitleID>8795</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Tigers</WikiTitle> <WikiTitleID>8579</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Lions</WikiTitle> <WikiTitleID>8577</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Palace_of_Auburn_Hills</WikiTitle> <WikiTitleID>623472</WikiTitleID> <RankerScore>0.087168391856956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Oregon</WikiTitle> <WikiTitleID>130894</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Shock</WikiTitle> <WikiTitleID>237111</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Detroit</WikiTitle> <WikiTitleID>305530</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Detroit</WikiTitle> <WikiTitleID>1363510</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Metropolitan_Wayne_County_Airport</WikiTitle> <WikiTitleID>294538</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Marauders</WikiTitle> <WikiTitleID>305305</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Indy_Grand_Prix</WikiTitle> <WikiTitleID>7252881</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Detroit_Mercy</WikiTitle> <WikiTitleID>744308</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Texas</WikiTitle> <WikiTitleID>136516</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Alabama</WikiTitle> <WikiTitleID>104822</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Illinois</WikiTitle> <WikiTitleID>111794</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_River</WikiTitle> <WikiTitleID>8935</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Symphony_Orchestra</WikiTitle> <WikiTitleID>155553</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fort_Detroit</WikiTitle> <WikiTitleID>2833392</WikiTitleID> <RankerScore>0.03595747442005701</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Michigan Corp.</EntitySurfaceForm>
+	<EntityTextStart>513</EntityTextStart>
+	<EntityTextEnd>527</EntityTextEnd>
+	<LinkerScore>1.2261355923451018</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michigan</WikiTitle>
+		<WikiTitleID>18859</WikiTitleID>
+		<RankerScore>0.27083307782643096</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michigan</WikiTitle> <WikiTitleID>18859</WikiTitleID> <RankerScore>0.27083307782643096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Wolverines_football</WikiTitle> <WikiTitleID>6142330</WikiTitleID> <RankerScore>0.04078861940565924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Michigan</WikiTitle> <WikiTitleID>31740</WikiTitleID> <RankerScore>0.06498928872840806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Wolverines</WikiTitle> <WikiTitleID>2017398</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_International_Speedway</WikiTitle> <WikiTitleID>966394</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Michigan_USA</WikiTitle> <WikiTitleID>4415540</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Michigan_Teen_USA</WikiTitle> <WikiTitleID>4561481</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Michigan_Wolverines_football_team</WikiTitle> <WikiTitleID>9190890</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Michigan</WikiTitle> <WikiTitleID>17948</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Democratic_primary,_2008</WikiTitle> <WikiTitleID>15153604</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Michigan</WikiTitle> <WikiTitleID>416404</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Avenue</WikiTitle> <WikiTitleID>15974027</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_(album)</WikiTitle> <WikiTitleID>1255189</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Michigan_Law_School</WikiTitle> <WikiTitleID>1202467</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Representatives_from_Michigan</WikiTitle> <WikiTitleID>881869</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Michigan_Wolverines_football_team</WikiTitle> <WikiTitleID>5857479</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Lottery</WikiTitle> <WikiTitleID>10985712</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Michigan</WikiTitle> <WikiTitleID>4756819</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Territory</WikiTitle> <WikiTitleID>437478</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_wine</WikiTitle> <WikiTitleID>5053262</WikiTitleID> <RankerScore>0.036669942002323624</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Michigan</EntitySurfaceForm>
+	<EntityTextStart>513</EntityTextStart>
+	<EntityTextEnd>521</EntityTextEnd>
+	<LinkerScore>1.2182770840968216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michigan</WikiTitle>
+		<WikiTitleID>18859</WikiTitleID>
+		<RankerScore>0.26693129573423047</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michigan</WikiTitle> <WikiTitleID>18859</WikiTitleID> <RankerScore>0.26693129573423047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Wolverines_football</WikiTitle> <WikiTitleID>6142330</WikiTitleID> <RankerScore>0.0410177010731203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Michigan</WikiTitle> <WikiTitleID>31740</WikiTitleID> <RankerScore>0.06525208865901579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Wolverines</WikiTitle> <WikiTitleID>2017398</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_International_Speedway</WikiTitle> <WikiTitleID>966394</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Michigan_USA</WikiTitle> <WikiTitleID>4415540</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Michigan_Teen_USA</WikiTitle> <WikiTitleID>4561481</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Michigan_Wolverines_football_team</WikiTitle> <WikiTitleID>9190890</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Michigan</WikiTitle> <WikiTitleID>17948</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Democratic_primary,_2008</WikiTitle> <WikiTitleID>15153604</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Michigan</WikiTitle> <WikiTitleID>416404</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Avenue</WikiTitle> <WikiTitleID>15974027</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_(album)</WikiTitle> <WikiTitleID>1255189</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Michigan_Law_School</WikiTitle> <WikiTitleID>1202467</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Representatives_from_Michigan</WikiTitle> <WikiTitleID>881869</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Michigan_Wolverines_football_team</WikiTitle> <WikiTitleID>5857479</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Lottery</WikiTitle> <WikiTitleID>10985712</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Michigan</WikiTitle> <WikiTitleID>4756819</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Territory</WikiTitle> <WikiTitleID>437478</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_wine</WikiTitle> <WikiTitleID>5053262</WikiTitleID> <RankerScore>0.03687052438433138</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Detroit</EntitySurfaceForm>
+	<EntityTextStart>529</EntityTextStart>
+	<EntityTextEnd>536</EntityTextEnd>
+	<LinkerScore>0.7560799040503065</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Detroit,_Michigan</WikiTitle>
+		<WikiTitleID>8687</WikiTitleID>
+		<RankerScore>0.25415209921886045</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Detroit,_Michigan</WikiTitle> <WikiTitleID>8687</WikiTitleID> <RankerScore>0.25415209921886045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Pistons</WikiTitle> <WikiTitleID>72871</WikiTitleID> <RankerScore>0.06701143657405577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Red_Wings</WikiTitle> <WikiTitleID>8795</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Tigers</WikiTitle> <WikiTitleID>8579</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Lions</WikiTitle> <WikiTitleID>8577</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Palace_of_Auburn_Hills</WikiTitle> <WikiTitleID>623472</WikiTitleID> <RankerScore>0.08134268403378381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Oregon</WikiTitle> <WikiTitleID>130894</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Shock</WikiTitle> <WikiTitleID>237111</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Detroit</WikiTitle> <WikiTitleID>305530</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Detroit</WikiTitle> <WikiTitleID>1363510</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Metropolitan_Wayne_County_Airport</WikiTitle> <WikiTitleID>294538</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Marauders</WikiTitle> <WikiTitleID>305305</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Indy_Grand_Prix</WikiTitle> <WikiTitleID>7252881</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Detroit_Mercy</WikiTitle> <WikiTitleID>744308</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Texas</WikiTitle> <WikiTitleID>136516</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Alabama</WikiTitle> <WikiTitleID>104822</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Illinois</WikiTitle> <WikiTitleID>111794</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_River</WikiTitle> <WikiTitleID>8935</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Symphony_Orchestra</WikiTitle> <WikiTitleID>155553</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fort_Detroit</WikiTitle> <WikiTitleID>2833392</WikiTitleID> <RankerScore>0.035146692951370594</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Coupon</EntitySurfaceForm>
+	<EntityTextStart>565</EntityTextStart>
+	<EntityTextEnd>571</EntityTextEnd>
+	<LinkerScore>0.8498517893660353</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coupon</WikiTitle>
+		<WikiTitleID>504897</WikiTitleID>
+		<RankerScore>0.7066865982769012</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coupon</WikiTitle> <WikiTitleID>504897</WikiTitleID> <RankerScore>0.7066865982769012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coupon_(bond)</WikiTitle> <WikiTitleID>3647476</WikiTitleID> <RankerScore>0.2933134017230989</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Coupon Yield</EntitySurfaceForm>
+	<EntityTextStart>565</EntityTextStart>
+	<EntityTextEnd>577</EntityTextEnd>
+	<LinkerScore>0.9759116661844708</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coupon_(bond)</WikiTitle>
+		<WikiTitleID>3647476</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>bond</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coupon_(bond)</WikiTitle> <WikiTitleID>3647476</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yield</EntitySurfaceForm>
+	<EntityTextStart>572</EntityTextStart>
+	<EntityTextEnd>577</EntityTextEnd>
+	<LinkerScore>-0.07841630075415382</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yield_(album)</WikiTitle>
+		<WikiTitleID>262597</WikiTitleID>
+		<RankerScore>0.46499243884736025</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yield_(album)</WikiTitle> <WikiTitleID>262597</WikiTitleID> <RankerScore>0.46499243884736025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yield_(finance)</WikiTitle> <WikiTitleID>462853</WikiTitleID> <RankerScore>0.3389031207385665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yield</WikiTitle> <WikiTitleID>610697</WikiTitleID> <RankerScore>0.19610444041407332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1996</EntitySurfaceForm>
+	<EntityTextStart>590</EntityTextStart>
+	<EntityTextEnd>594</EntityTextEnd>
+	<LinkerScore>1.0880821421336444</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1996</WikiTitle>
+		<WikiTitleID>34636</WikiTitleID>
+		<RankerScore>0.1529561457630502</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1996</WikiTitle> <WikiTitleID>34636</WikiTitleID> <RankerScore>0.1529561457630502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_film</WikiTitle> <WikiTitleID>169568</WikiTitleID> <RankerScore>0.06166907157956611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_music</WikiTitle> <WikiTitleID>160807</WikiTitleID> <RankerScore>0.05013058146760264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_literature</WikiTitle> <WikiTitleID>190198</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_video_gaming</WikiTitle> <WikiTitleID>1322992</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_Summer_Olympics</WikiTitle> <WikiTitleID>72311</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_sports</WikiTitle> <WikiTitleID>224726</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_NFL_season</WikiTitle> <WikiTitleID>2338868</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_baseball</WikiTitle> <WikiTitleID>2019478</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_comics</WikiTitle> <WikiTitleID>917032</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_poetry</WikiTitle> <WikiTitleID>5513001</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1996</WikiTitle> <WikiTitleID>1341472</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1996</WikiTitle> <WikiTitleID>32077</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995–96_NHL_season</WikiTitle> <WikiTitleID>1880859</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_general_election,_1996</WikiTitle> <WikiTitleID>536679</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Euro_1996</WikiTitle> <WikiTitleID>555876</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1996</WikiTitle> <WikiTitleID>5848231</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108305</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_CFL_season</WikiTitle> <WikiTitleID>2784372</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>8081476</WikiTitleID> <RankerScore>0.043249658893516535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1997</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>606</EntityTextEnd>
+	<LinkerScore>0.8917406525161434</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1997</WikiTitle>
+		<WikiTitleID>34601</WikiTitleID>
+		<RankerScore>0.15513412847993246</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1997</WikiTitle> <WikiTitleID>34601</WikiTitleID> <RankerScore>0.15513412847993246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_film</WikiTitle> <WikiTitleID>169572</WikiTitleID> <RankerScore>0.05338800413228559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_music</WikiTitle> <WikiTitleID>160808</WikiTitleID> <RankerScore>0.05387732980345386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_literature</WikiTitle> <WikiTitleID>190195</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_video_gaming</WikiTitle> <WikiTitleID>1322991</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_sports</WikiTitle> <WikiTitleID>224725</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_NFL_season</WikiTitle> <WikiTitleID>2313870</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1997</WikiTitle> <WikiTitleID>35519</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_1997</WikiTitle> <WikiTitleID>274508</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_baseball</WikiTitle> <WikiTitleID>1973602</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_poetry</WikiTitle> <WikiTitleID>5512994</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_comics</WikiTitle> <WikiTitleID>917035</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996–97_NHL_season</WikiTitle> <WikiTitleID>1575490</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>775015</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_in_NASCAR</WikiTitle> <WikiTitleID>11474579</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_NASCAR_Craftsman_Truck_Series</WikiTitle> <WikiTitleID>4769095</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_CFL_season</WikiTitle> <WikiTitleID>2782425</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_World_Series</WikiTitle> <WikiTitleID>536023</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1997</WikiTitle> <WikiTitleID>5862096</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>8083518</WikiTitleID> <RankerScore>0.043388266916725184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1998</EntitySurfaceForm>
+	<EntityTextStart>614</EntityTextStart>
+	<EntityTextEnd>618</EntityTextEnd>
+	<LinkerScore>1.048234231189707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1998</WikiTitle>
+		<WikiTitleID>34647</WikiTitleID>
+		<RankerScore>0.1798248689999274</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1998</WikiTitle> <WikiTitleID>34647</WikiTitleID> <RankerScore>0.1798248689999274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_film</WikiTitle> <WikiTitleID>169574</WikiTitleID> <RankerScore>0.05166871825931873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_music</WikiTitle> <WikiTitleID>160809</WikiTitleID> <RankerScore>0.052173605795349715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_video_gaming</WikiTitle> <WikiTitleID>1322989</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_literature</WikiTitle> <WikiTitleID>190194</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_sports</WikiTitle> <WikiTitleID>224724</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NFL_season</WikiTitle> <WikiTitleID>2313880</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_baseball</WikiTitle> <WikiTitleID>1822834</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_Winter_Olympics</WikiTitle> <WikiTitleID>113189</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_poetry</WikiTitle> <WikiTitleID>5512977</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1998</WikiTitle> <WikiTitleID>1341453</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_comics</WikiTitle> <WikiTitleID>9438892</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_NASCAR</WikiTitle> <WikiTitleID>11474593</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_1998</WikiTitle> <WikiTitleID>514571</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108342</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_aviation</WikiTitle> <WikiTitleID>566633</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997–98_NHL_season</WikiTitle> <WikiTitleID>1903294</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>4286207</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1998</WikiTitle> <WikiTitleID>4669371</WikiTitleID> <RankerScore>0.04213722393796495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1999</EntitySurfaceForm>
+	<EntityTextStart>626</EntityTextStart>
+	<EntityTextEnd>630</EntityTextEnd>
+	<LinkerScore>0.9461232949841459</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1999</WikiTitle>
+		<WikiTitleID>34553</WikiTitleID>
+		<RankerScore>0.14690764337822218</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1999</WikiTitle> <WikiTitleID>34553</WikiTitleID> <RankerScore>0.14690764337822218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_film</WikiTitle> <WikiTitleID>169577</WikiTitleID> <RankerScore>0.05367029165411263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_music</WikiTitle> <WikiTitleID>160810</WikiTitleID> <RankerScore>0.05208439473516492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_video_gaming</WikiTitle> <WikiTitleID>1322988</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_literature</WikiTitle> <WikiTitleID>190188</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_sports</WikiTitle> <WikiTitleID>224723</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_NFL_season</WikiTitle> <WikiTitleID>2310936</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_baseball</WikiTitle> <WikiTitleID>1546015</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_poetry</WikiTitle> <WikiTitleID>5512966</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Parliament_election,_1999</WikiTitle> <WikiTitleID>294717</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_comics</WikiTitle> <WikiTitleID>9438737</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998–99_NHL_season</WikiTitle> <WikiTitleID>2360206</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>774806</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Rugby_World_Cup</WikiTitle> <WikiTitleID>266016</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_NASCAR</WikiTitle> <WikiTitleID>11474596</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_(song)</WikiTitle> <WikiTitleID>2006217</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>4037146</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_CFL_season</WikiTitle> <WikiTitleID>2776412</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>9123149</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1999</WikiTitle> <WikiTitleID>4669266</WikiTitleID> <RankerScore>0.04396103942544119</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2000</EntitySurfaceForm>
+	<EntityTextStart>638</EntityTextStart>
+	<EntityTextEnd>642</EntityTextEnd>
+	<LinkerScore>0.7542729180362067</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2000</WikiTitle>
+		<WikiTitleID>34548</WikiTitleID>
+		<RankerScore>0.15379399675730676</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2000</WikiTitle> <WikiTitleID>34548</WikiTitleID> <RankerScore>0.15379399675730676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_film</WikiTitle> <WikiTitleID>167091</WikiTitleID> <RankerScore>0.05406739486003458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_music</WikiTitle> <WikiTitleID>160812</WikiTitleID> <RankerScore>0.05186507555221504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_video_gaming</WikiTitle> <WikiTitleID>1322914</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_literature</WikiTitle> <WikiTitleID>190187</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_sports</WikiTitle> <WikiTitleID>224719</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_Summer_Olympics</WikiTitle> <WikiTitleID>71432</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_NFL_season</WikiTitle> <WikiTitleID>2310937</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_baseball</WikiTitle> <WikiTitleID>1487553</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2000</WikiTitle> <WikiTitleID>32009</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2000</WikiTitle> <WikiTitleID>250982</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_poetry</WikiTitle> <WikiTitleID>5512957</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2000</WikiTitle> <WikiTitleID>1341423</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_comics</WikiTitle> <WikiTitleID>17474654</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_United_States_Census</WikiTitle> <WikiTitleID>432383</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Windows_2000</WikiTitle> <WikiTitleID>33941</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108322</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999–2000_NHL_season</WikiTitle> <WikiTitleID>2173560</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_in_NASCAR</WikiTitle> <WikiTitleID>11474601</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_CFL_season</WikiTitle> <WikiTitleID>2772616</WikiTitleID> <RankerScore>0.04354550193120256</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2001</EntitySurfaceForm>
+	<EntityTextStart>650</EntityTextStart>
+	<EntityTextEnd>654</EntityTextEnd>
+	<LinkerScore>0.9705826839513555</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2001</WikiTitle>
+		<WikiTitleID>34551</WikiTitleID>
+		<RankerScore>0.1779038498282127</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2001</WikiTitle> <WikiTitleID>34551</WikiTitleID> <RankerScore>0.1779038498282127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_film</WikiTitle> <WikiTitleID>162503</WikiTitleID> <RankerScore>0.05225281959319217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_music</WikiTitle> <WikiTitleID>160813</WikiTitleID> <RankerScore>0.05551825013113502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_sports</WikiTitle> <WikiTitleID>208632</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_literature</WikiTitle> <WikiTitleID>190185</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_video_gaming</WikiTitle> <WikiTitleID>1322904</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_baseball</WikiTitle> <WikiTitleID>1470406</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_NFL_season</WikiTitle> <WikiTitleID>2310935</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_poetry</WikiTitle> <WikiTitleID>5493693</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_2001</WikiTitle> <WikiTitleID>3975</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_comics</WikiTitle> <WikiTitleID>17474612</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000–01_NHL_season</WikiTitle> <WikiTitleID>1673932</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_in_NASCAR</WikiTitle> <WikiTitleID>11474608</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>5536948</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_(album)</WikiTitle> <WikiTitleID>1966560</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_CFL_season</WikiTitle> <WikiTitleID>2771472</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_2001</WikiTitle> <WikiTitleID>4604095</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_NHL_Entry_Draft</WikiTitle> <WikiTitleID>2724616</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>773431</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_Major_League_Soccer_season</WikiTitle> <WikiTitleID>1249345</WikiTitleID> <RankerScore>0.04201912237926236</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2002</EntitySurfaceForm>
+	<EntityTextStart>662</EntityTextStart>
+	<EntityTextEnd>666</EntityTextEnd>
+	<LinkerScore>0.8895290937803577</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2002</WikiTitle>
+		<WikiTitleID>35502</WikiTitleID>
+		<RankerScore>0.16482077309947507</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2002</WikiTitle> <WikiTitleID>35502</WikiTitleID> <RankerScore>0.16482077309947507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_film</WikiTitle> <WikiTitleID>167180</WikiTitleID> <RankerScore>0.052757000514990354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_music</WikiTitle> <WikiTitleID>160814</WikiTitleID> <RankerScore>0.05213889108326416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_literature</WikiTitle> <WikiTitleID>190183</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_sports</WikiTitle> <WikiTitleID>218576</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_NFL_season</WikiTitle> <WikiTitleID>2300427</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_baseball</WikiTitle> <WikiTitleID>1453148</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_video_gaming</WikiTitle> <WikiTitleID>358776</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Winter_Olympics</WikiTitle> <WikiTitleID>38678</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_poetry</WikiTitle> <WikiTitleID>5493688</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_comics</WikiTitle> <WikiTitleID>17474604</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2002</WikiTitle> <WikiTitleID>1341395</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001–02_NHL_season</WikiTitle> <WikiTitleID>1345369</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_gubernatorial_elections,_2002</WikiTitle> <WikiTitleID>5884939</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_CFL_season</WikiTitle> <WikiTitleID>2769137</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_in_NASCAR</WikiTitle> <WikiTitleID>11474612</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>5411933</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108332</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_2002</WikiTitle> <WikiTitleID>4603999</WikiTitleID> <RankerScore>0.04295784325307472</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2003</EntitySurfaceForm>
+	<EntityTextStart>674</EntityTextStart>
+	<EntityTextEnd>678</EntityTextEnd>
+	<LinkerScore>0.8833906709859306</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2003</WikiTitle>
+		<WikiTitleID>36163</WikiTitleID>
+		<RankerScore>0.16287181305024392</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2003</WikiTitle> <WikiTitleID>36163</WikiTitleID> <RankerScore>0.16287181305024392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_film</WikiTitle> <WikiTitleID>169212</WikiTitleID> <RankerScore>0.056641184939869985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_music</WikiTitle> <WikiTitleID>161521</WikiTitleID> <RankerScore>0.049234165436714154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_literature</WikiTitle> <WikiTitleID>190182</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_sports</WikiTitle> <WikiTitleID>254079</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_NFL_season</WikiTitle> <WikiTitleID>2300431</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_video_gaming</WikiTitle> <WikiTitleID>560804</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_baseball</WikiTitle> <WikiTitleID>1419034</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_comics</WikiTitle> <WikiTitleID>17474592</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_poetry</WikiTitle> <WikiTitleID>5493647</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_2003</WikiTitle> <WikiTitleID>514498</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>307313</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_CFL_season</WikiTitle> <WikiTitleID>2761564</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_recall_election,_2003</WikiTitle> <WikiTitleID>291226</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_NASCAR</WikiTitle> <WikiTitleID>11467863</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002–03_NHL_season</WikiTitle> <WikiTitleID>555625</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Major_League_Soccer_season</WikiTitle> <WikiTitleID>1133436</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_NHL_Entry_Draft</WikiTitle> <WikiTitleID>1246861</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_in_radio</WikiTitle> <WikiTitleID>13594202</WikiTitleID> <RankerScore>0.043014872739598344</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2004</EntitySurfaceForm>
+	<EntityTextStart>686</EntityTextStart>
+	<EntityTextEnd>690</EntityTextEnd>
+	<LinkerScore>0.8921112404664875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2004</WikiTitle>
+		<WikiTitleID>35524</WikiTitleID>
+		<RankerScore>0.19801877026820197</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2004</WikiTitle> <WikiTitleID>35524</WikiTitleID> <RankerScore>0.19801877026820197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_film</WikiTitle> <WikiTitleID>294634</WikiTitleID> <RankerScore>0.051034924831363175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_music</WikiTitle> <WikiTitleID>249465</WikiTitleID> <RankerScore>0.049003095234652023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_sports</WikiTitle> <WikiTitleID>195345</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_literature</WikiTitle> <WikiTitleID>522157</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_NFL_season</WikiTitle> <WikiTitleID>2296131</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_comics</WikiTitle> <WikiTitleID>2426980</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_baseball</WikiTitle> <WikiTitleID>949254</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_video_gaming</WikiTitle> <WikiTitleID>510112</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2004</WikiTitle> <WikiTitleID>1297662</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2004</WikiTitle> <WikiTitleID>312153</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_poetry</WikiTitle> <WikiTitleID>5493639</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2004</WikiTitle> <WikiTitleID>383324</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_Summer_Olympics</WikiTitle> <WikiTitleID>77741</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Senate_elections,_2004</WikiTitle> <WikiTitleID>381506</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_radio</WikiTitle> <WikiTitleID>13600991</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003–04_NHL_season</WikiTitle> <WikiTitleID>576605</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_in_NASCAR</WikiTitle> <WikiTitleID>11467831</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_CFL_season</WikiTitle> <WikiTitleID>2752571</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_AFC_Asian_Cup</WikiTitle> <WikiTitleID>781339</WikiTitleID> <RankerScore>0.041290777039163694</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2005</EntitySurfaceForm>
+	<EntityTextStart>698</EntityTextStart>
+	<EntityTextEnd>702</EntityTextEnd>
+	<LinkerScore>0.9906742187129233</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2005</WikiTitle>
+		<WikiTitleID>35984</WikiTitleID>
+		<RankerScore>0.21391153625949175</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2005</WikiTitle> <WikiTitleID>35984</WikiTitleID> <RankerScore>0.21391153625949175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_film</WikiTitle> <WikiTitleID>294628</WikiTitleID> <RankerScore>0.05269938906279994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_music</WikiTitle> <WikiTitleID>1053430</WikiTitleID> <RankerScore>0.04947298920350009</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_literature</WikiTitle> <WikiTitleID>1349860</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_sports</WikiTitle> <WikiTitleID>685022</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_NFL_season</WikiTitle> <WikiTitleID>2296132</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_baseball</WikiTitle> <WikiTitleID>1373026</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_comics</WikiTitle> <WikiTitleID>2427504</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_video_gaming</WikiTitle> <WikiTitleID>838271</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_2005</WikiTitle> <WikiTitleID>1847945</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_poetry</WikiTitle> <WikiTitleID>5493186</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>2182170</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_radio</WikiTitle> <WikiTitleID>10449996</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_CFL_season</WikiTitle> <WikiTitleID>2711532</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_NASCAR</WikiTitle> <WikiTitleID>11467808</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_Major_League_Soccer_season</WikiTitle> <WikiTitleID>3160511</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_NASCAR_Craftsman_Truck_Series</WikiTitle> <WikiTitleID>2187178</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_Atlantic_hurricane_season</WikiTitle> <WikiTitleID>1142605</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_NHL_Entry_Draft</WikiTitle> <WikiTitleID>2240912</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_in_France</WikiTitle> <WikiTitleID>2313421</WikiTitleID> <RankerScore>0.040230357969071075</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2006</EntitySurfaceForm>
+	<EntityTextStart>710</EntityTextStart>
+	<EntityTextEnd>714</EntityTextEnd>
+	<LinkerScore>0.878086761157736</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006</WikiTitle>
+		<WikiTitleID>36164</WikiTitleID>
+		<RankerScore>0.21543539367675751</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2006</WikiTitle> <WikiTitleID>36164</WikiTitleID> <RankerScore>0.21543539367675751</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_film</WikiTitle> <WikiTitleID>302754</WikiTitleID> <RankerScore>0.05243729605904917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_music</WikiTitle> <WikiTitleID>1570433</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_baseball</WikiTitle> <WikiTitleID>3119436</WikiTitleID> <RankerScore>0.04662526382128082</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_comics</WikiTitle> <WikiTitleID>2442813</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_literature</WikiTitle> <WikiTitleID>2396990</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_sports</WikiTitle> <WikiTitleID>1057933</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_NFL_season</WikiTitle> <WikiTitleID>3600052</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_video_gaming</WikiTitle> <WikiTitleID>2524012</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Winter_Olympics</WikiTitle> <WikiTitleID>77743</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_poetry</WikiTitle> <WikiTitleID>5493813</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Senate_elections,_2006</WikiTitle> <WikiTitleID>1130287</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_2006</WikiTitle> <WikiTitleID>1805191</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_CFL_season</WikiTitle> <WikiTitleID>3257019</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_NASCAR</WikiTitle> <WikiTitleID>11467781</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2006</WikiTitle> <WikiTitleID>1145326</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>3702462</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_in_radio</WikiTitle> <WikiTitleID>11046671</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_gubernatorial_elections,_2006</WikiTitle> <WikiTitleID>1531131</WikiTitleID> <RankerScore>0.04032364979075955</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2007</EntitySurfaceForm>
+	<EntityTextStart>722</EntityTextStart>
+	<EntityTextEnd>726</EntityTextEnd>
+	<LinkerScore>0.9189351164033653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2007</WikiTitle>
+		<WikiTitleID>36165</WikiTitleID>
+		<RankerScore>0.1661854363655261</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2007</WikiTitle> <WikiTitleID>36165</WikiTitleID> <RankerScore>0.1661854363655261</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_film</WikiTitle> <WikiTitleID>294978</WikiTitleID> <RankerScore>0.05874243149955005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_music</WikiTitle> <WikiTitleID>6459333</WikiTitleID> <RankerScore>0.053128388048320804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_comics</WikiTitle> <WikiTitleID>8841012</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_baseball</WikiTitle> <WikiTitleID>6721205</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_literature</WikiTitle> <WikiTitleID>7622975</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_sports</WikiTitle> <WikiTitleID>1582620</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_NFL_season</WikiTitle> <WikiTitleID>4040359</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_video_gaming</WikiTitle> <WikiTitleID>4898429</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Major_League_Soccer_season</WikiTitle> <WikiTitleID>7379515</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_France</WikiTitle> <WikiTitleID>12012102</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_radio</WikiTitle> <WikiTitleID>11046718</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Formula_One_season</WikiTitle> <WikiTitleID>2911781</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_in_poetry</WikiTitle> <WikiTitleID>8503046</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_CFL_season</WikiTitle> <WikiTitleID>3183164</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_2007</WikiTitle> <WikiTitleID>5946019</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Major_League_Baseball_season</WikiTitle> <WikiTitleID>9355973</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAF_Champions_League_2007</WikiTitle> <WikiTitleID>8520227</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_NHL_Entry_Draft</WikiTitle> <WikiTitleID>4472786</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIBT_World_Championships_2007</WikiTitle> <WikiTitleID>11358287</WikiTitleID> <RankerScore>0.042467279063917826</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2008</EntitySurfaceForm>
+	<EntityTextStart>734</EntityTextStart>
+	<EntityTextEnd>738</EntityTextEnd>
+	<LinkerScore>0.5389724323723187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2008</WikiTitle>
+		<WikiTitleID>35825</WikiTitleID>
+		<RankerScore>0.15138717325117487</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2008</WikiTitle> <WikiTitleID>35825</WikiTitleID> <RankerScore>0.15138717325117487</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_film</WikiTitle> <WikiTitleID>1463113</WikiTitleID> <RankerScore>0.052962308363743694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_music</WikiTitle> <WikiTitleID>8785767</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_television</WikiTitle> <WikiTitleID>9041688</WikiTitleID> <RankerScore>0.06449460390667282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_comics</WikiTitle> <WikiTitleID>13749284</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008–09_NHL_transactions</WikiTitle> <WikiTitleID>17771219</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_baseball</WikiTitle> <WikiTitleID>13639405</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_literature</WikiTitle> <WikiTitleID>10849987</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_sports</WikiTitle> <WikiTitleID>1857710</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_NHL_Entry_Draft</WikiTitle> <WikiTitleID>8364860</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_video_gaming</WikiTitle> <WikiTitleID>10060114</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Euro_2008</WikiTitle> <WikiTitleID>662351</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Africa_Cup_of_Nations</WikiTitle> <WikiTitleID>4185108</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAF_Champions_League_2008</WikiTitle> <WikiTitleID>14562907</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Major_League_Soccer_season</WikiTitle> <WikiTitleID>14231193</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2008</WikiTitle> <WikiTitleID>406859</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007–08_NHL_season</WikiTitle> <WikiTitleID>2075064</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_NCAA_Men&apos;s_Division_I_Basketball_Tournament</WikiTitle> <WikiTitleID>4228120</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_in_radio</WikiTitle> <WikiTitleID>13635815</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAF_Confederation_Cup_2008</WikiTitle> <WikiTitleID>14835821</WikiTitleID> <RankerScore>0.04300917143990639</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2009</EntitySurfaceForm>
+	<EntityTextStart>746</EntityTextStart>
+	<EntityTextEnd>750</EntityTextEnd>
+	<LinkerScore>0.986837397318009</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2009</WikiTitle>
+		<WikiTitleID>35983</WikiTitleID>
+		<RankerScore>0.18301233234258235</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2009</WikiTitle> <WikiTitleID>35983</WikiTitleID> <RankerScore>0.18301233234258235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_in_film</WikiTitle> <WikiTitleID>10451432</WikiTitleID> <RankerScore>0.05357054617249902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_NHL_Entry_Draft</WikiTitle> <WikiTitleID>10897046</WikiTitleID> <RankerScore>0.0589045883364156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_in_sports</WikiTitle> <WikiTitleID>4051722</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_Formula_One_season</WikiTitle> <WikiTitleID>5822681</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_NASCAR_Sprint_Cup_Series</WikiTitle> <WikiTitleID>18436335</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7127957</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_NCAA_Men&apos;s_Division_I_Basketball_Tournament</WikiTitle> <WikiTitleID>4606216</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_films_of_2009</WikiTitle> <WikiTitleID>17287883</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_National_Football_League_seasons</WikiTitle> <WikiTitleID>2296136</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_in_baseball</WikiTitle> <WikiTitleID>18406790</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_NFL_Draft</WikiTitle> <WikiTitleID>17144160</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eurovision_Song_Contest_2009</WikiTitle> <WikiTitleID>17524651</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_in_comics</WikiTitle> <WikiTitleID>17859325</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_NCAA_Women&apos;s_Division_I_Basketball_Tournament</WikiTitle> <WikiTitleID>4606153</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_World_Men&apos;s_Handball_Championship</WikiTitle> <WikiTitleID>7331700</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Near_future_in_video_gaming</WikiTitle> <WikiTitleID>16000063</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010s_in_film</WikiTitle> <WikiTitleID>9050777</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_East_Asian_Games</WikiTitle> <WikiTitleID>7117690</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_in_television</WikiTitle> <WikiTitleID>18077237</WikiTitleID> <RankerScore>0.04144191371461783</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2010</EntitySurfaceForm>
+	<EntityTextStart>758</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>0.8370654075858259</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2010</WikiTitle>
+		<WikiTitleID>43226</WikiTitleID>
+		<RankerScore>0.20175930766625377</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2010</WikiTitle> <WikiTitleID>43226</WikiTitleID> <RankerScore>0.20175930766625377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_FIFA_World_Cup</WikiTitle> <WikiTitleID>168079</WikiTitleID> <RankerScore>0.05058137087762007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_(film)</WikiTitle> <WikiTitleID>1195560</WikiTitleID> <RankerScore>0.05692558631439127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_African_Cup_of_Nations</WikiTitle> <WikiTitleID>5731464</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010s_in_film</WikiTitle> <WikiTitleID>9050777</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_Winter_Olympics</WikiTitle> <WikiTitleID>178749</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_NHL_Entry_Draft</WikiTitle> <WikiTitleID>18026409</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NBA_Draft</WikiTitle> <WikiTitleID>835946</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Senate_elections,_2010</WikiTitle> <WikiTitleID>1134236</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_Commonwealth_Games</WikiTitle> <WikiTitleID>365813</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_IAAF_World_Indoor_Championships</WikiTitle> <WikiTitleID>10283729</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_Formula_One_season</WikiTitle> <WikiTitleID>8482499</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_gubernatorial_elections,_2010</WikiTitle> <WikiTitleID>9536022</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Super_Bowl_XLIV</WikiTitle> <WikiTitleID>1406500</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_Asian_Games</WikiTitle> <WikiTitleID>3285435</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIL_European_Luge_Championships_2010</WikiTitle> <WikiTitleID>15736947</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_hockey_at_the_2010_Winter_Olympics</WikiTitle> <WikiTitleID>14485826</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>21st_century_BC</WikiTitle> <WikiTitleID>34856</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_gubernatorial_election,_2010</WikiTitle> <WikiTitleID>8647132</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6516384</WikiTitleID> <RankerScore>0.04063139618480793</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>2011</EntitySurfaceForm>
+	<EntityTextStart>771</EntityTextStart>
+	<EntityTextEnd>775</EntityTextEnd>
+	<LinkerScore>0.942602080474611</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2011</WikiTitle>
+		<WikiTitleID>36225</WikiTitleID>
+		<RankerScore>0.24640394971718368</RankerScore>
+		<Attributes>event</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2011</WikiTitle> <WikiTitleID>36225</WikiTitleID> <RankerScore>0.24640394971718368</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_AFC_Asian_Cup</WikiTitle> <WikiTitleID>5693048</WikiTitleID> <RankerScore>0.048576132611571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010s_in_film</WikiTitle> <WikiTitleID>9050777</WikiTitleID> <RankerScore>0.04561491164708431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIS_Nordic_World_Ski_Championships_2011</WikiTitle> <WikiTitleID>6440652</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Super_Bowl_XLV</WikiTitle> <WikiTitleID>2401717</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_Rugby_World_Cup</WikiTitle> <WikiTitleID>2179022</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIBT_World_Championships_2011</WikiTitle> <WikiTitleID>13581979</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_Cricket_World_Cup</WikiTitle> <WikiTitleID>2900585</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mars_Scout_2013</WikiTitle> <WikiTitleID>2287546</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_Formula_One_season</WikiTitle> <WikiTitleID>12161822</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>2360043</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_in_NASCAR</WikiTitle> <WikiTitleID>13964770</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_2011_Census</WikiTitle> <WikiTitleID>5752184</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_Games_of_the_Small_States_of_Europe</WikiTitle> <WikiTitleID>11366782</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIL_World_Luge_Championships_2011</WikiTitle> <WikiTitleID>14122266</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2011_Pacific_Games</WikiTitle> <WikiTitleID>16777236</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Chess_Championship_2011</WikiTitle> <WikiTitleID>17189128</WikiTitleID> <RankerScore>0.04710035757315436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>COMPETITIVE</EntitySurfaceForm>
+	<EntityTextStart>784</EntityTextStart>
+	<EntityTextEnd>795</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Competitiveness</WikiTitle>
+		<WikiTitleID>927591</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

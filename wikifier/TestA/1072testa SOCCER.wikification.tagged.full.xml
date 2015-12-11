@@ -1,0 +1,650 @@
+<WikifierOutput>
+<InputFilename>
+1072testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- CANADA BEAT PANAMA 3-1 IN WORLD CUP QUALIFIER.
+EDMONTON 1996-08-31
+Canada beat Panama 3-1( halftime 2-0) in their CONCACAF semifinal phase qualifying match for the 1998 World Cup on Friday.
+Scorers:
+Canada- Aunger( 41st min, pen), Paul Peschisolido( 42nd), Carlo Corrazin( 87th)
+Panama- Jorge Luis Dely Valdes( 50th)
+Attendance: 9,402
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>CANADA</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>14</EntityTextEnd>
+	<LinkerScore>0.39351561005083835</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canada</WikiTitle>
+		<WikiTitleID>5042916</WikiTitleID>
+		<RankerScore>0.30859233991763696</RankerScore>
+		<Attributes>country	nation	colony	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Canada</WikiTitle> <WikiTitleID>5042916</WikiTitleID> <RankerScore>0.30859233991763696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>16016457</WikiTitleID> <RankerScore>0.2823375345205732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>908649</WikiTitleID> <RankerScore>0.21779784685941234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>5511269</WikiTitleID> <RankerScore>0.1912722787023776</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PANAMA</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>-0.34993676495588943</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Panama_(cryptography)</WikiTitle>
+		<WikiTitleID>4170789</WikiTitleID>
+		<RankerScore>0.5057903180983122</RankerScore>
+		<Attributes>function	cipher</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_invasion_of_Panama</WikiTitle> <WikiTitleID>205550</WikiTitleID> <RankerScore>0.49420968190168774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_(cryptography)</WikiTitle> <WikiTitleID>4170789</WikiTitleID> <RankerScore>0.5057903180983122</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP</EntitySurfaceForm>
+	<EntityTextStart>34</EntityTextStart>
+	<EntityTextEnd>43</EntityTextEnd>
+	<LinkerScore>0.03713151612439189</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.15822642703922757</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.15822642703922757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.0479196654806126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.13572073050788455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.03871371629248678</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>34</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>-0.2647942681556885</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle>
+		<WikiTitleID>4237189</WikiTitleID>
+		<RankerScore>0.09535860098753306</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4237189</WikiTitleID> <RankerScore>0.09535860098753306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4940480</WikiTitleID> <RankerScore>0.09436042311122292</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235328</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>17475699</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>1952482</WikiTitleID> <RankerScore>0.07647028206861312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235718</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7528350</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7127957</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification_(AFC-OFC_play-off)</WikiTitle> <WikiTitleID>5556528</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_FIFA_World_Cup_qualification_(AFC)</WikiTitle> <WikiTitleID>11798982</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2014796</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2467576</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2485341</WikiTitleID> <RankerScore>0.06671006307569372</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CUP</EntitySurfaceForm>
+	<EntityTextStart>40</EntityTextStart>
+	<EntityTextEnd>43</EntityTextEnd>
+	<LinkerScore>0.03455720725700444</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cambridge_University_Press</WikiTitle>
+		<WikiTitleID>73199</WikiTitleID>
+		<RankerScore>0.21595897312344903</RankerScore>
+		<Attributes>company	shop	organisation	publisher	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cambridge_University_Press</WikiTitle> <WikiTitleID>73199</WikiTitleID> <RankerScore>0.21595897312344903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Committee_of_Union_and_Progress</WikiTitle> <WikiTitleID>500233</WikiTitleID> <RankerScore>0.2057671277351706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_units_of_pressure</WikiTitle> <WikiTitleID>3848885</WikiTitleID> <RankerScore>0.2140478015765619</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Unity_Candidates</WikiTitle> <WikiTitleID>8736554</WikiTitleID> <RankerScore>0.18211304878240922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbia_University_Press</WikiTitle> <WikiTitleID>1903626</WikiTitleID> <RankerScore>0.18211304878240922</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>44</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>0.44374178552326304</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle>
+		<WikiTitleID>1033640</WikiTitleID>
+		<RankerScore>0.5958460666807017</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_modifier</WikiTitle> <WikiTitleID>210058</WikiTitleID> <RankerScore>0.40415393331929833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle> <WikiTitleID>1033640</WikiTitleID> <RankerScore>0.5958460666807017</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>EDMONTON</EntitySurfaceForm>
+	<EntityTextStart>55</EntityTextStart>
+	<EntityTextEnd>63</EntityTextEnd>
+	<LinkerScore>1.2246320364946806</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Edmonton</WikiTitle>
+		<WikiTitleID>95405</WikiTitleID>
+		<RankerScore>0.2611077722802448</RankerScore>
+		<Attributes>city	post	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edmonton</WikiTitle> <WikiTitleID>95405</WikiTitleID> <RankerScore>0.2611077722802448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton,_London</WikiTitle> <WikiTitleID>2140991</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_(provincial_electoral_district)</WikiTitle> <WikiTitleID>1987406</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Oilers</WikiTitle> <WikiTitleID>73129</WikiTitleID> <RankerScore>0.05365455156503728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Eskimos</WikiTitle> <WikiTitleID>242714</WikiTitleID> <RankerScore>0.04088375805571435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton,_Kentucky</WikiTitle> <WikiTitleID>115362</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1829679</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_(electoral_district)</WikiTitle> <WikiTitleID>1787998</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_(N.W.T._electoral_district)</WikiTitle> <WikiTitleID>6321110</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton,_Queensland</WikiTitle> <WikiTitleID>1912511</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Indy</WikiTitle> <WikiTitleID>2735939</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_(hundred)</WikiTitle> <WikiTitleID>10066932</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Rush</WikiTitle> <WikiTitleID>1852059</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_International_Airport</WikiTitle> <WikiTitleID>294590</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Transit_System</WikiTitle> <WikiTitleID>1399712</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edmonton_Trappers</WikiTitle> <WikiTitleID>207101</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_Catholic_Eparchy_of_Edmonton</WikiTitle> <WikiTitleID>5963614</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipal_Borough_of_Edmonton</WikiTitle> <WikiTitleID>2755884</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CKEM-TV</WikiTitle> <WikiTitleID>665214</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglican_Diocese_of_Edmonton</WikiTitle> <WikiTitleID>10785138</WikiTitleID> <RankerScore>0.03790317165288257</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Canada</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>81</EntityTextEnd>
+	<LinkerScore>0.568139913503223</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canada_men&apos;s_national_soccer_team</WikiTitle>
+		<WikiTitleID>723688</WikiTitleID>
+		<RankerScore>0.23354271536228685</RankerScore>
+		<Attributes>men</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Canada</WikiTitle> <WikiTitleID>5042916</WikiTitleID> <RankerScore>0.09467544925569431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>723688</WikiTitleID> <RankerScore>0.23354271536228685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_cricket_team</WikiTitle> <WikiTitleID>1880843</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>744439</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_rugby_union_team</WikiTitle> <WikiTitleID>2221741</WikiTitleID> <RankerScore>0.0685867583591969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_poetry</WikiTitle> <WikiTitleID>236279</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_literature</WikiTitle> <WikiTitleID>64803</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada,_New_France</WikiTitle> <WikiTitleID>1110101</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Canadian_Navy</WikiTitle> <WikiTitleID>293384</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_field_hockey_team</WikiTitle> <WikiTitleID>7135308</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Canada</WikiTitle> <WikiTitleID>2164824</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3384211</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>1818918</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_Canada</WikiTitle> <WikiTitleID>2041201</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>908649</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>5511269</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1329942</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7135890</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_trademark_law</WikiTitle> <WikiTitleID>3114217</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_Masters</WikiTitle> <WikiTitleID>1872219</WikiTitleID> <RankerScore>0.03548206335428364</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Panama</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>93</EntityTextEnd>
+	<LinkerScore>0.5100700273101682</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Panama_national_football_team</WikiTitle>
+		<WikiTitleID>1028241</WikiTitleID>
+		<RankerScore>0.17287972498710416</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Panama</WikiTitle> <WikiTitleID>22997</WikiTitleID> <RankerScore>0.1408165659480536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_national_football_team</WikiTitle> <WikiTitleID>1028241</WikiTitleID> <RankerScore>0.17287972498710416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_invasion_of_Panama</WikiTitle> <WikiTitleID>205550</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_(song)</WikiTitle> <WikiTitleID>4212739</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_Canal</WikiTitle> <WikiTitleID>24849</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_City</WikiTitle> <WikiTitleID>57361</WikiTitleID> <RankerScore>0.05436040360782539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_national_baseball_team</WikiTitle> <WikiTitleID>4289918</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Panamá</WikiTitle> <WikiTitleID>14718757</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_(Prison_Break_episode)</WikiTitle> <WikiTitleID>9452020</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Panama</WikiTitle> <WikiTitleID>23398</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama,_New_York</WikiTitle> <WikiTitleID>126254</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama,_Nebraska</WikiTitle> <WikiTitleID>124049</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama,_Iowa</WikiTitle> <WikiTitleID>114222</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama,_Oklahoma</WikiTitle> <WikiTitleID>130314</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_(cryptography)</WikiTitle> <WikiTitleID>4170789</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_Province</WikiTitle> <WikiTitleID>587048</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ANAPROF</WikiTitle> <WikiTitleID>5126485</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_national_basketball_team</WikiTitle> <WikiTitleID>6626121</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_(album)</WikiTitle> <WikiTitleID>9936582</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panama_Canal_Zone</WikiTitle> <WikiTitleID>315787</WikiTitleID> <RankerScore>0.03717313561511863</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CONCACAF</EntitySurfaceForm>
+	<EntityTextStart>122</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>0.5697477323024105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>CONCACAF</WikiTitle>
+		<WikiTitleID>295167</WikiTitleID>
+		<RankerScore>0.6740968761426793</RankerScore>
+		<Attributes>body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>CONCACAF</WikiTitle> <WikiTitleID>295167</WikiTitleID> <RankerScore>0.6740968761426793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(CONCACAF)</WikiTitle> <WikiTitleID>1041132</WikiTitleID> <RankerScore>0.3259031238573206</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1998</EntitySurfaceForm>
+	<EntityTextStart>172</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>0.5769711314928516</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1998</WikiTitle>
+		<WikiTitleID>34647</WikiTitleID>
+		<RankerScore>0.1259321423490385</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1998</WikiTitle> <WikiTitleID>34647</WikiTitleID> <RankerScore>0.1259321423490385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_film</WikiTitle> <WikiTitleID>169574</WikiTitleID> <RankerScore>0.058591694697296144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_music</WikiTitle> <WikiTitleID>160809</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.08081686451038061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_video_gaming</WikiTitle> <WikiTitleID>1322989</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_literature</WikiTitle> <WikiTitleID>190194</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_sports</WikiTitle> <WikiTitleID>224724</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NFL_season</WikiTitle> <WikiTitleID>2313880</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_baseball</WikiTitle> <WikiTitleID>1822834</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_Winter_Olympics</WikiTitle> <WikiTitleID>113189</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_poetry</WikiTitle> <WikiTitleID>5512977</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1998</WikiTitle> <WikiTitleID>1341453</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_comics</WikiTitle> <WikiTitleID>9438892</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_NASCAR</WikiTitle> <WikiTitleID>11474593</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_1998</WikiTitle> <WikiTitleID>514571</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108342</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_in_aviation</WikiTitle> <WikiTitleID>566633</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997–98_NHL_season</WikiTitle> <WikiTitleID>1903294</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>4286207</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1998</WikiTitle> <WikiTitleID>4669371</WikiTitleID> <RankerScore>0.043215252849604986</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup</EntitySurfaceForm>
+	<EntityTextStart>177</EntityTextStart>
+	<EntityTextEnd>186</EntityTextEnd>
+	<LinkerScore>-0.08097814834586917</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.15446080480724622</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.15446080480724622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.04655314813587318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.14818562837049176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.03828237756978758</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paul Peschisolido</EntitySurfaceForm>
+	<EntityTextStart>239</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>1.0821175461274057</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Paul_Peschisolido</WikiTitle>
+		<WikiTitleID>1773647</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	immigrant	player	footballer	men	manager	comet	coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paul_Peschisolido</WikiTitle> <WikiTitleID>1773647</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

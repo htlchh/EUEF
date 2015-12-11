@@ -1,0 +1,2417 @@
+<WikifierOutput>
+<InputFilename>
+1056testa CRICKET
+</InputFilename>
+<InputText>
+CRICKET- ENGLAND V PAKISTAN ONE-DAY SCOREBOARD.
+BIRMINGHAM, England 1996-08-31
+Scoreboard of the second one-day cricket match between England and Pakistan on Saturday:
+England
+N. Knight st Moin Khan b Saqlain Mushtaq 113
+A. Stewart b Mushtaq Ahmed 46
+M. Atherton lbw b Mushtaq Ahmed 1
+G. Thorpe lbw b Ata-ur-Rehman 21
+M. Maynard run out 1
+R. Irani not out 45
+A. Hollioake run out 15
+D. Gough run out 0
+R. Croft b Waqar Younis 15
+D. Headley not out 3
+Extras( lb-25 w-4 nb-3) 32
+Total( for 8 wickets, innings closed) 292
+Fall: 1-103 2-105 3-163 4-168 5-221 6-257 7-257 8-286.
+Did Not Bat: A. Mullally.
+Bowling: Wasim Akram 10-0-50-0, Waqar Younis 9-0-54-1,
+Ata-ur-Rehman 6-0-40-1, Saqlain Mushtaq 10-0-59-1, Mushtaq Ahmed
+10-0-33-2, Aamir Sohail 5-0-31-0.
+pakistan
+Saeed Anwar c Stewart b Gough 33
+Aamir Sohail c Croft b Gough 0
+Moin Khan lbw b Mullally 0
+Ijaz Ahmed b Croft 79
+Inzamam-ul-Haq c Thorpe b Croft 6
+Salim Malik c Stewart b Hollioake 23
+Wasim Akram c Knight b Hollioake 21
+Mushtaq Ahmed not out 14
+Saqlain Mushtaq b Hollioake 0
+Waqar Younis lbw b Gough 4
+Ata-ur-Rehman c Knight b Hollioake 2
+Extras( lb-2 nb-1) 3
+Total( 37.5 overs) 185
+Fall of wickets: 1-1 2-6 3-54 4-104 5-137 6-164 7-164 8-168
+9-177.
+Bowling: Gough 8-0-39-3, Mullally 6-0-30-1, Headley
+7-0-32-0, Irani 2-0-22-0, Croft 8-0-37-2, Hollioake 6.5-1-23-4.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BIRMINGHAM, England</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>1.0598496970643527</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Birmingham</WikiTitle>
+		<WikiTitleID>13882056</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	district	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Birmingham</WikiTitle> <WikiTitleID>13882056</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BIRMINGHAM</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>1.078595269410348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Birmingham</WikiTitle>
+		<WikiTitleID>13882056</WikiTitleID>
+		<RankerScore>0.16068617230727752</RankerScore>
+		<Attributes>place	district	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Birmingham</WikiTitle> <WikiTitleID>13882056</WikiTitleID> <RankerScore>0.16068617230727752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Alabama</WikiTitle> <WikiTitleID>85427</WikiTitleID> <RankerScore>0.062305914264893375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_City_F.C.</WikiTitle> <WikiTitleID>185196</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_New_Street_station</WikiTitle> <WikiTitleID>209844</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Birmingham</WikiTitle> <WikiTitleID>209935</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Michigan</WikiTitle> <WikiTitleID>118323</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_International_Airport_(United_Kingdom)</WikiTitle> <WikiTitleID>291384</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFS_Classic</WikiTitle> <WikiTitleID>5679953</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6921680</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edgbaston_Cricket_Ground</WikiTitle> <WikiTitleID>2641030</WikiTitleID> <RankerScore>0.057523713250697016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Snow_Hill_station</WikiTitle> <WikiTitleID>209870</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Stallions</WikiTitle> <WikiTitleID>637150</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alabama_Steeldogs</WikiTitle> <WikiTitleID>1060856</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Birmingham</WikiTitle> <WikiTitleID>1864233</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Barracudas</WikiTitle> <WikiTitleID>240310</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Birmingham_Symphony_Orchestra</WikiTitle> <WikiTitleID>148256</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_campaign</WikiTitle> <WikiTitleID>4035351</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Erie_County,_Ohio</WikiTitle> <WikiTitleID>9604917</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_Birmingham</WikiTitle> <WikiTitleID>712033</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_DFS_Classic</WikiTitle> <WikiTitleID>17827075</WikiTitleID> <RankerScore>0.042322600010419535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>60</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>0.10521670909081209</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.17236740078418927</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.17236740078418927</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.13819261623565304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.05017007391092822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.03760411229818997</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>one-day cricket</EntitySurfaceForm>
+	<EntityTextStart>104</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>0.25526517215700995</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_Day_International</WikiTitle>
+		<WikiTitleID>381447</WikiTitleID>
+		<RankerScore>0.5813229035541029</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limited_overs_cricket</WikiTitle> <WikiTitleID>22794</WikiTitleID> <RankerScore>0.41867709644589723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>One_Day_International</WikiTitle> <WikiTitleID>381447</WikiTitleID> <RankerScore>0.5813229035541029</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>one-day</EntitySurfaceForm>
+	<EntityTextStart>104</EntityTextStart>
+	<EntityTextEnd>111</EntityTextEnd>
+	<LinkerScore>0.3692881206156865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_Day_International</WikiTitle>
+		<WikiTitleID>381447</WikiTitleID>
+		<RankerScore>0.4892553992183906</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limited_overs_cricket</WikiTitle> <WikiTitleID>22794</WikiTitleID> <RankerScore>0.2786855806393258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>One_Day_International</WikiTitle> <WikiTitleID>381447</WikiTitleID> <RankerScore>0.4892553992183906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_A_cricket</WikiTitle> <WikiTitleID>683459</WikiTitleID> <RankerScore>0.1645763520023937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friends_Provident_Trophy</WikiTitle> <WikiTitleID>1899702</WikiTitleID> <RankerScore>0.0674826681398899</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cricket</EntitySurfaceForm>
+	<EntityTextStart>112</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>0.3879368093608204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cricket</WikiTitle>
+		<WikiTitleID>39806</WikiTitleID>
+		<RankerScore>0.25235044438334137</RankerScore>
+		<Attributes>game	sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cricket</WikiTitle> <WikiTitleID>39806</WikiTitleID> <RankerScore>0.25235044438334137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_(insect)</WikiTitle> <WikiTitleID>39808</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Test_cricket</WikiTitle> <WikiTitleID>30863</WikiTitleID> <RankerScore>0.18849249573453047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_(darts)</WikiTitle> <WikiTitleID>1155047</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_cricket_team</WikiTitle> <WikiTitleID>374833</WikiTitleID> <RankerScore>0.1086786467013158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_cricket</WikiTitle> <WikiTitleID>2727091</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Umpire_(cricket)</WikiTitle> <WikiTitleID>86701</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blind_cricket</WikiTitle> <WikiTitleID>2461344</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trobriand_Cricket</WikiTitle> <WikiTitleID>15763236</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_in_Scotland</WikiTitle> <WikiTitleID>1330890</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Upperthong_Cricket_Club</WikiTitle> <WikiTitleID>9204477</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Result_(cricket)</WikiTitle> <WikiTitleID>1092645</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_statistics</WikiTitle> <WikiTitleID>648942</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_cricket_team</WikiTitle> <WikiTitleID>478115</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_in_India</WikiTitle> <WikiTitleID>537198</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_at_the_2003_South_Pacific_Games</WikiTitle> <WikiTitleID>13723491</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bermuda_national_cricket_team</WikiTitle> <WikiTitleID>1829476</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_in_Pakistan</WikiTitle> <WikiTitleID>14603845</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_Schools_Association</WikiTitle> <WikiTitleID>3417426</WikiTitleID> <RankerScore>0.026498730187106606</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>134</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>0.6413016644375482</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England_cricket_team</WikiTitle>
+		<WikiTitleID>759125</WikiTitleID>
+		<RankerScore>0.23892393879859866</RankerScore>
+		<Attributes>team	establishment	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.15079811175039437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.0605156724339893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.23892393879859866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.032338957471589276</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pakistan</EntitySurfaceForm>
+	<EntityTextStart>146</EntityTextStart>
+	<EntityTextEnd>154</EntityTextEnd>
+	<LinkerScore>0.47050156383489117</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pakistan_national_cricket_team</WikiTitle>
+		<WikiTitleID>759295</WikiTitleID>
+		<RankerScore>0.23605606060842452</RankerScore>
+		<Attributes>winner	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pakistan</WikiTitle> <WikiTitleID>23235</WikiTitleID> <RankerScore>0.23546522938670716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_cricket_team</WikiTitle> <WikiTitleID>759295</WikiTitleID> <RankerScore>0.23605606060842452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7059054</WikiTitleID> <RankerScore>0.044849968675222444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_field_hockey_team</WikiTitle> <WikiTitleID>6904528</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_football_team</WikiTitle> <WikiTitleID>1302448</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Pakistan</WikiTitle> <WikiTitleID>2164940</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Navy</WikiTitle> <WikiTitleID>1183789</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominion_of_Pakistan</WikiTitle> <WikiTitleID>3662295</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_U-19_cricket_team</WikiTitle> <WikiTitleID>4107070</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Pakistan</WikiTitle> <WikiTitleID>23362</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_rugby_union_team</WikiTitle> <WikiTitleID>10159658</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Air_Force</WikiTitle> <WikiTitleID>377433</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Pakistan</WikiTitle> <WikiTitleID>23368</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Pakistan</WikiTitle> <WikiTitleID>429283</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Pakistan</WikiTitle> <WikiTitleID>23365</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Army</WikiTitle> <WikiTitleID>1965925</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_holidays_in_Pakistan</WikiTitle> <WikiTitleID>843438</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Pakistan</WikiTitle> <WikiTitleID>23369</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_and_weapons_of_mass_destruction</WikiTitle> <WikiTitleID>872930</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Pakistan</WikiTitle> <WikiTitleID>23370</WikiTitleID> <RankerScore>0.028448749489979174</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>175</EntityTextEnd>
+	<LinkerScore>-0.011198923628385822</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.1577102928009074</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.1577102928009074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.059436102352020466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.13648278594207539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.03802181287676452</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>N.</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>178</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>N.</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>story	website</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Knight</EntitySurfaceForm>
+	<EntityTextStart>179</EntityTextStart>
+	<EntityTextEnd>185</EntityTextEnd>
+	<LinkerScore>0.6827741654982464</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knight</WikiTitle>
+		<WikiTitleID>16897</WikiTitleID>
+		<RankerScore>0.09670373628484047</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knight</WikiTitle> <WikiTitleID>16897</WikiTitleID> <RankerScore>0.09670373628484047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knights_of_the_Round_Table</WikiTitle> <WikiTitleID>352012</WikiTitleID> <RankerScore>0.047175151289001564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(chess)</WikiTitle> <WikiTitleID>47619</WikiTitleID> <RankerScore>0.05525126170173028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridder_(title)</WikiTitle> <WikiTitleID>13458331</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Engine</WikiTitle> <WikiTitleID>4069165</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curt_Knight</WikiTitle> <WikiTitleID>9157400</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Knight&apos;s_Tale</WikiTitle> <WikiTitleID>404176</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Knight_(folk_musician)</WikiTitle> <WikiTitleID>1571868</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Ridder</WikiTitle> <WikiTitleID>550063</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Bachelor</WikiTitle> <WikiTitleID>390067</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warrior_(character_class)</WikiTitle> <WikiTitleID>440178</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(comics)</WikiTitle> <WikiTitleID>4053339</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_orders_of_merit</WikiTitle> <WikiTitleID>889524</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nick_Knight</WikiTitle> <WikiTitleID>994718</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_S._and_James_L._Knight_Foundation</WikiTitle> <WikiTitleID>3733548</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Inlet</WikiTitle> <WikiTitleID>3112882</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holly_Knight</WikiTitle> <WikiTitleID>2374422</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portrait_of_a_Knight_(Carpaccio)</WikiTitle> <WikiTitleID>11775611</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Reservoir</WikiTitle> <WikiTitleID>10226055</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_R._Knight</WikiTitle> <WikiTitleID>8260119</WikiTitleID> <RankerScore>0.04710999121908398</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moin</EntitySurfaceForm>
+	<EntityTextStart>189</EntityTextStart>
+	<EntityTextEnd>193</EntityTextEnd>
+	<LinkerScore>1.0115848249301913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moin</WikiTitle>
+		<WikiTitleID>88761</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moin</WikiTitle> <WikiTitleID>88761</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moin Khan</EntitySurfaceForm>
+	<EntityTextStart>189</EntityTextStart>
+	<EntityTextEnd>198</EntityTextEnd>
+	<LinkerScore>1.286158662462417</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moin_Khan</WikiTitle>
+		<WikiTitleID>554132</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person	captain	airline	coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moin_Khan</WikiTitle> <WikiTitleID>554132</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Khan</EntitySurfaceForm>
+	<EntityTextStart>194</EntityTextStart>
+	<EntityTextEnd>198</EntityTextEnd>
+	<LinkerScore>0.04527860241088147</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Khan_(title)</WikiTitle>
+		<WikiTitleID>185015</WikiTitleID>
+		<RankerScore>0.12390944117913265</RankerScore>
+		<Attributes>title	rank	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Khan_(title)</WikiTitle> <WikiTitleID>185015</WikiTitleID> <RankerScore>0.12390944117913265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(band)</WikiTitle> <WikiTitleID>14035124</WikiTitleID> <RankerScore>0.061952589537487834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(name)</WikiTitle> <WikiTitleID>3981192</WikiTitleID> <RankerScore>0.08225881327199416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(comics)</WikiTitle> <WikiTitleID>1882432</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_Noonien_Singh</WikiTitle> <WikiTitleID>293108</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Crimean_khans</WikiTitle> <WikiTitleID>1374739</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Cambodia</WikiTitle> <WikiTitleID>15745082</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nusrat_Fateh_Ali_Khan</WikiTitle> <WikiTitleID>95410</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genghis_Khan</WikiTitle> <WikiTitleID>17414699</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rahat_Nusrat_Fateh_Ali_Khan</WikiTitle> <WikiTitleID>1876694</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kublai_Khan</WikiTitle> <WikiTitleID>195112</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Kazan_khans</WikiTitle> <WikiTitleID>977010</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Praga_Khan</WikiTitle> <WikiTitleID>1319368</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amjad_Khan_(cricketer)</WikiTitle> <WikiTitleID>3536011</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Langley-Khan</WikiTitle> <WikiTitleID>2793319</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jahangir_Khan</WikiTitle> <WikiTitleID>1057856</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zaheer_Khan</WikiTitle> <WikiTitleID>679977</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Bulgarian_monarchs</WikiTitle> <WikiTitleID>61814</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caravanserai</WikiTitle> <WikiTitleID>562136</WikiTitleID> <RankerScore>0.045742447250711596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain</EntitySurfaceForm>
+	<EntityTextStart>201</EntityTextStart>
+	<EntityTextEnd>208</EntityTextEnd>
+	<LinkerScore>1.1072154373042593</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>201</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>1.2020687782854191</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>1.0084109963956684</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.7301966146342949</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.7301966146342949</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.2698033853657053</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>A. Stewart</EntitySurfaceForm>
+	<EntityTextStart>221</EntityTextStart>
+	<EntityTextEnd>231</EntityTextEnd>
+	<LinkerScore>0.8634309783792841</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Stewart</WikiTitle>
+		<WikiTitleID>292988</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>singer	person	expatriate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Al_Stewart</WikiTitle> <WikiTitleID>292988</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>241</EntityTextEnd>
+	<LinkerScore>1.039163865233496</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.7496913990004465</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.7496913990004465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.2503086009995536</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq Ahmed</EntitySurfaceForm>
+	<EntityTextStart>234</EntityTextStart>
+	<EntityTextEnd>247</EntityTextEnd>
+	<LinkerScore>1.1337128679851576</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Atherton</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.6753678128708447</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Atherton</WikiTitle>
+		<WikiTitleID>159024</WikiTitleID>
+		<RankerScore>0.22855225356116649</RankerScore>
+		<Attributes>commentator	person	officer	broadcaster	cricketer	captain	mancunian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atherton,_California</WikiTitle> <WikiTitleID>108100</WikiTitleID> <RankerScore>0.1473086725882611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atherton,_Queensland</WikiTitle> <WikiTitleID>1645275</WikiTitleID> <RankerScore>0.13117450060217978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atherton,_Greater_Manchester</WikiTitle> <WikiTitleID>1646744</WikiTitleID> <RankerScore>0.09859291464967852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atherton_railway_station</WikiTitle> <WikiTitleID>4547425</WikiTitleID> <RankerScore>0.09859291464967852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mike_Atherton</WikiTitle> <WikiTitleID>159024</WikiTitleID> <RankerScore>0.22855225356116649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norfolk_County,_Ontario</WikiTitle> <WikiTitleID>406723</WikiTitleID> <RankerScore>0.09859291464967852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_G._Atherton</WikiTitle> <WikiTitleID>3551009</WikiTitleID> <RankerScore>0.09859291464967852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jackson_County,_Missouri</WikiTitle> <WikiTitleID>94633</WikiTitleID> <RankerScore>0.09859291464967852</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lbw</EntitySurfaceForm>
+	<EntityTextStart>263</EntityTextStart>
+	<EntityTextEnd>266</EntityTextEnd>
+	<LinkerScore>0.9620625456829585</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leg_before_wicket</WikiTitle>
+		<WikiTitleID>286694</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leg_before_wicket</WikiTitle> <WikiTitleID>286694</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq Ahmed</EntitySurfaceForm>
+	<EntityTextStart>269</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>1.141970502534885</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>269</EntityTextStart>
+	<EntityTextEnd>276</EntityTextEnd>
+	<LinkerScore>1.1947044660274493</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.794970732111238</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.794970732111238</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.20502926788876205</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thorpe</EntitySurfaceForm>
+	<EntityTextStart>288</EntityTextStart>
+	<EntityTextEnd>294</EntityTextEnd>
+	<LinkerScore>0.8684955134128975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Graham_Thorpe</WikiTitle>
+		<WikiTitleID>397259</WikiTitleID>
+		<RankerScore>0.17357396755462495</RankerScore>
+		<Attributes>person	cricketer	member	coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thorpe,_Surrey</WikiTitle> <WikiTitleID>6558424</WikiTitleID> <RankerScore>0.09048814509902829</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_Derbyshire</WikiTitle> <WikiTitleID>4971725</WikiTitleID> <RankerScore>0.09098867588921532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_Nottinghamshire</WikiTitle> <WikiTitleID>8215086</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe_rail_accident</WikiTitle> <WikiTitleID>5333187</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_East_Riding_of_Yorkshire</WikiTitle> <WikiTitleID>9023076</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Graham_Thorpe</WikiTitle> <WikiTitleID>397259</WikiTitleID> <RankerScore>0.17357396755462495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Thorpe</WikiTitle> <WikiTitleID>147429</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rick_Thorpe</WikiTitle> <WikiTitleID>10357069</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_North_Yorkshire</WikiTitle> <WikiTitleID>8113340</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benjamin_Thorpe</WikiTitle> <WikiTitleID>204068</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Homan_Thorpe</WikiTitle> <WikiTitleID>3826983</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loyalist,_Ontario</WikiTitle> <WikiTitleID>730930</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Thorpe_Award</WikiTitle> <WikiTitleID>421598</WikiTitleID> <RankerScore>0.06449492114571315</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lbw</EntitySurfaceForm>
+	<EntityTextStart>295</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>0.9750692883256536</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leg_before_wicket</WikiTitle>
+		<WikiTitleID>286694</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leg_before_wicket</WikiTitle> <WikiTitleID>286694</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ata-ur-Rehman</EntitySurfaceForm>
+	<EntityTextStart>301</EntityTextStart>
+	<EntityTextEnd>314</EntityTextEnd>
+	<LinkerScore>1.0157109519070278</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ata-ur-Rehman</WikiTitle>
+		<WikiTitleID>3976751</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ata-ur-Rehman</WikiTitle> <WikiTitleID>3976751</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Maynard</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>328</EntityTextEnd>
+	<LinkerScore>0.12791394855129154</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Maynard,_Massachusetts</WikiTitle>
+		<WikiTitleID>257281</WikiTitleID>
+		<RankerScore>0.18083494921157128</RankerScore>
+		<Attributes>center</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Maynard,_Massachusetts</WikiTitle> <WikiTitleID>257281</WikiTitleID> <RankerScore>0.18083494921157128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maynard,_Iowa</WikiTitle> <WikiTitleID>113775</WikiTitleID> <RankerScore>0.12931694603687988</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maynard_Solomon</WikiTitle> <WikiTitleID>4807501</WikiTitleID> <RankerScore>0.09519051846616754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maynard,_Minnesota</WikiTitle> <WikiTitleID>119710</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maynard_G._Krebs</WikiTitle> <WikiTitleID>1847514</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maynard,_Ohio</WikiTitle> <WikiTitleID>9617831</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Maynard_Keynes</WikiTitle> <WikiTitleID>37973</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_Johnson_Maynard</WikiTitle> <WikiTitleID>12036146</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Augusta,_Ontario</WikiTitle> <WikiTitleID>2061361</WikiTitleID> <RankerScore>0.09910959771423021</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Irani</EntitySurfaceForm>
+	<EntityTextStart>342</EntityTextStart>
+	<EntityTextEnd>347</EntityTextEnd>
+	<LinkerScore>0.24497299421563287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gough</EntitySurfaceForm>
+	<EntityTextStart>386</EntityTextStart>
+	<EntityTextEnd>391</EntityTextEnd>
+	<LinkerScore>-0.13384357128466676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electoral_district_of_Gough</WikiTitle>
+		<WikiTitleID>10456924</WikiTitleID>
+		<RankerScore>0.23855662699098984</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Gough</WikiTitle> <WikiTitleID>10456924</WikiTitleID> <RankerScore>0.23855662699098984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough_(footballer)</WikiTitle> <WikiTitleID>1017476</WikiTitleID> <RankerScore>0.15791582342392158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_Island</WikiTitle> <WikiTitleID>1136465</WikiTitleID> <RankerScore>0.15165113628449317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubert_Gough</WikiTitle> <WikiTitleID>889200</WikiTitleID> <RankerScore>0.15062547110019844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_County,_New_South_Wales</WikiTitle> <WikiTitleID>10321103</WikiTitleID> <RankerScore>0.15062547110019844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough</WikiTitle> <WikiTitleID>1136110</WikiTitleID> <RankerScore>0.15062547110019844</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Croft</EntitySurfaceForm>
+	<EntityTextStart>405</EntityTextStart>
+	<EntityTextEnd>410</EntityTextEnd>
+	<LinkerScore>-0.330614092623671</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Croft,_Cheshire</WikiTitle>
+		<WikiTitleID>350859</WikiTitleID>
+		<RankerScore>0.17994908559017248</RankerScore>
+		<Attributes>village	parish</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Croft_Circuit</WikiTitle> <WikiTitleID>3606322</WikiTitleID> <RankerScore>0.16801510379781015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Leicestershire</WikiTitle> <WikiTitleID>909803</WikiTitleID> <RankerScore>0.1783881595900992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Cheshire</WikiTitle> <WikiTitleID>350859</WikiTitleID> <RankerScore>0.17994908559017248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft_(land)</WikiTitle> <WikiTitleID>2128025</WikiTitleID> <RankerScore>0.11841191275547953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Croft</WikiTitle> <WikiTitleID>5894686</WikiTitleID> <RankerScore>0.11841191275547953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft-on-Tees</WikiTitle> <WikiTitleID>5362321</WikiTitleID> <RankerScore>0.11841191275547953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Croft_(linguist)</WikiTitle> <WikiTitleID>2493495</WikiTitleID> <RankerScore>0.11841191275547953</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Waqar Younis</EntitySurfaceForm>
+	<EntityTextStart>413</EntityTextStart>
+	<EntityTextEnd>425</EntityTextEnd>
+	<LinkerScore>1.2101512844798739</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Waqar_Younis</WikiTitle>
+		<WikiTitleID>894433</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>captain	cricketer	person	alumnus	muslim	immigrant	commentator	expatriate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Waqar_Younis</WikiTitle> <WikiTitleID>894433</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Headley</EntitySurfaceForm>
+	<EntityTextStart>432</EntityTextStart>
+	<EntityTextEnd>439</EntityTextEnd>
+	<LinkerScore>-0.2054889994913143</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Headley,_East_Hampshire</WikiTitle>
+		<WikiTitleID>1450471</WikiTitleID>
+		<RankerScore>0.34312863453774134</RankerScore>
+		<Attributes>village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Headley,_Surrey</WikiTitle> <WikiTitleID>3983194</WikiTitleID> <RankerScore>0.3334533220133337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headley,_East_Hampshire</WikiTitle> <WikiTitleID>1450471</WikiTitleID> <RankerScore>0.34312863453774134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headley,_Basingstoke_and_Deane</WikiTitle> <WikiTitleID>15641383</WikiTitleID> <RankerScore>0.32341804344892483</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>innings</EntitySurfaceForm>
+	<EntityTextStart>499</EntityTextStart>
+	<EntityTextEnd>506</EntityTextEnd>
+	<LinkerScore>1.3389983073145573</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Innings</WikiTitle>
+		<WikiTitleID>463032</WikiTitleID>
+		<RankerScore>0.8693341078671879</RankerScore>
+		<Attributes>rule	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Innings</WikiTitle> <WikiTitleID>463032</WikiTitleID> <RankerScore>0.8693341078671879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Innings_pitched</WikiTitle> <WikiTitleID>300758</WikiTitleID> <RankerScore>0.1306658921328121</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>292</EntitySurfaceForm>
+	<EntityTextStart>515</EntityTextStart>
+	<EntityTextEnd>518</EntityTextEnd>
+	<LinkerScore>-0.012176283671077925</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>292</WikiTitle>
+		<WikiTitleID>43735</WikiTitleID>
+		<RankerScore>0.19150103426103662</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>292</WikiTitle> <WikiTitleID>43735</WikiTitleID> <RankerScore>0.19150103426103662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_State_Route_292</WikiTitle> <WikiTitleID>15151429</WikiTitleID> <RankerScore>0.1338769769773156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milton_No._292,_Saskatchewan</WikiTitle> <WikiTitleID>8572000</WikiTitleID> <RankerScore>0.1271108904934707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>292_BC</WikiTitle> <WikiTitleID>77150</WikiTitleID> <RankerScore>0.10950221965363541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_292</WikiTitle> <WikiTitleID>3262317</WikiTitleID> <RankerScore>0.10950221965363541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_numbered_highways_in_Ohio</WikiTitle> <WikiTitleID>716390</WikiTitleID> <RankerScore>0.10950221965363541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>290_(number)</WikiTitle> <WikiTitleID>5495129</WikiTitleID> <RankerScore>0.10950221965363541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_292</WikiTitle> <WikiTitleID>10902850</WikiTitleID> <RankerScore>0.10950221965363541</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wasim Akram</EntitySurfaceForm>
+	<EntityTextStart>609</EntityTextStart>
+	<EntityTextEnd>620</EntityTextEnd>
+	<LinkerScore>1.2982966800645779</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wasim_Akram</WikiTitle>
+		<WikiTitleID>501393</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person	muslim	airline	captain	commentator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wasim_Akram</WikiTitle> <WikiTitleID>501393</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Waqar Younis</EntitySurfaceForm>
+	<EntityTextStart>632</EntityTextStart>
+	<EntityTextEnd>644</EntityTextEnd>
+	<LinkerScore>1.293093944254266</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Waqar_Younis</WikiTitle>
+		<WikiTitleID>894433</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>captain	cricketer	person	alumnus	muslim	immigrant	commentator	expatriate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Waqar_Younis</WikiTitle> <WikiTitleID>894433</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ata-ur-Rehman</EntitySurfaceForm>
+	<EntityTextStart>655</EntityTextStart>
+	<EntityTextEnd>668</EntityTextEnd>
+	<LinkerScore>1.0242114763536123</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ata-ur-Rehman</WikiTitle>
+		<WikiTitleID>3976751</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ata-ur-Rehman</WikiTitle> <WikiTitleID>3976751</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain</EntitySurfaceForm>
+	<EntityTextStart>679</EntityTextStart>
+	<EntityTextEnd>686</EntityTextEnd>
+	<LinkerScore>1.1495530373212022</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>679</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>1.2810863321873198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>687</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>1.2886496154254647</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.8209008144873855</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.8209008144873855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.17909918551261444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq Ahmed</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>719</EntityTextEnd>
+	<LinkerScore>1.1222847804628364</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>713</EntityTextEnd>
+	<LinkerScore>1.1658262105984898</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.7868042091421045</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.7868042091421045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.21319579085789547</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aamir Sohail</EntitySurfaceForm>
+	<EntityTextStart>731</EntityTextStart>
+	<EntityTextEnd>743</EntityTextEnd>
+	<LinkerScore>1.0571957954475812</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aamer_Sohail</WikiTitle>
+		<WikiTitleID>1436501</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	commentator	captain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aamer_Sohail</WikiTitle> <WikiTitleID>1436501</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pakistan</EntitySurfaceForm>
+	<EntityTextStart>754</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>1.1384477235134747</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pakistan</WikiTitle>
+		<WikiTitleID>23235</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state	member	colony	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pakistan</WikiTitle> <WikiTitleID>23235</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saeed Anwar</EntitySurfaceForm>
+	<EntityTextStart>763</EntityTextStart>
+	<EntityTextEnd>774</EntityTextEnd>
+	<LinkerScore>1.297298611602926</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saeed_Anwar</WikiTitle>
+		<WikiTitleID>894437</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	muslim	captain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saeed_Anwar</WikiTitle> <WikiTitleID>894437</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Anwar</EntitySurfaceForm>
+	<EntityTextStart>769</EntityTextStart>
+	<EntityTextEnd>774</EntityTextEnd>
+	<LinkerScore>0.6176490946317105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anwar_(film)</WikiTitle>
+		<WikiTitleID>13787271</WikiTitleID>
+		<RankerScore>0.43213973229070357</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anwar_(film)</WikiTitle> <WikiTitleID>13787271</WikiTitleID> <RankerScore>0.43213973229070357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anwar_(singer)</WikiTitle> <WikiTitleID>6589765</WikiTitleID> <RankerScore>0.22530619964022489</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anwar_Kharral</WikiTitle> <WikiTitleID>9799476</WikiTitleID> <RankerScore>0.17698488502750306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anwar_Ibrahim</WikiTitle> <WikiTitleID>348091</WikiTitleID> <RankerScore>0.16556918304156856</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gough</EntitySurfaceForm>
+	<EntityTextStart>787</EntityTextStart>
+	<EntityTextEnd>792</EntityTextEnd>
+	<LinkerScore>-0.12315782423450124</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electoral_district_of_Gough</WikiTitle>
+		<WikiTitleID>10456924</WikiTitleID>
+		<RankerScore>0.2339421432151362</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Gough</WikiTitle> <WikiTitleID>10456924</WikiTitleID> <RankerScore>0.2339421432151362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough_(footballer)</WikiTitle> <WikiTitleID>1017476</WikiTitleID> <RankerScore>0.14771431193957765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_Island</WikiTitle> <WikiTitleID>1136465</WikiTitleID> <RankerScore>0.1661451952543237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubert_Gough</WikiTitle> <WikiTitleID>889200</WikiTitleID> <RankerScore>0.15676972571180722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_County,_New_South_Wales</WikiTitle> <WikiTitleID>10321103</WikiTitleID> <RankerScore>0.14771431193957765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough</WikiTitle> <WikiTitleID>1136110</WikiTitleID> <RankerScore>0.14771431193957765</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aamir Sohail</EntitySurfaceForm>
+	<EntityTextStart>796</EntityTextStart>
+	<EntityTextEnd>808</EntityTextEnd>
+	<LinkerScore>1.0823155476760888</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aamer_Sohail</WikiTitle>
+		<WikiTitleID>1436501</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	commentator	captain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aamer_Sohail</WikiTitle> <WikiTitleID>1436501</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sohail</EntitySurfaceForm>
+	<EntityTextStart>802</EntityTextStart>
+	<EntityTextEnd>808</EntityTextEnd>
+	<LinkerScore>0.9487618212872858</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sohail_Khan</WikiTitle>
+		<WikiTitleID>2452450</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>director	parameter	actor	person	producer	screenwriter	muslim</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sohail_Khan</WikiTitle> <WikiTitleID>2452450</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Croft</EntitySurfaceForm>
+	<EntityTextStart>811</EntityTextStart>
+	<EntityTextEnd>816</EntityTextEnd>
+	<LinkerScore>0.08870894425449083</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Croft,_Leicestershire</WikiTitle>
+		<WikiTitleID>909803</WikiTitleID>
+		<RankerScore>0.18295921110017108</RankerScore>
+		<Attributes>parish	village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Croft_Circuit</WikiTitle> <WikiTitleID>3606322</WikiTitleID> <RankerScore>0.17229547218780042</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Leicestershire</WikiTitle> <WikiTitleID>909803</WikiTitleID> <RankerScore>0.18295921110017108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Cheshire</WikiTitle> <WikiTitleID>350859</WikiTitleID> <RankerScore>0.17726974429068657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft_(land)</WikiTitle> <WikiTitleID>2128025</WikiTitleID> <RankerScore>0.11686889310533549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Croft</WikiTitle> <WikiTitleID>5894686</WikiTitleID> <RankerScore>0.11686889310533549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft-on-Tees</WikiTitle> <WikiTitleID>5362321</WikiTitleID> <RankerScore>0.11686889310533549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Croft_(linguist)</WikiTitle> <WikiTitleID>2493495</WikiTitleID> <RankerScore>0.11686889310533549</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gough</EntitySurfaceForm>
+	<EntityTextStart>819</EntityTextStart>
+	<EntityTextEnd>824</EntityTextEnd>
+	<LinkerScore>-0.11238102295519943</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electoral_district_of_Gough</WikiTitle>
+		<WikiTitleID>10456924</WikiTitleID>
+		<RankerScore>0.23480986440774002</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Gough</WikiTitle> <WikiTitleID>10456924</WikiTitleID> <RankerScore>0.23480986440774002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough_(footballer)</WikiTitle> <WikiTitleID>1017476</WikiTitleID> <RankerScore>0.14826185554863364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_Island</WikiTitle> <WikiTitleID>1136465</WikiTitleID> <RankerScore>0.16454808670229804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubert_Gough</WikiTitle> <WikiTitleID>889200</WikiTitleID> <RankerScore>0.15585648224406104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_County,_New_South_Wales</WikiTitle> <WikiTitleID>10321103</WikiTitleID> <RankerScore>0.14826185554863364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough</WikiTitle> <WikiTitleID>1136110</WikiTitleID> <RankerScore>0.14826185554863364</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moin Khan</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>836</EntityTextEnd>
+	<LinkerScore>1.2562000714335595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moin_Khan</WikiTitle>
+		<WikiTitleID>554132</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person	captain	airline	coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moin_Khan</WikiTitle> <WikiTitleID>554132</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moin</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>831</EntityTextEnd>
+	<LinkerScore>1.008512916214754</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moin</WikiTitle>
+		<WikiTitleID>88761</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moin</WikiTitle> <WikiTitleID>88761</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Khan</EntitySurfaceForm>
+	<EntityTextStart>832</EntityTextStart>
+	<EntityTextEnd>836</EntityTextEnd>
+	<LinkerScore>0.11206151953579643</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Khan_(title)</WikiTitle>
+		<WikiTitleID>185015</WikiTitleID>
+		<RankerScore>0.12497366453943773</RankerScore>
+		<Attributes>title	rank	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Khan_(title)</WikiTitle> <WikiTitleID>185015</WikiTitleID> <RankerScore>0.12497366453943773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(band)</WikiTitle> <WikiTitleID>14035124</WikiTitleID> <RankerScore>0.06018090816008976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(name)</WikiTitle> <WikiTitleID>3981192</WikiTitleID> <RankerScore>0.08129888141787837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_(comics)</WikiTitle> <WikiTitleID>1882432</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khan_Noonien_Singh</WikiTitle> <WikiTitleID>293108</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Crimean_khans</WikiTitle> <WikiTitleID>1374739</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Cambodia</WikiTitle> <WikiTitleID>15745082</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nusrat_Fateh_Ali_Khan</WikiTitle> <WikiTitleID>95410</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genghis_Khan</WikiTitle> <WikiTitleID>17414699</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rahat_Nusrat_Fateh_Ali_Khan</WikiTitle> <WikiTitleID>1876694</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kublai_Khan</WikiTitle> <WikiTitleID>195112</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Kazan_khans</WikiTitle> <WikiTitleID>977010</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Praga_Khan</WikiTitle> <WikiTitleID>1319368</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amjad_Khan_(cricketer)</WikiTitle> <WikiTitleID>3536011</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Langley-Khan</WikiTitle> <WikiTitleID>2793319</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jahangir_Khan</WikiTitle> <WikiTitleID>1057856</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zaheer_Khan</WikiTitle> <WikiTitleID>679977</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Bulgarian_monarchs</WikiTitle> <WikiTitleID>61814</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caravanserai</WikiTitle> <WikiTitleID>562136</WikiTitleID> <RankerScore>0.04584665911766213</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lbw</EntitySurfaceForm>
+	<EntityTextStart>837</EntityTextStart>
+	<EntityTextEnd>840</EntityTextEnd>
+	<LinkerScore>0.9475246167404184</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leg_before_wicket</WikiTitle>
+		<WikiTitleID>286694</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leg_before_wicket</WikiTitle> <WikiTitleID>286694</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mullally</EntitySurfaceForm>
+	<EntityTextStart>843</EntityTextStart>
+	<EntityTextEnd>851</EntityTextEnd>
+	<LinkerScore>0.9569419299950833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mullally_Township,_Harlan_County,_Nebraska</WikiTitle>
+		<WikiTitleID>15963981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mullally_Township,_Harlan_County,_Nebraska</WikiTitle> <WikiTitleID>15963981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ijaz Ahmed</EntitySurfaceForm>
+	<EntityTextStart>854</EntityTextStart>
+	<EntityTextEnd>864</EntityTextEnd>
+	<LinkerScore>1.0722344791691762</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ijaz_Ahmed_(cricketer)</WikiTitle>
+		<WikiTitleID>938863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ijaz_Ahmed_(cricketer)</WikiTitle> <WikiTitleID>938863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Croft</EntitySurfaceForm>
+	<EntityTextStart>867</EntityTextStart>
+	<EntityTextEnd>872</EntityTextEnd>
+	<LinkerScore>0.020444372496192964</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Croft,_Leicestershire</WikiTitle>
+		<WikiTitleID>909803</WikiTitleID>
+		<RankerScore>0.18922127056335966</RankerScore>
+		<Attributes>parish	village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Croft_Circuit</WikiTitle> <WikiTitleID>3606322</WikiTitleID> <RankerScore>0.17814472331969985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Leicestershire</WikiTitle> <WikiTitleID>909803</WikiTitleID> <RankerScore>0.18922127056335966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Cheshire</WikiTitle> <WikiTitleID>350859</WikiTitleID> <RankerScore>0.17385934438212486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft_(land)</WikiTitle> <WikiTitleID>2128025</WikiTitleID> <RankerScore>0.11469366543370393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Croft</WikiTitle> <WikiTitleID>5894686</WikiTitleID> <RankerScore>0.11469366543370393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft-on-Tees</WikiTitle> <WikiTitleID>5362321</WikiTitleID> <RankerScore>0.11469366543370393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Croft_(linguist)</WikiTitle> <WikiTitleID>2493495</WikiTitleID> <RankerScore>0.11469366543370393</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Inzamam-ul-Haq</EntitySurfaceForm>
+	<EntityTextStart>876</EntityTextStart>
+	<EntityTextEnd>890</EntityTextEnd>
+	<LinkerScore>1.2361187960897546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inzamam-ul-Haq</WikiTitle>
+		<WikiTitleID>896403</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	captain	muslim</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inzamam-ul-Haq</WikiTitle> <WikiTitleID>896403</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thorpe</EntitySurfaceForm>
+	<EntityTextStart>893</EntityTextStart>
+	<EntityTextEnd>899</EntityTextEnd>
+	<LinkerScore>0.4958248543640161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Graham_Thorpe</WikiTitle>
+		<WikiTitleID>397259</WikiTitleID>
+		<RankerScore>0.11435748634022361</RankerScore>
+		<Attributes>person	cricketer	member	coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thorpe,_Surrey</WikiTitle> <WikiTitleID>6558424</WikiTitleID> <RankerScore>0.09688391000156936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_Derbyshire</WikiTitle> <WikiTitleID>4971725</WikiTitleID> <RankerScore>0.09751923657833254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_Nottinghamshire</WikiTitle> <WikiTitleID>8215086</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe_rail_accident</WikiTitle> <WikiTitleID>5333187</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_East_Riding_of_Yorkshire</WikiTitle> <WikiTitleID>9023076</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Graham_Thorpe</WikiTitle> <WikiTitleID>397259</WikiTitleID> <RankerScore>0.11435748634022361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ian_Thorpe</WikiTitle> <WikiTitleID>147429</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rick_Thorpe</WikiTitle> <WikiTitleID>10357069</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thorpe,_North_Yorkshire</WikiTitle> <WikiTitleID>8113340</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benjamin_Thorpe</WikiTitle> <WikiTitleID>204068</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Homan_Thorpe</WikiTitle> <WikiTitleID>3826983</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loyalist,_Ontario</WikiTitle> <WikiTitleID>730930</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jim_Thorpe_Award</WikiTitle> <WikiTitleID>421598</WikiTitleID> <RankerScore>0.06912393670798744</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Croft</EntitySurfaceForm>
+	<EntityTextStart>902</EntityTextStart>
+	<EntityTextEnd>907</EntityTextEnd>
+	<LinkerScore>0.01855193153204515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Croft,_Leicestershire</WikiTitle>
+		<WikiTitleID>909803</WikiTitleID>
+		<RankerScore>0.1910917760324542</RankerScore>
+		<Attributes>parish	village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Croft_Circuit</WikiTitle> <WikiTitleID>3606322</WikiTitleID> <RankerScore>0.17988989290356294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Leicestershire</WikiTitle> <WikiTitleID>909803</WikiTitleID> <RankerScore>0.1910917760324542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Cheshire</WikiTitle> <WikiTitleID>350859</WikiTitleID> <RankerScore>0.17284350199176804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft_(land)</WikiTitle> <WikiTitleID>2128025</WikiTitleID> <RankerScore>0.1140437072680537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Croft</WikiTitle> <WikiTitleID>5894686</WikiTitleID> <RankerScore>0.1140437072680537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft-on-Tees</WikiTitle> <WikiTitleID>5362321</WikiTitleID> <RankerScore>0.1140437072680537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Croft_(linguist)</WikiTitle> <WikiTitleID>2493495</WikiTitleID> <RankerScore>0.1140437072680537</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Salim Malik</EntitySurfaceForm>
+	<EntityTextStart>910</EntityTextStart>
+	<EntityTextEnd>921</EntityTextEnd>
+	<LinkerScore>1.2115627408117293</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saleem_Malik</WikiTitle>
+		<WikiTitleID>938861</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	captain	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saleem_Malik</WikiTitle> <WikiTitleID>938861</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Malik</EntitySurfaceForm>
+	<EntityTextStart>916</EntityTextStart>
+	<EntityTextEnd>921</EntityTextEnd>
+	<LinkerScore>0.7570734095739711</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Malik</WikiTitle>
+		<WikiTitleID>408339</WikiTitleID>
+		<RankerScore>0.41256587920525456</RankerScore>
+		<Attributes>title	rank	names</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Malik</WikiTitle> <WikiTitleID>408339</WikiTitleID> <RankerScore>0.41256587920525456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nadeem_Malik</WikiTitle> <WikiTitleID>2650248</WikiTitleID> <RankerScore>0.14997975182324486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malik_ibn_Anas</WikiTitle> <WikiTitleID>272081</WikiTitleID> <RankerScore>0.15336640826076908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abd_al_Malik_(rapper)</WikiTitle> <WikiTitleID>12188154</WikiTitleID> <RankerScore>0.14204398035536572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marik_Ishtar</WikiTitle> <WikiTitleID>861432</WikiTitleID> <RankerScore>0.14204398035536572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wasim Akram</EntitySurfaceForm>
+	<EntityTextStart>947</EntityTextStart>
+	<EntityTextEnd>958</EntityTextEnd>
+	<LinkerScore>1.290723246795858</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wasim_Akram</WikiTitle>
+		<WikiTitleID>501393</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person	muslim	airline	captain	commentator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wasim_Akram</WikiTitle> <WikiTitleID>501393</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Knight</EntitySurfaceForm>
+	<EntityTextStart>961</EntityTextStart>
+	<EntityTextEnd>967</EntityTextEnd>
+	<LinkerScore>0.2795044750560697</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knight</WikiTitle>
+		<WikiTitleID>16897</WikiTitleID>
+		<RankerScore>0.0917504031678026</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knight</WikiTitle> <WikiTitleID>16897</WikiTitleID> <RankerScore>0.0917504031678026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knights_of_the_Round_Table</WikiTitle> <WikiTitleID>352012</WikiTitleID> <RankerScore>0.04742093609975589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(chess)</WikiTitle> <WikiTitleID>47619</WikiTitleID> <RankerScore>0.055818121055341424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridder_(title)</WikiTitle> <WikiTitleID>13458331</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Engine</WikiTitle> <WikiTitleID>4069165</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curt_Knight</WikiTitle> <WikiTitleID>9157400</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Knight&apos;s_Tale</WikiTitle> <WikiTitleID>404176</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Knight_(folk_musician)</WikiTitle> <WikiTitleID>1571868</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Ridder</WikiTitle> <WikiTitleID>550063</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Bachelor</WikiTitle> <WikiTitleID>390067</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warrior_(character_class)</WikiTitle> <WikiTitleID>440178</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(comics)</WikiTitle> <WikiTitleID>4053339</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_orders_of_merit</WikiTitle> <WikiTitleID>889524</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nick_Knight</WikiTitle> <WikiTitleID>994718</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_S._and_James_L._Knight_Foundation</WikiTitle> <WikiTitleID>3733548</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Inlet</WikiTitle> <WikiTitleID>3112882</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holly_Knight</WikiTitle> <WikiTitleID>2374422</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portrait_of_a_Knight_(Carpaccio)</WikiTitle> <WikiTitleID>11775611</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Reservoir</WikiTitle> <WikiTitleID>10226055</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_R._Knight</WikiTitle> <WikiTitleID>8260119</WikiTitleID> <RankerScore>0.04735356115747648</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>983</EntityTextStart>
+	<EntityTextEnd>990</EntityTextEnd>
+	<LinkerScore>1.3182693361697324</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.8317290508334907</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.8317290508334907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.16827094916650928</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq Ahmed</EntitySurfaceForm>
+	<EntityTextStart>983</EntityTextStart>
+	<EntityTextEnd>996</EntityTextEnd>
+	<LinkerScore>1.207534395711671</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain</EntitySurfaceForm>
+	<EntityTextStart>1008</EntityTextStart>
+	<EntityTextEnd>1015</EntityTextEnd>
+	<LinkerScore>1.1870953369046549</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saqlain Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>1008</EntityTextStart>
+	<EntityTextEnd>1023</EntityTextEnd>
+	<LinkerScore>1.2648119040738475</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saqlain_Mushtaq</WikiTitle>
+		<WikiTitleID>473185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer	airline</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saqlain_Mushtaq</WikiTitle> <WikiTitleID>473185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mushtaq</EntitySurfaceForm>
+	<EntityTextStart>1016</EntityTextStart>
+	<EntityTextEnd>1023</EntityTextEnd>
+	<LinkerScore>1.5707979429316892</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mushtaq_Ahmed</WikiTitle>
+		<WikiTitleID>896405</WikiTitleID>
+		<RankerScore>0.8738217170189916</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mushtaq_Ahmed</WikiTitle> <WikiTitleID>896405</WikiTitleID> <RankerScore>0.8738217170189916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushtaq_Mohammad</WikiTitle> <WikiTitleID>3152091</WikiTitleID> <RankerScore>0.12617828298100842</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Waqar Younis</EntitySurfaceForm>
+	<EntityTextStart>1038</EntityTextStart>
+	<EntityTextEnd>1050</EntityTextEnd>
+	<LinkerScore>1.297502558587284</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Waqar_Younis</WikiTitle>
+		<WikiTitleID>894433</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>captain	cricketer	person	alumnus	muslim	immigrant	commentator	expatriate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Waqar_Younis</WikiTitle> <WikiTitleID>894433</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lbw</EntitySurfaceForm>
+	<EntityTextStart>1051</EntityTextStart>
+	<EntityTextEnd>1054</EntityTextEnd>
+	<LinkerScore>0.9705844839245709</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leg_before_wicket</WikiTitle>
+		<WikiTitleID>286694</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>laws</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leg_before_wicket</WikiTitle> <WikiTitleID>286694</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gough</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1062</EntityTextEnd>
+	<LinkerScore>-0.14795735629861653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electoral_district_of_Gough</WikiTitle>
+		<WikiTitleID>10456924</WikiTitleID>
+		<RankerScore>0.2382166849670391</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Gough</WikiTitle> <WikiTitleID>10456924</WikiTitleID> <RankerScore>0.2382166849670391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough_(footballer)</WikiTitle> <WikiTitleID>1017476</WikiTitleID> <RankerScore>0.1576910098295993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_Island</WikiTitle> <WikiTitleID>1136465</WikiTitleID> <RankerScore>0.15286113040162944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubert_Gough</WikiTitle> <WikiTitleID>889200</WikiTitleID> <RankerScore>0.1504103916005774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_County,_New_South_Wales</WikiTitle> <WikiTitleID>10321103</WikiTitleID> <RankerScore>0.1504103916005774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough</WikiTitle> <WikiTitleID>1136110</WikiTitleID> <RankerScore>0.1504103916005774</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ata-ur-Rehman</EntitySurfaceForm>
+	<EntityTextStart>1065</EntityTextStart>
+	<EntityTextEnd>1078</EntityTextEnd>
+	<LinkerScore>1.0462161924884024</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ata-ur-Rehman</WikiTitle>
+		<WikiTitleID>3976751</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	cricketer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ata-ur-Rehman</WikiTitle> <WikiTitleID>3976751</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Knight</EntitySurfaceForm>
+	<EntityTextStart>1081</EntityTextStart>
+	<EntityTextEnd>1087</EntityTextEnd>
+	<LinkerScore>0.28071967606198356</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knight</WikiTitle>
+		<WikiTitleID>16897</WikiTitleID>
+		<RankerScore>0.09196874461402861</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knight</WikiTitle> <WikiTitleID>16897</WikiTitleID> <RankerScore>0.09196874461402861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knights_of_the_Round_Table</WikiTitle> <WikiTitleID>352012</WikiTitleID> <RankerScore>0.04740514997463979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(chess)</WikiTitle> <WikiTitleID>47619</WikiTitleID> <RankerScore>0.05589585318625426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridder_(title)</WikiTitle> <WikiTitleID>13458331</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Engine</WikiTitle> <WikiTitleID>4069165</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curt_Knight</WikiTitle> <WikiTitleID>9157400</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Knight&apos;s_Tale</WikiTitle> <WikiTitleID>404176</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Knight_(folk_musician)</WikiTitle> <WikiTitleID>1571868</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Ridder</WikiTitle> <WikiTitleID>550063</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Bachelor</WikiTitle> <WikiTitleID>390067</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warrior_(character_class)</WikiTitle> <WikiTitleID>440178</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_(comics)</WikiTitle> <WikiTitleID>4053339</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_orders_of_merit</WikiTitle> <WikiTitleID>889524</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nick_Knight</WikiTitle> <WikiTitleID>994718</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_S._and_James_L._Knight_Foundation</WikiTitle> <WikiTitleID>3733548</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Inlet</WikiTitle> <WikiTitleID>3112882</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holly_Knight</WikiTitle> <WikiTitleID>2374422</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portrait_of_a_Knight_(Carpaccio)</WikiTitle> <WikiTitleID>11775611</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knight_Reservoir</WikiTitle> <WikiTitleID>10226055</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_R._Knight</WikiTitle> <WikiTitleID>8260119</WikiTitleID> <RankerScore>0.04733707366029867</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gough</EntitySurfaceForm>
+	<EntityTextStart>1222</EntityTextStart>
+	<EntityTextEnd>1227</EntityTextEnd>
+	<LinkerScore>-0.1479581987372928</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electoral_district_of_Gough</WikiTitle>
+		<WikiTitleID>10456924</WikiTitleID>
+		<RankerScore>0.23807170514872836</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Gough</WikiTitle> <WikiTitleID>10456924</WikiTitleID> <RankerScore>0.23807170514872836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough_(footballer)</WikiTitle> <WikiTitleID>1017476</WikiTitleID> <RankerScore>0.15759512982608254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_Island</WikiTitle> <WikiTitleID>1136465</WikiTitleID> <RankerScore>0.15337717034484397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hubert_Gough</WikiTitle> <WikiTitleID>889200</WikiTitleID> <RankerScore>0.15031866489344836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gough_County,_New_South_Wales</WikiTitle> <WikiTitleID>10321103</WikiTitleID> <RankerScore>0.15031866489344836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Gough</WikiTitle> <WikiTitleID>1136110</WikiTitleID> <RankerScore>0.15031866489344836</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mullally</EntitySurfaceForm>
+	<EntityTextStart>1238</EntityTextStart>
+	<EntityTextEnd>1246</EntityTextEnd>
+	<LinkerScore>0.9569419299950833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mullally_Township,_Harlan_County,_Nebraska</WikiTitle>
+		<WikiTitleID>15963981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mullally_Township,_Harlan_County,_Nebraska</WikiTitle> <WikiTitleID>15963981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Headley</EntitySurfaceForm>
+	<EntityTextStart>1257</EntityTextStart>
+	<EntityTextEnd>1264</EntityTextEnd>
+	<LinkerScore>-0.2054889994913143</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Headley,_East_Hampshire</WikiTitle>
+		<WikiTitleID>1450471</WikiTitleID>
+		<RankerScore>0.34312863453774134</RankerScore>
+		<Attributes>village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Headley,_Surrey</WikiTitle> <WikiTitleID>3983194</WikiTitleID> <RankerScore>0.3334533220133337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headley,_East_Hampshire</WikiTitle> <WikiTitleID>1450471</WikiTitleID> <RankerScore>0.34312863453774134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headley,_Basingstoke_and_Deane</WikiTitle> <WikiTitleID>15641383</WikiTitleID> <RankerScore>0.32341804344892483</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Irani</EntitySurfaceForm>
+	<EntityTextStart>1275</EntityTextStart>
+	<EntityTextEnd>1280</EntityTextEnd>
+	<LinkerScore>0.23813171359223226</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iran</WikiTitle>
+		<WikiTitleID>14653</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>nation	country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iran</WikiTitle> <WikiTitleID>14653</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Croft</EntitySurfaceForm>
+	<EntityTextStart>1291</EntityTextStart>
+	<EntityTextEnd>1296</EntityTextEnd>
+	<LinkerScore>-0.3411908179988777</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Croft,_Cheshire</WikiTitle>
+		<WikiTitleID>350859</WikiTitleID>
+		<RankerScore>0.17926344583068607</RankerScore>
+		<Attributes>village	parish</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Croft_Circuit</WikiTitle> <WikiTitleID>3606322</WikiTitleID> <RankerScore>0.16816493202306593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Leicestershire</WikiTitle> <WikiTitleID>909803</WikiTitleID> <RankerScore>0.17850159369905638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft,_Cheshire</WikiTitle> <WikiTitleID>350859</WikiTitleID> <RankerScore>0.17926344583068607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft_(land)</WikiTitle> <WikiTitleID>2128025</WikiTitleID> <RankerScore>0.11851750711179791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Croft</WikiTitle> <WikiTitleID>5894686</WikiTitleID> <RankerScore>0.11851750711179791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croft-on-Tees</WikiTitle> <WikiTitleID>5362321</WikiTitleID> <RankerScore>0.11851750711179791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Croft_(linguist)</WikiTitle> <WikiTitleID>2493495</WikiTitleID> <RankerScore>0.11851750711179791</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

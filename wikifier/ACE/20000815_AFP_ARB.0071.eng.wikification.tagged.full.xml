@@ -1,0 +1,2461 @@
+<WikifierOutput>
+<InputFilename>
+20000815_AFP_ARB.0071.eng
+</InputFilename>
+<InputText>
+  Beirut 8-15 (AFP) -  Lebanon has asked the international peacekeeping force operating in the south to investigate reports indicating that Israel is penetrating the shared border between the two countries and to prevent this from happening.   According to official sources, the Lebanese authorities contacted the peacekeeping high command and asked it to put an end to infringements by Israel, which is carrying out operations inside Lebanese territory, in particular dumping sand and building slopes.   The source added that if this is confirmed, then such acts constitute a provocation and an infringement of Lebanese sovereignty.   Witnesses said two Israeli bulldozers started work today Tuesday on a slope in the Abbad sector inside Lebanese territory on the border between Lebanon and Israel.   These witnesses told Agence France Presse that an Israeli army patrol equipped with ultra-modern binoculars penetrated a few meters into Lebanese territory but withdrew back to Israeli territory as soon as a peacekeeping patrol arrived.   Families in southern Lebanon visit this area where, according to tradition, the burial site of Sheikh Abbad, who died 500 years ago, is located.  For their part, Israelis also regard the site as a shrine because, according to them, Rabbi Ashi lived there in the 5th century.   The Israeli army had previously carried out operations inside Lebanese territory in the same border region on August 11.   Last Friday, an Israeli bulldozer crossed the wire fence in Wadi Marjayoun near the Israeli village of Matla and spread sand over a length of hundreds of meters and a width of six meters in order to expose the footprints of people crossing the border or tire prints of cars from the Lebanese side. 
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Beirut</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>8</EntityTextEnd>
+	<LinkerScore>1.1138496548970795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Beirut</WikiTitle>
+		<WikiTitleID>37428</WikiTitleID>
+		<RankerScore>0.4837611492251023</RankerScore>
+		<Attributes>crusade	site	place	colony	mint	capital	city	location</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Beirut</WikiTitle> <WikiTitleID>37428</WikiTitleID> <RankerScore>0.4837611492251023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beirut_(band)</WikiTitle> <WikiTitleID>5132085</WikiTitleID> <RankerScore>0.07790054917457283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beer_pong</WikiTitle> <WikiTitleID>275510</WikiTitleID> <RankerScore>0.06709887777439505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beirut_Governorate</WikiTitle> <WikiTitleID>1482328</WikiTitleID> <RankerScore>0.06709887777439505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1983_Beirut_barracks_bombing</WikiTitle> <WikiTitleID>419211</WikiTitleID> <RankerScore>0.06709887777439505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Lebanon</WikiTitle> <WikiTitleID>17772</WikiTitleID> <RankerScore>0.16994279050274477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beirut_Stock_Exchange</WikiTitle> <WikiTitleID>9848049</WikiTitleID> <RankerScore>0.06709887777439505</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanon</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>30</EntityTextEnd>
+	<LinkerScore>1.1084780781317018</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.28000109724958744</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.28000109724958744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Pennsylvania</WikiTitle> <WikiTitleID>132955</WikiTitleID> <RankerScore>0.04075055791385573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Ohio</WikiTitle> <WikiTitleID>129931</WikiTitleID> <RankerScore>0.06312886532153932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_New_Hampshire</WikiTitle> <WikiTitleID>124691</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Tennessee</WikiTitle> <WikiTitleID>135426</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_County,_Pennsylvania</WikiTitle> <WikiTitleID>91946</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Oregon</WikiTitle> <WikiTitleID>130868</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Missouri</WikiTitle> <WikiTitleID>122830</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Connecticut</WikiTitle> <WikiTitleID>108819</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_basketball_team</WikiTitle> <WikiTitleID>2838783</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Indiana</WikiTitle> <WikiTitleID>112138</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Mandate_of_Lebanon</WikiTitle> <WikiTitleID>1024229</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Virginia</WikiTitle> <WikiTitleID>137755</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Illinois</WikiTitle> <WikiTitleID>111925</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Lebanon</WikiTitle> <WikiTitleID>880905</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kentucky</WikiTitle> <WikiTitleID>115332</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kansas</WikiTitle> <WikiTitleID>114948</WikiTitleID> <RankerScore>0.03624232232441279</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>peacekeeping</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>1.0568748730902435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peacekeeping</WikiTitle>
+		<WikiTitleID>84617</WikiTitleID>
+		<RankerScore>0.5866154735166464</RankerScore>
+		<Attributes>operations	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peacekeeping</WikiTitle> <WikiTitleID>84617</WikiTitleID> <RankerScore>0.5866154735166464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SFOR</WikiTitle> <WikiTitleID>374704</WikiTitleID> <RankerScore>0.20466117247689045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_United_Nations_peacekeeping_missions</WikiTitle> <WikiTitleID>5971223</WikiTitleID> <RankerScore>0.20872335400646302</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>peacekeeping force</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.29579451361965864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peacekeeping</WikiTitle>
+		<WikiTitleID>84617</WikiTitleID>
+		<RankerScore>0.3841975513636811</RankerScore>
+		<Attributes>operations	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peacekeeping</WikiTitle> <WikiTitleID>84617</WikiTitleID> <RankerScore>0.3841975513636811</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_Security_Assistance_Force</WikiTitle> <WikiTitleID>194200</WikiTitleID> <RankerScore>0.2375478998375117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kosovo_Force</WikiTitle> <WikiTitleID>533197</WikiTitleID> <RankerScore>0.14046781020759816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Peacekeeping_Force_in_Cyprus</WikiTitle> <WikiTitleID>1453525</WikiTitleID> <RankerScore>0.23778673859120894</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israel</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>146</EntityTextEnd>
+	<LinkerScore>1.5185882987779564</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.2950589221259268</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.2950589221259268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.05412879492017039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelites</WikiTitle> <WikiTitleID>52949</WikiTitleID> <RankerScore>0.046776751752313626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_ancient_Israel_and_Judah</WikiTitle> <WikiTitleID>13876</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_cricket_team</WikiTitle> <WikiTitleID>4399971</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_Israel</WikiTitle> <WikiTitleID>241687</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Children_of_Israel</WikiTitle> <WikiTitleID>171083</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_under-21_football_team</WikiTitle> <WikiTitleID>6077360</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_basketball_team</WikiTitle> <WikiTitleID>3185828</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob</WikiTitle> <WikiTitleID>16118</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(singer)</WikiTitle> <WikiTitleID>1553519</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(song)</WikiTitle> <WikiTitleID>6047482</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_wine</WikiTitle> <WikiTitleID>4049975</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Israel</WikiTitle> <WikiTitleID>8051466</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Fed_Cup_team</WikiTitle> <WikiTitleID>10824621</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Davis_Cup_team</WikiTitle> <WikiTitleID>10023506</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.0355315018353876</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>279</EntityTextStart>
+	<EntityTextEnd>287</EntityTextEnd>
+	<LinkerScore>0.42506497041253033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.1773048488459524</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.1773048488459524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.11022831172818125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.09396998241272472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.03638216805959656</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>peacekeeping</EntitySurfaceForm>
+	<EntityTextStart>314</EntityTextStart>
+	<EntityTextEnd>326</EntityTextEnd>
+	<LinkerScore>0.7531630377688971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peacekeeping</WikiTitle>
+		<WikiTitleID>84617</WikiTitleID>
+		<RankerScore>0.4547509323351337</RankerScore>
+		<Attributes>operations	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peacekeeping</WikiTitle> <WikiTitleID>84617</WikiTitleID> <RankerScore>0.4547509323351337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SFOR</WikiTitle> <WikiTitleID>374704</WikiTitleID> <RankerScore>0.25756416205121485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_United_Nations_peacekeeping_missions</WikiTitle> <WikiTitleID>5971223</WikiTitleID> <RankerScore>0.2876849056136514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israel</EntitySurfaceForm>
+	<EntityTextStart>387</EntityTextStart>
+	<EntityTextEnd>393</EntityTextEnd>
+	<LinkerScore>1.5265923757537507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.28116335227318046</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.28116335227318046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.054535642565995246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelites</WikiTitle> <WikiTitleID>52949</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_ancient_Israel_and_Judah</WikiTitle> <WikiTitleID>13876</WikiTitleID> <RankerScore>0.05021681951148778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_cricket_team</WikiTitle> <WikiTitleID>4399971</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_Israel</WikiTitle> <WikiTitleID>241687</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Children_of_Israel</WikiTitle> <WikiTitleID>171083</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_under-21_football_team</WikiTitle> <WikiTitleID>6077360</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_basketball_team</WikiTitle> <WikiTitleID>3185828</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob</WikiTitle> <WikiTitleID>16118</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(singer)</WikiTitle> <WikiTitleID>1553519</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(song)</WikiTitle> <WikiTitleID>6047482</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_wine</WikiTitle> <WikiTitleID>4049975</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Israel</WikiTitle> <WikiTitleID>8051466</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Fed_Cup_team</WikiTitle> <WikiTitleID>10824621</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Davis_Cup_team</WikiTitle> <WikiTitleID>10023506</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.03612259915584332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>435</EntityTextStart>
+	<EntityTextEnd>443</EntityTextEnd>
+	<LinkerScore>0.3706109927971043</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.17136365813138432</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.17136365813138432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.11209948993111367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.09725316889766236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.03642845194351998</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese territory</EntitySurfaceForm>
+	<EntityTextStart>435</EntityTextStart>
+	<EntityTextEnd>453</EntityTextEnd>
+	<LinkerScore>1.0100923107850472</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sand</EntitySurfaceForm>
+	<EntityTextStart>477</EntityTextStart>
+	<EntityTextEnd>481</EntityTextEnd>
+	<LinkerScore>1.0628856159064801</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sand</WikiTitle>
+		<WikiTitleID>37317</WikiTitleID>
+		<RankerScore>0.4268224524065969</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sand</WikiTitle> <WikiTitleID>37317</WikiTitleID> <RankerScore>0.4268224524065969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sandpaper</WikiTitle> <WikiTitleID>400975</WikiTitleID> <RankerScore>0.13066601837885009</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sand_casting</WikiTitle> <WikiTitleID>1082009</WikiTitleID> <RankerScore>0.17029998404807248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sander</WikiTitle> <WikiTitleID>2045745</WikiTitleID> <RankerScore>0.1361057725832403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silicon_dioxide</WikiTitle> <WikiTitleID>43710</WikiTitleID> <RankerScore>0.1361057725832403</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>provocation</EntitySurfaceForm>
+	<EntityTextStart>577</EntityTextStart>
+	<EntityTextEnd>588</EntityTextEnd>
+	<LinkerScore>-0.34672717958743754</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Provocation_(legal)</WikiTitle>
+		<WikiTitleID>216484</WikiTitleID>
+		<RankerScore>0.37628981650755694</RankerScore>
+		<Attributes>defense</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Provocation_(legal)</WikiTitle> <WikiTitleID>216484</WikiTitleID> <RankerScore>0.37628981650755694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Provocation_in_English_law</WikiTitle> <WikiTitleID>4475342</WikiTitleID> <RankerScore>0.3399638337243369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Agent_provocateur</WikiTitle> <WikiTitleID>485005</WikiTitleID> <RankerScore>0.2837463497681062</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>612</EntityTextStart>
+	<EntityTextEnd>620</EntityTextEnd>
+	<LinkerScore>0.23201262924018798</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.15966329269329327</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.15966329269329327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.1182845049865691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.10013169561193297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.03658355921812969</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sovereignty</EntitySurfaceForm>
+	<EntityTextStart>621</EntityTextStart>
+	<EntityTextEnd>632</EntityTextEnd>
+	<LinkerScore>1.1092585075469055</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sovereignty</WikiTitle>
+		<WikiTitleID>28791</WikiTitleID>
+		<RankerScore>0.32091513376444036</RankerScore>
+		<Attributes>laws	type	relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sovereignty</WikiTitle> <WikiTitleID>28791</WikiTitleID> <RankerScore>0.32091513376444036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_sovereignty_movement</WikiTitle> <WikiTitleID>319505</WikiTitleID> <RankerScore>0.1306958533234521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tribal_sovereignty_in_the_United_States</WikiTitle> <WikiTitleID>441617</WikiTitleID> <RankerScore>0.13088061962129333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transfer_of_sovereignty_of_Hong_Kong</WikiTitle> <WikiTitleID>2093431</WikiTitleID> <RankerScore>0.13916946443027142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Loathly_lady</WikiTitle> <WikiTitleID>3810865</WikiTitleID> <RankerScore>0.13916946443027142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hawaiian_sovereignty_movement</WikiTitle> <WikiTitleID>850253</WikiTitleID> <RankerScore>0.13916946443027142</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>655</EntityTextStart>
+	<EntityTextEnd>662</EntityTextEnd>
+	<LinkerScore>0.33441050322943705</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.14477034182312976</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.14477034182312976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.13185371944388366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.11446699767960782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03581817300313993</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bulldozers</EntitySurfaceForm>
+	<EntityTextStart>663</EntityTextStart>
+	<EntityTextEnd>673</EntityTextEnd>
+	<LinkerScore>1.1030720807479295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bulldozer</WikiTitle>
+		<WikiTitleID>313830</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>invention	vehicle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bulldozer</WikiTitle> <WikiTitleID>313830</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese territory</EntitySurfaceForm>
+	<EntityTextStart>739</EntityTextStart>
+	<EntityTextEnd>757</EntityTextEnd>
+	<LinkerScore>1.0852532261586125</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>739</EntityTextStart>
+	<EntityTextEnd>747</EntityTextEnd>
+	<LinkerScore>0.004579674587168597</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.17040939648112946</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.17040939648112946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.1235912106547563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.1051690231930587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.0353429629218268</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanon</EntitySurfaceForm>
+	<EntityTextStart>780</EntityTextStart>
+	<EntityTextEnd>787</EntityTextEnd>
+	<LinkerScore>1.2127249876370996</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.32693957648389094</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.32693957648389094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Pennsylvania</WikiTitle> <WikiTitleID>132955</WikiTitleID> <RankerScore>0.03830215438094966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Ohio</WikiTitle> <WikiTitleID>129931</WikiTitleID> <RankerScore>0.05870505754829402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_New_Hampshire</WikiTitle> <WikiTitleID>124691</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Tennessee</WikiTitle> <WikiTitleID>135426</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_County,_Pennsylvania</WikiTitle> <WikiTitleID>91946</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Oregon</WikiTitle> <WikiTitleID>130868</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Missouri</WikiTitle> <WikiTitleID>122830</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Connecticut</WikiTitle> <WikiTitleID>108819</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_basketball_team</WikiTitle> <WikiTitleID>2838783</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Indiana</WikiTitle> <WikiTitleID>112138</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Mandate_of_Lebanon</WikiTitle> <WikiTitleID>1024229</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Virginia</WikiTitle> <WikiTitleID>137755</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Illinois</WikiTitle> <WikiTitleID>111925</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Lebanon</WikiTitle> <WikiTitleID>880905</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kentucky</WikiTitle> <WikiTitleID>115332</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kansas</WikiTitle> <WikiTitleID>114948</WikiTitleID> <RankerScore>0.03388548303452149</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israel</EntitySurfaceForm>
+	<EntityTextStart>792</EntityTextStart>
+	<EntityTextEnd>798</EntityTextEnd>
+	<LinkerScore>1.621613377990922</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.3387518114076712</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.3387518114076712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.05045190710881391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelites</WikiTitle> <WikiTitleID>52949</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_ancient_Israel_and_Judah</WikiTitle> <WikiTitleID>13876</WikiTitleID> <RankerScore>0.04839110140948371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_cricket_team</WikiTitle> <WikiTitleID>4399971</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_Israel</WikiTitle> <WikiTitleID>241687</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Children_of_Israel</WikiTitle> <WikiTitleID>171083</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_under-21_football_team</WikiTitle> <WikiTitleID>6077360</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_basketball_team</WikiTitle> <WikiTitleID>3185828</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob</WikiTitle> <WikiTitleID>16118</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(singer)</WikiTitle> <WikiTitleID>1553519</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(song)</WikiTitle> <WikiTitleID>6047482</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_wine</WikiTitle> <WikiTitleID>4049975</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Israel</WikiTitle> <WikiTitleID>8051466</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Fed_Cup_team</WikiTitle> <WikiTitleID>10824621</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Davis_Cup_team</WikiTitle> <WikiTitleID>10023506</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.033082657651413605</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Agence France Presse</EntitySurfaceForm>
+	<EntityTextStart>823</EntityTextStart>
+	<EntityTextEnd>843</EntityTextEnd>
+	<LinkerScore>0.8864465798040325</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Agence_France-Presse</WikiTitle>
+		<WikiTitleID>471981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Agence_France-Presse</WikiTitle> <WikiTitleID>471981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>France</EntitySurfaceForm>
+	<EntityTextStart>830</EntityTextStart>
+	<EntityTextEnd>836</EntityTextEnd>
+	<LinkerScore>0.9150648661281701</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>France</WikiTitle>
+		<WikiTitleID>5843419</WikiTitleID>
+		<RankerScore>0.22614457951599606</RankerScore>
+		<Attributes>nation	country	state	republic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>France</WikiTitle> <WikiTitleID>5843419</WikiTitleID> <RankerScore>0.22614457951599606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.047461175142920656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_union_team</WikiTitle> <WikiTitleID>955656</WikiTitleID> <RankerScore>0.04607418477168041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_France</WikiTitle> <WikiTitleID>1069393</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Third_Republic</WikiTitle> <WikiTitleID>227177</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_league_team</WikiTitle> <WikiTitleID>966005</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_France</WikiTitle> <WikiTitleID>228080</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_French_Empire</WikiTitle> <WikiTitleID>216066</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_France</WikiTitle> <WikiTitleID>10784</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_basketball_team</WikiTitle> <WikiTitleID>1849804</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_French_Empire</WikiTitle> <WikiTitleID>215778</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_France</WikiTitle> <WikiTitleID>13854</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_Davis_Cup_team</WikiTitle> <WikiTitleID>9662573</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_France</WikiTitle> <WikiTitleID>2164838</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_Monarchy</WikiTitle> <WikiTitleID>374278</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_poetry</WikiTitle> <WikiTitleID>1551274</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_France</WikiTitle> <WikiTitleID>1809451</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_First_Republic</WikiTitle> <WikiTitleID>62243</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913656</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_cricket_team</WikiTitle> <WikiTitleID>4389582</WikiTitleID> <RankerScore>0.040018827092317806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>852</EntityTextStart>
+	<EntityTextEnd>859</EntityTextEnd>
+	<LinkerScore>0.37119822154370635</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.14145580848214198</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.14145580848214198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.1379233650427002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.1205329072748518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03529928936472389</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli army</EntitySurfaceForm>
+	<EntityTextStart>852</EntityTextStart>
+	<EntityTextEnd>864</EntityTextEnd>
+	<LinkerScore>0.821223968375515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.8109573803346265</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>1.91415936836161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.8109573803346265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GOC_Army_Headquarters</WikiTitle> <WikiTitleID>5215999</WikiTitleID> <RankerScore>0.1890426196653735</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>binoculars</EntitySurfaceForm>
+	<EntityTextStart>899</EntityTextStart>
+	<EntityTextEnd>909</EntityTextEnd>
+	<LinkerScore>1.0315552742978977</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Binoculars</WikiTitle>
+		<WikiTitleID>86058</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	devices</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Binoculars</WikiTitle> <WikiTitleID>86058</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>939</EntityTextStart>
+	<EntityTextEnd>947</EntityTextEnd>
+	<LinkerScore>0.3015106892178073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.173646899877964</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.173646899877964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.11588919856497312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.09911874910422303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.0359614795560494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese territory</EntitySurfaceForm>
+	<EntityTextStart>939</EntityTextStart>
+	<EntityTextEnd>957</EntityTextEnd>
+	<LinkerScore>1.0128711183501595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>979</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>0.2976624877617087</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.1451708922212845</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.1451708922212845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.1379922371405208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.11721853861171282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03527166658979305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>peacekeeping</EntitySurfaceForm>
+	<EntityTextStart>1010</EntityTextStart>
+	<EntityTextEnd>1022</EntityTextEnd>
+	<LinkerScore>0.8139805002295415</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peacekeeping</WikiTitle>
+		<WikiTitleID>84617</WikiTitleID>
+		<RankerScore>0.48896787678645454</RankerScore>
+		<Attributes>operations	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peacekeeping</WikiTitle> <WikiTitleID>84617</WikiTitleID> <RankerScore>0.48896787678645454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SFOR</WikiTitle> <WikiTitleID>374704</WikiTitleID> <RankerScore>0.2341495467302339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_United_Nations_peacekeeping_missions</WikiTitle> <WikiTitleID>5971223</WikiTitleID> <RankerScore>0.27688257648331166</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanon</EntitySurfaceForm>
+	<EntityTextStart>1062</EntityTextStart>
+	<EntityTextEnd>1069</EntityTextEnd>
+	<LinkerScore>1.0271097627754506</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.23238746924317522</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.23238746924317522</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Pennsylvania</WikiTitle> <WikiTitleID>132955</WikiTitleID> <RankerScore>0.04484383082193959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Ohio</WikiTitle> <WikiTitleID>129931</WikiTitleID> <RankerScore>0.06855935332858673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_New_Hampshire</WikiTitle> <WikiTitleID>124691</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Tennessee</WikiTitle> <WikiTitleID>135426</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_County,_Pennsylvania</WikiTitle> <WikiTitleID>91946</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Oregon</WikiTitle> <WikiTitleID>130868</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Missouri</WikiTitle> <WikiTitleID>122830</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Connecticut</WikiTitle> <WikiTitleID>108819</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_basketball_team</WikiTitle> <WikiTitleID>2838783</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Indiana</WikiTitle> <WikiTitleID>112138</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Mandate_of_Lebanon</WikiTitle> <WikiTitleID>1024229</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Virginia</WikiTitle> <WikiTitleID>137755</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Illinois</WikiTitle> <WikiTitleID>111925</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Lebanon</WikiTitle> <WikiTitleID>880905</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kentucky</WikiTitle> <WikiTitleID>115332</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon,_Kansas</WikiTitle> <WikiTitleID>114948</WikiTitleID> <RankerScore>0.03848290274154697</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sheikh</EntitySurfaceForm>
+	<EntityTextStart>1136</EntityTextStart>
+	<EntityTextEnd>1142</EntityTextEnd>
+	<LinkerScore>0.8477447156471121</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sheikh</WikiTitle>
+		<WikiTitleID>178433</WikiTitleID>
+		<RankerScore>0.714285834380501</RankerScore>
+		<Attributes>title	role	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sheikh</WikiTitle> <WikiTitleID>178433</WikiTitleID> <RankerScore>0.714285834380501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_of_Bahrain</WikiTitle> <WikiTitleID>1328181</WikiTitleID> <RankerScore>0.14210674481293326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shaykh_of_Sufism</WikiTitle> <WikiTitleID>5332942</WikiTitleID> <RankerScore>0.14360742080656577</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israelis</EntitySurfaceForm>
+	<EntityTextStart>1203</EntityTextStart>
+	<EntityTextEnd>1211</EntityTextEnd>
+	<LinkerScore>0.04081185677210446</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.26618752691653597</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.2650122867390695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.26618752691653597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.23188166821123474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.07897283937771993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabra_(person)</WikiTitle> <WikiTitleID>1560852</WikiTitleID> <RankerScore>0.07897283937771993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Israel</WikiTitle> <WikiTitleID>211843</WikiTitleID> <RankerScore>0.07897283937771993</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>shrine</EntitySurfaceForm>
+	<EntityTextStart>1238</EntityTextStart>
+	<EntityTextEnd>1244</EntityTextEnd>
+	<LinkerScore>0.4600667473615423</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Shrine</WikiTitle>
+		<WikiTitleID>465979</WikiTitleID>
+		<RankerScore>0.21286008770415835</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Shrine</WikiTitle> <WikiTitleID>465979</WikiTitleID> <RankerScore>0.21286008770415835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shinto_shrine</WikiTitle> <WikiTitleID>1059378</WikiTitleID> <RankerScore>0.11398491092323117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nidaros_Cathedral</WikiTitle> <WikiTitleID>142290</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shrine_of_Bahá&apos;u&apos;lláh</WikiTitle> <WikiTitleID>1723089</WikiTitleID> <RankerScore>0.08888608936020814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khwaja_Abu_Nasr_Parsa_shrine</WikiTitle> <WikiTitleID>4517060</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bodrum_Mosque</WikiTitle> <WikiTitleID>11707572</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shrines_to_the_Virgin_Mary</WikiTitle> <WikiTitleID>66773</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hachiman_Shrine</WikiTitle> <WikiTitleID>4304344</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basilica_of_the_National_Shrine_of_Our_Lady_of_Aparecida</WikiTitle> <WikiTitleID>9855646</WikiTitleID> <RankerScore>0.09737815200206706</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rabbi Ashi</EntitySurfaceForm>
+	<EntityTextStart>1273</EntityTextStart>
+	<EntityTextEnd>1283</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rav_Ashi</WikiTitle>
+		<WikiTitleID>59044</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rabbi</EntitySurfaceForm>
+	<EntityTextStart>1273</EntityTextStart>
+	<EntityTextEnd>1278</EntityTextEnd>
+	<LinkerScore>0.7435526826800559</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rabbi</WikiTitle>
+		<WikiTitleID>51273</WikiTitleID>
+		<RankerScore>0.41972112108767323</RankerScore>
+		<Attributes>role</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rabbi</WikiTitle> <WikiTitleID>51273</WikiTitleID> <RankerScore>0.41972112108767323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judah_haNasi</WikiTitle> <WikiTitleID>15889</WikiTitleID> <RankerScore>0.2034758033675825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rabbi_(TN)</WikiTitle> <WikiTitleID>6551771</WikiTitleID> <RankerScore>0.1421807990989079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rebbe</WikiTitle> <WikiTitleID>166683</WikiTitleID> <RankerScore>0.11731113822291811</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rabbi_(album)</WikiTitle> <WikiTitleID>14681485</WikiTitleID> <RankerScore>0.11731113822291811</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ashi</EntitySurfaceForm>
+	<EntityTextStart>1279</EntityTextStart>
+	<EntityTextEnd>1283</EntityTextEnd>
+	<LinkerScore>0.5941576000788937</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rav_Ashi</WikiTitle>
+		<WikiTitleID>59044</WikiTitleID>
+		<RankerScore>0.5605027794260244</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ashi</WikiTitle> <WikiTitleID>7886994</WikiTitleID> <RankerScore>0.28149369798932156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rav_Ashi</WikiTitle> <WikiTitleID>59044</WikiTitleID> <RankerScore>0.5605027794260244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Ashi</WikiTitle> <WikiTitleID>4840796</WikiTitleID> <RankerScore>0.1580035225846541</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>5th century</EntitySurfaceForm>
+	<EntityTextStart>1303</EntityTextStart>
+	<EntityTextEnd>1314</EntityTextEnd>
+	<LinkerScore>0.6476760117392664</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>5th_century</WikiTitle>
+		<WikiTitleID>34742</WikiTitleID>
+		<RankerScore>0.7004042694611107</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>5th_century</WikiTitle> <WikiTitleID>34742</WikiTitleID> <RankerScore>0.7004042694611107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>5th_century_BC</WikiTitle> <WikiTitleID>34839</WikiTitleID> <RankerScore>0.29959573053888927</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Israeli army</EntitySurfaceForm>
+	<EntityTextStart>1318</EntityTextStart>
+	<EntityTextEnd>1334</EntityTextEnd>
+	<LinkerScore>0.9296935197806951</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces_checkpoint</WikiTitle>
+		<WikiTitleID>3866679</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces_checkpoint</WikiTitle> <WikiTitleID>3866679</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli army</EntitySurfaceForm>
+	<EntityTextStart>1322</EntityTextStart>
+	<EntityTextEnd>1334</EntityTextEnd>
+	<LinkerScore>1.0813120592208576</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.8216684233346682</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>1.981755281014437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.8216684233346682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>GOC_Army_Headquarters</WikiTitle> <WikiTitleID>5215999</WikiTitleID> <RankerScore>0.17833157666533175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>1322</EntityTextStart>
+	<EntityTextEnd>1329</EntityTextEnd>
+	<LinkerScore>0.3679523838268364</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.14076219707548188</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.14076219707548188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.13675320077372544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.13331965909314458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03465676135633224</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>1380</EntityTextStart>
+	<EntityTextEnd>1388</EntityTextEnd>
+	<LinkerScore>0.3284088753473261</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.16731724010155236</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.16731724010155236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.11307370098243856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.09781446401048702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.0365761526415013</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese territory</EntitySurfaceForm>
+	<EntityTextStart>1380</EntityTextStart>
+	<EntityTextEnd>1398</EntityTextEnd>
+	<LinkerScore>0.9985104958814107</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>1418</EntityTextStart>
+	<EntityTextEnd>1424</EntityTextEnd>
+	<LinkerScore>0.49416550831822126</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regions_of_France</WikiTitle>
+		<WikiTitleID>58846</WikiTitleID>
+		<RankerScore>0.1097185157235608</RankerScore>
+		<Attributes>region	subdivision	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.1097185157235608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.05979557596822088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.0557515881923485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_and_districts_of_Scotland</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Quebec_regions</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_in_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.045572607065639405</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 11</EntitySurfaceForm>
+	<EntityTextStart>1428</EntityTextStart>
+	<EntityTextEnd>1437</EntityTextEnd>
+	<LinkerScore>1.2303563039937209</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_11</WikiTitle>
+		<WikiTitleID>2192</WikiTitleID>
+		<RankerScore>0.7417852307520357</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_11</WikiTitle> <WikiTitleID>2192</WikiTitleID> <RankerScore>0.7417852307520357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_in_sports</WikiTitle> <WikiTitleID>224732</WikiTitleID> <RankerScore>0.2582147692479643</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>1457</EntityTextStart>
+	<EntityTextEnd>1464</EntityTextEnd>
+	<LinkerScore>0.22787475853412692</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>0.1332290085618023</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.13212585634705382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.132564379702516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.1332290085618023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.035416515022860466</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bulldozer</EntitySurfaceForm>
+	<EntityTextStart>1465</EntityTextStart>
+	<EntityTextEnd>1474</EntityTextEnd>
+	<LinkerScore>0.5858357940306136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bulldozer</WikiTitle>
+		<WikiTitleID>313830</WikiTitleID>
+		<RankerScore>0.7046190989887952</RankerScore>
+		<Attributes>invention	vehicle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bulldozer</WikiTitle> <WikiTitleID>313830</WikiTitleID> <RankerScore>0.7046190989887952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armored_bulldozer</WikiTitle> <WikiTitleID>3212977</WikiTitleID> <RankerScore>0.2953809010112049</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wire</EntitySurfaceForm>
+	<EntityTextStart>1487</EntityTextStart>
+	<EntityTextEnd>1491</EntityTextEnd>
+	<LinkerScore>0.4003134612976683</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wire</WikiTitle>
+		<WikiTitleID>33498</WikiTitleID>
+		<RankerScore>0.12614232809088818</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wire</WikiTitle> <WikiTitleID>33498</WikiTitleID> <RankerScore>0.12614232809088818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Covert_listening_device</WikiTitle> <WikiTitleID>87235</WikiTitleID> <RankerScore>0.054687493101823095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telegraphy</WikiTitle> <WikiTitleID>30010</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wire_fraud</WikiTitle> <WikiTitleID>905072</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wire_wheels</WikiTitle> <WikiTitleID>4334410</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_tapping</WikiTitle> <WikiTitleID>91221</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wire_transfer</WikiTitle> <WikiTitleID>921263</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barbed_wire</WikiTitle> <WikiTitleID>42274</WikiTitleID> <RankerScore>0.07984190034643054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cable</WikiTitle> <WikiTitleID>42418</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rautalanka</WikiTitle> <WikiTitleID>8792154</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electrical_wiring</WikiTitle> <WikiTitleID>1105937</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baling_wire</WikiTitle> <WikiTitleID>2133723</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wire_recording</WikiTitle> <WikiTitleID>396056</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electrical_filament</WikiTitle> <WikiTitleID>3229003</WikiTitleID> <RankerScore>0.05687140603545063</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fence</EntitySurfaceForm>
+	<EntityTextStart>1492</EntityTextStart>
+	<EntityTextEnd>1497</EntityTextEnd>
+	<LinkerScore>0.06311710055076736</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Separation_barrier</WikiTitle>
+		<WikiTitleID>370681</WikiTitleID>
+		<RankerScore>0.30006173385190943</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fence</WikiTitle> <WikiTitleID>42273</WikiTitleID> <RankerScore>0.24477226729743543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fence_(criminal)</WikiTitle> <WikiTitleID>1922382</WikiTitleID> <RankerScore>0.0883437036759666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fencing</WikiTitle> <WikiTitleID>10893</WikiTitleID> <RankerScore>0.0883437036759666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Agricultural_fencing</WikiTitle> <WikiTitleID>241376</WikiTitleID> <RankerScore>0.0883437036759666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Separation_barrier</WikiTitle> <WikiTitleID>370681</WikiTitleID> <RankerScore>0.30006173385190943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States–Mexico_barrier</WikiTitle> <WikiTitleID>674309</WikiTitleID> <RankerScore>0.10179118414678881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pool_fence</WikiTitle> <WikiTitleID>9200662</WikiTitleID> <RankerScore>0.0883437036759666</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wadi</EntitySurfaceForm>
+	<EntityTextStart>1501</EntityTextStart>
+	<EntityTextEnd>1505</EntityTextEnd>
+	<LinkerScore>0.7725275159227641</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wadi</WikiTitle>
+		<WikiTitleID>393632</WikiTitleID>
+		<RankerScore>0.4931910911509628</RankerScore>
+		<Attributes>words	landforms	body</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wadi</WikiTitle> <WikiTitleID>393632</WikiTitleID> <RankerScore>0.4931910911509628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wadi,_Karnataka</WikiTitle> <WikiTitleID>5287958</WikiTitleID> <RankerScore>0.2751601300813085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wadi_of_the_Maldives</WikiTitle> <WikiTitleID>17131179</WikiTitleID> <RankerScore>0.23164877876772857</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Marjayoun</EntitySurfaceForm>
+	<EntityTextStart>1506</EntityTextStart>
+	<EntityTextEnd>1515</EntityTextEnd>
+	<LinkerScore>1.0371463700891992</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Marjayoun</WikiTitle>
+		<WikiTitleID>6236310</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Marjayoun</WikiTitle> <WikiTitleID>6236310</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>1525</EntityTextStart>
+	<EntityTextEnd>1532</EntityTextEnd>
+	<LinkerScore>0.356614416635013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.1478040486294582</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.1300101024660828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.1478040486294582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.11605944259035555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03565449448906491</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>village</EntitySurfaceForm>
+	<EntityTextStart>1533</EntityTextStart>
+	<EntityTextEnd>1540</EntityTextEnd>
+	<LinkerScore>1.1292965791683243</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Village</WikiTitle>
+		<WikiTitleID>53509</WikiTitleID>
+		<RankerScore>0.15614606733168723</RankerScore>
+		<Attributes>place	loanword	village	words	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Village</WikiTitle> <WikiTitleID>53509</WikiTitleID> <RankerScore>0.15614606733168723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Japan</WikiTitle> <WikiTitleID>450661</WikiTitleID> <RankerScore>0.05408847640818946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.04333979179171796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(United_States)</WikiTitle> <WikiTitleID>8673728</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Guam</WikiTitle> <WikiTitleID>2588674</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(New_Jersey)</WikiTitle> <WikiTitleID>2460879</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Indonesia)</WikiTitle> <WikiTitleID>4038785</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities,_villages,_and_townships_in_Michigan</WikiTitle> <WikiTitleID>236034</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Massachusetts</WikiTitle> <WikiTitleID>4778334</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(village),_New_York</WikiTitle> <WikiTitleID>259954</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Oregon)</WikiTitle> <WikiTitleID>2711765</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(China)</WikiTitle> <WikiTitleID>1838823</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Hong_Kong</WikiTitle> <WikiTitleID>1263381</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mill_town</WikiTitle> <WikiTitleID>635166</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Ohio</WikiTitle> <WikiTitleID>129159</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_settlements_in_the_Pella_prefecture</WikiTitle> <WikiTitleID>1689381</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Paltz_(village),_New_York</WikiTitle> <WikiTitleID>260131</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Alaska</WikiTitle> <WikiTitleID>105738</WikiTitleID> <RankerScore>0.04390739202755326</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Matla</EntitySurfaceForm>
+	<EntityTextStart>1544</EntityTextStart>
+	<EntityTextEnd>1549</EntityTextEnd>
+	<LinkerScore>1.019501737559454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Matla</WikiTitle>
+		<WikiTitleID>1178266</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Matla</WikiTitle> <WikiTitleID>1178266</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sand</EntitySurfaceForm>
+	<EntityTextStart>1561</EntityTextStart>
+	<EntityTextEnd>1565</EntityTextEnd>
+	<LinkerScore>0.7560428135597502</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sand</WikiTitle>
+		<WikiTitleID>37317</WikiTitleID>
+		<RankerScore>0.42198667281143065</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sand</WikiTitle> <WikiTitleID>37317</WikiTitleID> <RankerScore>0.42198667281143065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sandpaper</WikiTitle> <WikiTitleID>400975</WikiTitleID> <RankerScore>0.13371570803151753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sand_casting</WikiTitle> <WikiTitleID>1082009</WikiTitleID> <RankerScore>0.17134739289531992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sander</WikiTitle> <WikiTitleID>2045745</WikiTitleID> <RankerScore>0.1364751131308659</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silicon_dioxide</WikiTitle> <WikiTitleID>43710</WikiTitleID> <RankerScore>0.1364751131308659</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tire</EntitySurfaceForm>
+	<EntityTextStart>1695</EntityTextStart>
+	<EntityTextEnd>1699</EntityTextEnd>
+	<LinkerScore>1.2769312946706008</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tire</WikiTitle>
+		<WikiTitleID>65037</WikiTitleID>
+		<RankerScore>0.7181120373165845</RankerScore>
+		<Attributes>dispute	invention	manufacturer	parts</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tire</WikiTitle> <WikiTitleID>65037</WikiTitleID> <RankerScore>0.7181120373165845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fatigue_(medical)</WikiTitle> <WikiTitleID>235562</WikiTitleID> <RankerScore>0.2818879626834155</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebanese</EntitySurfaceForm>
+	<EntityTextStart>1724</EntityTextStart>
+	<EntityTextEnd>1732</EntityTextEnd>
+	<LinkerScore>0.30783223496110146</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebanon</WikiTitle>
+		<WikiTitleID>17771</WikiTitleID>
+		<RankerScore>0.15364611113056437</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lebanon</WikiTitle> <WikiTitleID>17771</WikiTitleID> <RankerScore>0.15364611113056437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_people</WikiTitle> <WikiTitleID>3525871</WikiTitleID> <RankerScore>0.11251079333786011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Arabic</WikiTitle> <WikiTitleID>2086474</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_cuisine</WikiTitle> <WikiTitleID>3548013</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Lebanon</WikiTitle> <WikiTitleID>17774</WikiTitleID> <RankerScore>0.09993269708236349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_American</WikiTitle> <WikiTitleID>6409741</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Brazilian</WikiTitle> <WikiTitleID>3496326</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Lebanon</WikiTitle> <WikiTitleID>416881</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Australian</WikiTitle> <WikiTitleID>3421858</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_diaspora</WikiTitle> <WikiTitleID>1059095</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sierra_Leonean-Lebanese</WikiTitle> <WikiTitleID>12207754</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Lebanon</WikiTitle> <WikiTitleID>905758</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_football_team</WikiTitle> <WikiTitleID>1205183</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Lebanese_people</WikiTitle> <WikiTitleID>782581</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Brazilian</WikiTitle> <WikiTitleID>17480543</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanese_Jamaican</WikiTitle> <WikiTitleID>15947583</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Lebanon</WikiTitle> <WikiTitleID>2164898</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Levantine_Arabic</WikiTitle> <WikiTitleID>711405</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lebanon_national_rugby_league_team</WikiTitle> <WikiTitleID>2265040</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middle_East_Television</WikiTitle> <WikiTitleID>5784273</WikiTitleID> <RankerScore>0.0372888469676007</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

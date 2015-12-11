@@ -7,6 +7,7 @@ import java.io.IOException;
 import java.nio.file.Paths;
 
 import org.apache.lucene.analysis.Analyzer;
+import org.apache.lucene.analysis.core.KeywordAnalyzer;
 import org.apache.lucene.document.Document;
 import org.apache.lucene.document.Field;
 import org.apache.lucene.index.IndexWriter;
@@ -14,7 +15,7 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.FSDirectory;
 
 /**
- * Index and search CrossWikis using Lucene.
+ * Index and Search CrossWikis using Lucene.
  * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
@@ -28,13 +29,13 @@ public class CoreDictIndexer {
 	private File file;
 	private BufferedReader br;	
 	
-	public CoreDictIndexer(String indexPath, String dumpPath) {
+	public CoreDictIndexer(String indexDirectory, String dictPath) {
 		try {
-			file = new File(dumpPath);
+			file = new File(dictPath);
 			br = new BufferedReader(new FileReader(file));
-			this.analyzer = new TitleAnalyzer();
+			this.analyzer = new CrossWikiAnalyzer();
 			this.iwc = new IndexWriterConfig(analyzer);
-			this.writer = new IndexWriter(FSDirectory.open(Paths.get(indexPath)), iwc);			
+			this.writer = new IndexWriter(FSDirectory.open(Paths.get(indexDirectory)), iwc);			
 		} catch (IOException e) {
 			e.printStackTrace();
 		}
@@ -56,21 +57,19 @@ public class CoreDictIndexer {
 				String[] scores = line.substring(secondSpacePos+1, line.length()).split(" ");
 				
 				Document document = new Document();
-				document.add(new Field("mention", mention, Field.Store.NO, Field.Index.ANALYZED));
-				document.add(new Field("cprob", cprob, Field.Store.YES, Field.Index.ANALYZED));
+				document.add(new Field("mention", mention, Field.Store.YES, Field.Index.ANALYZED));
+				document.add(new Field("cprob", cprob, Field.Store.YES, Field.Index.NOT_ANALYZED));
 				document.add(new Field("url", url, Field.Store.YES, Field.Index.ANALYZED));
 				for (String label : scores) {
 					String[] t = label.split(":");
-					//label is the field value itself
 					if (t.length == 1) 
-						document.add(new Field(t[0], t[0], Field.Store.NO, Field.Index.ANALYZED));
+						document.add(new Field(t[0], t[0], Field.Store.YES, Field.Index.NOT_ANALYZED));
 					else
-						document.add(new Field(t[0], t[1], Field.Store.YES, Field.Index.ANALYZED));
+						document.add(new Field(t[0], t[1], Field.Store.YES, Field.Index.NOT_ANALYZED));
 				}
 				writer.addDocument(document);	
-				if (i % 50000 == 0) 
+				if (i++ % 50000 == 0) 
 					System.out.println(i + " lines processed");
-				i++;
 			}
 		} catch (IOException e) {
 			e.printStackTrace();

@@ -1,0 +1,2352 @@
+<WikifierOutput>
+<InputFilename>
+1052testa GOLF
+</InputFilename>
+<InputText>
+GOLF- BRITISH MASTERS FINAL SCORES.
+NORTHAMPTON, England 1996-08-31
+Leading scores after the final round of the British Masters golf tournament on Saturday( British unless stated):
+284 Robert Allenby( Australia) 69 71 71 73, Miguel Angel Martin( Spain) 75 70 71 68( Allenby won at first play-off hole)
+285 Costantino Rocca( Italy) 71 73 72 69
+286 Miguel Angel Jimenez( Spain) 74 72 73 67
+287 Ian Woosnam 70 76 71 70
+288 Jose Coceres( Argentina) 69 78 71 70
+289 Joakim Haeggman( Sweden) 71 77 70 71, Antoine Lebouc( France) 74 73 70 72
+290 Colin Montgomerie 68 76 77 69, Robert Coles 74 76 71 69, Philip Walton( Ireland) 71 74 74 71, Peter Mitchell 74 71 74 71, Klas Eriksson( Sweden) 71 75 72 72, Pedro Linhart( Spain) 72 73 67 78
+291 Phillip Price 72 76 74 69, Adam Hunter 70 79 73 69, Peter O&apos;Malley( Australia) 71 73 75 72, Mark Roe 69 71 78 73, Mike Clayton( Australia) 69 76 73 73
+292 Iain Pyman 71 75 75 71, David Gilford 69 74 77 72, Peter Hedblom( Sweden) 70 75 75 72, Stephen McAllister 73 76 69 74.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BRITISH MASTERS</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>21</EntityTextEnd>
+	<LinkerScore>1.2792512975844506</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Quinn_Direct_British_Masters</WikiTitle>
+		<WikiTitleID>1929870</WikiTitleID>
+		<RankerScore>0.8330208385831066</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Quinn_Direct_British_Masters</WikiTitle> <WikiTitleID>1929870</WikiTitleID> <RankerScore>0.8330208385831066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Boxing_Board_of_Control</WikiTitle> <WikiTitleID>1474098</WikiTitleID> <RankerScore>0.1669791614168934</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NORTHAMPTON, England</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>56</EntityTextEnd>
+	<LinkerScore>0.937790334202426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northampton</WikiTitle>
+		<WikiTitleID>63734</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>district	town</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northampton</WikiTitle> <WikiTitleID>63734</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NORTHAMPTON</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>47</EntityTextEnd>
+	<LinkerScore>0.5213063934140437</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northampton</WikiTitle>
+		<WikiTitleID>63734</WikiTitleID>
+		<RankerScore>0.13228052978596577</RankerScore>
+		<Attributes>district	town</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northampton</WikiTitle> <WikiTitleID>63734</WikiTitleID> <RankerScore>0.13228052978596577</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_Massachusetts</WikiTitle> <WikiTitleID>116820</WikiTitleID> <RankerScore>0.0701523301121952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_Saints</WikiTitle> <WikiTitleID>629560</WikiTitleID> <RankerScore>0.07140295529760732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6429810</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_County,_Pennsylvania</WikiTitle> <WikiTitleID>91937</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_Town_F.C.</WikiTitle> <WikiTitleID>425750</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_Western_Australia</WikiTitle> <WikiTitleID>1448441</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_railway_station</WikiTitle> <WikiTitleID>1941556</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Cricket_Ground,_Northampton</WikiTitle> <WikiTitleID>2646296</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_County,_North_Carolina</WikiTitle> <WikiTitleID>93268</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_Pennsylvania</WikiTitle> <WikiTitleID>133486</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_County,_Virginia</WikiTitle> <WikiTitleID>91275</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_Suffolk_County,_New_York</WikiTitle> <WikiTitleID>127345</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northamptonshire</WikiTitle> <WikiTitleID>66584</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio_Northampton</WikiTitle> <WikiTitleID>569394</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton_Township,_Bucks_County,_Pennsylvania</WikiTitle> <WikiTitleID>131544</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Northampton</WikiTitle> <WikiTitleID>2960915</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_New_York</WikiTitle> <WikiTitleID>141358</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northampton,_Fulton_County,_New_York</WikiTitle> <WikiTitleID>126475</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Northampton_(1460)</WikiTitle> <WikiTitleID>575529</WikiTitleID> <RankerScore>0.04271554028260187</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>49</EntityTextStart>
+	<EntityTextEnd>56</EntityTextEnd>
+	<LinkerScore>0.594970247890826</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.1559748802442019</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.1559748802442019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.059702906294198645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.06027049169103808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.042591277751209494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British</EntitySurfaceForm>
+	<EntityTextStart>112</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>0.5038572912544745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.14467875287988197</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.14467875287988197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.07143052038635275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.06802800130449337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Raj</WikiTitle> <WikiTitleID>4208015</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_English</WikiTitle> <WikiTitleID>4179</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_Kingdom</WikiTitle> <WikiTitleID>10793</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Armed_Forces</WikiTitle> <WikiTitleID>31730</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honourable_East_India_Company</WikiTitle> <WikiTitleID>43281</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Her_Majesty&apos;s_Government</WikiTitle> <WikiTitleID>334930</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_Kingdom</WikiTitle> <WikiTitleID>182410</WikiTitleID> <RankerScore>0.04210957208407482</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British Masters</EntitySurfaceForm>
+	<EntityTextStart>112</EntityTextStart>
+	<EntityTextEnd>127</EntityTextEnd>
+	<LinkerScore>1.368274165154926</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Quinn_Direct_British_Masters</WikiTitle>
+		<WikiTitleID>1929870</WikiTitleID>
+		<RankerScore>0.862468564564313</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Quinn_Direct_British_Masters</WikiTitle> <WikiTitleID>1929870</WikiTitleID> <RankerScore>0.862468564564313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Boxing_Board_of_Control</WikiTitle> <WikiTitleID>1474098</WikiTitleID> <RankerScore>0.13753143543568713</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Masters golf</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>132</EntityTextEnd>
+	<LinkerScore>1.1274317647266658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Masters_Tournament</WikiTitle>
+		<WikiTitleID>157211</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>championship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Masters_Tournament</WikiTitle> <WikiTitleID>157211</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Masters golf tournament</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>143</EntityTextEnd>
+	<LinkerScore>1.0860533645577792</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Masters_Tournament</WikiTitle>
+		<WikiTitleID>157211</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>championship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Masters_Tournament</WikiTitle> <WikiTitleID>157211</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>golf</EntitySurfaceForm>
+	<EntityTextStart>128</EntityTextStart>
+	<EntityTextEnd>132</EntityTextEnd>
+	<LinkerScore>1.6864928906872512</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Golf</WikiTitle>
+		<WikiTitleID>12328</WikiTitleID>
+		<RankerScore>0.4695086031423178</RankerScore>
+		<Attributes>activity	sport	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Golf</WikiTitle> <WikiTitleID>12328</WikiTitleID> <RankerScore>0.4695086031423178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Country_club</WikiTitle> <WikiTitleID>867970</WikiTitleID> <RankerScore>0.062559141628853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Slam_(golf)</WikiTitle> <WikiTitleID>224580</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blind_golf</WikiTitle> <WikiTitleID>3649849</WikiTitleID> <RankerScore>0.06413430972839282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Links_(golf)</WikiTitle> <WikiTitleID>1568469</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Golf_at_the_1904_Summer_Olympics</WikiTitle> <WikiTitleID>219539</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_golf_history_(1353–1850)</WikiTitle> <WikiTitleID>318476</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miniature_golf</WikiTitle> <WikiTitleID>608551</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polo_shirt</WikiTitle> <WikiTitleID>1020594</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sports_game</WikiTitle> <WikiTitleID>387562</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Golf_club_(equipment)</WikiTitle> <WikiTitleID>849905</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_golf</WikiTitle> <WikiTitleID>3442442</WikiTitleID> <RankerScore>0.04486643838893737</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>golf tournament</EntitySurfaceForm>
+	<EntityTextStart>128</EntityTextStart>
+	<EntityTextEnd>143</EntityTextEnd>
+	<LinkerScore>1.1167377334675013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Golf</WikiTitle>
+		<WikiTitleID>12328</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>activity	sport	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Golf</WikiTitle> <WikiTitleID>12328</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British</EntitySurfaceForm>
+	<EntityTextStart>157</EntityTextStart>
+	<EntityTextEnd>164</EntityTextEnd>
+	<LinkerScore>0.5018672577683061</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.15190519373353753</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.15190519373353753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.07275121196571736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.0669696733747896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Raj</WikiTitle> <WikiTitleID>4208015</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_English</WikiTitle> <WikiTitleID>4179</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Army</WikiTitle> <WikiTitleID>4887</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_Kingdom</WikiTitle> <WikiTitleID>10793</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Armed_Forces</WikiTitle> <WikiTitleID>31730</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honourable_East_India_Company</WikiTitle> <WikiTitleID>43281</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Her_Majesty&apos;s_Government</WikiTitle> <WikiTitleID>334930</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_the_United_Kingdom</WikiTitle> <WikiTitleID>47063</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_Kingdom</WikiTitle> <WikiTitleID>182410</WikiTitleID> <RankerScore>0.041669054172115035</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Robert Allenby</EntitySurfaceForm>
+	<EntityTextStart>185</EntityTextStart>
+	<EntityTextEnd>199</EntityTextEnd>
+	<LinkerScore>1.2907669912840312</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Robert_Allenby</WikiTitle>
+		<WikiTitleID>1983254</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Robert_Allenby</WikiTitle> <WikiTitleID>1983254</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Australia</EntitySurfaceForm>
+	<EntityTextStart>201</EntityTextStart>
+	<EntityTextEnd>210</EntityTextEnd>
+	<LinkerScore>0.8672131057591456</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Australia</WikiTitle>
+		<WikiTitleID>4689264</WikiTitleID>
+		<RankerScore>0.16194096676588485</RankerScore>
+		<Attributes>country	state	member	nation	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Australia</WikiTitle> <WikiTitleID>4689264</WikiTitleID> <RankerScore>0.16194096676588485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_cricket_team</WikiTitle> <WikiTitleID>374833</WikiTitleID> <RankerScore>0.05481222432206664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_football_(soccer)_team</WikiTitle> <WikiTitleID>4792249</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_union_team</WikiTitle> <WikiTitleID>620967</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_league_team</WikiTitle> <WikiTitleID>951978</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Davis_Cup_team</WikiTitle> <WikiTitleID>9656856</WikiTitleID> <RankerScore>0.05895571922936824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_literature</WikiTitle> <WikiTitleID>1075201</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154946</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_field_hockey_team</WikiTitle> <WikiTitleID>2977039</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockeyroos</WikiTitle> <WikiTitleID>2977095</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_speedway_team</WikiTitle> <WikiTitleID>12519514</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_basketball_team</WikiTitle> <WikiTitleID>4178047</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>910739</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(continent)</WikiTitle> <WikiTitleID>3606949</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Australia</WikiTitle> <WikiTitleID>2164807</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ARIA_Charts</WikiTitle> <WikiTitleID>3002226</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_wine</WikiTitle> <WikiTitleID>3959588</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233323</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(2008_film)</WikiTitle> <WikiTitleID>8078282</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_netball_team</WikiTitle> <WikiTitleID>3630653</WikiTitleID> <RankerScore>0.042605358216628246</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spain</EntitySurfaceForm>
+	<EntityTextStart>246</EntityTextStart>
+	<EntityTextEnd>251</EntityTextEnd>
+	<LinkerScore>0.7707478686821312</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spain</WikiTitle>
+		<WikiTitleID>26667</WikiTitleID>
+		<RankerScore>0.15556614193319374</RankerScore>
+		<Attributes>member	state	country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spain</WikiTitle> <WikiTitleID>26667</WikiTitleID> <RankerScore>0.15556614193319374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_football_team</WikiTitle> <WikiTitleID>609825</WikiTitleID> <RankerScore>0.07082433545251761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Empire</WikiTitle> <WikiTitleID>303062</WikiTitleID> <RankerScore>0.060257478484668406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_field_hockey_team</WikiTitle> <WikiTitleID>7091174</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_basketball_team</WikiTitle> <WikiTitleID>2858371</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Spain</WikiTitle> <WikiTitleID>4983430</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_rugby_union_team</WikiTitle> <WikiTitleID>4522177</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7376954</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_poetry</WikiTitle> <WikiTitleID>1510996</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Spain</WikiTitle> <WikiTitleID>938546</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Spain</WikiTitle> <WikiTitleID>2161043</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispania</WikiTitle> <WikiTitleID>491116</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_under_Franco</WikiTitle> <WikiTitleID>2044570</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_handball_team</WikiTitle> <WikiTitleID>5880601</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Davis_Cup_team</WikiTitle> <WikiTitleID>9663202</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Fed_Cup_team</WikiTitle> <WikiTitleID>11233291</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_under-21_football_team</WikiTitle> <WikiTitleID>3313708</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Andalus</WikiTitle> <WikiTitleID>355643</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Spain</WikiTitle> <WikiTitleID>957951</WikiTitleID> <RankerScore>0.04196188494880119</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Allenby</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>273</EntityTextEnd>
+	<LinkerScore>0.3330739873113062</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Edmund_Allenby,_1st_Viscount_Allenby</WikiTitle>
+		<WikiTitleID>208830</WikiTitleID>
+		<RankerScore>0.6594022284666778</RankerScore>
+		<Attributes>commissioner	recipient	personnel	rector	person	marshals	captain	general	graduate	haileyburians	burial	viscount</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edmund_Allenby,_1st_Viscount_Allenby</WikiTitle> <WikiTitleID>208830</WikiTitleID> <RankerScore>0.6594022284666778</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allenby,_British_Columbia</WikiTitle> <WikiTitleID>17913220</WikiTitleID> <RankerScore>0.3405977715333221</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>play-off</EntitySurfaceForm>
+	<EntityTextStart>287</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.1632551504605424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Playoff</WikiTitle>
+		<WikiTitleID>74678</WikiTitleID>
+		<RankerScore>0.14674896279305552</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Playoff</WikiTitle> <WikiTitleID>74678</WikiTitleID> <RankerScore>0.14674896279305552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Championship_play-offs</WikiTitle> <WikiTitleID>8595452</WikiTitleID> <RankerScore>0.0892000472149072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_play-offs</WikiTitle> <WikiTitleID>6043445</WikiTitleID> <RankerScore>0.08718909179359166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_One_play-offs</WikiTitle> <WikiTitleID>11752281</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Promotion_to_the_2nd_Bundesliga_(Football)</WikiTitle> <WikiTitleID>14242137</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Two_play-offs</WikiTitle> <WikiTitleID>12944783</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1962_League_of_Ireland_Championship_play-off</WikiTitle> <WikiTitleID>12242002</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>One-game_playoff</WikiTitle> <WikiTitleID>6760905</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2521320</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inter-Cities_Fairs_Cup_Trophy_Play-Off</WikiTitle> <WikiTitleID>5626271</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Playoff_format</WikiTitle> <WikiTitleID>2847115</WikiTitleID> <RankerScore>0.08460773727480571</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Costantino Rocca</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>322</EntityTextEnd>
+	<LinkerScore>1.110434637096519</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Costantino_Rocca</WikiTitle>
+		<WikiTitleID>2157151</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Costantino_Rocca</WikiTitle> <WikiTitleID>2157151</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italy</EntitySurfaceForm>
+	<EntityTextStart>324</EntityTextStart>
+	<EntityTextEnd>329</EntityTextEnd>
+	<LinkerScore>0.9117240210654555</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.1501590544505151</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.1501590544505151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.05700425848677631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.052414584028620266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy_(1861–1946)</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Campaign_(World_War_II)</WikiTitle> <WikiTitleID>493696</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_basketball_team</WikiTitle> <WikiTitleID>1812201</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_baseball_team</WikiTitle> <WikiTitleID>4310517</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_cricket_team</WikiTitle> <WikiTitleID>2540447</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A_(basketball)</WikiTitle> <WikiTitleID>5715621</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_Davis_Cup_team</WikiTitle> <WikiTitleID>9988540</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_under-21_football_team</WikiTitle> <WikiTitleID>3867414</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Peninsula</WikiTitle> <WikiTitleID>378368</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2172188</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913796</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>306047</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italia_(Roman_Empire)</WikiTitle> <WikiTitleID>1873263</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Italy</WikiTitle> <WikiTitleID>2164851</WikiTitleID> <RankerScore>0.043554241354946364</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miguel Angel Jimenez</EntitySurfaceForm>
+	<EntityTextStart>347</EntityTextStart>
+	<EntityTextEnd>367</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miguel_Ángel_Jiménez</WikiTitle>
+		<WikiTitleID>1569625</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spain</EntitySurfaceForm>
+	<EntityTextStart>369</EntityTextStart>
+	<EntityTextEnd>374</EntityTextEnd>
+	<LinkerScore>0.8780039496415072</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spain</WikiTitle>
+		<WikiTitleID>26667</WikiTitleID>
+		<RankerScore>0.16593510550639892</RankerScore>
+		<Attributes>member	state	country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spain</WikiTitle> <WikiTitleID>26667</WikiTitleID> <RankerScore>0.16593510550639892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_football_team</WikiTitle> <WikiTitleID>609825</WikiTitleID> <RankerScore>0.06860306314208009</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Empire</WikiTitle> <WikiTitleID>303062</WikiTitleID> <RankerScore>0.06267297993079646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_field_hockey_team</WikiTitle> <WikiTitleID>7091174</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_basketball_team</WikiTitle> <WikiTitleID>2858371</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Spain</WikiTitle> <WikiTitleID>4983430</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_rugby_union_team</WikiTitle> <WikiTitleID>4522177</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7376954</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_poetry</WikiTitle> <WikiTitleID>1510996</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Spain</WikiTitle> <WikiTitleID>938546</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Spain</WikiTitle> <WikiTitleID>2161043</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispania</WikiTitle> <WikiTitleID>491116</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_under_Franco</WikiTitle> <WikiTitleID>2044570</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_handball_team</WikiTitle> <WikiTitleID>5880601</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Davis_Cup_team</WikiTitle> <WikiTitleID>9663202</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Fed_Cup_team</WikiTitle> <WikiTitleID>11233291</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_under-21_football_team</WikiTitle> <WikiTitleID>3313708</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Andalus</WikiTitle> <WikiTitleID>355643</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Spain</WikiTitle> <WikiTitleID>957951</WikiTitleID> <RankerScore>0.041340520671807324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>287</EntitySurfaceForm>
+	<EntityTextStart>388</EntityTextStart>
+	<EntityTextEnd>391</EntityTextEnd>
+	<LinkerScore>-0.022617909131231198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>287</WikiTitle>
+		<WikiTitleID>43742</WikiTitleID>
+		<RankerScore>0.1719205829656634</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>287</WikiTitle> <WikiTitleID>43742</WikiTitleID> <RankerScore>0.1719205829656634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_287</WikiTitle> <WikiTitleID>438343</WikiTitleID> <RankerScore>0.10944260666638611</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_287</WikiTitle> <WikiTitleID>1002675</WikiTitleID> <RankerScore>0.10578203616161946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_State_Route_287</WikiTitle> <WikiTitleID>6526913</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>287_BC</WikiTitle> <WikiTitleID>72504</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_287</WikiTitle> <WikiTitleID>7993072</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_287_in_Texas</WikiTitle> <WikiTitleID>11717179</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_287</WikiTitle> <WikiTitleID>3262335</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_bus_routes_in_London</WikiTitle> <WikiTitleID>5179207</WikiTitleID> <RankerScore>0.10214246236772184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ian Woosnam</EntitySurfaceForm>
+	<EntityTextStart>392</EntityTextStart>
+	<EntityTextEnd>403</EntityTextEnd>
+	<LinkerScore>1.204113323547933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ian_Woosnam</WikiTitle>
+		<WikiTitleID>1034991</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>winner	person	golfer	officer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ian_Woosnam</WikiTitle> <WikiTitleID>1034991</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Woosnam</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>403</EntityTextEnd>
+	<LinkerScore>1.0518385819928202</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ian_Woosnam</WikiTitle>
+		<WikiTitleID>1034991</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>winner	person	golfer	officer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ian_Woosnam</WikiTitle> <WikiTitleID>1034991</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jose Coceres</EntitySurfaceForm>
+	<EntityTextStart>420</EntityTextStart>
+	<EntityTextEnd>432</EntityTextEnd>
+	<LinkerScore>0.925355435473891</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>José_Cóceres</WikiTitle>
+		<WikiTitleID>2156041</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>José_Cóceres</WikiTitle> <WikiTitleID>2156041</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Argentina</EntitySurfaceForm>
+	<EntityTextStart>434</EntityTextStart>
+	<EntityTextEnd>443</EntityTextEnd>
+	<LinkerScore>0.672393307728427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Argentina</WikiTitle>
+		<WikiTitleID>744</WikiTitleID>
+		<RankerScore>0.1612694954578657</RankerScore>
+		<Attributes>country	colony	republic	nation	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Argentina</WikiTitle> <WikiTitleID>744</WikiTitleID> <RankerScore>0.1612694954578657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_football_team</WikiTitle> <WikiTitleID>454699</WikiTitleID> <RankerScore>0.051522841440982924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_rugby_union_team</WikiTitle> <WikiTitleID>773452</WikiTitleID> <RankerScore>0.060367586013885276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_basketball_team</WikiTitle> <WikiTitleID>2937490</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_cricket_team</WikiTitle> <WikiTitleID>4367228</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_field_hockey_team</WikiTitle> <WikiTitleID>7090405</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Leonas</WikiTitle> <WikiTitleID>3642950</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_Davis_Cup_team</WikiTitle> <WikiTitleID>9663343</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Argentina</WikiTitle> <WikiTitleID>39575</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_Argentina</WikiTitle> <WikiTitleID>1211728</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>7179395</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Argentina</WikiTitle> <WikiTitleID>4647453</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentine_wine</WikiTitle> <WikiTitleID>3440627</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>932975</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>6557208</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_handball_team</WikiTitle> <WikiTitleID>5857800</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_Argentina</WikiTitle> <WikiTitleID>67623</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_under-20_football_team</WikiTitle> <WikiTitleID>12504513</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Argentina</WikiTitle> <WikiTitleID>67340</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>7934540</WikiTitleID> <RankerScore>0.04275529865219212</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joakim Haeggman</EntitySurfaceForm>
+	<EntityTextStart>461</EntityTextStart>
+	<EntityTextEnd>476</EntityTextEnd>
+	<LinkerScore>0.9878221382293054</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joakim_Haeggman</WikiTitle>
+		<WikiTitleID>2032221</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joakim_Haeggman</WikiTitle> <WikiTitleID>2032221</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sweden</EntitySurfaceForm>
+	<EntityTextStart>478</EntityTextStart>
+	<EntityTextEnd>484</EntityTextEnd>
+	<LinkerScore>0.8480721197488961</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sweden</WikiTitle>
+		<WikiTitleID>5058739</WikiTitleID>
+		<RankerScore>0.14945963564063333</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sweden</WikiTitle> <WikiTitleID>5058739</WikiTitleID> <RankerScore>0.14945963564063333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_football_team</WikiTitle> <WikiTitleID>578468</WikiTitleID> <RankerScore>0.0712527286378904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Empire</WikiTitle> <WikiTitleID>18589276</WikiTitleID> <RankerScore>0.05819413946341376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_between_Sweden_and_Norway</WikiTitle> <WikiTitleID>217537</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sweden_(1772–1809)</WikiTitle> <WikiTitleID>217498</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>747522</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_speedway_team</WikiTitle> <WikiTitleID>12514891</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_Davis_Cup_team</WikiTitle> <WikiTitleID>9662917</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2086865</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Sweden</WikiTitle> <WikiTitleID>4707858</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_literature</WikiTitle> <WikiTitleID>1768396</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Sweden</WikiTitle> <WikiTitleID>623421</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>916906</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1697384</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3809868</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_under-21_football_team</WikiTitle> <WikiTitleID>10815871</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semi-legendary_kings_of_Sweden</WikiTitle> <WikiTitleID>893528</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_rugby_union_team</WikiTitle> <WikiTitleID>5090917</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden,_New_York</WikiTitle> <WikiTitleID>126646</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elitserien</WikiTitle> <WikiTitleID>332982</WikiTitleID> <RankerScore>0.04241726448576839</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>France</EntitySurfaceForm>
+	<EntityTextStart>515</EntityTextStart>
+	<EntityTextEnd>521</EntityTextEnd>
+	<LinkerScore>0.9261813339546586</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>France</WikiTitle>
+		<WikiTitleID>5843419</WikiTitleID>
+		<RankerScore>0.14392834111449335</RankerScore>
+		<Attributes>nation	country	state	republic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>France</WikiTitle> <WikiTitleID>5843419</WikiTitleID> <RankerScore>0.14392834111449335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.053399454944167944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_union_team</WikiTitle> <WikiTitleID>955656</WikiTitleID> <RankerScore>0.05760296239595291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_France</WikiTitle> <WikiTitleID>1069393</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Third_Republic</WikiTitle> <WikiTitleID>227177</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_league_team</WikiTitle> <WikiTitleID>966005</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_France</WikiTitle> <WikiTitleID>228080</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_French_Empire</WikiTitle> <WikiTitleID>216066</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_France</WikiTitle> <WikiTitleID>10784</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_basketball_team</WikiTitle> <WikiTitleID>1849804</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_French_Empire</WikiTitle> <WikiTitleID>215778</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_France</WikiTitle> <WikiTitleID>13854</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_Davis_Cup_team</WikiTitle> <WikiTitleID>9662573</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_France</WikiTitle> <WikiTitleID>2164838</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_Monarchy</WikiTitle> <WikiTitleID>374278</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_poetry</WikiTitle> <WikiTitleID>1551274</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_France</WikiTitle> <WikiTitleID>1809451</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_First_Republic</WikiTitle> <WikiTitleID>62243</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913656</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_cricket_team</WikiTitle> <WikiTitleID>4389582</WikiTitleID> <RankerScore>0.04382760244384622</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>290</EntitySurfaceForm>
+	<EntityTextStart>535</EntityTextStart>
+	<EntityTextEnd>538</EntityTextEnd>
+	<LinkerScore>0.15778447313623867</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>290</WikiTitle>
+		<WikiTitleID>43737</WikiTitleID>
+		<RankerScore>0.21640351639821426</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>290</WikiTitle> <WikiTitleID>43737</WikiTitleID> <RankerScore>0.21640351639821426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>290_(number)</WikiTitle> <WikiTitleID>5495129</WikiTitleID> <RankerScore>0.10393150036724004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kindersley_No._290,_Saskatchewan</WikiTitle> <WikiTitleID>11222307</WikiTitleID> <RankerScore>0.10271759688911176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_290_(Illinois)</WikiTitle> <WikiTitleID>1346163</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_290_(Massachusetts)</WikiTitle> <WikiTitleID>1619376</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_290</WikiTitle> <WikiTitleID>735657</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Route_290</WikiTitle> <WikiTitleID>5979603</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>290_BC</WikiTitle> <WikiTitleID>77155</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_290</WikiTitle> <WikiTitleID>3262326</WikiTitleID> <RankerScore>0.09615789772423898</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Colin Montgomerie</EntitySurfaceForm>
+	<EntityTextStart>539</EntityTextStart>
+	<EntityTextEnd>556</EntityTextEnd>
+	<LinkerScore>1.2244932945497953</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colin_Montgomerie</WikiTitle>
+		<WikiTitleID>379616</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	alumnus	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colin_Montgomerie</WikiTitle> <WikiTitleID>379616</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Montgomerie</EntitySurfaceForm>
+	<EntityTextStart>545</EntityTextStart>
+	<EntityTextEnd>556</EntityTextEnd>
+	<LinkerScore>-0.3910169158972728</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Clan_Montgomery</WikiTitle>
+		<WikiTitleID>7015584</WikiTitleID>
+		<RankerScore>0.33478069720293246</RankerScore>
+		<Attributes>clan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Clan_Montgomery</WikiTitle> <WikiTitleID>7015584</WikiTitleID> <RankerScore>0.33478069720293246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_Montgomerie</WikiTitle> <WikiTitleID>1098675</WikiTitleID> <RankerScore>0.3328916548752782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Montgomerie</WikiTitle> <WikiTitleID>8769316</WikiTitleID> <RankerScore>0.3323276479217892</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Robert Coles</EntitySurfaceForm>
+	<EntityTextStart>570</EntityTextStart>
+	<EntityTextEnd>582</EntityTextEnd>
+	<LinkerScore>1.0544888347555408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Robert_Coles</WikiTitle>
+		<WikiTitleID>7518081</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	alumnus	recipient	psychiatrist	writer	psychologist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Robert_Coles</WikiTitle> <WikiTitleID>7518081</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Coles</EntitySurfaceForm>
+	<EntityTextStart>577</EntityTextStart>
+	<EntityTextEnd>582</EntityTextEnd>
+	<LinkerScore>0.2293081670981243</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coles_Supermarkets</WikiTitle>
+		<WikiTitleID>839967</WikiTitleID>
+		<RankerScore>0.25604315668989364</RankerScore>
+		<Attributes>supermarket</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coles_Supermarkets</WikiTitle> <WikiTitleID>839967</WikiTitleID> <RankerScore>0.25604315668989364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coles_County,_Illinois</WikiTitle> <WikiTitleID>96269</WikiTitleID> <RankerScore>0.12358251522365331</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coles_(bookstore)</WikiTitle> <WikiTitleID>1012150</WikiTitleID> <RankerScore>0.13975255726855562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laveranues_Coles</WikiTitle> <WikiTitleID>454047</WikiTitleID> <RankerScore>0.12015544270447438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coles_Group</WikiTitle> <WikiTitleID>8097803</WikiTitleID> <RankerScore>0.12015544270447438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cowper_Phipps_Coles</WikiTitle> <WikiTitleID>2661915</WikiTitleID> <RankerScore>0.12015544270447438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Morialta</WikiTitle> <WikiTitleID>4408771</WikiTitleID> <RankerScore>0.12015544270447438</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Philip Walton</EntitySurfaceForm>
+	<EntityTextStart>596</EntityTextStart>
+	<EntityTextEnd>609</EntityTextEnd>
+	<LinkerScore>1.0746144378437714</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Philip_Walton</WikiTitle>
+		<WikiTitleID>5179238</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Philip_Walton</WikiTitle> <WikiTitleID>5179238</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ireland</EntitySurfaceForm>
+	<EntityTextStart>611</EntityTextStart>
+	<EntityTextEnd>618</EntityTextEnd>
+	<LinkerScore>0.5060437468039326</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ireland</WikiTitle>
+		<WikiTitleID>147575</WikiTitleID>
+		<RankerScore>0.12544208412140406</RankerScore>
+		<Attributes>region	nation	island	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ireland</WikiTitle> <WikiTitleID>147575</WikiTitleID> <RankerScore>0.12544208412140406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland</WikiTitle> <WikiTitleID>14560</WikiTitleID> <RankerScore>0.0752177553681478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_rugby_union_team</WikiTitle> <WikiTitleID>955500</WikiTitleID> <RankerScore>0.052134920998748495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_football_team_(1882–1950)</WikiTitle> <WikiTitleID>6967081</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_cricket_team</WikiTitle> <WikiTitleID>2217991</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Ireland</WikiTitle> <WikiTitleID>168432</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_rugby_league_team</WikiTitle> <WikiTitleID>738863</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_poetry</WikiTitle> <WikiTitleID>338104</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Free_State</WikiTitle> <WikiTitleID>42953</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Ireland</WikiTitle> <WikiTitleID>2164848</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_national_football_team</WikiTitle> <WikiTitleID>426388</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7045206</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_Ireland</WikiTitle> <WikiTitleID>192649</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Rugby_Football_Union</WikiTitle> <WikiTitleID>375222</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Singles_Chart</WikiTitle> <WikiTitleID>3627762</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Éire</WikiTitle> <WikiTitleID>42965</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy_of_Ireland</WikiTitle> <WikiTitleID>154671</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_of_Ireland</WikiTitle> <WikiTitleID>439098</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_international_rules_football_team</WikiTitle> <WikiTitleID>5402922</WikiTitleID> <RankerScore>0.043953249383041154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peter Mitchell</EntitySurfaceForm>
+	<EntityTextStart>633</EntityTextStart>
+	<EntityTextEnd>647</EntityTextEnd>
+	<LinkerScore>-0.01310039063310553</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Mitchell_(golfer)</WikiTitle>
+		<WikiTitleID>5000237</WikiTitleID>
+		<RankerScore>0.3056956078435801</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(politician)</WikiTitle> <WikiTitleID>580628</WikiTitleID> <RankerScore>0.2661379264967752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(newsreader)</WikiTitle> <WikiTitleID>3903445</WikiTitleID> <RankerScore>0.24706671290260623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_D._Mitchell</WikiTitle> <WikiTitleID>1256186</WikiTitleID> <RankerScore>0.18109975275703857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(golfer)</WikiTitle> <WikiTitleID>5000237</WikiTitleID> <RankerScore>0.3056956078435801</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mitchell</EntitySurfaceForm>
+	<EntityTextStart>639</EntityTextStart>
+	<EntityTextEnd>647</EntityTextEnd>
+	<LinkerScore>0.050531464571017204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Mitchell_(golfer)</WikiTitle>
+		<WikiTitleID>5000237</WikiTitleID>
+		<RankerScore>0.3083176053055066</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(politician)</WikiTitle> <WikiTitleID>580628</WikiTitleID> <RankerScore>0.26640925786477815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(newsreader)</WikiTitle> <WikiTitleID>3903445</WikiTitleID> <RankerScore>0.2426200641037243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_D._Mitchell</WikiTitle> <WikiTitleID>1256186</WikiTitleID> <RankerScore>0.18265307272599102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_Mitchell_(golfer)</WikiTitle> <WikiTitleID>5000237</WikiTitleID> <RankerScore>0.3083176053055066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Klas Eriksson</EntitySurfaceForm>
+	<EntityTextStart>661</EntityTextStart>
+	<EntityTextEnd>674</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Klas_Eriksson</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sweden</EntitySurfaceForm>
+	<EntityTextStart>676</EntityTextStart>
+	<EntityTextEnd>682</EntityTextEnd>
+	<LinkerScore>0.9074899249917645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sweden</WikiTitle>
+		<WikiTitleID>5058739</WikiTitleID>
+		<RankerScore>0.1520430125676428</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sweden</WikiTitle> <WikiTitleID>5058739</WikiTitleID> <RankerScore>0.1520430125676428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_football_team</WikiTitle> <WikiTitleID>578468</WikiTitleID> <RankerScore>0.0704248116248121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Empire</WikiTitle> <WikiTitleID>18589276</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_between_Sweden_and_Norway</WikiTitle> <WikiTitleID>217537</WikiTitleID> <RankerScore>0.05318592804860622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sweden_(1772–1809)</WikiTitle> <WikiTitleID>217498</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>747522</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_speedway_team</WikiTitle> <WikiTitleID>12514891</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_Davis_Cup_team</WikiTitle> <WikiTitleID>9662917</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2086865</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Sweden</WikiTitle> <WikiTitleID>4707858</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_literature</WikiTitle> <WikiTitleID>1768396</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Sweden</WikiTitle> <WikiTitleID>623421</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>916906</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1697384</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3809868</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_under-21_football_team</WikiTitle> <WikiTitleID>10815871</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semi-legendary_kings_of_Sweden</WikiTitle> <WikiTitleID>893528</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_rugby_union_team</WikiTitle> <WikiTitleID>5090917</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden,_New_York</WikiTitle> <WikiTitleID>126646</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elitserien</WikiTitle> <WikiTitleID>332982</WikiTitleID> <RankerScore>0.04260860280934935</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pedro Linhart</EntitySurfaceForm>
+	<EntityTextStart>697</EntityTextStart>
+	<EntityTextEnd>710</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pedro_Linhart</WikiTitle>
+		<WikiTitleID>5285076</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Linhart</EntitySurfaceForm>
+	<EntityTextStart>703</EntityTextStart>
+	<EntityTextEnd>710</EntityTextEnd>
+	<LinkerScore>1.0413512655213073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Toni_Linhart</WikiTitle>
+		<WikiTitleID>9076240</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player	footballer	placekicker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Toni_Linhart</WikiTitle> <WikiTitleID>9076240</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spain</EntitySurfaceForm>
+	<EntityTextStart>712</EntityTextStart>
+	<EntityTextEnd>717</EntityTextEnd>
+	<LinkerScore>1.027736047784606</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spain</WikiTitle>
+		<WikiTitleID>26667</WikiTitleID>
+		<RankerScore>0.15961847712087313</RankerScore>
+		<Attributes>member	state	country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spain</WikiTitle> <WikiTitleID>26667</WikiTitleID> <RankerScore>0.15961847712087313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_football_team</WikiTitle> <WikiTitleID>609825</WikiTitleID> <RankerScore>0.06832275055426043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Empire</WikiTitle> <WikiTitleID>303062</WikiTitleID> <RankerScore>0.06333522468939545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_field_hockey_team</WikiTitle> <WikiTitleID>7091174</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_basketball_team</WikiTitle> <WikiTitleID>2858371</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Spain</WikiTitle> <WikiTitleID>4983430</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_rugby_union_team</WikiTitle> <WikiTitleID>4522177</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7376954</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_poetry</WikiTitle> <WikiTitleID>1510996</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Spain</WikiTitle> <WikiTitleID>938546</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Spain</WikiTitle> <WikiTitleID>2161043</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispania</WikiTitle> <WikiTitleID>491116</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_under_Franco</WikiTitle> <WikiTitleID>2044570</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_handball_team</WikiTitle> <WikiTitleID>5880601</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Davis_Cup_team</WikiTitle> <WikiTitleID>9663202</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_Fed_Cup_team</WikiTitle> <WikiTitleID>11233291</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_under-21_football_team</WikiTitle> <WikiTitleID>3313708</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Andalus</WikiTitle> <WikiTitleID>355643</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Spain</WikiTitle> <WikiTitleID>957951</WikiTitleID> <RankerScore>0.04168962044914535</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>291</EntitySurfaceForm>
+	<EntityTextStart>731</EntityTextStart>
+	<EntityTextEnd>734</EntityTextEnd>
+	<LinkerScore>0.10240749410434667</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>291</WikiTitle>
+		<WikiTitleID>43738</WikiTitleID>
+		<RankerScore>0.22399943234189856</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>291</WikiTitle> <WikiTitleID>43738</WikiTitleID> <RankerScore>0.22399943234189856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Little_Galleries_of_the_Photo-Secession</WikiTitle> <WikiTitleID>1809339</WikiTitleID> <RankerScore>0.119219680548433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>291_BC</WikiTitle> <WikiTitleID>77153</WikiTitleID> <RankerScore>0.1112893712553893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_291_(Connecticut)</WikiTitle> <WikiTitleID>2563934</WikiTitleID> <RankerScore>0.10909830317085582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_291_(Massachusetts)</WikiTitle> <WikiTitleID>1611795</WikiTitleID> <RankerScore>0.10909830317085582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Missouri_Route_291</WikiTitle> <WikiTitleID>2276973</WikiTitleID> <RankerScore>0.10909830317085582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>290_(number)</WikiTitle> <WikiTitleID>5495129</WikiTitleID> <RankerScore>0.10909830317085582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_291</WikiTitle> <WikiTitleID>3262322</WikiTitleID> <RankerScore>0.10909830317085582</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Phillip Price</EntitySurfaceForm>
+	<EntityTextStart>735</EntityTextStart>
+	<EntityTextEnd>748</EntityTextEnd>
+	<LinkerScore>0.9645923943682485</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Phillip_Price</WikiTitle>
+		<WikiTitleID>4038081</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Phillip_Price</WikiTitle> <WikiTitleID>4038081</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Adam Hunter</EntitySurfaceForm>
+	<EntityTextStart>762</EntityTextStart>
+	<EntityTextEnd>773</EntityTextEnd>
+	<LinkerScore>0.40512457612978314</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Adam_Hunter_(actor)</WikiTitle>
+		<WikiTitleID>3003574</WikiTitleID>
+		<RankerScore>0.38152475468087144</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(actor)</WikiTitle> <WikiTitleID>3003574</WikiTitleID> <RankerScore>0.38152475468087144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(footballer)</WikiTitle> <WikiTitleID>5603906</WikiTitleID> <RankerScore>0.2088871337255668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(golfer)</WikiTitle> <WikiTitleID>5223086</WikiTitleID> <RankerScore>0.25011240046421196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(Comedian)</WikiTitle> <WikiTitleID>18308538</WikiTitleID> <RankerScore>0.15947571112934986</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Adam</EntitySurfaceForm>
+	<EntityTextStart>762</EntityTextStart>
+	<EntityTextEnd>766</EntityTextEnd>
+	<LinkerScore>0.2731887455983013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Adam_(Bible)</WikiTitle>
+		<WikiTitleID>3775581</WikiTitleID>
+		<RankerScore>0.08461712691871502</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Adam_(Bible)</WikiTitle> <WikiTitleID>3775581</WikiTitleID> <RankerScore>0.08461712691871502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_and_Eve</WikiTitle> <WikiTitleID>11473533</WikiTitleID> <RankerScore>0.05166958560595524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_(Buffy_the_Vampire_Slayer)</WikiTitle> <WikiTitleID>626913</WikiTitleID> <RankerScore>0.05799437727361599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_(name)</WikiTitle> <WikiTitleID>789130</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_(Torchwood)</WikiTitle> <WikiTitleID>14693026</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam</WikiTitle> <WikiTitleID>2793003</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_view_of_Adam</WikiTitle> <WikiTitleID>4390814</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_(Singer)</WikiTitle> <WikiTitleID>14589639</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Carrington</WikiTitle> <WikiTitleID>10797968</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam,_Oman</WikiTitle> <WikiTitleID>4196869</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adolphe_Adam</WikiTitle> <WikiTitleID>472353</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_of_Melrose</WikiTitle> <WikiTitleID>5877479</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Cartwright</WikiTitle> <WikiTitleID>7666207</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Selwood</WikiTitle> <WikiTitleID>3974727</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Mayfair</WikiTitle> <WikiTitleID>13340025</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder_of_Adam_Walsh</WikiTitle> <WikiTitleID>347084</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Barlow</WikiTitle> <WikiTitleID>2841055</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Bede_(character)</WikiTitle> <WikiTitleID>10145754</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Faulkner</WikiTitle> <WikiTitleID>7921643</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hepburn,_2nd_Earl_of_Bothwell</WikiTitle> <WikiTitleID>1520903</WikiTitleID> <RankerScore>0.04739523001186551</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hunter</EntitySurfaceForm>
+	<EntityTextStart>767</EntityTextStart>
+	<EntityTextEnd>773</EntityTextEnd>
+	<LinkerScore>0.9534525297457921</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Adam_Hunter_(actor)</WikiTitle>
+		<WikiTitleID>3003574</WikiTitleID>
+		<RankerScore>0.4686038232405515</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(actor)</WikiTitle> <WikiTitleID>3003574</WikiTitleID> <RankerScore>0.4686038232405515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(footballer)</WikiTitle> <WikiTitleID>5603906</WikiTitleID> <RankerScore>0.17893677547154935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(golfer)</WikiTitle> <WikiTitleID>5223086</WikiTitleID> <RankerScore>0.2121465044023379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adam_Hunter_(Comedian)</WikiTitle> <WikiTitleID>18308538</WikiTitleID> <RankerScore>0.14031289688556123</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>70 79</EntitySurfaceForm>
+	<EntityTextStart>774</EntityTextStart>
+	<EntityTextEnd>779</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>70s</WikiTitle>
+		<WikiTitleID>34826</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peter O&apos;Malley</EntitySurfaceForm>
+	<EntityTextStart>787</EntityTextStart>
+	<EntityTextEnd>801</EntityTextEnd>
+	<LinkerScore>0.09058506501118216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_O&apos;Malley</WikiTitle>
+		<WikiTitleID>3825935</WikiTitleID>
+		<RankerScore>0.5119537085532052</RankerScore>
+		<Attributes>person	executive	sportspeople	owner	president</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_O&apos;Malley</WikiTitle> <WikiTitleID>3825935</WikiTitleID> <RankerScore>0.5119537085532052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_O&apos;Malley_(golfer)</WikiTitle> <WikiTitleID>5247171</WikiTitleID> <RankerScore>0.4880462914467948</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Australia</EntitySurfaceForm>
+	<EntityTextStart>803</EntityTextStart>
+	<EntityTextEnd>812</EntityTextEnd>
+	<LinkerScore>0.6586422274544076</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Australia</WikiTitle>
+		<WikiTitleID>4689264</WikiTitleID>
+		<RankerScore>0.15797098642034277</RankerScore>
+		<Attributes>country	state	member	nation	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Australia</WikiTitle> <WikiTitleID>4689264</WikiTitleID> <RankerScore>0.15797098642034277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_cricket_team</WikiTitle> <WikiTitleID>374833</WikiTitleID> <RankerScore>0.05653923687011028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_football_(soccer)_team</WikiTitle> <WikiTitleID>4792249</WikiTitleID> <RankerScore>0.07053193533747011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_union_team</WikiTitle> <WikiTitleID>620967</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_league_team</WikiTitle> <WikiTitleID>951978</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Davis_Cup_team</WikiTitle> <WikiTitleID>9656856</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_literature</WikiTitle> <WikiTitleID>1075201</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154946</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_field_hockey_team</WikiTitle> <WikiTitleID>2977039</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockeyroos</WikiTitle> <WikiTitleID>2977095</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_speedway_team</WikiTitle> <WikiTitleID>12519514</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_basketball_team</WikiTitle> <WikiTitleID>4178047</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>910739</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(continent)</WikiTitle> <WikiTitleID>3606949</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Australia</WikiTitle> <WikiTitleID>2164807</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ARIA_Charts</WikiTitle> <WikiTitleID>3002226</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_wine</WikiTitle> <WikiTitleID>3959588</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233323</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(2008_film)</WikiTitle> <WikiTitleID>8078282</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_netball_team</WikiTitle> <WikiTitleID>3630653</WikiTitleID> <RankerScore>0.04205634361012217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mark Roe</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>835</EntityTextEnd>
+	<LinkerScore>1.0201819958280542</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mark_Roe</WikiTitle>
+		<WikiTitleID>4353394</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mark_Roe</WikiTitle> <WikiTitleID>4353394</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Roe</EntitySurfaceForm>
+	<EntityTextStart>832</EntityTextStart>
+	<EntityTextEnd>835</EntityTextEnd>
+	<LinkerScore>-0.33508061722796073</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Roe</WikiTitle>
+		<WikiTitleID>294507</WikiTitleID>
+		<RankerScore>0.11564772857996052</RankerScore>
+		<Attributes>product</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Roe</WikiTitle> <WikiTitleID>294507</WikiTitleID> <RankerScore>0.11564772857996052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_H._Roe</WikiTitle> <WikiTitleID>8184189</WikiTitleID> <RankerScore>0.11556514452060228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electoral_district_of_Roe</WikiTitle> <WikiTitleID>4283179</WikiTitleID> <RankerScore>0.11233713773725622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_Roe_(Northern_Ireland)</WikiTitle> <WikiTitleID>15012334</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norma_McCorvey</WikiTitle> <WikiTitleID>113479</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_Roe</WikiTitle> <WikiTitleID>1184541</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billy_Roe</WikiTitle> <WikiTitleID>5420404</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avro</WikiTitle> <WikiTitleID>49812</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alliott_Verdon_Roe</WikiTitle> <WikiTitleID>3357299</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roe_Deer</WikiTitle> <WikiTitleID>274788</WikiTitleID> <RankerScore>0.09377856988031158</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mike Clayton</EntitySurfaceForm>
+	<EntityTextStart>849</EntityTextStart>
+	<EntityTextEnd>861</EntityTextEnd>
+	<LinkerScore>1.0082117592727942</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michael_P._Clayton</WikiTitle>
+		<WikiTitleID>17607197</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>alumnus	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michael_P._Clayton</WikiTitle> <WikiTitleID>17607197</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Clayton</EntitySurfaceForm>
+	<EntityTextStart>854</EntityTextStart>
+	<EntityTextEnd>861</EntityTextEnd>
+	<LinkerScore>1.1121540571839097</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michael_P._Clayton</WikiTitle>
+		<WikiTitleID>17607197</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>alumnus	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michael_P._Clayton</WikiTitle> <WikiTitleID>17607197</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Australia</EntitySurfaceForm>
+	<EntityTextStart>863</EntityTextStart>
+	<EntityTextEnd>872</EntityTextEnd>
+	<LinkerScore>0.6451942064558488</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Australia</WikiTitle>
+		<WikiTitleID>4689264</WikiTitleID>
+		<RankerScore>0.1582326917584501</RankerScore>
+		<Attributes>country	state	member	nation	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Australia</WikiTitle> <WikiTitleID>4689264</WikiTitleID> <RankerScore>0.1582326917584501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_cricket_team</WikiTitle> <WikiTitleID>374833</WikiTitleID> <RankerScore>0.054526020582360994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_football_(soccer)_team</WikiTitle> <WikiTitleID>4792249</WikiTitleID> <RankerScore>0.06946107125307302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_union_team</WikiTitle> <WikiTitleID>620967</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_league_team</WikiTitle> <WikiTitleID>951978</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Davis_Cup_team</WikiTitle> <WikiTitleID>9656856</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_literature</WikiTitle> <WikiTitleID>1075201</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154946</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_field_hockey_team</WikiTitle> <WikiTitleID>2977039</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockeyroos</WikiTitle> <WikiTitleID>2977095</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_speedway_team</WikiTitle> <WikiTitleID>12519514</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_basketball_team</WikiTitle> <WikiTitleID>4178047</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>910739</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(continent)</WikiTitle> <WikiTitleID>3606949</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Australia</WikiTitle> <WikiTitleID>2164807</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ARIA_Charts</WikiTitle> <WikiTitleID>3002226</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_wine</WikiTitle> <WikiTitleID>3959588</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233323</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_(2008_film)</WikiTitle> <WikiTitleID>8078282</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_netball_team</WikiTitle> <WikiTitleID>3630653</WikiTitleID> <RankerScore>0.042222365670947996</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>292</EntitySurfaceForm>
+	<EntityTextStart>886</EntityTextStart>
+	<EntityTextEnd>889</EntityTextEnd>
+	<LinkerScore>-0.11221545109234712</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>292</WikiTitle>
+		<WikiTitleID>43735</WikiTitleID>
+		<RankerScore>0.19443288412026838</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>292</WikiTitle> <WikiTitleID>43735</WikiTitleID> <RankerScore>0.19443288412026838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_State_Route_292</WikiTitle> <WikiTitleID>15151429</WikiTitleID> <RankerScore>0.13339150054167592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milton_No._292,_Saskatchewan</WikiTitle> <WikiTitleID>8572000</WikiTitleID> <RankerScore>0.1266499498340606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>292_BC</WikiTitle> <WikiTitleID>77150</WikiTitleID> <RankerScore>0.109105133100799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_292</WikiTitle> <WikiTitleID>3262317</WikiTitleID> <RankerScore>0.109105133100799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_numbered_highways_in_Ohio</WikiTitle> <WikiTitleID>716390</WikiTitleID> <RankerScore>0.109105133100799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>290_(number)</WikiTitle> <WikiTitleID>5495129</WikiTitleID> <RankerScore>0.109105133100799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_292</WikiTitle> <WikiTitleID>10902850</WikiTitleID> <RankerScore>0.109105133100799</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iain Pyman</EntitySurfaceForm>
+	<EntityTextStart>890</EntityTextStart>
+	<EntityTextEnd>900</EntityTextEnd>
+	<LinkerScore>0.9934114459056237</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iain_Pyman</WikiTitle>
+		<WikiTitleID>5088382</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iain_Pyman</WikiTitle> <WikiTitleID>5088382</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>David Gilford</EntitySurfaceForm>
+	<EntityTextStart>914</EntityTextStart>
+	<EntityTextEnd>927</EntityTextEnd>
+	<LinkerScore>1.0157148982404616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>David_Gilford</WikiTitle>
+		<WikiTitleID>2028738</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>David_Gilford</WikiTitle> <WikiTitleID>2028738</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gilford</EntitySurfaceForm>
+	<EntityTextStart>920</EntityTextStart>
+	<EntityTextEnd>927</EntityTextEnd>
+	<LinkerScore>0.12517488503703578</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gilford</WikiTitle>
+		<WikiTitleID>2490678</WikiTitleID>
+		<RankerScore>0.3320831206014853</RankerScore>
+		<Attributes>village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gilford,_New_Hampshire</WikiTitle> <WikiTitleID>124488</WikiTitleID> <RankerScore>0.2930654542097382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gilford</WikiTitle> <WikiTitleID>2490678</WikiTitleID> <RankerScore>0.3320831206014853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gilford_Middle_High_School</WikiTitle> <WikiTitleID>14884481</WikiTitleID> <RankerScore>0.19852457551397867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Innisfil,_Ontario</WikiTitle> <WikiTitleID>407842</WikiTitleID> <RankerScore>0.17632684967479798</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peter Hedblom</EntitySurfaceForm>
+	<EntityTextStart>941</EntityTextStart>
+	<EntityTextEnd>954</EntityTextEnd>
+	<LinkerScore>1.015146687044942</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Hedblom</WikiTitle>
+		<WikiTitleID>4377532</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_Hedblom</WikiTitle> <WikiTitleID>4377532</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sweden</EntitySurfaceForm>
+	<EntityTextStart>956</EntityTextStart>
+	<EntityTextEnd>962</EntityTextEnd>
+	<LinkerScore>0.8379782540044807</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sweden</WikiTitle>
+		<WikiTitleID>5058739</WikiTitleID>
+		<RankerScore>0.14215577742888122</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sweden</WikiTitle> <WikiTitleID>5058739</WikiTitleID> <RankerScore>0.14215577742888122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_football_team</WikiTitle> <WikiTitleID>578468</WikiTitleID> <RankerScore>0.06851654158116653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Empire</WikiTitle> <WikiTitleID>18589276</WikiTitleID> <RankerScore>0.05765670853609625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_between_Sweden_and_Norway</WikiTitle> <WikiTitleID>217537</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sweden_(1772–1809)</WikiTitle> <WikiTitleID>217498</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>747522</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_speedway_team</WikiTitle> <WikiTitleID>12514891</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_Davis_Cup_team</WikiTitle> <WikiTitleID>9662917</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2086865</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Sweden</WikiTitle> <WikiTitleID>4707858</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_literature</WikiTitle> <WikiTitleID>1768396</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Sweden</WikiTitle> <WikiTitleID>623421</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>916906</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1697384</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3809868</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_under-21_football_team</WikiTitle> <WikiTitleID>10815871</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semi-legendary_kings_of_Sweden</WikiTitle> <WikiTitleID>893528</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_rugby_union_team</WikiTitle> <WikiTitleID>5090917</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden,_New_York</WikiTitle> <WikiTitleID>126646</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elitserien</WikiTitle> <WikiTitleID>332982</WikiTitleID> <RankerScore>0.04303946896787388</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stephen McAllister</EntitySurfaceForm>
+	<EntityTextStart>977</EntityTextStart>
+	<EntityTextEnd>995</EntityTextEnd>
+	<LinkerScore>0.9264850834095598</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stephen_McAllister</WikiTitle>
+		<WikiTitleID>5266169</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>golfer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stephen_McAllister</WikiTitle> <WikiTitleID>5266169</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

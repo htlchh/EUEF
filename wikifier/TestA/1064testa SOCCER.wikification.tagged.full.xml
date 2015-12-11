@@ -1,0 +1,687 @@
+<WikifierOutput>
+<InputFilename>
+1064testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- UKRAINE BEAT NORTHERN IRELAND IN WORLD CUP QUALIFIER.
+BELFAST 1996-08-31
+Ukraine beat Northern Ireland 1-0( halftime 0-0) in a World Cup soccer European group nine qualifier on Saturday.
+Scorer: Sergei Rebrov( 79th minute)
+Attendance: 9,358
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>UKRAINE</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>0.053710528320038475</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ukraine</WikiTitle>
+		<WikiTitleID>31750</WikiTitleID>
+		<RankerScore>0.17471692762630686</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ukraine</WikiTitle> <WikiTitleID>31750</WikiTitleID> <RankerScore>0.17471692762630686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_football_team</WikiTitle> <WikiTitleID>1008682</WikiTitleID> <RankerScore>0.15325748692727187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>376732</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913672</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_under-21_football_team</WikiTitle> <WikiTitleID>3302836</WikiTitleID> <RankerScore>0.07993377425784241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_handball_team</WikiTitle> <WikiTitleID>8273314</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Ukraine</WikiTitle> <WikiTitleID>31831</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_People&apos;s_Republic</WikiTitle> <WikiTitleID>1375580</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_rugby_union_team</WikiTitle> <WikiTitleID>7313825</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Ukraine</WikiTitle> <WikiTitleID>84795</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_wine</WikiTitle> <WikiTitleID>3883637</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_Davis_Cup_team</WikiTitle> <WikiTitleID>10154458</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reichskommissariat_Ukraine</WikiTitle> <WikiTitleID>3171814</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_ice_hockey_team</WikiTitle> <WikiTitleID>1822194</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_and_the_European_Union</WikiTitle> <WikiTitleID>5612265</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_Basketball_Super_League</WikiTitle> <WikiTitleID>4561773</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orange_Revolution</WikiTitle> <WikiTitleID>1209133</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Ukraine</WikiTitle> <WikiTitleID>409138</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Ukraine</WikiTitle> <WikiTitleID>31828</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_women&apos;s_national_handball_team</WikiTitle> <WikiTitleID>8049719</WikiTitleID> <RankerScore>0.0348289300699164</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NORTHERN IRELAND</EntitySurfaceForm>
+	<EntityTextStart>21</EntityTextStart>
+	<EntityTextEnd>37</EntityTextEnd>
+	<LinkerScore>0.7006011415526933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_Ireland_national_football_team</WikiTitle>
+		<WikiTitleID>426388</WikiTitleID>
+		<RankerScore>0.16281648692694128</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern_Ireland</WikiTitle> <WikiTitleID>21265</WikiTitleID> <RankerScore>0.1274187871819288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_national_football_team</WikiTitle> <WikiTitleID>426388</WikiTitleID> <RankerScore>0.16281648692694128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Office</WikiTitle> <WikiTitleID>857520</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_Northern_Ireland</WikiTitle> <WikiTitleID>355737</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_national_under-21_football_team</WikiTitle> <WikiTitleID>10814520</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_law</WikiTitle> <WikiTitleID>4454680</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Banner</WikiTitle> <WikiTitleID>7345190</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_precedence_in_Northern_Ireland</WikiTitle> <WikiTitleID>367644</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Assembly</WikiTitle> <WikiTitleID>321991</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Football_Association</WikiTitle> <WikiTitleID>439057</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Northern_Ireland</WikiTitle> <WikiTitleID>353797</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography_and_politics_of_Northern_Ireland</WikiTitle> <WikiTitleID>2192700</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_in_Northern_Ireland</WikiTitle> <WikiTitleID>460544</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>8371963</WikiTitleID> <RankerScore>0.10943620112207815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Northern_Ireland</WikiTitle> <WikiTitleID>2647041</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1837454</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Northern_Ireland</WikiTitle> <WikiTitleID>174088</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Northern_Ireland</WikiTitle> <WikiTitleID>246567</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Fire_and_Rescue_Service</WikiTitle> <WikiTitleID>6055031</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Northern_Ireland</WikiTitle> <WikiTitleID>3314028</WikiTitleID> <RankerScore>0.035313442633473635</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>50</EntityTextEnd>
+	<LinkerScore>0.2030359162144334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>157233</WikiTitleID>
+		<RankerScore>0.15407477885288495</RankerScore>
+		<Attributes>tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.111349138295058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.05215199759399297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.15407477885288495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.04014259325047436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>60</EntityTextEnd>
+	<LinkerScore>0.12271469085797641</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle>
+		<WikiTitleID>4940480</WikiTitleID>
+		<RankerScore>0.09536914088449146</RankerScore>
+		<Attributes>festival</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4237189</WikiTitleID> <RankerScore>0.09452254490007007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4940480</WikiTitleID> <RankerScore>0.09536914088449146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235328</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>17475699</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>1952482</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235718</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7528350</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7127957</WikiTitleID> <RankerScore>0.06408172246695774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification_(AFC-OFC_play-off)</WikiTitle> <WikiTitleID>5556528</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_FIFA_World_Cup_qualification_(AFC)</WikiTitle> <WikiTitleID>11798982</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2014796</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2467576</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2485341</WikiTitleID> <RankerScore>0.06782059924986189</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CUP</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>50</EntityTextEnd>
+	<LinkerScore>0.2341077213046625</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cambridge_University_Press</WikiTitle>
+		<WikiTitleID>73199</WikiTitleID>
+		<RankerScore>0.26218015626316243</RankerScore>
+		<Attributes>company	shop	organisation	publisher	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cambridge_University_Press</WikiTitle> <WikiTitleID>73199</WikiTitleID> <RankerScore>0.26218015626316243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Committee_of_Union_and_Progress</WikiTitle> <WikiTitleID>500233</WikiTitleID> <RankerScore>0.19847063892106565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_units_of_pressure</WikiTitle> <WikiTitleID>3848885</WikiTitleID> <RankerScore>0.20191017280945353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Unity_Candidates</WikiTitle> <WikiTitleID>8736554</WikiTitleID> <RankerScore>0.16871951600315926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbia_University_Press</WikiTitle> <WikiTitleID>1903626</WikiTitleID> <RankerScore>0.16871951600315926</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>60</EntityTextEnd>
+	<LinkerScore>0.8113510925989136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle>
+		<WikiTitleID>1033640</WikiTitleID>
+		<RankerScore>0.7850264810005159</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_modifier</WikiTitle> <WikiTitleID>210058</WikiTitleID> <RankerScore>0.21497351899948408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle> <WikiTitleID>1033640</WikiTitleID> <RankerScore>0.7850264810005159</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BELFAST</EntitySurfaceForm>
+	<EntityTextStart>62</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>0.9085675147112381</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battle_of_Bergendal</WikiTitle>
+		<WikiTitleID>3931815</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>conflict	action	battle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battle_of_Bergendal</WikiTitle> <WikiTitleID>3931815</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ukraine</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>88</EntityTextEnd>
+	<LinkerScore>0.5303235236125935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ukraine_national_football_team</WikiTitle>
+		<WikiTitleID>1008682</WikiTitleID>
+		<RankerScore>0.173998473224902</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ukraine</WikiTitle> <WikiTitleID>31750</WikiTitleID> <RankerScore>0.16919819950786025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_football_team</WikiTitle> <WikiTitleID>1008682</WikiTitleID> <RankerScore>0.173998473224902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>376732</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913672</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_under-21_football_team</WikiTitle> <WikiTitleID>3302836</WikiTitleID> <RankerScore>0.07411282873804388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_handball_team</WikiTitle> <WikiTitleID>8273314</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Ukraine</WikiTitle> <WikiTitleID>31831</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_People&apos;s_Republic</WikiTitle> <WikiTitleID>1375580</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_rugby_union_team</WikiTitle> <WikiTitleID>7313825</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Ukraine</WikiTitle> <WikiTitleID>84795</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_wine</WikiTitle> <WikiTitleID>3883637</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_Davis_Cup_team</WikiTitle> <WikiTitleID>10154458</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reichskommissariat_Ukraine</WikiTitle> <WikiTitleID>3171814</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_national_ice_hockey_team</WikiTitle> <WikiTitleID>1822194</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_and_the_European_Union</WikiTitle> <WikiTitleID>5612265</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_Basketball_Super_League</WikiTitle> <WikiTitleID>4561773</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orange_Revolution</WikiTitle> <WikiTitleID>1209133</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Ukraine</WikiTitle> <WikiTitleID>409138</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Ukraine</WikiTitle> <WikiTitleID>31828</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukraine_women&apos;s_national_handball_team</WikiTitle> <WikiTitleID>8049719</WikiTitleID> <RankerScore>0.03427591167818787</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Northern Ireland</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>110</EntityTextEnd>
+	<LinkerScore>0.6176479485726512</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northern_Ireland_national_football_team</WikiTitle>
+		<WikiTitleID>426388</WikiTitleID>
+		<RankerScore>0.15753394477817237</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northern_Ireland</WikiTitle> <WikiTitleID>21265</WikiTitleID> <RankerScore>0.12769586683895506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_national_football_team</WikiTitle> <WikiTitleID>426388</WikiTitleID> <RankerScore>0.15753394477817237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Office</WikiTitle> <WikiTitleID>857520</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_Northern_Ireland</WikiTitle> <WikiTitleID>355737</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_national_under-21_football_team</WikiTitle> <WikiTitleID>10814520</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_law</WikiTitle> <WikiTitleID>4454680</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Banner</WikiTitle> <WikiTitleID>7345190</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_precedence_in_Northern_Ireland</WikiTitle> <WikiTitleID>367644</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Assembly</WikiTitle> <WikiTitleID>321991</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_Football_Association</WikiTitle> <WikiTitleID>439057</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Northern_Ireland</WikiTitle> <WikiTitleID>353797</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography_and_politics_of_Northern_Ireland</WikiTitle> <WikiTitleID>2192700</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_in_Northern_Ireland</WikiTitle> <WikiTitleID>460544</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>8371963</WikiTitleID> <RankerScore>0.1003060221627573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Northern_Ireland</WikiTitle> <WikiTitleID>2647041</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1837454</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_Northern_Ireland</WikiTitle> <WikiTitleID>174088</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Northern_Ireland</WikiTitle> <WikiTitleID>246567</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Ireland_Fire_and_Rescue_Service</WikiTitle> <WikiTitleID>6055031</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Northern_Ireland</WikiTitle> <WikiTitleID>3314028</WikiTitleID> <RankerScore>0.03614495095412443</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup soccer</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>151</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>144</EntityTextEnd>
+	<LinkerScore>0.045536524445494914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>157233</WikiTitleID>
+		<RankerScore>0.14463395972457196</RankerScore>
+		<Attributes>tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.12904917418241554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.05091926090039902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.14463395972457196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.039729270893683145</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>145</EntityTextStart>
+	<EntityTextEnd>151</EntityTextEnd>
+	<LinkerScore>0.4906610051358973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.1598158169459805</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.1598158169459805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.04139565532246023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.10086829243175831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.04105413148822358</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sergei Rebrov</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>0.9719517535228196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Serhiy_Rebrov</WikiTitle>
+		<WikiTitleID>2606164</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	footballer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Serhiy_Rebrov</WikiTitle> <WikiTitleID>2606164</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,916 @@
+<WikifierOutput>
+<InputFilename>
+1038testa Ericsson
+</InputFilename>
+<InputText>
+Ericsson says wins 1.2 bln SKR China order.
+STOCKHOLM 1996-08-30
+Swedish telecoms group LM Ericsson AB said on Friday it won an order worth 1.2 billion crowns for a fixed public telecoms network in the Guangdong province of China.
+Ericsson said in a statement the order was from the Guangdong Post and Telecommunications Administration( GPTA).
+The order included AXE switching equipment, ISDN equipment, Intelligent Network( IN) products, broad-band multi-media communication network products, services and training, Ericsson spokesman Per Zetterquist told Reuters.
+Deliveries are due to be completed by 1999, the company said.-- Stockholm newsroom+46-8-700 1017
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Ericsson</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>8</EntityTextEnd>
+	<LinkerScore>1.1204576622292732</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>0.6253027165256829</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>0.6253027165256829</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ericsson</WikiTitle> <WikiTitleID>105978</WikiTitleID> <RankerScore>0.16453301262232883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ericsson,_Minneapolis</WikiTitle> <WikiTitleID>7058063</WikiTitleID> <RankerScore>0.10392734122504756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Ericsson_(TB-2)</WikiTitle> <WikiTitleID>11411938</WikiTitleID> <RankerScore>0.10623692962694065</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bln</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BLN</WikiTitle>
+		<WikiTitleID>12971921</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>song</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SKR</EntitySurfaceForm>
+	<EntityTextStart>27</EntityTextStart>
+	<EntityTextEnd>30</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>SKr</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>China</EntitySurfaceForm>
+	<EntityTextStart>31</EntityTextStart>
+	<EntityTextEnd>36</EntityTextEnd>
+	<LinkerScore>0.2965877831973427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>China</WikiTitle>
+		<WikiTitleID>5042862</WikiTitleID>
+		<RankerScore>0.13841688389367132</RankerScore>
+		<Attributes>peoples	civilization	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>China</WikiTitle> <WikiTitleID>5042862</WikiTitleID> <RankerScore>0.13841688389367132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>5405</WikiTitleID> <RankerScore>0.09117137759965466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_football_team</WikiTitle> <WikiTitleID>887850</WikiTitleID> <RankerScore>0.05421912303739199</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_China</WikiTitle> <WikiTitleID>5760</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>6592635</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_China</WikiTitle> <WikiTitleID>25734</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2340671</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>914165</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_China</WikiTitle> <WikiTitleID>10791</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qing_Dynasty</WikiTitle> <WikiTitleID>25310</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_badminton_team</WikiTitle> <WikiTitleID>12987713</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mainland_China</WikiTitle> <WikiTitleID>55079</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_China</WikiTitle> <WikiTitleID>2164835</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China,_Maine</WikiTitle> <WikiTitleID>116014</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_China</WikiTitle> <WikiTitleID>2171786</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_at_the_2006_Asian_Games</WikiTitle> <WikiTitleID>8345312</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Sino-Japanese_War</WikiTitle> <WikiTitleID>69980</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_baseball_team</WikiTitle> <WikiTitleID>4318966</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_cuisine</WikiTitle> <WikiTitleID>6583</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>18533983</WikiTitleID> <RankerScore>0.042128977380546</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>STOCKHOLM</EntitySurfaceForm>
+	<EntityTextStart>44</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>0.35632356442904844</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stockholm</WikiTitle>
+		<WikiTitleID>26741</WikiTitleID>
+		<RankerScore>0.24270086492734091</RankerScore>
+		<Attributes>city	capital	seats	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stockholm</WikiTitle> <WikiTitleID>26741</WikiTitleID> <RankerScore>0.24270086492734091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_County</WikiTitle> <WikiTitleID>113610</WikiTitleID> <RankerScore>0.05477930501881709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Municipality</WikiTitle> <WikiTitleID>1021731</WikiTitleID> <RankerScore>0.12530929429376314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_University</WikiTitle> <WikiTitleID>27157</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_congestion_tax</WikiTitle> <WikiTitleID>3374000</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_Maine</WikiTitle> <WikiTitleID>115920</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_New_York</WikiTitle> <WikiTitleID>127206</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_Wisconsin</WikiTitle> <WikiTitleID>38710</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_urban_area</WikiTitle> <WikiTitleID>1269965</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_(The_Triffids_album)</WikiTitle> <WikiTitleID>12886604</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Stockholm_Philharmonic_Orchestra</WikiTitle> <WikiTitleID>4760770</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_New_Jersey</WikiTitle> <WikiTitleID>680391</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_International_Film_Festival</WikiTitle> <WikiTitleID>4140629</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_South_Dakota</WikiTitle> <WikiTitleID>134857</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Råsunda_Stadium</WikiTitle> <WikiTitleID>233771</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Metro</WikiTitle> <WikiTitleID>363545</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm-Arlanda_Airport</WikiTitle> <WikiTitleID>164050</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Open</WikiTitle> <WikiTitleID>9890222</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nordea_Nordic_Light_Open</WikiTitle> <WikiTitleID>6398955</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Art_and_Industrial_Exposition_of_Stockholm_(1897)</WikiTitle> <WikiTitleID>11960234</WikiTitleID> <RankerScore>0.03395356092706347</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Swedish</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>72</EntityTextEnd>
+	<LinkerScore>1.0069140489086208</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sweden</WikiTitle>
+		<WikiTitleID>5058739</WikiTitleID>
+		<RankerScore>0.1818211486371255</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sweden</WikiTitle> <WikiTitleID>5058739</WikiTitleID> <RankerScore>0.1818211486371255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_language</WikiTitle> <WikiTitleID>26689</WikiTitleID> <RankerScore>0.09250076962550227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_people</WikiTitle> <WikiTitleID>26718</WikiTitleID> <RankerScore>0.07044288014393209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finland_Swedish</WikiTitle> <WikiTitleID>162977</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Empire</WikiTitle> <WikiTitleID>18589276</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_American</WikiTitle> <WikiTitleID>1907371</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_alphabet</WikiTitle> <WikiTitleID>194335</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Sweden</WikiTitle> <WikiTitleID>242827</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedes_(Germanic_tribe)</WikiTitle> <WikiTitleID>173473</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Sweden</WikiTitle> <WikiTitleID>623421</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_football_team</WikiTitle> <WikiTitleID>578468</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Sweden</WikiTitle> <WikiTitleID>28490</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_literature</WikiTitle> <WikiTitleID>1768396</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_Democrats_(Sweden)</WikiTitle> <WikiTitleID>217369</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Sweden</WikiTitle> <WikiTitleID>1817676</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden–Finland</WikiTitle> <WikiTitleID>504090</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Wikipedia</WikiTitle> <WikiTitleID>1313748</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scandinavian_death_metal</WikiTitle> <WikiTitleID>209048</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Navy</WikiTitle> <WikiTitleID>198656</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Institute_at_Athens</WikiTitle> <WikiTitleID>13462903</WikiTitleID> <RankerScore>0.0385432471525553</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telecoms</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>81</EntityTextEnd>
+	<LinkerScore>0.8277793556001054</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telecommunication</WikiTitle>
+		<WikiTitleID>30322</WikiTitleID>
+		<RankerScore>0.5119625781270499</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.5119625781270499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecoms_crash</WikiTitle> <WikiTitleID>11981581</WikiTitleID> <RankerScore>0.22045685911450086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunications_network</WikiTitle> <WikiTitleID>46545</WikiTitleID> <RankerScore>0.2675805627584493</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LM Ericsson</EntitySurfaceForm>
+	<EntityTextStart>88</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>1.0874129374177124</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ericsson AB</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>1.1269683003841988</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ericsson</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>1.4816229537104637</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>0.6788842286259444</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>0.6788842286259444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ericsson</WikiTitle> <WikiTitleID>105978</WikiTitleID> <RankerScore>0.13382350277813904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ericsson,_Minneapolis</WikiTitle> <WikiTitleID>7058063</WikiTitleID> <RankerScore>0.09249324215419136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Ericsson_(TB-2)</WikiTitle> <WikiTitleID>11411938</WikiTitleID> <RankerScore>0.09479902644172526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>crowns</EntitySurfaceForm>
+	<EntityTextStart>152</EntityTextStart>
+	<EntityTextEnd>158</EntityTextEnd>
+	<LinkerScore>0.252000291776411</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Crown_(dentistry)</WikiTitle>
+		<WikiTitleID>1340551</WikiTitleID>
+		<RankerScore>0.14399049905414654</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Crown_(headgear)</WikiTitle> <WikiTitleID>95353</WikiTitleID> <RankerScore>0.11530391376942455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crown_(dentistry)</WikiTitle> <WikiTitleID>1340551</WikiTitleID> <RankerScore>0.14399049905414654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_crown_coin</WikiTitle> <WikiTitleID>242172</WikiTitleID> <RankerScore>0.10110508630347935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crown_(tooth)</WikiTitle> <WikiTitleID>9046737</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crown_(botany)</WikiTitle> <WikiTitleID>12694131</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monarchy</WikiTitle> <WikiTitleID>19013</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_koruna</WikiTitle> <WikiTitleID>1307572</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_krona</WikiTitle> <WikiTitleID>16709</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czechoslovak_koruna</WikiTitle> <WikiTitleID>2572905</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crown_of_Immortality</WikiTitle> <WikiTitleID>9618034</WikiTitleID> <RankerScore>0.09137150012470707</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telecoms</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>186</EntityTextEnd>
+	<LinkerScore>0.5783770789199343</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telecommunication</WikiTitle>
+		<WikiTitleID>30322</WikiTitleID>
+		<RankerScore>0.5393308693349969</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.5393308693349969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecoms_crash</WikiTitle> <WikiTitleID>11981581</WikiTitleID> <RankerScore>0.189648137389786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunications_network</WikiTitle> <WikiTitleID>46545</WikiTitleID> <RankerScore>0.2710209932752171</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guangdong</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>0.6291082297956793</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guangdong</WikiTitle>
+		<WikiTitleID>65109</WikiTitleID>
+		<RankerScore>0.4603972502546154</RankerScore>
+		<Attributes>province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guangdong</WikiTitle> <WikiTitleID>65109</WikiTitleID> <RankerScore>0.4603972502546154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canton_Operation</WikiTitle> <WikiTitleID>6695529</WikiTitleID> <RankerScore>0.31806414758827134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Guangdong</WikiTitle> <WikiTitleID>1585027</WikiTitleID> <RankerScore>0.22153860215711324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guangdong province</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>220</EntityTextEnd>
+	<LinkerScore>0.9501136017942883</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guangdong</WikiTitle>
+		<WikiTitleID>65109</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guangdong</WikiTitle> <WikiTitleID>65109</WikiTitleID> <RankerScore>0.6259687217303014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guangdong</WikiTitle> <WikiTitleID>65109</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>province</EntitySurfaceForm>
+	<EntityTextStart>212</EntityTextStart>
+	<EntityTextEnd>220</EntityTextEnd>
+	<LinkerScore>0.9448196888004817</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guangdong</WikiTitle>
+		<WikiTitleID>65109</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guangdong</WikiTitle> <WikiTitleID>65109</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>China</EntitySurfaceForm>
+	<EntityTextStart>224</EntityTextStart>
+	<EntityTextEnd>229</EntityTextEnd>
+	<LinkerScore>0.4911284460076538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>China</WikiTitle>
+		<WikiTitleID>5042862</WikiTitleID>
+		<RankerScore>0.17689322457701764</RankerScore>
+		<Attributes>peoples	civilization	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>China</WikiTitle> <WikiTitleID>5042862</WikiTitleID> <RankerScore>0.17689322457701764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>5405</WikiTitleID> <RankerScore>0.11450910150751392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_football_team</WikiTitle> <WikiTitleID>887850</WikiTitleID> <RankerScore>0.04952841750473016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_China</WikiTitle> <WikiTitleID>5760</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>6592635</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_China</WikiTitle> <WikiTitleID>25734</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2340671</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>914165</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_China</WikiTitle> <WikiTitleID>10791</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qing_Dynasty</WikiTitle> <WikiTitleID>25310</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_badminton_team</WikiTitle> <WikiTitleID>12987713</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mainland_China</WikiTitle> <WikiTitleID>55079</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_China</WikiTitle> <WikiTitleID>2164835</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China,_Maine</WikiTitle> <WikiTitleID>116014</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_China</WikiTitle> <WikiTitleID>2171786</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_at_the_2006_Asian_Games</WikiTitle> <WikiTitleID>8345312</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Sino-Japanese_War</WikiTitle> <WikiTitleID>69980</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_national_baseball_team</WikiTitle> <WikiTitleID>4318966</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_cuisine</WikiTitle> <WikiTitleID>6583</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>18533983</WikiTitleID> <RankerScore>0.03876877978886696</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ericsson</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>239</EntityTextEnd>
+	<LinkerScore>1.5090743474893098</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>0.6364134954500738</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>0.6364134954500738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ericsson</WikiTitle> <WikiTitleID>105978</WikiTitleID> <RankerScore>0.13734690088472362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ericsson,_Minneapolis</WikiTitle> <WikiTitleID>7058063</WikiTitleID> <RankerScore>0.12399216461840006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Ericsson_(TB-2)</WikiTitle> <WikiTitleID>11411938</WikiTitleID> <RankerScore>0.10224743904680263</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AXE</EntitySurfaceForm>
+	<EntityTextStart>363</EntityTextStart>
+	<EntityTextEnd>366</EntityTextEnd>
+	<LinkerScore>0.39709165428341175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>AXE_telephone_exchange</WikiTitle>
+		<WikiTitleID>1320706</WikiTitleID>
+		<RankerScore>0.7045101683248931</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Axe_(Lynx)</WikiTitle> <WikiTitleID>1805558</WikiTitleID> <RankerScore>0.29548983167510695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AXE_telephone_exchange</WikiTitle> <WikiTitleID>1320706</WikiTitleID> <RankerScore>0.7045101683248931</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ISDN</EntitySurfaceForm>
+	<EntityTextStart>388</EntityTextStart>
+	<EntityTextEnd>392</EntityTextEnd>
+	<LinkerScore>1.3015498420323894</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Integrated_Services_Digital_Network</WikiTitle>
+		<WikiTitleID>15231</WikiTitleID>
+		<RankerScore>0.6156709358451855</RankerScore>
+		<Attributes>protocol	recommendation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Integrated_Services_Digital_Network</WikiTitle> <WikiTitleID>15231</WikiTitleID> <RankerScore>0.6156709358451855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ISDN_(album)</WikiTitle> <WikiTitleID>5199325</WikiTitleID> <RankerScore>0.153301291200951</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ISDN_Digital_Subscriber_Line</WikiTitle> <WikiTitleID>299727</WikiTitleID> <RankerScore>0.10848061857537604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ISDN_User_Part</WikiTitle> <WikiTitleID>528563</WikiTitleID> <RankerScore>0.12254715437848752</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Intelligent Network</EntitySurfaceForm>
+	<EntityTextStart>404</EntityTextStart>
+	<EntityTextEnd>423</EntityTextEnd>
+	<LinkerScore>1.0402020445256674</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Intelligent_network</WikiTitle>
+		<WikiTitleID>41268</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>recommendation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Intelligent_network</WikiTitle> <WikiTitleID>41268</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>products</EntitySurfaceForm>
+	<EntityTextStart>429</EntityTextStart>
+	<EntityTextEnd>437</EntityTextEnd>
+	<LinkerScore>0.24994109775555282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Product_(chemistry)</WikiTitle>
+		<WikiTitleID>540448</WikiTitleID>
+		<RankerScore>0.14253779765335828</RankerScore>
+		<Attributes>reaction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Product_(chemistry)</WikiTitle> <WikiTitleID>540448</WikiTitleID> <RankerScore>0.14253779765335828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(business)</WikiTitle> <WikiTitleID>240410</WikiTitleID> <RankerScore>0.06683407504743268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(category_theory)</WikiTitle> <WikiTitleID>237868</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(mathematics)</WikiTitle> <WikiTitleID>24977</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_topology</WikiTitle> <WikiTitleID>24910</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cartesian_product</WikiTitle> <WikiTitleID>5795</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Good_(economics)</WikiTitle> <WikiTitleID>580039</WikiTitleID> <RankerScore>0.05669155942276973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_nanotechnology_applications</WikiTitle> <WikiTitleID>7067473</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Industrial_production</WikiTitle> <WikiTitleID>8340480</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_product</WikiTitle> <WikiTitleID>8887</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_fiction</WikiTitle> <WikiTitleID>1089263</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voltz</WikiTitle> <WikiTitleID>9547811</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(biology)</WikiTitle> <WikiTitleID>540433</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matrix_multiplication</WikiTitle> <WikiTitleID>125280</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mazinger_Toy_Lines</WikiTitle> <WikiTitleID>9160101</WikiTitleID> <RankerScore>0.061161380656369946</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ericsson</EntitySurfaceForm>
+	<EntityTextStart>517</EntityTextStart>
+	<EntityTextEnd>525</EntityTextEnd>
+	<LinkerScore>1.401427211665406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ericsson</WikiTitle>
+		<WikiTitleID>9424</WikiTitleID>
+		<RankerScore>0.6328353308159834</RankerScore>
+		<Attributes>company	brand	manufacturer	dispute	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ericsson</WikiTitle> <WikiTitleID>9424</WikiTitleID> <RankerScore>0.6328353308159834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ericsson</WikiTitle> <WikiTitleID>105978</WikiTitleID> <RankerScore>0.13809000353346304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ericsson,_Minneapolis</WikiTitle> <WikiTitleID>7058063</WikiTitleID> <RankerScore>0.12554561635368708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Ericsson_(TB-2)</WikiTitle> <WikiTitleID>11411938</WikiTitleID> <RankerScore>0.10352904929686649</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reuters</EntitySurfaceForm>
+	<EntityTextStart>557</EntityTextStart>
+	<EntityTextEnd>564</EntityTextEnd>
+	<LinkerScore>1.1100681332458866</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reuters</WikiTitle>
+		<WikiTitleID>101623</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	agency	company	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1999</EntitySurfaceForm>
+	<EntityTextStart>604</EntityTextStart>
+	<EntityTextEnd>608</EntityTextEnd>
+	<LinkerScore>1.226263219066538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1999</WikiTitle>
+		<WikiTitleID>34553</WikiTitleID>
+		<RankerScore>0.12120994993169752</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1999</WikiTitle> <WikiTitleID>34553</WikiTitleID> <RankerScore>0.12120994993169752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_film</WikiTitle> <WikiTitleID>169577</WikiTitleID> <RankerScore>0.05613485407849445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_music</WikiTitle> <WikiTitleID>160810</WikiTitleID> <RankerScore>0.053113758613914076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_video_gaming</WikiTitle> <WikiTitleID>1322988</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_literature</WikiTitle> <WikiTitleID>190188</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_sports</WikiTitle> <WikiTitleID>224723</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_NFL_season</WikiTitle> <WikiTitleID>2310936</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_baseball</WikiTitle> <WikiTitleID>1546015</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_poetry</WikiTitle> <WikiTitleID>5512966</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Parliament_election,_1999</WikiTitle> <WikiTitleID>294717</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_comics</WikiTitle> <WikiTitleID>9438737</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998–99_NHL_season</WikiTitle> <WikiTitleID>2360206</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>774806</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Rugby_World_Cup</WikiTitle> <WikiTitleID>266016</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_in_NASCAR</WikiTitle> <WikiTitleID>11474596</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_(song)</WikiTitle> <WikiTitleID>2006217</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_NASCAR_Busch_Series</WikiTitle> <WikiTitleID>4037146</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_CFL_season</WikiTitle> <WikiTitleID>2776412</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1999_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>9123149</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1999</WikiTitle> <WikiTitleID>4669266</WikiTitleID> <RankerScore>0.045267143375052575</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stockholm</EntitySurfaceForm>
+	<EntityTextStart>630</EntityTextStart>
+	<EntityTextEnd>639</EntityTextEnd>
+	<LinkerScore>0.7911682888369658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stockholm</WikiTitle>
+		<WikiTitleID>26741</WikiTitleID>
+		<RankerScore>0.19441201576460546</RankerScore>
+		<Attributes>city	capital	seats	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stockholm</WikiTitle> <WikiTitleID>26741</WikiTitleID> <RankerScore>0.19441201576460546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_County</WikiTitle> <WikiTitleID>113610</WikiTitleID> <RankerScore>0.05707939254453512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Municipality</WikiTitle> <WikiTitleID>1021731</WikiTitleID> <RankerScore>0.09144143194992942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_University</WikiTitle> <WikiTitleID>27157</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_congestion_tax</WikiTitle> <WikiTitleID>3374000</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_Maine</WikiTitle> <WikiTitleID>115920</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_New_York</WikiTitle> <WikiTitleID>127206</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_Wisconsin</WikiTitle> <WikiTitleID>38710</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_urban_area</WikiTitle> <WikiTitleID>1269965</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_(The_Triffids_album)</WikiTitle> <WikiTitleID>12886604</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Stockholm_Philharmonic_Orchestra</WikiTitle> <WikiTitleID>4760770</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_New_Jersey</WikiTitle> <WikiTitleID>680391</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_International_Film_Festival</WikiTitle> <WikiTitleID>4140629</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm,_South_Dakota</WikiTitle> <WikiTitleID>134857</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Råsunda_Stadium</WikiTitle> <WikiTitleID>233771</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Metro</WikiTitle> <WikiTitleID>363545</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm-Arlanda_Airport</WikiTitle> <WikiTitleID>164050</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stockholm_Open</WikiTitle> <WikiTitleID>9890222</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nordea_Nordic_Light_Open</WikiTitle> <WikiTitleID>6398955</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Art_and_Industrial_Exposition_of_Stockholm_(1897)</WikiTitle> <WikiTitleID>11960234</WikiTitleID> <RankerScore>0.03865100939652529</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

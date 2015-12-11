@@ -1,0 +1,571 @@
+<WikifierOutput>
+<InputFilename>
+983testa UK
+</InputFilename>
+<InputText>
+UK meals/ feeds follow Chicago higher, trade slow.
+LONDON 1996-08-30
+UK meals and feeds sellers marked up high protein soymeal by around 1.50 stg a tonne on Friday following gains in Chicago at Thursday&apos;s close.
+Trade was very quiet with only one deal reported when spot high protein soymeal fetched 215 stg a tonne ex-store on the south coast.&quot; I would n&apos;t get too excited about this one becuase I think it&apos;s for all of five tonnes, which when you think about just about sums up the state of the market at the moment,&quot; said a trader.-- Jim Ballantyne, London Newsroom+44 171 542 8062
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>follow</EntitySurfaceForm>
+	<EntityTextStart>16</EntityTextStart>
+	<EntityTextEnd>22</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Follow</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>30</EntityTextEnd>
+	<LinkerScore>0.570828672692465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago</WikiTitle>
+		<WikiTitleID>6886</WikiTitleID>
+		<RankerScore>0.10111480089254742</RankerScore>
+		<Attributes>place	settlement	community	city	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago</WikiTitle> <WikiTitleID>6886</WikiTitleID> <RankerScore>0.10111480089254742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(band)</WikiTitle> <WikiTitleID>168876</WikiTitleID> <RankerScore>0.07241967657747149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(musical)</WikiTitle> <WikiTitleID>213077</WikiTitleID> <RankerScore>0.07001084778019656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(2002_film)</WikiTitle> <WikiTitleID>201534</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Chicago</WikiTitle> <WikiTitleID>32127</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Fire_(soccer)</WikiTitle> <WikiTitleID>245694</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Chicago)</WikiTitle> <WikiTitleID>950469</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Blackhawks</WikiTitle> <WikiTitleID>73126</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bears</WikiTitle> <WikiTitleID>6611</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(magazine)</WikiTitle> <WikiTitleID>11267556</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(That_Toddlin&apos;_Town)</WikiTitle> <WikiTitleID>7197338</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Symphony_Orchestra</WikiTitle> <WikiTitleID>150201</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Rush</WikiTitle> <WikiTitleID>328192</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(album)</WikiTitle> <WikiTitleID>994449</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reisinger</WikiTitle> <WikiTitleID>6779185</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(Prison_Break_episode)</WikiTitle> <WikiTitleID>8483895</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Cubs</WikiTitle> <WikiTitleID>6654</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(1927_film)</WikiTitle> <WikiTitleID>198061</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.04449733380881085</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>0.24999238125532064</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_postal_district</WikiTitle>
+		<WikiTitleID>118409</WikiTitleID>
+		<RankerScore>0.6461370342725768</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.6461370342725768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.3538629657274231</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>protein</EntitySurfaceForm>
+	<EntityTextStart>111</EntityTextStart>
+	<EntityTextEnd>118</EntityTextEnd>
+	<LinkerScore>0.673668462138487</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Protein</WikiTitle>
+		<WikiTitleID>23634</WikiTitleID>
+		<RankerScore>0.17479705288388506</RankerScore>
+		<Attributes>protein</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Protein</WikiTitle> <WikiTitleID>23634</WikiTitleID> <RankerScore>0.17479705288388506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_in_nutrition</WikiTitle> <WikiTitleID>6531493</WikiTitleID> <RankerScore>0.11558773125675952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_sequencing</WikiTitle> <WikiTitleID>1076110</WikiTitleID> <RankerScore>0.09962273206564393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bodybuilding_supplement</WikiTitle> <WikiTitleID>2383985</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regulation_of_gene_expression</WikiTitle> <WikiTitleID>553121</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_metabolism</WikiTitle> <WikiTitleID>7663895</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Membrane_protein</WikiTitle> <WikiTitleID>168369</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_precursor</WikiTitle> <WikiTitleID>5452760</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soy_protein</WikiTitle> <WikiTitleID>7619431</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peptide_sequence</WikiTitle> <WikiTitleID>1107659</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proteinuria</WikiTitle> <WikiTitleID>148008</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glycoprotein</WikiTitle> <WikiTitleID>164912</WikiTitleID> <RankerScore>0.06777694264374573</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tonne</EntitySurfaceForm>
+	<EntityTextStart>148</EntityTextStart>
+	<EntityTextEnd>153</EntityTextEnd>
+	<LinkerScore>0.9596629605131343</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tonne</WikiTitle>
+		<WikiTitleID>31185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tonne</WikiTitle> <WikiTitleID>31185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago</EntitySurfaceForm>
+	<EntityTextStart>183</EntityTextStart>
+	<EntityTextEnd>190</EntityTextEnd>
+	<LinkerScore>0.35955951716709145</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago</WikiTitle>
+		<WikiTitleID>6886</WikiTitleID>
+		<RankerScore>0.1003957939989956</RankerScore>
+		<Attributes>place	settlement	community	city	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago</WikiTitle> <WikiTitleID>6886</WikiTitleID> <RankerScore>0.1003957939989956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(band)</WikiTitle> <WikiTitleID>168876</WikiTitleID> <RankerScore>0.07221483063565884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(musical)</WikiTitle> <WikiTitleID>213077</WikiTitleID> <RankerScore>0.0680673643520575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(2002_film)</WikiTitle> <WikiTitleID>201534</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Chicago</WikiTitle> <WikiTitleID>32127</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Fire_(soccer)</WikiTitle> <WikiTitleID>245694</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Chicago)</WikiTitle> <WikiTitleID>950469</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Blackhawks</WikiTitle> <WikiTitleID>73126</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bears</WikiTitle> <WikiTitleID>6611</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(magazine)</WikiTitle> <WikiTitleID>11267556</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(That_Toddlin&apos;_Town)</WikiTitle> <WikiTitleID>7197338</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Symphony_Orchestra</WikiTitle> <WikiTitleID>150201</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Rush</WikiTitle> <WikiTitleID>328192</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(album)</WikiTitle> <WikiTitleID>994449</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reisinger</WikiTitle> <WikiTitleID>6779185</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(Prison_Break_episode)</WikiTitle> <WikiTitleID>8483895</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Cubs</WikiTitle> <WikiTitleID>6654</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(1927_film)</WikiTitle> <WikiTitleID>198061</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.04466600064784047</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>protein</EntitySurfaceForm>
+	<EntityTextStart>276</EntityTextStart>
+	<EntityTextEnd>283</EntityTextEnd>
+	<LinkerScore>0.6728359946578546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Protein</WikiTitle>
+		<WikiTitleID>23634</WikiTitleID>
+		<RankerScore>0.17495165237230795</RankerScore>
+		<Attributes>protein</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Protein</WikiTitle> <WikiTitleID>23634</WikiTitleID> <RankerScore>0.17495165237230795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_in_nutrition</WikiTitle> <WikiTitleID>6531493</WikiTitleID> <RankerScore>0.11568640152972831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_sequencing</WikiTitle> <WikiTitleID>1076110</WikiTitleID> <RankerScore>0.09960352128846477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bodybuilding_supplement</WikiTitle> <WikiTitleID>2383985</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regulation_of_gene_expression</WikiTitle> <WikiTitleID>553121</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_metabolism</WikiTitle> <WikiTitleID>7663895</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Membrane_protein</WikiTitle> <WikiTitleID>168369</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_precursor</WikiTitle> <WikiTitleID>5452760</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soy_protein</WikiTitle> <WikiTitleID>7619431</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peptide_sequence</WikiTitle> <WikiTitleID>1107659</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proteinuria</WikiTitle> <WikiTitleID>148008</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glycoprotein</WikiTitle> <WikiTitleID>164912</WikiTitleID> <RankerScore>0.06775093608994433</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>215</EntitySurfaceForm>
+	<EntityTextStart>300</EntityTextStart>
+	<EntityTextEnd>303</EntityTextEnd>
+	<LinkerScore>-0.010126266394038741</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>215</WikiTitle>
+		<WikiTitleID>48021</WikiTitleID>
+		<RankerScore>0.21407068498602386</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>215</WikiTitle> <WikiTitleID>48021</WikiTitleID> <RankerScore>0.21407068498602386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_codes_215_and_267</WikiTitle> <WikiTitleID>4268269</WikiTitleID> <RankerScore>0.12778254450973223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>215_BC</WikiTitle> <WikiTitleID>60715</WikiTitleID> <RankerScore>0.11213702169412115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nova_Scotia_Route_215</WikiTitle> <WikiTitleID>5861854</WikiTitleID> <RankerScore>0.10920194976202456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Proposition_215_(1996)</WikiTitle> <WikiTitleID>197036</WikiTitleID> <RankerScore>0.10920194976202456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jalan_Tengku_Mohammad</WikiTitle> <WikiTitleID>15854466</WikiTitleID> <RankerScore>0.10920194976202456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1_decimetre</WikiTitle> <WikiTitleID>36026</WikiTitleID> <RankerScore>0.10920194976202456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_215</WikiTitle> <WikiTitleID>2784014</WikiTitleID> <RankerScore>0.10920194976202456</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tonne</EntitySurfaceForm>
+	<EntityTextStart>310</EntityTextStart>
+	<EntityTextEnd>315</EntityTextEnd>
+	<LinkerScore>0.9576050236593471</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tonne</WikiTitle>
+		<WikiTitleID>31185</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tonne</WikiTitle> <WikiTitleID>31185</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>n&apos;t</EntitySurfaceForm>
+	<EntityTextStart>354</EntityTextStart>
+	<EntityTextEnd>357</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>English_auxiliaries_and_contractions</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tonnes</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>432</EntityTextEnd>
+	<LinkerScore>0.16107402811234234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tonne</WikiTitle>
+		<WikiTitleID>31185</WikiTitleID>
+		<RankerScore>0.4232761691607852</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tonne</WikiTitle> <WikiTitleID>31185</WikiTitleID> <RankerScore>0.4232761691607852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kilogram-force</WikiTitle> <WikiTitleID>425290</WikiTitleID> <RankerScore>0.1899838446462309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tonnage</WikiTitle> <WikiTitleID>308683</WikiTitleID> <RankerScore>0.3867399861929839</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>state</EntitySurfaceForm>
+	<EntityTextStart>484</EntityTextStart>
+	<EntityTextEnd>489</EntityTextEnd>
+	<LinkerScore>0.030760007821368097</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>States_and_territories_of_India</WikiTitle>
+		<WikiTitleID>375986</WikiTitleID>
+		<RankerScore>0.08195731781090757</RankerScore>
+		<Attributes>subdivision	state	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_India</WikiTitle> <WikiTitleID>375986</WikiTitleID> <RankerScore>0.08195731781090757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.052150544818342866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Mexico</WikiTitle> <WikiTitleID>87990</WikiTitleID> <RankerScore>0.050387611048508404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_Australia</WikiTitle> <WikiTitleID>4689096</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Brazil</WikiTitle> <WikiTitleID>229379</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Austria</WikiTitle> <WikiTitleID>214486</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Germany</WikiTitle> <WikiTitleID>217450</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(computer_science)</WikiTitle> <WikiTitleID>285512</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(law)</WikiTitle> <WikiTitleID>2383572</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>573933</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(administrative_division)</WikiTitle> <WikiTitleID>172400</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Australian_House_of_Assembly</WikiTitle> <WikiTitleID>579453</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Venezuela</WikiTitle> <WikiTitleID>1831965</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(physics)</WikiTitle> <WikiTitleID>658642</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Nigeria</WikiTitle> <WikiTitleID>226734</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_government</WikiTitle> <WikiTitleID>862851</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Malaysia</WikiTitle> <WikiTitleID>690318</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Sudan</WikiTitle> <WikiTitleID>579458</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermodynamic_state</WikiTitle> <WikiTitleID>2747182</WikiTitleID> <RankerScore>0.0479708544895436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jim Ballantyne</EntitySurfaceForm>
+	<EntityTextStart>537</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>0.9948019706426608</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jim_Ballantyne</WikiTitle>
+		<WikiTitleID>11276029</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	chairman</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jim_Ballantyne</WikiTitle> <WikiTitleID>11276029</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>553</EntityTextStart>
+	<EntityTextEnd>559</EntityTextEnd>
+	<LinkerScore>0.5709111464576744</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.17443488658240539</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.17443488658240539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.06499150052584268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.03997045037539835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.04238842132449139</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

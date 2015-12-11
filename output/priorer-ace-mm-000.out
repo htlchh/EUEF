@@ -1,0 +1,1683 @@
+[NYT20001217.2241.0165]
+***************** Gold Standard: ***********************
+ => JFK:[1826,1829]; score:1.000000
+ => Washington:[4586,4596]; score:1.000000
+ => Transportation Department:[1018,1043]; score:1.000000
+ => Westchester County Airport:[1788,1814]; score:1.000000
+ => South:[679,684]; score:1.000000
+ => La Guardia:[558,568]; score:1.000000
+ => 400 Seventh St. S.W.:[4859,4879]; score:1.000000
+ => Los Angeles International:[1664,1689]; score:1.000000
+ => Calif:[1773,1778]; score:1.000000
+ => Chicago O'Hare:[539,553]; score:1.000000
+ => Federal Aviation Administration:[2704,2735]; score:1.000000
+ => Orange County:[1758,1771]; score:1.000000
+	FN => Aviation Consumer Protection Div:[4785,4817]; score:1.000000
+ => New York:[572,580]; score:1.000000
+ => John Wayne Airport:[1736,1754]; score:1.000000
+ => Burbank:[1725,1732]; score:1.000000
+
+************************ System Result: ***************************
+ => JFK:[1826,1829]; score:1.000000
+	FP => Department of Transportation:[4828,4856]; score:1.000000
+ => Transportation Department:[1018,1043]; score:1.000000
+ => South:[679,684]; score:1.000000
+	FP => LAURENCE ZUCKERMAN:[212,230]; score:1.000000
+ => Los Angeles International:[1664,1689]; score:1.000000
+	FP => N.Y. Times News Service:[258,281]; score:1.000000
+	FP => NYT:[48,51]; score:1.000000
+ => Federal Aviation Administration:[2704,2735]; score:1.000000
+ => Burbank:[1725,1732]; score:1.000000
+ => S.W.   Washington:[4875,4892]; score:1.000000
+	FP => Graphic:[67,74]; score:1.000000
+	FP => DC:[4894,4896]; score:1.000000
+ => Washington:[4586,4596]; score:1.000000
+	FP => New York:[1833,1841]; score:1.000000
+ => Westchester County Airport:[1788,1814]; score:1.000000
+ => La Guardia:[558,568]; score:1.000000
+ => Calif.:[1773,1779]; score:1.000000
+	FP => Transportation Department:[4649,4674]; score:1.000000
+ => Orange County:[1758,1771]; score:1.000000
+	FP => Air Travel Consumer Report:[4685,4711]; score:1.000000
+ => Chicago:[539,546]; score:1.000000
+ => New York:[572,580]; score:1.000000
+ => John Wayne Airport:[1736,1754]; score:1.000000
+	FP => NYT:[92,95]; score:1.000000
+P/R/F:0.6/0.9375/0.73170733; tpCount:15.0; fpCount:10.0; fnCount:1.0
+[20001015_AFP_ARB.0053.eng]
+***************** Gold Standard: ***********************
+ => Saudi Soccer Federation:[28,51]; score:1.000000
+ => Emirates:[1231,1239]; score:1.000000
+ => Lebanon:[1089,1096]; score:1.000000
+ => Mexico:[1362,1368]; score:1.000000
+ => Beirut:[2,8]; score:1.000000
+	FN => AFP:[16,19]; score:1.000000
+ => Bangkok:[1700,1707]; score:1.000000
+ => Youth and Sports Bureau:[341,364]; score:1.000000
+
+************************ System Result: ***************************
+	FP => 12th Asian Nations Cup:[1049,1071]; score:1.000000
+	FP => Gulf Cup:[1547,1555]; score:1.000000
+ => Emirates:[1231,1239]; score:1.000000
+	FP => Machala:[1393,1400]; score:1.000000
+ => Mexico:[1362,1368]; score:1.000000
+	FP => Youth and Sports Bureau:[452,475]; score:1.000000
+	FP => Czech:[562,567]; score:1.000000
+	FP => Machala:[1014,1021]; score:1.000000
+	FP => Machala:[574,581]; score:1.000000
+	FP => Saudi Federation:[746,762]; score:1.000000
+ => Lebanon:[1089,1096]; score:1.000000
+	FP => Saudi:[1282,1287]; score:1.000000
+	FP => Japanese:[1126,1134]; score:1.000000
+ => Youth and Sports Bureau:[341,364]; score:1.000000
+	FP => Czech:[70,75]; score:1.000000
+	FP => Saudi:[201,206]; score:1.000000
+	FP => Saudi Arabia:[368,380]; score:1.000000
+	FP => Emirates:[1644,1652]; score:1.000000
+ => Saudi Soccer Federation:[28,51]; score:1.000000
+	FP => Milan Machala:[82,95]; score:1.000000
+	FP => Gulf:[1452,1456]; score:1.000000
+	FP => Asian Games:[1685,1696]; score:1.000000
+	FP => Nasser Jawhar:[152,165]; score:1.000000
+	FP => Agence France Presse:[895,915]; score:1.000000
+	FP => Saudi:[1172,1177]; score:1.000000
+	FP => Saudi:[853,858]; score:1.000000
+	FP => Asian Nations Championship:[1610,1636]; score:1.000000
+	FP => Nasser Jawhar:[606,619]; score:1.000000
+	FP => Sultan Ben Fahd:[418,433]; score:1.000000
+	FP => Japanese:[255,263]; score:1.000000
+	FP => Continents Championship:[1328,1351]; score:1.000000
+	FP => Saudi Soccer Federation:[497,520]; score:1.000000
+	FP => Machala:[930,937]; score:1.000000
+	FP => Machala:[1251,1258]; score:1.000000
+ => Beirut:[2,8]; score:1.000000
+ => Bangkok:[1700,1707]; score:1.000000
+	FP => Kuwaiti:[1509,1516]; score:1.000000
+P/R/F:0.1891892/0.875/0.31111112; tpCount:7.0; fpCount:30.0; fnCount:1.0
+[PRI20001128.2000.0055]
+***************** Gold Standard: ***********************
+ => Democrats:[600,609]; score:1.000000
+ => Miami Dade County:[513,530]; score:1.000000
+ => Seattle:[2073,2080]; score:1.000000
+ => Washington:[30,40]; score:1.000000
+ => Steve Inski:[288,299]; score:1.000000
+ => Washington State:[1925,1941]; score:1.000000
+ => Al Gore:[863,870]; score:1.000000
+ => Jennifer Nesan:[2022,2036]; score:1.000000
+ => NPR news:[18,26]; score:1.000000
+ => Palm Beach County:[667,684]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Washington:[2761,2771]; score:1.000000
+	FP => Republicans:[1392,1403]; score:1.000000
+	FP => Republican:[2447,2457]; score:1.000000
+	FP => Garry Macintosh:[2231,2246]; score:1.000000
+	FP => KPLU:[2065,2069]; score:1.000000
+	FP => Democratic:[984,994]; score:1.000000
+ => Miami Dade County:[513,530]; score:1.000000
+ => Washington:[30,40]; score:1.000000
+	FP => Florida:[1916,1923]; score:1.000000
+	FP => Sauls:[764,769]; score:1.000000
+	FP => Tallahassee:[1858,1869]; score:1.000000
+	FP => Republican:[2145,2155]; score:1.000000
+	FP => Slate Gordon:[2468,2480]; score:1.000000
+ => Jennifer Nesan:[2022,2036]; score:1.000000
+	FP => Florida:[64,71]; score:1.000000
+	FP => Steven Inksi:[1830,1842]; score:1.000000
+	FP => Catwell:[2433,2440]; score:1.000000
+	FP => NPR:[2814,2817]; score:1.000000
+	FP => Steve:[322,327]; score:1.000000
+	FP => Tallahassee:[1161,1172]; score:1.000000
+	FP => Corey Flintoff:[46,60]; score:1.000000
+	FP => Corey:[389,394]; score:1.000000
+	FP => Democrats:[1353,1362]; score:1.000000
+	FP => N. Sander Sauls:[401,416]; score:1.000000
+	FP => Maria Catwell:[2127,2140]; score:1.000000
+	FP => Democrats:[912,921]; score:1.000000
+	FP => Florida:[1871,1878]; score:1.000000
+	FP => Slate Gordon:[2164,2176]; score:1.000000
+ => Palm Beach County:[667,684]; score:1.000000
+	FP => US Senate:[2006,2015]; score:1.000000
+	FP => Miami:[1107,1112]; score:1.000000
+ => Democrats:[600,609]; score:1.000000
+ => NPR:[18,21]; score:1.000000
+ => Seattle:[2073,2080]; score:1.000000
+ => Steve Inski:[288,299]; score:1.000000
+ => Washington State:[1925,1941]; score:1.000000
+	FP => NPR:[282,285]; score:1.000000
+	FP => Seattle:[2846,2853]; score:1.000000
+ => Al Gore:[863,870]; score:1.000000
+	FP => NPR:[1824,1827]; score:1.000000
+	FP => Democrat:[2118,2126]; score:1.000000
+	FP => Jennifer Nesan:[2828,2842]; score:1.000000
+P/R/F:0.23809524/1.0/0.38461536; tpCount:10.0; fpCount:32.0; fnCount:0.0
+[VOA20001020.2100.1853]
+***************** Gold Standard: ***********************
+ => USS Cole:[26,34]; score:1.000000
+	FN => navy:[8,12]; score:1.000000
+ => Yemen:[93,98]; score:1.000000
+
+************************ System Result: ***************************
+	FP => US:[5,7]; score:1.000000
+ => Yemen:[93,98]; score:1.000000
+ => USS Cole:[26,34]; score:1.000000
+P/R/F:0.6666667/0.6666667/0.6666667; tpCount:2.0; fpCount:1.0; fnCount:1.0
+[20000815_AFP_ARB.0071.eng]
+***************** Gold Standard: ***********************
+ => Wadi Marjayoun:[1501,1515]; score:1.000000
+ => Lebanon:[23,30]; score:1.000000
+ => Abbad sector:[719,731]; score:1.000000
+ => Israel:[140,146]; score:1.000000
+ => Beirut:[2,8]; score:1.000000
+ => AFP:[15,18]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Lebanon:[1062,1069]; score:1.000000
+	FP => Israeli:[1322,1329]; score:1.000000
+ => Israel:[140,146]; score:1.000000
+	FP => Israeli:[1457,1464]; score:1.000000
+	FP => Israeli:[1525,1532]; score:1.000000
+ => Wadi Marjayoun:[1501,1515]; score:1.000000
+	FP => Lebanese:[279,287]; score:1.000000
+	FP => Israel:[792,798]; score:1.000000
+	FP => Abbad:[1143,1148]; score:1.000000
+	FP => Lebanese:[739,747]; score:1.000000
+	FP => Lebanese:[612,620]; score:1.000000
+	FP => Lebanese:[1380,1388]; score:1.000000
+	FP => Agence France Presse:[823,843]; score:1.000000
+	FP => Lebanese:[939,947]; score:1.000000
+	FP => Matla:[1544,1549]; score:1.000000
+	FP => Lebanon:[780,787]; score:1.000000
+	FP => Israeli:[655,662]; score:1.000000
+ => Abbad:[719,724]; score:1.000000
+	FP => Lebanese:[435,443]; score:1.000000
+	FP => Israelis:[1203,1211]; score:1.000000
+	FP => Israeli:[979,986]; score:1.000000
+ => AFP:[15,18]; score:1.000000
+	FP => Israeli:[852,859]; score:1.000000
+	FP => Rabbi Ashi:[1273,1283]; score:1.000000
+ => Lebanon:[23,30]; score:1.000000
+	FP => Lebanese:[1724,1732]; score:1.000000
+ => Beirut:[2,8]; score:1.000000
+	FP => Israel:[387,393]; score:1.000000
+P/R/F:0.21428572/1.0/0.3529412; tpCount:6.0; fpCount:22.0; fnCount:0.0
+[20001115_AFP_ARB.0065.eng]
+***************** Gold Standard: ***********************
+ => Soviet Union:[574,586]; score:1.000000
+ => Sweden:[841,847]; score:1.000000
+ => Malta:[1912,1917]; score:1.000000
+ => Copenhagen:[881,891]; score:1.000000
+ => Holland:[14,21]; score:1.000000
+ => Stockholm:[896,905]; score:1.000000
+ => Abdulbasit al-Maqrahi:[1852,1873]; score:1.000000
+ => Camp Zeist:[2,12]; score:1.000000
+ => Alameen Khalifa Fahima:[1825,1847]; score:1.000000
+	FN => AFP:[30,33]; score:1.000000
+ => Amsterdam:[870,879]; score:1.000000
+
+************************ System Result: ***************************
+ => Sweden:[841,847]; score:1.000000
+ => Abdulbasit al-Maqrahi:[1852,1873]; score:1.000000
+	FP => Scottish:[1233,1241]; score:1.000000
+	FP => Scotland:[1361,1369]; score:1.000000
+ => Alameen Khalifa Fahima:[1825,1847]; score:1.000000
+	FP => Scottish:[1046,1054]; score:1.000000
+	FP => Lockerbie:[1017,1026]; score:1.000000
+ => Malta:[1912,1917]; score:1.000000
+	FP => Lockerbie:[956,965]; score:1.000000
+	FP => Abu Talib:[1087,1096]; score:1.000000
+	FP => Pan Am:[1948,1954]; score:1.000000
+	FP => Holland:[126,133]; score:1.000000
+ => Stockholm:[896,905]; score:1.000000
+	FP => Lockerbie:[1990,1999]; score:1.000000
+	FP => Abu Talib:[1481,1490]; score:1.000000
+	FP => Richard Keen:[499,511]; score:1.000000
+ => Copenhagen:[881,891]; score:1.000000
+ => Holland:[14,21]; score:1.000000
+	FP => Camp Zeist:[114,124]; score:1.000000
+	FP => Abu Talib:[785,794]; score:1.000000
+	FP => Scottish:[1970,1978]; score:1.000000
+	FP => Abu Talib:[664,673]; score:1.000000
+	FP => Scottish:[312,320]; score:1.000000
+	FP => Libyans:[1816,1823]; score:1.000000
+ => Soviet Union:[574,586]; score:1.000000
+	FP => Sweden:[1336,1342]; score:1.000000
+	FP => Palestinian:[352,363]; score:1.000000
+	FP => Ronald Sutherland:[1638,1655]; score:1.000000
+	FP => Lockerbie:[96,105]; score:1.000000
+ => Camp Zeist:[2,12]; score:1.000000
+	FP => Mahmood Abu Talib:[364,381]; score:1.000000
+ => Amsterdam:[870,879]; score:1.000000
+	FP => Abu Talib:[1319,1328]; score:1.000000
+P/R/F:0.3030303/0.90909094/0.45454547; tpCount:10.0; fpCount:23.0; fnCount:1.0
+[20001115_AFP_ARB.0030.eng]
+***************** Gold Standard: ***********************
+ => Egypt:[490,495]; score:1.000000
+ => Nitsarim:[1026,1034]; score:1.000000
+	FN => AFP:[14,17]; score:1.000000
+ => Gaza:[2,6]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Israeli:[422,429]; score:1.000000
+	FP => Israeli:[646,653]; score:1.000000
+	FP => Palestinian:[524,535]; score:1.000000
+	FP => Israeli:[1098,1105]; score:1.000000
+ => Egypt:[490,495]; score:1.000000
+	FP => Gaza Strip:[175,185]; score:1.000000
+	FP => Israeli:[206,213]; score:1.000000
+	FP => Israeli:[945,952]; score:1.000000
+	FP => Palestinian:[694,705]; score:1.000000
+	FP => Kosovim:[754,761]; score:1.000000
+	FP => Israeli:[307,314]; score:1.000000
+	FP => Palestinian:[24,35]; score:1.000000
+	FP => Israeli:[599,606]; score:1.000000
+	FP => Rafah:[153,158]; score:1.000000
+	FP => Palestinians:[256,268]; score:1.000000
+	FP => Palestinians:[99,111]; score:1.000000
+	FP => Alkarara:[735,743]; score:1.000000
+	FP => Gaza:[1020,1024]; score:1.000000
+	FP => Palestinian:[452,463]; score:1.000000
+ => Nitsarim:[1026,1034]; score:1.000000
+ => Gaza:[2,6]; score:1.000000
+P/R/F:0.14285715/0.75/0.24000002; tpCount:3.0; fpCount:18.0; fnCount:1.0
+[20001115_AFP_ARB.0212.eng]
+***************** Gold Standard: ***********************
+	FN => northeast:[281,290]; score:1.000000
+ => Middle East:[670,681]; score:1.000000
+ => Globalization Studies Center:[384,412]; score:1.000000
+ => America:[44,51]; score:1.000000
+ => Madeleine Albright:[136,154]; score:1.000000
+	FN => State:[77,82]; score:1.000000
+ => Time magazine:[902,915]; score:1.000000
+ => Richard Levin:[295,308]; score:1.000000
+ => Yale University:[236,251]; score:1.000000
+ => Stewart Talbot:[28,42]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Dennis Ross:[683,694]; score:1.000000
+	FP => State Department:[113,129]; score:1.000000
+	FP => Connecticut:[268,279]; score:1.000000
+ => Time:[902,906]; score:1.000000
+ => Globalization Studies Center:[384,412]; score:1.000000
+	FP => Talbot:[362,368]; score:1.000000
+ => America:[44,51]; score:1.000000
+	FP => Talbot:[848,854]; score:1.000000
+	FP => Bill Clinton:[599,611]; score:1.000000
+ => Stewart Talbot:[28,42]; score:1.000000
+	FP => American:[504,512]; score:1.000000
+	FP => Talbot:[471,477]; score:1.000000
+ => Middle East:[670,681]; score:1.000000
+	FP => Yale:[858,862]; score:1.000000
+ => Madeleine Albright:[136,154]; score:1.000000
+	FP => Washington:[2,12]; score:1.000000
+ => Richard Levin:[295,308]; score:1.000000
+	FP => Soviet Union Affairs:[1039,1059]; score:1.000000
+ => Yale University:[236,251]; score:1.000000
+P/R/F:0.42105263/0.8/0.55172414; tpCount:8.0; fpCount:11.0; fnCount:2.0
+[chtb_165.eng]
+***************** Gold Standard: ***********************
+ => Japan:[437,442]; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000
+ => Citibank:[409,417]; score:1.000000
+ => US:[404,406]; score:1.000000
+ => China Shipping Mansion:[121,143]; score:1.000000
+ => Tokyo Mitsubishi Bank:[445,466]; score:1.000000
+ => Pudong:[287,293]; score:1.000000
+ => Hong Kong:[419,428]; score:1.000000
+ => HSBC:[79,83]; score:1.000000
+ => Pudong Lujiazui financial trading district:[151,193]; score:1.000000
+ => Shanghai:[22,30]; score:1.000000
+
+************************ System Result: ***************************
+ => Tokyo Mitsubishi Bank:[445,466]; score:1.000000
+	FP => Shanghai Branch of the Japan Industrial Bank:[1910,1954]; score:1.000000
+	FP => Dai-Ichi Kangyo Bank:[607,627]; score:1.000000
+ => HSBC:[79,83]; score:1.000000
+	FP => RMB:[879,882]; score:1.000000
+	FP => Sanwa Bank:[663,673]; score:1.000000
+ => Japan:[437,442]; score:1.000000
+ => US:[404,406]; score:1.000000
+	FP => Securities Building:[1797,1816]; score:1.000000
+	FP => US:[1303,1305]; score:1.000000
+	FP => Pudong:[1435,1441]; score:1.000000
+	FP => RMB:[377,380]; score:1.000000
+	FP => Lujiazui Financial Trading District:[2075,2110]; score:1.000000
+	FP => Shanghai Branch of the Belgium Credit Bank:[1987,2029]; score:1.000000
+ => Pudong:[287,293]; score:1.000000
+	FP => Shanghai:[98,106]; score:1.000000
+	FP => Jierong Zhou  Recently:[55,77]; score:1.000000
+	FP => RMB:[261,264]; score:1.000000
+	FP => BNP Paris Bank:[560,574]; score:1.000000
+	FP => Shanghai Branch of Japan:[636,660]; score:1.000000
+	FP => Asian:[1481,1486]; score:1.000000
+	FP => HSBC:[1900,1904]; score:1.000000
+ => Pudong Lujiazui:[151,166]; score:1.000000
+	FP => Japan:[468,473]; score:1.000000
+	FP => Pudong Lujiazui Financial Trade District:[796,836]; score:1.000000
+	FP => Franklin Templeton Company:[1233,1259]; score:1.000000
+	FP => Hong Kong:[1888,1897]; score:1.000000
+	FP => Shanghai Branch of the Standard and Chartered Bank:[497,547]; score:1.000000
+	FP => US:[1349,1351]; score:1.000000
+	FP => Lujiazui:[1046,1054]; score:1.000000
+ => Shanghai:[22,30]; score:1.000000
+	FP => Shanghai Securities Building:[1579,1607]; score:1.000000
+ => Citibank:[409,417]; score:1.000000
+	FP => Shanghai:[2332,2340]; score:1.000000
+	FP => Pudong:[733,739]; score:1.000000
+	FP => Shanghai:[549,557]; score:1.000000
+	FP => China:[1413,1418]; score:1.000000
+ => China Shipping Mansion:[121,143]; score:1.000000
+	FP => Templeton Company:[1689,1706]; score:1.000000
+	FP => Pudong:[1008,1014]; score:1.000000
+	FP => HSBC:[431,435]; score:1.000000
+	FP => Shanghai Branch of Japan:[580,604]; score:1.000000
+	FP => Industrial Bank:[476,491]; score:1.000000
+	FP => Holland Co-operation Bank:[1960,1985]; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000
+	FP => Shanghai:[312,320]; score:1.000000
+	FP => Pudong:[1526,1532]; score:1.000000
+	FP => US:[1650,1652]; score:1.000000
+ => Hong Kong:[419,428]; score:1.000000
+	FP => California:[1287,1297]; score:1.000000
+	FP => Waitan:[2307,2313]; score:1.000000
+P/R/F:0.21568628/1.0/0.3548387; tpCount:11.0; fpCount:40.0; fnCount:0.0
+[20001115_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+ => Baghdad:[2,9]; score:1.000000
+ => Iraq:[128,132]; score:1.000000
+	FN => AFP:[17,20]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Europeans:[584,593]; score:1.000000
+	FP => France:[490,496]; score:1.000000
+	FP => European:[690,698]; score:1.000000
+	FP => Iraq:[879,883]; score:1.000000
+	FP => Andre Janier:[89,101]; score:1.000000
+	FP => Janier:[308,314]; score:1.000000
+	FP => French:[598,604]; score:1.000000
+	FP => French Interests Section:[41,65]; score:1.000000
+	FP => French:[505,511]; score:1.000000
+	FP => French:[703,709]; score:1.000000
+ => Baghdad:[2,9]; score:1.000000
+ => Iraq:[128,132]; score:1.000000
+	FP => Iraq:[481,485]; score:1.000000
+	FP => Baghdad:[69,76]; score:1.000000
+	FP => French:[324,330]; score:1.000000
+P/R/F:0.13333334/0.6666667/0.22222224; tpCount:2.0; fpCount:13.0; fnCount:1.0
+[NYT20001124.2050.0257]
+***************** Gold Standard: ***********************
+ => Bloomberg News:[2128,2142]; score:1.000000
+ => Ian Perkin:[2638,2648]; score:1.000000
+ => Indonesia:[1101,1110]; score:1.000000
+ => David Robinson:[883,897]; score:1.000000
+ => Malaysia:[1358,1366]; score:1.000000
+ => HONG KONG:[112,121]; score:1.000000
+ => Singapore:[1969,1978]; score:1.000000
+ => Philippines:[1076,1087]; score:1.000000
+ => United States:[2264,2277]; score:1.000000
+ => Chen Shui-bian:[1242,1256]; score:1.000000
+ => Hong Kong General Chamber of Commerce:[2673,2710]; score:1.000000
+ => International Monetary Fund:[552,579]; score:1.000000
+ => Asia:[147,151]; score:1.000000
+ => South Korea:[1371,1382]; score:1.000000
+ => China:[2428,2433]; score:1.000000
+ => Taiwan:[1089,1095]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Chinese:[3945,3952]; score:1.000000
+ => Malaysia:[1358,1366]; score:1.000000
+ => Singapore:[1969,1978]; score:1.000000
+	FP => South Korea:[1784,1795]; score:1.000000
+	FP => Hong Kong:[2743,2752]; score:1.000000
+	FP => Asia:[3668,3672]; score:1.000000
+	FP => IMF:[3191,3194]; score:1.000000
+	FP => Joseph Estrada:[1195,1209]; score:1.000000
+	FP => Robinson:[3175,3183]; score:1.000000
+	FP => Robinson:[1384,1392]; score:1.000000
+	FP => United States:[4175,4188]; score:1.000000
+ => Indonesia:[1101,1110]; score:1.000000
+	FP => Korea:[1609,1614]; score:1.000000
+	FP => Asian:[2763,2768]; score:1.000000
+	FP => Asian:[3531,3536]; score:1.000000
+	FP => Philippines:[1172,1183]; score:1.000000
+ => United States:[2264,2277]; score:1.000000
+ => Hong Kong General Chamber of Commerce:[2673,2710]; score:1.000000
+ => International Monetary Fund:[552,579]; score:1.000000
+	FP => Robinson:[1655,1663]; score:1.000000
+	FP => Robinson:[3706,3714]; score:1.000000
+	FP => Perkin:[3132,3138]; score:1.000000
+	FP => Asia:[3322,3326]; score:1.000000
+	FP => Hong Kong:[2016,2025]; score:1.000000
+	FP => IMF:[3610,3613]; score:1.000000
+ => Taiwan:[1089,1095]; score:1.000000
+	FP => LANDLER:[35,42]; score:1.000000
+	FP => Hong Kong:[360,369]; score:1.000000
+	FP => Robinson:[4103,4111]; score:1.000000
+	FP => Asian:[613,618]; score:1.000000
+	FP => Asia:[1028,1032]; score:1.000000
+ => Bloomberg News:[2128,2142]; score:1.000000
+ => Ian Perkin:[2638,2648]; score:1.000000
+ => HONG KONG:[112,121]; score:1.000000
+	FP => Asian:[2157,2162]; score:1.000000
+ => Philippines:[1076,1087]; score:1.000000
+	FP => IMF:[3247,3250]; score:1.000000
+ => Chen Shui-bian:[1242,1256]; score:1.000000
+	FP => Asian:[3826,3831]; score:1.000000
+	FP => N.Y. Times News Service:[70,93]; score:1.000000
+ => Asia:[147,151]; score:1.000000
+	FP => Asia:[4117,4121]; score:1.000000
+	FP => Hong Kong:[2174,2183]; score:1.000000
+ => China:[2428,2433]; score:1.000000
+	FP => Malaysia:[1955,1963]; score:1.000000
+	FP => China:[3845,3850]; score:1.000000
+	FP => IMF:[711,714]; score:1.000000
+ => David Robinson:[883,897]; score:1.000000
+	FP => Robinson:[3374,3382]; score:1.000000
+	FP => Asia:[3119,3123]; score:1.000000
+	FP => Indonesia:[1944,1953]; score:1.000000
+	FP => Hong Kong:[2329,2338]; score:1.000000
+ => South Korea:[1371,1382]; score:1.000000
+	FP => Asian:[1046,1051]; score:1.000000
+	FP => Taiwan:[1275,1281]; score:1.000000
+	FP => Asian:[797,802]; score:1.000000
+	FP => Perkin:[4095,4101]; score:1.000000
+	FP => Robinson:[3906,3914]; score:1.000000
+	FP => American:[4291,4299]; score:1.000000
+	FP => States:[3074,3080]; score:1.000000
+P/R/F:0.26666668/1.0/0.42105266; tpCount:16.0; fpCount:44.0; fnCount:0.0
+[APW20001001.2021.0521]
+***************** Gold Standard: ***********************
+ => Syria:[53,58]; score:1.000000
+ => West Bank:[474,483]; score:1.000000
+ => Egypt:[9,14]; score:1.000000
+	FN => President:[110,119]; score:1.000000
+ => Iraq:[317,321]; score:1.000000
+ => Jerusalem:[500,509]; score:1.000000
+ => Gaza Strip:[485,495]; score:1.000000
+ => CAIRO:[2,7]; score:1.000000
+	FN => AP:[16,18]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Iraq:[2377,2381]; score:1.000000
+	FP => Syrian:[397,403]; score:1.000000
+	FP => Israeli:[1775,1782]; score:1.000000
+	FP => Moussa:[784,790]; score:1.000000
+	FP => Golan Heights:[1975,1988]; score:1.000000
+	FP => Syrian:[1297,1303]; score:1.000000
+ => Syria:[53,58]; score:1.000000
+	FP => Egyptian:[349,357]; score:1.000000
+	FP => Palestinian:[1539,1550]; score:1.000000
+	FP => U.S.:[1756,1760]; score:1.000000
+	FP => Egyptian:[101,109]; score:1.000000
+	FP => Baghdad:[2694,2701]; score:1.000000
+	FP => Israel:[2857,2863]; score:1.000000
+	FP => Arab:[1259,1263]; score:1.000000
+	FP => Assad:[2254,2259]; score:1.000000
+	FP => Mideast:[146,153]; score:1.000000
+	FP => Golan:[2128,2133]; score:1.000000
+	FP => Egypt:[2897,2902]; score:1.000000
+	FP => Iraq:[2417,2421]; score:1.000000
+ => West Bank:[474,483]; score:1.000000
+	FP => Syria:[2646,2651]; score:1.000000
+	FP => Israel:[2232,2238]; score:1.000000
+	FP => Baghdad:[2330,2337]; score:1.000000
+	FP => Arab:[2809,2813]; score:1.000000
+	FP => Assad:[222,227]; score:1.000000
+	FP => Palestinian-Israeli:[1580,1599]; score:1.000000
+	FP => Assad:[2142,2147]; score:1.000000
+	FP => Egypt:[2656,2661]; score:1.000000
+	FP => Assad:[611,616]; score:1.000000
+	FP => Syrian-Israeli:[1870,1884]; score:1.000000
+	FP => Arab:[2438,2442]; score:1.000000
+	FP => Iraq:[2569,2573]; score:1.000000
+	FP => Hosni Mubarak:[120,133]; score:1.000000
+ => Jerusalem:[500,509]; score:1.000000
+	FP => Moussa:[2515,2521]; score:1.000000
+	FP => Amr Mussa:[375,384]; score:1.000000
+	FP => Palestinians:[539,551]; score:1.000000
+	FP => Syria:[1658,1663]; score:1.000000
+	FP => Palestinian:[195,206]; score:1.000000
+	FP => Bashar Assad:[1063,1075]; score:1.000000
+	FP => Mubarak:[2242,2249]; score:1.000000
+ => Gaza Strip:[485,495]; score:1.000000
+ => CAIRO:[2,7]; score:1.000000
+	FP => Bashar:[1382,1388]; score:1.000000
+	FP => Israel:[2022,2028]; score:1.000000
+	FP => Yemen:[2309,2314]; score:1.000000
+	FP => Kuwait:[2409,2415]; score:1.000000
+ => Egypt:[9,14]; score:1.000000
+	FP => Russia:[2282,2288]; score:1.000000
+	FP => U.S.:[2474,2478]; score:1.000000
+	FP => Syria:[1932,1937]; score:1.000000
+	FP => U.N.:[2351,2355]; score:1.000000
+	FP => France:[2290,2296]; score:1.000000
+	FP => Egypt:[2705,2710]; score:1.000000
+	FP => Mubarak:[340,347]; score:1.000000
+	FP => Hafez Assad:[2777,2788]; score:1.000000
+	FP => Mubarak:[599,606]; score:1.000000
+	FP => Hafez Assad:[859,870]; score:1.000000
+	FP => Israel:[2038,2044]; score:1.000000
+	FP => Israel:[2935,2941]; score:1.000000
+	FP => Moussa:[1273,1279]; score:1.000000
+	FP => Syrian:[1529,1535]; score:1.000000
+	FP => Jordan:[2298,2304]; score:1.000000
+	FP => Syria:[2715,2720]; score:1.000000
+ => Iraq:[317,321]; score:1.000000
+	FP => Assad:[799,804]; score:1.000000
+	FP => Bashar Assad:[72,84]; score:1.000000
+	FP => Ehud Barak:[1798,1808]; score:1.000000
+P/R/F:0.10294118/0.7777778/0.18181819; tpCount:7.0; fpCount:61.0; fnCount:2.0
+[chtb_227.eng]
+***************** Gold Standard: ***********************
+ => International Correspondence Communication News Agency:[841,895]; score:1.000000
+ => Klelov:[909,915]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Baltic Sea:[202,212]; score:1.000000
+	FP => Baltic Sea:[397,407]; score:1.000000
+	FP => Baltic Sea:[81,91]; score:1.000000
+	FP => Russian:[558,565]; score:1.000000
+ => Klelov:[909,915]; score:1.000000
+	FP => Russian-speaking:[1112,1128]; score:1.000000
+	FP => Estonia:[755,762]; score:1.000000
+	FP => Baltic Sea:[535,545]; score:1.000000
+	FP => Moscow:[22,28]; score:1.000000
+	FP => Russian:[1144,1151]; score:1.000000
+	FP => Russia:[472,478]; score:1.000000
+ => International Correspondence Communication News Agency:[841,895]; score:1.000000
+	FP => Russia:[987,993]; score:1.000000
+	FP => Baltic Sea:[1057,1067]; score:1.000000
+	FP => Russian:[385,392]; score:1.000000
+	FP => Russia:[161,167]; score:1.000000
+	FP => Russia:[292,298]; score:1.000000
+	FP => Russia:[613,619]; score:1.000000
+	FP => Russia:[934,940]; score:1.000000
+	FP => Lithuania:[586,595]; score:1.000000
+	FP => European:[241,249]; score:1.000000
+	FP => Rong Xie:[55,63]; score:1.000000
+	FP => Xinhua News Agency:[2,20]; score:1.000000
+	FP => Russian:[727,734]; score:1.000000
+	FP => Latvia:[696,702]; score:1.000000
+	FP => Russian:[668,675]; score:1.000000
+	FP => Baltic Sea:[1028,1038]; score:1.000000
+P/R/F:0.074074075/1.0/0.13793103; tpCount:2.0; fpCount:25.0; fnCount:0.0
+[NYT20001125.1558.0117]
+***************** Gold Standard: ***********************
+ => Pennsylvania:[653,665]; score:1.000000
+ => GROSSE POINTE PARK:[55,73]; score:1.000000
+	FN => Mich.:[75,80]; score:1.000000
+ => New York:[640,648]; score:1.000000
+ => Peter Thompson:[3719,3733]; score:1.000000
+ => Department of Natural Resources:[904,935]; score:1.000000
+ => Detroit:[2481,2488]; score:1.000000
+ => Rob Williams:[2330,2342]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Koppelo:[1639,1646]; score:1.000000
+ => Pennsylvania:[653,665]; score:1.000000
+	FP => Art Bush:[2378,2386]; score:1.000000
+	FP => Rule No.:[2506,2514]; score:1.000000
+	FP => Michigan:[715,723]; score:1.000000
+	FP => Larry D. Sargent:[1946,1962]; score:1.000000
+ => Detroit:[2481,2488]; score:1.000000
+	FP => Koppelo:[1331,1338]; score:1.000000
+ => Rob Williams:[2330,2342]; score:1.000000
+	FP => Michigan:[473,481]; score:1.000000
+	FP => N.Y. Times News Service:[13,36]; score:1.000000
+	FP => Michigan:[3554,3562]; score:1.000000
+	FP => Michigan:[1444,1452]; score:1.000000
+	FP => Michigan:[421,429]; score:1.000000
+	FP => Michigan:[998,1006]; score:1.000000
+	FP => Koppelo:[3144,3151]; score:1.000000
+ => GROSSE POINTE PARK:[55,73]; score:1.000000
+	FP => Sargent:[3342,3349]; score:1.000000
+	FP => Michigan:[112,120]; score:1.000000
+	FP => Koppelo:[3032,3039]; score:1.000000
+ => Michigan Department of Natural Resources &UR;:[895,940]; score:1.000000
+	FP => Sargent:[2778,2785]; score:1.000000
+	FP => Williams:[2496,2504]; score:1.000000
+ => New York:[640,648]; score:1.000000
+ => Peter Thompson:[3719,3733]; score:1.000000
+	FP => Koppelo:[3426,3433]; score:1.000000
+	FP => Suzanne Koppelo:[811,826]; score:1.000000
+P/R/F:0.25925925/0.875/0.4; tpCount:7.0; fpCount:20.0; fnCount:1.0
+[20000715_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+	FN => AFP:[18,21]; score:1.000000
+ => Ministry of Defense:[2212,2231]; score:1.000000
+ => Tehran Radio:[2237,2249]; score:1.000000
+ => Iran:[106,110]; score:1.000000
+ => Moscow:[877,883]; score:1.000000
+ => Jerusalem:[2,11]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Israeli:[39,46]; score:1.000000
+	FP => Shahab:[966,972]; score:1.000000
+	FP => Israel:[584,590]; score:1.000000
+	FP => Israel:[1352,1358]; score:1.000000
+	FP => Soviet Scud:[1264,1275]; score:1.000000
+	FP => Ephraim Sneh:[1749,1761]; score:1.000000
+	FP => Israel:[275,281]; score:1.000000
+	FP => Shahab:[723,729]; score:1.000000
+	FP => Shahab:[2260,2266]; score:1.000000
+	FP => Shahab:[1173,1179]; score:1.000000
+	FP => Iranian:[1847,1854]; score:1.000000
+	FP => Lebanese:[1497,1505]; score:1.000000
+	FP => Israel:[90,96]; score:1.000000
+	FP => Israel:[1947,1953]; score:1.000000
+	FP => Shahab:[1566,1572]; score:1.000000
+ => Jerusalem:[2,11]; score:1.000000
+	FP => Israel:[1121,1127]; score:1.000000
+	FP => Palestinian:[1481,1492]; score:1.000000
+	FP => Shahab:[2150,2156]; score:1.000000
+	FP => Iran:[1319,1323]; score:1.000000
+	FP => North Korean:[1202,1214]; score:1.000000
+	FP => Tehran:[1388,1394]; score:1.000000
+	FP => Israel:[1452,1458]; score:1.000000
+	FP => Iranian:[2061,2068]; score:1.000000
+ => Iran:[106,110]; score:1.000000
+ => Moscow:[877,883]; score:1.000000
+	FP => Israel:[945,951]; score:1.000000
+	FP => Iran:[368,372]; score:1.000000
+	FP => Iran:[817,821]; score:1.000000
+	FP => Israel:[1715,1721]; score:1.000000
+ => Ministry of Defense:[2212,2231]; score:1.000000
+ => Tehran Radio:[2237,2249]; score:1.000000
+	FP => Iranian:[2204,2211]; score:1.000000
+	FP => Tehran:[636,642]; score:1.000000
+	FP => Israel:[1788,1794]; score:1.000000
+	FP => Shahab:[1855,1861]; score:1.000000
+	FP => Sneh:[1917,1921]; score:1.000000
+	FP => Israel:[2500,2506]; score:1.000000
+P/R/F:0.13157895/0.8333333/0.22727272; tpCount:5.0; fpCount:33.0; fnCount:1.0
+[VOA20001223.2000.0139]
+***************** Gold Standard: ***********************
+ => Slobodan Milosevic:[325,343]; score:1.000000
+ => Socialist Party:[372,387]; score:1.000000
+ => Democratic opposition:[138,159]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Milosevic:[360,369]; score:1.000000
+ => Democratic:[138,148]; score:1.000000
+ => Slobodan Milosevic:[325,343]; score:1.000000
+ => Socialist Party:[372,387]; score:1.000000
+	FP => Vojislav Kostunica:[40,58]; score:1.000000
+	FP => Yugoslav:[306,314]; score:1.000000
+	FP => Yugoslav:[21,29]; score:1.000000
+	FP => Serbia:[163,169]; score:1.000000
+	FP => Serbian:[101,108]; score:1.000000
+P/R/F:0.33333334/1.0/0.5; tpCount:3.0; fpCount:6.0; fnCount:0.0
+[VOA20001220.2000.0060]
+***************** Gold Standard: ***********************
+ => America:[394,401]; score:1.000000
+ => Texas:[888,893]; score:1.000000
+ => VOA News:[19,27]; score:1.000000
+
+************************ System Result: ***************************
+	FP => George W Bush:[45,58]; score:1.000000
+	FP => Bush:[836,840]; score:1.000000
+ => America:[394,401]; score:1.000000
+	FP => Neil:[135,139]; score:1.000000
+	FP => America:[555,562]; score:1.000000
+	FP => Treasury:[143,151]; score:1.000000
+ => VOA News:[19,27]; score:1.000000
+	FP => Anne Venemon:[216,228]; score:1.000000
+	FP => Commerce:[340,348]; score:1.000000
+	FP => Cuban:[658,663]; score:1.000000
+	FP => Jeb Bush:[822,830]; score:1.000000
+	FP => Don Evans:[314,323]; score:1.000000
+	FP => US:[532,534]; score:1.000000
+ => Texas:[888,893]; score:1.000000
+	FP => Mel Martinez:[672,684]; score:1.000000
+	FP => Al Koha Chairman Paul O:[110,133]; score:1.000000
+	FP => Bush:[635,639]; score:1.000000
+	FP => Urban Development:[713,730]; score:1.000000
+	FP => Martinez:[736,744]; score:1.000000
+	FP => David Coler:[6,17]; score:1.000000
+	FP => California Food:[173,188]; score:1.000000
+	FP => Florida:[805,812]; score:1.000000
+P/R/F:0.13636364/1.0/0.24000001; tpCount:3.0; fpCount:19.0; fnCount:0.0
+[PRI20001122.2000.0320]
+***************** Gold Standard: ***********************
+ => NPR news:[348,356]; score:1.000000
+ => Yasser Arafat:[35,48]; score:1.000000
+ => Washington:[358,368]; score:1.000000
+ => Corey Flintoff:[332,346]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Israeli:[140,147]; score:1.000000
+	FP => Northern Israeli:[197,213]; score:1.000000
+ => Yasser Arafat:[35,48]; score:1.000000
+	FP => Hadera:[222,228]; score:1.000000
+ => NPR:[348,351]; score:1.000000
+	FP => Palestinian:[5,16]; score:1.000000
+	FP => Israeli:[273,280]; score:1.000000
+ => Washington:[358,368]; score:1.000000
+	FP => Ehud Barak:[296,306]; score:1.000000
+ => Corey Flintoff:[332,346]; score:1.000000
+P/R/F:0.4/1.0/0.5714286; tpCount:4.0; fpCount:6.0; fnCount:0.0
+[NYT20001129.2040.0383]
+***************** Gold Standard: ***********************
+ => District Court of Appeal:[679,703]; score:1.000000
+ => Electoral College:[2896,2913]; score:1.000000
+ => Kendall Coffey:[2978,2992]; score:1.000000
+ => Supreme Court:[593,606]; score:1.000000
+ => TALLAHASSEE:[323,334]; score:1.000000
+ => Barry Richard:[1591,1604]; score:1.000000
+ => Fla.:[336,340]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Tallahassee:[4010,4021]; score:1.000000
+	FP => Bush:[1606,1610]; score:1.000000
+	FP => Gore:[2246,2250]; score:1.000000
+	FP => Sauls:[3047,3052]; score:1.000000
+	FP => George W. Bush:[1044,1058]; score:1.000000
+	FP => Florida:[1325,1332]; score:1.000000
+	FP => Florida Supreme Court:[4157,4178]; score:1.000000
+	FP => DAVID:[238,243]; score:1.000000
+ => Barry Richard:[1591,1604]; score:1.000000
+	FP => Al Gore:[370,377]; score:1.000000
+ => Fla.:[336,340]; score:1.000000
+	FP => Gore:[2386,2390]; score:1.000000
+ => District Court of Appeal:[679,703]; score:1.000000
+	FP => Gore:[981,985]; score:1.000000
+	FP => NYT:[118,121]; score:1.000000
+ => Kendall Coffey:[2978,2992]; score:1.000000
+ => Florida Supreme Court:[585,606]; score:1.000000
+	FP => Gore:[4184,4188]; score:1.000000
+	FP => Florida:[445,452]; score:1.000000
+	FP => Gore:[1498,1502]; score:1.000000
+	FP => Gore:[2138,2142]; score:1.000000
+	FP => Sauls:[2364,2369]; score:1.000000
+	FP => Supreme Court:[4612,4625]; score:1.000000
+ => TALLAHASSEE:[323,334]; score:1.000000
+	FP => Gore:[797,801]; score:1.000000
+	FP => Gore:[2334,2338]; score:1.000000
+	FP => Court of Appeal:[3722,3737]; score:1.000000
+	FP => Bush:[4255,4259]; score:1.000000
+	FP => Tallahassee:[1479,1490]; score:1.000000
+	FP => Supreme Court:[842,855]; score:1.000000
+ => Electoral College:[2896,2913]; score:1.000000
+	FP => New York Times:[45,59]; score:1.000000
+	FP => N. Sanders Sauls:[1199,1215]; score:1.000000
+	FP => Gore:[2915,2919]; score:1.000000
+	FP => Gore:[869,873]; score:1.000000
+	FP => N.Y. Times News Service:[281,304]; score:1.000000
+	FP => Gore:[3241,3245]; score:1.000000
+	FP => David Boies:[2321,2332]; score:1.000000
+	FP => Miami-Dade:[1266,1276]; score:1.000000
+	FP => Florida Supreme Court:[2653,2674]; score:1.000000
+	FP => Richard:[1750,1757]; score:1.000000
+	FP => Gore:[2611,2615]; score:1.000000
+	FP => Sanders:[4504,4511]; score:1.000000
+	FP => Gore:[3001,3005]; score:1.000000
+	FP => Graphic:[93,100]; score:1.000000
+	FP => Palm Beach:[1281,1291]; score:1.000000
+P/R/F:0.1521739/1.0/0.26415095; tpCount:7.0; fpCount:39.0; fnCount:0.0
+[20001115_AFP_ARB.0061.eng]
+***************** Gold Standard: ***********************
+ => Palestinian Superior Security Council:[84,121]; score:1.000000
+	FN => area "A":[191,199]; score:1.000000
+	FN => AFP:[14,17]; score:1.000000
+ => Gaza:[2,6]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Palestinian:[206,217]; score:1.000000
+	FP => Palestinian Territories:[476,499]; score:1.000000
+	FP => Yasser Arafat:[310,323]; score:1.000000
+	FP => Ehud Barak:[597,607]; score:1.000000
+ => Palestinian Superior Security Council:[84,121]; score:1.000000
+	FP => Palestinian:[508,519]; score:1.000000
+	FP => Palestinian:[413,424]; score:1.000000
+	FP => Palestinian:[736,747]; score:1.000000
+	FP => Israeli:[574,581]; score:1.000000
+	FP => Palestinian:[35,46]; score:1.000000
+	FP => Palestinian Superior Security Council:[255,292]; score:1.000000
+	FP => Israeli:[706,713]; score:1.000000
+	FP => Yasser Arafat:[139,152]; score:1.000000
+	FP => Palestinians:[682,694]; score:1.000000
+ => Gaza:[2,6]; score:1.000000
+P/R/F:0.13333334/0.5/0.21052633; tpCount:2.0; fpCount:13.0; fnCount:2.0
+[NYT20001101.2212.0429]
+***************** Gold Standard: ***********************
+ => Comcast:[3974,3981]; score:1.000000
+ => Roger McNamee:[2128,2141]; score:1.000000
+ => Sanford C. Bernstein:[1592,1612]; score:1.000000
+ => Jessica Reif:[2449,2461]; score:1.000000
+ => NBC:[2665,2668]; score:1.000000
+ => Larry Haverty:[820,833]; score:1.000000
+ => State Street Research:[862,883]; score:1.000000
+ => Janus Capital:[2748,2761]; score:1.000000
+ => Capital Cities/ABC:[1921,1939]; score:1.000000
+ => Washington:[2682,2692]; score:1.000000
+ => Time:[2036,2040]; score:1.000000
+ => Integral Capital:[2145,2161]; score:1.000000
+ => Boston:[887,893]; score:1.000000
+ => Time Warner:[508,519]; score:1.000000
+ => Merrill Lynch:[2465,2478]; score:1.000000
+ => Disney:[1883,1889]; score:1.000000
+ => Warner:[2045,2051]; score:1.000000
+ => John Schreiber:[2698,2712]; score:1.000000
+ => Tom Wolzien:[1577,1588]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Time Warner:[2795,2806]; score:1.000000
+	FP => Haverty:[1388,1395]; score:1.000000
+ => NBC:[2665,2668]; score:1.000000
+ => Larry Haverty:[820,833]; score:1.000000
+	FP => Disney:[2318,2324]; score:1.000000
+	FP => Stephen Case:[597,609]; score:1.000000
+	FP => Schreiber:[3251,3260]; score:1.000000
+	FP => Time Warner:[630,641]; score:1.000000
+	FP => America Online:[154,168]; score:1.000000
+ => Janus Capital:[2748,2761]; score:1.000000
+ => Integral Capital:[2145,2161]; score:1.000000
+ => Time Warner:[508,519]; score:1.000000
+	FP => AOL:[1142,1145]; score:1.000000
+	FP => Time Warner:[3200,3211]; score:1.000000
+	FP => Time Warner:[4101,4112]; score:1.000000
+ => Comcast:[3974,3981]; score:1.000000
+	FP => Schreiber:[4169,4178]; score:1.000000
+	FP => AOL:[260,263]; score:1.000000
+ => Roger McNamee:[2128,2141]; score:1.000000
+	FP => Time Warner:[526,537]; score:1.000000
+	FP => AOL:[2186,2189]; score:1.000000
+	FP => AOL:[396,399]; score:1.000000
+ => State Street Research:[862,883]; score:1.000000
+	FP => Schreiber:[3411,3420]; score:1.000000
+	FP => America Online:[570,584]; score:1.000000
+	FP => AOL:[2960,2963]; score:1.000000
+ => Time:[2036,2040]; score:1.000000
+	FP => Time Warner:[2976,2987]; score:1.000000
+	FP => Time Warner:[1953,1964]; score:1.000000
+	FP => Internet:[128,136]; score:1.000000
+	FP => Internet:[2434,2442]; score:1.000000
+	FP => Haverty:[931,938]; score:1.000000
+ => Tom Wolzien:[1577,1588]; score:1.000000
+	FP => Time Warner:[3371,3382]; score:1.000000
+	FP => America Online:[3919,3933]; score:1.000000
+	FP => N.Y. Times News Service:[57,80]; score:1.000000
+	FP => Gerald Levin:[655,667]; score:1.000000
+	FP => America Online:[3154,3168]; score:1.000000
+ => Jessica Reif:[2449,2461]; score:1.000000
+	FP => Disney:[2635,2641]; score:1.000000
+	FP => AOL:[681,684]; score:1.000000
+	FP => Time Warner:[1203,1214]; score:1.000000
+	FP => Time Warner:[183,194]; score:1.000000
+	FP => Schreiber:[3833,3842]; score:1.000000
+	FP => Time Warner:[956,967]; score:1.000000
+ => Disney:[1883,1889]; score:1.000000
+	FP => Reif:[2592,2596]; score:1.000000
+	FP => Time Warner:[328,339]; score:1.000000
+	FP => Steve:[774,779]; score:1.000000
+	FP => ALEX BERENSON:[16,29]; score:1.000000
+	FP => Time Warner:[1870,1881]; score:1.000000
+ => Sanford C. Bernstein:[1592,1612]; score:1.000000
+	FP => AOL:[1863,1866]; score:1.000000
+	FP => AOL:[200,203]; score:1.000000
+ => Capital Cities/ABC:[1921,1939]; score:1.000000
+ => Washington:[2682,2692]; score:1.000000
+ => Boston:[887,893]; score:1.000000
+ => Merrill Lynch:[2465,2478]; score:1.000000
+ => Warner:[2045,2051]; score:1.000000
+	FP => Levin:[3872,3877]; score:1.000000
+ => John Schreiber:[2698,2712]; score:1.000000
+P/R/F:0.3114754/1.0/0.475; tpCount:19.0; fpCount:42.0; fnCount:0.0
+[20001015_AFP_ARB.0229.eng]
+***************** Gold Standard: ***********************
+ => Baghdad:[123,130]; score:1.000000
+ => Riyadh International Airport:[370,398]; score:1.000000
+ => London:[2,8]; score:1.000000
+	FN => AFP:[16,19]; score:1.000000
+ => Riyadh:[164,170]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Swede:[682,687]; score:1.000000
+	FP => Baghdad:[430,437]; score:1.000000
+	FP => British:[560,567]; score:1.000000
+	FP => Kenyans:[629,636]; score:1.000000
+	FP => Spaniard:[665,673]; score:1.000000
+	FP => Lebanese:[730,738]; score:1.000000
+ => Baghdad:[123,130]; score:1.000000
+	FP => Jordanian:[446,455]; score:1.000000
+	FP => South Africans:[611,625]; score:1.000000
+	FP => GMT:[251,254]; score:1.000000
+	FP => London:[224,230]; score:1.000000
+	FP => Boeing:[352,358]; score:1.000000
+	FP => Saudi:[323,328]; score:1.000000
+	FP => Omani:[707,712]; score:1.000000
+ => Riyadh:[164,170]; score:1.000000
+	FP => Saudi Airways:[524,537]; score:1.000000
+	FP => Palestinian:[714,725]; score:1.000000
+	FP => Boeing:[103,109]; score:1.000000
+	FP => Frenchman:[654,663]; score:1.000000
+	FP => Saudi:[206,211]; score:1.000000
+	FP => Nigerian:[689,697]; score:1.000000
+ => Riyadh:[370,376]; score:1.000000
+	FP => Yemenis:[597,604]; score:1.000000
+	FP => London:[53,59]; score:1.000000
+	FP => Saudi:[26,31]; score:1.000000
+	FP => Indian:[699,705]; score:1.000000
+	FP => Saudis:[572,578]; score:1.000000
+	FP => Saudi:[93,98]; score:1.000000
+	FP => American:[644,652]; score:1.000000
+ => London:[2,8]; score:1.000000
+	FP => Pakistanis:[583,593]; score:1.000000
+	FP => Swiss:[675,680]; score:1.000000
+P/R/F:0.125/0.8/0.21621622; tpCount:4.0; fpCount:28.0; fnCount:1.0
+[PRI20001031.2000.1824]
+***************** Gold Standard: ***********************
+ => Los Angeles:[107,118]; score:1.000000
+ => Taiwan:[97,103]; score:1.000000
+ => London:[18,24]; score:1.000000
+ => BBC News:[6,14]; score:1.000000
+ => David Chezan:[330,342]; score:1.000000
+
+************************ System Result: ***************************
+ => Los Angeles:[107,118]; score:1.000000
+	FP => World:[53,58]; score:1.000000
+	FP => Gregor Craigy:[31,44]; score:1.000000
+	FP => Singapore Airlines:[373,391]; score:1.000000
+	FP => American:[512,520]; score:1.000000
+	FP => David Chezan:[951,963]; score:1.000000
+ => Taiwan:[97,103]; score:1.000000
+	FP => Singapore Airlines:[62,80]; score:1.000000
+ => London:[18,24]; score:1.000000
+	FP => BBC News:[965,973]; score:1.000000
+ => BBC News:[6,14]; score:1.000000
+ => David Chezan:[330,342]; score:1.000000
+P/R/F:0.41666666/1.0/0.5882353; tpCount:5.0; fpCount:7.0; fnCount:0.0
+[20001115_AFP_ARB.0184.eng]
+***************** Gold Standard: ***********************
+	FN => AFP:[19,22]; score:1.000000
+ => Hussein Abiyat:[1408,1422]; score:1.000000
+ => Jerusalem:[2,11]; score:1.000000
+ => West Bank:[1607,1616]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Fatah:[1446,1451]; score:1.000000
+	FP => Barak:[1321,1326]; score:1.000000
+	FP => Palestinian:[560,571]; score:1.000000
+	FP => Israeli:[1548,1555]; score:1.000000
+	FP => Gaza Strip:[1296,1306]; score:1.000000
+	FP => Barak:[1675,1680]; score:1.000000
+	FP => Ehud Barak:[370,380]; score:1.000000
+	FP => Palestinians:[950,962]; score:1.000000
+	FP => Israelis:[1266,1274]; score:1.000000
+	FP => Fatah:[1584,1589]; score:1.000000
+	FP => Jalaad Shir:[729,740]; score:1.000000
+ => Hussein Abiyat:[1408,1422]; score:1.000000
+	FP => Palestinians:[222,234]; score:1.000000
+	FP => Intifada:[1374,1382]; score:1.000000
+	FP => Arafat:[1468,1474]; score:1.000000
+	FP => Yasser Arafat:[582,595]; score:1.000000
+	FP => West Bank:[1282,1291]; score:1.000000
+	FP => Abiyat:[1727,1733]; score:1.000000
+ => Jerusalem:[2,11]; score:1.000000
+	FP => Shir:[1023,1027]; score:1.000000
+	FP => Israeli:[36,43]; score:1.000000
+	FP => Israel:[611,617]; score:1.000000
+ => West Bank:[1607,1616]; score:1.000000
+P/R/F:0.13043478/0.75/0.22222222; tpCount:3.0; fpCount:20.0; fnCount:1.0
+[NYT20001106.1705.0187]
+***************** Gold Standard: ***********************
+ => CHATTANOOGA:[317,328]; score:1.000000
+ => Michigan:[2365,2373]; score:1.000000
+	FN => Tenn.:[330,335]; score:1.000000
+ => Washington:[544,554]; score:1.000000
+ => Green Bay:[3041,3050]; score:1.000000
+ => Arkansas:[881,889]; score:1.000000
+ => Wisconsin:[2196,2205]; score:1.000000
+ => D.C.:[3951,3955]; score:1.000000
+ => White House:[1175,1186]; score:1.000000
+ => Iowa:[2210,2214]; score:1.000000
+ => Pennsylvania:[2378,2390]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Bush:[3523,3527]; score:1.000000
+	FP => Washington:[3726,3736]; score:1.000000
+	FP => Al Gore:[940,947]; score:1.000000
+	FP => Davenport:[47,56]; score:1.000000
+	FP => Bush:[3915,3919]; score:1.000000
+	FP => Chattanooga:[3510,3521]; score:1.000000
+	FP => BRUNI:[242,247]; score:1.000000
+	FP => Bush:[2514,2518]; score:1.000000
+	FP => Americans:[1145,1154]; score:1.000000
+ => CHATTANOOGA:[317,328]; score:1.000000
+	FP => NYT:[118,121]; score:1.000000
+ => Washington, D.C.:[3939,3955]; score:1.000000
+	FP => Gore:[3610,3614]; score:1.000000
+ => Washington:[544,554]; score:1.000000
+	FP => Bush:[2971,2975]; score:1.000000
+	FP => Gore:[3547,3551]; score:1.000000
+	FP => Clinton:[962,969]; score:1.000000
+	FP => N.Y. Times News Service:[275,298]; score:1.000000
+	FP => Election Day:[2794,2806]; score:1.000000
+	FP => Washington:[4072,4082]; score:1.000000
+ => Iowa:[2210,2214]; score:1.000000
+	FP => Arkansas:[2151,2159]; score:1.000000
+	FP => Tennessee:[3593,3602]; score:1.000000
+	FP => Bush:[613,617]; score:1.000000
+	FP => Tennessee:[842,851]; score:1.000000
+	FP => Bush:[1385,1389]; score:1.000000
+	FP => Tennessee:[3983,3992]; score:1.000000
+ => Arkansas:[881,889]; score:1.000000
+	FP => Gore:[3694,3698]; score:1.000000
+	FP => George W. Bush:[441,455]; score:1.000000
+ => Wisconsin:[2196,2205]; score:1.000000
+	FP => Texas:[977,982]; score:1.000000
+ => White House:[1175,1186]; score:1.000000
+	FP => Bush:[1969,1973]; score:1.000000
+	FP => Texas:[3666,3671]; score:1.000000
+	FP => Gore:[2483,2487]; score:1.000000
+	FP => Tennessee:[2137,2146]; score:1.000000
+	FP => Bush:[2292,2296]; score:1.000000
+	FP => Bush:[4021,4025]; score:1.000000
+	FP => Bush:[1592,1596]; score:1.000000
+ => Michigan:[2365,2373]; score:1.000000
+	FP => Iowa:[58,62]; score:1.000000
+ => Green Bay:[3041,3050]; score:1.000000
+	FP => American:[3394,3402]; score:1.000000
+ => Pennsylvania:[2378,2390]; score:1.000000
+P/R/F:0.22222222/0.90909094/0.35714287; tpCount:10.0; fpCount:35.0; fnCount:1.0
+[NYT20001109.1946.0315]
+***************** Gold Standard: ***********************
+ => Patricia Newell:[4242,4257]; score:1.000000
+ => Portland:[2286,2294]; score:1.000000
+ => Florida:[1390,1397]; score:1.000000
+ => Noni:[815,819]; score:1.000000
+ => University of Florida:[4289,4310]; score:1.000000
+ => Oregon:[2068,2074]; score:1.000000
+ => Barbara Lange:[3931,3944]; score:1.000000
+ => America:[469,476]; score:1.000000
+ => White House:[1081,1092]; score:1.000000
+ => WASHINGTON:[88,98]; score:1.000000
+ => Green Party:[3514,3525]; score:1.000000
+ => Gainesville:[4314,4325]; score:1.000000
+ => Julie Quastler:[2243,2257]; score:1.000000
+ => Sierra Club:[4003,4014]; score:1.000000
+ => Ralph Nader:[101,112]; score:1.000000
+ => Dorothy Byrne:[3463,3476]; score:1.000000
+ => John Ruth:[1636,1645]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Ralph Nader:[491,502]; score:1.000000
+	FP => Ralph Nader:[748,759]; score:1.000000
+	FP => Bush:[2378,2382]; score:1.000000
+ => Florida:[1390,1397]; score:1.000000
+	FP => Nader:[2605,2610]; score:1.000000
+ => University of Florida:[4289,4310]; score:1.000000
+ => Oregon:[2068,2074]; score:1.000000
+	FP => Nader:[4276,4281]; score:1.000000
+	FP => Nader:[1723,1728]; score:1.000000
+	FP => Florida:[3454,3461]; score:1.000000
+	FP => George W. Bush:[1324,1338]; score:1.000000
+	FP => White House:[1548,1559]; score:1.000000
+	FP => Nader:[3655,3660]; score:1.000000
+ => Patricia Newell:[4242,4257]; score:1.000000
+	FP => Florida:[3980,3987]; score:1.000000
+ => Portland:[2286,2294]; score:1.000000
+	FP => Nader:[1614,1619]; score:1.000000
+	FP => Gore:[4077,4081]; score:1.000000
+	FP => Nader:[976,981]; score:1.000000
+	FP => Florida:[4370,4377]; score:1.000000
+	FP => Nader:[1491,1496]; score:1.000000
+ => Barbara Lange:[3931,3944]; score:1.000000
+	FP => Green Party:[154,165]; score:1.000000
+	FP => Green Party:[670,681]; score:1.000000
+	FP => G.W. Bush:[1885,1894]; score:1.000000
+	FP => Nader:[2137,2142]; score:1.000000
+ => Julie Quastler:[2243,2257]; score:1.000000
+	FP => N.Y. Times News Service:[46,69]; score:1.000000
+	FP => Everglades:[4161,4171]; score:1.000000
+ => Sierra Club:[4003,4014]; score:1.000000
+	FP => Gore:[1405,1409]; score:1.000000
+	FP => Nader:[4063,4068]; score:1.000000
+ => John Ruth:[1636,1645]; score:1.000000
+	FP => Democrats:[4456,4465]; score:1.000000
+ => Florida Green Party:[3506,3525]; score:1.000000
+	FP => Nader:[2277,2282]; score:1.000000
+	FP => Green Party:[3115,3126]; score:1.000000
+	FP => Bush:[3719,3723]; score:1.000000
+	FP => Bush:[1418,1422]; score:1.000000
+	FP => Quastler:[2833,2841]; score:1.000000
+	FP => Gore:[3727,3731]; score:1.000000
+	FP => Nader:[4337,4342]; score:1.000000
+	FP => Nader:[242,247]; score:1.000000
+ => White House:[1081,1092]; score:1.000000
+ => WASHINGTON:[88,98]; score:1.000000
+	FP => Ralph:[2038,2043]; score:1.000000
+	FP => Gore:[1818,1822]; score:1.000000
+	FP => Gore:[1564,1568]; score:1.000000
+	FP => Green Party:[2756,2767]; score:1.000000
+ => Dorothy Byrne:[3463,3476]; score:1.000000
+	FP => Nader:[3076,3081]; score:1.000000
+	FP => Nader:[2951,2956]; score:1.000000
+	FP => Democrats:[3595,3604]; score:1.000000
+	FP => Everglades:[3950,3960]; score:1.000000
+	FP => Ralph Nader:[851,862]; score:1.000000
+	FP => Nader:[4493,4498]; score:1.000000
+ => Noni:[815,819]; score:1.000000
+	FP => Nader:[3218,3223]; score:1.000000
+	FP => Greens:[3700,3706]; score:1.000000
+ => America:[469,476]; score:1.000000
+	FP => Nader:[1300,1305]; score:1.000000
+ => Gainesville:[4314,4325]; score:1.000000
+	FP => Nader:[2198,2203]; score:1.000000
+	FP => Gore:[3766,3770]; score:1.000000
+	FP => Bush:[1979,1983]; score:1.000000
+ => Ralph Nader:[101,112]; score:1.000000
+	FP => Al Gore:[1378,1385]; score:1.000000
+	FP => Bush:[3904,3908]; score:1.000000
+	FP => Nader:[2466,2471]; score:1.000000
+P/R/F:0.24637681/1.0/0.39534885; tpCount:17.0; fpCount:52.0; fnCount:0.0
+[NYT20001123.1511.0062]
+***************** Gold Standard: ***********************
+ => Jack Nicholson:[2127,2141]; score:1.000000
+ => Land Rover:[3278,3288]; score:1.000000
+ => Empire Blue Cross Blue Shield:[3075,3104]; score:1.000000
+ => Sun Microsystems:[790,806]; score:1.000000
+ => James L. Brooks:[2172,2187]; score:1.000000
+ => Microsoft:[3128,3137]; score:1.000000
+ => Fidelity Investments:[932,952]; score:1.000000
+ => Roundabout Theater Company:[2346,2372]; score:1.000000
+ => Brooklyn:[4633,4641]; score:1.000000
+ => Houston Grand Opera:[4040,4059]; score:1.000000
+ => Helen Hunt:[2143,2153]; score:1.000000
+ => Campbell Soup Co:[2214,2230]; score:1.000000
+ => Times Square:[2404,2416]; score:1.000000
+ => PepsiCo:[1985,1992]; score:1.000000
+ => Sprint Communications Co:[3698,3722]; score:1.000000
+ => John Corbett:[3879,3891]; score:1.000000
+ => Reader's Digest Association:[2519,2546]; score:1.000000
+ => Greg Kinnear:[2155,2167]; score:1.000000
+ => Ocean Spray Cranberries:[1435,1458]; score:1.000000
+ => Levi:[2793,2797]; score:1.000000
+ => CBS:[4238,4241]; score:1.000000
+ => Reader's Digest magazine:[2692,2716]; score:1.000000
+ => Fox Sports:[766,776]; score:1.000000
+ => Volvo:[3293,3298]; score:1.000000
+ => ABC:[285,288]; score:1.000000
+	FN => In Style Entertaining 2000 magazine:[1729,1764]; score:1.000000
+ => MSN network:[3113,3124]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Drew Carey Show:[367,382]; score:1.000000
+	FP => City:[3909,3913]; score:1.000000
+	FP => Tropicana:[1963,1972]; score:1.000000
+	FP => Chad World:[527,537]; score:1.000000
+ => Digest:[2701,2707]; score:1.000000
+	FP => ``First Citiwide Change Bank:[1127,1155]; score:1.000000
+	FP => STUART ELLIOTT:[26,40]; score:1.000000
+ => James L. Brooks:[2172,2187]; score:1.000000
+ => Microsoft:[3128,3137]; score:1.000000
+ => Roundabout Theater Company:[2346,2372]; score:1.000000
+	FP => Super Bowl LXVIII:[4417,4434]; score:1.000000
+	FP => Arthur Godfrey:[3487,3501]; score:1.000000
+	FP => English:[1916,1923]; score:1.000000
+	FP => Aiden Shaw:[3999,4009]; score:1.000000
+	FP => Cream of Mushroom:[2247,2264]; score:1.000000
+	FP => Sprint PCS:[3744,3754]; score:1.000000
+ => Times Square:[2404,2416]; score:1.000000
+	FP => Lucent Technologies:[3595,3614]; score:1.000000
+	FP => Gristede:[1249,1257]; score:1.000000
+ => Can Ocean Spray Cranberries:[1431,1458]; score:1.000000
+	FP => Scotties:[1381,1389]; score:1.000000
+	FP => Americans:[199,208]; score:1.000000
+ => Greg Kinnear:[2155,2167]; score:1.000000
+ => Levi:[2793,2797]; score:1.000000
+	FP => Genetically Altered Protein Is Found:[650,686]; score:1.000000
+ => CBS:[4238,4241]; score:1.000000
+	FP => Some Real News:[1598,1612]; score:1.000000
+ => Volvo:[3293,3298]; score:1.000000
+ => Sprint Communications Co.:[3698,3723]; score:1.000000
+	FP => Chad:[509,513]; score:1.000000
+	FP => Vitamin:[2081,2088]; score:1.000000
+ => ABC:[285,288]; score:1.000000
+	FP => Avaya Communication:[3632,3651]; score:1.000000
+	FP => The Wall Street Journal:[565,588]; score:1.000000
+	FP => Chad:[515,519]; score:1.000000
+ => Jack Nicholson:[2127,2141]; score:1.000000
+	FP => Aidan Shaw:[3917,3927]; score:1.000000
+ => Land Rover:[3278,3288]; score:1.000000
+	FP => American Airlines:[2421,2438]; score:1.000000
+	FP => Survivor II:[4271,4282]; score:1.000000
+	FP => Chad:[521,525]; score:1.000000
+ => Empire Blue Cross Blue Shield:[3075,3104]; score:1.000000
+ => Sun Microsystems:[790,806]; score:1.000000
+ => MSN:[3113,3116]; score:1.000000
+	FP => Carnation Coffee-mate:[1660,1681]; score:1.000000
+	FP => Buick:[881,886]; score:1.000000
+	FP => N.Y. Times News Service:[68,91]; score:1.000000
+ => Digest Association:[2528,2546]; score:1.000000
+ => Fidelity Investments:[932,952]; score:1.000000
+ => Brooklyn:[4633,4641]; score:1.000000
+	FP => Citibank:[1049,1057]; score:1.000000
+ => Houston Grand Opera:[4040,4059]; score:1.000000
+ => Helen Hunt:[2143,2153]; score:1.000000
+ => PepsiCo:[1985,1992]; score:1.000000
+ => John Corbett:[3879,3891]; score:1.000000
+	FP => Spin City:[391,400]; score:1.000000
+	FP => Florida:[454,461]; score:1.000000
+	FP => Super Bowl XXXV:[4308,4323]; score:1.000000
+	FP => Scotties:[1332,1340]; score:1.000000
+	FP => Hollywood:[413,422]; score:1.000000
+	FP => Campbell:[2236,2244]; score:1.000000
+ => Fox Sports:[766,776]; score:1.000000
+ => Campbell Soup Co.:[2214,2231]; score:1.000000
+	FP => New York:[1222,1230]; score:1.000000
+P/R/F:0.40625/0.962963/0.57142854; tpCount:26.0; fpCount:38.0; fnCount:1.0
+[VOA20001129.2000.0364]
+***************** Gold Standard: ***********************
+ => Washington:[59,69]; score:1.000000
+ => Gore:[838,842]; score:1.000000
+ => Lawrence Tribe:[770,784]; score:1.000000
+ => Johns Hopkins University:[412,436]; score:1.000000
+ => Baltimore:[400,409]; score:1.000000
+	FN => legislature:[2981,2992]; score:1.000000
+ => Joe O'Grossman:[345,359]; score:1.000000
+ => Congress:[3237,3245]; score:1.000000
+ => Supreme Court:[171,184]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Federal:[2408,2415]; score:1.000000
+ => Gore:[838,842]; score:1.000000
+ => Johns Hopkins University:[412,436]; score:1.000000
+	FP => Harvard Law School:[790,808]; score:1.000000
+	FP => Gore:[3592,3596]; score:1.000000
+	FP => Bush:[1803,1807]; score:1.000000
+ => Joe O'Grossman:[345,359]; score:1.000000
+	FP => American:[2324,2332]; score:1.000000
+	FP => VOA News Now:[25,37]; score:1.000000
+	FP => Florida:[3510,3517]; score:1.000000
+	FP => Democrats:[1657,1666]; score:1.000000
+	FP => Johns Hopkins University:[3371,3395]; score:1.000000
+	FP => Joe O'Grossman:[3425,3439]; score:1.000000
+	FP => Gore:[1306,1310]; score:1.000000
+ => US Supreme Court:[168,184]; score:1.000000
+	FP => Bush:[926,930]; score:1.000000
+	FP => Florida:[3009,3016]; score:1.000000
+	FP => Supreme Court:[1545,1558]; score:1.000000
+ => Congress:[3237,3245]; score:1.000000
+	FP => Erin Brumett:[43,55]; score:1.000000
+	FP => George W Bush:[3664,3677]; score:1.000000
+	FP => Florida:[1419,1426]; score:1.000000
+	FP => Supreme Court:[3473,3486]; score:1.000000
+ => Baltimore:[400,409]; score:1.000000
+	FP => Florida:[1871,1878]; score:1.000000
+	FP => Republicans:[1620,1631]; score:1.000000
+	FP => Federal Courts:[248,262]; score:1.000000
+	FP => Supreme Court:[472,485]; score:1.000000
+	FP => Gore:[3187,3191]; score:1.000000
+ => Washington:[59,69]; score:1.000000
+	FP => Republicans:[1437,1448]; score:1.000000
+	FP => Bush:[2678,2682]; score:1.000000
+ => Lawrence Tribe:[770,784]; score:1.000000
+	FP => Florida:[92,99]; score:1.000000
+	FP => Supreme Court:[2023,2036]; score:1.000000
+	FP => Supreme Court:[1832,1845]; score:1.000000
+	FP => Republican:[3653,3663]; score:1.000000
+	FP => Congress:[3269,3277]; score:1.000000
+	FP => Supreme Court:[2475,2488]; score:1.000000
+P/R/F:0.20512821/0.8888889/0.3333333; tpCount:8.0; fpCount:31.0; fnCount:1.0
+[20001115_AFP_ARB.0060.eng]
+***************** Gold Standard: ***********************
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+ => Iran:[2438,2442]; score:1.000000
+	FN => AFP:[29,32]; score:1.000000
+ => Sultanate of Brunei:[751,770]; score:1.000000
+
+************************ System Result: ***************************
+	FP => American:[840,848]; score:1.000000
+	FP => Putin:[1066,1071]; score:1.000000
+	FP => Clinton:[621,628]; score:1.000000
+	FP => Russia:[2318,2324]; score:1.000000
+	FP => Russian:[2416,2423]; score:1.000000
+	FP => American:[1106,1114]; score:1.000000
+	FP => Russian:[243,250]; score:1.000000
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+	FP => United States:[2242,2255]; score:1.000000
+	FP => United States:[2755,2768]; score:1.000000
+	FP => United States:[964,977]; score:1.000000
+	FP => Russia:[2722,2728]; score:1.000000
+	FP => American:[2662,2670]; score:1.000000
+	FP => Putin:[2884,2889]; score:1.000000
+	FP => Putin:[458,463]; score:1.000000
+	FP => Washington:[1583,1593]; score:1.000000
+	FP => Putin:[209,214]; score:1.000000
+	FP => American:[2038,2046]; score:1.000000
+	FP => Vladimir Putin:[189,203]; score:1.000000
+	FP => American:[255,263]; score:1.000000
+	FP => American:[129,137]; score:1.000000
+	FP => Americans:[1507,1516]; score:1.000000
+	FP => Putin:[1378,1383]; score:1.000000
+	FP => NMD:[1954,1957]; score:1.000000
+ => Iran:[2438,2442]; score:1.000000
+	FP => Russian:[169,176]; score:1.000000
+	FP => NMD:[1575,1578]; score:1.000000
+ => Sultanate:[751,760]; score:1.000000
+	FP => Republican:[1873,1883]; score:1.000000
+	FP => Bill Clinton:[148,160]; score:1.000000
+	FP => Russia:[982,988]; score:1.000000
+	FP => Clinton:[2362,2369]; score:1.000000
+	FP => Putin:[633,638]; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[662,695]; score:1.000000
+	FP => Bandar Seri Begawan:[712,731]; score:1.000000
+	FP => Putin:[893,898]; score:1.000000
+	FP => Clinton:[2624,2631]; score:1.000000
+	FP => NMD:[1726,1729]; score:1.000000
+	FP => United States:[1674,1687]; score:1.000000
+	FP => Russian:[1094,1101]; score:1.000000
+	FP => George Bush Junior:[1907,1925]; score:1.000000
+	FP => United States:[2065,2078]; score:1.000000
+	FP => Edmond Bob:[2671,2681]; score:1.000000
+	FP => Russian-American anti-ABM:[1440,1465]; score:1.000000
+	FP => American:[50,58]; score:1.000000
+	FP => Clinton:[1745,1752]; score:1.000000
+	FP => Clinton:[2010,2017]; score:1.000000
+	FP => APEC:[697,701]; score:1.000000
+	FP => Russian-American Start-3:[1230,1254]; score:1.000000
+	FP => Putin:[2462,2467]; score:1.000000
+P/R/F:0.06/0.75/0.111111104; tpCount:3.0; fpCount:47.0; fnCount:1.0
+[chtb_267.eng]
+***************** Gold Standard: ***********************
+ => Renzu Luo:[2280,2289]; score:1.000000
+ => Weir Group:[74,84]; score:1.000000
+ => Taiwan:[2727,2733]; score:1.000000
+ => Brown:[3174,3179]; score:1.000000
+ => Rudong:[1927,1933]; score:1.000000
+ => Electric Power Industry Ministry:[361,393]; score:1.000000
+ => Jiangsu Province:[155,171]; score:1.000000
+ => Japan:[2704,2709]; score:1.000000
+ => China:[209,214]; score:1.000000
+ => South Korea:[2711,2722]; score:1.000000
+ => Beijing:[22,29]; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000
+ => John Weir:[3100,3109]; score:1.000000
+ => Electric Power Department:[174,199]; score:1.000000
+ => Yizhong Company:[1700,1715]; score:1.000000
+ => Aixing Dan:[288,298]; score:1.000000
+ => International Co-operation Department:[316,353]; score:1.000000
+ => US:[92,94]; score:1.000000
+
+************************ System Result: ***************************
+ => Renzu Luo:[2280,2289]; score:1.000000
+	FP => US:[2690,2692]; score:1.000000
+ => Brown:[3174,3179]; score:1.000000
+ => Rudong:[1927,1933]; score:1.000000
+	FP => Weir Group:[2316,2326]; score:1.000000
+	FP => China:[2919,2924]; score:1.000000
+	FP => Weir Group:[1427,1437]; score:1.000000
+ => Jiangsu Province:[155,171]; score:1.000000
+ => International Co-operation Department of the Electric Power Industry Ministry:[316,393]; score:1.000000
+	FP => Jiangsu:[3255,3262]; score:1.000000
+	FP => Jiangsu Electric Power Department:[1750,1783]; score:1.000000
+	FP => Xinhua News Agency:[424,442]; score:1.000000
+ => Aixing Dan:[288,298]; score:1.000000
+	FP => US:[3419,3421]; score:1.000000
+ => US:[92,94]; score:1.000000
+	FP => China:[2432,2437]; score:1.000000
+	FP => China:[3394,3399]; score:1.000000
+ => Taiwan:[2727,2733]; score:1.000000
+	FP => Chinese:[2057,2064]; score:1.000000
+	FP => Asian:[2503,2508]; score:1.000000
+	FP => Weir Group:[2159,2169]; score:1.000000
+ => Jingcai Wu  The Weir:[58,78]; score:1.000000
+	FP => Beijing:[142,149]; score:1.000000
+	FP => Jiangsu:[1935,1942]; score:1.000000
+	FP => China:[3151,3156]; score:1.000000
+ => Japan:[2704,2709]; score:1.000000
+ => China:[209,214]; score:1.000000
+ => South Korea:[2711,2722]; score:1.000000
+	FP => Weir Group:[2104,2114]; score:1.000000
+	FP => Weir Group:[3128,3138]; score:1.000000
+ => Beijing:[22,29]; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000
+ => John Weir:[3100,3109]; score:1.000000
+ => Electric Power Department:[174,199]; score:1.000000
+ => Yizhong Company:[1700,1715]; score:1.000000
+	FP => US:[1723,1725]; score:1.000000
+	FP => Weir Group:[1731,1741]; score:1.000000
+	FP => US:[1468,1470]; score:1.000000
+	FP => China:[3426,3431]; score:1.000000
+P/R/F:0.45/1.0/0.62068963; tpCount:18.0; fpCount:22.0; fnCount:0.0
+[20001115_AFP_ARB.0013.eng]
+***************** Gold Standard: ***********************
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+ => Brunei:[456,462]; score:1.000000
+	FN => AFP:[29,32]; score:1.000000
+ => State of Florida:[333,349]; score:1.000000
+
+************************ System Result: ***************************
+ => Brunei:[456,462]; score:1.000000
+	FP => Clinton:[1260,1267]; score:1.000000
+	FP => United States:[244,257]; score:1.000000
+	FP => United States:[628,641]; score:1.000000
+	FP => United States:[1654,1667]; score:1.000000
+	FP => American:[853,861]; score:1.000000
+	FP => Democrats:[183,192]; score:1.000000
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+	FP => Al Gore:[507,514]; score:1.000000
+	FP => Brunei:[1242,1248]; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[413,446]; score:1.000000
+	FP => American:[37,45]; score:1.000000
+	FP => Democratic:[1384,1394]; score:1.000000
+	FP => Al Gore:[1159,1166]; score:1.000000
+	FP => Apec:[1575,1579]; score:1.000000
+	FP => George Bush:[1103,1114]; score:1.000000
+	FP => George Bush:[528,539]; score:1.000000
+	FP => Bill Clinton:[56,68]; score:1.000000
+	FP => United States:[985,998]; score:1.000000
+	FP => Democrat:[1140,1148]; score:1.000000
+	FP => Republican:[1399,1409]; score:1.000000
+	FP => Republican:[1082,1092]; score:1.000000
+	FP => Florida:[1048,1055]; score:1.000000
+	FP => Clinton:[353,360]; score:1.000000
+	FP => Republicans:[167,178]; score:1.000000
+ => State of Florida:[333,349]; score:1.000000
+P/R/F:0.115384616/0.75/0.2; tpCount:3.0; fpCount:23.0; fnCount:1.0
+[20001115_AFP_ARB.0217.eng]
+***************** Gold Standard: ***********************
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+ => Coral Islands:[221,234]; score:1.000000
+ => Brunei:[553,559]; score:1.000000
+ => Irkotsik:[636,644]; score:1.000000
+	FN => AFP:[29,32]; score:1.000000
+ => Russia:[98,104]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Russia:[651,657]; score:1.000000
+	FP => Riotaro Hashimoto:[758,775]; score:1.000000
+	FP => Russia:[1037,1043]; score:1.000000
+	FP => Coral:[1007,1012]; score:1.000000
+	FP => Putin:[1135,1140]; score:1.000000
+	FP => Yoshiro Mori:[473,485]; score:1.000000
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+	FP => Russian:[1080,1087]; score:1.000000
+	FP => Russian:[698,705]; score:1.000000
+	FP => World War II:[1119,1131]; score:1.000000
+	FP => Japanese:[734,742]; score:1.000000
+	FP => Japan:[1149,1154]; score:1.000000
+ => Russia:[98,104]; score:1.000000
+	FP => Japan:[899,904]; score:1.000000
+	FP => Japanese:[39,47]; score:1.000000
+	FP => Boris Yeltsin:[716,729]; score:1.000000
+	FP => Vladimir Putin:[430,444]; score:1.000000
+ => Brunei:[553,559]; score:1.000000
+	FP => Japanese:[567,575]; score:1.000000
+ => Coral Islands:[221,234]; score:1.000000
+	FP => Russia:[888,894]; score:1.000000
+	FP => Japan:[88,93]; score:1.000000
+	FP => Japan:[1048,1053]; score:1.000000
+ => Irkotsik:[636,644]; score:1.000000
+	FP => Russian:[412,419]; score:1.000000
+	FP => Japanese:[449,457]; score:1.000000
+	FP => World War II:[328,340]; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[510,543]; score:1.000000
+P/R/F:0.17857143/0.8333333/0.29411766; tpCount:5.0; fpCount:23.0; fnCount:1.0
+[20001115_AFP_ARB.0089.eng]
+***************** Gold Standard: ***********************
+ => Algeria:[230,237]; score:1.000000
+ => Saida:[708,713]; score:1.000000
+ => Lebanon:[9,16]; score:1.000000
+ => Beirut:[330,336]; score:1.000000
+ => Palestinian National Council:[198,226]; score:1.000000
+ => Souer:[308,313]; score:1.000000
+ => Mohamed al-Dura:[448,463]; score:1.000000
+ => Lebanon:[731,738]; score:1.000000
+	FN => AFP:[25,28]; score:1.000000
+ => Albus Camp:[292,302]; score:1.000000
+ => Khalid Arif:[966,977]; score:1.000000
+ => Albus:[2,7]; score:1.000000
+ => Jerusalem:[1318,1327]; score:1.000000
+
+************************ System Result: ***************************
+ => Algeria:[230,237]; score:1.000000
+	FP => Palestinians:[1617,1629]; score:1.000000
+	FP => Palestinian:[1781,1792]; score:1.000000
+	FP => Oslo:[2126,2130]; score:1.000000
+	FP => Palestinian:[1911,1922]; score:1.000000
+ => Souer:[308,313]; score:1.000000
+	FP => Yasser Arafat:[829,842]; score:1.000000
+	FP => Fatah:[1592,1597]; score:1.000000
+	FP => Israel:[1051,1057]; score:1.000000
+	FP => Israeli:[509,516]; score:1.000000
+	FP => Ayn Alhilwa:[1411,1422]; score:1.000000
+	FP => France Presse:[583,596]; score:1.000000
+ => Albus Camp:[292,302]; score:1.000000
+ => Saida:[708,713]; score:1.000000
+	FP => Palestinian:[1290,1301]; score:1.000000
+ => Lebanon:[9,16]; score:1.000000
+	FP => Palestinian Territories:[537,560]; score:1.000000
+	FP => Israeli:[1162,1169]; score:1.000000
+	FP => Intifada:[1259,1267]; score:1.000000
+	FP => Palestinian Intifada:[2041,2061]; score:1.000000
+	FP => Israeli:[911,918]; score:1.000000
+	FP => Palestinians:[636,648]; score:1.000000
+	FP => Israeli:[1562,1569]; score:1.000000
+	FP => Ayn Alhilwa:[678,689]; score:1.000000
+	FP => Palestinian:[807,818]; score:1.000000
+	FP => Palestinians:[270,282]; score:1.000000
+	FP => Intifada:[1034,1042]; score:1.000000
+	FP => Palestinian:[46,57]; score:1.000000
+	FP => Fatah:[1000,1005]; score:1.000000
+ => Beirut:[330,336]; score:1.000000
+	FP => Palestinian Territories:[1216,1239]; score:1.000000
+	FP => Israeli:[1713,1720]; score:1.000000
+	FP => Palestinian:[1976,1987]; score:1.000000
+	FP => Jerusalem:[1527,1536]; score:1.000000
+ => Mohamed al-Dura:[448,463]; score:1.000000
+	FP => American:[923,931]; score:1.000000
+	FP => Saida:[1018,1023]; score:1.000000
+ => Khalid Arif:[966,977]; score:1.000000
+ => Albus:[2,7]; score:1.000000
+	FP => American:[1574,1582]; score:1.000000
+	FP => Lebanon:[70,77]; score:1.000000
+	FP => Yasser Arafat:[1933,1946]; score:1.000000
+ => Palestinian National Council:[198,226]; score:1.000000
+	FP => Fatah:[785,790]; score:1.000000
+	FP => Palestinian:[856,867]; score:1.000000
+	FP => Palestinian:[1883,1894]; score:1.000000
+ => Lebanon:[731,738]; score:1.000000
+	FP => Palestinian:[481,492]; score:1.000000
+	FP => Algeria:[2018,2025]; score:1.000000
+ => Jerusalem:[1318,1327]; score:1.000000
+P/R/F:0.24/0.9230769/0.3809524; tpCount:12.0; fpCount:38.0; fnCount:1.0
+[20001115_AFP_ARB.0210.eng]
+***************** Gold Standard: ***********************
+	FN => AFP:[37,40]; score:1.000000
+ => United States:[15,28]; score:1.000000
+ => Supreme Court:[49,62]; score:1.000000
+ => Tallahassee:[2,13]; score:1.000000
+ => Florida:[66,73]; score:1.000000
+
+************************ System Result: ***************************
+ => Tallahassee:[2,13]; score:1.000000
+ => United States:[15,28]; score:1.000000
+ => Florida:[66,73]; score:1.000000
+ => Supreme Court:[49,62]; score:1.000000
+P/R/F:1.0/0.8/0.88888896; tpCount:4.0; fpCount:0.0; fnCount:1.0
+[20001115_AFP_ARB.0093.eng]
+***************** Gold Standard: ***********************
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+ => James Stewart:[335,348]; score:1.000000
+	FN => area "A:[1307,1314]; score:1.000000
+ => White House:[354,365]; score:1.000000
+	FN => AFP:[29,32]; score:1.000000
+ => Palestinian Superior Security Council:[1200,1237]; score:1.000000
+ => United States:[41,54]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Palestinian:[1322,1333]; score:1.000000
+	FP => Bill Clinton:[846,858]; score:1.000000
+	FP => Yasser Arafat:[1457,1470]; score:1.000000
+	FP => Bill Clinton:[466,478]; score:1.000000
+	FP => Brunei:[910,916]; score:1.000000
+	FP => Bandar Seri Begawan:[381,400]; score:1.000000
+	FP => Yasser Arafat:[120,133]; score:1.000000
+	FP => Israeli:[627,634]; score:1.000000
+	FP => Gaza Strip:[1750,1760]; score:1.000000
+	FP => Sharm:[306,311]; score:1.000000
+ => Bandar Seri Begawan:[2,21]; score:1.000000
+	FP => APEC:[789,793]; score:1.000000
+	FP => Brunei:[798,804]; score:1.000000
+	FP => Arafat:[868,874]; score:1.000000
+	FP => Palestinian:[1161,1172]; score:1.000000
+	FP => West Bank:[1736,1745]; score:1.000000
+ => James Stewart:[335,348]; score:1.000000
+	FP => American:[812,820]; score:1.000000
+	FP => Palestinian Territories:[1628,1651]; score:1.000000
+	FP => Clinton:[717,724]; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[748,781]; score:1.000000
+ => Palestinian Superior Security Council:[1200,1237]; score:1.000000
+	FP => Palestinian:[1560,1571]; score:1.000000
+	FP => Sultanate of Brunei:[421,440]; score:1.000000
+	FP => Palestinian Superior Security Council:[1402,1439]; score:1.000000
+	FP => Palestinian Authority:[171,192]; score:1.000000
+	FP => Palestinian Authority:[1707,1728]; score:1.000000
+	FP => Palestinian:[98,109]; score:1.000000
+	FP => American:[447,455]; score:1.000000
+ => White House:[354,365]; score:1.000000
+	FP => Palestinian:[611,622]; score:1.000000
+	FP => Yasser Arafat:[1255,1268]; score:1.000000
+ => United States:[41,54]; score:1.000000
+P/R/F:0.15151516/0.71428573/0.25000003; tpCount:5.0; fpCount:28.0; fnCount:2.0
+[PRI20001201.2000.1828]
+***************** Gold Standard: ***********************
+ => US Supreme Court:[63,79]; score:1.000000
+ => Washington:[1115,1125]; score:1.000000
+ => Ruth Bater Ginsburg:[437,456]; score:1.000000
+ => Sandra Day O'Connor:[776,795]; score:1.000000
+ => Florida Supreme Court:[541,562]; score:1.000000
+ => Judith Spencer:[185,199]; score:1.000000
+ => London:[18,24]; score:1.000000
+ => BBC News:[6,14]; score:1.000000
+
+************************ System Result: ***************************
+	FP => Miami Dade:[1291,1301]; score:1.000000
+ => Ruth Bater Ginsburg:[437,456]; score:1.000000
+	FP => Florida Supreme Court:[1144,1165]; score:1.000000
+ => Justice Sandra Day O'Connor:[768,795]; score:1.000000
+	FP => Democrat:[336,344]; score:1.000000
+ => London:[18,24]; score:1.000000
+	FP => Bush:[465,469]; score:1.000000
+	FP => Al Gore:[1204,1211]; score:1.000000
+	FP => World:[52,57]; score:1.000000
+ => Washington:[1115,1125]; score:1.000000
+	FP => Gregor Cragy:[31,43]; score:1.000000
+	FP => Federal High Court:[498,516]; score:1.000000
+	FP => Supreme Court:[270,283]; score:1.000000
+	FP => US Supreme Court:[1013,1029]; score:1.000000
+	FP => Republican:[306,316]; score:1.000000
+	FP => State Supreme Court:[731,750]; score:1.000000
+ => Florida Supreme Court:[541,562]; score:1.000000
+ => Judith Spencer:[185,199]; score:1.000000
+ => US Supreme Court:[63,79]; score:1.000000
+	FP => George W. Bush:[317,331]; score:1.000000
+	FP => AL Gore:[345,352]; score:1.000000
+	FP => Palm Beach:[1276,1286]; score:1.000000
+	FP => Florida:[992,999]; score:1.000000
+	FP => Judith Spencer:[1097,1111]; score:1.000000
+	FP => Florida:[420,427]; score:1.000000
+ => BBC News:[6,14]; score:1.000000
+P/R/F:0.30769232/1.0/0.47058827; tpCount:8.0; fpCount:18.0; fnCount:0.0

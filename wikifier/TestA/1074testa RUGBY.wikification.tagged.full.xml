@@ -1,0 +1,762 @@
+<WikifierOutput>
+<InputFilename>
+1074testa RUGBY
+</InputFilename>
+<InputText>
+RUGBY UNION- SOUTH AFRICA BEAT ALL BLACKS 32-22.
+JOHANNESBURG 1996-08-31
+South Africa beat New Zealand 32-22( haltime 16-8) in the final test match of their three-test series at Ellis Park on Saturday.
+Scorers:
+South Africa- Tries: Joost van der Westhuizen( 2), Andre Joubert.
+Conversion: Henry Honiball.
+Penalties: Honiball( 2), Joubert( 3).
+New Zealand- Tries: Sean Fitzpatrick, Walter Little, Justin Marshall.
+Conversions: Andrew Mehrtens( 2).
+Penalties: Mehrtens.
+New Zealand win test series 2-1.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>SOUTH AFRICA</EntitySurfaceForm>
+	<EntityTextStart>13</EntityTextStart>
+	<EntityTextEnd>25</EntityTextEnd>
+	<LinkerScore>0.5622108318211176</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa_national_rugby_union_team</WikiTitle>
+		<WikiTitleID>376115</WikiTitleID>
+		<RankerScore>0.40678818091538255</RankerScore>
+		<Attributes>team	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa</WikiTitle> <WikiTitleID>17416221</WikiTitleID> <RankerScore>0.23212973899515615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_cricket_team</WikiTitle> <WikiTitleID>759263</WikiTitleID> <RankerScore>0.05679004974781279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team</WikiTitle> <WikiTitleID>376115</WikiTitleID> <RankerScore>0.40678818091538255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_football_team</WikiTitle> <WikiTitleID>1018598</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_South_Africa</WikiTitle> <WikiTitleID>44555</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_South_Africa</WikiTitle> <WikiTitleID>2164954</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2281510</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3890717</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_league_team</WikiTitle> <WikiTitleID>2265301</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Boer_War</WikiTitle> <WikiTitleID>42720</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_wine</WikiTitle> <WikiTitleID>4111898</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Air_Force</WikiTitle> <WikiTitleID>480283</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_field_hockey_team</WikiTitle> <WikiTitleID>18523612</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_South_Africa</WikiTitle> <WikiTitleID>664778</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_baseball_team</WikiTitle> <WikiTitleID>3938371</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_Davis_Cup_team</WikiTitle> <WikiTitleID>9988610</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_South_Africa</WikiTitle> <WikiTitleID>27374</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_South_Africa</WikiTitle> <WikiTitleID>4752175</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Republic</WikiTitle> <WikiTitleID>28343</WikiTitleID> <RankerScore>0.017899531196567564</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ALL BLACKS</EntitySurfaceForm>
+	<EntityTextStart>31</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>1.6124323297561927</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>All_Blacks</WikiTitle>
+		<WikiTitleID>154957</WikiTitleID>
+		<RankerScore>0.894766629038999</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>All_Blacks</WikiTitle> <WikiTitleID>154957</WikiTitleID> <RankerScore>0.894766629038999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Original_All_Blacks</WikiTitle> <WikiTitleID>6368302</WikiTitleID> <RankerScore>0.05317784164535027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Rugby_Union</WikiTitle> <WikiTitleID>879253</WikiTitleID> <RankerScore>0.027038543802687304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All_Blacks_F.C.</WikiTitle> <WikiTitleID>7818636</WikiTitleID> <RankerScore>0.025016985512963465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>JOHANNESBURG</EntitySurfaceForm>
+	<EntityTextStart>49</EntityTextStart>
+	<EntityTextEnd>61</EntityTextEnd>
+	<LinkerScore>0.8563738834033161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Johannesburg</WikiTitle>
+		<WikiTitleID>58893</WikiTitleID>
+		<RankerScore>0.34159190557306945</RankerScore>
+		<Attributes>capital	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Johannesburg</WikiTitle> <WikiTitleID>58893</WikiTitleID> <RankerScore>0.34159190557306945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wanderers_Stadium</WikiTitle> <WikiTitleID>1413269</WikiTitleID> <RankerScore>0.09513226513063643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johannesburg,_California</WikiTitle> <WikiTitleID>107536</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ellis_Park_Stadium</WikiTitle> <WikiTitleID>1390679</WikiTitleID> <RankerScore>0.126234903285636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johannesburg_(horse)</WikiTitle> <WikiTitleID>6358998</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Johannesburg</WikiTitle> <WikiTitleID>12888869</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charlton_Township,_Michigan</WikiTitle> <WikiTitleID>118893</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OR_Tambo_International_Airport</WikiTitle> <WikiTitleID>106491</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Wanderers</WikiTitle> <WikiTitleID>3384683</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Johannesburg</WikiTitle> <WikiTitleID>1126561</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fordsburg,_Gauteng</WikiTitle> <WikiTitleID>2250321</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earth_Summit_2002</WikiTitle> <WikiTitleID>72728</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suburbs_of_Johannesburg</WikiTitle> <WikiTitleID>1406945</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Johannesburg_Metropolitan_Municipality</WikiTitle> <WikiTitleID>2244836</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ATP_Johannesburg</WikiTitle> <WikiTitleID>15988529</WikiTitleID> <RankerScore>0.03642007716755485</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South Africa</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>0.20986876099025376</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa</WikiTitle>
+		<WikiTitleID>17416221</WikiTitleID>
+		<RankerScore>0.29448942204610123</RankerScore>
+		<Attributes>nation	member	country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa</WikiTitle> <WikiTitleID>17416221</WikiTitleID> <RankerScore>0.29448942204610123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_cricket_team</WikiTitle> <WikiTitleID>759263</WikiTitleID> <RankerScore>0.08203655764790903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team</WikiTitle> <WikiTitleID>376115</WikiTitleID> <RankerScore>0.2523904240192231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_football_team</WikiTitle> <WikiTitleID>1018598</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_South_Africa</WikiTitle> <WikiTitleID>44555</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_South_Africa</WikiTitle> <WikiTitleID>2164954</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2281510</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3890717</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_league_team</WikiTitle> <WikiTitleID>2265301</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Boer_War</WikiTitle> <WikiTitleID>42720</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_wine</WikiTitle> <WikiTitleID>4111898</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Air_Force</WikiTitle> <WikiTitleID>480283</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_field_hockey_team</WikiTitle> <WikiTitleID>18523612</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_South_Africa</WikiTitle> <WikiTitleID>664778</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_baseball_team</WikiTitle> <WikiTitleID>3938371</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_Davis_Cup_team</WikiTitle> <WikiTitleID>9988610</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_South_Africa</WikiTitle> <WikiTitleID>27374</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_South_Africa</WikiTitle> <WikiTitleID>4752175</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Republic</WikiTitle> <WikiTitleID>28343</WikiTitleID> <RankerScore>0.021828446840398037</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Africa</EntitySurfaceForm>
+	<EntityTextStart>79</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>0.22395776889592678</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Africa</WikiTitle>
+		<WikiTitleID>17416221</WikiTitleID>
+		<RankerScore>0.3105896847130859</RankerScore>
+		<Attributes>nation	member	country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Africa</WikiTitle> <WikiTitleID>17416221</WikiTitleID> <RankerScore>0.3105896847130859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_cricket_team</WikiTitle> <WikiTitleID>759263</WikiTitleID> <RankerScore>0.07574355990921836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team</WikiTitle> <WikiTitleID>376115</WikiTitleID> <RankerScore>0.25150474475302204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_football_team</WikiTitle> <WikiTitleID>1018598</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_of_South_Africa</WikiTitle> <WikiTitleID>44555</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_South_Africa</WikiTitle> <WikiTitleID>2164954</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2281510</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3890717</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_rugby_league_team</WikiTitle> <WikiTitleID>2265301</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Boer_War</WikiTitle> <WikiTitleID>42720</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_wine</WikiTitle> <WikiTitleID>4111898</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Air_Force</WikiTitle> <WikiTitleID>480283</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_field_hockey_team</WikiTitle> <WikiTitleID>18523612</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_South_Africa</WikiTitle> <WikiTitleID>664778</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_national_baseball_team</WikiTitle> <WikiTitleID>3938371</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_Davis_Cup_team</WikiTitle> <WikiTitleID>9988610</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_South_Africa</WikiTitle> <WikiTitleID>27374</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Africa_under_apartheid</WikiTitle> <WikiTitleID>2200527</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_South_Africa</WikiTitle> <WikiTitleID>4752175</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Republic</WikiTitle> <WikiTitleID>28343</WikiTitleID> <RankerScore>0.021303647683804335</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New Zealand</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>0.42516076865820507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>All_Blacks</WikiTitle>
+		<WikiTitleID>154957</WikiTitleID>
+		<RankerScore>0.33647560555694506</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_Zealand</WikiTitle> <WikiTitleID>4913064</WikiTitleID> <RankerScore>0.21059462507392562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_cricket_team</WikiTitle> <WikiTitleID>478115</WikiTitleID> <RankerScore>0.07603625039444371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_rugby_league_team</WikiTitle> <WikiTitleID>952064</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All_Blacks</WikiTitle> <WikiTitleID>154957</WikiTitleID> <RankerScore>0.33647560555694506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_New_Zealand</WikiTitle> <WikiTitleID>167581</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_football_team</WikiTitle> <WikiTitleID>1023035</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154922</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3439218</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_at_Miss_World</WikiTitle> <WikiTitleID>17514567</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_New_Zealand</WikiTitle> <WikiTitleID>2164931</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_at_Miss_Universe</WikiTitle> <WikiTitleID>11337942</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_basketball_team</WikiTitle> <WikiTitleID>1168638</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominion_of_New_Zealand</WikiTitle> <WikiTitleID>431394</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_English</WikiTitle> <WikiTitleID>21670</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_New_Zealand_Navy</WikiTitle> <WikiTitleID>459285</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silver_Ferns</WikiTitle> <WikiTitleID>1032972</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_Industry_Association_of_New_Zealand</WikiTitle> <WikiTitleID>1588487</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_Sticks_Women</WikiTitle> <WikiTitleID>7406019</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_badminton_team</WikiTitle> <WikiTitleID>17459443</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_wine</WikiTitle> <WikiTitleID>3974835</WikiTitleID> <RankerScore>0.02217020699851092</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>test match</EntitySurfaceForm>
+	<EntityTextStart>137</EntityTextStart>
+	<EntityTextEnd>147</EntityTextEnd>
+	<LinkerScore>0.35872074192450476</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rugby_union</WikiTitle>
+		<WikiTitleID>25405</WikiTitleID>
+		<RankerScore>0.5605338745884196</RankerScore>
+		<Attributes>code	sport	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Test_cricket</WikiTitle> <WikiTitleID>30863</WikiTitleID> <RankerScore>0.26681869170906214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Test_match_(football)</WikiTitle> <WikiTitleID>635881</WikiTitleID> <RankerScore>0.09807412777603113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Test_match_(rugby_league)</WikiTitle> <WikiTitleID>16926380</WikiTitleID> <RankerScore>0.07457330592648723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union</WikiTitle> <WikiTitleID>25405</WikiTitleID> <RankerScore>0.5605338745884196</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ellis Park</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>188</EntityTextEnd>
+	<LinkerScore>1.1653417776477584</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ellis_Park_Stadium</WikiTitle>
+		<WikiTitleID>1390679</WikiTitleID>
+		<RankerScore>0.8819566924369707</RankerScore>
+		<Attributes>stadium	venue	grounds	building	sponsorship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ellis_Park_Stadium</WikiTitle> <WikiTitleID>1390679</WikiTitleID> <RankerScore>0.8819566924369707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ellis_Park_Racecourse</WikiTitle> <WikiTitleID>3086244</WikiTitleID> <RankerScore>0.11804330756302935</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joost van der Westhuizen</EntitySurfaceForm>
+	<EntityTextStart>232</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>1.3000484030618973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joost_van_der_Westhuizen</WikiTitle>
+		<WikiTitleID>1748767</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	person	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joost_van_der_Westhuizen</WikiTitle> <WikiTitleID>1748767</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Andre Joubert</EntitySurfaceForm>
+	<EntityTextStart>262</EntityTextStart>
+	<EntityTextEnd>275</EntityTextEnd>
+	<LinkerScore>1.0383053013596348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>André_Joubert</WikiTitle>
+		<WikiTitleID>6446446</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>André_Joubert</WikiTitle> <WikiTitleID>6446446</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joubert</EntitySurfaceForm>
+	<EntityTextStart>268</EntityTextStart>
+	<EntityTextEnd>275</EntityTextEnd>
+	<LinkerScore>0.09613624963497669</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>André_Joubert</WikiTitle>
+		<WikiTitleID>6446446</WikiTitleID>
+		<RankerScore>0.5178917856727371</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barthélemy_Catherine_Joubert</WikiTitle> <WikiTitleID>161132</WikiTitleID> <RankerScore>0.3153072252733881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piet_Joubert</WikiTitle> <WikiTitleID>600201</WikiTitleID> <RankerScore>0.1668009890538748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>André_Joubert</WikiTitle> <WikiTitleID>6446446</WikiTitleID> <RankerScore>0.5178917856727371</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Henry Honiball</EntitySurfaceForm>
+	<EntityTextStart>289</EntityTextStart>
+	<EntityTextEnd>303</EntityTextEnd>
+	<LinkerScore>1.0240922560215004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Henry_Honiball</WikiTitle>
+		<WikiTitleID>11653198</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Henry_Honiball</WikiTitle> <WikiTitleID>11653198</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joubert</EntitySurfaceForm>
+	<EntityTextStart>330</EntityTextStart>
+	<EntityTextEnd>337</EntityTextEnd>
+	<LinkerScore>0.03283823590193857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>André_Joubert</WikiTitle>
+		<WikiTitleID>6446446</WikiTitleID>
+		<RankerScore>0.5055381988670509</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barthélemy_Catherine_Joubert</WikiTitle> <WikiTitleID>161132</WikiTitleID> <RankerScore>0.3231526253968385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piet_Joubert</WikiTitle> <WikiTitleID>600201</WikiTitleID> <RankerScore>0.17130917573611054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>André_Joubert</WikiTitle> <WikiTitleID>6446446</WikiTitleID> <RankerScore>0.5055381988670509</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sean Fitzpatrick</EntitySurfaceForm>
+	<EntityTextStart>363</EntityTextStart>
+	<EntityTextEnd>379</EntityTextEnd>
+	<LinkerScore>1.2861140437400291</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sean_Fitzpatrick</WikiTitle>
+		<WikiTitleID>1444074</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>student	person	player	hooker	catholic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sean_Fitzpatrick</WikiTitle> <WikiTitleID>1444074</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Justin Marshall</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>1.1625713611011346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Justin_Marshall</WikiTitle>
+		<WikiTitleID>1809625</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	member	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Justin_Marshall</WikiTitle> <WikiTitleID>1809625</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Justin</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>402</EntityTextEnd>
+	<LinkerScore>-0.010392100387214095</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Justin_(historian)</WikiTitle>
+		<WikiTitleID>85775</WikiTitleID>
+		<RankerScore>0.0825404270997418</RankerScore>
+		<Attributes>historian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Justin_(historian)</WikiTitle> <WikiTitleID>85775</WikiTitleID> <RankerScore>0.0825404270997418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Martyr</WikiTitle> <WikiTitleID>16403</WikiTitleID> <RankerScore>0.04800423876328912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Suarez</WikiTitle> <WikiTitleID>8305177</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Burton</WikiTitle> <WikiTitleID>3501669</WikiTitleID> <RankerScore>0.051488726713102964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin,_Texas</WikiTitle> <WikiTitleID>135774</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Trudeau</WikiTitle> <WikiTitleID>451733</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Russo_(Wizards_of_Waverly_Place)</WikiTitle> <WikiTitleID>13870440</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_I</WikiTitle> <WikiTitleID>47969</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Taylor</WikiTitle> <WikiTitleID>5408118</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_(Korn_song)</WikiTitle> <WikiTitleID>11553762</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Fashanu</WikiTitle> <WikiTitleID>950473</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Madden</WikiTitle> <WikiTitleID>350934</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Lo</WikiTitle> <WikiTitleID>2886260</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Nozuka</WikiTitle> <WikiTitleID>12182330</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Rockefeller</WikiTitle> <WikiTitleID>2878203</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_(album)</WikiTitle> <WikiTitleID>3434211</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Lee_Brannan</WikiTitle> <WikiTitleID>10578333</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Bell</WikiTitle> <WikiTitleID>5166849</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Spring</WikiTitle> <WikiTitleID>9111532</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justin_Upton</WikiTitle> <WikiTitleID>4390894</WikiTitleID> <RankerScore>0.04811568278963917</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Marshall</EntitySurfaceForm>
+	<EntityTextStart>403</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>1.1396759812192387</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Justin_Marshall</WikiTitle>
+		<WikiTitleID>1809625</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	member	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Justin_Marshall</WikiTitle> <WikiTitleID>1809625</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Andrew Mehrtens</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>441</EntityTextEnd>
+	<LinkerScore>1.2916979450002655</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Andrew_Mehrtens</WikiTitle>
+		<WikiTitleID>860422</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>student	person	player	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Andrew_Mehrtens</WikiTitle> <WikiTitleID>860422</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New Zealand</EntitySurfaceForm>
+	<EntityTextStart>468</EntityTextStart>
+	<EntityTextEnd>479</EntityTextEnd>
+	<LinkerScore>0.45845698616281205</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>All_Blacks</WikiTitle>
+		<WikiTitleID>154957</WikiTitleID>
+		<RankerScore>0.24159495919462556</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_Zealand</WikiTitle> <WikiTitleID>4913064</WikiTitleID> <RankerScore>0.18464334228821722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_cricket_team</WikiTitle> <WikiTitleID>478115</WikiTitleID> <RankerScore>0.07281698081457331</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_rugby_league_team</WikiTitle> <WikiTitleID>952064</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All_Blacks</WikiTitle> <WikiTitleID>154957</WikiTitleID> <RankerScore>0.24159495919462556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_New_Zealand</WikiTitle> <WikiTitleID>167581</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_football_team</WikiTitle> <WikiTitleID>1023035</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154922</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3439218</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_at_Miss_World</WikiTitle> <WikiTitleID>17514567</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_New_Zealand</WikiTitle> <WikiTitleID>2164931</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_at_Miss_Universe</WikiTitle> <WikiTitleID>11337942</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_basketball_team</WikiTitle> <WikiTitleID>1168638</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominion_of_New_Zealand</WikiTitle> <WikiTitleID>431394</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_English</WikiTitle> <WikiTitleID>21670</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_New_Zealand_Navy</WikiTitle> <WikiTitleID>459285</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Silver_Ferns</WikiTitle> <WikiTitleID>1032972</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recording_Industry_Association_of_New_Zealand</WikiTitle> <WikiTitleID>1588487</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_Sticks_Women</WikiTitle> <WikiTitleID>7406019</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_badminton_team</WikiTitle> <WikiTitleID>17459443</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_wine</WikiTitle> <WikiTitleID>3974835</WikiTitleID> <RankerScore>0.029467336335446105</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

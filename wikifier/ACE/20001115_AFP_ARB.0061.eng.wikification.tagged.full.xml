@@ -1,0 +1,1442 @@
+<WikifierOutput>
+<InputFilename>
+20001115_AFP_ARB.0061.eng
+</InputFilename>
+<InputText>
+  Gaza 11-15 (AFP) -  A high-level Palestinian source said today Wednesday that the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop shooting inside area &quot;A&quot; under Palestinian control.   The source said that &quot;the Palestinian Superior Security Council led by President Yasser Arafat issued orders to stop unknown armed persons from shooting inside zone &quot;A&quot; under complete Palestinian control and between buildings and civilians in the Palestinian Territories.&quot;   The Palestinian decision comes a few hours before discussions between Israeli Prime Minister Ehud Barak and his top security advisors to explore the measures to be taken against Palestinians after four Israeli soldiers were shot in Palestinian areas last Monday. 
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Gaza</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>6</EntityTextEnd>
+	<LinkerScore>0.693823069380004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gaza</WikiTitle>
+		<WikiTitleID>55387</WikiTitleID>
+		<RankerScore>0.3965730566708352</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gaza</WikiTitle> <WikiTitleID>55387</WikiTitleID> <RankerScore>0.3965730566708352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_Strip</WikiTitle> <WikiTitleID>12047</WikiTitleID> <RankerScore>0.20807152068665152</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_Province</WikiTitle> <WikiTitleID>448329</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Third_Battle_of_Gaza</WikiTitle> <WikiTitleID>501628</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_(comics)</WikiTitle> <WikiTitleID>10238100</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaza_(The_West_Wing)</WikiTitle> <WikiTitleID>4777322</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Battle_of_Gaza_(1917)</WikiTitle> <WikiTitleID>458227</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Israel-Gaza_conflict</WikiTitle> <WikiTitleID>8885976</WikiTitleID> <RankerScore>0.087589271550361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.05129435851535871</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>0.5056448821697059</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.2817575979336372</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.2817575979336372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.14879802261419664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.13868739096431726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.025338646381638175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>0.3649553235080865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.24553631627836817</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.24553631627836817</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.19271502753138617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.17814323087909809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.0225650250183028</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Superior</EntitySurfaceForm>
+	<EntityTextStart>96</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>-0.20255433413261914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lake_Superior</WikiTitle>
+		<WikiTitleID>17951</WikiTitleID>
+		<RankerScore>0.07541912342792872</RankerScore>
+		<Attributes>lake</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Superior,_Wisconsin</WikiTitle> <WikiTitleID>288141</WikiTitleID> <RankerScore>0.06389822745343784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Superior</WikiTitle> <WikiTitleID>17951</WikiTitleID> <RankerScore>0.07541912342792872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Arizona</WikiTitle> <WikiTitleID>106764</WikiTitleID> <RankerScore>0.05311656542236973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Nebraska</WikiTitle> <WikiTitleID>124093</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(band)</WikiTitle> <WikiTitleID>6168006</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Montana</WikiTitle> <WikiTitleID>123541</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Colorado</WikiTitle> <WikiTitleID>108410</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(proposed_U.S._state)</WikiTitle> <WikiTitleID>5634053</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Coach_Company</WikiTitle> <WikiTitleID>1903926</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(hierarchy)</WikiTitle> <WikiTitleID>307680</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_craton</WikiTitle> <WikiTitleID>6175435</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(RTA_Rapid_Transit_station)</WikiTitle> <WikiTitleID>11658571</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Iowa</WikiTitle> <WikiTitleID>113000</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(manga)</WikiTitle> <WikiTitleID>12523450</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Oil_Company</WikiTitle> <WikiTitleID>2711343</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Wyoming</WikiTitle> <WikiTitleID>140218</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ultima_(Freedom_City)</WikiTitle> <WikiTitleID>5863509</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_court</WikiTitle> <WikiTitleID>307028</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin-Superior</WikiTitle> <WikiTitleID>496738</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_general</WikiTitle> <WikiTitleID>4594011</WikiTitleID> <RankerScore>0.04750388727625081</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security Council</EntitySurfaceForm>
+	<EntityTextStart>105</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>0.9396057573755034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.536664169031861</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.536664169031861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.13773858719214777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.19253759107268298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.13305965270330827</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>0.23641246293325435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President</WikiTitle>
+		<WikiTitleID>24110</WikiTitleID>
+		<RankerScore>0.0984686285202631</RankerScore>
+		<Attributes>occupation	executive	title	president	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.09130466619137713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.0984686285202631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Philippines</WikiTitle> <WikiTitleID>271126</WikiTitleID> <RankerScore>0.05020290468378586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Mexico</WikiTitle> <WikiTitleID>273641</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_France</WikiTitle> <WikiTitleID>24899</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Argentina</WikiTitle> <WikiTitleID>229473</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Fiji</WikiTitle> <WikiTitleID>471833</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Pakistan</WikiTitle> <WikiTitleID>419460</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ireland</WikiTitle> <WikiTitleID>24676</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Republic_of_China</WikiTitle> <WikiTitleID>61155</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_presidents_of_Chile</WikiTitle> <WikiTitleID>67402</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ukraine</WikiTitle> <WikiTitleID>570941</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_India</WikiTitle> <WikiTitleID>141896</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Romania</WikiTitle> <WikiTitleID>273659</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Church</WikiTitle> <WikiTitleID>387981</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_South_Africa</WikiTitle> <WikiTitleID>321700</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Nicaragua</WikiTitle> <WikiTitleID>302862</WikiTitleID> <RankerScore>0.044707282388504355</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>152</EntityTextEnd>
+	<LinkerScore>1.2920900390598777</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>146</EntityTextStart>
+	<EntityTextEnd>152</EntityTextEnd>
+	<LinkerScore>0.7896960735305076</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>0.8119913236306563</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>0.8119913236306563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.18800867636934376</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>0.31853586035934106</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.23639505186205997</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.23639505186205997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.19013703597177267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.15412831588968048</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.024667035075087468</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>255</EntityTextStart>
+	<EntityTextEnd>266</EntityTextEnd>
+	<LinkerScore>0.22430461199693913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.22567980582329886</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.22567980582329886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.21839975381415913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.18834538575339405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.02162206203583223</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Superior</EntitySurfaceForm>
+	<EntityTextStart>267</EntityTextStart>
+	<EntityTextEnd>275</EntityTextEnd>
+	<LinkerScore>-0.16752135995609596</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lake_Superior</WikiTitle>
+		<WikiTitleID>17951</WikiTitleID>
+		<RankerScore>0.07522342728004043</RankerScore>
+		<Attributes>lake</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Superior,_Wisconsin</WikiTitle> <WikiTitleID>288141</WikiTitleID> <RankerScore>0.06351429018169213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lake_Superior</WikiTitle> <WikiTitleID>17951</WikiTitleID> <RankerScore>0.07522342728004043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Arizona</WikiTitle> <WikiTitleID>106764</WikiTitleID> <RankerScore>0.053125097143921725</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Nebraska</WikiTitle> <WikiTitleID>124093</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(band)</WikiTitle> <WikiTitleID>6168006</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Montana</WikiTitle> <WikiTitleID>123541</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Colorado</WikiTitle> <WikiTitleID>108410</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(proposed_U.S._state)</WikiTitle> <WikiTitleID>5634053</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Coach_Company</WikiTitle> <WikiTitleID>1903926</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(hierarchy)</WikiTitle> <WikiTitleID>307680</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_craton</WikiTitle> <WikiTitleID>6175435</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(RTA_Rapid_Transit_station)</WikiTitle> <WikiTitleID>11658571</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Iowa</WikiTitle> <WikiTitleID>113000</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_(manga)</WikiTitle> <WikiTitleID>12523450</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_Oil_Company</WikiTitle> <WikiTitleID>2711343</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior,_Wyoming</WikiTitle> <WikiTitleID>140218</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ultima_(Freedom_City)</WikiTitle> <WikiTitleID>5863509</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_court</WikiTitle> <WikiTitleID>307028</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin-Superior</WikiTitle> <WikiTitleID>496738</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Superior_general</WikiTitle> <WikiTitleID>4594011</WikiTitleID> <RankerScore>0.04753748149378504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security Council</EntitySurfaceForm>
+	<EntityTextStart>276</EntityTextStart>
+	<EntityTextEnd>292</EntityTextEnd>
+	<LinkerScore>0.9563604419206215</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.5399248294112847</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.5399248294112847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.13695464509948047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.19069641832821768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.13242410716101705</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>300</EntityTextStart>
+	<EntityTextEnd>309</EntityTextEnd>
+	<LinkerScore>0.22702551784346137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President</WikiTitle>
+		<WikiTitleID>24110</WikiTitleID>
+		<RankerScore>0.09775668273552747</RankerScore>
+		<Attributes>occupation	executive	title	president	position</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.09121135010684107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.09775668273552747</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Philippines</WikiTitle> <WikiTitleID>271126</WikiTitleID> <RankerScore>0.050121943238631964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Mexico</WikiTitle> <WikiTitleID>273641</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_France</WikiTitle> <WikiTitleID>24899</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Argentina</WikiTitle> <WikiTitleID>229473</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Fiji</WikiTitle> <WikiTitleID>471833</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Pakistan</WikiTitle> <WikiTitleID>419460</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ireland</WikiTitle> <WikiTitleID>24676</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Republic_of_China</WikiTitle> <WikiTitleID>61155</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_presidents_of_Chile</WikiTitle> <WikiTitleID>67402</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ukraine</WikiTitle> <WikiTitleID>570941</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_India</WikiTitle> <WikiTitleID>141896</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Romania</WikiTitle> <WikiTitleID>273659</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Church</WikiTitle> <WikiTitleID>387981</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_South_Africa</WikiTitle> <WikiTitleID>321700</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Nicaragua</WikiTitle> <WikiTitleID>302862</WikiTitleID> <RankerScore>0.044759413171705856</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>310</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>1.2556736034907792</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>0.7424249272107433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>0.8078089065609086</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>0.8078089065609086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.19219109343909144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>413</EntityTextStart>
+	<EntityTextEnd>424</EntityTextEnd>
+	<LinkerScore>0.5976398846771966</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.2826973832029418</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.2826973832029418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.1514632493002795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.12189934347943408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.026114119059843798</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Palestinian Territories</EntitySurfaceForm>
+	<EntityTextStart>472</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_territories</WikiTitle>
+		<WikiTitleID>96665</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>territory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian Territories</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>0.6750182026128186</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_territories</WikiTitle>
+		<WikiTitleID>96665</WikiTitleID>
+		<RankerScore>0.44482767866470485</RankerScore>
+		<Attributes>territory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.44482767866470485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.2638032111593493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_the_Palestinian_National_Authority</WikiTitle> <WikiTitleID>6184856</WikiTitleID> <RankerScore>0.04480724138043307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli-occupied_territories</WikiTitle> <WikiTitleID>2781576</WikiTitleID> <RankerScore>0.24656186879551292</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>476</EntityTextStart>
+	<EntityTextEnd>487</EntityTextEnd>
+	<LinkerScore>0.7366665206085854</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.3291375939512256</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.3291375939512256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.14032444910863537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.11364977274593231</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.024522834364365097</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>508</EntityTextStart>
+	<EntityTextEnd>519</EntityTextEnd>
+	<LinkerScore>0.6548404130097925</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.3096153755815874</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.3096153755815874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.1384272428598595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.11476492480088268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.025717203338686496</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>574</EntityTextStart>
+	<EntityTextEnd>581</EntityTextEnd>
+	<LinkerScore>0.4039351946853938</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.24475491479162317</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.24475491479162317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.20735255040304262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.08452104172219022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.027257146651949643</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>574</EntityTextStart>
+	<EntityTextEnd>596</EntityTextEnd>
+	<LinkerScore>1.1600270683688088</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>596</EntityTextEnd>
+	<LinkerScore>1.1981784592035807</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud Barak</EntitySurfaceForm>
+	<EntityTextStart>597</EntityTextStart>
+	<EntityTextEnd>607</EntityTextEnd>
+	<LinkerScore>1.3713214252133514</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud</EntitySurfaceForm>
+	<EntityTextStart>597</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>0.5578578478069303</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud</WikiTitle>
+		<WikiTitleID>580058</WikiTitleID>
+		<RankerScore>0.8104155680913031</RankerScore>
+		<Attributes>regicide	judges</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud</WikiTitle> <WikiTitleID>580058</WikiTitleID> <RankerScore>0.8104155680913031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Banai</WikiTitle> <WikiTitleID>7646543</WikiTitleID> <RankerScore>0.1895844319086969</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barak</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>607</EntityTextEnd>
+	<LinkerScore>0.8039328604721714</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>0.5351059078901799</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barak</WikiTitle> <WikiTitleID>580483</WikiTitleID> <RankerScore>0.13575568575660923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_SAM</WikiTitle> <WikiTitleID>4552661</WikiTitleID> <RankerScore>0.0646134935270576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_River</WikiTitle> <WikiTitleID>4308389</WikiTitleID> <RankerScore>0.05290498256523066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>0.5351059078901799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak,_Israel</WikiTitle> <WikiTitleID>14980838</WikiTitleID> <RankerScore>0.05290498256523066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Barak</WikiTitle> <WikiTitleID>1798346</WikiTitleID> <RankerScore>0.05290498256523066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SP-21</WikiTitle> <WikiTitleID>5094126</WikiTitleID> <RankerScore>0.05290498256523066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_Armored_Brigade</WikiTitle> <WikiTitleID>268204</WikiTitleID> <RankerScore>0.05290498256523066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinians</EntitySurfaceForm>
+	<EntityTextStart>682</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>0.6352395836956422</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.40328962355408626</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.40328962355408626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.14622145364403763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>1193766</WikiTitleID> <RankerScore>0.18444684362192376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_flag</WikiTitle> <WikiTitleID>1749912</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Palestinians</WikiTitle> <WikiTitleID>610573</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Front_for_the_Liberation_of_Palestine</WikiTitle> <WikiTitleID>8427</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_national_football_team</WikiTitle> <WikiTitleID>1302455</WikiTitleID> <RankerScore>0.03325525989749404</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli soldiers</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>722</EntityTextEnd>
+	<LinkerScore>0.9262148377475158</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>706</EntityTextStart>
+	<EntityTextEnd>713</EntityTextEnd>
+	<LinkerScore>0.7038679337849245</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.2731688678096536</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.2731688678096536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.17121790462863695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.11916525560123903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.025673410115321794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>736</EntityTextStart>
+	<EntityTextEnd>747</EntityTextEnd>
+	<LinkerScore>0.9139633575286006</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_people</WikiTitle>
+		<WikiTitleID>23267</WikiTitleID>
+		<RankerScore>0.33215984747991756</RankerScore>
+		<Attributes>group	citizen	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.33215984747991756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.11548949760453933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.10377720579496522</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.026386673477681057</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian areas</EntitySurfaceForm>
+	<EntityTextStart>736</EntityTextStart>
+	<EntityTextEnd>753</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestinian_Autonomous_Areas</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

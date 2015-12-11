@@ -1,0 +1,753 @@
+<WikifierOutput>
+<InputFilename>
+1152testa Car
+</InputFilename>
+<InputText>
+Car kills two trying to avoid Texas drag race.
+DALLAS 1996-08-31
+An illegal drag race on a Dallas street turned deadly when another vehicle veered into the crowd, killing two people and injuring a dozen more, police said Saturday.
+Organisers tried to block off traffic while preparing the drag race late on Friday, but an allegedly drunk driver was unable to slow down in time and ran into a group of spectators as he swerved to avoid one of the cars that was to take part in the race.
+A 26-year-old man and an 18-year-old woman were killed.
+The driver, aged 51, was arrested and charged on two counts of intoxicated manslaughter.
+A police spokesman said the straight, flat stretch of road was often used illegally as a drag strip by Dallas youths.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Texas</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>35</EntityTextEnd>
+	<LinkerScore>1.0546344495562252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Texas</WikiTitle>
+		<WikiTitleID>29810</WikiTitleID>
+		<RankerScore>0.19284776128292055</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Texas</WikiTitle> <WikiTitleID>29810</WikiTitleID> <RankerScore>0.19284776128292055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Texas_at_Austin</WikiTitle> <WikiTitleID>32031</WikiTitleID> <RankerScore>0.06992539189949401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_(band)</WikiTitle> <WikiTitleID>412899</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns_football</WikiTitle> <WikiTitleID>6903029</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_(TV_series)</WikiTitle> <WikiTitleID>873479</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns</WikiTitle> <WikiTitleID>2834813</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Motor_Speedway</WikiTitle> <WikiTitleID>1771753</WikiTitleID> <RankerScore>0.06619961790225862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Texas_USA</WikiTitle> <WikiTitleID>2286263</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Texas_Teen_USA</WikiTitle> <WikiTitleID>4589225</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Longhorns_men&apos;s_basketball</WikiTitle> <WikiTitleID>9121756</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Texas</WikiTitle> <WikiTitleID>25457</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Rangers_(baseball)</WikiTitle> <WikiTitleID>30857</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Texas_Longhorn_football_team</WikiTitle> <WikiTitleID>9085354</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_Texas</WikiTitle> <WikiTitleID>980415</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_wine</WikiTitle> <WikiTitleID>11953901</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Antonio,_Texas</WikiTitle> <WikiTitleID>53848</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas_Lottery</WikiTitle> <WikiTitleID>10952845</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Texas</WikiTitle> <WikiTitleID>416457</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas,_New_York</WikiTitle> <WikiTitleID>7074728</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Texas,_Queensland</WikiTitle> <WikiTitleID>613777</WikiTitleID> <RankerScore>0.03947218993619569</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>80</EntityTextEnd>
+	<LinkerScore>0.35552865704987946</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Parasitic_drag</WikiTitle>
+		<WikiTitleID>365262</WikiTitleID>
+		<RankerScore>0.10842723626618583</RankerScore>
+		<Attributes>dynamics	aerodynamics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drag_(physics)</WikiTitle> <WikiTitleID>2137292</WikiTitleID> <RankerScore>0.07716034853830592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_(clothing)</WikiTitle> <WikiTitleID>591699</WikiTitleID> <RankerScore>0.06611102230149617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_queen</WikiTitle> <WikiTitleID>58164</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parasitic_drag</WikiTitle> <WikiTitleID>365262</WikiTitleID> <RankerScore>0.10842723626618583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cross-dressing</WikiTitle> <WikiTitleID>5700</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_coefficient</WikiTitle> <WikiTitleID>172291</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wave_drag</WikiTitle> <WikiTitleID>262270</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cope_and_drag</WikiTitle> <WikiTitleID>1586109</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamic_drag</WikiTitle> <WikiTitleID>11603504</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fluid_dynamics</WikiTitle> <WikiTitleID>11034</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Automobile_drag_coefficient</WikiTitle> <WikiTitleID>13036200</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_resistance</WikiTitle> <WikiTitleID>3164232</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viscosity</WikiTitle> <WikiTitleID>40492</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_equation</WikiTitle> <WikiTitleID>171728</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transvestism</WikiTitle> <WikiTitleID>162483</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friction</WikiTitle> <WikiTitleID>11062</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lift-induced_drag</WikiTitle> <WikiTitleID>309973</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamics</WikiTitle> <WikiTitleID>2819</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag-and-drop</WikiTitle> <WikiTitleID>428633</WikiTitleID> <RankerScore>0.044017728993765416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag race</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>0.030391635721867982</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Street_racing</WikiTitle>
+		<WikiTitleID>1725470</WikiTitleID>
+		<RankerScore>0.5178043588117581</RankerScore>
+		<Attributes>activity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.4821956411882418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_racing</WikiTitle> <WikiTitleID>1725470</WikiTitleID> <RankerScore>0.5178043588117581</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dallas</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>97</EntityTextEnd>
+	<LinkerScore>0.5230031211709119</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dallas,_Texas</WikiTitle>
+		<WikiTitleID>53838</WikiTitleID>
+		<RankerScore>0.09563904339345526</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dallas,_Texas</WikiTitle> <WikiTitleID>53838</WikiTitleID> <RankerScore>0.09563904339345526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_(TV_series)</WikiTitle> <WikiTitleID>99434</WikiTitleID> <RankerScore>0.0858850022669809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Mavericks</WikiTitle> <WikiTitleID>72880</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dallas</WikiTitle> <WikiTitleID>5117020</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Cowboys</WikiTitle> <WikiTitleID>8121</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Texas</WikiTitle> <WikiTitleID>91613</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Stars</WikiTitle> <WikiTitleID>73135</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Oregon</WikiTitle> <WikiTitleID>130925</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Georgia</WikiTitle> <WikiTitleID>110296</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Pennsylvania</WikiTitle> <WikiTitleID>133027</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_North_Carolina</WikiTitle> <WikiTitleID>127904</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lance_Hoyt</WikiTitle> <WikiTitleID>1450787</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Iowa</WikiTitle> <WikiTitleID>96014</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines_Center</WikiTitle> <WikiTitleID>277398</WikiTitleID> <RankerScore>0.0631095131205365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFW_Tornados</WikiTitle> <WikiTitleID>2161576</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Symphony_Orchestra</WikiTitle> <WikiTitleID>148704</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Alabama</WikiTitle> <WikiTitleID>77381</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas-Fort_Worth_International_Airport</WikiTitle> <WikiTitleID>248480</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Desperados</WikiTitle> <WikiTitleID>328181</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Dallas</WikiTitle> <WikiTitleID>4551806</WikiTitleID> <RankerScore>0.044433320071707486</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>215</EntityTextEnd>
+	<LinkerScore>0.48966016705631127</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.1349275348530555</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.1349275348530555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06474722501085975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06092975861506289</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04349385185417775</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag race</EntitySurfaceForm>
+	<EntityTextStart>289</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>0.5546913690681916</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drag_racing</WikiTitle>
+		<WikiTitleID>8373</WikiTitleID>
+		<RankerScore>0.5925340291103804</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.5925340291103804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_racing</WikiTitle> <WikiTitleID>1725470</WikiTitleID> <RankerScore>0.4074659708896195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag</EntitySurfaceForm>
+	<EntityTextStart>289</EntityTextStart>
+	<EntityTextEnd>293</EntityTextEnd>
+	<LinkerScore>-0.030374776154369683</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drag_(physics)</WikiTitle>
+		<WikiTitleID>2137292</WikiTitleID>
+		<RankerScore>0.07654216112019359</RankerScore>
+		<Attributes>dynamics	aerodynamics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drag_(physics)</WikiTitle> <WikiTitleID>2137292</WikiTitleID> <RankerScore>0.07654216112019359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_(clothing)</WikiTitle> <WikiTitleID>591699</WikiTitleID> <RankerScore>0.06909793547826476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_queen</WikiTitle> <WikiTitleID>58164</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parasitic_drag</WikiTitle> <WikiTitleID>365262</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cross-dressing</WikiTitle> <WikiTitleID>5700</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_coefficient</WikiTitle> <WikiTitleID>172291</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.07262154524302224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wave_drag</WikiTitle> <WikiTitleID>262270</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cope_and_drag</WikiTitle> <WikiTitleID>1586109</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamic_drag</WikiTitle> <WikiTitleID>11603504</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fluid_dynamics</WikiTitle> <WikiTitleID>11034</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Automobile_drag_coefficient</WikiTitle> <WikiTitleID>13036200</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_resistance</WikiTitle> <WikiTitleID>3164232</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viscosity</WikiTitle> <WikiTitleID>40492</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_equation</WikiTitle> <WikiTitleID>171728</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transvestism</WikiTitle> <WikiTitleID>162483</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friction</WikiTitle> <WikiTitleID>11062</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lift-induced_drag</WikiTitle> <WikiTitleID>309973</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamics</WikiTitle> <WikiTitleID>2819</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag-and-drop</WikiTitle> <WikiTitleID>428633</WikiTitleID> <RankerScore>0.045984609303442316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drunk driver</EntitySurfaceForm>
+	<EntityTextStart>332</EntityTextStart>
+	<EntityTextEnd>344</EntityTextEnd>
+	<LinkerScore>0.7874382980581772</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drunk_driving_(United_States)</WikiTitle>
+		<WikiTitleID>133258</WikiTitleID>
+		<RankerScore>0.6382854502759432</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drunk_driving_(United_States)</WikiTitle> <WikiTitleID>133258</WikiTitleID> <RankerScore>0.6382854502759432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Driving_under_the_influence</WikiTitle> <WikiTitleID>511428</WikiTitleID> <RankerScore>0.36171454972405676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>intoxicated manslaughter</EntitySurfaceForm>
+	<EntityTextStart>605</EntityTextStart>
+	<EntityTextEnd>629</EntityTextEnd>
+	<LinkerScore>0.9796817209350449</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vehicular_homicide</WikiTitle>
+		<WikiTitleID>607554</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vehicular_homicide</WikiTitle> <WikiTitleID>607554</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>intoxicated</EntitySurfaceForm>
+	<EntityTextStart>605</EntityTextStart>
+	<EntityTextEnd>616</EntityTextEnd>
+	<LinkerScore>0.6506181141405993</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Driving_under_the_influence</WikiTitle>
+		<WikiTitleID>511428</WikiTitleID>
+		<RankerScore>0.5775633869508432</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drunkenness</WikiTitle> <WikiTitleID>8011</WikiTitleID> <RankerScore>0.23362599242670007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Toxicity</WikiTitle> <WikiTitleID>170567</WikiTitleID> <RankerScore>0.18881062062245688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Driving_under_the_influence</WikiTitle> <WikiTitleID>511428</WikiTitleID> <RankerScore>0.5775633869508432</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>manslaughter</EntitySurfaceForm>
+	<EntityTextStart>617</EntityTextStart>
+	<EntityTextEnd>629</EntityTextEnd>
+	<LinkerScore>0.9211769925783935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manslaughter</WikiTitle>
+		<WikiTitleID>7397035</WikiTitleID>
+		<RankerScore>0.6157345768712399</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manslaughter</WikiTitle> <WikiTitleID>7397035</WikiTitleID> <RankerScore>0.6157345768712399</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manslaughter_in_English_law</WikiTitle> <WikiTitleID>4478439</WikiTitleID> <RankerScore>0.15270473396599593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder</WikiTitle> <WikiTitleID>20171</WikiTitleID> <RankerScore>0.2315606891627642</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>633</EntityTextStart>
+	<EntityTextEnd>639</EntityTextEnd>
+	<LinkerScore>0.5802043797688627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.1387786320337269</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.1387786320337269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06373603199574887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06184330781886059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04327306047950963</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag</EntitySurfaceForm>
+	<EntityTextStart>720</EntityTextStart>
+	<EntityTextEnd>724</EntityTextEnd>
+	<LinkerScore>0.44425723765722314</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drag_racing</WikiTitle>
+		<WikiTitleID>8373</WikiTitleID>
+		<RankerScore>0.08805734338445861</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drag_(physics)</WikiTitle> <WikiTitleID>2137292</WikiTitleID> <RankerScore>0.0739456708672981</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_(clothing)</WikiTitle> <WikiTitleID>591699</WikiTitleID> <RankerScore>0.06827804151238547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_queen</WikiTitle> <WikiTitleID>58164</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parasitic_drag</WikiTitle> <WikiTitleID>365262</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cross-dressing</WikiTitle> <WikiTitleID>5700</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_coefficient</WikiTitle> <WikiTitleID>172291</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.08805734338445861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wave_drag</WikiTitle> <WikiTitleID>262270</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cope_and_drag</WikiTitle> <WikiTitleID>1586109</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamic_drag</WikiTitle> <WikiTitleID>11603504</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fluid_dynamics</WikiTitle> <WikiTitleID>11034</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Automobile_drag_coefficient</WikiTitle> <WikiTitleID>13036200</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_resistance</WikiTitle> <WikiTitleID>3164232</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viscosity</WikiTitle> <WikiTitleID>40492</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_equation</WikiTitle> <WikiTitleID>171728</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transvestism</WikiTitle> <WikiTitleID>162483</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friction</WikiTitle> <WikiTitleID>11062</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lift-induced_drag</WikiTitle> <WikiTitleID>309973</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aerodynamics</WikiTitle> <WikiTitleID>2819</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag-and-drop</WikiTitle> <WikiTitleID>428633</WikiTitleID> <RankerScore>0.045277584955050465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>drag strip</EntitySurfaceForm>
+	<EntityTextStart>720</EntityTextStart>
+	<EntityTextEnd>730</EntityTextEnd>
+	<LinkerScore>0.995587498438007</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dragstrip</WikiTitle>
+		<WikiTitleID>261337</WikiTitleID>
+		<RankerScore>0.7946272689128377</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dragstrip</WikiTitle> <WikiTitleID>261337</WikiTitleID> <RankerScore>0.7946272689128377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drag_racing</WikiTitle> <WikiTitleID>8373</WikiTitleID> <RankerScore>0.20537273108716214</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dallas</EntitySurfaceForm>
+	<EntityTextStart>734</EntityTextStart>
+	<EntityTextEnd>740</EntityTextEnd>
+	<LinkerScore>-0.11062177345243879</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dallas_(TV_series)</WikiTitle>
+		<WikiTitleID>99434</WikiTitleID>
+		<RankerScore>0.08469761192366951</RankerScore>
+		<Attributes>rating	ending	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dallas,_Texas</WikiTitle> <WikiTitleID>53838</WikiTitleID> <RankerScore>0.0829759927257075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_(TV_series)</WikiTitle> <WikiTitleID>99434</WikiTitleID> <RankerScore>0.08469761192366951</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Mavericks</WikiTitle> <WikiTitleID>72880</WikiTitleID> <RankerScore>0.07142559464170083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dallas</WikiTitle> <WikiTitleID>5117020</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Cowboys</WikiTitle> <WikiTitleID>8121</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Texas</WikiTitle> <WikiTitleID>91613</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Stars</WikiTitle> <WikiTitleID>73135</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Oregon</WikiTitle> <WikiTitleID>130925</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Georgia</WikiTitle> <WikiTitleID>110296</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_Pennsylvania</WikiTitle> <WikiTitleID>133027</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas,_North_Carolina</WikiTitle> <WikiTitleID>127904</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lance_Hoyt</WikiTitle> <WikiTitleID>1450787</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Iowa</WikiTitle> <WikiTitleID>96014</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines_Center</WikiTitle> <WikiTitleID>277398</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFW_Tornados</WikiTitle> <WikiTitleID>2161576</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Symphony_Orchestra</WikiTitle> <WikiTitleID>148704</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_County,_Alabama</WikiTitle> <WikiTitleID>77381</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas-Fort_Worth_International_Airport</WikiTitle> <WikiTitleID>248480</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dallas_Desperados</WikiTitle> <WikiTitleID>328181</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Dallas</WikiTitle> <WikiTitleID>4551806</WikiTitleID> <RankerScore>0.044758870629936595</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

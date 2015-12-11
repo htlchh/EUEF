@@ -1,0 +1,525 @@
+<WikifierOutput>
+<InputFilename>
+1110testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- DUTCH DRAW 2-2 WITH BRAZIL IN FRIENDLY INTERNATIONAL.
+AMSTERDAM 1996-08-31
+The Netherlands drew 2-2 with
+Brazil( half-time 0-1) in a soccer friendly on Saturday.
+Scorers:
+Netherlands- Ronald de Boer( 52nd minute), Van Gastel( 90th, pen)
+Brazil- Giovanni( 14th), Marcello Goncalves( 55th)
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>DUTCH</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.4169067944456959</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Netherlands_national_football_team</WikiTitle>
+		<WikiTitleID>9647657</WikiTitleID>
+		<RankerScore>0.19008429563281326</RankerScore>
+		<Attributes>country	team	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Netherlands</WikiTitle> <WikiTitleID>21148</WikiTitleID> <RankerScore>0.1242406304799206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_language</WikiTitle> <WikiTitleID>8433</WikiTitleID> <RankerScore>0.09306451804599249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_(ethnic_group)</WikiTitle> <WikiTitleID>1656551</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Empire</WikiTitle> <WikiTitleID>1283751</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Republic</WikiTitle> <WikiTitleID>52626</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holland</WikiTitle> <WikiTitleID>13288</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_the_Netherlands</WikiTitle> <WikiTitleID>59761</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_American</WikiTitle> <WikiTitleID>2555166</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_East_India_Company</WikiTitle> <WikiTitleID>42737</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_football_team</WikiTitle> <WikiTitleID>9647657</WikiTitleID> <RankerScore>0.19008429563281326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_cricket_team</WikiTitle> <WikiTitleID>2164343</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_East_Indies</WikiTitle> <WikiTitleID>56268</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_colonization_of_the_Americas</WikiTitle> <WikiTitleID>52482</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_(film)</WikiTitle> <WikiTitleID>5010137</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Air_Force</WikiTitle> <WikiTitleID>652937</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Army</WikiTitle> <WikiTitleID>1154854</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_the_Netherlands</WikiTitle> <WikiTitleID>52619</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_under_European_rule</WikiTitle> <WikiTitleID>1492352</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_art</WikiTitle> <WikiTitleID>5115265</WikiTitleID> <RankerScore>0.034859444461251395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BRAZIL</EntitySurfaceForm>
+	<EntityTextStart>28</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>0.5217732154843774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle>
+		<WikiTitleID>8278138</WikiTitleID>
+		<RankerScore>0.5999292114459074</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>8278138</WikiTitleID> <RankerScore>0.5999292114459074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_basketball_team</WikiTitle> <WikiTitleID>3806059</WikiTitleID> <RankerScore>0.40007078855409256</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AMSTERDAM</EntitySurfaceForm>
+	<EntityTextStart>62</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>1.1152528775578257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amsterdam</WikiTitle>
+		<WikiTitleID>844</WikiTitleID>
+		<RankerScore>0.2715331350634233</RankerScore>
+		<Attributes>place	city	venue	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amsterdam</WikiTitle> <WikiTitleID>844</WikiTitleID> <RankerScore>0.2715331350634233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(city),_New_York</WikiTitle> <WikiTitleID>259891</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_Amsterdam</WikiTitle> <WikiTitleID>1155120</WikiTitleID> <RankerScore>0.07164499048746792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam,_New_York</WikiTitle> <WikiTitleID>207499</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hamsterdam</WikiTitle> <WikiTitleID>6321728</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(Jacques_Brel_song)</WikiTitle> <WikiTitleID>4165832</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_Airport_Schiphol</WikiTitle> <WikiTitleID>28721</WikiTitleID> <RankerScore>0.07324107900812689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(Guster_song)</WikiTitle> <WikiTitleID>10765175</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Amsterdam</WikiTitle> <WikiTitleID>546160</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(novel)</WikiTitle> <WikiTitleID>1379620</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(band)</WikiTitle> <WikiTitleID>1628568</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam,_Mpumalanga</WikiTitle> <WikiTitleID>1455304</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(town),_New_York</WikiTitle> <WikiTitleID>259890</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam,_Texas</WikiTitle> <WikiTitleID>14936574</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_Treaty</WikiTitle> <WikiTitleID>525207</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>De_Nederlandse_Opera</WikiTitle> <WikiTitleID>275937</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Île_Amsterdam</WikiTitle> <WikiTitleID>770443</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bosbaan</WikiTitle> <WikiTitleID>3905600</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amsterdam_(VOC_ship)</WikiTitle> <WikiTitleID>32525</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tenth_Avenue_(Manhattan)</WikiTitle> <WikiTitleID>1786675</WikiTitleID> <RankerScore>0.034328282084763635</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Netherlands</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.26232229164962373</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Netherlands_national_football_team</WikiTitle>
+		<WikiTitleID>9647657</WikiTitleID>
+		<RankerScore>0.16553704496529126</RankerScore>
+		<Attributes>country	team	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Netherlands</WikiTitle> <WikiTitleID>21148</WikiTitleID> <RankerScore>0.15810797428685885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_cricket_team</WikiTitle> <WikiTitleID>2164343</WikiTitleID> <RankerScore>0.06445277720518906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_football_team</WikiTitle> <WikiTitleID>9647657</WikiTitleID> <RankerScore>0.16553704496529126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_baseball_team</WikiTitle> <WikiTitleID>4289715</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7046272</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_The_Netherlands</WikiTitle> <WikiTitleID>2164917</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_the_Netherlands</WikiTitle> <WikiTitleID>205187</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_Netherlands</WikiTitle> <WikiTitleID>249609</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Empire</WikiTitle> <WikiTitleID>1283751</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_Davis_Cup_team</WikiTitle> <WikiTitleID>9989024</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Euthanasia_in_the_Netherlands</WikiTitle> <WikiTitleID>8283285</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_Netherlands</WikiTitle> <WikiTitleID>1018370</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Army</WikiTitle> <WikiTitleID>1154854</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HSL-Zuid</WikiTitle> <WikiTitleID>1618837</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_the_Netherlands</WikiTitle> <WikiTitleID>16885</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_cuisine</WikiTitle> <WikiTitleID>918733</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>1792457</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_motorways_in_the_Netherlands</WikiTitle> <WikiTitleID>1141915</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gibbing</WikiTitle> <WikiTitleID>2914388</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_the_Netherlands</WikiTitle> <WikiTitleID>21161</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Netherlands</EntitySurfaceForm>
+	<EntityTextStart>87</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.2541551076169828</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Netherlands_national_football_team</WikiTitle>
+		<WikiTitleID>9647657</WikiTitleID>
+		<RankerScore>0.16553704496529126</RankerScore>
+		<Attributes>country	team	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Netherlands</WikiTitle> <WikiTitleID>21148</WikiTitleID> <RankerScore>0.15810797428685885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_cricket_team</WikiTitle> <WikiTitleID>2164343</WikiTitleID> <RankerScore>0.06445277720518906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_football_team</WikiTitle> <WikiTitleID>9647657</WikiTitleID> <RankerScore>0.16553704496529126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_baseball_team</WikiTitle> <WikiTitleID>4289715</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7046272</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_The_Netherlands</WikiTitle> <WikiTitleID>2164917</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_the_Netherlands</WikiTitle> <WikiTitleID>205187</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_Netherlands</WikiTitle> <WikiTitleID>249609</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Empire</WikiTitle> <WikiTitleID>1283751</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_Davis_Cup_team</WikiTitle> <WikiTitleID>9989024</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Euthanasia_in_the_Netherlands</WikiTitle> <WikiTitleID>8283285</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_Netherlands</WikiTitle> <WikiTitleID>1018370</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Army</WikiTitle> <WikiTitleID>1154854</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HSL-Zuid</WikiTitle> <WikiTitleID>1618837</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_the_Netherlands</WikiTitle> <WikiTitleID>16885</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_cuisine</WikiTitle> <WikiTitleID>918733</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>1792457</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_motorways_in_the_Netherlands</WikiTitle> <WikiTitleID>1141915</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gibbing</WikiTitle> <WikiTitleID>2914388</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_the_Netherlands</WikiTitle> <WikiTitleID>21161</WikiTitleID> <RankerScore>0.035994247267215354</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Brazil</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>0.3989013235047186</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil</WikiTitle>
+		<WikiTitleID>3383</WikiTitleID>
+		<RankerScore>0.282978489930766</RankerScore>
+		<Attributes>dispute	country	nation	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.282978489930766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_football_team</WikiTitle> <WikiTitleID>149286</WikiTitleID> <RankerScore>0.1254441265187721</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(film)</WikiTitle> <WikiTitleID>74537</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Brazil</WikiTitle> <WikiTitleID>269405</WikiTitleID> <RankerScore>0.03697838696408039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Brasil</WikiTitle> <WikiTitleID>2244396</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2343221</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_basketball_team</WikiTitle> <WikiTitleID>3806059</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>921663</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil,_Indiana</WikiTitle> <WikiTitleID>112165</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Brazil</WikiTitle> <WikiTitleID>2164819</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aquarela_do_Brasil</WikiTitle> <WikiTitleID>2328873</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_Brazil</WikiTitle> <WikiTitleID>1287137</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Brazil</WikiTitle> <WikiTitleID>3636</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Brazil</WikiTitle> <WikiTitleID>42534</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2006_Lusophony_Games</WikiTitle> <WikiTitleID>7292925</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>8278138</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(band)</WikiTitle> <WikiTitleID>7519411</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_rugby_union_team</WikiTitle> <WikiTitleID>4929439</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_Davis_Cup_team</WikiTitle> <WikiTitleID>9989179</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazilian_Navy</WikiTitle> <WikiTitleID>972693</WikiTitleID> <RankerScore>0.032623470387434204</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>141</EntityTextStart>
+	<EntityTextEnd>147</EntityTextEnd>
+	<LinkerScore>0.8292476319292303</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.18026928572861228</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.18026928572861228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.06782751034835506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.05379929706560355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.04106493569749583</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ronald de Boer</EntitySurfaceForm>
+	<EntityTextStart>192</EntityTextStart>
+	<EntityTextEnd>206</EntityTextEnd>
+	<LinkerScore>1.0308407133985038</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ronald_de_Boer</WikiTitle>
+		<WikiTitleID>1290197</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	person	footballer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ronald_de_Boer</WikiTitle> <WikiTitleID>1290197</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Marcello</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>278</EntityTextEnd>
+	<LinkerScore>-0.1062157988208421</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_bohème</WikiTitle>
+		<WikiTitleID>37929</WikiTitleID>
+		<RankerScore>0.2913393366702056</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>La_bohème</WikiTitle> <WikiTitleID>37929</WikiTitleID> <RankerScore>0.2913393366702056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benedetto_Marcello</WikiTitle> <WikiTitleID>103254</WikiTitleID> <RankerScore>0.24654717923083597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alessandro_Marcello</WikiTitle> <WikiTitleID>303319</WikiTitleID> <RankerScore>0.2600706966722784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marcello_class_submarine</WikiTitle> <WikiTitleID>9995443</WikiTitleID> <RankerScore>0.20204278742668005</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

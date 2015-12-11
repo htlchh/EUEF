@@ -1,0 +1,705 @@
+<WikifierOutput>
+<InputFilename>
+1145testa KPD
+</InputFilename>
+<InputText>
+KPD confirms Iraqi military aid-U.N. official.
+BAGHDAD 1996-08-31
+Kurdistan Democratic Party( KDP) of Massoud Barzani said that it was being backed by Iraqi heavy armour and artillery in a battle with rival Kurds for the city of Arbil, a senior U.N. official in Baghdad said.&quot; They have confirmed to us that Iraqi troops are taking part in the attack on Arbil...
+We got the information from KDP leaders in KDP headquarters in Saladdin,&quot; the official, who asked not to be identified, told Reuters.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>KPD</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>3</EntityTextEnd>
+	<LinkerScore>0.9659775936714837</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Communist_Party_of_Germany</WikiTitle>
+		<WikiTitleID>265557</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Communist_Party_of_Germany</WikiTitle> <WikiTitleID>265557</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi military</EntitySurfaceForm>
+	<EntityTextStart>13</EntityTextStart>
+	<EntityTextEnd>27</EntityTextEnd>
+	<LinkerScore>0.8064254317120014</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraqi_security_forces</WikiTitle>
+		<WikiTitleID>4627429</WikiTitleID>
+		<RankerScore>0.7874419219656514</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.7874419219656514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Republican_Guard</WikiTitle> <WikiTitleID>171383</WikiTitleID> <RankerScore>0.21255807803434856</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>13</EntityTextStart>
+	<EntityTextEnd>18</EntityTextEnd>
+	<LinkerScore>1.1646686126800214</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.4849453697060556</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.4849453697060556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.06815842763230855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.06875278434812473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>0.034376674392137374</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BAGHDAD</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.7235759584255176</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baghdad</WikiTitle>
+		<WikiTitleID>4492</WikiTitleID>
+		<RankerScore>0.3611791890094206</RankerScore>
+		<Attributes>capital	community	place	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baghdad</WikiTitle> <WikiTitleID>4492</WikiTitleID> <RankerScore>0.3611791890094206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Province,_Ottoman_Empire</WikiTitle> <WikiTitleID>3749171</WikiTitleID> <RankerScore>0.08710713594868637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Governorate</WikiTitle> <WikiTitleID>200519</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_(album)</WikiTitle> <WikiTitleID>993503</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fall_of_Baghdad_(1917)</WikiTitle> <WikiTitleID>2475767</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Province</WikiTitle> <WikiTitleID>1586755</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baghdad_(1258)</WikiTitle> <WikiTitleID>2530755</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_International_Airport</WikiTitle> <WikiTitleID>162172</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.23912402227093216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_districts_in_Baghdad</WikiTitle> <WikiTitleID>11195868</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baghdad_(2003)</WikiTitle> <WikiTitleID>207031</WikiTitleID> <RankerScore>0.03907370659637011</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kurdistan Democratic Party</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>0.6963379588611358</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kurdistan_Democratic_Party</WikiTitle>
+		<WikiTitleID>70771</WikiTitleID>
+		<RankerScore>0.6914380974509206</RankerScore>
+		<Attributes>organisation	party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party</WikiTitle> <WikiTitleID>70771</WikiTitleID> <RankerScore>0.6914380974509206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle> <WikiTitleID>3197164</WikiTitleID> <RankerScore>0.30856190254907945</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>KDP</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>97</EntityTextEnd>
+	<LinkerScore>-0.06842097530974137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kurdistan_Democratic_Party</WikiTitle>
+		<WikiTitleID>70771</WikiTitleID>
+		<RankerScore>0.4751231815752088</RankerScore>
+		<Attributes>organisation	party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>KDP</WikiTitle> <WikiTitleID>1320557</WikiTitleID> <RankerScore>0.06600465477362287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle> <WikiTitleID>3197164</WikiTitleID> <RankerScore>0.4244850514714805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party</WikiTitle> <WikiTitleID>70771</WikiTitleID> <RankerScore>0.4751231815752088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monopotassium_phosphate</WikiTitle> <WikiTitleID>1720307</WikiTitleID> <RankerScore>0.03438711217968787</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Massoud</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>109</EntityTextEnd>
+	<LinkerScore>0.9564926438760547</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ahmad_Shah_Massoud</WikiTitle>
+		<WikiTitleID>2176</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>minister	theorist	leaders	person	politician	personnel	muslim	warlord</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ahmad_Shah_Massoud</WikiTitle> <WikiTitleID>2176</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Massoud Barzani</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>117</EntityTextEnd>
+	<LinkerScore>1.1854628024323202</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Massoud_Barzani</WikiTitle>
+		<WikiTitleID>8122677</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Massoud_Barzani</WikiTitle> <WikiTitleID>8122677</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barzani</EntitySurfaceForm>
+	<EntityTextStart>110</EntityTextStart>
+	<EntityTextEnd>117</EntityTextEnd>
+	<LinkerScore>0.24591520973318032</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mustafa_Barzani</WikiTitle>
+		<WikiTitleID>802203</WikiTitleID>
+		<RankerScore>0.47909816249053555</RankerScore>
+		<Attributes>person	muslim	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barzani_Jewish_Neo-Aramaic</WikiTitle> <WikiTitleID>1505229</WikiTitleID> <RankerScore>0.19745674542459982</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massoud_Barzani</WikiTitle> <WikiTitleID>8122677</WikiTitleID> <RankerScore>0.32344509208486466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mustafa_Barzani</WikiTitle> <WikiTitleID>802203</WikiTitleID> <RankerScore>0.47909816249053555</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>151</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>0.9173113284931719</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.42116498463198565</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.42116498463198565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.07848366406534851</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.08455518016452372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>0.037799651921649295</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>armour</EntitySurfaceForm>
+	<EntityTextStart>163</EntityTextStart>
+	<EntityTextEnd>169</EntityTextEnd>
+	<LinkerScore>0.41226970326716644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Armour</WikiTitle>
+		<WikiTitleID>2147</WikiTitleID>
+		<RankerScore>0.22621644552170556</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Armour</WikiTitle> <WikiTitleID>2147</WikiTitleID> <RankerScore>0.22621644552170556</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vehicle_armour</WikiTitle> <WikiTitleID>1226799</WikiTitleID> <RankerScore>0.0787728297463866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armour_(zoology)</WikiTitle> <WikiTitleID>5768710</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armoured_warfare</WikiTitle> <WikiTitleID>1559537</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tank</WikiTitle> <WikiTitleID>29970</WikiTitleID> <RankerScore>0.151103522225812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armoured_fighting_vehicle</WikiTitle> <WikiTitleID>2148</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_armour_used_by_the_Imperial_Japanese_Army_in_the_Second_Sino-Japanese_War</WikiTitle> <WikiTitleID>3138017</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motorcycle_armor</WikiTitle> <WikiTitleID>2853315</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plate_armour</WikiTitle> <WikiTitleID>493913</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuirass</WikiTitle> <WikiTitleID>226507</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dendra_armour</WikiTitle> <WikiTitleID>15368228</WikiTitleID> <RankerScore>0.06798840031326198</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>artillery</EntitySurfaceForm>
+	<EntityTextStart>174</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>1.0068618837562153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Artillery</WikiTitle>
+		<WikiTitleID>2508</WikiTitleID>
+		<RankerScore>0.18559859930630024</RankerScore>
+		<Attributes>occupation	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Artillery</WikiTitle> <WikiTitleID>2508</WikiTitleID> <RankerScore>0.18559859930630024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_artillery_in_the_American_Civil_War</WikiTitle> <WikiTitleID>2296094</WikiTitleID> <RankerScore>0.059175045728688015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_artillery</WikiTitle> <WikiTitleID>2146148</WikiTitleID> <RankerScore>0.05514912339326122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artillery_wheel</WikiTitle> <WikiTitleID>3935705</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artillery_game</WikiTitle> <WikiTitleID>5809872</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Regiment_of_Canadian_Artillery</WikiTitle> <WikiTitleID>797155</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88_mm_gun</WikiTitle> <WikiTitleID>449734</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_military_engineering</WikiTitle> <WikiTitleID>7788962</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_artillery</WikiTitle> <WikiTitleID>207857</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Artillery</WikiTitle> <WikiTitleID>83400</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannon</WikiTitle> <WikiTitleID>7053</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artillery_battery</WikiTitle> <WikiTitleID>351615</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Regiment_of_Australian_Artillery</WikiTitle> <WikiTitleID>1571672</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Field_Artillery_Branch_(United_States)</WikiTitle> <WikiTitleID>1627427</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_artillery</WikiTitle> <WikiTitleID>2667358</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multiple_rocket_launcher</WikiTitle> <WikiTitleID>492015</WikiTitleID> <RankerScore>0.0538520947362885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kurds</EntitySurfaceForm>
+	<EntityTextStart>207</EntityTextStart>
+	<EntityTextEnd>212</EntityTextEnd>
+	<LinkerScore>0.5082054486099857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraqi_Kurdistan</WikiTitle>
+		<WikiTitleID>679693</WikiTitleID>
+		<RankerScore>0.40693448268244786</RankerScore>
+		<Attributes>politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kurdish_people</WikiTitle> <WikiTitleID>17068</WikiTitleID> <RankerScore>0.21805318227837486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Kurdistan</WikiTitle> <WikiTitleID>679693</WikiTitleID> <RankerScore>0.40693448268244786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurds_in_Turkey</WikiTitle> <WikiTitleID>4314285</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdish_American</WikiTitle> <WikiTitleID>12216792</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan</WikiTitle> <WikiTitleID>80777</WikiTitleID> <RankerScore>0.12815087566552832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Feylis</WikiTitle> <WikiTitleID>3573491</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurd_(tribe)</WikiTitle> <WikiTitleID>9629113</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Kurdish_people</WikiTitle> <WikiTitleID>1825572</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurds_in_Syria</WikiTitle> <WikiTitleID>3821855</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minority_politics_in_Iraq</WikiTitle> <WikiTitleID>4140740</WikiTitleID> <RankerScore>0.03526592276766414</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arbil</EntitySurfaceForm>
+	<EntityTextStart>229</EntityTextStart>
+	<EntityTextEnd>234</EntityTextEnd>
+	<LinkerScore>1.3291192970712886</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arbil</WikiTitle>
+		<WikiTitleID>901451</WikiTitleID>
+		<RankerScore>0.7345018645361596</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arbil</WikiTitle> <WikiTitleID>901451</WikiTitleID> <RankerScore>0.7345018645361596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arbil_Governorate</WikiTitle> <WikiTitleID>463860</WikiTitleID> <RankerScore>0.11454993264978279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arbil_FC</WikiTitle> <WikiTitleID>6413879</WikiTitleID> <RankerScore>0.10675575596418091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Erbil_International_Airport</WikiTitle> <WikiTitleID>5412970</WikiTitleID> <RankerScore>0.04419244684987663</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.N.</EntitySurfaceForm>
+	<EntityTextStart>245</EntityTextStart>
+	<EntityTextEnd>249</EntityTextEnd>
+	<LinkerScore>0.6899991524391413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations</WikiTitle>
+		<WikiTitleID>31769</WikiTitleID>
+		<RankerScore>0.661852917555887</RankerScore>
+		<Attributes>nation	system	supraorganizations	establishment	prize</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations</WikiTitle> <WikiTitleID>31769</WikiTitleID> <RankerScore>0.661852917555887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Assistance_Mission_for_Rwanda</WikiTitle> <WikiTitleID>581793</WikiTitleID> <RankerScore>0.11202966714678242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Special_Commission</WikiTitle> <WikiTitleID>173504</WikiTitleID> <RankerScore>0.22611741529733045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baghdad</EntitySurfaceForm>
+	<EntityTextStart>262</EntityTextStart>
+	<EntityTextEnd>269</EntityTextEnd>
+	<LinkerScore>0.7883322240527258</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baghdad</WikiTitle>
+		<WikiTitleID>4492</WikiTitleID>
+		<RankerScore>0.36806839232866406</RankerScore>
+		<Attributes>capital	community	place	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baghdad</WikiTitle> <WikiTitleID>4492</WikiTitleID> <RankerScore>0.36806839232866406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Province,_Ottoman_Empire</WikiTitle> <WikiTitleID>3749171</WikiTitleID> <RankerScore>0.09813640569960616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Governorate</WikiTitle> <WikiTitleID>200519</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_(album)</WikiTitle> <WikiTitleID>993503</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fall_of_Baghdad_(1917)</WikiTitle> <WikiTitleID>2475767</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_Province</WikiTitle> <WikiTitleID>1586755</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baghdad_(1258)</WikiTitle> <WikiTitleID>2530755</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdad_International_Airport</WikiTitle> <WikiTitleID>162172</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.21381452773551868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_districts_in_Baghdad</WikiTitle> <WikiTitleID>11195868</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baghdad_(2003)</WikiTitle> <WikiTitleID>207031</WikiTitleID> <RankerScore>0.039997584279526384</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>308</EntityTextStart>
+	<EntityTextEnd>313</EntityTextEnd>
+	<LinkerScore>1.1447046978718036</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.5258179788489048</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.5258179788489048</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.05925750517720897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.06837051814777832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>0.03150490889328254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>KDP</EntitySurfaceForm>
+	<EntityTextStart>391</EntityTextStart>
+	<EntityTextEnd>394</EntityTextEnd>
+	<LinkerScore>0.2877292679204425</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle>
+		<WikiTitleID>3197164</WikiTitleID>
+		<RankerScore>0.48767094948747175</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>KDP</WikiTitle> <WikiTitleID>1320557</WikiTitleID> <RankerScore>0.21861152656420757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle> <WikiTitleID>3197164</WikiTitleID> <RankerScore>0.48767094948747175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party</WikiTitle> <WikiTitleID>70771</WikiTitleID> <RankerScore>0.2218085345141837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monopotassium_phosphate</WikiTitle> <WikiTitleID>1720307</WikiTitleID> <RankerScore>0.07190898943413694</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>KDP</EntitySurfaceForm>
+	<EntityTextStart>406</EntityTextStart>
+	<EntityTextEnd>409</EntityTextEnd>
+	<LinkerScore>0.2878317344237856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle>
+		<WikiTitleID>3197164</WikiTitleID>
+		<RankerScore>0.5241322581533203</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>KDP</WikiTitle> <WikiTitleID>1320557</WikiTitleID> <RankerScore>0.16251626374221986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party_of_Iraq</WikiTitle> <WikiTitleID>3197164</WikiTitleID> <RankerScore>0.5241322581533203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kurdistan_Democratic_Party</WikiTitle> <WikiTitleID>70771</WikiTitleID> <RankerScore>0.23617593137705534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monopotassium_phosphate</WikiTitle> <WikiTitleID>1720307</WikiTitleID> <RankerScore>0.07717554672740451</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Saladdin</EntitySurfaceForm>
+	<EntityTextStart>426</EntityTextStart>
+	<EntityTextEnd>434</EntityTextEnd>
+	<LinkerScore>0.9428772363767653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saladin</WikiTitle>
+		<WikiTitleID>26983</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	sultan	general	muslim	crusade</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saladin</WikiTitle> <WikiTitleID>26983</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reuters</EntitySurfaceForm>
+	<EntityTextStart>488</EntityTextStart>
+	<EntityTextEnd>495</EntityTextEnd>
+	<LinkerScore>1.1372026178228283</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reuters</WikiTitle>
+		<WikiTitleID>101623</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	agency	company	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,579 @@
+<WikifierOutput>
+<InputFilename>
+1130testa Three
+</InputFilename>
+<InputText>
+Three Russian soldiers killed in gun attack.
+MOSCOW 1996-08-31
+Three Russian servicemen were killed on Saturday when unidentified gunmen attacked guards at an anti-aircraft installation outside Moscow, Interfax news agency said.
+It quoted military officials as saying the attack took place in Sergiyev Posad 70 km( 45 miles) from the capital.
+The officials said the attackers had seized two Kalashnikov assault rifles and disappeared.
+Attacks on servicemen aimed at seizing their guns have become frequent in Russia where the number of violent crimes committed with the use of fire arms is growing.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.03948726189655688</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.15913533203807578</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.15913533203807578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.07809714926380053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.15815101383264293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03556567675679299</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MOSCOW</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>1.2482396099311244</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.283066632082622</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.283066632082622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.05889806402530369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.06403695167826964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.034941079541988516</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>69</EntityTextStart>
+	<EntityTextEnd>76</EntityTextEnd>
+	<LinkerScore>0.19374750369313354</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Soviet_Union</WikiTitle>
+		<WikiTitleID>26779</WikiTitleID>
+		<RankerScore>0.16333608142186073</RankerScore>
+		<Attributes>federation	disestablishment	state	country	republic	polity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.14502730976945646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.13934708577010232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.16333608142186073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.032487619002269444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>anti-aircraft</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>0.6597249993510246</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anti-aircraft_warfare</WikiTitle>
+		<WikiTitleID>146640</WikiTitleID>
+		<RankerScore>0.5500379328083028</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anti-aircraft_warfare</WikiTitle> <WikiTitleID>146640</WikiTitleID> <RankerScore>0.5500379328083028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Self-propelled_anti-aircraft_weapon</WikiTitle> <WikiTitleID>2288</WikiTitleID> <RankerScore>0.2325476027504969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surface-to-air_missile</WikiTitle> <WikiTitleID>182664</WikiTitleID> <RankerScore>0.21741446444120027</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>194</EntityTextStart>
+	<EntityTextEnd>200</EntityTextEnd>
+	<LinkerScore>1.0956571794854204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.27122594245694387</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.27122594245694387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.056703508855354086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.053199675881515876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03640416898859918</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>210</EntityTextEnd>
+	<LinkerScore>1.1424744595464693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news agency</EntitySurfaceForm>
+	<EntityTextStart>211</EntityTextStart>
+	<EntityTextEnd>222</EntityTextEnd>
+	<LinkerScore>0.8443354956469198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_agency</WikiTitle>
+		<WikiTitleID>47917</WikiTitleID>
+		<RankerScore>0.7574788327760262</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.7574788327760262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>0.24252116722397382</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sergiyev Posad</EntitySurfaceForm>
+	<EntityTextStart>293</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>0.9905415506806025</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sergiyev_Posad</WikiTitle>
+		<WikiTitleID>461225</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sergiyev_Posad</WikiTitle> <WikiTitleID>461225</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>attackers</EntitySurfaceForm>
+	<EntityTextStart>366</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Attackers</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>company	studio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kalashnikov</EntitySurfaceForm>
+	<EntityTextStart>391</EntityTextStart>
+	<EntityTextEnd>402</EntityTextEnd>
+	<LinkerScore>0.33515744566830485</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>AK-47</WikiTitle>
+		<WikiTitleID>1348</WikiTitleID>
+		<RankerScore>0.5471990630318675</RankerScore>
+		<Attributes>weapon	rifle	derivative	invention	firearm	introduction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>AK-47</WikiTitle> <WikiTitleID>1348</WikiTitleID> <RankerScore>0.5471990630318675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mikhail_Kalashnikov</WikiTitle> <WikiTitleID>19535</WikiTitleID> <RankerScore>0.1875812573618099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AK-74</WikiTitle> <WikiTitleID>94217</WikiTitleID> <RankerScore>0.2652196796063226</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>assault rifles</EntitySurfaceForm>
+	<EntityTextStart>403</EntityTextStart>
+	<EntityTextEnd>417</EntityTextEnd>
+	<LinkerScore>1.0891470835661057</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Assault_rifle</WikiTitle>
+		<WikiTitleID>719</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>invention	rifle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Assault_rifle</WikiTitle> <WikiTitleID>719</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rifles</EntitySurfaceForm>
+	<EntityTextStart>411</EntityTextStart>
+	<EntityTextEnd>417</EntityTextEnd>
+	<LinkerScore>0.23519144309759746</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>M16_rifle</WikiTitle>
+		<WikiTitleID>19901</WikiTitleID>
+		<RankerScore>0.29502877182029613</RankerScore>
+		<Attributes>rifle	firearm	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Rifles</WikiTitle> <WikiTitleID>1609834</WikiTitleID> <RankerScore>0.12168067265280932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rifle</WikiTitle> <WikiTitleID>25456</WikiTitleID> <RankerScore>0.1111229233646119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Light_infantry</WikiTitle> <WikiTitleID>648066</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baker_rifle</WikiTitle> <WikiTitleID>945498</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lee-Enfield</WikiTitle> <WikiTitleID>144484</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>M16_rifle</WikiTitle> <WikiTitleID>19901</WikiTitleID> <RankerScore>0.29502877182029613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brooke_rifle</WikiTitle> <WikiTitleID>1697235</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rifled_musket</WikiTitle> <WikiTitleID>1868350</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Musket</WikiTitle> <WikiTitleID>185324</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Long_rifle</WikiTitle> <WikiTitleID>375765</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rifles_troops</WikiTitle> <WikiTitleID>18002552</WikiTitleID> <RankerScore>0.059020954020285336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>509</EntityTextStart>
+	<EntityTextEnd>515</EntityTextEnd>
+	<LinkerScore>0.7048306325258644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.29368309503240186</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.29368309503240186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.06524191523758711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.05762609679544476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.03432052311379802</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>violent crimes</EntitySurfaceForm>
+	<EntityTextStart>536</EntityTextStart>
+	<EntityTextEnd>550</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Violent_crime</WikiTitle>
+		<WikiTitleID>273381</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

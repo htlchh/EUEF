@@ -1,0 +1,596 @@
+<WikifierOutput>
+<InputFilename>
+1094testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- U.S. BEAT EL SALVADOR 3-1.
+LOS ANGELES 1996-08-30
+The United States beat El Salvador 3-1( halftime 1-0) in an international soccer friendly on Friday.
+Scorers:
+U.S.- Joe-Max Moore( 3rd minute, 88th on penalty kick), Eric Wynalda( 61st)
+El Salvador- Luis Lazo( 61st)
+Attendance- 18,661
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>0.15564704098854154</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.15665155752252377</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.15665155752252377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.04149737062268645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.13737284959056886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.039086954250836525</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>EL SALVADOR</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>29</EntityTextEnd>
+	<LinkerScore>0.6344139110813867</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>El_Salvador</WikiTitle>
+		<WikiTitleID>9356</WikiTitleID>
+		<RankerScore>0.18868071303428532</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>El_Salvador</WikiTitle> <WikiTitleID>9356</WikiTitleID> <RankerScore>0.18868071303428532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_national_football_team</WikiTitle> <WikiTitleID>1017349</WikiTitleID> <RankerScore>0.0992288533110483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador,_Chile</WikiTitle> <WikiTitleID>12352169</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Fútbol_Profesional</WikiTitle> <WikiTitleID>1126516</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_El_Salvador</WikiTitle> <WikiTitleID>53081</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_El_Salvador</WikiTitle> <WikiTitleID>9363</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_(song)</WikiTitle> <WikiTitleID>2607422</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_El_Salvador</WikiTitle> <WikiTitleID>8639392</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abortion_in_El_Salvador</WikiTitle> <WikiTitleID>9627157</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salvadoran_Civil_War</WikiTitle> <WikiTitleID>4187252</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_El_Salvador</WikiTitle> <WikiTitleID>409225</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Salvador</WikiTitle> <WikiTitleID>57631</WikiTitleID> <RankerScore>0.05980169581393124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_El_Salvador</WikiTitle> <WikiTitleID>10907878</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_El_Salvador</WikiTitle> <WikiTitleID>728040</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_El_Salvador</WikiTitle> <WikiTitleID>442892</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_El_Salvador</WikiTitle> <WikiTitleID>16819661</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_El_Salvador</WikiTitle> <WikiTitleID>1901843</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_El_Salvador</WikiTitle> <WikiTitleID>466532</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_national_beach_soccer_team</WikiTitle> <WikiTitleID>17008735</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_El_Salvador</WikiTitle> <WikiTitleID>9361</WikiTitleID> <RankerScore>0.03836992575533736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LOS</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>38</EntityTextEnd>
+	<LinkerScore>0.26563139624628973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Line_of_sight_(gaming)</WikiTitle>
+		<WikiTitleID>929489</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Line_of_sight_(gaming)</WikiTitle> <WikiTitleID>929489</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LOS ANGELES</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>0.3531028981430072</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Los_Angeles_Galaxy</WikiTitle>
+		<WikiTitleID>241880</WikiTitleID>
+		<RankerScore>0.17717493920281396</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Los_Angeles,_California</WikiTitle> <WikiTitleID>18110</WikiTitleID> <RankerScore>0.14778386444904362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Lakers</WikiTitle> <WikiTitleID>72893</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_County,_California</WikiTitle> <WikiTitleID>79734</WikiTitleID> <RankerScore>0.04506663296616722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Clippers</WikiTitle> <WikiTitleID>72892</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Galaxy</WikiTitle> <WikiTitleID>241880</WikiTitleID> <RankerScore>0.17717493920281396</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_International_Airport</WikiTitle> <WikiTitleID>18131</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_West_Bank_Classic</WikiTitle> <WikiTitleID>5845309</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Dodgers</WikiTitle> <WikiTitleID>18213</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_(magazine)</WikiTitle> <WikiTitleID>8246460</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staples_Center</WikiTitle> <WikiTitleID>516154</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Kings</WikiTitle> <WikiTitleID>73136</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Sparks</WikiTitle> <WikiTitleID>179829</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Summer_Olympics</WikiTitle> <WikiTitleID>82762</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Port_of_Los_Angeles</WikiTitle> <WikiTitleID>425363</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Los_Angeles)</WikiTitle> <WikiTitleID>724792</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Philharmonic</WikiTitle> <WikiTitleID>156261</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California,_Los_Angeles</WikiTitle> <WikiTitleID>37765</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Los_Angeles_Area</WikiTitle> <WikiTitleID>81605</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Avengers</WikiTitle> <WikiTitleID>328216</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_River</WikiTitle> <WikiTitleID>180865</WikiTitleID> <RankerScore>0.03705732725776324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The United</EntitySurfaceForm>
+	<EntityTextStart>58</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_United</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>United States</EntitySurfaceForm>
+	<EntityTextStart>62</EntityTextStart>
+	<EntityTextEnd>75</EntityTextEnd>
+	<LinkerScore>0.12043817305568782</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.16275388976362754</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.16275388976362754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.14104178800310893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Davis_Cup_team</WikiTitle> <WikiTitleID>6311052</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>2119801</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.040750646947907025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>912874</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Fed_Cup_team</WikiTitle> <WikiTitleID>9479975</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_cricket_team</WikiTitle> <WikiTitleID>980450</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>89611</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_soccer_team</WikiTitle> <WikiTitleID>648033</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1690430</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_policy_of_the_United_States</WikiTitle> <WikiTitleID>7564</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_badminton_team</WikiTitle> <WikiTitleID>17459645</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_United_States</WikiTitle> <WikiTitleID>32022</WikiTitleID> <RankerScore>0.038556098546197445</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>El Salvador</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>0.31726049255405525</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>El_Salvador</WikiTitle>
+		<WikiTitleID>9356</WikiTitleID>
+		<RankerScore>0.17485864897715617</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>El_Salvador</WikiTitle> <WikiTitleID>9356</WikiTitleID> <RankerScore>0.17485864897715617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_national_football_team</WikiTitle> <WikiTitleID>1017349</WikiTitleID> <RankerScore>0.1173673730173928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador,_Chile</WikiTitle> <WikiTitleID>12352169</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Fútbol_Profesional</WikiTitle> <WikiTitleID>1126516</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_El_Salvador</WikiTitle> <WikiTitleID>53081</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_El_Salvador</WikiTitle> <WikiTitleID>9363</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_(song)</WikiTitle> <WikiTitleID>2607422</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_El_Salvador</WikiTitle> <WikiTitleID>8639392</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abortion_in_El_Salvador</WikiTitle> <WikiTitleID>9627157</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salvadoran_Civil_War</WikiTitle> <WikiTitleID>4187252</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_El_Salvador</WikiTitle> <WikiTitleID>409225</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Salvador</WikiTitle> <WikiTitleID>57631</WikiTitleID> <RankerScore>0.06064921793736767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_El_Salvador</WikiTitle> <WikiTitleID>10907878</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_El_Salvador</WikiTitle> <WikiTitleID>728040</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_El_Salvador</WikiTitle> <WikiTitleID>442892</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_El_Salvador</WikiTitle> <WikiTitleID>16819661</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_El_Salvador</WikiTitle> <WikiTitleID>1901843</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_El_Salvador</WikiTitle> <WikiTitleID>466532</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_national_beach_soccer_team</WikiTitle> <WikiTitleID>17008735</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_El_Salvador</WikiTitle> <WikiTitleID>9361</WikiTitleID> <RankerScore>0.038066162356946084</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>international soccer</EntitySurfaceForm>
+	<EntityTextStart>118</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Soccer</WikiTitle>
+		<WikiTitleID>3732309</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>0.5698823539202851</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.18734452628119985</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.18734452628119985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.04714952451134301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.057883777221414426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.04162483364623782</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Joe-Max Moore</EntitySurfaceForm>
+	<EntityTextStart>174</EntityTextStart>
+	<EntityTextEnd>187</EntityTextEnd>
+	<LinkerScore>1.1917710641498582</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joe-Max_Moore</WikiTitle>
+		<WikiTitleID>1050322</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player	men	footballer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joe-Max_Moore</WikiTitle> <WikiTitleID>1050322</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>88th</EntitySurfaceForm>
+	<EntityTextStart>201</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>0.12457249520303004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>88th_United_States_Congress</WikiTitle>
+		<WikiTitleID>2159506</WikiTitleID>
+		<RankerScore>0.28483781042184086</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>88th_United_States_Congress</WikiTitle> <WikiTitleID>2159506</WikiTitleID> <RankerScore>0.28483781042184086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88th_Infantry_Division_(United_States)</WikiTitle> <WikiTitleID>889606</WikiTitleID> <RankerScore>0.1443238314627464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88th_Division_(National_Revolutionary_Army)</WikiTitle> <WikiTitleID>3354158</WikiTitleID> <RankerScore>0.1456138188810483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88th_Division</WikiTitle> <WikiTitleID>3354607</WikiTitleID> <RankerScore>0.1417415130781215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88th_Division_(People&apos;s_Republic_of_China)</WikiTitle> <WikiTitleID>12576393</WikiTitleID> <RankerScore>0.1417415130781215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>88th_Regiment_of_Foot_(Connaught_Rangers)</WikiTitle> <WikiTitleID>3219546</WikiTitleID> <RankerScore>0.1417415130781215</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>penalty kick</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>221</EntityTextEnd>
+	<LinkerScore>1.1798420533980771</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Penalty_kick</WikiTitle>
+		<WikiTitleID>456100</WikiTitleID>
+		<RankerScore>0.5928938293598108</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Penalty_kick</WikiTitle> <WikiTitleID>456100</WikiTitleID> <RankerScore>0.5928938293598108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penalty_(rugby)</WikiTitle> <WikiTitleID>842678</WikiTitleID> <RankerScore>0.1856204869956858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penalty_shootout_(association_football)</WikiTitle> <WikiTitleID>511302</WikiTitleID> <RankerScore>0.22148568364450336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Eric Wynalda</EntitySurfaceForm>
+	<EntityTextStart>224</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>1.1934547713658186</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eric_Wynalda</WikiTitle>
+		<WikiTitleID>926151</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	footballer	person	men	commentator</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eric_Wynalda</WikiTitle> <WikiTitleID>926151</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

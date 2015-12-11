@@ -79,6 +79,16 @@ public class DatasetDumper {
 		return entitySet.size();
 	}
 	
+	public static int getEmptyDocumentCount(AbstractDataset ds) {
+		int count = 0;
+		Map<String, Set<Mention>> goldMention = ds.getGoldMention();
+		for (String title : goldMention.keySet()) {
+			if (goldMention.get(title).isEmpty() == true)
+				count ++;
+		}
+		return count;
+	}
+	
 	public static void statistics(AbstractDataset ds) {
 		int size = ds.getSize();
 		int aCount = getAnnotationCount(ds);
@@ -89,6 +99,7 @@ public class DatasetDumper {
 		int diseCount = getDistinctEntity(ds);
 		long longest = getLongestText(ds);
 		long length = getLength(ds);
+		int emptyDocCount = getEmptyDocumentCount(ds);
 		
 		System.out.println(
 				"Dataset Size: " + size
@@ -100,6 +111,7 @@ public class DatasetDumper {
 				+ "\nDistinct Entity Count: " + diseCount
 				+ "\nLongest Text Length: " + longest
 				+ "\nAverage Text Length: " + length/(float)size
+				+ "\nEmtpy Document Count: " + emptyDocCount
 		);
 	}
 }

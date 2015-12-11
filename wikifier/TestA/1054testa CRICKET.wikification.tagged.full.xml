@@ -1,0 +1,599 @@
+<WikifierOutput>
+<InputFilename>
+1054testa CRICKET
+</InputFilename>
+<InputText>
+CRICKET- ENGLAND BEAT PAKISTAN BY 107 RUNS IN SECOND ONE-DAYER.
+BIRMINGHAM, England 1996-08-31
+England beat Pakistan by 107 runs in the second one-day international at Edgbaston on Saturday to take the series 2-0.
+Scores: England 292-8 innings closed( N. Knight 113), Pakistan 185( Ijaz Ahmed 79; A. Hollioake 4-23)
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>PAKISTAN</EntitySurfaceForm>
+	<EntityTextStart>22</EntityTextStart>
+	<EntityTextEnd>30</EntityTextEnd>
+	<LinkerScore>0.7150159566307901</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pakistan</WikiTitle>
+		<WikiTitleID>23235</WikiTitleID>
+		<RankerScore>0.745273046940037</RankerScore>
+		<Attributes>country	state	member	colony	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pakistan</WikiTitle> <WikiTitleID>23235</WikiTitleID> <RankerScore>0.745273046940037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_at_the_1992_Summer_Olympics</WikiTitle> <WikiTitleID>6372137</WikiTitleID> <RankerScore>0.254726953059963</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SECOND</EntitySurfaceForm>
+	<EntityTextStart>46</EntityTextStart>
+	<EntityTextEnd>52</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Second</WikiTitle>
+		<WikiTitleID>26873</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>unit	order</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BIRMINGHAM</EntitySurfaceForm>
+	<EntityTextStart>64</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.8991515377279173</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Birmingham</WikiTitle>
+		<WikiTitleID>13882056</WikiTitleID>
+		<RankerScore>0.24719974151226842</RankerScore>
+		<Attributes>place	district	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Birmingham</WikiTitle> <WikiTitleID>13882056</WikiTitleID> <RankerScore>0.24719974151226842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Alabama</WikiTitle> <WikiTitleID>85427</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_City_F.C.</WikiTitle> <WikiTitleID>185196</WikiTitleID> <RankerScore>0.085116291211329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_New_Street_station</WikiTitle> <WikiTitleID>209844</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Birmingham</WikiTitle> <WikiTitleID>209935</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Michigan</WikiTitle> <WikiTitleID>118323</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_International_Airport_(United_Kingdom)</WikiTitle> <WikiTitleID>291384</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFS_Classic</WikiTitle> <WikiTitleID>5679953</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6921680</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edgbaston_Cricket_Ground</WikiTitle> <WikiTitleID>2641030</WikiTitleID> <RankerScore>0.09729982305800734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Snow_Hill_station</WikiTitle> <WikiTitleID>209870</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Stallions</WikiTitle> <WikiTitleID>637150</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alabama_Steeldogs</WikiTitle> <WikiTitleID>1060856</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Birmingham</WikiTitle> <WikiTitleID>1864233</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Barracudas</WikiTitle> <WikiTitleID>240310</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Birmingham_Symphony_Orchestra</WikiTitle> <WikiTitleID>148256</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_campaign</WikiTitle> <WikiTitleID>4035351</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham,_Erie_County,_Ohio</WikiTitle> <WikiTitleID>9604917</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_Birmingham</WikiTitle> <WikiTitleID>712033</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_DFS_Classic</WikiTitle> <WikiTitleID>17827075</WikiTitleID> <RankerScore>0.033552008483435015</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BIRMINGHAM, England</EntitySurfaceForm>
+	<EntityTextStart>64</EntityTextStart>
+	<EntityTextEnd>83</EntityTextEnd>
+	<LinkerScore>1.1543447833359721</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Birmingham</WikiTitle>
+		<WikiTitleID>13882056</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	district	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Birmingham</WikiTitle> <WikiTitleID>13882056</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>83</EntityTextEnd>
+	<LinkerScore>0.2237683102188428</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.2038384618316999</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.2038384618316999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.1704128075198439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.08236249278111514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.0319638963451377</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>0.556310562055046</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England_cricket_team</WikiTitle>
+		<WikiTitleID>759125</WikiTitleID>
+		<RankerScore>0.19594458657634453</RankerScore>
+		<Attributes>team	establishment	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.19496783480726299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.19594458657634453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.08264324525768701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.030967313726982665</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pakistan</EntitySurfaceForm>
+	<EntityTextStart>108</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>0.8138046172573221</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pakistan_national_cricket_team</WikiTitle>
+		<WikiTitleID>759295</WikiTitleID>
+		<RankerScore>0.32612801370815236</RankerScore>
+		<Attributes>winner	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pakistan</WikiTitle> <WikiTitleID>23235</WikiTitleID> <RankerScore>0.15224861506730458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_cricket_team</WikiTitle> <WikiTitleID>759295</WikiTitleID> <RankerScore>0.32612801370815236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7059054</WikiTitleID> <RankerScore>0.056470634105046824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_field_hockey_team</WikiTitle> <WikiTitleID>6904528</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_football_team</WikiTitle> <WikiTitleID>1302448</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Pakistan</WikiTitle> <WikiTitleID>2164940</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Navy</WikiTitle> <WikiTitleID>1183789</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominion_of_Pakistan</WikiTitle> <WikiTitleID>3662295</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_U-19_cricket_team</WikiTitle> <WikiTitleID>4107070</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Pakistan</WikiTitle> <WikiTitleID>23362</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_rugby_union_team</WikiTitle> <WikiTitleID>10159658</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Air_Force</WikiTitle> <WikiTitleID>377433</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Pakistan</WikiTitle> <WikiTitleID>23368</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Pakistan</WikiTitle> <WikiTitleID>429283</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Pakistan</WikiTitle> <WikiTitleID>23365</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Army</WikiTitle> <WikiTitleID>1965925</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_holidays_in_Pakistan</WikiTitle> <WikiTitleID>843438</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Pakistan</WikiTitle> <WikiTitleID>23369</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_and_weapons_of_mass_destruction</WikiTitle> <WikiTitleID>872930</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Pakistan</WikiTitle> <WikiTitleID>23370</WikiTitleID> <RankerScore>0.027361925712911538</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>one-day</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>150</EntityTextEnd>
+	<LinkerScore>0.3802146860743165</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_Day_International</WikiTitle>
+		<WikiTitleID>381447</WikiTitleID>
+		<RankerScore>0.4426822816882514</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Limited_overs_cricket</WikiTitle> <WikiTitleID>22794</WikiTitleID> <RankerScore>0.3027508305258438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>One_Day_International</WikiTitle> <WikiTitleID>381447</WikiTitleID> <RankerScore>0.4426822816882514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_A_cricket</WikiTitle> <WikiTitleID>683459</WikiTitleID> <RankerScore>0.17338320320264078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Friends_Provident_Trophy</WikiTitle> <WikiTitleID>1899702</WikiTitleID> <RankerScore>0.08118368458326398</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>one-day international</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>164</EntityTextEnd>
+	<LinkerScore>0.7053090645765923</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_Day_International</WikiTitle>
+		<WikiTitleID>381447</WikiTitleID>
+		<RankerScore>0.6371376620166792</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>One_Day_International</WikiTitle> <WikiTitleID>381447</WikiTitleID> <RankerScore>0.6371376620166792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_One-day_International_cricket</WikiTitle> <WikiTitleID>2057572</WikiTitleID> <RankerScore>0.22155433494489743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limited_overs_cricket</WikiTitle> <WikiTitleID>22794</WikiTitleID> <RankerScore>0.14130800303842328</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Edgbaston</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>177</EntityTextEnd>
+	<LinkerScore>0.5125248453400031</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Edgbaston_Cricket_Ground</WikiTitle>
+		<WikiTitleID>2641030</WikiTitleID>
+		<RankerScore>0.4979875902634392</RankerScore>
+		<Attributes>building	venue	establishment	grounds</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edgbaston</WikiTitle> <WikiTitleID>541838</WikiTitleID> <RankerScore>0.39291206735124723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edgbaston_Cricket_Ground</WikiTitle> <WikiTitleID>2641030</WikiTitleID> <RankerScore>0.4979875902634392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birmingham_Edgbaston_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1800925</WikiTitleID> <RankerScore>0.10910034238531349</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>229</EntityTextEnd>
+	<LinkerScore>0.6038807934882565</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England_cricket_team</WikiTitle>
+		<WikiTitleID>759125</WikiTitleID>
+		<RankerScore>0.17270382864935868</RankerScore>
+		<Attributes>team	establishment	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.1712789774990916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.17270382864935868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.09406576881810588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.033055966178437875</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pakistan</EntitySurfaceForm>
+	<EntityTextStart>268</EntityTextStart>
+	<EntityTextEnd>276</EntityTextEnd>
+	<LinkerScore>0.36900756400253043</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pakistan</WikiTitle>
+		<WikiTitleID>23235</WikiTitleID>
+		<RankerScore>0.19912169590813392</RankerScore>
+		<Attributes>country	state	member	colony	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pakistan</WikiTitle> <WikiTitleID>23235</WikiTitleID> <RankerScore>0.19912169590813392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_cricket_team</WikiTitle> <WikiTitleID>759295</WikiTitleID> <RankerScore>0.17190420309201015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7059054</WikiTitleID> <RankerScore>0.08401978526871351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_field_hockey_team</WikiTitle> <WikiTitleID>6904528</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_football_team</WikiTitle> <WikiTitleID>1302448</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Pakistan</WikiTitle> <WikiTitleID>2164940</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Navy</WikiTitle> <WikiTitleID>1183789</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominion_of_Pakistan</WikiTitle> <WikiTitleID>3662295</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_U-19_cricket_team</WikiTitle> <WikiTitleID>4107070</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Pakistan</WikiTitle> <WikiTitleID>23362</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_national_rugby_union_team</WikiTitle> <WikiTitleID>10159658</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Air_Force</WikiTitle> <WikiTitleID>377433</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Pakistan</WikiTitle> <WikiTitleID>23368</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Pakistan</WikiTitle> <WikiTitleID>429283</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Pakistan</WikiTitle> <WikiTitleID>23365</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_Army</WikiTitle> <WikiTitleID>1965925</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_holidays_in_Pakistan</WikiTitle> <WikiTitleID>843438</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Pakistan</WikiTitle> <WikiTitleID>23369</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pakistan_and_weapons_of_mass_destruction</WikiTitle> <WikiTitleID>872930</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Pakistan</WikiTitle> <WikiTitleID>23370</WikiTitleID> <RankerScore>0.032056136219478976</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ijaz Ahmed</EntitySurfaceForm>
+	<EntityTextStart>282</EntityTextStart>
+	<EntityTextEnd>292</EntityTextEnd>
+	<LinkerScore>0.9014769511936586</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ijaz_Ahmed_(cricketer)</WikiTitle>
+		<WikiTitleID>938863</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ijaz_Ahmed_(cricketer)</WikiTitle> <WikiTitleID>938863</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

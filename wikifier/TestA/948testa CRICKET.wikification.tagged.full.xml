@@ -1,0 +1,1860 @@
+<WikifierOutput>
+<InputFilename>
+948testa CRICKET
+</InputFilename>
+<InputText>
+CRICKET- ENGLISH COUNTY CHAMPIONSHIP SCORES.
+LONDON 1996-08-30
+Result and close of play scores in English county championship matches on Friday:
+Leicester: Leicestershire beat Somerset by an innings and 39 runs.
+Somerset 83 and 174( P. Simmons 4-38), Leicestershire 296.
+Leicestershire 22 points, Somerset 4.
+Chester-le-Street: Glamorgan 259 and 207( A. Dale 69, H. Morris 69; D. Blenkiron 4-43), Durham 114( S. Watkin 4-28) and 81-3.
+Tunbridge Wells: Nottinghamshire 214( P. Johnson 84; M. McCague 4-55), Kent 108-3.
+London( The Oval): Warwickshire 195, Surrey 429-7( C. Lewis 80 not out, M. Butcher 70, G. Kersey 63, J. Ratcliffe 63, D. Bicknell 55).
+Hove: Sussex 363( W. Athey 111, V. Drakes 52; I. Austin 4-37), Lancashire 197-8( W. Hegg 54)
+Portsmouth: Middlesex 199 and 426( J. Pooley 111, M. Ramprakash 108, M. Gatting 83), Hampshire 232 and 109-5.
+Chesterfield: Worcestershire 238 and 133-5, Derbyshire 471( J. Adams 123, T.O&apos;Gorman 109 not out, K. Barnett 87; T. Moody 6-82)
+Bristol: Gloucestershire 183 and 185-6( J. Russell 56 not out), Northamptonshire 190( K. Curran 52; A. Smith 5-68).
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>ENGLISH COUNTY CHAMPIONSHIP</EntitySurfaceForm>
+	<EntityTextStart>9</EntityTextStart>
+	<EntityTextEnd>36</EntityTextEnd>
+	<LinkerScore>0.9985242315083537</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>County_Championship</WikiTitle>
+		<WikiTitleID>683599</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>competition	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>County_Championship</WikiTitle> <WikiTitleID>683599</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>0.10644428424986785</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_postal_district</WikiTitle>
+		<WikiTitleID>118409</WikiTitleID>
+		<RankerScore>0.5776928100650115</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.5776928100650115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.4223071899349885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English county</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>112</EntityTextEnd>
+	<LinkerScore>0.22542476054159458</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Counties_of_England</WikiTitle>
+		<WikiTitleID>356740</WikiTitleID>
+		<RankerScore>0.23285953423301908</RankerScore>
+		<Attributes>politics	county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Counties_of_England</WikiTitle> <WikiTitleID>356740</WikiTitleID> <RankerScore>0.23285953423301908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_cricket</WikiTitle> <WikiTitleID>2228846</WikiTitleID> <RankerScore>0.1712570467437978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_and_non-metropolitan_counties_of_England</WikiTitle> <WikiTitleID>2801742</WikiTitleID> <RankerScore>0.07689707029113726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historic_counties_of_England</WikiTitle> <WikiTitleID>204971</WikiTitleID> <RankerScore>0.21139806756749688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire</WikiTitle> <WikiTitleID>13861</WikiTitleID> <RankerScore>0.07689707029113726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_the_United_Kingdom</WikiTitle> <WikiTitleID>2457482</WikiTitleID> <RankerScore>0.07689707029113726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northumberland</WikiTitle> <WikiTitleID>59769</WikiTitleID> <RankerScore>0.07689707029113726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ceremonial_counties_of_England</WikiTitle> <WikiTitleID>357469</WikiTitleID> <RankerScore>0.07689707029113726</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>105</EntityTextEnd>
+	<LinkerScore>0.3549790936132909</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.18095703171252736</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.18095703171252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_language</WikiTitle> <WikiTitleID>8569916</WikiTitleID> <RankerScore>0.06659105779661888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_studies</WikiTitle> <WikiTitleID>351646</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_literature</WikiTitle> <WikiTitleID>55461</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_American</WikiTitle> <WikiTitleID>3685573</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.10202841513650972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_folklore</WikiTitle> <WikiTitleID>419835</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_English</WikiTitle> <WikiTitleID>6340</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_Canadian</WikiTitle> <WikiTitleID>463702</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_English</WikiTitle> <WikiTitleID>256135</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_England</WikiTitle> <WikiTitleID>9855990</WikiTitleID> <RankerScore>0.03826020560907906</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English county championship</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>125</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>English_County_Championship</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>county</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>112</EntityTextEnd>
+	<LinkerScore>0.6951583732048153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Counties_of_England</WikiTitle>
+		<WikiTitleID>356740</WikiTitleID>
+		<RankerScore>0.27098247494443956</RankerScore>
+		<Attributes>politics	county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Counties_of_England</WikiTitle> <WikiTitleID>356740</WikiTitleID> <RankerScore>0.27098247494443956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_cricket</WikiTitle> <WikiTitleID>2228846</WikiTitleID> <RankerScore>0.16917309699007743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_and_non-metropolitan_counties_of_England</WikiTitle> <WikiTitleID>2801742</WikiTitleID> <RankerScore>0.07239957696060305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historic_counties_of_England</WikiTitle> <WikiTitleID>204971</WikiTitleID> <RankerScore>0.1978465432624678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire</WikiTitle> <WikiTitleID>13861</WikiTitleID> <RankerScore>0.07239957696060305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_the_United_Kingdom</WikiTitle> <WikiTitleID>2457482</WikiTitleID> <RankerScore>0.07239957696060305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northumberland</WikiTitle> <WikiTitleID>59769</WikiTitleID> <RankerScore>0.07239957696060305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ceremonial_counties_of_England</WikiTitle> <WikiTitleID>357469</WikiTitleID> <RankerScore>0.07239957696060305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>county championship</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>125</EntityTextEnd>
+	<LinkerScore>0.3678868561026345</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>County_Championship</WikiTitle>
+		<WikiTitleID>683599</WikiTitleID>
+		<RankerScore>0.18755977725914627</RankerScore>
+		<Attributes>competition	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cork_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>6155965</WikiTitleID> <RankerScore>0.05052499895853378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tipperary_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>6139201</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kilkenny_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>6932812</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Limerick_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>7085275</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Championship</WikiTitle> <WikiTitleID>683599</WikiTitleID> <RankerScore>0.18755977725914627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Offaly_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>7085982</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clare_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>7085218</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cork_Senior_Football_Championship</WikiTitle> <WikiTitleID>7084096</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wexford_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>7086088</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galway_Senior_Hurling_Club_Championship</WikiTitle> <WikiTitleID>7084242</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waterford_Senior_Hurling_Championship</WikiTitle> <WikiTitleID>7085386</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_cricket</WikiTitle> <WikiTitleID>2228846</WikiTitleID> <RankerScore>0.10394305199840007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armagh_Senior_Football_Championship</WikiTitle> <WikiTitleID>6935218</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kerry_Senior_Football_Championship</WikiTitle> <WikiTitleID>4296458</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Senior_Football_Championship</WikiTitle> <WikiTitleID>5212244</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galway_Senior_Football_Championship</WikiTitle> <WikiTitleID>7084294</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waterford_Senior_Football_Championship</WikiTitle> <WikiTitleID>7085402</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kildare_Senior_Football_Championship</WikiTitle> <WikiTitleID>7085503</WikiTitleID> <RankerScore>0.04386481145226132</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Somerset</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>184</EntityTextEnd>
+	<LinkerScore>0.19796001441696753</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Somerset_County_Cricket_Club_in_2005</WikiTitle>
+		<WikiTitleID>1719046</WikiTitleID>
+		<RankerScore>0.26575854296741164</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Somerset</WikiTitle> <WikiTitleID>51763</WikiTitleID> <RankerScore>0.09735444147828001</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club</WikiTitle> <WikiTitleID>1622178</WikiTitleID> <RankerScore>0.19933681466721329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(TV_series)</WikiTitle> <WikiTitleID>873513</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_New_Jersey</WikiTitle> <WikiTitleID>93429</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Kentucky</WikiTitle> <WikiTitleID>115414</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Pennsylvania</WikiTitle> <WikiTitleID>91929</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Maryland</WikiTitle> <WikiTitleID>71505</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Massachusetts</WikiTitle> <WikiTitleID>257155</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1719046</WikiTitleID> <RankerScore>0.26575854296741164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_Jersey</WikiTitle> <WikiTitleID>125722</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Pennsylvania</WikiTitle> <WikiTitleID>133819</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12299222</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Tasmania</WikiTitle> <WikiTitleID>835748</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Seymour,_1st_Duke_of_Somerset</WikiTitle> <WikiTitleID>72188</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Vermont</WikiTitle> <WikiTitleID>137441</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_of_Somerset</WikiTitle> <WikiTitleID>293137</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Maryland</WikiTitle> <WikiTitleID>116494</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Wisconsin</WikiTitle> <WikiTitleID>260701</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Ohio</WikiTitle> <WikiTitleID>129718</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_York</WikiTitle> <WikiTitleID>126828</WikiTitleID> <RankerScore>0.025738247111005596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>innings</EntitySurfaceForm>
+	<EntityTextStart>191</EntityTextStart>
+	<EntityTextEnd>198</EntityTextEnd>
+	<LinkerScore>0.7083574309679084</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Innings</WikiTitle>
+		<WikiTitleID>463032</WikiTitleID>
+		<RankerScore>0.6201776060751867</RankerScore>
+		<Attributes>rule	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Innings</WikiTitle> <WikiTitleID>463032</WikiTitleID> <RankerScore>0.6201776060751867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Innings_pitched</WikiTitle> <WikiTitleID>300758</WikiTitleID> <RankerScore>0.3798223939248133</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Somerset</EntitySurfaceForm>
+	<EntityTextStart>212</EntityTextStart>
+	<EntityTextEnd>220</EntityTextEnd>
+	<LinkerScore>0.07504544643608582</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Somerset_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1622178</WikiTitleID>
+		<RankerScore>0.1977529926971075</RankerScore>
+		<Attributes>club	team	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Somerset</WikiTitle> <WikiTitleID>51763</WikiTitleID> <RankerScore>0.11021777214837657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club</WikiTitle> <WikiTitleID>1622178</WikiTitleID> <RankerScore>0.1977529926971075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(TV_series)</WikiTitle> <WikiTitleID>873513</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_New_Jersey</WikiTitle> <WikiTitleID>93429</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Kentucky</WikiTitle> <WikiTitleID>115414</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Pennsylvania</WikiTitle> <WikiTitleID>91929</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Maryland</WikiTitle> <WikiTitleID>71505</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Massachusetts</WikiTitle> <WikiTitleID>257155</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1719046</WikiTitleID> <RankerScore>0.1969593546667747</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_Jersey</WikiTitle> <WikiTitleID>125722</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Pennsylvania</WikiTitle> <WikiTitleID>133819</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12299222</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Tasmania</WikiTitle> <WikiTitleID>835748</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Seymour,_1st_Duke_of_Somerset</WikiTitle> <WikiTitleID>72188</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Vermont</WikiTitle> <WikiTitleID>137441</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_of_Somerset</WikiTitle> <WikiTitleID>293137</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Maryland</WikiTitle> <WikiTitleID>116494</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Wisconsin</WikiTitle> <WikiTitleID>260701</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Ohio</WikiTitle> <WikiTitleID>129718</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_York</WikiTitle> <WikiTitleID>126828</WikiTitleID> <RankerScore>0.029121757675749493</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Leicestershire</EntitySurfaceForm>
+	<EntityTextStart>251</EntityTextStart>
+	<EntityTextEnd>265</EntityTextEnd>
+	<LinkerScore>0.4576521972789427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leicestershire_County_Cricket_Club_in_2005</WikiTitle>
+		<WikiTitleID>1750096</WikiTitleID>
+		<RankerScore>0.2185215829829834</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leicestershire</WikiTitle> <WikiTitleID>61153</WikiTitleID> <RankerScore>0.1603088999867166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Cricket_Club</WikiTitle> <WikiTitleID>1622318</WikiTitleID> <RankerScore>0.19234478648464234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1750096</WikiTitleID> <RankerScore>0.2185215829829834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12364615</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_and_Rutland_Cricket_Club</WikiTitle> <WikiTitleID>7437274</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Leicestershire</WikiTitle> <WikiTitleID>1750270</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arriva_Fox_County</WikiTitle> <WikiTitleID>3002510</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_King_George_V_Playing_Fields_(Leicestershire)</WikiTitle> <WikiTitleID>8869494</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Leicestershire</WikiTitle> <WikiTitleID>2876178</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Council</WikiTitle> <WikiTitleID>3030102</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Leicestershire</WikiTitle> <WikiTitleID>4470163</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Sheriff_of_Leicestershire</WikiTitle> <WikiTitleID>11862495</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Leicestershire_Regiment</WikiTitle> <WikiTitleID>9333366</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Leicestershire</WikiTitle> <WikiTitleID>1139692</WikiTitleID> <RankerScore>0.0389840664132416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>296</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>269</EntityTextEnd>
+	<LinkerScore>0.5253291913201161</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>296</WikiTitle>
+		<WikiTitleID>43733</WikiTitleID>
+		<RankerScore>0.5373313623996314</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>296</WikiTitle> <WikiTitleID>43733</WikiTitleID> <RankerScore>0.5373313623996314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>296_BC</WikiTitle> <WikiTitleID>77146</WikiTitleID> <RankerScore>0.22605443840706788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_296</WikiTitle> <WikiTitleID>3262305</WikiTitleID> <RankerScore>0.23661419919330076</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Leicestershire</EntitySurfaceForm>
+	<EntityTextStart>271</EntityTextStart>
+	<EntityTextEnd>285</EntityTextEnd>
+	<LinkerScore>0.47864599092958615</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Leicestershire_County_Cricket_Club_in_2005</WikiTitle>
+		<WikiTitleID>1750096</WikiTitleID>
+		<RankerScore>0.21864993297779042</RankerScore>
+		<Attributes>season</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Leicestershire</WikiTitle> <WikiTitleID>61153</WikiTitleID> <RankerScore>0.1576078164290986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Cricket_Club</WikiTitle> <WikiTitleID>1622318</WikiTitleID> <RankerScore>0.1891101679722028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1750096</WikiTitleID> <RankerScore>0.21864993297779042</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12364615</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_and_Rutland_Cricket_Club</WikiTitle> <WikiTitleID>7437274</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Leicestershire</WikiTitle> <WikiTitleID>1750270</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arriva_Fox_County</WikiTitle> <WikiTitleID>3002510</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_King_George_V_Playing_Fields_(Leicestershire)</WikiTitle> <WikiTitleID>8869494</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Leicestershire</WikiTitle> <WikiTitleID>2876178</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leicestershire_County_Council</WikiTitle> <WikiTitleID>3030102</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Leicestershire</WikiTitle> <WikiTitleID>4470163</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Sheriff_of_Leicestershire</WikiTitle> <WikiTitleID>11862495</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Leicestershire_Regiment</WikiTitle> <WikiTitleID>9333366</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Leicestershire</WikiTitle> <WikiTitleID>1139692</WikiTitleID> <RankerScore>0.039512007510991654</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Somerset</EntitySurfaceForm>
+	<EntityTextStart>297</EntityTextStart>
+	<EntityTextEnd>305</EntityTextEnd>
+	<LinkerScore>-0.049453587827899076</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Somerset_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1622178</WikiTitleID>
+		<RankerScore>0.17470375455748124</RankerScore>
+		<Attributes>club	team	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Somerset</WikiTitle> <WikiTitleID>51763</WikiTitleID> <RankerScore>0.10876819315854472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club</WikiTitle> <WikiTitleID>1622178</WikiTitleID> <RankerScore>0.17470375455748124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(TV_series)</WikiTitle> <WikiTitleID>873513</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_New_Jersey</WikiTitle> <WikiTitleID>93429</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Kentucky</WikiTitle> <WikiTitleID>115414</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Pennsylvania</WikiTitle> <WikiTitleID>91929</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County,_Maryland</WikiTitle> <WikiTitleID>71505</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Massachusetts</WikiTitle> <WikiTitleID>257155</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1719046</WikiTitleID> <RankerScore>0.1660850267766173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_Jersey</WikiTitle> <WikiTitleID>125722</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Pennsylvania</WikiTitle> <WikiTitleID>133819</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12299222</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Tasmania</WikiTitle> <WikiTitleID>835748</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Seymour,_1st_Duke_of_Somerset</WikiTitle> <WikiTitleID>72188</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Vermont</WikiTitle> <WikiTitleID>137441</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_of_Somerset</WikiTitle> <WikiTitleID>293137</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Maryland</WikiTitle> <WikiTitleID>116494</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Wisconsin</WikiTitle> <WikiTitleID>260701</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_Ohio</WikiTitle> <WikiTitleID>129718</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somerset,_New_York</WikiTitle> <WikiTitleID>126828</WikiTitleID> <RankerScore>0.03237900150043274</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Morris</EntitySurfaceForm>
+	<EntityTextStart>366</EntityTextStart>
+	<EntityTextEnd>372</EntityTextEnd>
+	<LinkerScore>-0.23174294710922155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Morris_(comics)</WikiTitle>
+		<WikiTitleID>782804</WikiTitleID>
+		<RankerScore>0.0683772926926589</RankerScore>
+		<Attributes>person	writer	artist	cartoonist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Morris_(comics)</WikiTitle> <WikiTitleID>782804</WikiTitleID> <RankerScore>0.0683772926926589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_Motor_Company</WikiTitle> <WikiTitleID>206506</WikiTitleID> <RankerScore>0.05750794514373465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_(electoral_district)</WikiTitle> <WikiTitleID>1297464</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_County,_New_Jersey</WikiTitle> <WikiTitleID>93434</WikiTitleID> <RankerScore>0.05523823265624123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Manitoba</WikiTitle> <WikiTitleID>2507494</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Illinois</WikiTitle> <WikiTitleID>111243</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Minnesota</WikiTitle> <WikiTitleID>121885</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Connecticut</WikiTitle> <WikiTitleID>108751</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bam_Morris</WikiTitle> <WikiTitleID>2396809</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_County,_Texas</WikiTitle> <WikiTitleID>91490</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_Cohen_(Soviet_spy)</WikiTitle> <WikiTitleID>1896332</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_dance</WikiTitle> <WikiTitleID>52691</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benny_Morris</WikiTitle> <WikiTitleID>302876</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_County,_Kansas</WikiTitle> <WikiTitleID>95687</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Oklahoma</WikiTitle> <WikiTitleID>130468</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Alabama</WikiTitle> <WikiTitleID>104800</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_(town),_New_York</WikiTitle> <WikiTitleID>259992</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joe_Morris_(American_football)</WikiTitle> <WikiTitleID>2684505</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris,_Indiana</WikiTitle> <WikiTitleID>14369340</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_(village),_New_York</WikiTitle> <WikiTitleID>259991</WikiTitleID> <RankerScore>0.04816920761808031</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Durham</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>403</EntityTextEnd>
+	<LinkerScore>0.3819955630969595</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Durham_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1176371</WikiTitleID>
+		<RankerScore>0.13448467793028326</RankerScore>
+		<Attributes>club	list	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Durham</WikiTitle> <WikiTitleID>68489</WikiTitleID> <RankerScore>0.09774599799961597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_County_Cricket_Club</WikiTitle> <WikiTitleID>1176371</WikiTitleID> <RankerScore>0.13448467793028326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_North_Carolina</WikiTitle> <WikiTitleID>150834</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_University</WikiTitle> <WikiTitleID>32130</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Durham</WikiTitle> <WikiTitleID>400297</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_New_Hampshire</WikiTitle> <WikiTitleID>259613</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_(electoral_district)</WikiTitle> <WikiTitleID>1777423</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_County,_North_Carolina</WikiTitle> <WikiTitleID>93313</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_Connecticut</WikiTitle> <WikiTitleID>635222</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_Ontario</WikiTitle> <WikiTitleID>3289677</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1750094</WikiTitleID> <RankerScore>0.0759869189758888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_Cathedral</WikiTitle> <WikiTitleID>206643</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_County,_Ontario</WikiTitle> <WikiTitleID>1088623</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_Bulls</WikiTitle> <WikiTitleID>671153</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regional_Municipality_of_Durham</WikiTitle> <WikiTitleID>254159</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Durham_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1820472</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_Oregon</WikiTitle> <WikiTitleID>131003</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_California</WikiTitle> <WikiTitleID>107358</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_Durham</WikiTitle> <WikiTitleID>3254697</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham,_Maine</WikiTitle> <WikiTitleID>115853</WikiTitleID> <RankerScore>0.040693082652600694</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nottinghamshire</EntitySurfaceForm>
+	<EntityTextStart>452</EntityTextStart>
+	<EntityTextEnd>467</EntityTextEnd>
+	<LinkerScore>0.019277182140044175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nottinghamshire</WikiTitle>
+		<WikiTitleID>68049</WikiTitleID>
+		<RankerScore>0.2284438327440552</RankerScore>
+		<Attributes>county	midland</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nottinghamshire</WikiTitle> <WikiTitleID>68049</WikiTitleID> <RankerScore>0.2284438327440552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nottinghamshire_County_Cricket_Club</WikiTitle> <WikiTitleID>667341</WikiTitleID> <RankerScore>0.218407212320869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nottinghamshire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1749924</WikiTitleID> <RankerScore>0.16300787716547632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nottinghamshire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>10186811</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Nottinghamshire</WikiTitle> <WikiTitleID>1749574</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Nottinghamshire</WikiTitle> <WikiTitleID>3011935</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Nottinghamshire</WikiTitle> <WikiTitleID>4649618</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_King_George_V_Playing_Fields_(Nottinghamshire)</WikiTitle> <WikiTitleID>5353836</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Nottinghamshire</WikiTitle> <WikiTitleID>1291337</WikiTitleID> <RankerScore>0.0650235129615999</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kent</EntitySurfaceForm>
+	<EntityTextStart>506</EntityTextStart>
+	<EntityTextEnd>510</EntityTextEnd>
+	<LinkerScore>0.18332134519787574</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kent</WikiTitle>
+		<WikiTitleID>16766</WikiTitleID>
+		<RankerScore>0.1624323283866035</RankerScore>
+		<Attributes>county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kent</WikiTitle> <WikiTitleID>16766</WikiTitleID> <RankerScore>0.1624323283866035</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County_Cricket_Club</WikiTitle> <WikiTitleID>1177719</WikiTitleID> <RankerScore>0.1343473683041113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_county_cricket_teams</WikiTitle> <WikiTitleID>7370256</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_(band)</WikiTitle> <WikiTitleID>61302</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Kent</WikiTitle> <WikiTitleID>180882</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent,_Ohio</WikiTitle> <WikiTitleID>129737</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent,_Washington</WikiTitle> <WikiTitleID>138005</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County,_Maryland</WikiTitle> <WikiTitleID>59382</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>13372959</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County,_Delaware</WikiTitle> <WikiTitleID>87984</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent,_Connecticut</WikiTitle> <WikiTitleID>84443</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_(New_Brunswick_electoral_district)</WikiTitle> <WikiTitleID>1786955</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_(electoral_district)</WikiTitle> <WikiTitleID>1767710</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1749799</WikiTitleID> <RankerScore>0.09026971435198146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_(Ontario_electoral_district)</WikiTitle> <WikiTitleID>1787316</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County,_Ontario</WikiTitle> <WikiTitleID>1006427</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County,_Michigan</WikiTitle> <WikiTitleID>95079</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent_County,_Texas</WikiTitle> <WikiTitleID>91532</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_Kent</WikiTitle> <WikiTitleID>1259006</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kent,_New_York</WikiTitle> <WikiTitleID>127033</WikiTitleID> <RankerScore>0.03605591699748846</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>518</EntityTextStart>
+	<EntityTextEnd>524</EntityTextEnd>
+	<LinkerScore>0.49543814498506705</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.16479836095571523</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.16479836095571523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.07323965736546847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.08710043050853214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.03969773830413436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Oval</EntitySurfaceForm>
+	<EntityTextStart>526</EntityTextStart>
+	<EntityTextEnd>534</EntityTextEnd>
+	<LinkerScore>1.377951710049562</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Oval</WikiTitle>
+		<WikiTitleID>387687</WikiTitleID>
+		<RankerScore>0.5957027560834837</RankerScore>
+		<Attributes>grounds	venue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Oval</WikiTitle> <WikiTitleID>387687</WikiTitleID> <RankerScore>0.5957027560834837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Oval_(Belfast)</WikiTitle> <WikiTitleID>2208235</WikiTitleID> <RankerScore>0.07599981044842888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Oval_(Caernarfon)</WikiTitle> <WikiTitleID>4512040</WikiTitleID> <RankerScore>0.07603180483266908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_State_University</WikiTitle> <WikiTitleID>22217</WikiTitleID> <RankerScore>0.06306640715885461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oval_tube_station</WikiTitle> <WikiTitleID>146239</WikiTitleID> <RankerScore>0.06306640715885461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blackfen</WikiTitle> <WikiTitleID>2429475</WikiTitleID> <RankerScore>0.06306640715885461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Oval_(Wirral)</WikiTitle> <WikiTitleID>9883994</WikiTitleID> <RankerScore>0.06306640715885461</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Warwickshire</EntitySurfaceForm>
+	<EntityTextStart>537</EntityTextStart>
+	<EntityTextEnd>549</EntityTextEnd>
+	<LinkerScore>0.7704789220379559</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Warwickshire_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>667292</WikiTitleID>
+		<RankerScore>0.25850724977580464</RankerScore>
+		<Attributes>club	list	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Warwickshire</WikiTitle> <WikiTitleID>383648</WikiTitleID> <RankerScore>0.18292330310121854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warwickshire_County_Cricket_Club</WikiTitle> <WikiTitleID>667292</WikiTitleID> <RankerScore>0.25850724977580464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warwickshire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1717769</WikiTitleID> <RankerScore>0.17896053337814843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warwickshire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>8885087</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warwickshire_GAA</WikiTitle> <WikiTitleID>5490873</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Warwickshire</WikiTitle> <WikiTitleID>3093110</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Warwickshire</WikiTitle> <WikiTitleID>1469673</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Warwickshire</WikiTitle> <WikiTitleID>1139878</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Sheriff_of_Warwickshire</WikiTitle> <WikiTitleID>9287210</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Warwickshire</WikiTitle> <WikiTitleID>4664124</WikiTitleID> <RankerScore>0.054229844820689765</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Surrey</EntitySurfaceForm>
+	<EntityTextStart>555</EntityTextStart>
+	<EntityTextEnd>561</EntityTextEnd>
+	<LinkerScore>0.5387257756962106</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surrey_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>766575</WikiTitleID>
+		<RankerScore>0.2207219185225938</RankerScore>
+		<Attributes>establishment	team	list	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surrey</WikiTitle> <WikiTitleID>48189</WikiTitleID> <RankerScore>0.15498503423555937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_County_Cricket_Club</WikiTitle> <WikiTitleID>766575</WikiTitleID> <RankerScore>0.2207219185225938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey,_British_Columbia</WikiTitle> <WikiTitleID>174228</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_county_cricket_teams</WikiTitle> <WikiTitleID>7378263</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1752874</WikiTitleID> <RankerScore>0.07938751112448166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>9099352</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey,_North_Dakota</WikiTitle> <WikiTitleID>128855</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_(electoral_district)</WikiTitle> <WikiTitleID>3594626</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Henry_Howard,_Earl_of_Surrey</WikiTitle> <WikiTitleID>78445</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Surrey</WikiTitle> <WikiTitleID>167774</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_Police</WikiTitle> <WikiTitleID>3006917</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey,_Jamaica</WikiTitle> <WikiTitleID>2645902</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_(carriage)</WikiTitle> <WikiTitleID>13985121</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_Ambulance_Service</WikiTitle> <WikiTitleID>4254934</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surrey_Yeomanry</WikiTitle> <WikiTitleID>17987768</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Surrey</WikiTitle> <WikiTitleID>4662584</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Surrey</WikiTitle> <WikiTitleID>1139869</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_class_cruiser</WikiTitle> <WikiTitleID>560634</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Surrey</WikiTitle> <WikiTitleID>1749864</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Surrey</WikiTitle> <WikiTitleID>1469677</WikiTitleID> <RankerScore>0.032053266830433254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Butcher</EntitySurfaceForm>
+	<EntityTextStart>593</EntityTextStart>
+	<EntityTextEnd>600</EntityTextEnd>
+	<LinkerScore>0.4241294302657841</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mark_Butcher</WikiTitle>
+		<WikiTitleID>896385</WikiTitleID>
+		<RankerScore>0.3156243545669661</RankerScore>
+		<Attributes>commentator	person	captain</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Butcher</WikiTitle> <WikiTitleID>495814</WikiTitleID> <RankerScore>0.22578081830755573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terry_Butcher</WikiTitle> <WikiTitleID>934496</WikiTitleID> <RankerScore>0.16911712192575548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mark_Butcher</WikiTitle> <WikiTitleID>896385</WikiTitleID> <RankerScore>0.3156243545669661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paul_Vachon</WikiTitle> <WikiTitleID>2180855</WikiTitleID> <RankerScore>0.14473885259986136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Butcher_(Surrey_cricketer)</WikiTitle> <WikiTitleID>11552827</WikiTitleID> <RankerScore>0.14473885259986136</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kersey</EntitySurfaceForm>
+	<EntityTextStart>608</EntityTextStart>
+	<EntityTextEnd>614</EntityTextEnd>
+	<LinkerScore>0.07549162864756198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kersey,_Suffolk</WikiTitle>
+		<WikiTitleID>7060935</WikiTitleID>
+		<RankerScore>0.4144699554977422</RankerScore>
+		<Attributes>village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kersey,_Suffolk</WikiTitle> <WikiTitleID>7060935</WikiTitleID> <RankerScore>0.4144699554977422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kersey,_Colorado</WikiTitle> <WikiTitleID>108677</WikiTitleID> <RankerScore>0.33835862747000306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elk_County,_Pennsylvania</WikiTitle> <WikiTitleID>91961</WikiTitleID> <RankerScore>0.24717141703225481</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ratcliffe</EntitySurfaceForm>
+	<EntityTextStart>622</EntityTextStart>
+	<EntityTextEnd>631</EntityTextEnd>
+	<LinkerScore>-0.08774256350679208</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ratcliff</WikiTitle>
+		<WikiTitleID>493312</WikiTitleID>
+		<RankerScore>0.2775802575341722</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ratcliff</WikiTitle> <WikiTitleID>493312</WikiTitleID> <RankerScore>0.2775802575341722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Governor_Ratcliffe_(Disney)</WikiTitle> <WikiTitleID>11476792</WikiTitleID> <RankerScore>0.2528036582956107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kevin_Ratcliffe</WikiTitle> <WikiTitleID>2135917</WikiTitleID> <RankerScore>0.23681948859787025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ratcliffe-on-Soar_Power_Station</WikiTitle> <WikiTitleID>3736232</WikiTitleID> <RankerScore>0.23279659557234694</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bicknell</EntitySurfaceForm>
+	<EntityTextStart>639</EntityTextStart>
+	<EntityTextEnd>647</EntityTextEnd>
+	<LinkerScore>0.3334811170526574</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bicknell,_Utah</WikiTitle>
+		<WikiTitleID>137199</WikiTitleID>
+		<RankerScore>0.6095459567139909</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bicknell,_Utah</WikiTitle> <WikiTitleID>137199</WikiTitleID> <RankerScore>0.6095459567139909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bicknell,_Indiana</WikiTitle> <WikiTitleID>112384</WikiTitleID> <RankerScore>0.39045404328600897</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sussex</EntitySurfaceForm>
+	<EntityTextStart>659</EntityTextStart>
+	<EntityTextEnd>665</EntityTextEnd>
+	<LinkerScore>0.4844586525118886</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sussex_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1763691</WikiTitleID>
+		<RankerScore>0.1735813797504799</RankerScore>
+		<Attributes>club	establishment	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sussex</WikiTitle> <WikiTitleID>49699</WikiTitleID> <RankerScore>0.1463591988380131</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_County_Cricket_Club</WikiTitle> <WikiTitleID>1763691</WikiTitleID> <RankerScore>0.1735813797504799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Sussex</WikiTitle> <WikiTitleID>49702</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_county_cricket_teams</WikiTitle> <WikiTitleID>6770379</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex,_New_Brunswick</WikiTitle> <WikiTitleID>853446</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_County,_New_Jersey</WikiTitle> <WikiTitleID>93428</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1719048</WikiTitleID> <RankerScore>0.07377542321856716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Sussex</WikiTitle> <WikiTitleID>32045</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex,_New_Jersey</WikiTitle> <WikiTitleID>125767</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_County,_Delaware</WikiTitle> <WikiTitleID>87988</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>3864726</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex,_Wisconsin</WikiTitle> <WikiTitleID>139966</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex,_Virginia</WikiTitle> <WikiTitleID>9203081</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_(chicken)</WikiTitle> <WikiTitleID>2599036</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_County,_Virginia</WikiTitle> <WikiTitleID>708253</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_of_Sussex</WikiTitle> <WikiTitleID>290378</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_Sussex</WikiTitle> <WikiTitleID>67923</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Sussex</WikiTitle> <WikiTitleID>1749678</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Sussex</WikiTitle> <WikiTitleID>143062</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sussex_Records</WikiTitle> <WikiTitleID>3032079</WikiTitleID> <RankerScore>0.035663764599584695</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lancashire</EntitySurfaceForm>
+	<EntityTextStart>716</EntityTextStart>
+	<EntityTextEnd>726</EntityTextEnd>
+	<LinkerScore>0.6342088600765674</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lancashire_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>749919</WikiTitleID>
+		<RankerScore>0.13348902545628794</RankerScore>
+		<Attributes>team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lancashire</WikiTitle> <WikiTitleID>50435</WikiTitleID> <RankerScore>0.1281730583136723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_County_Cricket_Club</WikiTitle> <WikiTitleID>749919</WikiTitleID> <RankerScore>0.13348902545628794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1750415</WikiTitleID> <RankerScore>0.08644682351286612</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6542245</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Lancashire</WikiTitle> <WikiTitleID>1139679</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_War_of_Roses</WikiTitle> <WikiTitleID>493717</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_dialect_and_accent</WikiTitle> <WikiTitleID>10235540</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Lancashire</WikiTitle> <WikiTitleID>1749571</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio_Lancashire</WikiTitle> <WikiTitleID>569955</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_cheese</WikiTitle> <WikiTitleID>439028</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Sites_of_Special_Scientific_Interest_in_Lancashire</WikiTitle> <WikiTitleID>5886441</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_League_(cricket)</WikiTitle> <WikiTitleID>1007690</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Lancashire</WikiTitle> <WikiTitleID>4470036</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_County_Council</WikiTitle> <WikiTitleID>3379645</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_GAA</WikiTitle> <WikiTitleID>11134411</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_King_George_V_Playing_Fields_(Lancashire)</WikiTitle> <WikiTitleID>5418316</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Lancashire</WikiTitle> <WikiTitleID>1469644</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_Constabulary</WikiTitle> <WikiTitleID>3011487</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Manchester</WikiTitle> <WikiTitleID>79819</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lancashire_wrestling</WikiTitle> <WikiTitleID>1825133</WikiTitleID> <RankerScore>0.0383465348657161</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Middlesex</EntitySurfaceForm>
+	<EntityTextStart>758</EntityTextStart>
+	<EntityTextEnd>767</EntityTextEnd>
+	<LinkerScore>0.3982684036946937</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Middlesex_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>822103</WikiTitleID>
+		<RankerScore>0.1357361178528373</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Middlesex</WikiTitle> <WikiTitleID>147635</WikiTitleID> <RankerScore>0.11315410766421279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County_Cricket_Club</WikiTitle> <WikiTitleID>822103</WikiTitleID> <RankerScore>0.1357361178528373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_county_cricket_teams</WikiTitle> <WikiTitleID>7406550</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County,_New_Jersey</WikiTitle> <WikiTitleID>93437</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County,_Massachusetts</WikiTitle> <WikiTitleID>76195</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_(novel)</WikiTitle> <WikiTitleID>889073</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County,_Ontario</WikiTitle> <WikiTitleID>181882</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1754848</WikiTitleID> <RankerScore>0.07419244530771966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>5398533</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex,_New_Jersey</WikiTitle> <WikiTitleID>125427</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_(electoral_district)</WikiTitle> <WikiTitleID>1842900</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex,_Vermont</WikiTitle> <WikiTitleID>137415</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County,_Virginia</WikiTitle> <WikiTitleID>91281</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_County,_Connecticut</WikiTitle> <WikiTitleID>87973</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex,_North_Carolina</WikiTitle> <WikiTitleID>128069</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex,_New_York</WikiTitle> <WikiTitleID>127619</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_University</WikiTitle> <WikiTitleID>220104</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_Regiment</WikiTitle> <WikiTitleID>7175351</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex,_Jamaica</WikiTitle> <WikiTitleID>3844646</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Middlesex_Township,_Cumberland_County,_Pennsylvania</WikiTitle> <WikiTitleID>132308</WikiTitleID> <RankerScore>0.039818666422072366</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pooley</EntitySurfaceForm>
+	<EntityTextStart>784</EntityTextStart>
+	<EntityTextEnd>790</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pooley</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hampshire</EntitySurfaceForm>
+	<EntityTextStart>831</EntityTextStart>
+	<EntityTextEnd>840</EntityTextEnd>
+	<LinkerScore>0.48138290480155527</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hampshire_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1919370</WikiTitleID>
+		<RankerScore>0.14487648986611892</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hampshire</WikiTitle> <WikiTitleID>13861</WikiTitleID> <RankerScore>0.13902061456719747</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_County_Cricket_Club</WikiTitle> <WikiTitleID>1919370</WikiTitleID> <RankerScore>0.14487648986611892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_county_cricket_teams</WikiTitle> <WikiTitleID>7409981</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_County,_West_Virginia</WikiTitle> <WikiTitleID>91044</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1751017</WikiTitleID> <RankerScore>0.08058824189884539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_County,_Massachusetts</WikiTitle> <WikiTitleID>76194</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>12783562</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire,_Illinois</WikiTitle> <WikiTitleID>111372</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_College</WikiTitle> <WikiTitleID>173466</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Hampshire</WikiTitle> <WikiTitleID>1749897</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_sheep</WikiTitle> <WikiTitleID>3257059</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_(pig)</WikiTitle> <WikiTitleID>7623384</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HMS_Hampshire</WikiTitle> <WikiTitleID>1281453</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Hampshire_Regiment</WikiTitle> <WikiTitleID>4832430</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire,_West_Virginia</WikiTitle> <WikiTitleID>3526326</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_High_School_(West_Virginia)</WikiTitle> <WikiTitleID>3566432</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampshire_Basin</WikiTitle> <WikiTitleID>16081378</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_King_George_V_Playing_Fields_(Hampshire)</WikiTitle> <WikiTitleID>5521064</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geology_of_Hampshire</WikiTitle> <WikiTitleID>1139240</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Hampshire</WikiTitle> <WikiTitleID>1139207</WikiTitleID> <RankerScore>0.03738321492163755</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Derbyshire</EntitySurfaceForm>
+	<EntityTextStart>900</EntityTextStart>
+	<EntityTextEnd>910</EntityTextEnd>
+	<LinkerScore>0.6112753259836203</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Derbyshire_County_Cricket_Club</WikiTitle>
+		<WikiTitleID>1829984</WikiTitleID>
+		<RankerScore>0.18963693943568094</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Derbyshire</WikiTitle> <WikiTitleID>71070</WikiTitleID> <RankerScore>0.17709717500956412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Derbyshire_County_Cricket_Club</WikiTitle> <WikiTitleID>1829984</WikiTitleID> <RankerScore>0.18963693943568094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Derbyshire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1750706</WikiTitleID> <RankerScore>0.1537690980990217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Derbyshire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>4911683</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MV_Derbyshire</WikiTitle> <WikiTitleID>1181718</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Derbyshire</WikiTitle> <WikiTitleID>1749494</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Sites_of_Special_Scientific_Interest_in_Derbyshire</WikiTitle> <WikiTitleID>5880884</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Sheriff_of_Derbyshire</WikiTitle> <WikiTitleID>8382249</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Derbyshire</WikiTitle> <WikiTitleID>1139405</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Derbyshire</WikiTitle> <WikiTitleID>4361748</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Derbyshire_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>15327054</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Derbyshire_County_Football_Association</WikiTitle> <WikiTitleID>8101881</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Derbyshire</WikiTitle> <WikiTitleID>2961583</WikiTitleID> <RankerScore>0.04794967874557332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>471</EntitySurfaceForm>
+	<EntityTextStart>911</EntityTextStart>
+	<EntityTextEnd>914</EntityTextEnd>
+	<LinkerScore>0.2208921464000097</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>471</WikiTitle>
+		<WikiTitleID>35745</WikiTitleID>
+		<RankerScore>0.35476962605445095</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>471</WikiTitle> <WikiTitleID>35745</WikiTitleID> <RankerScore>0.35476962605445095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>471_BC</WikiTitle> <WikiTitleID>72394</WikiTitleID> <RankerScore>0.16652195422407812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eldon_No._471,_Saskatchewan</WikiTitle> <WikiTitleID>16630017</WikiTitleID> <RankerScore>0.16771615260049488</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_Resolution_471</WikiTitle> <WikiTitleID>1635443</WikiTitleID> <RankerScore>0.15549613356048803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_471</WikiTitle> <WikiTitleID>4175364</WikiTitleID> <RankerScore>0.15549613356048803</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>J. Adams</EntitySurfaceForm>
+	<EntityTextStart>916</EntityTextStart>
+	<EntityTextEnd>924</EntityTextEnd>
+	<LinkerScore>0.8974339929745864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>John_Adams</WikiTitle>
+		<WikiTitleID>10410626</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>member	candidate	unitarian	president	person	ambassador	alumnus	federalist	congressman	parent</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>John_Adams</WikiTitle> <WikiTitleID>10410626</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Adams</EntitySurfaceForm>
+	<EntityTextStart>919</EntityTextStart>
+	<EntityTextEnd>924</EntityTextEnd>
+	<LinkerScore>0.9314403972740729</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>John_Adams</WikiTitle>
+		<WikiTitleID>10410626</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>member	candidate	unitarian	president	person	ambassador	alumnus	federalist	congressman	parent</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>John_Adams</WikiTitle> <WikiTitleID>10410626</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>T.</EntitySurfaceForm>
+	<EntityTextStart>969</EntityTextStart>
+	<EntityTextEnd>971</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>T</WikiTitle>
+		<WikiTitleID>30071</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>combination</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russell</EntitySurfaceForm>
+	<EntityTextStart>1027</EntityTextStart>
+	<EntityTextEnd>1034</EntityTextEnd>
+	<LinkerScore>-0.32714053987747443</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russell_(Ontario_electoral_district)</WikiTitle>
+		<WikiTitleID>1787468</WikiTitleID>
+		<RankerScore>0.06381511278201216</RankerScore>
+		<Attributes>district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bertrand_Russell</WikiTitle> <WikiTitleID>4163</WikiTitleID> <RankerScore>0.051074121695903855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_(Ontario_electoral_district)</WikiTitle> <WikiTitleID>1787468</WikiTitleID> <RankerScore>0.06381511278201216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_(Manitoba_provincial_electoral_district)</WikiTitle> <WikiTitleID>1292408</WikiTitleID> <RankerScore>0.06156870337585223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_New_Zealand</WikiTitle> <WikiTitleID>315901</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Manitoba</WikiTitle> <WikiTitleID>6644483</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Kentucky</WikiTitle> <WikiTitleID>115131</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Ontario_(community)</WikiTitle> <WikiTitleID>582380</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Kansas</WikiTitle> <WikiTitleID>114904</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_County,_Alabama</WikiTitle> <WikiTitleID>81308</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Russell,_1st_Earl_Russell</WikiTitle> <WikiTitleID>167859</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Massachusetts</WikiTitle> <WikiTitleID>116804</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_County,_Ontario</WikiTitle> <WikiTitleID>1092394</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_New_York</WikiTitle> <WikiTitleID>127204</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Edward_Russell,_1st_Earl_of_Orford</WikiTitle> <WikiTitleID>649274</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bert_Berns</WikiTitle> <WikiTitleID>188441</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Ontario</WikiTitle> <WikiTitleID>5218631</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>2634015</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_Street,_Melbourne</WikiTitle> <WikiTitleID>1927997</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russell_County,_Virginia</WikiTitle> <WikiTitleID>91252</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leon_Russell</WikiTitle> <WikiTitleID>820867</WikiTitleID> <RankerScore>0.04844365071448422</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Northamptonshire</EntitySurfaceForm>
+	<EntityTextStart>1048</EntityTextStart>
+	<EntityTextEnd>1064</EntityTextEnd>
+	<LinkerScore>0.0033603388892937125</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Northamptonshire</WikiTitle>
+		<WikiTitleID>66584</WikiTitleID>
+		<RankerScore>0.22636276401789085</RankerScore>
+		<Attributes>midland	county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Northamptonshire</WikiTitle> <WikiTitleID>66584</WikiTitleID> <RankerScore>0.22636276401789085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northamptonshire_County_Cricket_Club</WikiTitle> <WikiTitleID>530308</WikiTitleID> <RankerScore>0.221777025656697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northamptonshire_County_Cricket_Club_in_2005</WikiTitle> <WikiTitleID>1719044</WikiTitleID> <RankerScore>0.13861732941115298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northamptonshire_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>15520211</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Lieutenant_of_Northamptonshire</WikiTitle> <WikiTitleID>3092821</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Northamptonshire</WikiTitle> <WikiTitleID>1291355</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_civil_parishes_in_Northamptonshire</WikiTitle> <WikiTitleID>1565157</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gloucestershire_County_Cricket_Club</WikiTitle> <WikiTitleID>1622322</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Custos_Rotulorum_of_Northamptonshire</WikiTitle> <WikiTitleID>4483877</WikiTitleID> <RankerScore>0.06887381348570987</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Curran</EntitySurfaceForm>
+	<EntityTextStart>1073</EntityTextStart>
+	<EntityTextEnd>1079</EntityTextEnd>
+	<LinkerScore>-0.3608106410745256</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Curran,_Illinois</WikiTitle>
+		<WikiTitleID>11477888</WikiTitleID>
+		<RankerScore>0.11264984628107932</RankerScore>
+		<Attributes>place	village</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mitchell_Township,_Michigan</WikiTitle> <WikiTitleID>116983</WikiTitleID> <RankerScore>0.10911506209038503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curran,_Illinois</WikiTitle> <WikiTitleID>11477888</WikiTitleID> <RankerScore>0.11264984628107932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curran,_Wisconsin</WikiTitle> <WikiTitleID>139161</WikiTitleID> <RankerScore>0.09957868736695642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curran,_County_Londonderry</WikiTitle> <WikiTitleID>4762968</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curran_Theatre</WikiTitle> <WikiTitleID>1629750</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joan_Curran</WikiTitle> <WikiTitleID>14439096</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hugh_Curran</WikiTitle> <WikiTitleID>11864496</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alfred_and_Plantagenet,_Ontario</WikiTitle> <WikiTitleID>423360</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_theatres_in_San_Francisco</WikiTitle> <WikiTitleID>6839986</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tony_Curran</WikiTitle> <WikiTitleID>4276099</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curran_Township,_Sangamon_County,_Illinois</WikiTitle> <WikiTitleID>9976830</WikiTitleID> <RankerScore>0.0848320505326974</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,225 @@
+<WikifierOutput>
+<InputFilename>
+1022testa MARTELA
+</InputFilename>
+<InputText>
+MARTELA H1 PROFIT FIM 6.3 MLN VS 21.0 MLN.
+HELSINKI 1996-08-30
+Six months to June 30,( million markka unless stated)
+Profit before extraordinaries, appropriations,
+taxes 6.3 vs 21.0
+Earnings per share( markka) 2.2 vs 7.2
+Net sales 289.1 vs 256.9
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>MARTELA</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Martela</WikiTitle>
+		<WikiTitleID>18002900</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PROFIT</EntitySurfaceForm>
+	<EntityTextStart>11</EntityTextStart>
+	<EntityTextEnd>17</EntityTextEnd>
+	<LinkerScore>-0.0027146083797268804</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Profit_(TV_series)</WikiTitle>
+		<WikiTitleID>2532101</WikiTitleID>
+		<RankerScore>0.6283813791630646</RankerScore>
+		<Attributes>ending	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Profit_(TV_series)</WikiTitle> <WikiTitleID>2532101</WikiTitleID> <RankerScore>0.6283813791630646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Net_income</WikiTitle> <WikiTitleID>1076393</WikiTitleID> <RankerScore>0.37161862083693536</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>FIM</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>21</EntityTextEnd>
+	<LinkerScore>0.31512921490106904</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fédération_Internationale_de_Motocyclisme</WikiTitle>
+		<WikiTitleID>664030</WikiTitleID>
+		<RankerScore>0.49630320306994263</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fédération_Internationale_de_Motocyclisme</WikiTitle> <WikiTitleID>664030</WikiTitleID> <RankerScore>0.49630320306994263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Facing_Identification_Mark</WikiTitle> <WikiTitleID>2850121</WikiTitleID> <RankerScore>0.28895904522420696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finnish_markka</WikiTitle> <WikiTitleID>19050</WikiTitleID> <RankerScore>0.2147377517058503</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MLN</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>29</EntityTextEnd>
+	<LinkerScore>1.0205812556871972</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>MLN</WikiTitle>
+		<WikiTitleID>5934830</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>MLN</WikiTitle> <WikiTitleID>5934830</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MLN</EntitySurfaceForm>
+	<EntityTextStart>38</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>1.0205812556871972</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>MLN</WikiTitle>
+		<WikiTitleID>5934830</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>MLN</WikiTitle> <WikiTitleID>5934830</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>HELSINKI</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>0.9950047952643984</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Helsinki</WikiTitle>
+		<WikiTitleID>13696</WikiTitleID>
+		<RankerScore>0.14513589155317458</RankerScore>
+		<Attributes>place	municipality	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Helsinki</WikiTitle> <WikiTitleID>13696</WikiTitleID> <RankerScore>0.14513589155317458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_Central_railway_station</WikiTitle> <WikiTitleID>2577965</WikiTitleID> <RankerScore>0.05687594270914126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Helsinki</WikiTitle> <WikiTitleID>220548</WikiTitleID> <RankerScore>0.053279535476978</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_Philharmonic_Orchestra</WikiTitle> <WikiTitleID>4675394</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki-Vantaa_Airport</WikiTitle> <WikiTitleID>141541</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1952_Summer_Olympics</WikiTitle> <WikiTitleID>84318</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>806017</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_tram</WikiTitle> <WikiTitleID>2465899</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_(constituency)</WikiTitle> <WikiTitleID>3526569</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_at_the_1952_Summer_Olympics</WikiTitle> <WikiTitleID>1860624</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1983_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>801297</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_European_Championships_in_Athletics</WikiTitle> <WikiTitleID>1855685</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombing_of_Helsinki_in_World_War_II</WikiTitle> <WikiTitleID>10262809</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_at_the_1952_Summer_Olympics</WikiTitle> <WikiTitleID>2723137</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1952_Summer_Olympics</WikiTitle> <WikiTitleID>6711644</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helsinki_Stock_Exchange</WikiTitle> <WikiTitleID>246847</WikiTitleID> <RankerScore>0.05728527925082356</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>June 30</EntitySurfaceForm>
+	<EntityTextStart>77</EntityTextStart>
+	<EntityTextEnd>84</EntityTextEnd>
+	<LinkerScore>1.0492196775436247</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>June_30</WikiTitle>
+		<WikiTitleID>15843</WikiTitleID>
+		<RankerScore>0.6699059732403335</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>June_30</WikiTitle> <WikiTitleID>15843</WikiTitleID> <RankerScore>0.6699059732403335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>June_30_(Eastern_Orthodox_liturgics)</WikiTitle> <WikiTitleID>2103693</WikiTitleID> <RankerScore>0.33009402675966637</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>markka</EntitySurfaceForm>
+	<EntityTextStart>95</EntityTextStart>
+	<EntityTextEnd>101</EntityTextEnd>
+	<LinkerScore>0.960743555553862</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Finnish_markka</WikiTitle>
+		<WikiTitleID>19050</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Finnish_markka</WikiTitle> <WikiTitleID>19050</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Net sales</EntitySurfaceForm>
+	<EntityTextStart>221</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>0.9693516653459971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sales_(accounting)</WikiTitle>
+		<WikiTitleID>12151000</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>principle</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sales_(accounting)</WikiTitle> <WikiTitleID>12151000</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,738 @@
+<WikifierOutput>
+<InputFilename>
+PRI20001122.2000.0320
+</InputFilename>
+<InputText>
+ The Palestinian faction headed by Yasser Arafat said today that, it will avenge the deaths of four of its members who were killed today by Israeli soldiers. Later in the day, a car bombing in the Northern Israeli town of Hadera, killed two people and injured at least 50. Israeli Prime Minister Ehud Barak said he would retaliate. Corey Flintoff, NPR news, Washington.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>The Palestinian</EntitySurfaceForm>
+	<EntityTextStart>1</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Palestinian</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palestinian</EntitySurfaceForm>
+	<EntityTextStart>5</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>0.20307417902623193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palestine_Liberation_Organization</WikiTitle>
+		<WikiTitleID>24324</WikiTitleID>
+		<RankerScore>0.20413958191167567</RankerScore>
+		<Attributes>politics	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palestinian_people</WikiTitle> <WikiTitleID>23267</WikiTitleID> <RankerScore>0.17703347697357275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine</WikiTitle> <WikiTitleID>1114732</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_National_Authority</WikiTitle> <WikiTitleID>24093</WikiTitleID> <RankerScore>0.17860827793759787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_territories</WikiTitle> <WikiTitleID>96665</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Arabic</WikiTitle> <WikiTitleID>610643</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_Jew</WikiTitle> <WikiTitleID>4533719</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definitions_of_Palestine_and_Palestinian</WikiTitle> <WikiTitleID>608152</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_American</WikiTitle> <WikiTitleID>7607942</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_music</WikiTitle> <WikiTitleID>416081</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_cuisine</WikiTitle> <WikiTitleID>11146241</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestine_Liberation_Organization</WikiTitle> <WikiTitleID>24324</WikiTitleID> <RankerScore>0.20413958191167567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Palestine</WikiTitle> <WikiTitleID>63922</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_refugee</WikiTitle> <WikiTitleID>74681</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab–Israeli_conflict</WikiTitle> <WikiTitleID>7960202</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proposals_for_a_Palestinian_state</WikiTitle> <WikiTitleID>48276</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Palestine</WikiTitle> <WikiTitleID>13801</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arabic_literature</WikiTitle> <WikiTitleID>462469</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_citizens_of_Israel</WikiTitle> <WikiTitleID>492331</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Front_for_the_Liberation_of_Palestine_-_External_Operations</WikiTitle> <WikiTitleID>3235558</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Palestine</WikiTitle> <WikiTitleID>9763138</WikiTitleID> <RankerScore>0.025895215481009037</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yasser Arafat</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>1.1960750445666533</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arafat</EntitySurfaceForm>
+	<EntityTextStart>42</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.7486258441905627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yasser_Arafat</WikiTitle>
+		<WikiTitleID>34289</WikiTitleID>
+		<RankerScore>0.7666773984718432</RankerScore>
+		<Attributes>survivor	member	muslim	alumnus	recipient	president	person	engineer	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yasser_Arafat</WikiTitle> <WikiTitleID>34289</WikiTitleID> <RankerScore>0.7666773984718432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Arafat</WikiTitle> <WikiTitleID>1161193</WikiTitleID> <RankerScore>0.23332260152815676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>147</EntityTextEnd>
+	<LinkerScore>0.5126085777039731</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.1946207281791171</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.1946207281791171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.1506772728338214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.13906279114510162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.03033171810835058</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli soldiers</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>0.890560234759941</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel_Defense_Forces</WikiTitle>
+		<WikiTitleID>39237</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	recipient	relations	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>car bombing</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>189</EntityTextEnd>
+	<LinkerScore>0.9358365458486485</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Car_bomb</WikiTitle>
+		<WikiTitleID>155282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>tactics	devices	bomb	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Car_bomb</WikiTitle> <WikiTitleID>155282</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>213</EntityTextEnd>
+	<LinkerScore>0.18670347783950034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.18780360634866558</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.17210396829769664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.18780360634866558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.09479867318765983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.032076103068586936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>town</EntitySurfaceForm>
+	<EntityTextStart>214</EntityTextStart>
+	<EntityTextEnd>218</EntityTextEnd>
+	<LinkerScore>0.9373704344127582</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Town</WikiTitle>
+		<WikiTitleID>52911</WikiTitleID>
+		<RankerScore>0.09794444020182534</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Town</WikiTitle> <WikiTitleID>52911</WikiTitleID> <RankerScore>0.09794444020182534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Towns_of_Japan</WikiTitle> <WikiTitleID>450654</WikiTitleID> <RankerScore>0.06369358333610389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_England_town</WikiTitle> <WikiTitleID>3400990</WikiTitleID> <RankerScore>0.05534805967124137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_(China)</WikiTitle> <WikiTitleID>1342390</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_and_towns_in_Finland</WikiTitle> <WikiTitleID>198108</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_(New_Jersey)</WikiTitle> <WikiTitleID>2884363</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban-type_settlement</WikiTitle> <WikiTitleID>463454</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Populated_places_in_Estonia</WikiTitle> <WikiTitleID>2347646</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Romania</WikiTitle> <WikiTitleID>214467</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Portugal</WikiTitle> <WikiTitleID>507837</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Brazil</WikiTitle> <WikiTitleID>214437</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(town),_New_York</WikiTitle> <WikiTitleID>259955</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_New_York</WikiTitle> <WikiTitleID>429081</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_of_Fiji</WikiTitle> <WikiTitleID>670527</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Places_in_Singapore_by_alphabetical_order</WikiTitle> <WikiTitleID>968623</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_council</WikiTitle> <WikiTitleID>645032</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.04605964216416643</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hadera</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>1.200586749568264</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hadera</WikiTitle>
+		<WikiTitleID>323304</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hadera</WikiTitle> <WikiTitleID>323304</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>273</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.1456488271422027</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israeli</EntitySurfaceForm>
+	<EntityTextStart>273</EntityTextStart>
+	<EntityTextEnd>280</EntityTextEnd>
+	<LinkerScore>0.4281661119788707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israelis</WikiTitle>
+		<WikiTitleID>181296</WikiTitleID>
+		<RankerScore>0.23496240714177047</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.23496240714177047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.17529009977726642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.09203390546005016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Air_Force</WikiTitle> <WikiTitleID>177619</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_(newspaper)</WikiTitle> <WikiTitleID>5324800</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_cuisine</WikiTitle> <WikiTitleID>11447140</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ligat_Winner</WikiTitle> <WikiTitleID>7233082</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_literature</WikiTitle> <WikiTitleID>2432783</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hebrew_language</WikiTitle> <WikiTitleID>13450</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Israel</WikiTitle> <WikiTitleID>413617</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israelis</WikiTitle> <WikiTitleID>422068</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_settlement</WikiTitle> <WikiTitleID>15123</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hatikvah</WikiTitle> <WikiTitleID>189968</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Israel</WikiTitle> <WikiTitleID>459004</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_views_of_the_peace_process_in_the_Israeli-Palestinian_conflict</WikiTitle> <WikiTitleID>10838363</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3190362</WikiTitleID> <RankerScore>0.029277269860053703</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>281</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.1764104398822415</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Israel</WikiTitle>
+		<WikiTitleID>24898</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Israel</WikiTitle> <WikiTitleID>24898</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud Barak</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>306</EntityTextEnd>
+	<LinkerScore>1.297268867883057</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ehud</EntitySurfaceForm>
+	<EntityTextStart>296</EntityTextStart>
+	<EntityTextEnd>300</EntityTextEnd>
+	<LinkerScore>0.5806565129808363</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud</WikiTitle>
+		<WikiTitleID>580058</WikiTitleID>
+		<RankerScore>0.8251069140990278</RankerScore>
+		<Attributes>regicide	judges</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ehud</WikiTitle> <WikiTitleID>580058</WikiTitleID> <RankerScore>0.8251069140990278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Banai</WikiTitle> <WikiTitleID>7646543</WikiTitleID> <RankerScore>0.17489308590097216</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barak</EntitySurfaceForm>
+	<EntityTextStart>301</EntityTextStart>
+	<EntityTextEnd>306</EntityTextEnd>
+	<LinkerScore>0.6293557830681813</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ehud_Barak</WikiTitle>
+		<WikiTitleID>168212</WikiTitleID>
+		<RankerScore>0.40551630320170173</RankerScore>
+		<Attributes>politician	jew	person	recipient	member	leaders	commander	alumnus	minister	chief</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barak</WikiTitle> <WikiTitleID>580483</WikiTitleID> <RankerScore>0.1747037085404302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_SAM</WikiTitle> <WikiTitleID>4552661</WikiTitleID> <RankerScore>0.08300112136959228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_River</WikiTitle> <WikiTitleID>4308389</WikiTitleID> <RankerScore>0.06735577337765515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ehud_Barak</WikiTitle> <WikiTitleID>168212</WikiTitleID> <RankerScore>0.40551630320170173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak,_Israel</WikiTitle> <WikiTitleID>14980838</WikiTitleID> <RankerScore>0.06735577337765515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Barak</WikiTitle> <WikiTitleID>1798346</WikiTitleID> <RankerScore>0.06735577337765515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SP-21</WikiTitle> <WikiTitleID>5094126</WikiTitleID> <RankerScore>0.06735577337765515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barak_Armored_Brigade</WikiTitle> <WikiTitleID>268204</WikiTitleID> <RankerScore>0.06735577337765515</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Corey Flintoff</EntitySurfaceForm>
+	<EntityTextStart>332</EntityTextStart>
+	<EntityTextEnd>346</EntityTextEnd>
+	<LinkerScore>1.0348643838456146</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Corey_Flintoff</WikiTitle>
+		<WikiTitleID>10448282</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	personality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Corey_Flintoff</WikiTitle> <WikiTitleID>10448282</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Flintoff</EntitySurfaceForm>
+	<EntityTextStart>338</EntityTextStart>
+	<EntityTextEnd>346</EntityTextEnd>
+	<LinkerScore>0.9520532365906053</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Andrew_Flintoff</WikiTitle>
+		<WikiTitleID>849886</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>cricketer	person	captain	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Andrew_Flintoff</WikiTitle> <WikiTitleID>849886</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NPR news</EntitySurfaceForm>
+	<EntityTextStart>348</EntityTextStart>
+	<EntityTextEnd>356</EntityTextEnd>
+	<LinkerScore>1.0762235409891074</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Public_Radio</WikiTitle>
+		<WikiTitleID>44098</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Public_Radio</WikiTitle> <WikiTitleID>44098</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NPR</EntitySurfaceForm>
+	<EntityTextStart>348</EntityTextStart>
+	<EntityTextEnd>351</EntityTextEnd>
+	<LinkerScore>1.3245207385388424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Public_Radio</WikiTitle>
+		<WikiTitleID>44098</WikiTitleID>
+		<RankerScore>0.796893540720995</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Public_Radio</WikiTitle> <WikiTitleID>44098</WikiTitleID> <RankerScore>0.796893540720995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Non-photorealistic_rendering</WikiTitle> <WikiTitleID>1379065</WikiTitleID> <RankerScore>0.20310645927900495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Washington</EntitySurfaceForm>
+	<EntityTextStart>358</EntityTextStart>
+	<EntityTextEnd>368</EntityTextEnd>
+	<LinkerScore>0.052942852548830494</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington,_D.C.</WikiTitle>
+		<WikiTitleID>108956</WikiTitleID>
+		<RankerScore>0.08563055537441802</RankerScore>
+		<Attributes>state	place	district	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.08563055537441802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.047458924014517206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.05465660756301372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_North_Carolina</WikiTitle> <WikiTitleID>93227</WikiTitleID> <RankerScore>0.04777964194400299</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

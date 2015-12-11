@@ -1,0 +1,712 @@
+<WikifierOutput>
+<InputFilename>
+1083testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- AZERBAIJAN BEAT SWITZERLAND IN WORLD CUP QUALIFIER.
+BAKU 1996-08-31
+Azerbaijan beat Switzerland 1-0( halftime 1-0) in their World Cup soccer European group three qualifying match on Saturday.
+Scorer:
+Vidadi Rzayev( 28th)
+Attendance: 20,000
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>AZERBAIJAN</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>18</EntityTextEnd>
+	<LinkerScore>0.08902389326259341</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Azerbaijan</WikiTitle>
+		<WikiTitleID>746</WikiTitleID>
+		<RankerScore>0.1784095727873984</RankerScore>
+		<Attributes>country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Azerbaijan</WikiTitle> <WikiTitleID>746</WikiTitleID> <RankerScore>0.1784095727873984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_national_football_team</WikiTitle> <WikiTitleID>655906</WikiTitleID> <RankerScore>0.1615762975186074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_(Iran)</WikiTitle> <WikiTitleID>882499</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_Democratic_Republic</WikiTitle> <WikiTitleID>2409969</WikiTitleID> <RankerScore>0.05790516361074874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>404448</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>943748</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Azerbaijan</WikiTitle> <WikiTitleID>40196</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Azerbaijan</WikiTitle> <WikiTitleID>40194</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_People&apos;s_Government</WikiTitle> <WikiTitleID>1285129</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_national_under-21_football_team</WikiTitle> <WikiTitleID>12185213</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>10143531</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Azerbaijan</WikiTitle> <WikiTitleID>12835793</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_of_Football_Federations_of_Azerbaijan</WikiTitle> <WikiTitleID>1267839</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Azerbaijan</WikiTitle> <WikiTitleID>309778</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Azerbaijan</WikiTitle> <WikiTitleID>339643</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_in_the_Eurovision_Dance_Contest</WikiTitle> <WikiTitleID>18344992</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkish_language</WikiTitle> <WikiTitleID>29992</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijani_literature</WikiTitle> <WikiTitleID>877787</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atabegs_of_Azerbaijan</WikiTitle> <WikiTitleID>6064651</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Azerbaijan</WikiTitle> <WikiTitleID>408284</WikiTitleID> <RankerScore>0.03541817447548503</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SWITZERLAND</EntitySurfaceForm>
+	<EntityTextStart>24</EntityTextStart>
+	<EntityTextEnd>35</EntityTextEnd>
+	<LinkerScore>0.4947886822491402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Switzerland_national_football_team</WikiTitle>
+		<WikiTitleID>681862</WikiTitleID>
+		<RankerScore>0.1730062541786968</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Switzerland</WikiTitle> <WikiTitleID>26748</WikiTitleID> <RankerScore>0.14947804420527236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_football_team</WikiTitle> <WikiTitleID>681862</WikiTitleID> <RankerScore>0.1730062541786968</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Switzerland</WikiTitle> <WikiTitleID>2548902</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3856527</WikiTitleID> <RankerScore>0.05697030036985187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1817447</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_basketball_team</WikiTitle> <WikiTitleID>2858515</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Switzerland</WikiTitle> <WikiTitleID>27464</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_rugby_union_team</WikiTitle> <WikiTitleID>7596037</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_Davis_Cup_team</WikiTitle> <WikiTitleID>9663677</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Swiss_Confederacy</WikiTitle> <WikiTitleID>6754871</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_under-21_football_team</WikiTitle> <WikiTitleID>12263476</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_wine</WikiTitle> <WikiTitleID>8496915</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_Alps</WikiTitle> <WikiTitleID>55205</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>806150</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_County,_Indiana</WikiTitle> <WikiTitleID>96065</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Switzerland</WikiTitle> <WikiTitleID>7998540</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_cricket_team</WikiTitle> <WikiTitleID>7020564</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_(album)</WikiTitle> <WikiTitleID>5373138</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>945300</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Switzerland</WikiTitle> <WikiTitleID>27467</WikiTitleID> <RankerScore>0.036502670661539935</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>-0.2522895394201348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle>
+		<WikiTitleID>4237189</WikiTitleID>
+		<RankerScore>0.0942861758963989</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4237189</WikiTitleID> <RankerScore>0.0942861758963989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4940480</WikiTitleID> <RankerScore>0.09294988915536619</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235328</WikiTitleID> <RankerScore>0.08589658706429418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>17475699</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>1952482</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235718</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7528350</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7127957</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification_(AFC-OFC_play-off)</WikiTitle> <WikiTitleID>5556528</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_FIFA_World_Cup_qualification_(AFC)</WikiTitle> <WikiTitleID>11798982</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2014796</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2467576</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2485341</WikiTitleID> <RankerScore>0.06607884980763098</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.07619805113540916</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.1541106377532341</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.1541106377532341</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.045851816703559985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.14868338014648572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.03831495090568942</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CUP</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.10133581894905258</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Committee_of_Union_and_Progress</WikiTitle>
+		<WikiTitleID>500233</WikiTitleID>
+		<RankerScore>0.23302368617610236</RankerScore>
+		<Attributes>party	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cambridge_University_Press</WikiTitle> <WikiTitleID>73199</WikiTitleID> <RankerScore>0.20742950166570345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Committee_of_Union_and_Progress</WikiTitle> <WikiTitleID>500233</WikiTitleID> <RankerScore>0.23302368617610236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_units_of_pressure</WikiTitle> <WikiTitleID>3848885</WikiTitleID> <RankerScore>0.20946663175932295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Unity_Candidates</WikiTitle> <WikiTitleID>8736554</WikiTitleID> <RankerScore>0.17504009019943562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbia_University_Press</WikiTitle> <WikiTitleID>1903626</WikiTitleID> <RankerScore>0.17504009019943562</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>49</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>0.789686193411224</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle>
+		<WikiTitleID>1033640</WikiTitleID>
+		<RankerScore>0.7786312706050147</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_modifier</WikiTitle> <WikiTitleID>210058</WikiTitleID> <RankerScore>0.22136872939498525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle> <WikiTitleID>1033640</WikiTitleID> <RankerScore>0.7786312706050147</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BAKU</EntitySurfaceForm>
+	<EntityTextStart>60</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>1.0480620181640719</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baku</WikiTitle>
+		<WikiTitleID>4566</WikiTitleID>
+		<RankerScore>0.48192500065119254</RankerScore>
+		<Attributes>capital	site	place	city	district</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baku</WikiTitle> <WikiTitleID>4566</WikiTitleID> <RankerScore>0.48192500065119254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_(spirit)</WikiTitle> <WikiTitleID>4571</WikiTitleID> <RankerScore>0.05720481989286576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FK_Baku</WikiTitle> <WikiTitleID>2227481</WikiTitleID> <RankerScore>0.10544148441293108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_Governorate</WikiTitle> <WikiTitleID>5592109</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_2016_Olympic_bid</WikiTitle> <WikiTitleID>14231322</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_Khanate</WikiTitle> <WikiTitleID>3985430</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku,_Ghana</WikiTitle> <WikiTitleID>16078651</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baku_Metro</WikiTitle> <WikiTitleID>4379005</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pogrom_of_Armenians_in_Baku</WikiTitle> <WikiTitleID>15004327</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monster_Rancher_monsters</WikiTitle> <WikiTitleID>2302363</WikiTitleID> <RankerScore>0.050775527863287234</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Azerbaijan</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>86</EntityTextEnd>
+	<LinkerScore>0.08512465890155702</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Azerbaijan</WikiTitle>
+		<WikiTitleID>746</WikiTitleID>
+		<RankerScore>0.17177082571080754</RankerScore>
+		<Attributes>country	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Azerbaijan</WikiTitle> <WikiTitleID>746</WikiTitleID> <RankerScore>0.17177082571080754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_national_football_team</WikiTitle> <WikiTitleID>655906</WikiTitleID> <RankerScore>0.16736853571489357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_(Iran)</WikiTitle> <WikiTitleID>882499</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_Democratic_Republic</WikiTitle> <WikiTitleID>2409969</WikiTitleID> <RankerScore>0.057764355923949455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>404448</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>943748</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Azerbaijan</WikiTitle> <WikiTitleID>40196</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Azerbaijan</WikiTitle> <WikiTitleID>40194</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_People&apos;s_Government</WikiTitle> <WikiTitleID>1285129</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_national_under-21_football_team</WikiTitle> <WikiTitleID>12185213</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>10143531</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Azerbaijan</WikiTitle> <WikiTitleID>12835793</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_of_Football_Federations_of_Azerbaijan</WikiTitle> <WikiTitleID>1267839</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Azerbaijan</WikiTitle> <WikiTitleID>309778</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Azerbaijan</WikiTitle> <WikiTitleID>339643</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijan_in_the_Eurovision_Dance_Contest</WikiTitle> <WikiTitleID>18344992</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkish_language</WikiTitle> <WikiTitleID>29992</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Azerbaijani_literature</WikiTitle> <WikiTitleID>877787</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atabegs_of_Azerbaijan</WikiTitle> <WikiTitleID>6064651</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Azerbaijan</WikiTitle> <WikiTitleID>408284</WikiTitleID> <RankerScore>0.035476251920608784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Switzerland</EntitySurfaceForm>
+	<EntityTextStart>92</EntityTextStart>
+	<EntityTextEnd>103</EntityTextEnd>
+	<LinkerScore>0.5683943651793489</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Switzerland_national_football_team</WikiTitle>
+		<WikiTitleID>681862</WikiTitleID>
+		<RankerScore>0.17683027784662808</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Switzerland</WikiTitle> <WikiTitleID>26748</WikiTitleID> <RankerScore>0.15136428043540648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_football_team</WikiTitle> <WikiTitleID>681862</WikiTitleID> <RankerScore>0.17683027784662808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Switzerland</WikiTitle> <WikiTitleID>2548902</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3856527</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1817447</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_basketball_team</WikiTitle> <WikiTitleID>2858515</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Switzerland</WikiTitle> <WikiTitleID>27464</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_rugby_union_team</WikiTitle> <WikiTitleID>7596037</WikiTitleID> <RankerScore>0.038239973338213516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_Davis_Cup_team</WikiTitle> <WikiTitleID>9663677</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Swiss_Confederacy</WikiTitle> <WikiTitleID>6754871</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_under-21_football_team</WikiTitle> <WikiTitleID>12263476</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_wine</WikiTitle> <WikiTitleID>8496915</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_Alps</WikiTitle> <WikiTitleID>55205</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>806150</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_County,_Indiana</WikiTitle> <WikiTitleID>96065</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Switzerland</WikiTitle> <WikiTitleID>7998540</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_cricket_team</WikiTitle> <WikiTitleID>7020564</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_(album)</WikiTitle> <WikiTitleID>5373138</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>945300</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Switzerland</WikiTitle> <WikiTitleID>27467</WikiTitleID> <RankerScore>0.03726855696351482</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup soccer</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>0.020975355030228224</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.19448895174724104</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.19448895174724104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.1735928349878418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.05214030963731627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.034104582566329464</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>142</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>0.723479673426614</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.1451695338354657</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.1451695338354657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.06560117232405994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.05377281230419313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.043262145972722425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Vidadi Rzayev</EntitySurfaceForm>
+	<EntityTextStart>208</EntityTextStart>
+	<EntityTextEnd>221</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vidadi_Rzayev</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>player	footballer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

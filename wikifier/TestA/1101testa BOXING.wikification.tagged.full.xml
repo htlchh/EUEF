@@ -1,0 +1,387 @@
+<WikifierOutput>
+<InputFilename>
+1101testa BOXING
+</InputFilename>
+<InputText>
+BOXING- JOHNSON WINS UNANIMOUS POIUNTS VERDICT.
+DUBLIN 1996-08-31
+American Tom Johnson successfully defended his IBF featherweight title when he earned a unanimous points decision over Venezuela&apos;s Ramon Guzman on Saturday.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>JOHNSON</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Johnson</WikiTitle>
+		<WikiTitleID>311346</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>surname</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DUBLIN</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.5426534135728337</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dublin</WikiTitle>
+		<WikiTitleID>8504</WikiTitleID>
+		<RankerScore>0.10694598971959346</RankerScore>
+		<Attributes>place	capital	establishment	city	town	port</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dublin</WikiTitle> <WikiTitleID>8504</WikiTitleID> <RankerScore>0.10694598971959346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_GAA</WikiTitle> <WikiTitleID>2759665</WikiTitleID> <RankerScore>0.05775260086806938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_California</WikiTitle> <WikiTitleID>107333</WikiTitleID> <RankerScore>0.05811583623781968</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Ohio</WikiTitle> <WikiTitleID>150896</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Georgia</WikiTitle> <WikiTitleID>110212</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Dublin</WikiTitle> <WikiTitleID>6514</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_New_Hampshire</WikiTitle> <WikiTitleID>124537</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Airport</WikiTitle> <WikiTitleID>293794</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Dublin</WikiTitle> <WikiTitleID>145190</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>2855251</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Perth,_Ontario</WikiTitle> <WikiTitleID>8163046</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Texas</WikiTitle> <WikiTitleID>135851</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Pennsylvania</WikiTitle> <WikiTitleID>131518</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Virginia</WikiTitle> <WikiTitleID>137735</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Dublin</WikiTitle> <WikiTitleID>1450475</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Indiana</WikiTitle> <WikiTitleID>112683</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Port</WikiTitle> <WikiTitleID>961047</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Paterson</WikiTitle> <WikiTitleID>8684391</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_North_Carolina</WikiTitle> <WikiTitleID>127678</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Dublin</WikiTitle> <WikiTitleID>8624259</WikiTitleID> <RankerScore>0.04571679842203044</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.722015690715863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.13300690425598086</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.13300690425598086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.05037489095312643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.04739153088074239</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.04524862787706767</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tom Johnson</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>86</EntityTextEnd>
+	<LinkerScore>0.7516415592959496</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tom_Johnson_(boxer)</WikiTitle>
+		<WikiTitleID>6920798</WikiTitleID>
+		<RankerScore>0.3127764351750143</RankerScore>
+		<Attributes>champion	person	boxers</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(ice_hockey)</WikiTitle> <WikiTitleID>1783295</WikiTitleID> <RankerScore>0.15396004647849276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(composer)</WikiTitle> <WikiTitleID>350713</WikiTitleID> <RankerScore>0.14409898013257796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson</WikiTitle> <WikiTitleID>657006</WikiTitleID> <RankerScore>0.09729113455347876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(journalist)</WikiTitle> <WikiTitleID>6038349</WikiTitleID> <RankerScore>0.09729113455347876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(boxer)</WikiTitle> <WikiTitleID>6920798</WikiTitleID> <RankerScore>0.3127764351750143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(golfer)</WikiTitle> <WikiTitleID>8425543</WikiTitleID> <RankerScore>0.09729113455347876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_Johnson_(lawyer)</WikiTitle> <WikiTitleID>6364236</WikiTitleID> <RankerScore>0.09729113455347876</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IBF featherweight</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>0.9566906911714429</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_featherweight_boxing_champions</WikiTitle>
+		<WikiTitleID>6904435</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_featherweight_boxing_champions</WikiTitle> <WikiTitleID>6904435</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IBF featherweight title</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>136</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_featherweight_boxing_champions</WikiTitle>
+		<WikiTitleID>6904435</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IBF</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>1.4804386817517896</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>International_Boxing_Federation</WikiTitle>
+		<WikiTitleID>241038</WikiTitleID>
+		<RankerScore>0.9234601576833349</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>International_Boxing_Federation</WikiTitle> <WikiTitleID>241038</WikiTitleID> <RankerScore>0.9234601576833349</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Badminton_World_Federation</WikiTitle> <WikiTitleID>3952978</WikiTitleID> <RankerScore>0.07653984231666504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>featherweight</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>1.438457362989173</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Featherweight</WikiTitle>
+		<WikiTitleID>787578</WikiTitleID>
+		<RankerScore>0.8812750901334264</RankerScore>
+		<Attributes>class</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Featherweight</WikiTitle> <WikiTitleID>787578</WikiTitleID> <RankerScore>0.8812750901334264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Featherweight_(MMA)</WikiTitle> <WikiTitleID>6270478</WikiTitleID> <RankerScore>0.11872490986657362</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>points decision</EntitySurfaceForm>
+	<EntityTextStart>164</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Points_decision</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>rule</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Venezuela</EntitySurfaceForm>
+	<EntityTextStart>185</EntityTextStart>
+	<EntityTextEnd>194</EntityTextEnd>
+	<LinkerScore>0.5480981336129171</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Venezuela</WikiTitle>
+		<WikiTitleID>32374</WikiTitleID>
+		<RankerScore>0.11659489581400695</RankerScore>
+		<Attributes>state	nation	country	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Venezuela</WikiTitle> <WikiTitleID>32374</WikiTitleID> <RankerScore>0.11659489581400695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Venezuela</WikiTitle> <WikiTitleID>1122431</WikiTitleID> <RankerScore>0.05518472699331969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_national_football_team</WikiTitle> <WikiTitleID>1016971</WikiTitleID> <RankerScore>0.05474987896950065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_national_basketball_team</WikiTitle> <WikiTitleID>6625933</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_national_baseball_team</WikiTitle> <WikiTitleID>4264306</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivarian_Armada_of_Venezuela</WikiTitle> <WikiTitleID>2533362</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Venezuela</WikiTitle> <WikiTitleID>32459</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>15849379</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>937902</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Venezuela_Davis_Cup_team</WikiTitle> <WikiTitleID>10022852</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Captaincy_General_of_Venezuela</WikiTitle> <WikiTitleID>6880728</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Venezuela</WikiTitle> <WikiTitleID>290935</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Venezuela</WikiTitle> <WikiTitleID>32460</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_Venezolana</WikiTitle> <WikiTitleID>4121034</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Venezuela</WikiTitle> <WikiTitleID>409121</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_Profesional_de_Baloncesto_(Venezuela)</WikiTitle> <WikiTitleID>9977867</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Venezuela_2001</WikiTitle> <WikiTitleID>13632307</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Venezuela</WikiTitle> <WikiTitleID>459362</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Venezuela</WikiTitle> <WikiTitleID>17878686</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.04549826460136311</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ramon Guzman</EntitySurfaceForm>
+	<EntityTextStart>197</EntityTextStart>
+	<EntityTextEnd>209</EntityTextEnd>
+	<LinkerScore>0.957651057455491</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ramón_Guzman</WikiTitle>
+		<WikiTitleID>13574791</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ramón_Guzman</WikiTitle> <WikiTitleID>13574791</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,1821 @@
+<WikifierOutput>
+<InputFilename>
+1071testa MOTOR
+</InputFilename>
+<InputText>
+MOTOR RACING- LEADING QUALIFIERS FOR VANCOUVER INDYCAR RACE.
+VANCOUVER 1996-08-31
+Top ten drivers in grid for
+Sunday&apos;s Vancouver IndyCar race after final qualifying on
+Saturday( tabulate by driver, country, chassis, motor and lap
+times in seconds):
+1. Alex Zanardi( Italy), Reynard Honda, 53.980( 113.576
+mph/ 182.778 kph)
+2. Michael Andretti( U.S.), Lola Ford Cosworth, 54.483
+3. Bobby Rahal( U.S.), Reynard Mercedes-Benz, 54.507
+4. Bryan Herta( U.S.), Reynard Mercedes-Benz, 54.578
+5. Jimmy Vasser( U.S.), Reynard Honda, 54.617
+6. Paul Tracy( Canada), Penske Mercedes-Benz, 54.620
+7. Al Unser Jr( U.S.), Penske Mercedes-Benz, 54.683
+8. Andre Ribeiro( Brazil), Lola Honda, 54.750
+9. Mauricio Gugelmin( Brazil), Reynard Ford Cosworth, 54.762
+10. Gil de Ferran( Brazil), Reynard Honda, 54.774
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>VANCOUVER</EntitySurfaceForm>
+	<EntityTextStart>37</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>1.0341457382606212</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vancouver</WikiTitle>
+		<WikiTitleID>32706</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	city	settlement	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vancouver</WikiTitle> <WikiTitleID>32706</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>INDYCAR</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.48436244684200974</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Champ_Car</WikiTitle>
+		<WikiTitleID>225290</WikiTitleID>
+		<RankerScore>0.5013416601734603</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Champ_Car</WikiTitle> <WikiTitleID>225290</WikiTitleID> <RankerScore>0.5013416601734603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IndyCar</WikiTitle> <WikiTitleID>422318</WikiTitleID> <RankerScore>0.18949549020963735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Championship_Car_Racing</WikiTitle> <WikiTitleID>1515571</WikiTitleID> <RankerScore>0.04606994140565961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indy_Racing_League</WikiTitle> <WikiTitleID>226566</WikiTitleID> <RankerScore>0.2630929082112427</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>RACE</EntitySurfaceForm>
+	<EntityTextStart>55</EntityTextStart>
+	<EntityTextEnd>59</EntityTextEnd>
+	<LinkerScore>-0.05560620111739911</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>RACE</WikiTitle>
+		<WikiTitleID>907185</WikiTitleID>
+		<RankerScore>0.3420576473140128</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>RACE</WikiTitle> <WikiTitleID>907185</WikiTitleID> <RankerScore>0.3420576473140128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RACE_-_The_Official_WTCC_Game</WikiTitle> <WikiTitleID>7712177</WikiTitleID> <RankerScore>0.2140679184460681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Research_and_Development_in_Advanced_Communications_Technologies_in_Europe</WikiTitle> <WikiTitleID>1323794</WikiTitleID> <RankerScore>0.2556135044976109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rapid_Amplification_of_cDNA_Ends</WikiTitle> <WikiTitleID>1323803</WikiTitleID> <RankerScore>0.18826092974230835</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>VANCOUVER</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>70</EntityTextEnd>
+	<LinkerScore>1.0299404966191936</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vancouver</WikiTitle>
+		<WikiTitleID>32706</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	city	settlement	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vancouver</WikiTitle> <WikiTitleID>32706</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Vancouver</EntitySurfaceForm>
+	<EntityTextStart>119</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>0.1194983960850454</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vancouver</WikiTitle>
+		<WikiTitleID>32706</WikiTitleID>
+		<RankerScore>0.12876458215479214</RankerScore>
+		<Attributes>place	city	settlement	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vancouver</WikiTitle> <WikiTitleID>32706</WikiTitleID> <RankerScore>0.12876458215479214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver,_Washington</WikiTitle> <WikiTitleID>18592743</WikiTitleID> <RankerScore>0.05732845770128886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_(electoral_district)</WikiTitle> <WikiTitleID>1787648</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Canucks</WikiTitle> <WikiTitleID>73133</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_International_Airport</WikiTitle> <WikiTitleID>177015</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_mayors_of_Vancouver</WikiTitle> <WikiTitleID>207264</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Whitecaps_Residency</WikiTitle> <WikiTitleID>14685908</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Molson_Indy_Vancouver</WikiTitle> <WikiTitleID>5895286</WikiTitleID> <RankerScore>0.09818887564494626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metro_Vancouver</WikiTitle> <WikiTitleID>271067</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Vancouver</WikiTitle> <WikiTitleID>12867</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Canadians</WikiTitle> <WikiTitleID>736694</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Symphony_Orchestra</WikiTitle> <WikiTitleID>1453184</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Vancouver</WikiTitle> <WikiTitleID>5962982</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_International_Film_Festival</WikiTitle> <WikiTitleID>1029694</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinatown,_Vancouver</WikiTitle> <WikiTitleID>678337</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Ravens</WikiTitle> <WikiTitleID>246417</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_filming_locations_in_and_around_Vancouver</WikiTitle> <WikiTitleID>3072476</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_Whitecaps_(USL)</WikiTitle> <WikiTitleID>578697</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Port_of_Vancouver</WikiTitle> <WikiTitleID>4325080</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vancouver_City_(electoral_district)</WikiTitle> <WikiTitleID>3336078</WikiTitleID> <RankerScore>0.042101063794057224</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>IndyCar</EntitySurfaceForm>
+	<EntityTextStart>129</EntityTextStart>
+	<EntityTextEnd>136</EntityTextEnd>
+	<LinkerScore>0.2825701222565675</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Champ_Car</WikiTitle>
+		<WikiTitleID>225290</WikiTitleID>
+		<RankerScore>0.38175575586866967</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>IndyCar</WikiTitle> <WikiTitleID>422318</WikiTitleID> <RankerScore>0.19472192220611426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Champ_Car</WikiTitle> <WikiTitleID>225290</WikiTitleID> <RankerScore>0.38175575586866967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indy_Racing_League</WikiTitle> <WikiTitleID>226566</WikiTitleID> <RankerScore>0.2597484510286541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Championship_Car_Racing</WikiTitle> <WikiTitleID>1515571</WikiTitleID> <RankerScore>0.040943467724140446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IndyCar_Series</WikiTitle> <WikiTitleID>8511358</WikiTitleID> <RankerScore>0.040943467724140446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Automobile_Club</WikiTitle> <WikiTitleID>683035</WikiTitleID> <RankerScore>0.040943467724140446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_wheel_car</WikiTitle> <WikiTitleID>22450</WikiTitleID> <RankerScore>0.040943467724140446</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alex Zanardi</EntitySurfaceForm>
+	<EntityTextStart>252</EntityTextStart>
+	<EntityTextEnd>264</EntityTextEnd>
+	<LinkerScore>1.2401980664460444</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alex_Zanardi</WikiTitle>
+		<WikiTitleID>348734</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>driver	amputee	person	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alex_Zanardi</WikiTitle> <WikiTitleID>348734</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italy</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>271</EntityTextEnd>
+	<LinkerScore>0.32445694834664096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.11542668169743134</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.11542668169743134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.0668247328052469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.05255660067818612</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy_(1861–1946)</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Campaign_(World_War_II)</WikiTitle> <WikiTitleID>493696</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_basketball_team</WikiTitle> <WikiTitleID>1812201</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_baseball_team</WikiTitle> <WikiTitleID>4310517</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_cricket_team</WikiTitle> <WikiTitleID>2540447</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A_(basketball)</WikiTitle> <WikiTitleID>5715621</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_Davis_Cup_team</WikiTitle> <WikiTitleID>9988540</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_under-21_football_team</WikiTitle> <WikiTitleID>3867414</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Peninsula</WikiTitle> <WikiTitleID>378368</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2172188</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913796</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>306047</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italia_(Roman_Empire)</WikiTitle> <WikiTitleID>1873263</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Italy</WikiTitle> <WikiTitleID>2164851</WikiTitleID> <RankerScore>0.045011293224655045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>274</EntityTextStart>
+	<EntityTextEnd>281</EntityTextEnd>
+	<LinkerScore>1.2315589658975743</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8342534882501298</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8342534882501298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.16574651174987032</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Honda</EntitySurfaceForm>
+	<EntityTextStart>282</EntityTextStart>
+	<EntityTextEnd>287</EntityTextEnd>
+	<LinkerScore>0.32142254170811</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Honda</WikiTitle>
+		<WikiTitleID>13729</WikiTitleID>
+		<RankerScore>0.1931538747257333</RankerScore>
+		<Attributes>manufacturer	builder	company	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Honda</WikiTitle> <WikiTitleID>13729</WikiTitleID> <RankerScore>0.1931538747257333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_F1</WikiTitle> <WikiTitleID>3204171</WikiTitleID> <RankerScore>0.1268861701169156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda,_Tolima</WikiTitle> <WikiTitleID>2389099</WikiTitleID> <RankerScore>0.060397550922358746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_clan</WikiTitle> <WikiTitleID>13223744</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_motorcycles</WikiTitle> <WikiTitleID>2440036</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hiroto_Honda</WikiTitle> <WikiTitleID>830797</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>E._Honda</WikiTitle> <WikiTitleID>992099</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_CR-V</WikiTitle> <WikiTitleID>1211844</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_EV_Plus</WikiTitle> <WikiTitleID>2008350</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Tadakatsu</WikiTitle> <WikiTitleID>998499</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSR500</WikiTitle> <WikiTitleID>6353732</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSX</WikiTitle> <WikiTitleID>677927</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_RA099</WikiTitle> <WikiTitleID>12645723</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_transmissions</WikiTitle> <WikiTitleID>4196238</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_Corporation</WikiTitle> <WikiTitleID>6527836</WikiTitleID> <RankerScore>0.05163020035291603</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>kph</EntitySurfaceForm>
+	<EntityTextStart>318</EntityTextStart>
+	<EntityTextEnd>321</EntityTextEnd>
+	<LinkerScore>0.3982533471169807</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kilometres_per_hour</WikiTitle>
+		<WikiTitleID>662755</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kilometres_per_hour</WikiTitle> <WikiTitleID>662755</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Michael Andretti</EntitySurfaceForm>
+	<EntityTextStart>326</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>1.2495196020274453</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Michael_Andretti</WikiTitle>
+		<WikiTitleID>1048955</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>rookie	person	driver	sportspeople	hours	owner	alumnus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Michael_Andretti</WikiTitle> <WikiTitleID>1048955</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Andretti</EntitySurfaceForm>
+	<EntityTextStart>334</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>0.2128449253039206</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mario_Andretti</WikiTitle>
+		<WikiTitleID>271425</WikiTitleID>
+		<RankerScore>0.5806805910251248</RankerScore>
+		<Attributes>person	driver	hours	sportspeople	immigrant	twins	winner	rookie	citizen</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Marco_Andretti</WikiTitle> <WikiTitleID>3423448</WikiTitleID> <RankerScore>0.4193194089748752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mario_Andretti</WikiTitle> <WikiTitleID>271425</WikiTitleID> <RankerScore>0.5806805910251248</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lola</EntitySurfaceForm>
+	<EntityTextStart>351</EntityTextStart>
+	<EntityTextEnd>355</EntityTextEnd>
+	<LinkerScore>1.2109971194723166</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lola_Racing_Cars</WikiTitle>
+		<WikiTitleID>676392</WikiTitleID>
+		<RankerScore>0.4745961212635616</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lola_Racing_Cars</WikiTitle> <WikiTitleID>676392</WikiTitleID> <RankerScore>0.4745961212635616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(song)</WikiTitle> <WikiTitleID>1982071</WikiTitleID> <RankerScore>0.04174545346927345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1981_film)</WikiTitle> <WikiTitleID>2503448</WikiTitleID> <RankerScore>0.0391315906060917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1961_film)</WikiTitle> <WikiTitleID>7195808</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Granola</WikiTitle> <WikiTitleID>1473281</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MasterCard_Lola</WikiTitle> <WikiTitleID>3653506</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola,_Guinea</WikiTitle> <WikiTitleID>1587086</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(porn_star)</WikiTitle> <WikiTitleID>13762115</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(singer)</WikiTitle> <WikiTitleID>3010630</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(given_name)</WikiTitle> <WikiTitleID>17133013</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(hardware_description_language)</WikiTitle> <WikiTitleID>3181696</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Prefecture</WikiTitle> <WikiTitleID>2822737</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1969_film)</WikiTitle> <WikiTitleID>3551668</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Bunny</WikiTitle> <WikiTitleID>1458653</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charlie_and_Lola</WikiTitle> <WikiTitleID>2328363</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fantanas</WikiTitle> <WikiTitleID>2230066</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_language</WikiTitle> <WikiTitleID>10780779</WikiTitleID> <RankerScore>0.031751916761505225</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ford Cosworth</EntitySurfaceForm>
+	<EntityTextStart>356</EntityTextStart>
+	<EntityTextEnd>369</EntityTextEnd>
+	<LinkerScore>1.4069475479756903</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cosworth</WikiTitle>
+		<WikiTitleID>164104</WikiTitleID>
+		<RankerScore>0.8197192261563582</RankerScore>
+		<Attributes>company	car	manufacturer	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.8197192261563582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.18028077384364183</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ford</EntitySurfaceForm>
+	<EntityTextStart>356</EntityTextStart>
+	<EntityTextEnd>360</EntityTextEnd>
+	<LinkerScore>0.7218643260235812</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ford_Motor_Company</WikiTitle>
+		<WikiTitleID>11095</WikiTitleID>
+		<RankerScore>0.22706809963047578</RankerScore>
+		<Attributes>manufacturer	company	holder	business	maker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.22706809963047578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gerald_Ford</WikiTitle> <WikiTitleID>5030380</WikiTitleID> <RankerScore>0.04554639586951874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_of_Britain</WikiTitle> <WikiTitleID>3379611</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Foundation</WikiTitle> <WikiTitleID>92405</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BP_Ford_World_Rally_Team</WikiTitle> <WikiTitleID>11175992</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_County,_Illinois</WikiTitle> <WikiTitleID>96250</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Models</WikiTitle> <WikiTitleID>11244215</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company_of_Australia</WikiTitle> <WikiTitleID>757635</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_(crossing)</WikiTitle> <WikiTitleID>256757</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_railway_station</WikiTitle> <WikiTitleID>2661021</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_County,_Kansas</WikiTitle> <WikiTitleID>95722</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ford_(dramatist)</WikiTitle> <WikiTitleID>280735</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Henry_Ford</WikiTitle> <WikiTitleID>13371</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Northumberland</WikiTitle> <WikiTitleID>2721072</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Merseyside</WikiTitle> <WikiTitleID>2372844</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Prefect_(character)</WikiTitle> <WikiTitleID>79904</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_West_Sussex</WikiTitle> <WikiTitleID>3872103</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.11785412229959935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Shropshire</WikiTitle> <WikiTitleID>1359507</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aiden_Ford</WikiTitle> <WikiTitleID>1126184</WikiTitleID> <RankerScore>0.035854787188259185</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cosworth</EntitySurfaceForm>
+	<EntityTextStart>361</EntityTextStart>
+	<EntityTextEnd>369</EntityTextEnd>
+	<LinkerScore>1.5531422819266334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cosworth</WikiTitle>
+		<WikiTitleID>164104</WikiTitleID>
+		<RankerScore>0.8646127253075624</RankerScore>
+		<Attributes>company	car	manufacturer	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.8646127253075624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.13538727469243753</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bobby Rahal</EntitySurfaceForm>
+	<EntityTextStart>381</EntityTextStart>
+	<EntityTextEnd>392</EntityTextEnd>
+	<LinkerScore>1.2497151585261437</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bobby_Rahal</WikiTitle>
+		<WikiTitleID>693427</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	winner	owner	driver	hours	alumnus	executive</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bobby_Rahal</WikiTitle> <WikiTitleID>693427</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rahal</EntitySurfaceForm>
+	<EntityTextStart>387</EntityTextStart>
+	<EntityTextEnd>392</EntityTextEnd>
+	<LinkerScore>0.47011680736988426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bobby_Rahal</WikiTitle>
+		<WikiTitleID>693427</WikiTitleID>
+		<RankerScore>0.5800535150295143</RankerScore>
+		<Attributes>person	winner	owner	driver	hours	alumnus	executive</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bobby_Rahal</WikiTitle> <WikiTitleID>693427</WikiTitleID> <RankerScore>0.5800535150295143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rahal_Letterman_Racing</WikiTitle> <WikiTitleID>2007417</WikiTitleID> <RankerScore>0.41994648497048576</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>401</EntityTextStart>
+	<EntityTextEnd>408</EntityTextEnd>
+	<LinkerScore>1.0548692281309342</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8131661546057605</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8131661546057605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.18683384539423953</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mercedes-Benz</EntitySurfaceForm>
+	<EntityTextStart>409</EntityTextStart>
+	<EntityTextEnd>422</EntityTextEnd>
+	<LinkerScore>1.4214204529037058</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mercedes-Benz</WikiTitle>
+		<WikiTitleID>18564164</WikiTitleID>
+		<RankerScore>0.4368323291121742</RankerScore>
+		<Attributes>brand	company	maker	manufacturer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz</WikiTitle> <WikiTitleID>18564164</WikiTitleID> <RankerScore>0.4368323291121742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_buses</WikiTitle> <WikiTitleID>1814443</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_in_motorsport</WikiTitle> <WikiTitleID>8924136</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_600</WikiTitle> <WikiTitleID>501798</WikiTitleID> <RankerScore>0.09500436852807032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W123</WikiTitle> <WikiTitleID>1773703</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes_Benz_(song)</WikiTitle> <WikiTitleID>3342017</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W187</WikiTitle> <WikiTitleID>3294847</WikiTitleID> <RankerScore>0.08849352598669237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daimler-Benz</WikiTitle> <WikiTitleID>66209</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W220</WikiTitle> <WikiTitleID>1818751</WikiTitleID> <RankerScore>0.06327829606217718</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bryan Herta</EntitySurfaceForm>
+	<EntityTextStart>434</EntityTextStart>
+	<EntityTextEnd>445</EntityTextEnd>
+	<LinkerScore>1.1789991933061987</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bryan_Herta</WikiTitle>
+		<WikiTitleID>2283430</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>driver	person	owner	hours</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bryan_Herta</WikiTitle> <WikiTitleID>2283430</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bryan</EntitySurfaceForm>
+	<EntityTextStart>434</EntityTextStart>
+	<EntityTextEnd>439</EntityTextEnd>
+	<LinkerScore>-0.05627739705214091</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bryan,_Texas</WikiTitle>
+		<WikiTitleID>135554</WikiTitleID>
+		<RankerScore>0.07705692178507587</RankerScore>
+		<Attributes>city	place	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bryan,_Texas</WikiTitle> <WikiTitleID>135554</WikiTitleID> <RankerScore>0.07705692178507587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan,_Ohio</WikiTitle> <WikiTitleID>129961</WikiTitleID> <RankerScore>0.05594520814065173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_County,_Georgia</WikiTitle> <WikiTitleID>96820</WikiTitleID> <RankerScore>0.049114326738139674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_County,_Oklahoma</WikiTitle> <WikiTitleID>92113</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Glazer</WikiTitle> <WikiTitleID>1922080</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Jennings_Bryan</WikiTitle> <WikiTitleID>40608</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Guinness,_2nd_Baron_Moyne</WikiTitle> <WikiTitleID>203016</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Cousins</WikiTitle> <WikiTitleID>10366584</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Township,_Thurston_County,_Nebraska</WikiTitle> <WikiTitleID>16086662</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_Bryan</WikiTitle> <WikiTitleID>868221</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Robson</WikiTitle> <WikiTitleID>345428</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_O&apos;Loghlen</WikiTitle> <WikiTitleID>2969899</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goode_Bryan</WikiTitle> <WikiTitleID>5192320</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Township,_Surry_County,_North_Carolina</WikiTitle> <WikiTitleID>11293954</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Lunney</WikiTitle> <WikiTitleID>7349177</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Colangelo</WikiTitle> <WikiTitleID>4154509</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brother_Bryan</WikiTitle> <WikiTitleID>3423229</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Konietzko</WikiTitle> <WikiTitleID>5374185</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Foy</WikiTitle> <WikiTitleID>17142490</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bryan_Independent_School_District</WikiTitle> <WikiTitleID>6167567</WikiTitleID> <RankerScore>0.04811079666683134</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>454</EntityTextStart>
+	<EntityTextEnd>461</EntityTextEnd>
+	<LinkerScore>1.2138135762517301</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8285575542283914</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8285575542283914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.1714424457716087</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mercedes-Benz</EntitySurfaceForm>
+	<EntityTextStart>462</EntityTextStart>
+	<EntityTextEnd>475</EntityTextEnd>
+	<LinkerScore>1.330569691831692</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mercedes-Benz</WikiTitle>
+		<WikiTitleID>18564164</WikiTitleID>
+		<RankerScore>0.44535734787720144</RankerScore>
+		<Attributes>brand	company	maker	manufacturer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz</WikiTitle> <WikiTitleID>18564164</WikiTitleID> <RankerScore>0.44535734787720144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_buses</WikiTitle> <WikiTitleID>1814443</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_in_motorsport</WikiTitle> <WikiTitleID>8924136</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_600</WikiTitle> <WikiTitleID>501798</WikiTitleID> <RankerScore>0.1012557576419847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W123</WikiTitle> <WikiTitleID>1773703</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes_Benz_(song)</WikiTitle> <WikiTitleID>3342017</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W187</WikiTitle> <WikiTitleID>3294847</WikiTitleID> <RankerScore>0.09577032233814767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daimler-Benz</WikiTitle> <WikiTitleID>66209</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W220</WikiTitle> <WikiTitleID>1818751</WikiTitleID> <RankerScore>0.059602762023777685</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jimmy Vasser</EntitySurfaceForm>
+	<EntityTextStart>487</EntityTextStart>
+	<EntityTextEnd>499</EntityTextEnd>
+	<LinkerScore>1.253332733830362</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jimmy_Vasser</WikiTitle>
+		<WikiTitleID>1448545</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>owner	hours	driver	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jimmy_Vasser</WikiTitle> <WikiTitleID>1448545</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>508</EntityTextStart>
+	<EntityTextEnd>515</EntityTextEnd>
+	<LinkerScore>1.2946539810066569</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8622554732240147</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8622554732240147</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.13774452677598523</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Honda</EntitySurfaceForm>
+	<EntityTextStart>516</EntityTextStart>
+	<EntityTextEnd>521</EntityTextEnd>
+	<LinkerScore>0.380336021174148</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Honda</WikiTitle>
+		<WikiTitleID>13729</WikiTitleID>
+		<RankerScore>0.19547909286115084</RankerScore>
+		<Attributes>manufacturer	builder	company	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Honda</WikiTitle> <WikiTitleID>13729</WikiTitleID> <RankerScore>0.19547909286115084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_F1</WikiTitle> <WikiTitleID>3204171</WikiTitleID> <RankerScore>0.11659811603664882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda,_Tolima</WikiTitle> <WikiTitleID>2389099</WikiTitleID> <RankerScore>0.061143689900539054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_clan</WikiTitle> <WikiTitleID>13223744</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_motorcycles</WikiTitle> <WikiTitleID>2440036</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hiroto_Honda</WikiTitle> <WikiTitleID>830797</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>E._Honda</WikiTitle> <WikiTitleID>992099</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_CR-V</WikiTitle> <WikiTitleID>1211844</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_EV_Plus</WikiTitle> <WikiTitleID>2008350</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Tadakatsu</WikiTitle> <WikiTitleID>998499</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSR500</WikiTitle> <WikiTitleID>6353732</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSX</WikiTitle> <WikiTitleID>677927</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_RA099</WikiTitle> <WikiTitleID>12645723</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_transmissions</WikiTitle> <WikiTitleID>4196238</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_Corporation</WikiTitle> <WikiTitleID>6527836</WikiTitleID> <RankerScore>0.052231591766805106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paul Tracy</EntitySurfaceForm>
+	<EntityTextStart>533</EntityTextStart>
+	<EntityTextEnd>543</EntityTextEnd>
+	<LinkerScore>1.2409770805791969</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Paul_Tracy</WikiTitle>
+		<WikiTitleID>350364</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>driver	person	sportspeople</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paul_Tracy</WikiTitle> <WikiTitleID>350364</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Canada</EntitySurfaceForm>
+	<EntityTextStart>545</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>0.8762163588317712</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canada</WikiTitle>
+		<WikiTitleID>5042916</WikiTitleID>
+		<RankerScore>0.15713564939088093</RankerScore>
+		<Attributes>country	nation	colony	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Canada</WikiTitle> <WikiTitleID>5042916</WikiTitleID> <RankerScore>0.15713564939088093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>723688</WikiTitleID> <RankerScore>0.048208542527775684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_cricket_team</WikiTitle> <WikiTitleID>1880843</WikiTitleID> <RankerScore>0.050651251874568474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>744439</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_rugby_union_team</WikiTitle> <WikiTitleID>2221741</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_poetry</WikiTitle> <WikiTitleID>236279</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_literature</WikiTitle> <WikiTitleID>64803</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada,_New_France</WikiTitle> <WikiTitleID>1110101</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Canadian_Navy</WikiTitle> <WikiTitleID>293384</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_field_hockey_team</WikiTitle> <WikiTitleID>7135308</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Canada</WikiTitle> <WikiTitleID>2164824</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3384211</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>1818918</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_Canada</WikiTitle> <WikiTitleID>2041201</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>908649</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>5511269</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1329942</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7135890</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_trademark_law</WikiTitle> <WikiTitleID>3114217</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_Masters</WikiTitle> <WikiTitleID>1872219</WikiTitleID> <RankerScore>0.04376497389451617</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Penske</EntitySurfaceForm>
+	<EntityTextStart>554</EntityTextStart>
+	<EntityTextEnd>560</EntityTextEnd>
+	<LinkerScore>0.6871461395517481</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Penske_Racing</WikiTitle>
+		<WikiTitleID>2321219</WikiTitleID>
+		<RankerScore>0.5822129977230391</RankerScore>
+		<Attributes>motor	team	constructor	company	entrant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Penske_Racing</WikiTitle> <WikiTitleID>2321219</WikiTitleID> <RankerScore>0.5822129977230391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penske_Corporation</WikiTitle> <WikiTitleID>1748692</WikiTitleID> <RankerScore>0.19834625777442041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roger_Penske</WikiTitle> <WikiTitleID>1170016</WikiTitleID> <RankerScore>0.2194407445025404</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mercedes-Benz</EntitySurfaceForm>
+	<EntityTextStart>561</EntityTextStart>
+	<EntityTextEnd>574</EntityTextEnd>
+	<LinkerScore>0.9912532749207177</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mercedes-Benz</WikiTitle>
+		<WikiTitleID>18564164</WikiTitleID>
+		<RankerScore>0.4155550371311164</RankerScore>
+		<Attributes>brand	company	maker	manufacturer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz</WikiTitle> <WikiTitleID>18564164</WikiTitleID> <RankerScore>0.4155550371311164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_buses</WikiTitle> <WikiTitleID>1814443</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_in_motorsport</WikiTitle> <WikiTitleID>8924136</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_600</WikiTitle> <WikiTitleID>501798</WikiTitleID> <RankerScore>0.11209498293740441</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W123</WikiTitle> <WikiTitleID>1773703</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes_Benz_(song)</WikiTitle> <WikiTitleID>3342017</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W187</WikiTitle> <WikiTitleID>3294847</WikiTitleID> <RankerScore>0.10080315534595767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daimler-Benz</WikiTitle> <WikiTitleID>66209</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W220</WikiTitle> <WikiTitleID>1818751</WikiTitleID> <RankerScore>0.06192447076425357</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Al Unser</EntitySurfaceForm>
+	<EntityTextStart>586</EntityTextStart>
+	<EntityTextEnd>594</EntityTextEnd>
+	<LinkerScore>1.3020380179898263</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Unser</WikiTitle>
+		<WikiTitleID>734649</WikiTitleID>
+		<RankerScore>0.8633478543446823</RankerScore>
+		<Attributes>winner	driver	person	hours</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Al_Unser</WikiTitle> <WikiTitleID>734649</WikiTitleID> <RankerScore>0.8633478543446823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Unser_(baseball)</WikiTitle> <WikiTitleID>6980250</WikiTitleID> <RankerScore>0.13665214565531764</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Penske</EntitySurfaceForm>
+	<EntityTextStart>606</EntityTextStart>
+	<EntityTextEnd>612</EntityTextEnd>
+	<LinkerScore>0.6852362635220509</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Penske_Racing</WikiTitle>
+		<WikiTitleID>2321219</WikiTitleID>
+		<RankerScore>0.6035377863849722</RankerScore>
+		<Attributes>motor	team	constructor	company	entrant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Penske_Racing</WikiTitle> <WikiTitleID>2321219</WikiTitleID> <RankerScore>0.6035377863849722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penske_Corporation</WikiTitle> <WikiTitleID>1748692</WikiTitleID> <RankerScore>0.1690009136701019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roger_Penske</WikiTitle> <WikiTitleID>1170016</WikiTitleID> <RankerScore>0.22746129994492592</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mercedes-Benz</EntitySurfaceForm>
+	<EntityTextStart>613</EntityTextStart>
+	<EntityTextEnd>626</EntityTextEnd>
+	<LinkerScore>1.2452899750806068</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mercedes-Benz</WikiTitle>
+		<WikiTitleID>18564164</WikiTitleID>
+		<RankerScore>0.4287185502936149</RankerScore>
+		<Attributes>brand	company	maker	manufacturer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz</WikiTitle> <WikiTitleID>18564164</WikiTitleID> <RankerScore>0.4287185502936149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_buses</WikiTitle> <WikiTitleID>1814443</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_in_motorsport</WikiTitle> <WikiTitleID>8924136</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_600</WikiTitle> <WikiTitleID>501798</WikiTitleID> <RankerScore>0.09767779296109809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W123</WikiTitle> <WikiTitleID>1773703</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes_Benz_(song)</WikiTitle> <WikiTitleID>3342017</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W187</WikiTitle> <WikiTitleID>3294847</WikiTitleID> <RankerScore>0.09011675462452713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Daimler-Benz</WikiTitle> <WikiTitleID>66209</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercedes-Benz_W220</WikiTitle> <WikiTitleID>1818751</WikiTitleID> <RankerScore>0.06391448368679332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Andre Ribeiro</EntitySurfaceForm>
+	<EntityTextStart>638</EntityTextStart>
+	<EntityTextEnd>651</EntityTextEnd>
+	<LinkerScore>1.0045095866466163</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>André_Ribeiro</WikiTitle>
+		<WikiTitleID>5421344</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>André_Ribeiro</WikiTitle> <WikiTitleID>5421344</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Brazil</EntitySurfaceForm>
+	<EntityTextStart>653</EntityTextStart>
+	<EntityTextEnd>659</EntityTextEnd>
+	<LinkerScore>0.7088824797941429</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil</WikiTitle>
+		<WikiTitleID>3383</WikiTitleID>
+		<RankerScore>0.14289424007265206</RankerScore>
+		<Attributes>dispute	country	nation	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.14289424007265206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_football_team</WikiTitle> <WikiTitleID>149286</WikiTitleID> <RankerScore>0.06750754136783607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(film)</WikiTitle> <WikiTitleID>74537</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Brazil</WikiTitle> <WikiTitleID>269405</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Brasil</WikiTitle> <WikiTitleID>2244396</WikiTitleID> <RankerScore>0.06999553321283669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2343221</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_basketball_team</WikiTitle> <WikiTitleID>3806059</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>921663</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil,_Indiana</WikiTitle> <WikiTitleID>112165</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Brazil</WikiTitle> <WikiTitleID>2164819</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aquarela_do_Brasil</WikiTitle> <WikiTitleID>2328873</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_Brazil</WikiTitle> <WikiTitleID>1287137</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Brazil</WikiTitle> <WikiTitleID>3636</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Brazil</WikiTitle> <WikiTitleID>42534</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2006_Lusophony_Games</WikiTitle> <WikiTitleID>7292925</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>8278138</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(band)</WikiTitle> <WikiTitleID>7519411</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_rugby_union_team</WikiTitle> <WikiTitleID>4929439</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_Davis_Cup_team</WikiTitle> <WikiTitleID>9989179</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazilian_Navy</WikiTitle> <WikiTitleID>972693</WikiTitleID> <RankerScore>0.04232956972627501</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lola</EntitySurfaceForm>
+	<EntityTextStart>662</EntityTextStart>
+	<EntityTextEnd>666</EntityTextEnd>
+	<LinkerScore>0.647240766348824</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lola_Racing_Cars</WikiTitle>
+		<WikiTitleID>676392</WikiTitleID>
+		<RankerScore>0.3016505071878504</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lola_Racing_Cars</WikiTitle> <WikiTitleID>676392</WikiTitleID> <RankerScore>0.3016505071878504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(song)</WikiTitle> <WikiTitleID>1982071</WikiTitleID> <RankerScore>0.055486678795731666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1981_film)</WikiTitle> <WikiTitleID>2503448</WikiTitleID> <RankerScore>0.0520124185577345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1961_film)</WikiTitle> <WikiTitleID>7195808</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Granola</WikiTitle> <WikiTitleID>1473281</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MasterCard_Lola</WikiTitle> <WikiTitleID>3653506</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola,_Guinea</WikiTitle> <WikiTitleID>1587086</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(porn_star)</WikiTitle> <WikiTitleID>13762115</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(singer)</WikiTitle> <WikiTitleID>3010630</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(given_name)</WikiTitle> <WikiTitleID>17133013</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(hardware_description_language)</WikiTitle> <WikiTitleID>3181696</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Prefecture</WikiTitle> <WikiTitleID>2822737</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_(1969_film)</WikiTitle> <WikiTitleID>3551668</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_Bunny</WikiTitle> <WikiTitleID>1458653</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charlie_and_Lola</WikiTitle> <WikiTitleID>2328363</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fantanas</WikiTitle> <WikiTitleID>2230066</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lola_language</WikiTitle> <WikiTitleID>10780779</WikiTitleID> <RankerScore>0.04220359967562025</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Honda</EntitySurfaceForm>
+	<EntityTextStart>667</EntityTextStart>
+	<EntityTextEnd>672</EntityTextEnd>
+	<LinkerScore>0.37300437520756136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Honda</WikiTitle>
+		<WikiTitleID>13729</WikiTitleID>
+		<RankerScore>0.19410298936336481</RankerScore>
+		<Attributes>manufacturer	builder	company	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Honda</WikiTitle> <WikiTitleID>13729</WikiTitleID> <RankerScore>0.19410298936336481</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_F1</WikiTitle> <WikiTitleID>3204171</WikiTitleID> <RankerScore>0.12243640467610432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda,_Tolima</WikiTitle> <WikiTitleID>2389099</WikiTitleID> <RankerScore>0.06085528436723939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_clan</WikiTitle> <WikiTitleID>13223744</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_motorcycles</WikiTitle> <WikiTitleID>2440036</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hiroto_Honda</WikiTitle> <WikiTitleID>830797</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>E._Honda</WikiTitle> <WikiTitleID>992099</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_CR-V</WikiTitle> <WikiTitleID>1211844</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_EV_Plus</WikiTitle> <WikiTitleID>2008350</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Tadakatsu</WikiTitle> <WikiTitleID>998499</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSR500</WikiTitle> <WikiTitleID>6353732</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSX</WikiTitle> <WikiTitleID>677927</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_RA099</WikiTitle> <WikiTitleID>12645723</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_transmissions</WikiTitle> <WikiTitleID>4196238</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_Corporation</WikiTitle> <WikiTitleID>6527836</WikiTitleID> <RankerScore>0.05188377679944096</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mauricio Gugelmin</EntitySurfaceForm>
+	<EntityTextStart>684</EntityTextStart>
+	<EntityTextEnd>701</EntityTextEnd>
+	<LinkerScore>1.1459548591619155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mauricio_Gugelmin</WikiTitle>
+		<WikiTitleID>1226502</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	driver</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mauricio_Gugelmin</WikiTitle> <WikiTitleID>1226502</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Brazil</EntitySurfaceForm>
+	<EntityTextStart>703</EntityTextStart>
+	<EntityTextEnd>709</EntityTextEnd>
+	<LinkerScore>0.7289637947885192</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil</WikiTitle>
+		<WikiTitleID>3383</WikiTitleID>
+		<RankerScore>0.1454905858583925</RankerScore>
+		<Attributes>dispute	country	nation	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.1454905858583925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_football_team</WikiTitle> <WikiTitleID>149286</WikiTitleID> <RankerScore>0.06910695108646453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(film)</WikiTitle> <WikiTitleID>74537</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Brazil</WikiTitle> <WikiTitleID>269405</WikiTitleID> <RankerScore>0.06002913565427909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Brasil</WikiTitle> <WikiTitleID>2244396</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2343221</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_basketball_team</WikiTitle> <WikiTitleID>3806059</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>921663</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil,_Indiana</WikiTitle> <WikiTitleID>112165</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Brazil</WikiTitle> <WikiTitleID>2164819</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aquarela_do_Brasil</WikiTitle> <WikiTitleID>2328873</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_Brazil</WikiTitle> <WikiTitleID>1287137</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Brazil</WikiTitle> <WikiTitleID>3636</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Brazil</WikiTitle> <WikiTitleID>42534</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2006_Lusophony_Games</WikiTitle> <WikiTitleID>7292925</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>8278138</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(band)</WikiTitle> <WikiTitleID>7519411</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_rugby_union_team</WikiTitle> <WikiTitleID>4929439</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_Davis_Cup_team</WikiTitle> <WikiTitleID>9989179</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazilian_Navy</WikiTitle> <WikiTitleID>972693</WikiTitleID> <RankerScore>0.04266901925887434</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>712</EntityTextStart>
+	<EntityTextEnd>719</EntityTextEnd>
+	<LinkerScore>0.9054564536455104</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8058466433733291</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8058466433733291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.1941533566266709</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ford</EntitySurfaceForm>
+	<EntityTextStart>720</EntityTextStart>
+	<EntityTextEnd>724</EntityTextEnd>
+	<LinkerScore>1.2105232817158085</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ford_Motor_Company</WikiTitle>
+		<WikiTitleID>11095</WikiTitleID>
+		<RankerScore>0.24159130162487752</RankerScore>
+		<Attributes>manufacturer	company	holder	business	maker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.24159130162487752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gerald_Ford</WikiTitle> <WikiTitleID>5030380</WikiTitleID> <RankerScore>0.03827368191591316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_of_Britain</WikiTitle> <WikiTitleID>3379611</WikiTitleID> <RankerScore>0.04158056599811705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Foundation</WikiTitle> <WikiTitleID>92405</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BP_Ford_World_Rally_Team</WikiTitle> <WikiTitleID>11175992</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_County,_Illinois</WikiTitle> <WikiTitleID>96250</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Models</WikiTitle> <WikiTitleID>11244215</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company_of_Australia</WikiTitle> <WikiTitleID>757635</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_(crossing)</WikiTitle> <WikiTitleID>256757</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_railway_station</WikiTitle> <WikiTitleID>2661021</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_County,_Kansas</WikiTitle> <WikiTitleID>95722</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Ford_(dramatist)</WikiTitle> <WikiTitleID>280735</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Henry_Ford</WikiTitle> <WikiTitleID>13371</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Northumberland</WikiTitle> <WikiTitleID>2721072</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Merseyside</WikiTitle> <WikiTitleID>2372844</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Prefect_(character)</WikiTitle> <WikiTitleID>79904</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_West_Sussex</WikiTitle> <WikiTitleID>3872103</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford,_Shropshire</WikiTitle> <WikiTitleID>1359507</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aiden_Ford</WikiTitle> <WikiTitleID>1126184</WikiTitleID> <RankerScore>0.03991496767418189</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ford Cosworth</EntitySurfaceForm>
+	<EntityTextStart>720</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>1.3375288857480028</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cosworth</WikiTitle>
+		<WikiTitleID>164104</WikiTitleID>
+		<RankerScore>0.7671341559355367</RankerScore>
+		<Attributes>company	car	manufacturer	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.7671341559355367</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.23286584406446328</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cosworth</EntitySurfaceForm>
+	<EntityTextStart>725</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>1.4560078436107515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cosworth</WikiTitle>
+		<WikiTitleID>164104</WikiTitleID>
+		<RankerScore>0.8247145194391615</RankerScore>
+		<Attributes>company	car	manufacturer	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cosworth</WikiTitle> <WikiTitleID>164104</WikiTitleID> <RankerScore>0.8247145194391615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Motor_Company</WikiTitle> <WikiTitleID>11095</WikiTitleID> <RankerScore>0.17528548056083854</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gil de Ferran</EntitySurfaceForm>
+	<EntityTextStart>746</EntityTextStart>
+	<EntityTextEnd>759</EntityTextEnd>
+	<LinkerScore>1.2048113229287745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gil_de_Ferran</WikiTitle>
+		<WikiTitleID>1442773</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>expatriate	driver	owner	person	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gil_de_Ferran</WikiTitle> <WikiTitleID>1442773</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Brazil</EntitySurfaceForm>
+	<EntityTextStart>761</EntityTextStart>
+	<EntityTextEnd>767</EntityTextEnd>
+	<LinkerScore>0.7315020671903105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brazil</WikiTitle>
+		<WikiTitleID>3383</WikiTitleID>
+		<RankerScore>0.1454847684453338</RankerScore>
+		<Attributes>dispute	country	nation	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brazil</WikiTitle> <WikiTitleID>3383</WikiTitleID> <RankerScore>0.1454847684453338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_football_team</WikiTitle> <WikiTitleID>149286</WikiTitleID> <RankerScore>0.06933592618356027</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(film)</WikiTitle> <WikiTitleID>74537</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Brazil</WikiTitle> <WikiTitleID>269405</WikiTitleID> <RankerScore>0.05990681087383347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Brasil</WikiTitle> <WikiTitleID>2244396</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2343221</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_basketball_team</WikiTitle> <WikiTitleID>3806059</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>921663</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil,_Indiana</WikiTitle> <WikiTitleID>112165</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Brazil</WikiTitle> <WikiTitleID>2164819</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aquarela_do_Brasil</WikiTitle> <WikiTitleID>2328873</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Literature_of_Brazil</WikiTitle> <WikiTitleID>1287137</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Brazil</WikiTitle> <WikiTitleID>3636</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Brazil</WikiTitle> <WikiTitleID>42534</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_at_the_2006_Lusophony_Games</WikiTitle> <WikiTitleID>7292925</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>8278138</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_(band)</WikiTitle> <WikiTitleID>7519411</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_national_rugby_union_team</WikiTitle> <WikiTitleID>4929439</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazil_Davis_Cup_team</WikiTitle> <WikiTitleID>9989179</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brazilian_Navy</WikiTitle> <WikiTitleID>972693</WikiTitleID> <RankerScore>0.04266308791160426</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reynard</EntitySurfaceForm>
+	<EntityTextStart>770</EntityTextStart>
+	<EntityTextEnd>777</EntityTextEnd>
+	<LinkerScore>1.092414341941959</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reynard_Motorsport</WikiTitle>
+		<WikiTitleID>2247953</WikiTitleID>
+		<RankerScore>0.8116106092967138</RankerScore>
+		<Attributes>company	constructor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reynard_Motorsport</WikiTitle> <WikiTitleID>2247953</WikiTitleID> <RankerScore>0.8116106092967138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reynard</WikiTitle> <WikiTitleID>320529</WikiTitleID> <RankerScore>0.1883893907032862</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Honda</EntitySurfaceForm>
+	<EntityTextStart>778</EntityTextStart>
+	<EntityTextEnd>783</EntityTextEnd>
+	<LinkerScore>0.3713360303809876</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Honda</WikiTitle>
+		<WikiTitleID>13729</WikiTitleID>
+		<RankerScore>0.18896937162745314</RankerScore>
+		<Attributes>manufacturer	builder	company	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Honda</WikiTitle> <WikiTitleID>13729</WikiTitleID> <RankerScore>0.18896937162745314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_F1</WikiTitle> <WikiTitleID>3204171</WikiTitleID> <RankerScore>0.11895517650637392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda,_Tolima</WikiTitle> <WikiTitleID>2389099</WikiTitleID> <RankerScore>0.061606362266950404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_clan</WikiTitle> <WikiTitleID>13223744</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_motorcycles</WikiTitle> <WikiTitleID>2440036</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hiroto_Honda</WikiTitle> <WikiTitleID>830797</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>E._Honda</WikiTitle> <WikiTitleID>992099</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_CR-V</WikiTitle> <WikiTitleID>1211844</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_EV_Plus</WikiTitle> <WikiTitleID>2008350</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Tadakatsu</WikiTitle> <WikiTitleID>998499</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSR500</WikiTitle> <WikiTitleID>6353732</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_NSX</WikiTitle> <WikiTitleID>677927</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_RA099</WikiTitle> <WikiTitleID>12645723</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Honda_transmissions</WikiTitle> <WikiTitleID>4196238</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Racing_Corporation</WikiTitle> <WikiTitleID>6527836</WikiTitleID> <RankerScore>0.052539090799935205</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

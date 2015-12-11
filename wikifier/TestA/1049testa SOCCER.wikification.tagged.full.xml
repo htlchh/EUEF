@@ -1,0 +1,461 @@
+<WikifierOutput>
+<InputFilename>
+1049testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- ISRAEL BEAT BULGARIA IN EUROPEAN UNDER-21 QUALIFIER.
+HERZLIYA, Israel 1996-08-31
+Result of European under-21 championship group 5 qualifier on Saturday:
+Israel 2, Bulgaria 0( halftime 0-0) Scorers: Haim Hajaj( 47th), Nir Sivilia( 57th).
+Attendance: 2,000.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>ISRAEL</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>14</EntityTextEnd>
+	<LinkerScore>0.9286368995810276</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BULGARIA</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>0.960912440837996</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bulgaria_men&apos;s_national_volleyball_team</WikiTitle>
+		<WikiTitleID>7999155</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bulgaria_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>7999155</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>EUROPEAN UNDER-21</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>UEFA_European_Under-21_Football_Championship</WikiTitle>
+		<WikiTitleID>2848921</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>59</EntityTextEnd>
+	<LinkerScore>0.7286071554985398</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle>
+		<WikiTitleID>1033640</WikiTitleID>
+		<RankerScore>0.7228044772214234</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_modifier</WikiTitle> <WikiTitleID>210058</WikiTitleID> <RankerScore>0.2771955227785765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle> <WikiTitleID>1033640</WikiTitleID> <RankerScore>0.7228044772214234</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>HERZLIYA</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>1.1585552904297156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Herzliya</WikiTitle>
+		<WikiTitleID>313915</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Herzliya</WikiTitle> <WikiTitleID>313915</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>HERZLIYA, Israel</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.9667279153964882</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Herzliya</WikiTitle>
+		<WikiTitleID>313915</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Herzliya</WikiTitle> <WikiTitleID>313915</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israel</EntitySurfaceForm>
+	<EntityTextStart>71</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.748056616753094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.28796333636452254</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.28796333636452254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.08730201564726758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelites</WikiTitle> <WikiTitleID>52949</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_ancient_Israel_and_Judah</WikiTitle> <WikiTitleID>13876</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_cricket_team</WikiTitle> <WikiTitleID>4399971</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_Israel</WikiTitle> <WikiTitleID>241687</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Children_of_Israel</WikiTitle> <WikiTitleID>171083</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_under-21_football_team</WikiTitle> <WikiTitleID>6077360</WikiTitleID> <RankerScore>0.06811828847858045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_basketball_team</WikiTitle> <WikiTitleID>3185828</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob</WikiTitle> <WikiTitleID>16118</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(singer)</WikiTitle> <WikiTitleID>1553519</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(song)</WikiTitle> <WikiTitleID>6047482</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_wine</WikiTitle> <WikiTitleID>4049975</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Israel</WikiTitle> <WikiTitleID>8051466</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Fed_Cup_team</WikiTitle> <WikiTitleID>10824621</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Davis_Cup_team</WikiTitle> <WikiTitleID>10023506</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.032742138794684086</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>European under-21</EntitySurfaceForm>
+	<EntityTextStart>99</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>UEFA_European_Under-21_Football_Championship</WikiTitle>
+		<WikiTitleID>2848921</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>European under-21 championship</EntitySurfaceForm>
+	<EntityTextStart>99</EntityTextStart>
+	<EntityTextEnd>129</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>UEFA_European_Under-21_Football_Championship</WikiTitle>
+		<WikiTitleID>2848921</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>under-21</EntitySurfaceForm>
+	<EntityTextStart>108</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>0.20139779176466932</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Portugal_national_under-21_football_team</WikiTitle>
+		<WikiTitleID>3924136</WikiTitleID>
+		<RankerScore>0.14076895083917879</RankerScore>
+		<Attributes>team	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.07637788107977352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scotland_national_under-21_football_team</WikiTitle> <WikiTitleID>4683429</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_under-21_national_football_team</WikiTitle> <WikiTitleID>6476710</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wales_national_under-21_football_team</WikiTitle> <WikiTitleID>5082938</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norway_national_under-21_football_team</WikiTitle> <WikiTitleID>3142572</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIBA_Under-21_World_Championship</WikiTitle> <WikiTitleID>10229893</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portugal_national_under-21_football_team</WikiTitle> <WikiTitleID>3924136</WikiTitleID> <RankerScore>0.14076895083917879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All-Ireland_Under_21_Hurling_Championship</WikiTitle> <WikiTitleID>6141965</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_under-21_football_team</WikiTitle> <WikiTitleID>3461248</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbia_national_under-21_football_team</WikiTitle> <WikiTitleID>5955349</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_under-21_football_team</WikiTitle> <WikiTitleID>3313708</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_national_under-21_football_team</WikiTitle> <WikiTitleID>10847769</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_under-21_football_team</WikiTitle> <WikiTitleID>3502299</WikiTitleID> <RankerScore>0.0913877722219259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>All-Ireland_Under_21_Football_Championship</WikiTitle> <WikiTitleID>6141991</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croatia_national_under-21_football_team</WikiTitle> <WikiTitleID>3234497</WikiTitleID> <RankerScore>0.05762211632159348</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Israel</EntitySurfaceForm>
+	<EntityTextStart>161</EntityTextStart>
+	<EntityTextEnd>167</EntityTextEnd>
+	<LinkerScore>0.5814948853675803</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Israel</WikiTitle>
+		<WikiTitleID>9282173</WikiTitleID>
+		<RankerScore>0.2612461888950823</RankerScore>
+		<Attributes>republic	country	state	words</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Israel</WikiTitle> <WikiTitleID>9282173</WikiTitleID> <RankerScore>0.2612461888950823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_football_team</WikiTitle> <WikiTitleID>769536</WikiTitleID> <RankerScore>0.09532008609176994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelites</WikiTitle> <WikiTitleID>52949</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_ancient_Israel_and_Judah</WikiTitle> <WikiTitleID>13876</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_cricket_team</WikiTitle> <WikiTitleID>4399971</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_of_Israel</WikiTitle> <WikiTitleID>241687</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Children_of_Israel</WikiTitle> <WikiTitleID>171083</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_under-21_football_team</WikiTitle> <WikiTitleID>6077360</WikiTitleID> <RankerScore>0.07313402772174836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Israel</WikiTitle> <WikiTitleID>8561774</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_national_basketball_team</WikiTitle> <WikiTitleID>3185828</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob</WikiTitle> <WikiTitleID>16118</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(singer)</WikiTitle> <WikiTitleID>1553519</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_literature</WikiTitle> <WikiTitleID>524317</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israelis</WikiTitle> <WikiTitleID>181296</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_(song)</WikiTitle> <WikiTitleID>6047482</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_wine</WikiTitle> <WikiTitleID>4049975</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Israel</WikiTitle> <WikiTitleID>8051466</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Fed_Cup_team</WikiTitle> <WikiTitleID>10824621</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Davis_Cup_team</WikiTitle> <WikiTitleID>10023506</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Defense_Forces</WikiTitle> <WikiTitleID>39237</WikiTitleID> <RankerScore>0.03354704101714115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bulgaria</EntitySurfaceForm>
+	<EntityTextStart>171</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>0.5143333048746923</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bulgaria</WikiTitle>
+		<WikiTitleID>3415</WikiTitleID>
+		<RankerScore>0.1708583368363166</RankerScore>
+		<Attributes>state	monarchy	country	empire	member	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bulgaria</WikiTitle> <WikiTitleID>3415</WikiTitleID> <RankerScore>0.1708583368363166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_national_football_team</WikiTitle> <WikiTitleID>679770</WikiTitleID> <RankerScore>0.06346507877701815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Bulgaria</WikiTitle> <WikiTitleID>3612475</WikiTitleID> <RankerScore>0.04731697375553523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Principality_of_Bulgaria</WikiTitle> <WikiTitleID>3612476</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Bulgarian_Empire</WikiTitle> <WikiTitleID>2843773</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_molluscs_recorded_in_Bulgaria</WikiTitle> <WikiTitleID>15172685</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Bulgaria_(1878–1946)</WikiTitle> <WikiTitleID>2843771</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_national_basketball_team</WikiTitle> <WikiTitleID>2858612</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Republic_of_Bulgaria</WikiTitle> <WikiTitleID>2339372</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Bulgarian_Empire</WikiTitle> <WikiTitleID>2843775</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>919425</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_history_of_Bulgaria_during_World_War_II</WikiTitle> <WikiTitleID>4026196</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_national_under-21_football_team</WikiTitle> <WikiTitleID>6872188</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgarian_Orthodox_Church</WikiTitle> <WikiTitleID>1168730</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Bulgaria</WikiTitle> <WikiTitleID>3673</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Bulgaria</WikiTitle> <WikiTitleID>1856141</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Communist_Bulgaria</WikiTitle> <WikiTitleID>12199897</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Bulgaria</WikiTitle> <WikiTitleID>42542</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_national_rugby_union_team</WikiTitle> <WikiTitleID>5833588</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulgaria_men&apos;s_national_volleyball_team</WikiTitle> <WikiTitleID>7999155</WikiTitleID> <RankerScore>0.042256447684184115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nir</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>-0.3181248918105711</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nir_Davidovich</WikiTitle>
+		<WikiTitleID>794609</WikiTitleID>
+		<RankerScore>0.5488610904648678</RankerScore>
+		<Attributes>person	player	footballer	goalkeeper	jew</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nīr</WikiTitle> <WikiTitleID>14660174</WikiTitleID> <RankerScore>0.45113890953513236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nir_Davidovich</WikiTitle> <WikiTitleID>794609</WikiTitleID> <RankerScore>0.5488610904648678</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nir Sivilia</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nir_Sivilia</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>player	footballer	person	jew</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

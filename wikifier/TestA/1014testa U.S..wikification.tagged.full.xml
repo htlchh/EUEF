@@ -1,0 +1,400 @@
+<WikifierOutput>
+<InputFilename>
+1014testa U.S.
+</InputFilename>
+<InputText>
+U.S. Gulf rig down by one to 162 in week.
+NEW YORK 1996-08-30
+There were 162 rigs under contract in the U.S. Gulf as of August 30, down one from the prior week, Offshore Data Services said.
+The utilization rate for rigs working in the Gulf, based on a total fleet of 181, was 89.5 percent.
+The number of working rigs in European/ Mediterranean remained unchanged this week, with 105 rigs under contract out of a total fleet of 105, a utilization rate of 100 percent.
+The worldwide rig count fell by one to 554 out of a total fleet of 608, making the utilization rate 91.1 percent.-- New York Energy Desk 212-859-1620
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>4</EntityTextEnd>
+	<LinkerScore>0.450292352563699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.1274506067831624</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.1274506067831624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.05834769161368432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.0534446992879116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.044750411900896576</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>42</EntityTextStart>
+	<EntityTextEnd>50</EntityTextEnd>
+	<LinkerScore>0.46001651014148853</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.13944890694943196</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.13944890694943196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.0674898965438268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.04963167744863275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.043731148179888726</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>104</EntityTextStart>
+	<EntityTextEnd>108</EntityTextEnd>
+	<LinkerScore>0.39464693432316283</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.11846891650698564</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.11846891650698564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.057200031169006495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.058448231161993935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.04505193065658905</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 30</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>129</EntityTextEnd>
+	<LinkerScore>0.9773177466998294</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_30</WikiTitle>
+		<WikiTitleID>1794</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_30</WikiTitle> <WikiTitleID>1794</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>utilization rate</EntitySurfaceForm>
+	<EntityTextStart>194</EntityTextStart>
+	<EntityTextEnd>210</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Utilization_rate</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>181</EntitySurfaceForm>
+	<EntityTextStart>267</EntityTextStart>
+	<EntityTextEnd>270</EntityTextEnd>
+	<LinkerScore>0.3136022907608471</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>181_(number)</WikiTitle>
+		<WikiTitleID>2290337</WikiTitleID>
+		<RankerScore>0.1471273118909865</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>181</WikiTitle> <WikiTitleID>43789</WikiTitleID> <RankerScore>0.14397877209270768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>181_Union_City-New_York</WikiTitle> <WikiTitleID>9247404</WikiTitleID> <RankerScore>0.13573805022007224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>181_(number)</WikiTitle> <WikiTitleID>2290337</WikiTitleID> <RankerScore>0.1471273118909865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>181_BC</WikiTitle> <WikiTitleID>61690</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_181</WikiTitle> <WikiTitleID>8531219</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Langenburg_No._181,_Saskatchewan</WikiTitle> <WikiTitleID>16647545</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CIE_181_Class</WikiTitle> <WikiTitleID>1262805</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_New_Jersey_Transit_bus_routes_(100-199)</WikiTitle> <WikiTitleID>9124883</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_181</WikiTitle> <WikiTitleID>3263768</WikiTitleID> <RankerScore>0.0955259776327056</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>utilization rate</EntitySurfaceForm>
+	<EntityTextStart>434</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Utilization_rate</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>554</EntitySurfaceForm>
+	<EntityTextStart>506</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>0.23340829757212256</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>554</WikiTitle>
+		<WikiTitleID>35710</WikiTitleID>
+		<RankerScore>0.3687798255872069</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>554</WikiTitle> <WikiTitleID>35710</WikiTitleID> <RankerScore>0.3687798255872069</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_New_Jersey_Transit_bus_routes_(550-599)</WikiTitle> <WikiTitleID>9162326</WikiTitleID> <RankerScore>0.16399820679591318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_554</WikiTitle> <WikiTitleID>3426101</WikiTitleID> <RankerScore>0.1571714232645624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>500_(number)</WikiTitle> <WikiTitleID>463981</WikiTitleID> <RankerScore>0.15502527217615875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>550s_BC</WikiTitle> <WikiTitleID>40177</WikiTitleID> <RankerScore>0.15502527217615875</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>608</EntitySurfaceForm>
+	<EntityTextStart>534</EntityTextStart>
+	<EntityTextEnd>537</EntityTextEnd>
+	<LinkerScore>0.29734025324871555</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>608</WikiTitle>
+		<WikiTitleID>35398</WikiTitleID>
+		<RankerScore>0.31513905759453475</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>608</WikiTitle> <WikiTitleID>35398</WikiTitleID> <RankerScore>0.31513905759453475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>600s_BC</WikiTitle> <WikiTitleID>51344</WikiTitleID> <RankerScore>0.1398773524727571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>600s_in_Ireland</WikiTitle> <WikiTitleID>17632930</WikiTitleID> <RankerScore>0.13088858131061004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_code_608</WikiTitle> <WikiTitleID>2482288</WikiTitleID> <RankerScore>0.13803166954069937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_608</WikiTitle> <WikiTitleID>3416263</WikiTitleID> <RankerScore>0.13803166954069937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Airlines_Flight_608</WikiTitle> <WikiTitleID>11311235</WikiTitleID> <RankerScore>0.13803166954069937</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>utilization rate</EntitySurfaceForm>
+	<EntityTextStart>550</EntityTextStart>
+	<EntityTextEnd>566</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Utilization_rate</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

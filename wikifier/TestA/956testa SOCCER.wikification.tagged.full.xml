@@ -1,0 +1,563 @@
+<WikifierOutput>
+<InputFilename>
+956testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- RESULTS OF SOUTH KOREAN PRO-SOCCER GAMES.
+SEOUL 1996-08-30
+Results of South Korean pro-soccer
+games played on Thursday.
+Pohang 3 Ulsan 2( halftime 1-0)
+Puchon 2 Chonbuk 1( halftime 1-1)
+Standings after games played on Thursday( tabulate under-
+won, drawn, lost, goals for, goals against, points):
+W D L G/ F G/ A P
+Puchon 3 1 0 6 1 10
+Chonan 3 0 1 13 10 9
+Pohang 2 1 1 11 10 7
+Suwan 1 3 0 7 3 6
+Ulsan 1 0 2 8 9 3
+Anyang 0 3 1 6 9 3
+Chonnam 0 2 1 4 5 2
+Pusan 0 2 1 3 7 2
+Chonbuk 0 0 3 3 7 0
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>SOUTH KOREAN</EntitySurfaceForm>
+	<EntityTextStart>19</EntityTextStart>
+	<EntityTextEnd>31</EntityTextEnd>
+	<LinkerScore>1.1474745880861468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.5885147843108132</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.5885147843108132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Korea</WikiTitle> <WikiTitleID>506680</WikiTitleID> <RankerScore>0.08819008151090595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.1505389975550684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Republic_national_football_team</WikiTitle> <WikiTitleID>1018627</WikiTitleID> <RankerScore>0.043189034155803115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Baseball_Organization</WikiTitle> <WikiTitleID>1178325</WikiTitleID> <RankerScore>0.043189034155803115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_South_Korea</WikiTitle> <WikiTitleID>27027</WikiTitleID> <RankerScore>0.043189034155803115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.043189034155803115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>KOREAN</EntitySurfaceForm>
+	<EntityTextStart>25</EntityTextStart>
+	<EntityTextEnd>31</EntityTextEnd>
+	<LinkerScore>0.6853779857262092</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.2988937878781937</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Korean_language</WikiTitle> <WikiTitleID>16756</WikiTitleID> <RankerScore>0.11101364694159908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.12680455482006273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.2988937878781937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea</WikiTitle> <WikiTitleID>16749</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_War</WikiTitle> <WikiTitleID>16772</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_cuisine</WikiTitle> <WikiTitleID>16793</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hangul</WikiTitle> <WikiTitleID>14451</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_American</WikiTitle> <WikiTitleID>234579</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Korea</WikiTitle> <WikiTitleID>324109</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koryo-saram</WikiTitle> <WikiTitleID>6081403</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_mythology</WikiTitle> <WikiTitleID>328868</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans_in_Japan</WikiTitle> <WikiTitleID>1162876</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans_in_China</WikiTitle> <WikiTitleID>4442780</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_Canadian</WikiTitle> <WikiTitleID>12197835</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Korea</WikiTitle> <WikiTitleID>48605</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Open_(badminton)</WikiTitle> <WikiTitleID>10405096</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans_in_the_Philippines</WikiTitle> <WikiTitleID>3440060</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_Empire</WikiTitle> <WikiTitleID>342268</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Korea</WikiTitle> <WikiTitleID>21255</WikiTitleID> <RankerScore>0.02725223590353791</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PRO-SOCCER</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>42</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_League_Soccer</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>GAMES</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.9258698835680171</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Games_(magazine)</WikiTitle>
+		<WikiTitleID>1028592</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>magazine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Games_(magazine)</WikiTitle> <WikiTitleID>1028592</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SEOUL</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>55</EntityTextEnd>
+	<LinkerScore>1.3200434905692604</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Seoul</WikiTitle>
+		<WikiTitleID>67767</WikiTitleID>
+		<RankerScore>0.5300972171936237</RankerScore>
+		<Attributes>capital	city	game	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seoul</WikiTitle> <WikiTitleID>67767</WikiTitleID> <RankerScore>0.5300972171936237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Summer_Olympics</WikiTitle> <WikiTitleID>82757</WikiTitleID> <RankerScore>0.07435742728776072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansol_Korea_Open_Tennis_Championships</WikiTitle> <WikiTitleID>6443971</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_Station</WikiTitle> <WikiTitleID>905855</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_(song)</WikiTitle> <WikiTitleID>9997202</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incheon_International_Airport</WikiTitle> <WikiTitleID>165522</WikiTitleID> <RankerScore>0.05667552248608992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_Metropolitan_Subway</WikiTitle> <WikiTitleID>293921</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_National_Capital_Area</WikiTitle> <WikiTitleID>1141124</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Incheon</WikiTitle> <WikiTitleID>1055744</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Olympics</WikiTitle> <WikiTitleID>286721</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Seoul</WikiTitle> <WikiTitleID>2239683</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ATP_Seoul</WikiTitle> <WikiTitleID>16261562</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gimpo_International_Airport</WikiTitle> <WikiTitleID>286912</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3646316</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>2774936</WikiTitleID> <RankerScore>0.026066910233271203</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South Korean</EntitySurfaceForm>
+	<EntityTextStart>78</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>1.337523549133664</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.6528835621326278</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.6528835621326278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Korea</WikiTitle> <WikiTitleID>506680</WikiTitleID> <RankerScore>0.09049717303826489</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.044137854110437885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Republic_national_football_team</WikiTitle> <WikiTitleID>1018627</WikiTitleID> <RankerScore>0.08006784838735585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Baseball_Organization</WikiTitle> <WikiTitleID>1178325</WikiTitleID> <RankerScore>0.044137854110437885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_South_Korea</WikiTitle> <WikiTitleID>27027</WikiTitleID> <RankerScore>0.044137854110437885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.044137854110437885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Korean</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>1.3309854308252222</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.6631484996072752</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.6631484996072752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Korea</WikiTitle> <WikiTitleID>506680</WikiTitleID> <RankerScore>0.08699440957641746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.04276015055035202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Republic_national_football_team</WikiTitle> <WikiTitleID>1018627</WikiTitleID> <RankerScore>0.07881648861489937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Baseball_Organization</WikiTitle> <WikiTitleID>1178325</WikiTitleID> <RankerScore>0.04276015055035202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_South_Korea</WikiTitle> <WikiTitleID>27027</WikiTitleID> <RankerScore>0.04276015055035202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.04276015055035202</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pro-soccer</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>101</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_League_Soccer</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pohang</EntitySurfaceForm>
+	<EntityTextStart>128</EntityTextStart>
+	<EntityTextEnd>134</EntityTextEnd>
+	<LinkerScore>1.2351681393030767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pohang</WikiTitle>
+		<WikiTitleID>326500</WikiTitleID>
+		<RankerScore>0.8163240662466849</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pohang</WikiTitle> <WikiTitleID>326500</WikiTitleID> <RankerScore>0.8163240662466849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pohang_Steelers</WikiTitle> <WikiTitleID>1056366</WikiTitleID> <RankerScore>0.1836759337533151</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ulsan</EntitySurfaceForm>
+	<EntityTextStart>137</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.5290880572264292</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ulsan</WikiTitle>
+		<WikiTitleID>323111</WikiTitleID>
+		<RankerScore>0.7105662599270798</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ulsan</WikiTitle> <WikiTitleID>323111</WikiTitleID> <RankerScore>0.7105662599270798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ulsan_Hyundai_Horang-i</WikiTitle> <WikiTitleID>1056425</WikiTitleID> <RankerScore>0.08474914989395922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_off_Ulsan</WikiTitle> <WikiTitleID>1560288</WikiTitleID> <RankerScore>0.06664751063195802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munsu_Cup_Stadium</WikiTitle> <WikiTitleID>390242</WikiTitleID> <RankerScore>0.138037079547003</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Puchon</EntitySurfaceForm>
+	<EntityTextStart>160</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bucheon</WikiTitle>
+		<WikiTitleID>967682</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chonbuk</EntitySurfaceForm>
+	<EntityTextStart>169</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>0.9418316872030125</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jeollabuk-do</WikiTitle>
+		<WikiTitleID>322655</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jeollabuk-do</WikiTitle> <WikiTitleID>322655</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Standings</EntitySurfaceForm>
+	<EntityTextStart>194</EntityTextStart>
+	<EntityTextEnd>203</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>League_table</WikiTitle>
+		<WikiTitleID>857511</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Puchon</EntitySurfaceForm>
+	<EntityTextStart>323</EntityTextStart>
+	<EntityTextEnd>329</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bucheon</WikiTitle>
+		<WikiTitleID>967682</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chonan</EntitySurfaceForm>
+	<EntityTextStart>343</EntityTextStart>
+	<EntityTextEnd>349</EntityTextEnd>
+	<LinkerScore>0.31191287207622365</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cheonan</WikiTitle>
+		<WikiTitleID>967890</WikiTitleID>
+		<RankerScore>0.7082777268959286</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chōnan,_Chiba</WikiTitle> <WikiTitleID>863109</WikiTitleID> <RankerScore>0.29172227310407145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cheonan</WikiTitle> <WikiTitleID>967890</WikiTitleID> <RankerScore>0.7082777268959286</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pohang</EntitySurfaceForm>
+	<EntityTextStart>364</EntityTextStart>
+	<EntityTextEnd>370</EntityTextEnd>
+	<LinkerScore>1.4127650279164015</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pohang</WikiTitle>
+		<WikiTitleID>326500</WikiTitleID>
+		<RankerScore>0.8765752975852059</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pohang</WikiTitle> <WikiTitleID>326500</WikiTitleID> <RankerScore>0.8765752975852059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pohang_Steelers</WikiTitle> <WikiTitleID>1056366</WikiTitleID> <RankerScore>0.12342470241479413</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ulsan</EntitySurfaceForm>
+	<EntityTextStart>403</EntityTextStart>
+	<EntityTextEnd>408</EntityTextEnd>
+	<LinkerScore>0.9650347000451257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ulsan</WikiTitle>
+		<WikiTitleID>323111</WikiTitleID>
+		<RankerScore>0.5986409196918364</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ulsan</WikiTitle> <WikiTitleID>323111</WikiTitleID> <RankerScore>0.5986409196918364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ulsan_Hyundai_Horang-i</WikiTitle> <WikiTitleID>1056425</WikiTitleID> <RankerScore>0.19522398849662864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_off_Ulsan</WikiTitle> <WikiTitleID>1560288</WikiTitleID> <RankerScore>0.057632066249003404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munsu_Cup_Stadium</WikiTitle> <WikiTitleID>390242</WikiTitleID> <RankerScore>0.14850302556253173</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Anyang</EntitySurfaceForm>
+	<EntityTextStart>421</EntityTextStart>
+	<EntityTextEnd>427</EntityTextEnd>
+	<LinkerScore>0.3225075639120133</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Seoul</WikiTitle>
+		<WikiTitleID>1056336</WikiTitleID>
+		<RankerScore>0.36933211536076627</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anyang</WikiTitle> <WikiTitleID>478502</WikiTitleID> <RankerScore>0.19882994107949326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anyang,_Gyeonggi</WikiTitle> <WikiTitleID>945405</WikiTitleID> <RankerScore>0.33825007171889776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anyang_Station</WikiTitle> <WikiTitleID>17091922</WikiTitleID> <RankerScore>0.09358787184084276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Seoul</WikiTitle> <WikiTitleID>1056336</WikiTitleID> <RankerScore>0.36933211536076627</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chonnam</EntitySurfaceForm>
+	<EntityTextStart>440</EntityTextStart>
+	<EntityTextEnd>447</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Jeolla_Province</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pusan</EntitySurfaceForm>
+	<EntityTextStart>460</EntityTextStart>
+	<EntityTextEnd>465</EntityTextEnd>
+	<LinkerScore>1.0073441276553714</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Busan</WikiTitle>
+		<WikiTitleID>68115</WikiTitleID>
+		<RankerScore>0.8028270106306907</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Busan</WikiTitle> <WikiTitleID>68115</WikiTitleID> <RankerScore>0.8028270106306907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pusan_International_Film_Festival</WikiTitle> <WikiTitleID>2688274</WikiTitleID> <RankerScore>0.19717298936930935</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chonbuk</EntitySurfaceForm>
+	<EntityTextStart>478</EntityTextStart>
+	<EntityTextEnd>485</EntityTextEnd>
+	<LinkerScore>0.9317844134145196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jeollabuk-do</WikiTitle>
+		<WikiTitleID>322655</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>province</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jeollabuk-do</WikiTitle> <WikiTitleID>322655</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

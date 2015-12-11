@@ -1,0 +1,386 @@
+<WikifierOutput>
+<InputFilename>
+951testa BASKETBALL
+</InputFilename>
+<InputText>
+BASKETBALL- INTERNATIONAL TOURNAMENT RESULT.
+BELGRADE 1996-08-30
+Result in an international
+basketball tournament on Friday:
+Red Star( Yugoslavia) beat Dinamo( Russia) 92-90( halftime
+47-47)
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BELGRADE</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>53</EntityTextEnd>
+	<LinkerScore>1.0913853333624437</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belgrade</WikiTitle>
+		<WikiTitleID>55904</WikiTitleID>
+		<RankerScore>0.382190910896692</RankerScore>
+		<Attributes>district	place	capital	city	area	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belgrade</WikiTitle> <WikiTitleID>55904</WikiTitleID> <RankerScore>0.382190910896692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Maine</WikiTitle> <WikiTitleID>116011</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Missouri</WikiTitle> <WikiTitleID>4642522</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Montana</WikiTitle> <WikiTitleID>123390</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Minnesota</WikiTitle> <WikiTitleID>121807</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Nebraska</WikiTitle> <WikiTitleID>124077</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade_Nikola_Tesla_Airport</WikiTitle> <WikiTitleID>1467219</WikiTitleID> <RankerScore>0.12380963424628352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbian_Orthodox_Church</WikiTitle> <WikiTitleID>344447</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Beograd</WikiTitle> <WikiTitleID>15861465</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Belgrade</WikiTitle> <WikiTitleID>918895</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Belgrade</WikiTitle> <WikiTitleID>1218557</WikiTitleID> <RankerScore>0.04746501661536113</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_Belgrade</WikiTitle> <WikiTitleID>361966</WikiTitleID> <RankerScore>0.06681430531877425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>basketball</EntitySurfaceForm>
+	<EntityTextStart>92</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>0.6886553596082567</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Basketball</WikiTitle>
+		<WikiTitleID>3921</WikiTitleID>
+		<RankerScore>0.1988126904156225</RankerScore>
+		<Attributes>sport	introduction	invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Basketball</WikiTitle> <WikiTitleID>3921</WikiTitleID> <RankerScore>0.1988126904156225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_basketball</WikiTitle> <WikiTitleID>768856</WikiTitleID> <RankerScore>0.04549247593589438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_(ball)</WikiTitle> <WikiTitleID>6129782</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Basketball_Association</WikiTitle> <WikiTitleID>22093</WikiTitleID> <RankerScore>0.07337479135048108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_court</WikiTitle> <WikiTitleID>679837</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_in_Poland</WikiTitle> <WikiTitleID>755442</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USC_Trojans_men&apos;s_basketball</WikiTitle> <WikiTitleID>4396310</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auburn_Tigers_men&apos;s_basketball</WikiTitle> <WikiTitleID>10507077</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iowa_Hawkeyes_men&apos;s_basketball</WikiTitle> <WikiTitleID>10720485</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virginia_Cavaliers_men&apos;s_basketball</WikiTitle> <WikiTitleID>7915778</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_Blue_Devils_men&apos;s_basketball</WikiTitle> <WikiTitleID>8219053</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Mexico_Lobos_men&apos;s_basketball</WikiTitle> <WikiTitleID>2358612</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_at_the_1936_Summer_Olympics</WikiTitle> <WikiTitleID>299123</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philippines_national_basketball_team</WikiTitle> <WikiTitleID>1919903</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_at_the_Summer_Olympics</WikiTitle> <WikiTitleID>2695055</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NCAA_Basketball_Championship_(Philippines)</WikiTitle> <WikiTitleID>2192184</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Golden_Gophers_men&apos;s_basketball</WikiTitle> <WikiTitleID>11179246</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_basketball</WikiTitle> <WikiTitleID>667977</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_basketball_team</WikiTitle> <WikiTitleID>2937490</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Jayhawks_men&apos;s_basketball</WikiTitle> <WikiTitleID>3258978</WikiTitleID> <RankerScore>0.04013647307635307</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Red Star</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>133</EntityTextEnd>
+	<LinkerScore>0.10435309027605238</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>KK_Crvena_zvezda</WikiTitle>
+		<WikiTitleID>5604103</WikiTitleID>
+		<RankerScore>0.20166143731222022</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Red_Star_Belgrade</WikiTitle> <WikiTitleID>361966</WikiTitleID> <RankerScore>0.19238770985328593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_Saint-Ouen</WikiTitle> <WikiTitleID>4319218</WikiTitleID> <RankerScore>0.06398708488580501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_star</WikiTitle> <WikiTitleID>738596</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_(comics)</WikiTitle> <WikiTitleID>3526196</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KK_Crvena_zvezda</WikiTitle> <WikiTitleID>5604103</WikiTitleID> <RankerScore>0.20166143731222022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dragonriders_of_Pern</WikiTitle> <WikiTitleID>140894</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_the_Red_Star</WikiTitle> <WikiTitleID>1888505</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Krasnaya_Zvezda</WikiTitle> <WikiTitleID>645615</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_Records</WikiTitle> <WikiTitleID>14599233</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Red_Star</WikiTitle> <WikiTitleID>5593122</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communism</WikiTitle> <WikiTitleID>9209651</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_Line</WikiTitle> <WikiTitleID>3767669</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wesson,_Mississippi</WikiTitle> <WikiTitleID>122259</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_(G.I._Joe)</WikiTitle> <WikiTitleID>3099333</WikiTitleID> <RankerScore>0.04926943344988081</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yugoslavia</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>145</EntityTextEnd>
+	<LinkerScore>0.9163222739704004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yugoslavia</WikiTitle>
+		<WikiTitleID>34244</WikiTitleID>
+		<RankerScore>0.36877190024573625</RankerScore>
+		<Attributes>country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yugoslavia</WikiTitle> <WikiTitleID>34244</WikiTitleID> <RankerScore>0.36877190024573625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Socialist_Federal_Republic_of_Yugoslavia</WikiTitle> <WikiTitleID>297809</WikiTitleID> <RankerScore>0.04046675680092521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_national_football_team</WikiTitle> <WikiTitleID>782786</WikiTitleID> <RankerScore>0.04260051646783039</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Yugoslavia</WikiTitle> <WikiTitleID>232269</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_Republic_of_Yugoslavia</WikiTitle> <WikiTitleID>179631</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_national_basketball_team</WikiTitle> <WikiTitleID>1438129</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbia_national_football_team</WikiTitle> <WikiTitleID>1011001</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbia_and_Montenegro</WikiTitle> <WikiTitleID>27289</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Yugoslavia</WikiTitle> <WikiTitleID>8562371</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslav_Front_of_World_War_II</WikiTitle> <WikiTitleID>7148715</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_national_under-21_football_team</WikiTitle> <WikiTitleID>3226850</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_at_the_1972_Summer_Olympics</WikiTitle> <WikiTitleID>1888594</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>2393583</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Yugoslavia</WikiTitle> <WikiTitleID>9149022</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Invasion_of_Yugoslavia</WikiTitle> <WikiTitleID>5184131</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_at_the_Olympics</WikiTitle> <WikiTitleID>13636022</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslavia_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>4353251</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslav_wars</WikiTitle> <WikiTitleID>435497</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yugoslav_Partisans</WikiTitle> <WikiTitleID>1115992</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbia_national_basketball_team</WikiTitle> <WikiTitleID>5805360</WikiTitleID> <RankerScore>0.032244754499147536</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dinamo</EntitySurfaceForm>
+	<EntityTextStart>152</EntityTextStart>
+	<EntityTextEnd>158</EntityTextEnd>
+	<LinkerScore>-0.033326301995932284</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NK_Dinamo_Zagreb</WikiTitle>
+		<WikiTitleID>675239</WikiTitleID>
+		<RankerScore>0.2915283918169633</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Bucureşti</WikiTitle> <WikiTitleID>861358</WikiTitleID> <RankerScore>0.08006187023885895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NK_Dinamo_Zagreb</WikiTitle> <WikiTitleID>675239</WikiTitleID> <RankerScore>0.2915283918169633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Minsk</WikiTitle> <WikiTitleID>1651899</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Sports_Club</WikiTitle> <WikiTitleID>15820924</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dinamo_(Metro)</WikiTitle> <WikiTitleID>2243997</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.2406259024175181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Tbilisi</WikiTitle> <WikiTitleID>833846</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KS_Dinamo_Tirana</WikiTitle> <WikiTitleID>830451</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Sokhumi</WikiTitle> <WikiTitleID>7373737</WikiTitleID> <RankerScore>0.06463063925444326</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>160</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>0.8474541352691489</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.37173297707991815</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.37173297707991815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03905787772506202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.04063948036816241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.03226880381334455</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

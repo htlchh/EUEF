@@ -1,0 +1,181 @@
+<WikifierOutput>
+<InputFilename>
+1042testa Apic
+</InputFilename>
+<InputText>
+Apic Yamada- 6mth parent forecast.
+TOKYO 1996-08-30
+Six months to September 30, 1996( in billions of yen unless specified)
+LATEST PREVIOUS ACTUAL( Parent) FORECAST FORECAST YEAR-AGO
+Sales 12.50 13.00 11.27
+Current 1.30 1.35 1.09
+Net 650 million 680 million 600 million
+NOTE- Apic Yamada Corp is a leading manufacturer of semiconductor leadframes.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>TOKYO</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>40</EntityTextEnd>
+	<LinkerScore>-0.008450796086356203</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tokyo_(song)</WikiTitle>
+		<WikiTitleID>3769660</WikiTitleID>
+		<RankerScore>0.574986146792713</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tokyo_(song)</WikiTitle> <WikiTitleID>3769660</WikiTitleID> <RankerScore>0.574986146792713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tokyo</WikiTitle> <WikiTitleID>30057</WikiTitleID> <RankerScore>0.42501385320728713</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>yen</EntitySurfaceForm>
+	<EntityTextStart>101</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>0.6884051575000137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Japanese_yen</WikiTitle>
+		<WikiTitleID>34392</WikiTitleID>
+		<RankerScore>0.6882201168758897</RankerScore>
+		<Attributes>currency	words	terms	sign</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Japanese_yen</WikiTitle> <WikiTitleID>34392</WikiTitleID> <RankerScore>0.6882201168758897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korean_yen</WikiTitle> <WikiTitleID>3754883</WikiTitleID> <RankerScore>0.3117798831241103</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>11.27</EntitySurfaceForm>
+	<EntityTextStart>200</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>0.9409467472229501</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>November_27</WikiTitle>
+		<WikiTitleID>21448</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>November_27</WikiTitle> <WikiTitleID>21448</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>650</EntitySurfaceForm>
+	<EntityTextStart>233</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>0.709932470643128</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>650</WikiTitle>
+		<WikiTitleID>36322</WikiTitleID>
+		<RankerScore>0.22086343373492745</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>650</WikiTitle> <WikiTitleID>36322</WikiTitleID> <RankerScore>0.22086343373492745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_code_650</WikiTitle> <WikiTitleID>1054938</WikiTitleID> <RankerScore>0.10390709055464635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>7th_century_in_Ireland</WikiTitle> <WikiTitleID>17550627</WikiTitleID> <RankerScore>0.09275977079701594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>650s_BC</WikiTitle> <WikiTitleID>51350</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yamaha_XS_650</WikiTitle> <WikiTitleID>1911382</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>650s</WikiTitle> <WikiTitleID>35130</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_650</WikiTitle> <WikiTitleID>3302450</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IBM_650</WikiTitle> <WikiTitleID>143676</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Macintosh_Quadra_650</WikiTitle> <WikiTitleID>4867105</WikiTitleID> <RankerScore>0.09707828415223504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>680</EntitySurfaceForm>
+	<EntityTextStart>245</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>0.4108941026274709</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>680</WikiTitle>
+		<WikiTitleID>36233</WikiTitleID>
+		<RankerScore>0.2784440933708207</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>680</WikiTitle> <WikiTitleID>36233</WikiTitleID> <RankerScore>0.2784440933708207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>7th_century_in_Ireland</WikiTitle> <WikiTitleID>17550627</WikiTitleID> <RankerScore>0.1200042588834466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_680_(California)</WikiTitle> <WikiTitleID>417278</WikiTitleID> <RankerScore>0.11658975753864836</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>680s_BC</WikiTitle> <WikiTitleID>51353</WikiTitleID> <RankerScore>0.1212404725517711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_680_(Iowa-Nebraska)</WikiTitle> <WikiTitleID>6834508</WikiTitleID> <RankerScore>0.1212404725517711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treo_680</WikiTitle> <WikiTitleID>7436737</WikiTitleID> <RankerScore>0.1212404725517711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_680</WikiTitle> <WikiTitleID>2823847</WikiTitleID> <RankerScore>0.1212404725517711</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>semiconductor</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>334</EntityTextEnd>
+	<LinkerScore>0.856357299901738</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Semiconductor</WikiTitle>
+		<WikiTitleID>27709</WikiTitleID>
+		<RankerScore>0.40951042231498697</RankerScore>
+		<Attributes>concept</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Semiconductor</WikiTitle> <WikiTitleID>27709</WikiTitleID> <RankerScore>0.40951042231498697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semiconductor_device</WikiTitle> <WikiTitleID>40344</WikiTitleID> <RankerScore>0.1579777332900944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semiconductor_device_fabrication</WikiTitle> <WikiTitleID>27696</WikiTitleID> <RankerScore>0.13778742167845526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semiconductor_industry</WikiTitle> <WikiTitleID>612813</WikiTitleID> <RankerScore>0.14736221135823166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Integrated_circuit</WikiTitle> <WikiTitleID>15150</WikiTitleID> <RankerScore>0.14736221135823166</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

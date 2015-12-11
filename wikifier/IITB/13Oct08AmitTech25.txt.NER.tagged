@@ -1,0 +1,69 @@
+<InputFilename>13Oct08AmitTech25.txt</InputFilename>
+<Text>Safe Transactions with Infected PCs
+
+A new tool assumes that a PC is loaded with malware--and protects transactions anyway
+
+Your computer has been breached by malicious hackers: it's completely loaded with malware and spyware. You're about to get online, connect to a financial institution, and make some transactions. Is there anything, at this point, that can keep your identity off the black market? SiteTrust, a tool released today by Waltham, MA, data-security company Verdasys, aims to protect users from fraud, even when their computers have been compromised.
+
+"Malware is on the rise," says Verdasys chief technology officer Bill Ledingham. Many existing protection technologies don't work against all the malware that's out there, he says, partly because they're built to protect against known attacks. Users, he adds, are often inconsistent about employing antivirus software and keeping it updated, and even when they're not, some malware is sophisticated enough to get through anyway. "Our premise," Ledingham says, "is that, rather than trying to clean up the machines, assume the machine is already infected and focus on protecting the transaction that goes on between the consumer and the enterprise website."
+
+The problem of malware on users' computers is "the number-one problem that the financial institutions are wrestling with today," says Forrester Research senior analyst Geoffrey Turner, an expert on online fraud. Financial institutions can take steps to secure the connections between their servers and their customers' PCs, Turner says; they can even ensure the security of the customer's Web browser. But they're stumped, he says, when it comes to the customer's operating system. Most successful attempts to steal computer users' identities, Turner says, involve using malware to capture their credentials or conduct transactions behind the scenes without their knowledge. "The challenge is, how do you secure the end-user computer?" he says. "Should you even, as a bank, be trying to do that?"
+
+Verdasys thinks that the answer is yes. After licensing SiteTrust from Verdasys, a financial institution would provide it to users as a supplement to their existing antivirus software. Once SiteTrust is downloaded and installed, Ledingham says, it takes up less than a megabyte of disk space. When the user is connected to a protected site, SiteTrust consumes 1 to 2 percent of the computer's processing capacity. While the tool could work with multiple sites, the initial idea is that a customer would receive it for use with a specific website.
+
+SiteTrust bypasses malware because it is essentially a rootkit--a program designed to bury itself deep in a user's operating system, where it can take fundamental control of most of the software running on the machine. The idea, Ledingham says, is that SiteTrust will burrow down to a lower level than any malware on the system. Verdasys has put a lot of research into ensuring that SiteTrust does just that, Ledingham says, but he acknowledges that if the tool becomes successful, online criminals will probably focus on finding ways to go even deeper. He says that Verdasys plans to keep improving the tool, hoping to stay a step ahead of attackers. 
+
+
+
+When the user types in the URL of a protected site, Ledingham says, SiteTrust steps in. Without changing the appearance of the user's screen, SiteTrust separates the secure transaction from whatever else might be going on in the browser by running a fresh version of the browser code as its own "process." (A process is the series of commands that the computer executes to run a program, and modern computers can run dozens of them at once.) SiteTrust then monitors this process to make sure that no other program tries to interfere with it. As the user interacts with the site, SiteTrust bypasses many of the vulnerabilities of the operating system, instead taking information from the user's keyboard, encrypting it immediately, and sending it to the website. SiteTrust currently runs on Windows machines and works with the Internet Explorer and Firefox browsers, but Ledingham says that the company is working on Linux, Mac, and Safari versions.
+
+SiteTrust is a new application of the technology behind Verdasys's existing product, the Digital Guardian, which is meant to protect businesses against internal theft. The Digital Guardian also uses a rootkit, installed on every computer in an organization, that watches what users do with sensitive information and flags suspicious behavior. Ledingham notes that, although rootkits have caused controversy in the past, particularly when they were installed without users' knowledge, Verdasys has years of experience designing them so that they don't interfere with a computer's normal use. SiteTrust, Ledingham says, includes an uninstall option so that users can completely remove it if they choose, and it doesn't send any background information about the user to the protected site.
+
+Turner says that he appreciates Verdasys's approach with SiteTrust--in particular, the way that the company has planned for the inevitability of online criminals' targeting the tool itself, lining up improvements to make that more difficult. He adds that the company's distribution model is important to getting SiteTrust to consumers. "People aren't aware that they need this level of protection on their own PC," Turner says. Customers aren't likely to look for additional protection unless encouraged to do so by financial institutions that they trust. Turner also notes that receiving the tool from a trusted institution should help counter consumers' general worries about rootkits.
+
+SiteTrust is launching to six million customers of an undisclosed online broker in the near future. The company plans to make additional deals to protect other websites.
+
+</Text>
+<Annotation>
+<Form>SiteTrust</Form> <Start>403</Start> <End>412</End> <Label>PER</Label>
+<Form>Waltham</Form> <Start>439</Start> <End>446</End> <Label>LOC</Label>
+<Form>Waltham , MA</Form> <Start>439</Start> <End>450</End> <Label>LOC</Label>
+<Form>MA</Form> <Start>448</Start> <End>450</End> <Label>LOC</Label>
+<Form>Bill Ledingham</Form> <Start>633</Start> <End>647</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>1012</Start> <End>1021</End> <Label>PER</Label>
+<Form>Forrester Research</Form> <Start>1360</Start> <End>1378</End> <Label>ORG</Label>
+<Form>Geoffrey Turner</Form> <Start>1394</Start> <End>1409</End> <Label>PER</Label>
+<Form>Turner</Form> <Start>1550</Start> <End>1556</End> <Label>PER</Label>
+<Form>Turner</Form> <Start>1770</Start> <End>1776</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2080</Start> <End>2089</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2214</Start> <End>2223</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>2253</Start> <End>2262</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2365</Start> <End>2374</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2572</Start> <End>2581</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>2801</Start> <End>2810</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2825</Start> <End>2834</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>2955</Start> <End>2964</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>2981</Start> <End>2990</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>3280</Start> <End>3289</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>3296</Start> <End>3305</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>3370</Start> <End>3379</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>3670</Start> <End>3679</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>3807</Start> <End>3816</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>3990</Start> <End>3999</End> <Label>PER</Label>
+<Form>Internet Explorer</Form> <Start>4054</Start> <End>4071</End> <Label>ORG</Label>
+<Form>Firefox</Form> <Start>4076</Start> <End>4083</End> <Label>ORG</Label>
+<Form>Ledingham</Form> <Start>4098</Start> <End>4107</End> <Label>PER</Label>
+<Form>Mac</Form> <Start>4151</Start> <End>4154</End> <Label>PER</Label>
+<Form>Safari</Form> <Start>4160</Start> <End>4166</End> <Label>ORG</Label>
+<Form>SiteTrust</Form> <Start>4178</Start> <End>4187</End> <Label>PER</Label>
+<Form>Digital Guardian</Form> <Start>4267</Start> <End>4283</End> <Label>ORG</Label>
+<Form>Digital Guardian</Form> <Start>4350</Start> <End>4366</End> <Label>ORG</Label>
+<Form>Ledingham</Form> <Start>4521</Start> <End>4530</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>4769</Start> <End>4778</End> <Label>PER</Label>
+<Form>Ledingham</Form> <Start>4780</Start> <End>4789</End> <Label>PER</Label>
+<Form>Turner</Form> <Start>4966</Start> <End>4972</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>5278</Start> <End>5287</End> <Label>PER</Label>
+<Form>Turner</Form> <Start>5381</Start> <End>5387</End> <Label>PER</Label>
+<Form>Turner</Form> <Start>5522</Start> <End>5528</End> <Label>PER</Label>
+<Form>SiteTrust</Form> <Start>5655</Start> <End>5664</End> <Label>PER</Label>
+</Annotation>

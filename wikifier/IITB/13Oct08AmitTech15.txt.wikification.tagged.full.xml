@@ -1,0 +1,3722 @@
+<WikifierOutput>
+<InputFilename>
+13Oct08AmitTech15.txt
+</InputFilename>
+<InputText>
+Wireless at Fiber Speeds
+There&apos;s no shortage of demand for faster wireless, but today&apos;s fastest technologies--Wi-Fi, 3G cellular networks, and even the upcoming WiMax--max out at tens or hundreds of megabits per second. So far, no commercial wireless system can beat the raw speed of optical fiber, which can carry tens of gigabits per second.
+
+One way to achieve faster speeds is to harness the millimeter-wavelength frequency of the wireless spectrum, although this usually requires expensive and very complex equipment. Now, engineers at Battelle, a research and development firm based in Columbus, OH, have come up with a simpler way to send data through the air with millimeter-wave technology. Earlier this year, in field tests of a prototype point-to-point system, the team was able to send a 10.6-gigabit-per-second signal between antennas 800 meters apart. And more recently, the researchers demonstrated a 20-gigabit-per-second signal in the lab.
+
+Richard Ridgway, a senior researcher at Battelle, says that the technique could be used to send huge files across college campuses, to quickly set up emergency networks in a disaster, and even to stream uncompressed high-definition video from a computer or set-top box to a display.
+
+Whereas Wi-Fi and cellular networks operate on frequencies of 2.4 to 5.0 gigahertz, millimeter-wave technology exploits a region from about 60 to 100 gigahertz. These waves can carry more data because they oscillate faster. Much of the millimeter region is unlicensed and open for use; it has only been neglected because of the difficulty and expense involved in generating a millimeter-wave signal, encoding information on it, and then decoding at the other end. Usually, data is encoded by first generating a low-frequency wave of around 10 gigahertz, then converting it into a higher-frequency signal. The drawback is that encoding data on a 10-gigahertz signal limits the data rate to about one gigabit per second.
+
+The Battelle team was able to better this by more than a factor of 10 using off-the-shelf optical telecommunication components. The researchers modulated data on two low-frequency laser beams, then combined the two. When these two beams combine, they create a pattern of interference that acts as a 100-gigahertz signal. &quot;It looks as though we have a laser beam that has a 100-gigahertz frequency,&quot; Ridgway says. 
+
+
+
+In the past few years, researchers at Georgia Tech, MIT, Intel, and elsewhere have made great strides in developing millimeter-wave devices. Companies such as Intel have even started pushing for standards that could help develop interoperable technologies that operate at 60 gigahertz. And one company, Gigabeam, has rolled out products that can achieve around one gigabit per second using a point-to-point link over a few hundred meters.
+
+Ridgway explains that using telecommunication lasers has two big advantages. First, they are high power, so the resulting millimeter wave is also of relatively high power. Second, the lasers have been engineered to be stable and dependable, producing a signal that doesn&apos;t fluctuate much compared with standard millimeter-wave sources.
+
+Alan Crouch, director of the Communications Technology Lab at Intel, says that the Battelle work is further evidence that millimeter-wave technology could become increasingly important. &quot;There&apos;s demand for more and more wireless communication solutions in this space,&quot; he says, adding that &quot;there is strong industry interest.&quot;
+
+But the research may be years away from being deployed in a product. Ridgway explains that, since the system has been put together from existing components, it&apos;s much larger than it ultimately needs to be. In addition, a property of the signal called polarization, which plays a role in encoding data, tends to drift during operation, which means that the system requires attention when running. But Ridgway hopes that, with some more engineering, these problems can be ironed out. &quot;We&apos;d like to get it to a point where you could just turn on and go,&quot; he says.
+
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Fiber</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>17</EntityTextEnd>
+	<LinkerScore>-0.008546400578482521</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fiber</WikiTitle>
+		<WikiTitleID>140558</WikiTitleID>
+		<RankerScore>0.3087222901969677</RankerScore>
+		<Attributes>material	fiber</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fiber</WikiTitle> <WikiTitleID>140558</WikiTitleID> <RankerScore>0.3087222901969677</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dietary_fiber</WikiTitle> <WikiTitleID>66554</WikiTitleID> <RankerScore>0.13440553109630543</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_fiber</WikiTitle> <WikiTitleID>3372377</WikiTitleID> <RankerScore>0.2799382866783669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber-optic_communication</WikiTitle> <WikiTitleID>7309377</WikiTitleID> <RankerScore>0.27693389202836005</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Speeds</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>24</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Speed</WikiTitle>
+		<WikiTitleID>28748</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.6909924067355707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wireless</WikiTitle>
+		<WikiTitleID>185868</WikiTitleID>
+		<RankerScore>0.21434585022130687</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wireless</WikiTitle> <WikiTitleID>185868</WikiTitleID> <RankerScore>0.21434585022130687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network</WikiTitle> <WikiTitleID>33172</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi</WikiTitle> <WikiTitleID>63973</WikiTitleID> <RankerScore>0.10395120278479053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_LAN</WikiTitle> <WikiTitleID>33143</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_telegraphy</WikiTitle> <WikiTitleID>33131</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11</WikiTitle> <WikiTitleID>14739</WikiTitleID> <RankerScore>0.11778458184962576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_microphone</WikiTitle> <WikiTitleID>4578451</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_sensor_network</WikiTitle> <WikiTitleID>1076662</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WLAN</WikiTitle> <WikiTitleID>259084</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_broadband</WikiTitle> <WikiTitleID>4595</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network_interface_card</WikiTitle> <WikiTitleID>1565156</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11b-1999</WikiTitle> <WikiTitleID>13420417</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Wide_Area_Network</WikiTitle> <WikiTitleID>1284136</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Internet_Protocol</WikiTitle> <WikiTitleID>1210933</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_Area_Network</WikiTitle> <WikiTitleID>23303</WikiTitleID> <RankerScore>0.03759455767628512</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>3G cellular</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>3G</WikiTitle>
+		<WikiTitleID>282450</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>3G cellular networks</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>137</EntityTextEnd>
+	<LinkerScore>1.0381647922808397</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>3G</WikiTitle>
+		<WikiTitleID>282450</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>3G</WikiTitle> <WikiTitleID>282450</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cellular</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>128</EntityTextEnd>
+	<LinkerScore>0.5003074102439287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cellular_network</WikiTitle>
+		<WikiTitleID>735672</WikiTitleID>
+		<RankerScore>0.31494947528397443</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cell_(biology)</WikiTitle> <WikiTitleID>4230</WikiTitleID> <RankerScore>0.1508604591734264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.2563892944387509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.31494947528397443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_biology</WikiTitle> <WikiTitleID>6339</WikiTitleID> <RankerScore>0.0926002570346161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell-mediated_immunity</WikiTitle> <WikiTitleID>569705</WikiTitleID> <RankerScore>0.0926002570346161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microorganism</WikiTitle> <WikiTitleID>20377</WikiTitleID> <RankerScore>0.0926002570346161</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cellular networks</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>137</EntityTextEnd>
+	<LinkerScore>1.0729249148427815</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cellular_network</WikiTitle>
+		<WikiTitleID>735672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>megabits</EntitySurfaceForm>
+	<EntityTextStart>199</EntityTextStart>
+	<EntityTextEnd>207</EntityTextEnd>
+	<LinkerScore>0.9220745215233671</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Megabit</WikiTitle>
+		<WikiTitleID>376259</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Megabit</WikiTitle> <WikiTitleID>376259</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless</EntitySurfaceForm>
+	<EntityTextStart>242</EntityTextStart>
+	<EntityTextEnd>250</EntityTextEnd>
+	<LinkerScore>1.0134468343593521</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wireless</WikiTitle>
+		<WikiTitleID>185868</WikiTitleID>
+		<RankerScore>0.25343678616296206</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wireless</WikiTitle> <WikiTitleID>185868</WikiTitleID> <RankerScore>0.25343678616296206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network</WikiTitle> <WikiTitleID>33172</WikiTitleID> <RankerScore>0.06750685676639798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi</WikiTitle> <WikiTitleID>63973</WikiTitleID> <RankerScore>0.09444326911430893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_LAN</WikiTitle> <WikiTitleID>33143</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_telegraphy</WikiTitle> <WikiTitleID>33131</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11</WikiTitle> <WikiTitleID>14739</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_microphone</WikiTitle> <WikiTitleID>4578451</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_sensor_network</WikiTitle> <WikiTitleID>1076662</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WLAN</WikiTitle> <WikiTitleID>259084</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_broadband</WikiTitle> <WikiTitleID>4595</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network_interface_card</WikiTitle> <WikiTitleID>1565156</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11b-1999</WikiTitle> <WikiTitleID>13420417</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Wide_Area_Network</WikiTitle> <WikiTitleID>1284136</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Internet_Protocol</WikiTitle> <WikiTitleID>1210933</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_Area_Network</WikiTitle> <WikiTitleID>23303</WikiTitleID> <RankerScore>0.038974205863755405</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>optical fiber</EntitySurfaceForm>
+	<EntityTextStart>284</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>0.7122910025719673</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Optical_fiber</WikiTitle>
+		<WikiTitleID>3372377</WikiTitleID>
+		<RankerScore>0.5280620376030227</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Optical_fiber</WikiTitle> <WikiTitleID>3372377</WikiTitleID> <RankerScore>0.5280620376030227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber-optic_communication</WikiTitle> <WikiTitleID>7309377</WikiTitleID> <RankerScore>0.22097088752245322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TOSLINK</WikiTitle> <WikiTitleID>181794</WikiTitleID> <RankerScore>0.10513042607962031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_to_the_x</WikiTitle> <WikiTitleID>3492955</WikiTitleID> <RankerScore>0.1458366487949037</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>optical</EntitySurfaceForm>
+	<EntityTextStart>284</EntityTextStart>
+	<EntityTextEnd>291</EntityTextEnd>
+	<LinkerScore>-0.010048722261135554</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Optics</WikiTitle>
+		<WikiTitleID>22483</WikiTitleID>
+		<RankerScore>0.11315656447356263</RankerScore>
+		<Attributes>optics	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Optics</WikiTitle> <WikiTitleID>22483</WikiTitleID> <RankerScore>0.11315656447356263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_fiber</WikiTitle> <WikiTitleID>3372377</WikiTitleID> <RankerScore>0.09973983325054808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visible_spectrum</WikiTitle> <WikiTitleID>41464</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Light</WikiTitle> <WikiTitleID>17939</WikiTitleID> <RankerScore>0.09388644090111949</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc</WikiTitle> <WikiTitleID>41458</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Double_star</WikiTitle> <WikiTitleID>53603</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_astronomy</WikiTitle> <WikiTitleID>46781</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_physics</WikiTitle> <WikiTitleID>2865368</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Op_art</WikiTitle> <WikiTitleID>178848</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optician</WikiTitle> <WikiTitleID>543329</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_phenomenon</WikiTitle> <WikiTitleID>43228</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_mineralogy</WikiTitle> <WikiTitleID>4387316</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoom_lens</WikiTitle> <WikiTitleID>352711</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TOSLINK</WikiTitle> <WikiTitleID>181794</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_microscope</WikiTitle> <WikiTitleID>117534</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_telescope</WikiTitle> <WikiTitleID>266611</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Smartdust</WikiTitle> <WikiTitleID>669367</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_pumping</WikiTitle> <WikiTitleID>4374425</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luminescence</WikiTitle> <WikiTitleID>60871</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compositing</WikiTitle> <WikiTitleID>1136715</WikiTitleID> <RankerScore>0.04077748008086881</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fiber</EntitySurfaceForm>
+	<EntityTextStart>292</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>0.364619010796291</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Optical_fiber</WikiTitle>
+		<WikiTitleID>3372377</WikiTitleID>
+		<RankerScore>0.13204486395235712</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fiber</WikiTitle> <WikiTitleID>140558</WikiTitleID> <RankerScore>0.12046465947584327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dietary_fiber</WikiTitle> <WikiTitleID>66554</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_fiber</WikiTitle> <WikiTitleID>3372377</WikiTitleID> <RankerScore>0.13204486395235712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_(mathematics)</WikiTitle> <WikiTitleID>6603892</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_bundle</WikiTitle> <WikiTitleID>276526</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_crop</WikiTitle> <WikiTitleID>519887</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_(computer_science)</WikiTitle> <WikiTitleID>5533712</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiberglass</WikiTitle> <WikiTitleID>157606</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cotton</WikiTitle> <WikiTitleID>36806</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fibration</WikiTitle> <WikiTitleID>316826</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Image_(mathematics)</WikiTitle> <WikiTitleID>579311</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Level_set</WikiTitle> <WikiTitleID>559622</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pectin</WikiTitle> <WikiTitleID>159750</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_art</WikiTitle> <WikiTitleID>1430825</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vector_bundle</WikiTitle> <WikiTitleID>276524</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_to_the_x</WikiTitle> <WikiTitleID>3492955</WikiTitleID> <RankerScore>0.04750820945119669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber-optic_communication</WikiTitle> <WikiTitleID>7309377</WikiTitleID> <RankerScore>0.08237554425504595</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigabits</EntitySurfaceForm>
+	<EntityTextStart>323</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>1.039301711800395</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gigabit</WikiTitle>
+		<WikiTitleID>442674</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gigabit</WikiTitle> <WikiTitleID>442674</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>harness</EntitySurfaceForm>
+	<EntityTextStart>384</EntityTextStart>
+	<EntityTextEnd>391</EntityTextEnd>
+	<LinkerScore>-0.029206289109639655</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Horse_harness</WikiTitle>
+		<WikiTitleID>13087353</WikiTitleID>
+		<RankerScore>0.12256111924280351</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Horse_harness</WikiTitle> <WikiTitleID>13087353</WikiTitleID> <RankerScore>0.12256111924280351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harness_racing</WikiTitle> <WikiTitleID>189221</WikiTitleID> <RankerScore>0.09931767842897353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Driving_(horse)</WikiTitle> <WikiTitleID>12962247</WikiTitleID> <RankerScore>0.09261589484816277</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_harness</WikiTitle> <WikiTitleID>1472717</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Climbing_harness</WikiTitle> <WikiTitleID>216082</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Horse_tack</WikiTitle> <WikiTitleID>14215</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harness_racing_in_Australia</WikiTitle> <WikiTitleID>5569723</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seat_belt</WikiTitle> <WikiTitleID>51474</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safety_harness</WikiTitle> <WikiTitleID>6051606</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine_harness</WikiTitle> <WikiTitleID>15112085</WikiTitleID> <RankerScore>0.0979293296400086</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>frequency</EntitySurfaceForm>
+	<EntityTextStart>418</EntityTextStart>
+	<EntityTextEnd>427</EntityTextEnd>
+	<LinkerScore>0.5311047459433971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frequency</WikiTitle>
+		<WikiTitleID>10779</WikiTitleID>
+		<RankerScore>0.27929778688857376</RankerScore>
+		<Attributes>concept	mechanics	acoustics	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frequency</WikiTitle> <WikiTitleID>10779</WikiTitleID> <RankerScore>0.27929778688857376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.1325239288198333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Utility_frequency</WikiTitle> <WikiTitleID>488815</WikiTitleID> <RankerScore>0.05651188990809083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_(statistics)</WikiTitle> <WikiTitleID>4839019</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_frequency</WikiTitle> <WikiTitleID>344142</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_probability</WikiTitle> <WikiTitleID>10869</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allele_frequency</WikiTitle> <WikiTitleID>232583</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clock_rate</WikiTitle> <WikiTitleID>228385</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency-division_multiplexing</WikiTitle> <WikiTitleID>86376</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pitch_(music)</WikiTitle> <WikiTitleID>77933</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_response</WikiTitle> <WikiTitleID>302033</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_modulation</WikiTitle> <WikiTitleID>10835</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Angular_frequency</WikiTitle> <WikiTitleID>199829</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_domain</WikiTitle> <WikiTitleID>370346</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wavelength</WikiTitle> <WikiTitleID>33125</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KFNC</WikiTitle> <WikiTitleID>8977596</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_analysis</WikiTitle> <WikiTitleID>157934</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headway</WikiTitle> <WikiTitleID>6968798</WikiTitleID> <RankerScore>0.03544442629223347</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless</EntitySurfaceForm>
+	<EntityTextStart>435</EntityTextStart>
+	<EntityTextEnd>443</EntityTextEnd>
+	<LinkerScore>0.8469777201837607</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wireless</WikiTitle>
+		<WikiTitleID>185868</WikiTitleID>
+		<RankerScore>0.21824887705511417</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wireless</WikiTitle> <WikiTitleID>185868</WikiTitleID> <RankerScore>0.21824887705511417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network</WikiTitle> <WikiTitleID>33172</WikiTitleID> <RankerScore>0.06653531605668359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi</WikiTitle> <WikiTitleID>63973</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.108778044774579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_LAN</WikiTitle> <WikiTitleID>33143</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_telegraphy</WikiTitle> <WikiTitleID>33131</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11</WikiTitle> <WikiTitleID>14739</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_microphone</WikiTitle> <WikiTitleID>4578451</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_sensor_network</WikiTitle> <WikiTitleID>1076662</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WLAN</WikiTitle> <WikiTitleID>259084</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_broadband</WikiTitle> <WikiTitleID>4595</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network_interface_card</WikiTitle> <WikiTitleID>1565156</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11b-1999</WikiTitle> <WikiTitleID>13420417</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Wide_Area_Network</WikiTitle> <WikiTitleID>1284136</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Internet_Protocol</WikiTitle> <WikiTitleID>1210933</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_Area_Network</WikiTitle> <WikiTitleID>23303</WikiTitleID> <RankerScore>0.040429184140908216</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless spectrum</EntitySurfaceForm>
+	<EntityTextStart>435</EntityTextStart>
+	<EntityTextEnd>452</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio_spectrum</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>spectrum</EntitySurfaceForm>
+	<EntityTextStart>444</EntityTextStart>
+	<EntityTextEnd>452</EntityTextEnd>
+	<LinkerScore>0.6148609607980573</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electromagnetic_spectrum</WikiTitle>
+		<WikiTitleID>10134</WikiTitleID>
+		<RankerScore>0.16392654874046736</RankerScore>
+		<Attributes>wave</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spectrum</WikiTitle> <WikiTitleID>29329</WikiTitleID> <RankerScore>0.11425040210351377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_spectrum</WikiTitle> <WikiTitleID>10134</WikiTitleID> <RankerScore>0.16392654874046736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_(functional_analysis)</WikiTitle> <WikiTitleID>206137</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visible_spectrum</WikiTitle> <WikiTitleID>41464</WikiTitleID> <RankerScore>0.08671532666272491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_of_a_ring</WikiTitle> <WikiTitleID>37291</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectroscopy</WikiTitle> <WikiTitleID>27752</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_disorder</WikiTitle> <WikiTitleID>8518910</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_spectrum</WikiTitle> <WikiTitleID>51198</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_(homotopy_theory)</WikiTitle> <WikiTitleID>1033697</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Astronomical_spectroscopy</WikiTitle> <WikiTitleID>273679</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eigenvalue,_eigenvector_and_eigenspace</WikiTitle> <WikiTitleID>2161429</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stellar_classification</WikiTitle> <WikiTitleID>28927</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Absorption_spectrum</WikiTitle> <WikiTitleID>892289</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectral_density</WikiTitle> <WikiTitleID>202672</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Energy_spectrum</WikiTitle> <WikiTitleID>666150</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gelfand_representation</WikiTitle> <WikiTitleID>364372</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectral_music</WikiTitle> <WikiTitleID>1861895</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrometer</WikiTitle> <WikiTitleID>29293</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_of_a_theory</WikiTitle> <WikiTitleID>3820897</WikiTitleID> <RankerScore>0.03735927779372318</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Battelle</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>549</EntityTextEnd>
+	<LinkerScore>0.5329707109731779</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battelle_Memorial_Institute</WikiTitle>
+		<WikiTitleID>532208</WikiTitleID>
+		<RankerScore>0.6426630080409952</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battelle_Memorial_Institute</WikiTitle> <WikiTitleID>532208</WikiTitleID> <RankerScore>0.6426630080409952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battelle,_Alabama</WikiTitle> <WikiTitleID>9156612</WikiTitleID> <RankerScore>0.35733699195900487</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>research and development</EntitySurfaceForm>
+	<EntityTextStart>553</EntityTextStart>
+	<EntityTextEnd>577</EntityTextEnd>
+	<LinkerScore>1.3834600935484114</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Research_and_development</WikiTitle>
+		<WikiTitleID>254769</WikiTitleID>
+		<RankerScore>0.7704304498400872</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Research_and_development</WikiTitle> <WikiTitleID>254769</WikiTitleID> <RankerScore>0.7704304498400872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tank_research_and_development</WikiTitle> <WikiTitleID>1654243</WikiTitleID> <RankerScore>0.22956955015991282</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Columbus</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>600</EntityTextEnd>
+	<LinkerScore>0.48059087606339024</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Columbus,_Ohio</WikiTitle>
+		<WikiTitleID>5950</WikiTitleID>
+		<RankerScore>0.13521905353495156</RankerScore>
+		<Attributes>city	seats	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Columbus,_Ohio</WikiTitle> <WikiTitleID>5950</WikiTitleID> <RankerScore>0.13521905353495156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Georgia</WikiTitle> <WikiTitleID>110280</WikiTitleID> <RankerScore>0.06751433060044552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christopher_Columbus</WikiTitle> <WikiTitleID>5635</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Mississippi</WikiTitle> <WikiTitleID>122360</WikiTitleID> <RankerScore>0.04844627592880623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Indiana</WikiTitle> <WikiTitleID>6830</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus_Crew</WikiTitle> <WikiTitleID>245695</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus_Clippers</WikiTitle> <WikiTitleID>189786</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Nebraska</WikiTitle> <WikiTitleID>124127</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus_County,_North_Carolina</WikiTitle> <WikiTitleID>93322</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus_(ISS_module)</WikiTitle> <WikiTitleID>227956</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Kentucky</WikiTitle> <WikiTitleID>115162</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Wisconsin</WikiTitle> <WikiTitleID>260345</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_New_Jersey</WikiTitle> <WikiTitleID>6972364</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Montana</WikiTitle> <WikiTitleID>123629</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Texas</WikiTitle> <WikiTitleID>135713</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_North_Carolina</WikiTitle> <WikiTitleID>128144</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_New_Mexico</WikiTitle> <WikiTitleID>125919</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Kansas</WikiTitle> <WikiTitleID>114464</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus,_Minnesota</WikiTitle> <WikiTitleID>119365</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbus_Township,_Bartholomew_County,_Indiana</WikiTitle> <WikiTitleID>13799726</WikiTitleID> <RankerScore>0.04404825529034098</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Columbus, OH</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>604</EntityTextEnd>
+	<LinkerScore>1.0877917190139104</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Columbus,_Ohio</WikiTitle>
+		<WikiTitleID>5950</WikiTitleID>
+		<RankerScore>0.7743748257621458</RankerScore>
+		<Attributes>city	seats	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Columbus,_Ohio</WikiTitle> <WikiTitleID>5950</WikiTitleID> <RankerScore>0.7743748257621458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_people_from_Columbus,_Ohio</WikiTitle> <WikiTitleID>3546495</WikiTitleID> <RankerScore>0.22562517423785425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>simpler</EntitySurfaceForm>
+	<EntityTextStart>626</EntityTextStart>
+	<EntityTextEnd>633</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Simplicity</WikiTitle>
+		<WikiTitleID>238682</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>672</EntityTextStart>
+	<EntityTextEnd>687</EntityTextEnd>
+	<LinkerScore>0.8976450155998795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>688</EntityTextStart>
+	<EntityTextEnd>698</EntityTextEnd>
+	<LinkerScore>0.9167734000316621</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.1443929811317598</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.1443929811317598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.0440713103472537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.06061659757839865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_Muslim_scientists_and_engineers</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asgard_technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Races_in_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.04417171240838752</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prototype</EntitySurfaceForm>
+	<EntityTextStart>739</EntityTextStart>
+	<EntityTextEnd>748</EntityTextEnd>
+	<LinkerScore>0.9025387847013386</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prototype</WikiTitle>
+		<WikiTitleID>72718</WikiTitleID>
+		<RankerScore>0.2530521451334877</RankerScore>
+		<Attributes>loanword	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prototype</WikiTitle> <WikiTitleID>72718</WikiTitleID> <RankerScore>0.2530521451334877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Le_Mans_Prototype</WikiTitle> <WikiTitleID>1842464</WikiTitleID> <RankerScore>0.08929261631982148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prototype_Theory</WikiTitle> <WikiTitleID>1042464</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Software_prototyping</WikiTitle> <WikiTitleID>1090852</WikiTitleID> <RankerScore>0.09917918880727643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prototype-based_programming</WikiTitle> <WikiTitleID>61003</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Concept_car</WikiTitle> <WikiTitleID>390885</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Function_prototype</WikiTitle> <WikiTitleID>1311431</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tech_demo</WikiTitle> <WikiTitleID>970198</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prototype_JavaScript_Framework</WikiTitle> <WikiTitleID>6189087</WikiTitleID> <RankerScore>0.09307934162323574</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>point-to-point</EntitySurfaceForm>
+	<EntityTextStart>749</EntityTextStart>
+	<EntityTextEnd>763</EntityTextEnd>
+	<LinkerScore>0.36264762941836626</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Point-to-point_(telecommunications)</WikiTitle>
+		<WikiTitleID>365920</WikiTitleID>
+		<RankerScore>0.2822840233734489</RankerScore>
+		<Attributes>services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Point-to-point_(telecommunications)</WikiTitle> <WikiTitleID>365920</WikiTitleID> <RankerScore>0.2822840233734489</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_to_point_racing</WikiTitle> <WikiTitleID>3984054</WikiTitleID> <RankerScore>0.14764881272534877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_transit</WikiTitle> <WikiTitleID>6319728</WikiTitleID> <RankerScore>0.148892545047673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fibre_Channel_point-to-point</WikiTitle> <WikiTitleID>1918972</WikiTitleID> <RankerScore>0.1403915396178431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_tunneling_protocol</WikiTitle> <WikiTitleID>186698</WikiTitleID> <RankerScore>0.1403915396178431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_construction</WikiTitle> <WikiTitleID>65919</WikiTitleID> <RankerScore>0.1403915396178431</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antennas</EntitySurfaceForm>
+	<EntityTextStart>839</EntityTextStart>
+	<EntityTextEnd>847</EntityTextEnd>
+	<LinkerScore>1.213834154350396</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antenna_(radio)</WikiTitle>
+		<WikiTitleID>187317</WikiTitleID>
+		<RankerScore>0.5452884550047632</RankerScore>
+		<Attributes>loanword	electronics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antenna_(radio)</WikiTitle> <WikiTitleID>187317</WikiTitleID> <RankerScore>0.5452884550047632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_masts_and_towers</WikiTitle> <WikiTitleID>2044496</WikiTitleID> <RankerScore>0.1356410785161165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cantenna</WikiTitle> <WikiTitleID>263091</WikiTitleID> <RankerScore>0.129683865294059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microstrip_antenna</WikiTitle> <WikiTitleID>2021939</WikiTitleID> <RankerScore>0.0946933005925307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monopole_antenna</WikiTitle> <WikiTitleID>2874126</WikiTitleID> <RankerScore>0.0946933005925307</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>800 meters</EntitySurfaceForm>
+	<EntityTextStart>848</EntityTextStart>
+	<EntityTextEnd>858</EntityTextEnd>
+	<LinkerScore>0.93436288157379</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>800_metres</WikiTitle>
+		<WikiTitleID>585165</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>event</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>800_metres</WikiTitle> <WikiTitleID>585165</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ridgway</EntitySurfaceForm>
+	<EntityTextStart>966</EntityTextStart>
+	<EntityTextEnd>973</EntityTextEnd>
+	<LinkerScore>-0.061502297321439164</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ridgway,_Colorado</WikiTitle>
+		<WikiTitleID>108611</WikiTitleID>
+		<RankerScore>0.21851545911722117</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ridgway,_Colorado</WikiTitle> <WikiTitleID>108611</WikiTitleID> <RankerScore>0.21851545911722117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Pennsylvania</WikiTitle> <WikiTitleID>132464</WikiTitleID> <RankerScore>0.18760203829224167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Ridgway</WikiTitle> <WikiTitleID>504236</WikiTitleID> <RankerScore>0.16240059186057892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Illinois</WikiTitle> <WikiTitleID>111220</WikiTitleID> <RankerScore>0.14382730357665272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dave_Ridgway</WikiTitle> <WikiTitleID>2641337</WikiTitleID> <RankerScore>0.14382730357665272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Ridgway</WikiTitle> <WikiTitleID>365019</WikiTitleID> <RankerScore>0.14382730357665272</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Battelle</EntitySurfaceForm>
+	<EntityTextStart>998</EntityTextStart>
+	<EntityTextEnd>1006</EntityTextEnd>
+	<LinkerScore>-0.07639487415791316</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battelle_Memorial_Institute</WikiTitle>
+		<WikiTitleID>532208</WikiTitleID>
+		<RankerScore>0.6141779846099961</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battelle_Memorial_Institute</WikiTitle> <WikiTitleID>532208</WikiTitleID> <RankerScore>0.6141779846099961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battelle,_Alabama</WikiTitle> <WikiTitleID>9156612</WikiTitleID> <RankerScore>0.38582201539000394</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>huge files</EntitySurfaceForm>
+	<EntityTextStart>1054</EntityTextStart>
+	<EntityTextEnd>1064</EntityTextEnd>
+	<LinkerScore>0.935722479661066</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Large_file_support</WikiTitle>
+		<WikiTitleID>472105</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Large_file_support</WikiTitle> <WikiTitleID>472105</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>college</EntitySurfaceForm>
+	<EntityTextStart>1072</EntityTextStart>
+	<EntityTextEnd>1079</EntityTextEnd>
+	<LinkerScore>0.734656879380741</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>College</WikiTitle>
+		<WikiTitleID>5689</WikiTitleID>
+		<RankerScore>0.14847306656492557</RankerScore>
+		<Attributes>university	type	stage</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>College</WikiTitle> <WikiTitleID>5689</WikiTitleID> <RankerScore>0.14847306656492557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_football</WikiTitle> <WikiTitleID>6771</WikiTitleID> <RankerScore>0.04347481326811567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_basketball</WikiTitle> <WikiTitleID>768856</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campus_radio</WikiTitle> <WikiTitleID>654173</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_athletics</WikiTitle> <WikiTitleID>2181526</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University</WikiTitle> <WikiTitleID>31794</WikiTitleID> <RankerScore>0.06351912168835283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Collegiate_Athletic_Association</WikiTitle> <WikiTitleID>60706</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sixth_form_college</WikiTitle> <WikiTitleID>985758</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colleges_within_universities_in_the_United_Kingdom</WikiTitle> <WikiTitleID>4961657</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colleges_of_the_University_of_Oxford</WikiTitle> <WikiTitleID>366101</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Higher_education</WikiTitle> <WikiTitleID>14423</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Collegiate_university</WikiTitle> <WikiTitleID>930482</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_baseball</WikiTitle> <WikiTitleID>1370306</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Community_college</WikiTitle> <WikiTitleID>5696</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bible_college</WikiTitle> <WikiTitleID>4113301</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tertiary_education</WikiTitle> <WikiTitleID>31486</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gettysburg_College</WikiTitle> <WikiTitleID>496690</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_of_Cardinals</WikiTitle> <WikiTitleID>308790</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colleges_and_institutes_in_India</WikiTitle> <WikiTitleID>1787993</WikiTitleID> <RankerScore>0.04379605873403564</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>emergency networks</EntitySurfaceForm>
+	<EntityTextStart>1108</EntityTextStart>
+	<EntityTextEnd>1126</EntityTextEnd>
+	<LinkerScore>0.9676815122604717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Professional_Mobile_Radio</WikiTitle>
+		<WikiTitleID>735619</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Professional_Mobile_Radio</WikiTitle> <WikiTitleID>735619</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stream</EntitySurfaceForm>
+	<EntityTextStart>1154</EntityTextStart>
+	<EntityTextEnd>1160</EntityTextEnd>
+	<LinkerScore>-0.06557393132220181</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stream</WikiTitle>
+		<WikiTitleID>70130</WikiTitleID>
+		<RankerScore>0.13065325511940787</RankerScore>
+		<Attributes>stream	river	landforms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stream</WikiTitle> <WikiTitleID>70130</WikiTitleID> <RankerScore>0.13065325511940787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Streaming_media</WikiTitle> <WikiTitleID>28682</WikiTitleID> <RankerScore>0.1262697504154929</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stream_(computing)</WikiTitle> <WikiTitleID>2761533</WikiTitleID> <RankerScore>0.06935520651071198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tracking_(education)</WikiTitle> <WikiTitleID>9657023</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burn_(topography)</WikiTitle> <WikiTitleID>2219499</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River</WikiTitle> <WikiTitleID>25510</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jewish_religious_movements</WikiTitle> <WikiTitleID>375565</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Particle_beam</WikiTitle> <WikiTitleID>1359420</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Webcast</WikiTitle> <WikiTitleID>626855</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_Creek_(Potomac_River)</WikiTitle> <WikiTitleID>6404611</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internet_radio</WikiTitle> <WikiTitleID>52301</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nullah</WikiTitle> <WikiTitleID>3981247</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bucks_Burn</WikiTitle> <WikiTitleID>4877825</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stream_cipher</WikiTitle> <WikiTitleID>49007</WikiTitleID> <RankerScore>0.061247435268580654</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>high-definition</EntitySurfaceForm>
+	<EntityTextStart>1174</EntityTextStart>
+	<EntityTextEnd>1189</EntityTextEnd>
+	<LinkerScore>0.5201518399929115</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>High-definition_television</WikiTitle>
+		<WikiTitleID>16315657</WikiTitleID>
+		<RankerScore>0.5581919513592191</RankerScore>
+		<Attributes>electronics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>High-definition_television</WikiTitle> <WikiTitleID>16315657</WikiTitleID> <RankerScore>0.5581919513592191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High-definition_video</WikiTitle> <WikiTitleID>1543683</WikiTitleID> <RankerScore>0.2753678832436352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HiDef</WikiTitle> <WikiTitleID>175626</WikiTitleID> <RankerScore>0.16644016539714568</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>high-definition video</EntitySurfaceForm>
+	<EntityTextStart>1174</EntityTextStart>
+	<EntityTextEnd>1195</EntityTextEnd>
+	<LinkerScore>0.2573766224068346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>High-definition_video</WikiTitle>
+		<WikiTitleID>1543683</WikiTitleID>
+		<RankerScore>0.46137538533183686</RankerScore>
+		<Attributes>electronics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>High-definition_video</WikiTitle> <WikiTitleID>1543683</WikiTitleID> <RankerScore>0.46137538533183686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High-definition_television</WikiTitle> <WikiTitleID>16315657</WikiTitleID> <RankerScore>0.29883258390041273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HDV</WikiTitle> <WikiTitleID>1047056</WikiTitleID> <RankerScore>0.2397920307677505</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>set-top box</EntitySurfaceForm>
+	<EntityTextStart>1215</EntityTextStart>
+	<EntityTextEnd>1226</EntityTextEnd>
+	<LinkerScore>1.0666217089387833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Set-top_box</WikiTitle>
+		<WikiTitleID>29580</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>electronics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Set-top_box</WikiTitle> <WikiTitleID>29580</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wi-Fi</EntitySurfaceForm>
+	<EntityTextStart>1250</EntityTextStart>
+	<EntityTextEnd>1255</EntityTextEnd>
+	<LinkerScore>0.9570412179177143</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wi-Fi</WikiTitle>
+		<WikiTitleID>63973</WikiTitleID>
+		<RankerScore>0.48032447114879473</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wi-Fi</WikiTitle> <WikiTitleID>63973</WikiTitleID> <RankerScore>0.48032447114879473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nintendo_Wi-Fi_Connection</WikiTitle> <WikiTitleID>2588229</WikiTitleID> <RankerScore>0.07428893887272803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11</WikiTitle> <WikiTitleID>14739</WikiTitleID> <RankerScore>0.17168563056958244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network</WikiTitle> <WikiTitleID>33172</WikiTitleID> <RankerScore>0.12512308166343883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi_Alliance</WikiTitle> <WikiTitleID>816807</WikiTitleID> <RankerScore>0.07428893887272803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi_Protected_Setup</WikiTitle> <WikiTitleID>9228804</WikiTitleID> <RankerScore>0.07428893887272803</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cellular</EntitySurfaceForm>
+	<EntityTextStart>1260</EntityTextStart>
+	<EntityTextEnd>1268</EntityTextEnd>
+	<LinkerScore>-0.17730157886878584</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mobile_phone</WikiTitle>
+		<WikiTitleID>19976</WikiTitleID>
+		<RankerScore>0.27345650295499435</RankerScore>
+		<Attributes>system	phone	telecommunication	introduction	medium	services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cell_(biology)</WikiTitle> <WikiTitleID>4230</WikiTitleID> <RankerScore>0.1652500957155085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.27345650295499435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.2519868787852651</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_biology</WikiTitle> <WikiTitleID>6339</WikiTitleID> <RankerScore>0.10310217418141067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell-mediated_immunity</WikiTitle> <WikiTitleID>569705</WikiTitleID> <RankerScore>0.10310217418141067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Microorganism</WikiTitle> <WikiTitleID>20377</WikiTitleID> <RankerScore>0.10310217418141067</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cellular networks</EntitySurfaceForm>
+	<EntityTextStart>1260</EntityTextStart>
+	<EntityTextEnd>1277</EntityTextEnd>
+	<LinkerScore>1.0451764942492257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cellular_network</WikiTitle>
+		<WikiTitleID>735672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>frequencies</EntitySurfaceForm>
+	<EntityTextStart>1289</EntityTextStart>
+	<EntityTextEnd>1300</EntityTextEnd>
+	<LinkerScore>0.6062345393361273</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frequency</WikiTitle>
+		<WikiTitleID>10779</WikiTitleID>
+		<RankerScore>0.27334985215398655</RankerScore>
+		<Attributes>concept	mechanics	acoustics	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frequency</WikiTitle> <WikiTitleID>10779</WikiTitleID> <RankerScore>0.27334985215398655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.12241998276894404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_spectrum</WikiTitle> <WikiTitleID>10134</WikiTitleID> <RankerScore>0.09640238622437118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_(statistics)</WikiTitle> <WikiTitleID>4839019</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_analysis</WikiTitle> <WikiTitleID>157934</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Response_spectrum</WikiTitle> <WikiTitleID>1795103</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Utility_frequency</WikiTitle> <WikiTitleID>488815</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carrier_frequency</WikiTitle> <WikiTitleID>47721</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allele_frequency</WikiTitle> <WikiTitleID>232583</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clock_signal</WikiTitle> <WikiTitleID>182693</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Letter_frequencies</WikiTitle> <WikiTitleID>6767165</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_response</WikiTitle> <WikiTitleID>302033</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sound</WikiTitle> <WikiTitleID>27017</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hertz</WikiTitle> <WikiTitleID>14121</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FM_broadcast_band</WikiTitle> <WikiTitleID>272522</WikiTitleID> <RankerScore>0.04231898157105818</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigahertz</EntitySurfaceForm>
+	<EntityTextStart>1315</EntityTextStart>
+	<EntityTextEnd>1324</EntityTextEnd>
+	<LinkerScore>1.1003000039148654</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hertz</WikiTitle>
+		<WikiTitleID>14121</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hertz</WikiTitle> <WikiTitleID>14121</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>1326</EntityTextStart>
+	<EntityTextEnd>1341</EntityTextEnd>
+	<LinkerScore>0.9686939547551227</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>1342</EntityTextStart>
+	<EntityTextEnd>1352</EntityTextEnd>
+	<LinkerScore>0.9374015091263845</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.13969641792130846</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.13969641792130846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.04484056606915744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.046219285059340406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_Muslim_scientists_and_engineers</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asgard_technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Races_in_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.04524963123236434</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>1364</EntityTextStart>
+	<EntityTextEnd>1370</EntityTextEnd>
+	<LinkerScore>-0.05530274146950558</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regions_of_France</WikiTitle>
+		<WikiTitleID>58846</WikiTitleID>
+		<RankerScore>0.08427025729865248</RankerScore>
+		<Attributes>region	subdivision	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.08427025729865248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.059580889432361665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.05761808996971439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_and_districts_of_Scotland</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Quebec_regions</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_in_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.04697239784113362</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigahertz</EntitySurfaceForm>
+	<EntityTextStart>1392</EntityTextStart>
+	<EntityTextEnd>1401</EntityTextEnd>
+	<LinkerScore>1.0678228876926803</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hertz</WikiTitle>
+		<WikiTitleID>14121</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hertz</WikiTitle> <WikiTitleID>14121</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter</EntitySurfaceForm>
+	<EntityTextStart>1478</EntityTextStart>
+	<EntityTextEnd>1488</EntityTextEnd>
+	<LinkerScore>0.3769505915574585</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Millimetre</WikiTitle>
+		<WikiTitleID>72949</WikiTitleID>
+		<RankerScore>0.4911523708009928</RankerScore>
+		<Attributes>order	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Millimetre</WikiTitle> <WikiTitleID>72949</WikiTitleID> <RankerScore>0.4911523708009928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metre</WikiTitle> <WikiTitleID>18947</WikiTitleID> <RankerScore>0.287807433082478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conversion_of_units</WikiTitle> <WikiTitleID>5390</WikiTitleID> <RankerScore>0.2210401961165293</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>1489</EntityTextStart>
+	<EntityTextEnd>1495</EntityTextEnd>
+	<LinkerScore>-0.02923699726984961</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regions_of_France</WikiTitle>
+		<WikiTitleID>58846</WikiTitleID>
+		<RankerScore>0.08427426482820959</RankerScore>
+		<Attributes>region	subdivision	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.08427426482820959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.05950555079489352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.05751067251104051</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_and_districts_of_Scotland</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Quebec_regions</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_in_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.04698291246269744</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>1618</EntityTextStart>
+	<EntityTextEnd>1633</EntityTextEnd>
+	<LinkerScore>0.9200329490411218</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigahertz</EntitySurfaceForm>
+	<EntityTextStart>1785</EntityTextStart>
+	<EntityTextEnd>1794</EntityTextEnd>
+	<LinkerScore>1.0715264765436787</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hertz</WikiTitle>
+		<WikiTitleID>14121</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hertz</WikiTitle> <WikiTitleID>14121</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>data rate</EntitySurfaceForm>
+	<EntityTextStart>1918</EntityTextStart>
+	<EntityTextEnd>1927</EntityTextEnd>
+	<LinkerScore>0.25312895074798425</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bit_rate</WikiTitle>
+		<WikiTitleID>272290</WikiTitleID>
+		<RankerScore>0.4070104123198267</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Data_signaling_rate</WikiTitle> <WikiTitleID>40998</WikiTitleID> <RankerScore>0.2833512033114842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Data_transfer_rate</WikiTitle> <WikiTitleID>525346</WikiTitleID> <RankerScore>0.3096383843686891</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bit_rate</WikiTitle> <WikiTitleID>272290</WikiTitleID> <RankerScore>0.4070104123198267</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigabit</EntitySurfaceForm>
+	<EntityTextStart>1941</EntityTextStart>
+	<EntityTextEnd>1948</EntityTextEnd>
+	<LinkerScore>1.0439657703828473</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gigabit</WikiTitle>
+		<WikiTitleID>442674</WikiTitleID>
+		<RankerScore>0.7749599594191107</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gigabit</WikiTitle> <WikiTitleID>442674</WikiTitleID> <RankerScore>0.7749599594191107</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gigabit_Ethernet</WikiTitle> <WikiTitleID>64636</WikiTitleID> <RankerScore>0.2250400405808894</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Battelle</EntitySurfaceForm>
+	<EntityTextStart>1966</EntityTextStart>
+	<EntityTextEnd>1974</EntityTextEnd>
+	<LinkerScore>-0.07749299303618176</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battelle_Memorial_Institute</WikiTitle>
+		<WikiTitleID>532208</WikiTitleID>
+		<RankerScore>0.6141358768658594</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battelle_Memorial_Institute</WikiTitle> <WikiTitleID>532208</WikiTitleID> <RankerScore>0.6141358768658594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battelle,_Alabama</WikiTitle> <WikiTitleID>9156612</WikiTitleID> <RankerScore>0.38586412313414065</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>off-the-shelf</EntitySurfaceForm>
+	<EntityTextStart>2038</EntityTextStart>
+	<EntityTextEnd>2051</EntityTextEnd>
+	<LinkerScore>0.2435424347567403</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Off_the_shelf</WikiTitle>
+		<WikiTitleID>1788584</WikiTitleID>
+		<RankerScore>0.5831362484981736</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Off_the_shelf</WikiTitle> <WikiTitleID>1788584</WikiTitleID> <RankerScore>0.5831362484981736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_off-the-shelf</WikiTitle> <WikiTitleID>2425273</WikiTitleID> <RankerScore>0.41686375150182636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>optical</EntitySurfaceForm>
+	<EntityTextStart>2052</EntityTextStart>
+	<EntityTextEnd>2059</EntityTextEnd>
+	<LinkerScore>0.05090177982299733</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Optics</WikiTitle>
+		<WikiTitleID>22483</WikiTitleID>
+		<RankerScore>0.119021963656819</RankerScore>
+		<Attributes>optics	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Optics</WikiTitle> <WikiTitleID>22483</WikiTitleID> <RankerScore>0.119021963656819</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_fiber</WikiTitle> <WikiTitleID>3372377</WikiTitleID> <RankerScore>0.0953727462527788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visible_spectrum</WikiTitle> <WikiTitleID>41464</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Light</WikiTitle> <WikiTitleID>17939</WikiTitleID> <RankerScore>0.08872763848679258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_disc</WikiTitle> <WikiTitleID>41458</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Double_star</WikiTitle> <WikiTitleID>53603</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_astronomy</WikiTitle> <WikiTitleID>46781</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_physics</WikiTitle> <WikiTitleID>2865368</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Op_art</WikiTitle> <WikiTitleID>178848</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optician</WikiTitle> <WikiTitleID>543329</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_phenomenon</WikiTitle> <WikiTitleID>43228</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_mineralogy</WikiTitle> <WikiTitleID>4387316</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoom_lens</WikiTitle> <WikiTitleID>352711</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>TOSLINK</WikiTitle> <WikiTitleID>181794</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_microscope</WikiTitle> <WikiTitleID>117534</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_telescope</WikiTitle> <WikiTitleID>266611</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Smartdust</WikiTitle> <WikiTitleID>669367</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Optical_pumping</WikiTitle> <WikiTitleID>4374425</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luminescence</WikiTitle> <WikiTitleID>60871</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Compositing</WikiTitle> <WikiTitleID>1136715</WikiTitleID> <RankerScore>0.04099280303550645</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>optical telecommunication</EntitySurfaceForm>
+	<EntityTextStart>2052</EntityTextStart>
+	<EntityTextEnd>2077</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Optical_communication</WikiTitle>
+		<WikiTitleID>164174</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>communications</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telecommunication</EntitySurfaceForm>
+	<EntityTextStart>2060</EntityTextStart>
+	<EntityTextEnd>2077</EntityTextEnd>
+	<LinkerScore>0.9916564750935108</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telecommunication</WikiTitle>
+		<WikiTitleID>30322</WikiTitleID>
+		<RankerScore>0.654231878290724</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.654231878290724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-mediated_communication</WikiTitle> <WikiTitleID>320498</WikiTitleID> <RankerScore>0.11963074947021732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunications_network</WikiTitle> <WikiTitleID>46545</WikiTitleID> <RankerScore>0.22613737223905855</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>laser</EntitySurfaceForm>
+	<EntityTextStart>2142</EntityTextStart>
+	<EntityTextEnd>2147</EntityTextEnd>
+	<LinkerScore>1.3705800764854956</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laser</WikiTitle>
+		<WikiTitleID>17556</WikiTitleID>
+		<RankerScore>0.4638430313708162</RankerScore>
+		<Attributes>invention	weapon	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laser</WikiTitle> <WikiTitleID>17556</WikiTitleID> <RankerScore>0.4638430313708162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_printer</WikiTitle> <WikiTitleID>50677</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_(dinghy)</WikiTitle> <WikiTitleID>526184</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_hair_removal</WikiTitle> <WikiTitleID>617004</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_diode</WikiTitle> <WikiTitleID>142258</WikiTitleID> <RankerScore>0.07011743087760153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_cutting</WikiTitle> <WikiTitleID>531911</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_laser</WikiTitle> <WikiTitleID>4555508</WikiTitleID> <RankerScore>0.06684967112739384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_video_projector</WikiTitle> <WikiTitleID>1761171</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_scalpel</WikiTitle> <WikiTitleID>1019426</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_surgery</WikiTitle> <WikiTitleID>4091896</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directed-energy_weapon</WikiTitle> <WikiTitleID>453420</WikiTitleID> <RankerScore>0.049898733328023546</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>interference</EntitySurfaceForm>
+	<EntityTextStart>2233</EntityTextStart>
+	<EntityTextEnd>2245</EntityTextEnd>
+	<LinkerScore>0.1707192953795253</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electromagnetic_interference</WikiTitle>
+		<WikiTitleID>1072324</WikiTitleID>
+		<RankerScore>0.1703550252427221</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interference_(baseball)</WikiTitle> <WikiTitleID>990771</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electromagnetic_interference</WikiTitle> <WikiTitleID>1072324</WikiTitleID> <RankerScore>0.1703550252427221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interference_(communication)</WikiTitle> <WikiTitleID>2889864</WikiTitleID> <RankerScore>0.13241154505825517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penalty_(ice_hockey)</WikiTitle> <WikiTitleID>567846</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Language_transfer</WikiTitle> <WikiTitleID>505531</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interference_(chess)</WikiTitle> <WikiTitleID>700371</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Assimilation_(linguistics)</WikiTitle> <WikiTitleID>504133</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interference_proceeding</WikiTitle> <WikiTitleID>1505264</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timing_belt</WikiTitle> <WikiTitleID>739914</WikiTitleID> <RankerScore>0.08032132368560269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holography</WikiTitle> <WikiTitleID>66338</WikiTitleID> <RankerScore>0.13498416389980397</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>laser beam</EntitySurfaceForm>
+	<EntityTextStart>2313</EntityTextStart>
+	<EntityTextEnd>2323</EntityTextEnd>
+	<LinkerScore>0.9641391471829436</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laser</WikiTitle>
+		<WikiTitleID>17556</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>invention	weapon	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laser</WikiTitle> <WikiTitleID>17556</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>laser</EntitySurfaceForm>
+	<EntityTextStart>2313</EntityTextStart>
+	<EntityTextEnd>2318</EntityTextEnd>
+	<LinkerScore>1.2558281162320277</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laser</WikiTitle>
+		<WikiTitleID>17556</WikiTitleID>
+		<RankerScore>0.41478119175846145</RankerScore>
+		<Attributes>invention	weapon	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laser</WikiTitle> <WikiTitleID>17556</WikiTitleID> <RankerScore>0.41478119175846145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_printer</WikiTitle> <WikiTitleID>50677</WikiTitleID> <RankerScore>0.07319977484390934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_(dinghy)</WikiTitle> <WikiTitleID>526184</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_hair_removal</WikiTitle> <WikiTitleID>617004</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_diode</WikiTitle> <WikiTitleID>142258</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_cutting</WikiTitle> <WikiTitleID>531911</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fiber_laser</WikiTitle> <WikiTitleID>4555508</WikiTitleID> <RankerScore>0.07695123939279265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_video_projector</WikiTitle> <WikiTitleID>1761171</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_scalpel</WikiTitle> <WikiTitleID>1019426</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_surgery</WikiTitle> <WikiTitleID>4091896</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directed-energy_weapon</WikiTitle> <WikiTitleID>453420</WikiTitleID> <RankerScore>0.05438347425060457</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>frequency</EntitySurfaceForm>
+	<EntityTextStart>2349</EntityTextStart>
+	<EntityTextEnd>2358</EntityTextEnd>
+	<LinkerScore>0.33259392191181414</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frequency</WikiTitle>
+		<WikiTitleID>10779</WikiTitleID>
+		<RankerScore>0.22527075023226587</RankerScore>
+		<Attributes>concept	mechanics	acoustics	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frequency</WikiTitle> <WikiTitleID>10779</WikiTitleID> <RankerScore>0.22527075023226587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.11154320556362415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Utility_frequency</WikiTitle> <WikiTitleID>488815</WikiTitleID> <RankerScore>0.06166269365453357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_(statistics)</WikiTitle> <WikiTitleID>4839019</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_frequency</WikiTitle> <WikiTitleID>344142</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_probability</WikiTitle> <WikiTitleID>10869</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allele_frequency</WikiTitle> <WikiTitleID>232583</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clock_rate</WikiTitle> <WikiTitleID>228385</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency-division_multiplexing</WikiTitle> <WikiTitleID>86376</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pitch_(music)</WikiTitle> <WikiTitleID>77933</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_response</WikiTitle> <WikiTitleID>302033</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_modulation</WikiTitle> <WikiTitleID>10835</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Angular_frequency</WikiTitle> <WikiTitleID>199829</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_domain</WikiTitle> <WikiTitleID>370346</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wavelength</WikiTitle> <WikiTitleID>33125</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KFNC</WikiTitle> <WikiTitleID>8977596</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frequency_analysis</WikiTitle> <WikiTitleID>157934</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Headway</WikiTitle> <WikiTitleID>6968798</WikiTitleID> <RankerScore>0.04010155670330509</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ridgway</EntitySurfaceForm>
+	<EntityTextStart>2361</EntityTextStart>
+	<EntityTextEnd>2368</EntityTextEnd>
+	<LinkerScore>-0.14501748411820659</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ridgway,_Colorado</WikiTitle>
+		<WikiTitleID>108611</WikiTitleID>
+		<RankerScore>0.21821974239749262</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ridgway,_Colorado</WikiTitle> <WikiTitleID>108611</WikiTitleID> <RankerScore>0.21821974239749262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Pennsylvania</WikiTitle> <WikiTitleID>132464</WikiTitleID> <RankerScore>0.18739560530444047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Ridgway</WikiTitle> <WikiTitleID>504236</WikiTitleID> <RankerScore>0.16253790759113126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Illinois</WikiTitle> <WikiTitleID>111220</WikiTitleID> <RankerScore>0.1439489149023119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dave_Ridgway</WikiTitle> <WikiTitleID>2641337</WikiTitleID> <RankerScore>0.1439489149023119</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Ridgway</WikiTitle> <WikiTitleID>365019</WikiTitleID> <RankerScore>0.1439489149023119</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Georgia</EntitySurfaceForm>
+	<EntityTextStart>2417</EntityTextStart>
+	<EntityTextEnd>2424</EntityTextEnd>
+	<LinkerScore>-0.1103222136524623</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Georgia_(U.S._state)</WikiTitle>
+		<WikiTitleID>48830</WikiTitleID>
+		<RankerScore>0.11636733254983704</RankerScore>
+		<Attributes>state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Georgia_(U.S._state)</WikiTitle> <WikiTitleID>48830</WikiTitleID> <RankerScore>0.11636733254983704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_(country)</WikiTitle> <WikiTitleID>48768</WikiTitleID> <RankerScore>0.05998473107582648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Georgia</WikiTitle> <WikiTitleID>378232</WikiTitleID> <RankerScore>0.07546500961113696</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Bulldogs_football</WikiTitle> <WikiTitleID>2517159</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_national_football_team</WikiTitle> <WikiTitleID>1008603</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Bulldogs</WikiTitle> <WikiTitleID>3885795</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Georgia</WikiTitle> <WikiTitleID>487081</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_national_rugby_union_team</WikiTitle> <WikiTitleID>565815</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Georgia_USA</WikiTitle> <WikiTitleID>3284799</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Gym_Dogs</WikiTitle> <WikiTitleID>16533065</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Georgia_Teen_USA</WikiTitle> <WikiTitleID>4541993</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>404444</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_(1995_film)</WikiTitle> <WikiTitleID>1379878</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Georgia_Bulldogs_football_team</WikiTitle> <WikiTitleID>8758640</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Republic_of_Georgia</WikiTitle> <WikiTitleID>407648</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Force</WikiTitle> <WikiTitleID>328228</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_(typeface)</WikiTitle> <WikiTitleID>1599174</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_national_rugby_league_team</WikiTitle> <WikiTitleID>2268931</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Georgia_(country)</WikiTitle> <WikiTitleID>3092560</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_(song)</WikiTitle> <WikiTitleID>4038031</WikiTitleID> <RankerScore>0.04401076039783527</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Georgia Tech</EntitySurfaceForm>
+	<EntityTextStart>2417</EntityTextStart>
+	<EntityTextEnd>2429</EntityTextEnd>
+	<LinkerScore>1.32403094089675</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Georgia_Institute_of_Technology</WikiTitle>
+		<WikiTitleID>9916781</WikiTitleID>
+		<RankerScore>0.2637730310584659</RankerScore>
+		<Attributes>university	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Georgia_Institute_of_Technology</WikiTitle> <WikiTitleID>9916781</WikiTitleID> <RankerScore>0.2637730310584659</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Tech_Yellow_Jackets_football</WikiTitle> <WikiTitleID>7957577</WikiTitleID> <RankerScore>0.09489456950690103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Tech_Yellow_Jackets</WikiTitle> <WikiTitleID>6252360</WikiTitleID> <RankerScore>0.06642434631687888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Georgia_Tech_Yellow_Jackets_football_team</WikiTitle> <WikiTitleID>6038486</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Tech_Yellow_Jackets_men&apos;s_basketball</WikiTitle> <WikiTitleID>10653902</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Georgia_Tech_Yellow_Jackets_football_team</WikiTitle> <WikiTitleID>8716113</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Tech_Yellow_Jackets_baseball</WikiTitle> <WikiTitleID>13235740</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_Georgia_Tech_Yellow_Jackets_football_team</WikiTitle> <WikiTitleID>10643366</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_Georgia_Tech_Yellow_Jackets_football_team</WikiTitle> <WikiTitleID>11257113</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007-08_Georgia_Tech_Yellow_Jackets_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>11325256</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006-07_Georgia_Tech_Yellow_Jackets_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>8761226</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Georgia_Tech_Yellow_Jackets_football_team</WikiTitle> <WikiTitleID>14602924</WikiTitleID> <RankerScore>0.06387867256863936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MIT</EntitySurfaceForm>
+	<EntityTextStart>2431</EntityTextStart>
+	<EntityTextEnd>2434</EntityTextEnd>
+	<LinkerScore>0.6164718474080797</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Massachusetts_Institute_of_Technology</WikiTitle>
+		<WikiTitleID>18879</WikiTitleID>
+		<RankerScore>0.5187012575934629</RankerScore>
+		<Attributes>university	institution	contractor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Massachusetts_Institute_of_Technology</WikiTitle> <WikiTitleID>18879</WikiTitleID> <RankerScore>0.5187012575934629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MIT_License</WikiTitle> <WikiTitleID>19193</WikiTitleID> <RankerScore>0.20116352232174642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murder_Investigation_Team</WikiTitle> <WikiTitleID>2511964</WikiTitleID> <RankerScore>0.14253540408374255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Rhyne_Killian</WikiTitle> <WikiTitleID>2795767</WikiTitleID> <RankerScore>0.13759981600104812</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Intel</EntitySurfaceForm>
+	<EntityTextStart>2436</EntityTextStart>
+	<EntityTextEnd>2441</EntityTextEnd>
+	<LinkerScore>0.34959177552064435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Intel_Corporation</WikiTitle>
+		<WikiTitleID>14617</WikiTitleID>
+		<RankerScore>0.304255096536595</RankerScore>
+		<Attributes>company	manufacturer	microprocessor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Intel_Corporation</WikiTitle> <WikiTitleID>14617</WikiTitleID> <RankerScore>0.304255096536595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>X86_architecture</WikiTitle> <WikiTitleID>34198</WikiTitleID> <RankerScore>0.14955944036896449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intel_Ireland</WikiTitle> <WikiTitleID>741902</WikiTitleID> <RankerScore>0.14436572228622088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple-Intel_architecture</WikiTitle> <WikiTitleID>3698317</WikiTitleID> <RankerScore>0.1004549352020549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple_Intel_transition</WikiTitle> <WikiTitleID>2020710</WikiTitleID> <RankerScore>0.1004549352020549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Noyce</WikiTitle> <WikiTitleID>25808</WikiTitleID> <RankerScore>0.1004549352020549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Intel_microprocessors</WikiTitle> <WikiTitleID>60525</WikiTitleID> <RankerScore>0.1004549352020549</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>great strides</EntitySurfaceForm>
+	<EntityTextStart>2467</EntityTextStart>
+	<EntityTextEnd>2480</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Great_Strides</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>fundraiser</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>2495</EntityTextStart>
+	<EntityTextEnd>2510</EntityTextEnd>
+	<LinkerScore>0.8685664585650589</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Intel</EntitySurfaceForm>
+	<EntityTextStart>2538</EntityTextStart>
+	<EntityTextEnd>2543</EntityTextEnd>
+	<LinkerScore>0.6849987351817725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Intel_Corporation</WikiTitle>
+		<WikiTitleID>14617</WikiTitleID>
+		<RankerScore>0.3470731049446091</RankerScore>
+		<Attributes>company	manufacturer	microprocessor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Intel_Corporation</WikiTitle> <WikiTitleID>14617</WikiTitleID> <RankerScore>0.3470731049446091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>X86_architecture</WikiTitle> <WikiTitleID>34198</WikiTitleID> <RankerScore>0.1431227412188456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intel_Ireland</WikiTitle> <WikiTitleID>741902</WikiTitleID> <RankerScore>0.13292062693653947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple-Intel_architecture</WikiTitle> <WikiTitleID>3698317</WikiTitleID> <RankerScore>0.09422088172500145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple_Intel_transition</WikiTitle> <WikiTitleID>2020710</WikiTitleID> <RankerScore>0.09422088172500145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Noyce</WikiTitle> <WikiTitleID>25808</WikiTitleID> <RankerScore>0.09422088172500145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Intel_microprocessors</WikiTitle> <WikiTitleID>60525</WikiTitleID> <RankerScore>0.09422088172500145</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>interoperable</EntitySurfaceForm>
+	<EntityTextStart>2608</EntityTextStart>
+	<EntityTextEnd>2621</EntityTextEnd>
+	<LinkerScore>1.076534170343759</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interoperability</WikiTitle>
+		<WikiTitleID>41285</WikiTitleID>
+		<RankerScore>0.7835609818045929</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interoperability</WikiTitle> <WikiTitleID>41285</WikiTitleID> <RankerScore>0.7835609818045929</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CAD_data_exchange</WikiTitle> <WikiTitleID>2899216</WikiTitleID> <RankerScore>0.21643901819540717</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>interoperable technologies</EntitySurfaceForm>
+	<EntityTextStart>2608</EntityTextStart>
+	<EntityTextEnd>2634</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sirius_XM_Radio</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>venture	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigahertz</EntitySurfaceForm>
+	<EntityTextStart>2654</EntityTextStart>
+	<EntityTextEnd>2663</EntityTextEnd>
+	<LinkerScore>1.0320307668694308</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hertz</WikiTitle>
+		<WikiTitleID>14121</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hertz</WikiTitle> <WikiTitleID>14121</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>products</EntitySurfaceForm>
+	<EntityTextStart>2707</EntityTextStart>
+	<EntityTextEnd>2715</EntityTextEnd>
+	<LinkerScore>0.23908972118290564</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Product_(chemistry)</WikiTitle>
+		<WikiTitleID>540448</WikiTitleID>
+		<RankerScore>0.14186856579692544</RankerScore>
+		<Attributes>reaction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Product_(chemistry)</WikiTitle> <WikiTitleID>540448</WikiTitleID> <RankerScore>0.14186856579692544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(business)</WikiTitle> <WikiTitleID>240410</WikiTitleID> <RankerScore>0.0685395004889564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(category_theory)</WikiTitle> <WikiTitleID>237868</WikiTitleID> <RankerScore>0.05824183005854852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(mathematics)</WikiTitle> <WikiTitleID>24977</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_topology</WikiTitle> <WikiTitleID>24910</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cartesian_product</WikiTitle> <WikiTitleID>5795</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Good_(economics)</WikiTitle> <WikiTitleID>580039</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_nanotechnology_applications</WikiTitle> <WikiTitleID>7067473</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Industrial_production</WikiTitle> <WikiTitleID>8340480</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_product</WikiTitle> <WikiTitleID>8887</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_fiction</WikiTitle> <WikiTitleID>1089263</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voltz</WikiTitle> <WikiTitleID>9547811</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(biology)</WikiTitle> <WikiTitleID>540433</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matrix_multiplication</WikiTitle> <WikiTitleID>125280</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mazinger_Toy_Lines</WikiTitle> <WikiTitleID>9160101</WikiTitleID> <RankerScore>0.06094584197129748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gigabit</EntitySurfaceForm>
+	<EntityTextStart>2744</EntityTextStart>
+	<EntityTextEnd>2751</EntityTextEnd>
+	<LinkerScore>0.7072471885733884</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gigabit</WikiTitle>
+		<WikiTitleID>442674</WikiTitleID>
+		<RankerScore>0.6095492773865896</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gigabit</WikiTitle> <WikiTitleID>442674</WikiTitleID> <RankerScore>0.6095492773865896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gigabit_Ethernet</WikiTitle> <WikiTitleID>64636</WikiTitleID> <RankerScore>0.39045072261341046</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>point-to-point link</EntitySurfaceForm>
+	<EntityTextStart>2771</EntityTextStart>
+	<EntityTextEnd>2790</EntityTextEnd>
+	<LinkerScore>1.03033866109413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Point-to-point_(telecommunications)</WikiTitle>
+		<WikiTitleID>365920</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Point-to-point_(telecommunications)</WikiTitle> <WikiTitleID>365920</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>point-to-point</EntitySurfaceForm>
+	<EntityTextStart>2771</EntityTextStart>
+	<EntityTextEnd>2785</EntityTextEnd>
+	<LinkerScore>0.11950058990915349</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Point-to-point_(telecommunications)</WikiTitle>
+		<WikiTitleID>365920</WikiTitleID>
+		<RankerScore>0.2920651284731561</RankerScore>
+		<Attributes>services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Point-to-point_(telecommunications)</WikiTitle> <WikiTitleID>365920</WikiTitleID> <RankerScore>0.2920651284731561</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point_to_point_racing</WikiTitle> <WikiTitleID>3984054</WikiTitleID> <RankerScore>0.1396211621444378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_transit</WikiTitle> <WikiTitleID>6319728</WikiTitleID> <RankerScore>0.15586964107911674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fibre_Channel_point-to-point</WikiTitle> <WikiTitleID>1918972</WikiTitleID> <RankerScore>0.13748135610109646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_tunneling_protocol</WikiTitle> <WikiTitleID>186698</WikiTitleID> <RankerScore>0.13748135610109646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Point-to-point_construction</WikiTitle> <WikiTitleID>65919</WikiTitleID> <RankerScore>0.13748135610109646</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ridgway</EntitySurfaceForm>
+	<EntityTextStart>2819</EntityTextStart>
+	<EntityTextEnd>2826</EntityTextEnd>
+	<LinkerScore>-0.11810954455509637</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ridgway,_Colorado</WikiTitle>
+		<WikiTitleID>108611</WikiTitleID>
+		<RankerScore>0.21838230554953342</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ridgway,_Colorado</WikiTitle> <WikiTitleID>108611</WikiTitleID> <RankerScore>0.21838230554953342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Pennsylvania</WikiTitle> <WikiTitleID>132464</WikiTitleID> <RankerScore>0.18762071740068534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Ridgway</WikiTitle> <WikiTitleID>504236</WikiTitleID> <RankerScore>0.16243189556097937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Illinois</WikiTitle> <WikiTitleID>111220</WikiTitleID> <RankerScore>0.1438550271629339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dave_Ridgway</WikiTitle> <WikiTitleID>2641337</WikiTitleID> <RankerScore>0.1438550271629339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Ridgway</WikiTitle> <WikiTitleID>365019</WikiTitleID> <RankerScore>0.1438550271629339</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telecommunication</EntitySurfaceForm>
+	<EntityTextStart>2847</EntityTextStart>
+	<EntityTextEnd>2864</EntityTextEnd>
+	<LinkerScore>0.9853033930729549</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telecommunication</WikiTitle>
+		<WikiTitleID>30322</WikiTitleID>
+		<RankerScore>0.6312158864720637</RankerScore>
+		<Attributes>telecommunication</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.6312158864720637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-mediated_communication</WikiTitle> <WikiTitleID>320498</WikiTitleID> <RankerScore>0.14990296012917098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunications_network</WikiTitle> <WikiTitleID>46545</WikiTitleID> <RankerScore>0.21888115339876538</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lasers</EntitySurfaceForm>
+	<EntityTextStart>2865</EntityTextStart>
+	<EntityTextEnd>2871</EntityTextEnd>
+	<LinkerScore>0.6045885896918402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laser</WikiTitle>
+		<WikiTitleID>17556</WikiTitleID>
+		<RankerScore>0.356346963515703</RankerScore>
+		<Attributes>invention	weapon	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laser</WikiTitle> <WikiTitleID>17556</WikiTitleID> <RankerScore>0.356346963515703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boeing_YAL-1</WikiTitle> <WikiTitleID>163261</WikiTitleID> <RankerScore>0.15880757066335247</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_microphone</WikiTitle> <WikiTitleID>2244025</WikiTitleID> <RankerScore>0.09043233865208244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_cutting</WikiTitle> <WikiTitleID>531911</WikiTitleID> <RankerScore>0.09043233865208244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_(dinghy)</WikiTitle> <WikiTitleID>526184</WikiTitleID> <RankerScore>0.09043233865208244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_hair_removal</WikiTitle> <WikiTitleID>617004</WikiTitleID> <RankerScore>0.09043233865208244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_diode</WikiTitle> <WikiTitleID>142258</WikiTitleID> <RankerScore>0.12311611121261472</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter wave</EntitySurfaceForm>
+	<EntityTextStart>2941</EntityTextStart>
+	<EntityTextEnd>2956</EntityTextEnd>
+	<LinkerScore>0.9133216765197184</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter</EntitySurfaceForm>
+	<EntityTextStart>2941</EntityTextStart>
+	<EntityTextEnd>2951</EntityTextEnd>
+	<LinkerScore>0.40722485747310383</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Millimetre</WikiTitle>
+		<WikiTitleID>72949</WikiTitleID>
+		<RankerScore>0.47755884303688256</RankerScore>
+		<Attributes>order	unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Millimetre</WikiTitle> <WikiTitleID>72949</WikiTitleID> <RankerScore>0.47755884303688256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metre</WikiTitle> <WikiTitleID>18947</WikiTitleID> <RankerScore>0.310312940774937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Conversion_of_units</WikiTitle> <WikiTitleID>5390</WikiTitleID> <RankerScore>0.21212821618818045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lasers</EntitySurfaceForm>
+	<EntityTextStart>3003</EntityTextStart>
+	<EntityTextEnd>3009</EntityTextEnd>
+	<LinkerScore>0.7920946595860519</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Laser</WikiTitle>
+		<WikiTitleID>17556</WikiTitleID>
+		<RankerScore>0.3953470461385847</RankerScore>
+		<Attributes>invention	weapon	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Laser</WikiTitle> <WikiTitleID>17556</WikiTitleID> <RankerScore>0.3953470461385847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boeing_YAL-1</WikiTitle> <WikiTitleID>163261</WikiTitleID> <RankerScore>0.14690451667346038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_microphone</WikiTitle> <WikiTitleID>2244025</WikiTitleID> <RankerScore>0.08463827679977298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_cutting</WikiTitle> <WikiTitleID>531911</WikiTitleID> <RankerScore>0.08463827679977298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_(dinghy)</WikiTitle> <WikiTitleID>526184</WikiTitleID> <RankerScore>0.08463827679977298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_hair_removal</WikiTitle> <WikiTitleID>617004</WikiTitleID> <RankerScore>0.08463827679977298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laser_diode</WikiTitle> <WikiTitleID>142258</WikiTitleID> <RankerScore>0.11919532998886294</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stable</EntitySurfaceForm>
+	<EntityTextStart>3037</EntityTextStart>
+	<EntityTextEnd>3043</EntityTextEnd>
+	<LinkerScore>0.027898514144405334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Stable</WikiTitle>
+		<WikiTitleID>501478</WikiTitleID>
+		<RankerScore>0.09705235723436102</RankerScore>
+		<Attributes>building</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stable</WikiTitle> <WikiTitleID>501478</WikiTitleID> <RankerScore>0.09705235723436102</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heya</WikiTitle> <WikiTitleID>5169908</WikiTitleID> <RankerScore>0.06369344628899712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stable_isotope</WikiTitle> <WikiTitleID>41891</WikiTitleID> <RankerScore>0.05502872552470396</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BIBO_stability</WikiTitle> <WikiTitleID>1145733</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numerical_stability</WikiTitle> <WikiTitleID>233807</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stable_manifold</WikiTitle> <WikiTitleID>5466649</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stability_theory</WikiTitle> <WikiTitleID>5493795</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stability_(probability)</WikiTitle> <WikiTitleID>2752100</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stable_theory</WikiTitle> <WikiTitleID>15828771</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stable_model_semantics</WikiTitle> <WikiTitleID>4224978</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship_stability</WikiTitle> <WikiTitleID>10675964</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecological_stability</WikiTitle> <WikiTitleID>1850130</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rayleigh–Taylor_instability</WikiTitle> <WikiTitleID>1749848</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structural_stability</WikiTitle> <WikiTitleID>2515807</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flight_dynamics</WikiTitle> <WikiTitleID>221400</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Particle_decay</WikiTitle> <WikiTitleID>8135659</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stable_polynomial</WikiTitle> <WikiTitleID>2057699</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directional_stability</WikiTitle> <WikiTitleID>5532906</WikiTitleID> <RankerScore>0.05228169806346253</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>3130</EntityTextStart>
+	<EntityTextEnd>3145</EntityTextEnd>
+	<LinkerScore>0.8916933494193041</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Crouch</EntitySurfaceForm>
+	<EntityTextStart>3161</EntityTextStart>
+	<EntityTextEnd>3167</EntityTextEnd>
+	<LinkerScore>-0.1582902512579677</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Crouch</WikiTitle>
+		<WikiTitleID>1001231</WikiTitleID>
+		<RankerScore>0.2346125691922186</RankerScore>
+		<Attributes>player	footballer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Peter_Crouch</WikiTitle> <WikiTitleID>1001231</WikiTitleID> <RankerScore>0.2346125691922186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_Crouch</WikiTitle> <WikiTitleID>5894600</WikiTitleID> <RankerScore>0.1991025813958508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crouch,_Idaho</WikiTitle> <WikiTitleID>110625</WikiTitleID> <RankerScore>0.2146478166314415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Platt,_Kent</WikiTitle> <WikiTitleID>11012515</WikiTitleID> <RankerScore>0.17581851639024457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crouch_Cars</WikiTitle> <WikiTitleID>2189201</WikiTitleID> <RankerScore>0.17581851639024457</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>director</EntitySurfaceForm>
+	<EntityTextStart>3169</EntityTextStart>
+	<EntityTextEnd>3177</EntityTextEnd>
+	<LinkerScore>-0.09485140108823371</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Film_director</WikiTitle>
+		<WikiTitleID>506181</WikiTitleID>
+		<RankerScore>0.07781410844854815</RankerScore>
+		<Attributes>occupation	director</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Film_director</WikiTitle> <WikiTitleID>506181</WikiTitleID> <RankerScore>0.07781410844854815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_director</WikiTitle> <WikiTitleID>518021</WikiTitleID> <RankerScore>0.05961611660866171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatre_director</WikiTitle> <WikiTitleID>103078</WikiTitleID> <RankerScore>0.0521001714649872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Board_of_directors</WikiTitle> <WikiTitleID>4822</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_video_director</WikiTitle> <WikiTitleID>1901819</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Executive_director</WikiTitle> <WikiTitleID>2051602</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_director</WikiTitle> <WikiTitleID>438428</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animation_director</WikiTitle> <WikiTitleID>3304549</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Managing_director</WikiTitle> <WikiTitleID>1328935</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_(education)</WikiTitle> <WikiTitleID>7075436</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Management</WikiTitle> <WikiTitleID>19881</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_director</WikiTitle> <WikiTitleID>2283342</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director-general</WikiTitle> <WikiTitleID>1434447</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artistic_director</WikiTitle> <WikiTitleID>1536254</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technical_director</WikiTitle> <WikiTitleID>699158</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_director</WikiTitle> <WikiTitleID>631159</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curator</WikiTitle> <WikiTitleID>391167</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supervisor</WikiTitle> <WikiTitleID>1957147</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chief_executive_officer</WikiTitle> <WikiTitleID>52234</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_of_Central_Intelligence</WikiTitle> <WikiTitleID>456058</WikiTitleID> <RankerScore>0.04767468255751781</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Communications Technology</EntitySurfaceForm>
+	<EntityTextStart>3185</EntityTextStart>
+	<EntityTextEnd>3210</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Communication</WikiTitle>
+		<WikiTitleID>5177</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Intel</EntitySurfaceForm>
+	<EntityTextStart>3218</EntityTextStart>
+	<EntityTextEnd>3223</EntityTextEnd>
+	<LinkerScore>0.8248043356267766</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Intel_Corporation</WikiTitle>
+		<WikiTitleID>14617</WikiTitleID>
+		<RankerScore>0.33268824998057134</RankerScore>
+		<Attributes>company	manufacturer	microprocessor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Intel_Corporation</WikiTitle> <WikiTitleID>14617</WikiTitleID> <RankerScore>0.33268824998057134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>X86_architecture</WikiTitle> <WikiTitleID>34198</WikiTitleID> <RankerScore>0.14213501832509476</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intel_Ireland</WikiTitle> <WikiTitleID>741902</WikiTitleID> <RankerScore>0.13983617055707853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple-Intel_architecture</WikiTitle> <WikiTitleID>3698317</WikiTitleID> <RankerScore>0.09633514028431384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apple_Intel_transition</WikiTitle> <WikiTitleID>2020710</WikiTitleID> <RankerScore>0.09633514028431384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Noyce</WikiTitle> <WikiTitleID>25808</WikiTitleID> <RankerScore>0.09633514028431384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Intel_microprocessors</WikiTitle> <WikiTitleID>60525</WikiTitleID> <RankerScore>0.09633514028431384</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Battelle</EntitySurfaceForm>
+	<EntityTextStart>3239</EntityTextStart>
+	<EntityTextEnd>3247</EntityTextEnd>
+	<LinkerScore>0.296122203948155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Battelle_Memorial_Institute</WikiTitle>
+		<WikiTitleID>532208</WikiTitleID>
+		<RankerScore>0.5346644408522033</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Battelle_Memorial_Institute</WikiTitle> <WikiTitleID>532208</WikiTitleID> <RankerScore>0.5346644408522033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battelle,_Alabama</WikiTitle> <WikiTitleID>9156612</WikiTitleID> <RankerScore>0.4653355591477966</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>millimeter-wave</EntitySurfaceForm>
+	<EntityTextStart>3278</EntityTextStart>
+	<EntityTextEnd>3293</EntityTextEnd>
+	<LinkerScore>0.90712696954476</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extremely_high_frequency</WikiTitle>
+		<WikiTitleID>683672</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extremely_high_frequency</WikiTitle> <WikiTitleID>683672</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>technology</EntitySurfaceForm>
+	<EntityTextStart>3294</EntityTextStart>
+	<EntityTextEnd>3304</EntityTextEnd>
+	<LinkerScore>0.787332024597277</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Technology</WikiTitle>
+		<WikiTitleID>29816</WikiTitleID>
+		<RankerScore>0.15110449927272385</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Technology</WikiTitle> <WikiTitleID>29816</WikiTitleID> <RankerScore>0.15110449927272385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_technology</WikiTitle> <WikiTitleID>1636646</WikiTitleID> <RankerScore>0.04574704375216132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_technology</WikiTitle> <WikiTitleID>803661</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Production_function</WikiTitle> <WikiTitleID>424218</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_technology</WikiTitle> <WikiTitleID>15340</WikiTitleID> <RankerScore>0.06113598068573604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_College</WikiTitle> <WikiTitleID>7393577</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_tech</WikiTitle> <WikiTitleID>525028</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Environmental_technology</WikiTitle> <WikiTitleID>1443002</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_television</WikiTitle> <WikiTitleID>14682695</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Timeline_of_Muslim_scientists_and_engineers</WikiTitle> <WikiTitleID>2309315</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asgard_technology_in_Stargate</WikiTitle> <WikiTitleID>4638959</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technology_of_the_Song_Dynasty</WikiTitle> <WikiTitleID>10444102</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_development</WikiTitle> <WikiTitleID>700265</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Races_in_Stargate</WikiTitle> <WikiTitleID>2418006</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goa&apos;uld_technology_in_Stargate</WikiTitle> <WikiTitleID>4634432</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biotechnology</WikiTitle> <WikiTitleID>4502</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renaissance_technology</WikiTitle> <WikiTitleID>9240851</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technological_change</WikiTitle> <WikiTitleID>1605798</WikiTitleID> <RankerScore>0.04364779272290464</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>increasingly</EntitySurfaceForm>
+	<EntityTextStart>3318</EntityTextStart>
+	<EntityTextEnd>3330</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Increasingly</WikiTitle>
+		<WikiTitleID>15502039</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless</EntitySurfaceForm>
+	<EntityTextStart>3376</EntityTextStart>
+	<EntityTextEnd>3384</EntityTextEnd>
+	<LinkerScore>1.322755980881245</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wireless</WikiTitle>
+		<WikiTitleID>185868</WikiTitleID>
+		<RankerScore>0.26640136074938076</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wireless</WikiTitle> <WikiTitleID>185868</WikiTitleID> <RankerScore>0.26640136074938076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network</WikiTitle> <WikiTitleID>33172</WikiTitleID> <RankerScore>0.06412245078491341</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wi-Fi</WikiTitle> <WikiTitleID>63973</WikiTitleID> <RankerScore>0.06914172381438737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_LAN</WikiTitle> <WikiTitleID>33143</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_telegraphy</WikiTitle> <WikiTitleID>33131</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11</WikiTitle> <WikiTitleID>14739</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_microphone</WikiTitle> <WikiTitleID>4578451</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_sensor_network</WikiTitle> <WikiTitleID>1076662</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WLAN</WikiTitle> <WikiTitleID>259084</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_broadband</WikiTitle> <WikiTitleID>4595</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_network_interface_card</WikiTitle> <WikiTitleID>1565156</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mobile_phone</WikiTitle> <WikiTitleID>19976</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>IEEE_802.11b-1999</WikiTitle> <WikiTitleID>13420417</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Wide_Area_Network</WikiTitle> <WikiTitleID>1284136</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_Internet_Protocol</WikiTitle> <WikiTitleID>1210933</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cellular_network</WikiTitle> <WikiTitleID>735672</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Personal_Area_Network</WikiTitle> <WikiTitleID>23303</WikiTitleID> <RankerScore>0.04002229764342123</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>wireless communication</EntitySurfaceForm>
+	<EntityTextStart>3376</EntityTextStart>
+	<EntityTextEnd>3398</EntityTextEnd>
+	<LinkerScore>1.1086587169336248</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wireless</WikiTitle>
+		<WikiTitleID>185868</WikiTitleID>
+		<RankerScore>0.5913175665774005</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wireless</WikiTitle> <WikiTitleID>185868</WikiTitleID> <RankerScore>0.5913175665774005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_LAN</WikiTitle> <WikiTitleID>33143</WikiTitleID> <RankerScore>0.2096239901289575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wireless_telegraphy</WikiTitle> <WikiTitleID>33131</WikiTitleID> <RankerScore>0.19905844329364192</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>communication</EntitySurfaceForm>
+	<EntityTextStart>3385</EntityTextStart>
+	<EntityTextEnd>3398</EntityTextEnd>
+	<LinkerScore>0.09145259397195421</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Communication</WikiTitle>
+		<WikiTitleID>5177</WikiTitleID>
+		<RankerScore>0.1410106951956348</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Communication</WikiTitle> <WikiTitleID>5177</WikiTitleID> <RankerScore>0.1410106951956348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.120073727415444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animal_communication</WikiTitle> <WikiTitleID>464447</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_studies</WikiTitle> <WikiTitleID>489145</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interpersonal_communication</WikiTitle> <WikiTitleID>228052</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_communications</WikiTitle> <WikiTitleID>2023546</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_media</WikiTitle> <WikiTitleID>19641</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communications_satellite</WikiTitle> <WikiTitleID>45207</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_networking</WikiTitle> <WikiTitleID>5652</WikiTitleID> <RankerScore>0.05646024126547485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inter-process_communication</WikiTitle> <WikiTitleID>152106</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cat_communication</WikiTitle> <WikiTitleID>5741167</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_communication_technology</WikiTitle> <WikiTitleID>295257</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communications_in_Iran</WikiTitle> <WikiTitleID>64706</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurotransmission</WikiTitle> <WikiTitleID>2918988</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstellar_communication</WikiTitle> <WikiTitleID>203883</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unconscious_communication</WikiTitle> <WikiTitleID>709227</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transmission_(telecommunications)</WikiTitle> <WikiTitleID>609152</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organizational_communication</WikiTitle> <WikiTitleID>228053</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.04014443153667332</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ridgway</EntitySurfaceForm>
+	<EntityTextStart>3553</EntityTextStart>
+	<EntityTextEnd>3560</EntityTextEnd>
+	<LinkerScore>-0.1448833319860804</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ridgway,_Colorado</WikiTitle>
+		<WikiTitleID>108611</WikiTitleID>
+		<RankerScore>0.2181661005421137</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ridgway,_Colorado</WikiTitle> <WikiTitleID>108611</WikiTitleID> <RankerScore>0.2181661005421137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Pennsylvania</WikiTitle> <WikiTitleID>132464</WikiTitleID> <RankerScore>0.1873656849725877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Ridgway</WikiTitle> <WikiTitleID>504236</WikiTitleID> <RankerScore>0.16240438706898142</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Illinois</WikiTitle> <WikiTitleID>111220</WikiTitleID> <RankerScore>0.14402127580543908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dave_Ridgway</WikiTitle> <WikiTitleID>2641337</WikiTitleID> <RankerScore>0.14402127580543908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Ridgway</WikiTitle> <WikiTitleID>365019</WikiTitleID> <RankerScore>0.14402127580543908</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>polarization</EntitySurfaceForm>
+	<EntityTextStart>3735</EntityTextStart>
+	<EntityTextEnd>3747</EntityTextEnd>
+	<LinkerScore>0.5800375590914546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Polarization_density</WikiTitle>
+		<WikiTitleID>698648</WikiTitleID>
+		<RankerScore>0.16662234571451143</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Polarization_density</WikiTitle> <WikiTitleID>698648</WikiTitleID> <RankerScore>0.16662234571451143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polarization_(politics)</WikiTitle> <WikiTitleID>584318</WikiTitleID> <RankerScore>0.10767391709265786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dipole</WikiTitle> <WikiTitleID>8378</WikiTitleID> <RankerScore>0.09756709390496733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chemical_polarity</WikiTitle> <WikiTitleID>361038</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spin_polarization</WikiTitle> <WikiTitleID>2459057</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abelian_variety</WikiTitle> <WikiTitleID>247152</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polarized_3D_glasses</WikiTitle> <WikiTitleID>1788642</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Circular_polarization</WikiTitle> <WikiTitleID>40875</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polarizer</WikiTitle> <WikiTitleID>2722105</WikiTitleID> <RankerScore>0.10468944054797726</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>encoding</EntitySurfaceForm>
+	<EntityTextStart>3771</EntityTextStart>
+	<EntityTextEnd>3779</EntityTextEnd>
+	<LinkerScore>0.2671228398194126</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Encoder</WikiTitle>
+		<WikiTitleID>313461</WikiTitleID>
+		<RankerScore>0.08645526476389037</RankerScore>
+		<Attributes>circuit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Encoder</WikiTitle> <WikiTitleID>313461</WikiTitleID> <RankerScore>0.08645526476389037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Character_encoding</WikiTitle> <WikiTitleID>5295</WikiTitleID> <RankerScore>0.06171001187667414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Encoding</WikiTitle> <WikiTitleID>158241</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Code</WikiTitle> <WikiTitleID>5225</WikiTitleID> <RankerScore>0.06513050528585945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semantics_encoding</WikiTitle> <WikiTitleID>1758417</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Encoding_(memory)</WikiTitle> <WikiTitleID>5128182</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coding_theory</WikiTitle> <WikiTitleID>321869</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percent-encoding</WikiTitle> <WikiTitleID>1829286</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbering_(computability_theory)</WikiTitle> <WikiTitleID>2399097</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Translation_(biology)</WikiTitle> <WikiTitleID>262401</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MPEG_encoding</WikiTitle> <WikiTitleID>1205538</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ripping</WikiTitle> <WikiTitleID>509070</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Example_Pictor_Encoder</WikiTitle> <WikiTitleID>11346522</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Markup_language</WikiTitle> <WikiTitleID>18910</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lossy_compression</WikiTitle> <WikiTitleID>18208</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Encode_(semiotics)</WikiTitle> <WikiTitleID>2108591</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_code</WikiTitle> <WikiTitleID>12385</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MIME</WikiTitle> <WikiTitleID>19045</WikiTitleID> <RankerScore>0.052446947871571746</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ridgway</EntitySurfaceForm>
+	<EntityTextStart>3884</EntityTextStart>
+	<EntityTextEnd>3891</EntityTextEnd>
+	<LinkerScore>0.37407934653500496</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ridgway,_Pennsylvania</WikiTitle>
+		<WikiTitleID>132464</WikiTitleID>
+		<RankerScore>0.21906998293121704</RankerScore>
+		<Attributes>place	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ridgway,_Colorado</WikiTitle> <WikiTitleID>108611</WikiTitleID> <RankerScore>0.21005134092100322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Pennsylvania</WikiTitle> <WikiTitleID>132464</WikiTitleID> <RankerScore>0.21906998293121704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Ridgway</WikiTitle> <WikiTitleID>504236</WikiTitleID> <RankerScore>0.15611006298817404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ridgway,_Illinois</WikiTitle> <WikiTitleID>111220</WikiTitleID> <RankerScore>0.13825620438653521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dave_Ridgway</WikiTitle> <WikiTitleID>2641337</WikiTitleID> <RankerScore>0.13825620438653521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matthew_Ridgway</WikiTitle> <WikiTitleID>365019</WikiTitleID> <RankerScore>0.13825620438653521</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hopes</EntitySurfaceForm>
+	<EntityTextStart>3892</EntityTextStart>
+	<EntityTextEnd>3897</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Huntington&apos;s_Disease_Outreach_Project_for_Education_at_Stanford</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>website</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>engineering</EntitySurfaceForm>
+	<EntityTextStart>3919</EntityTextStart>
+	<EntityTextEnd>3930</EntityTextEnd>
+	<LinkerScore>1.2746711647795042</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Engineering</WikiTitle>
+		<WikiTitleID>9251</WikiTitleID>
+		<RankerScore>0.13816518540056</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Engineering</WikiTitle> <WikiTitleID>9251</WikiTitleID> <RankerScore>0.13816518540056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Audio_engineering</WikiTitle> <WikiTitleID>597478</WikiTitleID> <RankerScore>0.045503824164387016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Civil_engineering</WikiTitle> <WikiTitleID>5762</WikiTitleID> <RankerScore>0.04225638877725768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Engineer</WikiTitle> <WikiTitleID>38223</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inventions_in_the_Islamic_world</WikiTitle> <WikiTitleID>7660879</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_engineering</WikiTitle> <WikiTitleID>50408</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_engineering</WikiTitle> <WikiTitleID>1515853</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Combat_engineering</WikiTitle> <WikiTitleID>277003</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electrical_engineering</WikiTitle> <WikiTitleID>9531</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_engineer</WikiTitle> <WikiTitleID>100034</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>McMaster_Faculty_of_Engineering</WikiTitle> <WikiTitleID>3960557</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rock_mechanics</WikiTitle> <WikiTitleID>1872493</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carnegie_Institute_of_Technology</WikiTitle> <WikiTitleID>286573</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Michigan_College_of_Engineering</WikiTitle> <WikiTitleID>2316936</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safety_engineering</WikiTitle> <WikiTitleID>29278</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Institute_of_technology</WikiTitle> <WikiTitleID>1121030</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Alberta_Faculty_of_Engineering</WikiTitle> <WikiTitleID>11979270</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structural_engineering</WikiTitle> <WikiTitleID>45829</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Control_engineering</WikiTitle> <WikiTitleID>7011</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_of_Engineering</WikiTitle> <WikiTitleID>2782157</WikiTitleID> <RankerScore>0.04553380009751737</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>&apos;d</EntitySurfaceForm>
+	<EntityTextStart>3969</EntityTextStart>
+	<EntityTextEnd>3971</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Contraction_(grammar)</WikiTitle>
+		<WikiTitleID>590473</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>category</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>just turn</EntitySurfaceForm>
+	<EntityTextStart>4014</EntityTextStart>
+	<EntityTextEnd>4023</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Just_Turn</WikiTitle>
+		<WikiTitleID>8294266</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,1628 @@
+<WikifierOutput>
+<InputFilename>
+1121testa Seven
+</InputFilename>
+<InputText>
+Seven Iraqis charged with hijack.
+LONDON 1996-08-31
+Seven Iraqi men appeared in court on Saturday charged with air piracy following the hijacking to Britain of a Sudanese airliner with 199 people aboard.
+The seven, including a carpenter and a businessmen and whose ages ranged from 25 to 38 years old, were ordered to be held in jail until another hearing next week.
+No pleas were entered at the preliminary hearing.
+They were accused of taking over Flight 150 which was flying from Khartoum, Sudan, to Amman, Jordan.
+All the hostages were freed on Tuesday after the plane landed at Stansted airport, north of London.
+The men have claimed political asylum in Britain saying they were persecuted while in Iraq.
+Their court appearance means they will face trial and possible imprisonment in Britain before their applications for asylum are considered.
+Under English law the maximum sentence for hijack is life imprisonment but there has been widespread speculation that the seven will receive lesser sentences.
+After a search of the aircraft following the hijack, police found only knives and fake explosives.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Iraqis</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>-0.031771631049135385</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Demographics_of_Iraq</WikiTitle>
+		<WikiTitleID>14666</WikiTitleID>
+		<RankerScore>0.2986289943912598</RankerScore>
+		<Attributes>demographic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.2986289943912598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.25540026868721244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refugees_of_Iraq</WikiTitle> <WikiTitleID>8611907</WikiTitleID> <RankerScore>0.203868167930001</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Iraqis</WikiTitle> <WikiTitleID>1830204</WikiTitleID> <RankerScore>0.12105128449576336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_national_football_team</WikiTitle> <WikiTitleID>1039652</WikiTitleID> <RankerScore>0.12105128449576336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hijack</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>32</EntityTextEnd>
+	<LinkerScore>0.018337363614242902</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Robbery</WikiTitle>
+		<WikiTitleID>54849</WikiTitleID>
+		<RankerScore>0.33663292921691107</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft_hijacking</WikiTitle> <WikiTitleID>2075</WikiTitleID> <RankerScore>0.32109577500233105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carjacking</WikiTitle> <WikiTitleID>362652</WikiTitleID> <RankerScore>0.20053851178449023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Session_hijacking</WikiTitle> <WikiTitleID>4456726</WikiTitleID> <RankerScore>0.14173278399626757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.33663292921691107</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>34</EntityTextStart>
+	<EntityTextEnd>40</EntityTextEnd>
+	<LinkerScore>-0.13314706942616197</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_postal_district</WikiTitle>
+		<WikiTitleID>118409</WikiTitleID>
+		<RankerScore>0.525641754065228</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.525641754065228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.47435824593477205</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraqi</EntitySurfaceForm>
+	<EntityTextStart>58</EntityTextStart>
+	<EntityTextEnd>63</EntityTextEnd>
+	<LinkerScore>0.6941884837648167</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.21172169898177268</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.21172169898177268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iraq</WikiTitle> <WikiTitleID>14666</WikiTitleID> <RankerScore>0.06052299640672908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>0.05669164433203809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Army</WikiTitle> <WikiTitleID>1576797</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Arabic</WikiTitle> <WikiTitleID>1439851</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_dinar</WikiTitle> <WikiTitleID>246612</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baghdadi_Jews</WikiTitle> <WikiTitleID>2206118</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Air_Force</WikiTitle> <WikiTitleID>1817852</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Communist_Party</WikiTitle> <WikiTitleID>696035</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mesopotamia</WikiTitle> <WikiTitleID>20189</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Iraq</WikiTitle> <WikiTitleID>248451</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Persian_Iraq</WikiTitle> <WikiTitleID>3903005</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Interim_Government</WikiTitle> <WikiTitleID>762287</WikiTitleID> <RankerScore>0.061005787298132746</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>air piracy</EntitySurfaceForm>
+	<EntityTextStart>111</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>0.9228431877264937</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aircraft_hijacking</WikiTitle>
+		<WikiTitleID>2075</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>tactics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft_hijacking</WikiTitle> <WikiTitleID>2075</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>piracy</EntitySurfaceForm>
+	<EntityTextStart>115</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>0.37763788448638547</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Piracy</WikiTitle>
+		<WikiTitleID>50715</WikiTitleID>
+		<RankerScore>0.2124757415625604</RankerScore>
+		<Attributes>loanword	pirate	occupation	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Piracy</WikiTitle> <WikiTitleID>50715</WikiTitleID> <RankerScore>0.2124757415625604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement</WikiTitle> <WikiTitleID>98779</WikiTitleID> <RankerScore>0.07860397538007648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement_of_software</WikiTitle> <WikiTitleID>29443</WikiTitleID> <RankerScore>0.06992985495595931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wokou</WikiTitle> <WikiTitleID>989157</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warez</WikiTitle> <WikiTitleID>32881</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piracy_in_the_Caribbean</WikiTitle> <WikiTitleID>149661</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright_infringement_of_audio-visual_works</WikiTitle> <WikiTitleID>1398657</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-copyright</WikiTitle> <WikiTitleID>156327</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barbary_pirate</WikiTitle> <WikiTitleID>364834</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copyright</WikiTitle> <WikiTitleID>5278</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pirate_decryption</WikiTitle> <WikiTitleID>1038024</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bootleg_recording</WikiTitle> <WikiTitleID>1488043</WikiTitleID> <RankerScore>0.07099893645571154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hijacking</EntitySurfaceForm>
+	<EntityTextStart>136</EntityTextStart>
+	<EntityTextEnd>145</EntityTextEnd>
+	<LinkerScore>0.11992528611863995</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aircraft_hijacking</WikiTitle>
+		<WikiTitleID>2075</WikiTitleID>
+		<RankerScore>0.2814195698988915</RankerScore>
+		<Attributes>tactics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft_hijacking</WikiTitle> <WikiTitleID>2075</WikiTitleID> <RankerScore>0.2814195698988915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carjacking</WikiTitle> <WikiTitleID>362652</WikiTitleID> <RankerScore>0.17763396922762134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.23384819598986284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wiktionary</WikiTitle> <WikiTitleID>156658</WikiTitleID> <RankerScore>0.10236608829454148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabena_Flight_572</WikiTitle> <WikiTitleID>4202434</WikiTitleID> <RankerScore>0.10236608829454148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malware</WikiTitle> <WikiTitleID>20901</WikiTitleID> <RankerScore>0.10236608829454148</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>0.5050062025838538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.14957905264778212</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.14957905264778212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06509678234175734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.062029751425559526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04254673021087653</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sudanese</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>0.7496889285903886</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sudan</WikiTitle>
+		<WikiTitleID>27421</WikiTitleID>
+		<RankerScore>0.32710277467761495</RankerScore>
+		<Attributes>person	poet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sudan</WikiTitle> <WikiTitleID>27421</WikiTitleID> <RankerScore>0.32710277467761495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudanese_kinship</WikiTitle> <WikiTitleID>888959</WikiTitleID> <RankerScore>0.11757532501484891</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudan_(region)</WikiTitle> <WikiTitleID>385081</WikiTitleID> <RankerScore>0.10469883821227607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudanese_Arabic</WikiTitle> <WikiTitleID>723830</WikiTitleID> <RankerScore>0.10469883821227607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Sudanese</WikiTitle> <WikiTitleID>6972778</WikiTitleID> <RankerScore>0.10469883821227607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudanese_refugees_in_Egypt</WikiTitle> <WikiTitleID>3659599</WikiTitleID> <RankerScore>0.13652654745843185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sudan</WikiTitle> <WikiTitleID>27422</WikiTitleID> <RankerScore>0.10469883821227607</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airliner</EntitySurfaceForm>
+	<EntityTextStart>171</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>0.5361482001040173</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Airliner</WikiTitle>
+		<WikiTitleID>51215</WikiTitleID>
+		<RankerScore>0.5052608970109109</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Airliner</WikiTitle> <WikiTitleID>51215</WikiTitleID> <RankerScore>0.5052608970109109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boeing_747</WikiTitle> <WikiTitleID>4614</WikiTitleID> <RankerScore>0.3133077733929944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jet_airliner</WikiTitle> <WikiTitleID>254128</WikiTitleID> <RankerScore>0.18143132959609462</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>199</EntitySurfaceForm>
+	<EntityTextStart>185</EntityTextStart>
+	<EntityTextEnd>188</EntityTextEnd>
+	<LinkerScore>-0.05202262169769553</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>199</WikiTitle>
+		<WikiTitleID>35862</WikiTitleID>
+		<RankerScore>0.20941632000178112</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>199</WikiTitle> <WikiTitleID>35862</WikiTitleID> <RankerScore>0.20941632000178112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>199_(number)</WikiTitle> <WikiTitleID>2290459</WikiTitleID> <RankerScore>0.13584437383791115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_199</WikiTitle> <WikiTitleID>4841817</WikiTitleID> <RankerScore>0.12880225204848506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>199_BC</WikiTitle> <WikiTitleID>60501</WikiTitleID> <RankerScore>0.10518741082236455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_199</WikiTitle> <WikiTitleID>3263619</WikiTitleID> <RankerScore>0.10518741082236455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mein_Herze_schwimmt_im_Blut</WikiTitle> <WikiTitleID>436659</WikiTitleID> <RankerScore>0.10518741082236455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_199</WikiTitle> <WikiTitleID>904711</WikiTitleID> <RankerScore>0.10518741082236455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_general_election,_1998</WikiTitle> <WikiTitleID>514571</WikiTitleID> <RankerScore>0.10518741082236455</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>carpenter</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>1.1782601916515234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Carpentry</WikiTitle>
+		<WikiTitleID>189274</WikiTitleID>
+		<RankerScore>0.4445911455773201</RankerScore>
+		<Attributes>worker	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Carpentry</WikiTitle> <WikiTitleID>189274</WikiTitleID> <RankerScore>0.4445911455773201</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_carpentry</WikiTitle> <WikiTitleID>2332862</WikiTitleID> <RankerScore>0.1814517540776287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Brotherhood_of_Carpenters_and_Joiners_of_America</WikiTitle> <WikiTitleID>1535728</WikiTitleID> <RankerScore>0.18845393858865617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carpenter_(theater)</WikiTitle> <WikiTitleID>6948685</WikiTitleID> <RankerScore>0.18550316175639503</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>jail</EntitySurfaceForm>
+	<EntityTextStart>329</EntityTextStart>
+	<EntityTextEnd>333</EntityTextEnd>
+	<LinkerScore>0.2834307252183823</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jail</WikiTitle>
+		<WikiTitleID>10819258</WikiTitleID>
+		<RankerScore>0.17566285836510886</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jail</WikiTitle> <WikiTitleID>10819258</WikiTitleID> <RankerScore>0.17566285836510886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prison</WikiTitle> <WikiTitleID>48936</WikiTitleID> <RankerScore>0.16357474143948833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operating_system-level_virtualization</WikiTitle> <WikiTitleID>2770340</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carthage_Jail</WikiTitle> <WikiTitleID>1063287</WikiTitleID> <RankerScore>0.08794793468761887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FreeBSD_jail</WikiTitle> <WikiTitleID>2469109</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liberty_Jail</WikiTitle> <WikiTitleID>1063276</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Penal_system_of_Japan</WikiTitle> <WikiTitleID>2966451</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Street_Gaol_(1827)</WikiTitle> <WikiTitleID>12965019</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Changi_Prison</WikiTitle> <WikiTitleID>651583</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Huron_Historic_Gaol</WikiTitle> <WikiTitleID>5980855</WikiTitleID> <RankerScore>0.0818306379296834</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>preliminary hearing</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>415</EntityTextEnd>
+	<LinkerScore>0.9722162194196003</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Preliminary_hearing</WikiTitle>
+		<WikiTitleID>23008</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Preliminary_hearing</WikiTitle> <WikiTitleID>23008</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Flight 150</EntitySurfaceForm>
+	<EntityTextStart>450</EntityTextStart>
+	<EntityTextEnd>460</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Garuda_Indonesia_Flight_150</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>accident</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Khartoum, Sudan</EntitySurfaceForm>
+	<EntityTextStart>483</EntityTextStart>
+	<EntityTextEnd>498</EntityTextEnd>
+	<LinkerScore>1.0571658750497277</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Khartoum</WikiTitle>
+		<WikiTitleID>17320</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>capital	place	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Khartoum</WikiTitle> <WikiTitleID>17320</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Khartoum</EntitySurfaceForm>
+	<EntityTextStart>483</EntityTextStart>
+	<EntityTextEnd>491</EntityTextEnd>
+	<LinkerScore>1.1925868694657291</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Khartoum</WikiTitle>
+		<WikiTitleID>17320</WikiTitleID>
+		<RankerScore>0.4063716148514876</RankerScore>
+		<Attributes>capital	place	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Khartoum</WikiTitle> <WikiTitleID>17320</WikiTitleID> <RankerScore>0.4063716148514876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khartoum_(film)</WikiTitle> <WikiTitleID>3019565</WikiTitleID> <RankerScore>0.15526857690369955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khartoum_State</WikiTitle> <WikiTitleID>767612</WikiTitleID> <RankerScore>0.11749998266792606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Khartoum</WikiTitle> <WikiTitleID>11773122</WikiTitleID> <RankerScore>0.0802149563942217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khartoum_(album)</WikiTitle> <WikiTitleID>2993030</WikiTitleID> <RankerScore>0.0802149563942217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Khartoum</WikiTitle> <WikiTitleID>3369020</WikiTitleID> <RankerScore>0.0802149563942217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J,_K_and_N_class_destroyer</WikiTitle> <WikiTitleID>5207286</WikiTitleID> <RankerScore>0.0802149563942217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sudan</EntitySurfaceForm>
+	<EntityTextStart>493</EntityTextStart>
+	<EntityTextEnd>498</EntityTextEnd>
+	<LinkerScore>1.4761451429504362</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sudan</WikiTitle>
+		<WikiTitleID>27421</WikiTitleID>
+		<RankerScore>0.2364288003702503</RankerScore>
+		<Attributes>person	poet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sudan</WikiTitle> <WikiTitleID>27421</WikiTitleID> <RankerScore>0.2364288003702503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudan_(region)</WikiTitle> <WikiTitleID>385081</WikiTitleID> <RankerScore>0.05723666572327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudan_national_football_team</WikiTitle> <WikiTitleID>1095575</WikiTitleID> <RankerScore>0.05941505914103416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Sudan</WikiTitle> <WikiTitleID>27428</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sudan</WikiTitle> <WikiTitleID>27422</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Sudan</WikiTitle> <WikiTitleID>459323</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Egyptian_Sudan</WikiTitle> <WikiTitleID>985801</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudan,_Texas</WikiTitle> <WikiTitleID>136275</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mahdist_War</WikiTitle> <WikiTitleID>6810429</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Sudan</WikiTitle> <WikiTitleID>27425</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>War_in_Darfur</WikiTitle> <WikiTitleID>5043637</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Sudan</WikiTitle> <WikiTitleID>27431</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography_of_Sudan</WikiTitle> <WikiTitleID>27424</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Sudan</WikiTitle> <WikiTitleID>2146363</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sudan_(1884–1898)</WikiTitle> <WikiTitleID>3045552</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Mission_in_Sudan</WikiTitle> <WikiTitleID>1805468</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Sudan</WikiTitle> <WikiTitleID>27429</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudan_at_the_1968_Summer_Olympics</WikiTitle> <WikiTitleID>4118376</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Sudan</WikiTitle> <WikiTitleID>27426</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Sudan</WikiTitle> <WikiTitleID>1431600</WikiTitleID> <RankerScore>0.03805408675090839</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Amman, Jordan</EntitySurfaceForm>
+	<EntityTextStart>503</EntityTextStart>
+	<EntityTextEnd>516</EntityTextEnd>
+	<LinkerScore>1.0645904201445093</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amman</WikiTitle>
+		<WikiTitleID>45007</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>city	place	site	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amman</WikiTitle> <WikiTitleID>45007</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Amman</EntitySurfaceForm>
+	<EntityTextStart>503</EntityTextStart>
+	<EntityTextEnd>508</EntityTextEnd>
+	<LinkerScore>1.3051285448843333</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amman</WikiTitle>
+		<WikiTitleID>45007</WikiTitleID>
+		<RankerScore>0.5224785677069251</RankerScore>
+		<Attributes>city	place	site	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amman</WikiTitle> <WikiTitleID>45007</WikiTitleID> <RankerScore>0.5224785677069251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mariamman</WikiTitle> <WikiTitleID>615360</WikiTitleID> <RankerScore>0.0865704003782586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>River_Amman</WikiTitle> <WikiTitleID>8902408</WikiTitleID> <RankerScore>0.08572812916244582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Jordan</WikiTitle> <WikiTitleID>2599076</WikiTitleID> <RankerScore>0.08572812916244582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johann_Konrad_Ammann</WikiTitle> <WikiTitleID>1512630</WikiTitleID> <RankerScore>0.08572812916244582</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen_Alia_International_Airport</WikiTitle> <WikiTitleID>737338</WikiTitleID> <RankerScore>0.13376664442747874</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jordan</EntitySurfaceForm>
+	<EntityTextStart>510</EntityTextStart>
+	<EntityTextEnd>516</EntityTextEnd>
+	<LinkerScore>1.1676591569872588</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Jordan</WikiTitle>
+		<WikiTitleID>7515964</WikiTitleID>
+		<RankerScore>0.25245742844465574</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Jordan</WikiTitle> <WikiTitleID>7515964</WikiTitleID> <RankerScore>0.25245742844465574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Starr_Jordan</WikiTitle> <WikiTitleID>320979</WikiTitleID> <RankerScore>0.04757082730153757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_Grand_Prix</WikiTitle> <WikiTitleID>458472</WikiTitleID> <RankerScore>0.04418203841601967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_River</WikiTitle> <WikiTitleID>47910</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_(Katie_Price)</WikiTitle> <WikiTitleID>262458</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_national_football_team</WikiTitle> <WikiTitleID>1090065</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan,_Minnesota</WikiTitle> <WikiTitleID>121647</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan,_Hong_Kong</WikiTitle> <WikiTitleID>375128</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan,_New_York</WikiTitle> <WikiTitleID>126883</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan,_Montana</WikiTitle> <WikiTitleID>123397</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benn_Jordan</WikiTitle> <WikiTitleID>2081247</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_I_of_Capua</WikiTitle> <WikiTitleID>4233305</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_Sullivan</WikiTitle> <WikiTitleID>10073422</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michael_Jordan</WikiTitle> <WikiTitleID>20455</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_Collier</WikiTitle> <WikiTitleID>6483262</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_(Pamela_Rooke)</WikiTitle> <WikiTitleID>6402171</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_of_Hauteville</WikiTitle> <WikiTitleID>4315402</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Camille_Jordan</WikiTitle> <WikiTitleID>355931</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan_Motor_Car_Company</WikiTitle> <WikiTitleID>1313848</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jordan,_Guimaras</WikiTitle> <WikiTitleID>936580</WikiTitleID> <RankerScore>0.038575865049281594</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stansted airport</EntitySurfaceForm>
+	<EntityTextStart>583</EntityTextStart>
+	<EntityTextEnd>599</EntityTextEnd>
+	<LinkerScore>0.7460928394095102</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Stansted_Airport</WikiTitle>
+		<WikiTitleID>65456</WikiTitleID>
+		<RankerScore>0.5849513289545288</RankerScore>
+		<Attributes>airport	building	structure	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Stansted_Airport</WikiTitle> <WikiTitleID>65456</WikiTitleID> <RankerScore>0.5849513289545288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Stansted_Airport</WikiTitle> <WikiTitleID>65456</WikiTitleID> <RankerScore>1.0788451093026623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stansted_Airport_railway_station</WikiTitle> <WikiTitleID>4546632</WikiTitleID> <RankerScore>0.4150486710454711</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stansted</EntitySurfaceForm>
+	<EntityTextStart>583</EntityTextStart>
+	<EntityTextEnd>591</EntityTextEnd>
+	<LinkerScore>0.2456179669365249</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Stansted_Airport</WikiTitle>
+		<WikiTitleID>65456</WikiTitleID>
+		<RankerScore>0.31677221406325307</RankerScore>
+		<Attributes>airport	building	structure	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Stansted_Airport</WikiTitle> <WikiTitleID>65456</WikiTitleID> <RankerScore>0.31677221406325307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stansted</WikiTitle> <WikiTitleID>3841459</WikiTitleID> <RankerScore>0.3071104850321865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stansted_F.C.</WikiTitle> <WikiTitleID>3738121</WikiTitleID> <RankerScore>0.1376378933728905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stansted,_Kent</WikiTitle> <WikiTitleID>342838</WikiTitleID> <RankerScore>0.11923970376583491</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stansted_Mountfitchet</WikiTitle> <WikiTitleID>1258170</WikiTitleID> <RankerScore>0.11923970376583491</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>airport</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>599</EntityTextEnd>
+	<LinkerScore>1.0606497540104272</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_Stansted_Airport</WikiTitle>
+		<WikiTitleID>65456</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>airport	building	structure	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_Stansted_Airport</WikiTitle> <WikiTitleID>65456</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>610</EntityTextStart>
+	<EntityTextEnd>616</EntityTextEnd>
+	<LinkerScore>0.6099854541231676</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.19463529761420414</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.19463529761420414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.041900401112711684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.12215598800914618</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.03772401842729047</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>political asylum</EntitySurfaceForm>
+	<EntityTextStart>639</EntityTextStart>
+	<EntityTextEnd>655</EntityTextEnd>
+	<LinkerScore>0.5433031195144393</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Right_of_asylum</WikiTitle>
+		<WikiTitleID>1621432</WikiTitleID>
+		<RankerScore>0.39480404055819907</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Right_of_asylum</WikiTitle> <WikiTitleID>1621432</WikiTitleID> <RankerScore>0.39480404055819907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refugee</WikiTitle> <WikiTitleID>45547</WikiTitleID> <RankerScore>0.27208551924565266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asylum_in_the_United_States</WikiTitle> <WikiTitleID>7195971</WikiTitleID> <RankerScore>0.2057617797330884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_citizens_granted_political_asylum_in_Cuba</WikiTitle> <WikiTitleID>8460822</WikiTitleID> <RankerScore>0.1273486604630598</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>asylum</EntitySurfaceForm>
+	<EntityTextStart>649</EntityTextStart>
+	<EntityTextEnd>655</EntityTextEnd>
+	<LinkerScore>0.11266197503739864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Refugee</WikiTitle>
+		<WikiTitleID>45547</WikiTitleID>
+		<RankerScore>0.24733809840715473</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Right_of_asylum</WikiTitle> <WikiTitleID>1621432</WikiTitleID> <RankerScore>0.19864441317856352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.1371810457593026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refugee</WikiTitle> <WikiTitleID>45547</WikiTitleID> <RankerScore>0.24733809840715473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asylum_in_the_United_States</WikiTitle> <WikiTitleID>7195971</WikiTitleID> <RankerScore>0.1042091106637448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.1042091106637448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afghan_refugees</WikiTitle> <WikiTitleID>3657017</WikiTitleID> <RankerScore>0.1042091106637448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orphanage</WikiTitle> <WikiTitleID>387703</WikiTitleID> <RankerScore>0.1042091106637448</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>659</EntityTextStart>
+	<EntityTextEnd>666</EntityTextEnd>
+	<LinkerScore>0.49431891452494187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.15041782765046494</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.15041782765046494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.0649734039469872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.06358462801935573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04241318472842307</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Iraq</EntitySurfaceForm>
+	<EntityTextStart>704</EntityTextStart>
+	<EntityTextEnd>708</EntityTextEnd>
+	<LinkerScore>0.778284139591034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Iraq</WikiTitle>
+		<WikiTitleID>7515928</WikiTitleID>
+		<RankerScore>0.18292793870851606</RankerScore>
+		<Attributes>state	country	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Iraq</WikiTitle> <WikiTitleID>7515928</WikiTitleID> <RankerScore>0.18292793870851606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_national_football_team</WikiTitle> <WikiTitleID>1039652</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraq_War</WikiTitle> <WikiTitleID>5043324</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>201936</WikiTitleID> <RankerScore>0.0705793484540782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Iraq</WikiTitle> <WikiTitleID>2900620</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Mandate_of_Mesopotamia</WikiTitle> <WikiTitleID>1038799</WikiTitleID> <RankerScore>0.056917552171478904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Post-invasion_Iraq,_2003–present</WikiTitle> <WikiTitleID>228708</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Iraq</WikiTitle> <WikiTitleID>209247</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Iraq</WikiTitle> <WikiTitleID>14670</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gulf_War</WikiTitle> <WikiTitleID>182000</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multinational_force_in_Iraq</WikiTitle> <WikiTitleID>5215751</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Iraq</WikiTitle> <WikiTitleID>2255715</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_security_forces</WikiTitle> <WikiTitleID>4627429</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Iraqi_War</WikiTitle> <WikiTitleID>1595906</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Kurdistan</WikiTitle> <WikiTitleID>679693</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Telic</WikiTitle> <WikiTitleID>248175</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_contribution_to_the_2003_invasion_of_Iraq</WikiTitle> <WikiTitleID>202603</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Iraq</WikiTitle> <WikiTitleID>14664</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Iraq</WikiTitle> <WikiTitleID>1025329</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RAF_Iraq_Command</WikiTitle> <WikiTitleID>4537618</WikiTitleID> <RankerScore>0.040563244745054516</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>789</EntityTextStart>
+	<EntityTextEnd>796</EntityTextEnd>
+	<LinkerScore>0.2746802774537402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.14461197333066428</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.14461197333066428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06514940193049153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.06327115861330385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.042762792125031784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>asylum</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>833</EntityTextEnd>
+	<LinkerScore>0.2566208136744361</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Refugee</WikiTitle>
+		<WikiTitleID>45547</WikiTitleID>
+		<RankerScore>0.2536398979480253</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Right_of_asylum</WikiTitle> <WikiTitleID>1621432</WikiTitleID> <RankerScore>0.17427445610981007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.14012377036194254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refugee</WikiTitle> <WikiTitleID>45547</WikiTitleID> <RankerScore>0.2536398979480253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Asylum_in_the_United_States</WikiTitle> <WikiTitleID>7195971</WikiTitleID> <RankerScore>0.10799046889505551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.10799046889505551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afghan_refugees</WikiTitle> <WikiTitleID>3657017</WikiTitleID> <RankerScore>0.10799046889505551</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orphanage</WikiTitle> <WikiTitleID>387703</WikiTitleID> <RankerScore>0.10799046889505551</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English law</EntitySurfaceForm>
+	<EntityTextStart>856</EntityTextStart>
+	<EntityTextEnd>867</EntityTextEnd>
+	<LinkerScore>1.16850242452745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>English_law</WikiTitle>
+		<WikiTitleID>85441</WikiTitleID>
+		<RankerScore>0.6301721063560071</RankerScore>
+		<Attributes>code</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.6301721063560071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.369827893643993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.8471016193894334</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English</EntitySurfaceForm>
+	<EntityTextStart>856</EntityTextStart>
+	<EntityTextEnd>863</EntityTextEnd>
+	<LinkerScore>-0.16195396737236398</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.10555058922859627</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.10555058922859627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_language</WikiTitle> <WikiTitleID>8569916</WikiTitleID> <RankerScore>0.10191914316997937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_studies</WikiTitle> <WikiTitleID>351646</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_literature</WikiTitle> <WikiTitleID>55461</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_American</WikiTitle> <WikiTitleID>3685573</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.06823885524641762</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_folklore</WikiTitle> <WikiTitleID>419835</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_English</WikiTitle> <WikiTitleID>6340</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_Canadian</WikiTitle> <WikiTitleID>463702</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_English</WikiTitle> <WikiTitleID>256135</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_England</WikiTitle> <WikiTitleID>9855990</WikiTitleID> <RankerScore>0.042605377197353335</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>law</EntitySurfaceForm>
+	<EntityTextStart>864</EntityTextStart>
+	<EntityTextEnd>867</EntityTextEnd>
+	<LinkerScore>0.7191474424803452</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>English_law</WikiTitle>
+		<WikiTitleID>85441</WikiTitleID>
+		<RankerScore>0.6101532639023342</RankerScore>
+		<Attributes>code</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.6101532639023342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.3898467360976658</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hijack</EntitySurfaceForm>
+	<EntityTextStart>893</EntityTextStart>
+	<EntityTextEnd>899</EntityTextEnd>
+	<LinkerScore>0.18599887619367486</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Robbery</WikiTitle>
+		<WikiTitleID>54849</WikiTitleID>
+		<RankerScore>0.32365114521490784</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft_hijacking</WikiTitle> <WikiTitleID>2075</WikiTitleID> <RankerScore>0.3005342024556824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carjacking</WikiTitle> <WikiTitleID>362652</WikiTitleID> <RankerScore>0.22015897469771112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Session_hijacking</WikiTitle> <WikiTitleID>4456726</WikiTitleID> <RankerScore>0.15565567763169866</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.32365114521490784</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>life imprisonment</EntitySurfaceForm>
+	<EntityTextStart>903</EntityTextStart>
+	<EntityTextEnd>920</EntityTextEnd>
+	<LinkerScore>1.0397868958214698</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Life_imprisonment</WikiTitle>
+		<WikiTitleID>148681</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Life_imprisonment</WikiTitle> <WikiTitleID>148681</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>aircraft</EntitySurfaceForm>
+	<EntityTextStart>1031</EntityTextStart>
+	<EntityTextEnd>1039</EntityTextEnd>
+	<LinkerScore>0.8245647627253149</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aircraft</WikiTitle>
+		<WikiTitleID>849</WikiTitleID>
+		<RankerScore>0.18467772643314595</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft</WikiTitle> <WikiTitleID>849</WikiTitleID> <RankerScore>0.18467772643314595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fixed-wing_aircraft</WikiTitle> <WikiTitleID>46770</WikiTitleID> <RankerScore>0.06104056385099135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_aircraft</WikiTitle> <WikiTitleID>54248</WikiTitleID> <RankerScore>0.05409194940467764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fighter_aircraft</WikiTitle> <WikiTitleID>10929</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-aircraft_warfare</WikiTitle> <WikiTitleID>146640</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surveillance_aircraft</WikiTitle> <WikiTitleID>46818</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Model_aircraft</WikiTitle> <WikiTitleID>82985</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aircraft_engine</WikiTitle> <WikiTitleID>158681</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Close_air_support</WikiTitle> <WikiTitleID>600792</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ground-attack_aircraft</WikiTitle> <WikiTitleID>181146</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Looking_Glass_(airplane)</WikiTitle> <WikiTitleID>11690640</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Air_force</WikiTitle> <WikiTitleID>3096</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Luftwaffe_during_World_War_II</WikiTitle> <WikiTitleID>4153862</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airliner</WikiTitle> <WikiTitleID>51215</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electric_aircraft</WikiTitle> <WikiTitleID>6358896</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stealth_aircraft</WikiTitle> <WikiTitleID>403883</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_military_aircraft_of_the_United_States</WikiTitle> <WikiTitleID>75080</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blackbird_(comics)</WikiTitle> <WikiTitleID>3276256</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aircraft_industry</WikiTitle> <WikiTitleID>9593025</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Piper_PA-14_Family_Cruiser</WikiTitle> <WikiTitleID>543205</WikiTitleID> <RankerScore>0.041187632959481475</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hijack</EntitySurfaceForm>
+	<EntityTextStart>1054</EntityTextStart>
+	<EntityTextEnd>1060</EntityTextEnd>
+	<LinkerScore>-0.0038114119707744476</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aircraft_hijacking</WikiTitle>
+		<WikiTitleID>2075</WikiTitleID>
+		<RankerScore>0.3271233758946046</RankerScore>
+		<Attributes>tactics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aircraft_hijacking</WikiTitle> <WikiTitleID>2075</WikiTitleID> <RankerScore>0.3271233758946046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carjacking</WikiTitle> <WikiTitleID>362652</WikiTitleID> <RankerScore>0.2240938595735534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Session_hijacking</WikiTitle> <WikiTitleID>4456726</WikiTitleID> <RankerScore>0.15017124035800175</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robbery</WikiTitle> <WikiTitleID>54849</WikiTitleID> <RankerScore>0.29861152417384035</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>1062</EntityTextStart>
+	<EntityTextEnd>1068</EntityTextEnd>
+	<LinkerScore>0.4473849191724505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.10892246840581153</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.10892246840581153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.07589459520935657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.047395628973479084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04516395925949134</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>knives</EntitySurfaceForm>
+	<EntityTextStart>1080</EntityTextStart>
+	<EntityTextEnd>1086</EntityTextEnd>
+	<LinkerScore>0.9159070797913332</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knife</WikiTitle>
+		<WikiTitleID>17160</WikiTitleID>
+		<RankerScore>0.42493737227225736</RankerScore>
+		<Attributes>type	knife</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Knife</WikiTitle> <WikiTitleID>17160</WikiTitleID> <RankerScore>0.42493737227225736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mora_knife</WikiTitle> <WikiTitleID>3895854</WikiTitleID> <RankerScore>0.19724337597801844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whittling</WikiTitle> <WikiTitleID>1929987</WikiTitleID> <RankerScore>0.1836949956502041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knife_juggling</WikiTitle> <WikiTitleID>3650840</WikiTitleID> <RankerScore>0.19412425609952003</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosives</EntitySurfaceForm>
+	<EntityTextStart>1096</EntityTextStart>
+	<EntityTextEnd>1106</EntityTextEnd>
+	<LinkerScore>0.06650083466031953</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suicide_attack</WikiTitle>
+		<WikiTitleID>29361</WikiTitleID>
+		<RankerScore>0.23376274885026385</RankerScore>
+		<Attributes>method	tactics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.21174996800622237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.23376274885026385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detonating_cord</WikiTitle> <WikiTitleID>610149</WikiTitleID> <RankerScore>0.1021901123653288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bomb</WikiTitle> <WikiTitleID>47628</WikiTitleID> <RankerScore>0.14572683368219852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Titadine</WikiTitle> <WikiTitleID>608168</WikiTitleID> <RankerScore>0.1021901123653288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.1021901123653288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_bomb</WikiTitle> <WikiTitleID>1053290</WikiTitleID> <RankerScore>0.1021901123653288</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

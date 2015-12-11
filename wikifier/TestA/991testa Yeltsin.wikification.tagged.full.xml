@@ -1,0 +1,2121 @@
+<WikifierOutput>
+<InputFilename>
+991testa Yeltsin
+</InputFilename>
+<InputText>
+Yeltsin endorses Lebed Chechnya peace plan- agency.
+MOSCOW 1996-08-30
+Russian Prime Minister Viktor Chernomyrdin said on Friday that President Boris Yeltsin, who is vacationing outside Moscow, had backed security chief Alexander Lebed&apos;s peace plan for Chechnya, Interfax news agency said.&quot; Lebed is now in Chechnya solving some problems,&quot; Interfax quoted Chernomyrdin as saying.&quot;
+The main thing is his programme.
+It was agreed with Boris Nikolayevich( Yeltsin) yesterday.&quot;
+Lebed, whom Yeltsin ordered to restore peace in Chechnya, struck a military deal with separatist rebels last week ending the worst fighting in the region in more than a year.
+He later discussed with rebel chief-of-staff Aslan Maskhadov a framework political agreement to tackle the most painful issue of the 20-month war-- the future political status of Chechnya.
+Lebed said on Friday he hoped to sign a document with the rebels later in the day which would deal with the political settlement of the conflict.
+Moscow, which wants to keep Chechnya as a part of the Russian Federation, sent troops to the region in December 1994 to quell its independence bid.
+Yeltsin has said any deal should preserve Russia&apos;s territorial integrity.
+Itar-Tass news agency quoted Lebed as saying that he would suggest to the rebels that the decision on Chechnya&apos;s future political status be deferred by up to 10 years.
+Lebed said he had a telephone conversation with Yeltsin late on Thursday but gave no details.
+Yeltsin&apos;s press office could not confirm the call.
+Chernomyrdin said on Thursday after a meeting with Lebed and top officials, who discussed Lebed&apos;s plans to restore peace in Chechnya, that it needed more work.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>1.1325551195152646</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.9029476603516665</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.9029476603516665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.09705233964833361</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>17</EntityTextStart>
+	<EntityTextEnd>22</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>31</EntityTextEnd>
+	<LinkerScore>0.833255305599965</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.4239051191042401</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.4239051191042401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.1907021309484834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.04553373128611115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.04553373128611115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.20325782480283186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.04553373128611115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.04553373128611115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MOSCOW</EntitySurfaceForm>
+	<EntityTextStart>52</EntityTextStart>
+	<EntityTextEnd>58</EntityTextEnd>
+	<LinkerScore>1.431666423196591</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.28422089131330824</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.28422089131330824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04397183464044693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.05184167201608632</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03646856482530344</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>70</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.36799810459072135</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.2051469111498962</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.2051469111498962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.12880803148201692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.11947870909744722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.0321509616629788</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>70</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>1.0847788410145824</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Russia</WikiTitle>
+		<WikiTitleID>339344</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>leaders	politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Russia</WikiTitle> <WikiTitleID>339344</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Prime Minister</EntitySurfaceForm>
+	<EntityTextStart>78</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>1.1356480530223703</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Minister_of_Russia</WikiTitle>
+		<WikiTitleID>339344</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>leaders	politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prime_Minister_of_Russia</WikiTitle> <WikiTitleID>339344</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Viktor Chernomyrdin</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>112</EntityTextEnd>
+	<LinkerScore>1.4236260764653985</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viktor_Chernomyrdin</WikiTitle>
+		<WikiTitleID>482420</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>diplomat	person	president	personnel	ambassador	politician	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Viktor_Chernomyrdin</WikiTitle> <WikiTitleID>482420</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Viktor</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>-0.08836312592809242</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viktor_(Underworld)</WikiTitle>
+		<WikiTitleID>4000170</WikiTitleID>
+		<RankerScore>0.3279582115252248</RankerScore>
+		<Attributes>character	murderer	general	immortal	vampire	dictator	warlord</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Viktor_(Underworld)</WikiTitle> <WikiTitleID>4000170</WikiTitleID> <RankerScore>0.3279582115252248</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viktor_Jensen</WikiTitle> <WikiTitleID>16567456</WikiTitleID> <RankerScore>0.18516936951994883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victor_class_submarine</WikiTitle> <WikiTitleID>527961</WikiTitleID> <RankerScore>0.1833350915116519</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viktor_Vasnetsov</WikiTitle> <WikiTitleID>1551907</WikiTitleID> <RankerScore>0.30353732744317447</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President Boris Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>1.137251160451343</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.210560792504591</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President_of_Russia</WikiTitle>
+		<WikiTitleID>239646</WikiTitleID>
+		<RankerScore>0.3824505216594336</RankerScore>
+		<Attributes>establishment	president	politics	leaders</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_the_United_States</WikiTitle> <WikiTitleID>24113</WikiTitleID> <RankerScore>0.05322056934935324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President</WikiTitle> <WikiTitleID>24110</WikiTitleID> <RankerScore>0.056376609526645166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Philippines</WikiTitle> <WikiTitleID>271126</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Mexico</WikiTitle> <WikiTitleID>273641</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_France</WikiTitle> <WikiTitleID>24899</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Argentina</WikiTitle> <WikiTitleID>229473</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Fiji</WikiTitle> <WikiTitleID>471833</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Pakistan</WikiTitle> <WikiTitleID>419460</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ireland</WikiTitle> <WikiTitleID>24676</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.3824505216594336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Presidents_of_Venezuela</WikiTitle> <WikiTitleID>165102</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Republic_of_China</WikiTitle> <WikiTitleID>61155</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_presidents_of_Chile</WikiTitle> <WikiTitleID>67402</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Ukraine</WikiTitle> <WikiTitleID>570941</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_India</WikiTitle> <WikiTitleID>141896</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Romania</WikiTitle> <WikiTitleID>273659</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_the_Church</WikiTitle> <WikiTitleID>387981</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_South_Africa</WikiTitle> <WikiTitleID>321700</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Nicaragua</WikiTitle> <WikiTitleID>302862</WikiTitleID> <RankerScore>0.029879547027327532</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Boris Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>1.329328789612833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Boris</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>0.41735392135882554</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_(first_name)</WikiTitle>
+		<WikiTitleID>1352961</WikiTitleID>
+		<RankerScore>0.0903307456434355</RankerScore>
+		<Attributes>names</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_(band)</WikiTitle> <WikiTitleID>2390362</WikiTitleID> <RankerScore>0.08671079430710828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_(first_name)</WikiTitle> <WikiTitleID>1352961</WikiTitleID> <RankerScore>0.0903307456434355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Kalamanos</WikiTitle> <WikiTitleID>17616924</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_III_of_Bulgaria</WikiTitle> <WikiTitleID>56152</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_and_Gleb</WikiTitle> <WikiTitleID>1414229</WikiTitleID> <RankerScore>0.047866763716552095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_(song)</WikiTitle> <WikiTitleID>11944878</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_I_of_Bulgaria</WikiTitle> <WikiTitleID>335936</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Titulaer</WikiTitle> <WikiTitleID>3527252</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Thomashefsky</WikiTitle> <WikiTitleID>1339472</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Boris_of_Bulgaria</WikiTitle> <WikiTitleID>3711505</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Dlugosch</WikiTitle> <WikiTitleID>1719004</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Pasternak</WikiTitle> <WikiTitleID>4667</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Boris_of_Leiningen</WikiTitle> <WikiTitleID>6083666</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Kalin</WikiTitle> <WikiTitleID>16830606</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Malenko</WikiTitle> <WikiTitleID>4209336</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Vallejo</WikiTitle> <WikiTitleID>766490</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Karloff</WikiTitle> <WikiTitleID>67260</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kardam,_Prince_of_Turnovo</WikiTitle> <WikiTitleID>3711473</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris,_Hereditary_Prince_of_Montenegro</WikiTitle> <WikiTitleID>5504179</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Podolsky</WikiTitle> <WikiTitleID>635151</WikiTitleID> <RankerScore>0.045593629196053184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>1.3580951173417726</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.9088516751927735</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.9088516751927735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.09114832480722643</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>185</EntityTextStart>
+	<EntityTextEnd>191</EntityTextEnd>
+	<LinkerScore>1.5021116662502216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.28342211839017056</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.28342211839017056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.044563035616168076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.050047196078512705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.036586332347949925</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alexander</EntitySurfaceForm>
+	<EntityTextStart>219</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>-0.17001902224634316</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alexander_(film)</WikiTitle>
+		<WikiTitleID>1138675</WikiTitleID>
+		<RankerScore>0.06274188892245322</RankerScore>
+		<Attributes>film	depiction	event</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alexander_the_Great</WikiTitle> <WikiTitleID>783</WikiTitleID> <RankerScore>0.05794538745094868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_(film)</WikiTitle> <WikiTitleID>1138675</WikiTitleID> <RankerScore>0.06274188892245322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Walter_Alexander_Coachbuilders</WikiTitle> <WikiTitleID>3016526</WikiTitleID> <RankerScore>0.05844051366825103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_County,_North_Carolina</WikiTitle> <WikiTitleID>93353</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_Jagiellon</WikiTitle> <WikiTitleID>1589</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_(emperor)</WikiTitle> <WikiTitleID>253445</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_I_of_Greece</WikiTitle> <WikiTitleID>160210</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_I_of_Russia</WikiTitle> <WikiTitleID>1590</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_I_of_Yugoslavia</WikiTitle> <WikiTitleID>269846</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_I_of_Scotland</WikiTitle> <WikiTitleID>1593</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pope_Alexander_of_Alexandria</WikiTitle> <WikiTitleID>3179606</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_II_of_Epirus</WikiTitle> <WikiTitleID>1588</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_County,_Illinois</WikiTitle> <WikiTitleID>96292</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Harold_Alexander,_1st_Earl_Alexander_of_Tunis</WikiTitle> <WikiTitleID>14446</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_Rozhenko</WikiTitle> <WikiTitleID>524326</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander,_North_Dakota</WikiTitle> <WikiTitleID>128606</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_(village),_New_York</WikiTitle> <WikiTitleID>259798</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander_(satrap)</WikiTitle> <WikiTitleID>2871606</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aleksander_(Hasidic_dynasty)</WikiTitle> <WikiTitleID>1766381</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alexander,_Prince_of_Lippe</WikiTitle> <WikiTitleID>8824317</WikiTitleID> <RankerScore>0.04828660058578512</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alexander Lebed</EntitySurfaceForm>
+	<EntityTextStart>219</EntityTextStart>
+	<EntityTextEnd>234</EntityTextEnd>
+	<LinkerScore>1.2211606081878152</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alexander_Lebed</WikiTitle>
+		<WikiTitleID>431579</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	general	member	personnel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alexander_Lebed</WikiTitle> <WikiTitleID>431579</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>peace plan</EntitySurfaceForm>
+	<EntityTextStart>237</EntityTextStart>
+	<EntityTextEnd>247</EntityTextEnd>
+	<LinkerScore>0.02907903961247693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arab_Peace_Initiative</WikiTitle>
+		<WikiTitleID>7539551</WikiTitleID>
+		<RankerScore>0.6024956889483274</RankerScore>
+		<Attributes>effort	relations</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arab_Peace_Initiative</WikiTitle> <WikiTitleID>7539551</WikiTitleID> <RankerScore>0.6024956889483274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baker_Plan</WikiTitle> <WikiTitleID>2156030</WikiTitleID> <RankerScore>0.39750431105167267</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>252</EntityTextStart>
+	<EntityTextEnd>260</EntityTextEnd>
+	<LinkerScore>0.7705824021128581</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.39502195288609926</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.39502195288609926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.19997330864813234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.053433563346209814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.053433563346209814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.1912704850809292</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.053433563346209814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.053433563346209814</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>262</EntityTextStart>
+	<EntityTextEnd>270</EntityTextEnd>
+	<LinkerScore>1.0867793192705508</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news agency</EntitySurfaceForm>
+	<EntityTextStart>271</EntityTextStart>
+	<EntityTextEnd>282</EntityTextEnd>
+	<LinkerScore>0.7242176771566528</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_agency</WikiTitle>
+		<WikiTitleID>47917</WikiTitleID>
+		<RankerScore>0.6760214592987601</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.6760214592987601</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>0.3239785407012399</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>295</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>314</EntityTextEnd>
+	<LinkerScore>0.6317291314890157</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.386893530186505</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.386893530186505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.20230868477070535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.054990734263453786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.054990734263453786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.1908348479889744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.054990734263453786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.054990734263453786</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>339</EntityTextStart>
+	<EntityTextEnd>347</EntityTextEnd>
+	<LinkerScore>1.0778114531607859</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chernomyrdin</EntitySurfaceForm>
+	<EntityTextStart>355</EntityTextStart>
+	<EntityTextEnd>367</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viktor_Chernomyrdin</WikiTitle>
+		<WikiTitleID>482420</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>diplomat	person	president	personnel	ambassador	politician	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>main thing</EntitySurfaceForm>
+	<EntityTextStart>384</EntityTextStart>
+	<EntityTextEnd>394</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Main_Thing</WikiTitle>
+		<WikiTitleID>15892846</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>song	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>452</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>1.2604337918477533</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.908050059369617</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.908050059369617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.0919499406303829</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>473</EntityTextStart>
+	<EntityTextEnd>478</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>485</EntityTextStart>
+	<EntityTextEnd>492</EntityTextEnd>
+	<LinkerScore>1.3348693809721561</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.907093129976961</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.907093129976961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.09290687002303896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>521</EntityTextStart>
+	<EntityTextEnd>529</EntityTextEnd>
+	<LinkerScore>1.0056288806574667</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.46542992286252854</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.46542992286252854</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.16992410909421565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.04230931586227167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.04230931586227167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.19540870459416906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.04230931586227167</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.04230931586227167</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>separatist</EntitySurfaceForm>
+	<EntityTextStart>559</EntityTextStart>
+	<EntityTextEnd>569</EntityTextEnd>
+	<LinkerScore>1.5970443676631452</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Separatism</WikiTitle>
+		<WikiTitleID>286527</WikiTitleID>
+		<RankerScore>0.3096081555347461</RankerScore>
+		<Attributes>theory	politics	movement</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Separatism</WikiTitle> <WikiTitleID>286527</WikiTitleID> <RankerScore>0.3096081555347461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_sovereignty_movement</WikiTitle> <WikiTitleID>319505</WikiTitleID> <RankerScore>0.08575868497806456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Black_separatism</WikiTitle> <WikiTitleID>962373</WikiTitleID> <RankerScore>0.057921612023760664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_separatism</WikiTitle> <WikiTitleID>475233</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Separatist_feminism</WikiTitle> <WikiTitleID>1623371</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_active_autonomist_and_secessionist_movements</WikiTitle> <WikiTitleID>433170</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Khalistan</WikiTitle> <WikiTitleID>9411399</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Racial_separatism</WikiTitle> <WikiTitleID>962439</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sri_Lankan_Tamil_nationalism</WikiTitle> <WikiTitleID>17258551</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_nationalism</WikiTitle> <WikiTitleID>376890</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basque_nationalism</WikiTitle> <WikiTitleID>222438</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alberta_separatism</WikiTitle> <WikiTitleID>2040033</WikiTitleID> <RankerScore>0.06074572749593653</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>626</EntityTextEnd>
+	<LinkerScore>-0.04857859870432406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regions_of_France</WikiTitle>
+		<WikiTitleID>58846</WikiTitleID>
+		<RankerScore>0.0836351607704586</RankerScore>
+		<Attributes>region	subdivision	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.0836351607704586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.0659995068818706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.05708452190659848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_and_districts_of_Scotland</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Quebec_regions</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_in_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.04666357708476896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chief-of-staff</EntitySurfaceForm>
+	<EntityTextStart>678</EntityTextStart>
+	<EntityTextEnd>692</EntityTextEnd>
+	<LinkerScore>0.3717597388461438</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chief_of_staff_(military)</WikiTitle>
+		<WikiTitleID>7213050</WikiTitleID>
+		<RankerScore>0.5990503553219176</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chief_of_staff_(military)</WikiTitle> <WikiTitleID>7213050</WikiTitleID> <RankerScore>0.5990503553219176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_House_Chief_of_Staff</WikiTitle> <WikiTitleID>212934</WikiTitleID> <RankerScore>0.4009496446780825</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aslan</EntitySurfaceForm>
+	<EntityTextStart>693</EntityTextStart>
+	<EntityTextEnd>698</EntityTextEnd>
+	<LinkerScore>0.2595040516147708</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aslan</WikiTitle>
+		<WikiTitleID>1951</WikiTitleID>
+		<RankerScore>0.23689510935245003</RankerScore>
+		<Attributes>deity	lion	version	animal	chronicle	king</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aslan</WikiTitle> <WikiTitleID>1951</WikiTitleID> <RankerScore>0.23689510935245003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aslan_(rock_band)</WikiTitle> <WikiTitleID>1993622</WikiTitleID> <RankerScore>0.16141956566943902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aslan_(Traveller)</WikiTitle> <WikiTitleID>1758313</WikiTitleID> <RankerScore>0.1407978346191189</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aslan_(artist)</WikiTitle> <WikiTitleID>3002540</WikiTitleID> <RankerScore>0.115221872589748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kevork_Aslan</WikiTitle> <WikiTitleID>12557468</WikiTitleID> <RankerScore>0.115221872589748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aslan_(fanzine)</WikiTitle> <WikiTitleID>6182018</WikiTitleID> <RankerScore>0.115221872589748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Birthday_Massacre</WikiTitle> <WikiTitleID>1778270</WikiTitleID> <RankerScore>0.115221872589748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aslan Maskhadov</EntitySurfaceForm>
+	<EntityTextStart>693</EntityTextStart>
+	<EntityTextEnd>708</EntityTextEnd>
+	<LinkerScore>1.3176142350409334</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aslan_Maskhadov</WikiTitle>
+		<WikiTitleID>340963</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>candidate	president	minister	person	general	politician	commander	personnel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aslan_Maskhadov</WikiTitle> <WikiTitleID>340963</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Maskhadov</EntitySurfaceForm>
+	<EntityTextStart>699</EntityTextStart>
+	<EntityTextEnd>708</EntityTextEnd>
+	<LinkerScore>1.1747962184531797</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aslan_Maskhadov</WikiTitle>
+		<WikiTitleID>340963</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>candidate	president	minister	person	general	politician	commander	personnel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aslan_Maskhadov</WikiTitle> <WikiTitleID>340963</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tackle</EntitySurfaceForm>
+	<EntityTextStart>744</EntityTextStart>
+	<EntityTextEnd>750</EntityTextEnd>
+	<LinkerScore>0.10834914620639971</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Offensive_tackle</WikiTitle>
+		<WikiTitleID>192066</WikiTitleID>
+		<RankerScore>0.1850333476975645</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Offensive_tackle</WikiTitle> <WikiTitleID>192066</WikiTitleID> <RankerScore>0.1850333476975645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tackle_(football_move)</WikiTitle> <WikiTitleID>10667</WikiTitleID> <RankerScore>0.1693396980903542</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fishing_tackle</WikiTitle> <WikiTitleID>6209845</WikiTitleID> <RankerScore>0.1296881413959687</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Block_and_tackle</WikiTitle> <WikiTitleID>265594</WikiTitleID> <RankerScore>0.12898470320402813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Defensive_tackle</WikiTitle> <WikiTitleID>104467</WikiTitleID> <RankerScore>0.12898470320402813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sliding_tackle</WikiTitle> <WikiTitleID>459510</WikiTitleID> <RankerScore>0.12898470320402813</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football_positions</WikiTitle> <WikiTitleID>4009259</WikiTitleID> <RankerScore>0.12898470320402813</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>835</EntityTextEnd>
+	<LinkerScore>0.7368854090565101</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.4050611132151324</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.4050611132151324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.20010357768060946</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.05381512951707874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.05381512951707874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.17957479103594312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.05381512951707874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.05381512951707874</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>837</EntityTextStart>
+	<EntityTextEnd>842</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>political settlement</EntitySurfaceForm>
+	<EntityTextStart>945</EntityTextStart>
+	<EntityTextEnd>965</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Elite_pact</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>983</EntityTextStart>
+	<EntityTextEnd>989</EntityTextEnd>
+	<LinkerScore>0.9104326689931819</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.2564005040175269</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.2564005040175269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04545080825966708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.07426267741083757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03669917707717461</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>1011</EntityTextStart>
+	<EntityTextEnd>1019</EntityTextEnd>
+	<LinkerScore>0.992426816672597</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.4861170629976313</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.4861170629976313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.16512314259488864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.040993438626126776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.040993438626126776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.184786039902973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.040993438626126776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.040993438626126776</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>1037</EntityTextStart>
+	<EntityTextEnd>1044</EntityTextEnd>
+	<LinkerScore>0.11064421770596769</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.19821465819807335</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.19821465819807335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.11503566754109291</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.12803049136598485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03286583428793229</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian Federation</EntitySurfaceForm>
+	<EntityTextStart>1037</EntityTextStart>
+	<EntityTextEnd>1055</EntityTextEnd>
+	<LinkerScore>0.7623712384874543</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.47474244189887504</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.47474244189887504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.20726781045457784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.07225289403681197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1703941</WikiTitleID> <RankerScore>0.06143421340243379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_and_the_United_Nations</WikiTitle> <WikiTitleID>1861361</WikiTitleID> <RankerScore>0.06143421340243379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_presidents_of_the_Russian_Federation</WikiTitle> <WikiTitleID>9730914</WikiTitleID> <RankerScore>0.06143421340243379</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constitution_of_Russia</WikiTitle> <WikiTitleID>528146</WikiTitleID> <RankerScore>0.06143421340243379</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Federation</EntitySurfaceForm>
+	<EntityTextStart>1045</EntityTextStart>
+	<EntityTextEnd>1055</EntityTextEnd>
+	<LinkerScore>0.5394761408032811</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.45651039133050075</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.45651039133050075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.19619533939161593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.051526467216333555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1703941</WikiTitleID> <RankerScore>0.051526467216333555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_and_the_United_Nations</WikiTitle> <WikiTitleID>1861361</WikiTitleID> <RankerScore>0.051526467216333555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_presidents_of_the_Russian_Federation</WikiTitle> <WikiTitleID>9730914</WikiTitleID> <RankerScore>0.051526467216333555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constitution_of_Russia</WikiTitle> <WikiTitleID>528146</WikiTitleID> <RankerScore>0.1411884004125491</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>region</EntitySurfaceForm>
+	<EntityTextStart>1076</EntityTextStart>
+	<EntityTextEnd>1082</EntityTextEnd>
+	<LinkerScore>0.13826852146411317</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regions_of_France</WikiTitle>
+		<WikiTitleID>58846</WikiTitleID>
+		<RankerScore>0.08365966723123078</RankerScore>
+		<Attributes>region	subdivision	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Regions_of_France</WikiTitle> <WikiTitleID>58846</WikiTitleID> <RankerScore>0.08365966723123078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Region</WikiTitle> <WikiTitleID>55633</WikiTitleID> <RankerScore>0.06589472214330407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Finland</WikiTitle> <WikiTitleID>211865</WikiTitleID> <RankerScore>0.05708991093991517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_and_districts_of_Scotland</WikiTitle> <WikiTitleID>852652</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Quebec_regions</WikiTitle> <WikiTitleID>76216</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Philippines</WikiTitle> <WikiTitleID>216786</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Chad</WikiTitle> <WikiTitleID>2666523</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_England</WikiTitle> <WikiTitleID>52923</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Italy</WikiTitle> <WikiTitleID>221250</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Djibouti</WikiTitle> <WikiTitleID>1885953</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_New_Zealand</WikiTitle> <WikiTitleID>58858</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mkhare</WikiTitle> <WikiTitleID>3404317</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Greece</WikiTitle> <WikiTitleID>2983750</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_regions_in_India</WikiTitle> <WikiTitleID>623684</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Madagascar</WikiTitle> <WikiTitleID>9855699</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Mauritania</WikiTitle> <WikiTitleID>690348</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_the_Republic_of_the_Congo</WikiTitle> <WikiTitleID>673508</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Peru</WikiTitle> <WikiTitleID>690419</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regions_of_Peru</WikiTitle> <WikiTitleID>9547211</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Subregion</WikiTitle> <WikiTitleID>719446</WikiTitleID> <RankerScore>0.046667982334444115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>December 1994</EntitySurfaceForm>
+	<EntityTextStart>1086</EntityTextStart>
+	<EntityTextEnd>1099</EntityTextEnd>
+	<LinkerScore>1.1823210983615875</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1994</WikiTitle>
+		<WikiTitleID>34663</WikiTitleID>
+		<RankerScore>0.7648595134399924</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.7648595134399924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_in_video_gaming</WikiTitle> <WikiTitleID>1322996</WikiTitleID> <RankerScore>0.23514048656000763</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1994</EntitySurfaceForm>
+	<EntityTextStart>1095</EntityTextStart>
+	<EntityTextEnd>1099</EntityTextEnd>
+	<LinkerScore>1.2810274135256663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1994</WikiTitle>
+		<WikiTitleID>34663</WikiTitleID>
+		<RankerScore>0.7714257985537584</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1994</WikiTitle> <WikiTitleID>34663</WikiTitleID> <RankerScore>0.7714257985537584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_in_video_gaming</WikiTitle> <WikiTitleID>1322996</WikiTitleID> <RankerScore>0.2285742014462415</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>independence</EntitySurfaceForm>
+	<EntityTextStart>1113</EntityTextStart>
+	<EntityTextEnd>1125</EntityTextEnd>
+	<LinkerScore>1.0389614621690693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Independence</WikiTitle>
+		<WikiTitleID>62450</WikiTitleID>
+		<RankerScore>0.14268094641786933</RankerScore>
+		<Attributes>theory</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Independence</WikiTitle> <WikiTitleID>62450</WikiTitleID> <RankerScore>0.14268094641786933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_independence_movement</WikiTitle> <WikiTitleID>161022</WikiTitleID> <RankerScore>0.04570011602969589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_independence</WikiTitle> <WikiTitleID>31156</WikiTitleID> <RankerScore>0.042874200303193666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_War_of_Independence</WikiTitle> <WikiTitleID>785587</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bangladesh_Liberation_War</WikiTitle> <WikiTitleID>672766</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_independence</WikiTitle> <WikiTitleID>231813</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hari_Merdeka</WikiTitle> <WikiTitleID>1539323</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistical_independence</WikiTitle> <WikiTitleID>27593</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_War_of_Independence</WikiTitle> <WikiTitleID>200987</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Declaration_of_Independence_(Israel)</WikiTitle> <WikiTitleID>14696</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Independence_(mathematical_logic)</WikiTitle> <WikiTitleID>1141208</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_independence</WikiTitle> <WikiTitleID>3231415</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sovereignty</WikiTitle> <WikiTitleID>28791</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Kosovo_declaration_of_independence</WikiTitle> <WikiTitleID>15796209</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peruvian_War_of_Independence</WikiTitle> <WikiTitleID>5553868</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decolonization</WikiTitle> <WikiTitleID>302084</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partition_of_India</WikiTitle> <WikiTitleID>265059</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Declaration_of_Independence</WikiTitle> <WikiTitleID>31874</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anglo-Irish_Treaty</WikiTitle> <WikiTitleID>152560</WikiTitleID> <RankerScore>0.04522027866172007</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>1131</EntityTextStart>
+	<EntityTextEnd>1138</EntityTextEnd>
+	<LinkerScore>1.0947815608613847</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.9053915371096221</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.9053915371096221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.09460846289037786</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>1173</EntityTextStart>
+	<EntityTextEnd>1179</EntityTextEnd>
+	<LinkerScore>0.5048997862022881</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.25056600030420495</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.25056600030420495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.05563118367417478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.11146153632093403</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.03425536939415801</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>territorial integrity</EntitySurfaceForm>
+	<EntityTextStart>1182</EntityTextStart>
+	<EntityTextEnd>1203</EntityTextEnd>
+	<LinkerScore>1.038004415660187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Territorial_integrity</WikiTitle>
+		<WikiTitleID>31335</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Territorial_integrity</WikiTitle> <WikiTitleID>31335</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Itar-Tass</EntitySurfaceForm>
+	<EntityTextStart>1205</EntityTextStart>
+	<EntityTextEnd>1214</EntityTextEnd>
+	<LinkerScore>1.181188079053077</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Information_Telegraph_Agency_of_Russia</WikiTitle>
+		<WikiTitleID>434852</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Information_Telegraph_Agency_of_Russia</WikiTitle> <WikiTitleID>434852</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Itar-Tass news agency</EntitySurfaceForm>
+	<EntityTextStart>1205</EntityTextStart>
+	<EntityTextEnd>1226</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Information_Telegraph_Agency_of_Russia</WikiTitle>
+		<WikiTitleID>434852</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>agency	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news agency</EntitySurfaceForm>
+	<EntityTextStart>1215</EntityTextStart>
+	<EntityTextEnd>1226</EntityTextEnd>
+	<LinkerScore>0.5652391321644133</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_agency</WikiTitle>
+		<WikiTitleID>47917</WikiTitleID>
+		<RankerScore>0.6297806816469879</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.6297806816469879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>0.3702193183530121</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>1234</EntityTextStart>
+	<EntityTextEnd>1239</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>suggest</EntitySurfaceForm>
+	<EntityTextStart>1264</EntityTextStart>
+	<EntityTextEnd>1271</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suggestion</WikiTitle>
+		<WikiTitleID>2481523</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>1307</EntityTextStart>
+	<EntityTextEnd>1315</EntityTextEnd>
+	<LinkerScore>1.0741995070396384</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>1373</EntityTextStart>
+	<EntityTextEnd>1378</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone</EntitySurfaceForm>
+	<EntityTextStart>1393</EntityTextStart>
+	<EntityTextEnd>1402</EntityTextEnd>
+	<LinkerScore>1.1656672310506522</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone</WikiTitle>
+		<WikiTitleID>30003</WikiTitleID>
+		<RankerScore>0.17533343329232873</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telephone</WikiTitle> <WikiTitleID>30003</WikiTitleID> <RankerScore>0.17533343329232873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_banking</WikiTitle> <WikiTitleID>6222524</WikiTitleID> <RankerScore>0.06430487043225744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plain_old_telephone_service</WikiTitle> <WikiTitleID>160834</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_number</WikiTitle> <WikiTitleID>30750</WikiTitleID> <RankerScore>0.0616767224743397</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-assisted_telephone_interviewing</WikiTitle> <WikiTitleID>1290555</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_marketing</WikiTitle> <WikiTitleID>665239</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer-premises_equipment</WikiTitle> <WikiTitleID>40982</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_whispers</WikiTitle> <WikiTitleID>291405</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_directory</WikiTitle> <WikiTitleID>162263</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teleconference</WikiTitle> <WikiTitleID>41783</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephony</WikiTitle> <WikiTitleID>41831</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.06351681580009763</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone conversation</EntitySurfaceForm>
+	<EntityTextStart>1393</EntityTextStart>
+	<EntityTextEnd>1415</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone_Conversation</WikiTitle>
+		<WikiTitleID>8206122</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>song</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>1421</EntityTextStart>
+	<EntityTextEnd>1428</EntityTextEnd>
+	<LinkerScore>1.1450320713099122</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8897279830537732</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8897279830537732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.11027201694622675</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>1467</EntityTextStart>
+	<EntityTextEnd>1474</EntityTextEnd>
+	<LinkerScore>1.0933363793008408</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8900087803542135</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8900087803542135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.10999121964578662</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chernomyrdin</EntitySurfaceForm>
+	<EntityTextStart>1518</EntityTextStart>
+	<EntityTextEnd>1530</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Viktor_Chernomyrdin</WikiTitle>
+		<WikiTitleID>482420</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>diplomat	person	president	personnel	ambassador	politician	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>1569</EntityTextStart>
+	<EntityTextEnd>1574</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lebed</EntitySurfaceForm>
+	<EntityTextStart>1608</EntityTextStart>
+	<EntityTextEnd>1613</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lebed</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chechnya</EntitySurfaceForm>
+	<EntityTextStart>1642</EntityTextStart>
+	<EntityTextEnd>1650</EntityTextEnd>
+	<LinkerScore>0.4393407422760734</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chechnya</WikiTitle>
+		<WikiTitleID>6095</WikiTitleID>
+		<RankerScore>0.38589817762725603</RankerScore>
+		<Attributes>republic	state	region	peoples</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chechnya</WikiTitle> <WikiTitleID>6095</WikiTitleID> <RankerScore>0.38589817762725603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Chechen_War</WikiTitle> <WikiTitleID>171392</WikiTitleID> <RankerScore>0.19924591568447872</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechnya_national_football_team</WikiTitle> <WikiTitleID>4946489</WikiTitleID> <RankerScore>0.058883004247393664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Chechnya</WikiTitle> <WikiTitleID>7213416</WikiTitleID> <RankerScore>0.058883004247393664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Chechen_War</WikiTitle> <WikiTitleID>140792</WikiTitleID> <RankerScore>0.17932388969869062</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chechen_Republic_of_Ichkeria</WikiTitle> <WikiTitleID>5326401</WikiTitleID> <RankerScore>0.058883004247393664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Chechnya</WikiTitle> <WikiTitleID>1182126</WikiTitleID> <RankerScore>0.058883004247393664</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -1,0 +1,907 @@
+<WikifierOutput>
+<InputFilename>
+1019testa German
+</InputFilename>
+<InputText>
+German police probe sex link in child kidnap case.
+BERLIN 1996-08-30
+German police searching for a missing 10-year-old schoolgirl said on Friday the prime suspects in the case may have been involved in running a child prostitution ring.
+Police suspect Nicole Nichterwitz&apos;s aunt and a male companion abducted the girl and took her to the Netherlands.
+She was last seen being collected by the pair from school in Velten near Berlin on Monday.
+Public prosecutors said they had found a list of children&apos;s names and ages at the couple&apos;s flat.
+The list was being studied for possible links to previous child kidnappings and prostitution, a prosecutors&apos; spokesman told Reuters.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>German</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>6</EntityTextEnd>
+	<LinkerScore>0.38899168544646795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Germany</WikiTitle>
+		<WikiTitleID>11867</WikiTitleID>
+		<RankerScore>0.15657640995957225</RankerScore>
+		<Attributes>state	republic	country	member	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Germany</WikiTitle> <WikiTitleID>11867</WikiTitleID> <RankerScore>0.15657640995957225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language</WikiTitle> <WikiTitleID>11884</WikiTitleID> <RankerScore>0.12096882914385546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.06635329549859793</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nazi_Germany</WikiTitle> <WikiTitleID>21212</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Empire</WikiTitle> <WikiTitleID>12674</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_American</WikiTitle> <WikiTitleID>290327</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_literature</WikiTitle> <WikiTitleID>12636</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_Germans</WikiTitle> <WikiTitleID>80366</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kriegsmarine</WikiTitle> <WikiTitleID>17386</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Germany</WikiTitle> <WikiTitleID>11935</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_football_team</WikiTitle> <WikiTitleID>250204</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Brazilian</WikiTitle> <WikiTitleID>1043873</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wehrmacht</WikiTitle> <WikiTitleID>33264</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_cuisine</WikiTitle> <WikiTitleID>12485</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Army</WikiTitle> <WikiTitleID>512737</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadians_of_German_ethnicity</WikiTitle> <WikiTitleID>952633</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Empire</WikiTitle> <WikiTitleID>13277</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kaiserliche_Marine</WikiTitle> <WikiTitleID>17385</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patriarch_German</WikiTitle> <WikiTitleID>4254515</WikiTitleID> <RankerScore>0.03859420384693967</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>7</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.8564278344769487</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.16786175122732</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.16786175122732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.07620764666383019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.05372316634711904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.041306319750690046</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sex link</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sex_link</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sex</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>0.12887894267238686</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sex</WikiTitle>
+		<WikiTitleID>26805</WikiTitleID>
+		<RankerScore>0.13185639910719166</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sex</WikiTitle> <WikiTitleID>26805</WikiTitleID> <RankerScore>0.13185639910719166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_intercourse</WikiTitle> <WikiTitleID>27546</WikiTitleID> <RankerScore>0.07201835121285101</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_sexual_behavior</WikiTitle> <WikiTitleID>14337</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gender</WikiTitle> <WikiTitleID>38076</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_sexuality</WikiTitle> <WikiTitleID>15179951</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexism</WikiTitle> <WikiTitleID>27165</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_in_film</WikiTitle> <WikiTitleID>888483</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Child_sexual_abuse</WikiTitle> <WikiTitleID>6636</WikiTitleID> <RankerScore>0.10019558927152757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_addiction</WikiTitle> <WikiTitleID>1797004</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexuality</WikiTitle> <WikiTitleID>5488304</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mating</WikiTitle> <WikiTitleID>357632</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Men_who_have_sex_with_men</WikiTitle> <WikiTitleID>591031</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philosophy_of_sex</WikiTitle> <WikiTitleID>612228</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_dysfunction</WikiTitle> <WikiTitleID>411851</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pornography</WikiTitle> <WikiTitleID>5710507</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_dimorphism</WikiTitle> <WikiTitleID>197179</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sexual_reproduction</WikiTitle> <WikiTitleID>29014</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statutory_rape</WikiTitle> <WikiTitleID>27923</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Missionary_position</WikiTitle> <WikiTitleID>224070</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Homosexual_orientation</WikiTitle> <WikiTitleID>13407427</WikiTitleID> <RankerScore>0.040937038847554695</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BERLIN</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>1.0386476679791357</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Berlin</WikiTitle>
+		<WikiTitleID>3354</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Berlin</WikiTitle> <WikiTitleID>3354</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>German</EntitySurfaceForm>
+	<EntityTextStart>69</EntityTextStart>
+	<EntityTextEnd>75</EntityTextEnd>
+	<LinkerScore>0.5522927326740327</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Germany</WikiTitle>
+		<WikiTitleID>11867</WikiTitleID>
+		<RankerScore>0.16604501709791591</RankerScore>
+		<Attributes>state	republic	country	member	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Germany</WikiTitle> <WikiTitleID>11867</WikiTitleID> <RankerScore>0.16604501709791591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language</WikiTitle> <WikiTitleID>11884</WikiTitleID> <RankerScore>0.12151629625737002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.0658231305731241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nazi_Germany</WikiTitle> <WikiTitleID>21212</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Empire</WikiTitle> <WikiTitleID>12674</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_American</WikiTitle> <WikiTitleID>290327</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_literature</WikiTitle> <WikiTitleID>12636</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_Germans</WikiTitle> <WikiTitleID>80366</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kriegsmarine</WikiTitle> <WikiTitleID>17386</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Germany</WikiTitle> <WikiTitleID>11935</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_football_team</WikiTitle> <WikiTitleID>250204</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Brazilian</WikiTitle> <WikiTitleID>1043873</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wehrmacht</WikiTitle> <WikiTitleID>33264</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_cuisine</WikiTitle> <WikiTitleID>12485</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Army</WikiTitle> <WikiTitleID>512737</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadians_of_German_ethnicity</WikiTitle> <WikiTitleID>952633</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Empire</WikiTitle> <WikiTitleID>13277</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kaiserliche_Marine</WikiTitle> <WikiTitleID>17385</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patriarch_German</WikiTitle> <WikiTitleID>4254515</WikiTitleID> <RankerScore>0.03803620918068176</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>82</EntityTextEnd>
+	<LinkerScore>0.7388715898800968</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.16801943468144526</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.16801943468144526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.07811410551065592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.05353113067090157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04119619583158806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>schoolgirl</EntitySurfaceForm>
+	<EntityTextStart>119</EntityTextStart>
+	<EntityTextEnd>129</EntityTextEnd>
+	<LinkerScore>0.1239546291639069</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>School_uniform</WikiTitle>
+		<WikiTitleID>55615</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>uniform	issue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>School_uniform</WikiTitle> <WikiTitleID>55615</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prime suspects</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>163</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prime_Suspects</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>group	artist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>child prostitution</EntitySurfaceForm>
+	<EntityTextStart>212</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>1.117520982445295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prostitution_of_children</WikiTitle>
+		<WikiTitleID>1081926</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prostitution_of_children</WikiTitle> <WikiTitleID>1081926</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prostitution</EntitySurfaceForm>
+	<EntityTextStart>218</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>0.8322620665127755</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prostitution</WikiTitle>
+		<WikiTitleID>15157915</WikiTitleID>
+		<RankerScore>0.24871547574225072</RankerScore>
+		<Attributes>prostitute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prostitution</WikiTitle> <WikiTitleID>15157915</WikiTitleID> <RankerScore>0.24871547574225072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_Netherlands</WikiTitle> <WikiTitleID>1018370</WikiTitleID> <RankerScore>0.11170267226585368</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Thailand</WikiTitle> <WikiTitleID>1309790</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Male_prostitution</WikiTitle> <WikiTitleID>2447687</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_of_children</WikiTitle> <WikiTitleID>1081926</WikiTitleID> <RankerScore>0.0681378997348085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Japan</WikiTitle> <WikiTitleID>1870369</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_United_States</WikiTitle> <WikiTitleID>5127168</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_South_Korea</WikiTitle> <WikiTitleID>4032739</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Hong_Kong</WikiTitle> <WikiTitleID>3313054</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Nevada</WikiTitle> <WikiTitleID>161209</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mann_Act</WikiTitle> <WikiTitleID>55744</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_New_Zealand</WikiTitle> <WikiTitleID>253012</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_United_Kingdom</WikiTitle> <WikiTitleID>3750300</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Religious_prostitution</WikiTitle> <WikiTitleID>62062</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_India</WikiTitle> <WikiTitleID>4442437</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_(criminology)</WikiTitle> <WikiTitleID>4102371</WikiTitleID> <RankerScore>0.04395722709669901</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>male companion</EntitySurfaceForm>
+	<EntityTextStart>284</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Male_Companion</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Netherlands</EntitySurfaceForm>
+	<EntityTextStart>333</EntityTextStart>
+	<EntityTextEnd>348</EntityTextEnd>
+	<LinkerScore>0.7190367752710911</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Netherlands</WikiTitle>
+		<WikiTitleID>21148</WikiTitleID>
+		<RankerScore>0.13413568905510898</RankerScore>
+		<Attributes>country	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Netherlands</WikiTitle> <WikiTitleID>21148</WikiTitleID> <RankerScore>0.13413568905510898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_football_team</WikiTitle> <WikiTitleID>9647657</WikiTitleID> <RankerScore>0.062051049312839404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_baseball_team</WikiTitle> <WikiTitleID>4289715</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_cricket_team</WikiTitle> <WikiTitleID>2164343</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_in_the_Eurovision_Song_Contest_1957</WikiTitle> <WikiTitleID>15964926</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_under-21_football_team</WikiTitle> <WikiTitleID>3412785</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_Netherlands</WikiTitle> <WikiTitleID>249609</WikiTitleID> <RankerScore>0.053830984587574654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Republic</WikiTitle> <WikiTitleID>52626</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_rugby_union_team</WikiTitle> <WikiTitleID>4863079</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_ice_hockey_team</WikiTitle> <WikiTitleID>12528441</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>5650619</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holland</WikiTitle> <WikiTitleID>13288</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Low_Countries</WikiTitle> <WikiTitleID>51402</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burgundian_Netherlands</WikiTitle> <WikiTitleID>1516642</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eredivisie</WikiTitle> <WikiTitleID>1332105</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_the_Netherlands</WikiTitle> <WikiTitleID>59761</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_Netherlands</WikiTitle> <WikiTitleID>59760</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_European_Constitution_referendum,_2005</WikiTitle> <WikiTitleID>1542517</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Top_40</WikiTitle> <WikiTitleID>4685500</WikiTitleID> <RankerScore>0.04411660453202806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Netherlands</EntitySurfaceForm>
+	<EntityTextStart>337</EntityTextStart>
+	<EntityTextEnd>348</EntityTextEnd>
+	<LinkerScore>0.8227467387680094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Netherlands</WikiTitle>
+		<WikiTitleID>21148</WikiTitleID>
+		<RankerScore>0.15029654160034125</RankerScore>
+		<Attributes>country	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Netherlands</WikiTitle> <WikiTitleID>21148</WikiTitleID> <RankerScore>0.15029654160034125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_football_team</WikiTitle> <WikiTitleID>9647657</WikiTitleID> <RankerScore>0.0658777433320205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_cricket_team</WikiTitle> <WikiTitleID>2164343</WikiTitleID> <RankerScore>0.055386778192098446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_molluscs_recorded_in_the_Netherlands</WikiTitle> <WikiTitleID>12264720</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_field_hockey_team</WikiTitle> <WikiTitleID>7983616</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_baseball_team</WikiTitle> <WikiTitleID>4289715</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_under-21_football_team</WikiTitle> <WikiTitleID>3412785</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_the_Netherlands</WikiTitle> <WikiTitleID>16885</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7046272</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_The_Netherlands</WikiTitle> <WikiTitleID>2164917</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7325406</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seventeen_Provinces</WikiTitle> <WikiTitleID>73588</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Netherlands_national_rugby_union_team</WikiTitle> <WikiTitleID>4863079</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_the_Netherlands</WikiTitle> <WikiTitleID>59761</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Southern_Netherlands</WikiTitle> <WikiTitleID>291684</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_Republic</WikiTitle> <WikiTitleID>52626</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_Netherlands</WikiTitle> <WikiTitleID>2405998</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_the_Netherlands</WikiTitle> <WikiTitleID>249609</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dutch_euro_coins</WikiTitle> <WikiTitleID>54215</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.04284934922797293</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Velten</EntitySurfaceForm>
+	<EntityTextStart>411</EntityTextStart>
+	<EntityTextEnd>417</EntityTextEnd>
+	<LinkerScore>1.1291443186920052</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Velten</WikiTitle>
+		<WikiTitleID>5615128</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>locality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Velten</WikiTitle> <WikiTitleID>5615128</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Berlin</EntitySurfaceForm>
+	<EntityTextStart>423</EntityTextStart>
+	<EntityTextEnd>429</EntityTextEnd>
+	<LinkerScore>1.2191654255518203</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Berlin</WikiTitle>
+		<WikiTitleID>3354</WikiTitleID>
+		<RankerScore>0.17491195357055192</RankerScore>
+		<Attributes>municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Berlin</WikiTitle> <WikiTitleID>3354</WikiTitleID> <RankerScore>0.17491195357055192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Humboldt_University_of_Berlin</WikiTitle> <WikiTitleID>308234</WikiTitleID> <RankerScore>0.06456379332995682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_New_Hampshire</WikiTitle> <WikiTitleID>124571</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_(band)</WikiTitle> <WikiTitleID>158966</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_Connecticut</WikiTitle> <WikiTitleID>108702</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_Maryland</WikiTitle> <WikiTitleID>116630</WikiTitleID> <RankerScore>0.05147232427504965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_(album)</WikiTitle> <WikiTitleID>2064028</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_International_Film_Festival</WikiTitle> <WikiTitleID>3387</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Berlin</WikiTitle> <WikiTitleID>291145</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Open_(tennis)</WikiTitle> <WikiTitleID>2838490</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_Massachusetts</WikiTitle> <WikiTitleID>116923</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irving_Berlin</WikiTitle> <WikiTitleID>48351</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_New_York</WikiTitle> <WikiTitleID>127043</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_New_Jersey</WikiTitle> <WikiTitleID>125065</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_Wisconsin</WikiTitle> <WikiTitleID>545427</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_Marathon</WikiTitle> <WikiTitleID>1663911</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_State_Opera</WikiTitle> <WikiTitleID>391156</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin,_Vermont</WikiTitle> <WikiTitleID>137409</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Berlin_Philharmonic</WikiTitle> <WikiTitleID>148261</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kitchener,_Ontario</WikiTitle> <WikiTitleID>89585</WikiTitleID> <RankerScore>0.04170893698967304</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Public prosecutors</EntitySurfaceForm>
+	<EntityTextStart>441</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>1.0670347292606164</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prosecutor</WikiTitle>
+		<WikiTitleID>440936</WikiTitleID>
+		<RankerScore>0.703112015882533</RankerScore>
+		<Attributes>profession	prosecutor	occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prosecutor</WikiTitle> <WikiTitleID>440936</WikiTitleID> <RankerScore>0.703112015882533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staatsanwaltschaft</WikiTitle> <WikiTitleID>7854035</WikiTitleID> <RankerScore>0.29688798411746703</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>kidnappings</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>613</EntityTextEnd>
+	<LinkerScore>0.5943105255318034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kidnapping</WikiTitle>
+		<WikiTitleID>169376</WikiTitleID>
+		<RankerScore>0.3547777454968932</RankerScore>
+		<Attributes>tactics	abuse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kidnapping</WikiTitle> <WikiTitleID>169376</WikiTitleID> <RankerScore>0.3547777454968932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidnappings_in_Colombia</WikiTitle> <WikiTitleID>12103964</WikiTitleID> <RankerScore>0.20621583688994433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dos_Palmas_kidnappings</WikiTitle> <WikiTitleID>4066406</WikiTitleID> <RankerScore>0.2438175047372242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Devşirme</WikiTitle> <WikiTitleID>505814</WikiTitleID> <RankerScore>0.1951889128759382</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prostitution</EntitySurfaceForm>
+	<EntityTextStart>618</EntityTextStart>
+	<EntityTextEnd>630</EntityTextEnd>
+	<LinkerScore>0.5989000281078153</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Prostitution</WikiTitle>
+		<WikiTitleID>15157915</WikiTitleID>
+		<RankerScore>0.20120410187628823</RankerScore>
+		<Attributes>prostitute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Prostitution</WikiTitle> <WikiTitleID>15157915</WikiTitleID> <RankerScore>0.20120410187628823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_Netherlands</WikiTitle> <WikiTitleID>1018370</WikiTitleID> <RankerScore>0.11867801783663007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Thailand</WikiTitle> <WikiTitleID>1309790</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Male_prostitution</WikiTitle> <WikiTitleID>2447687</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_of_children</WikiTitle> <WikiTitleID>1081926</WikiTitleID> <RankerScore>0.06769568466798527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Japan</WikiTitle> <WikiTitleID>1870369</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_United_States</WikiTitle> <WikiTitleID>5127168</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_South_Korea</WikiTitle> <WikiTitleID>4032739</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Hong_Kong</WikiTitle> <WikiTitleID>3313054</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_Nevada</WikiTitle> <WikiTitleID>161209</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mann_Act</WikiTitle> <WikiTitleID>55744</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_New_Zealand</WikiTitle> <WikiTitleID>253012</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_the_United_Kingdom</WikiTitle> <WikiTitleID>3750300</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Religious_prostitution</WikiTitle> <WikiTitleID>62062</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_in_India</WikiTitle> <WikiTitleID>4442437</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prostitution_(criminology)</WikiTitle> <WikiTitleID>4102371</WikiTitleID> <RankerScore>0.047109399663007416</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reuters</EntitySurfaceForm>
+	<EntityTextStart>662</EntityTextStart>
+	<EntityTextEnd>669</EntityTextEnd>
+	<LinkerScore>1.0846866918551465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reuters</WikiTitle>
+		<WikiTitleID>101623</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	agency	company	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

@@ -87,8 +87,15 @@ public class Evaluation<T> {
 	private static <T> Map<String, Integer> fp(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
 		Map<String, Integer> fpMap = new HashMap<String, Integer>();
 		for (String title : goldStandard.keySet()) {
+			try{
 			int fp = getSingleFP(systemResult.get(title), goldStandard.get(title), m);
 			fpMap.put(title, fp);
+			} catch (NullPointerException e) {
+				System.out.println(title);
+				System.out.println(systemResult.get(title));
+				System.out.println(goldStandard.get(title));
+				throw new RuntimeException();
+			}
 		}
 		return fpMap;
 	}
@@ -129,7 +136,7 @@ public class Evaluation<T> {
 		int tp = 0;
 		for (T s : systemResult)
 			for (T g : goldStandard)
-				if (m.match(s, g) == true) {
+				if (m.match(g, s) == true) {
 					tp++;
 					break;
 				}

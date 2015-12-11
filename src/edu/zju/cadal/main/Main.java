@@ -1,6 +1,12 @@
 package edu.zju.cadal.main;
 
+import edu.zju.cadal.dataset.ACE2004;
+import edu.zju.cadal.dataset.AQUAINT;
+import edu.zju.cadal.dataset.IITB;
 import edu.zju.cadal.dataset.MSNBC;
+import edu.zju.cadal.dataset.TestA;
+import edu.zju.cadal.dataset.TestB;
+import edu.zju.cadal.dataset.Training;
 import edu.zju.cadal.matching.AnnotationMatching;
 import edu.zju.cadal.matching.CandidateMatching;
 import edu.zju.cadal.matching.MentionMatching;
@@ -21,20 +27,25 @@ public class Main {
 		WikiMiner wm = new WikiMiner(true);
 		Wikifier wf = new Wikifier(true);
 		Spotlight spotlight = new Spotlight(true);
-		Priorer priorer = new Priorer(true);
+		Priorer priorer = new Priorer(true); 
 		
 		MSNBC msnbc = new MSNBC(
 				"dataset/MSNBC/RawTextsSimpleChars_utf8", 
 				"dataset/MSNBC/Problems");
-		
+		ACE2004 ace = new ACE2004("dataset/ACE2004_Coref_Turking/Dev/RawTextsNoTranscripts", 
+				"dataset/ACE2004_Coref_Turking/Dev/ProblemsNoTranscripts");		
+		AQUAINT aquaint = new AQUAINT("dataset/AQUAINT/RawTexts", "dataset/AQUAINT/Problems");
+//		TestA testa = new TestA("dataset/aida/Conll-AIDA-TestA.tsv");
+//		TestB testb = new TestB("dataset/aida/Conll-AIDA-TestB.tsv");
+//		Training training = new Training("dataset/aida/Conll-AIDA-Training.tsv");
+//		IITB iitb = new IITB("dataset/iitb/crawledDocs", "dataset/iitb/CSAW_Annotations.xml");
 		
 		MentionMatching mm = new MentionMatching();
-		mm.setDistanceThreshold(0.000f);
+		mm.setDistanceThreshold(0.00f);
 		CandidateMatching cm = new CandidateMatching(mm);
 		AnnotationMatching am = new AnnotationMatching(mm);
 		NILMatching nm = new NILMatching(mm);
-		
-		Executor.run(msnbc, wm, am, "output/wikipedia-miner-msnbc-am000.out");
+		Executor.run(msnbc, priorer, cm, "output/priorer-msnbc-cm-000.out");
 	}
 
 }

@@ -1,0 +1,121 @@
+<WikifierOutput>
+<InputFilename>
+testSayali.txt
+</InputFilename>
+<InputText>
+carbohydrates  elevate  insulin   levels , 
+line repeated carbohydrates  elevate  insulin   levels , 
+hormone   responsible  for the transport of  carbs  and  amino acids  
+glycogen
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>carbohydrates</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>1.177348843922803</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Carbohydrate</WikiTitle>
+		<WikiTitleID>5932</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Carbohydrate</WikiTitle> <WikiTitleID>5932</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hormone</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>109</EntityTextEnd>
+	<LinkerScore>1.2000416511786707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hormone</WikiTitle>
+		<WikiTitleID>13311</WikiTitleID>
+		<RankerScore>0.7878491951913853</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hormone</WikiTitle> <WikiTitleID>13311</WikiTitleID> <RankerScore>0.7878491951913853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_hormone</WikiTitle> <WikiTitleID>256641</WikiTitleID> <RankerScore>0.12728038458565424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_steroid</WikiTitle> <WikiTitleID>689491</WikiTitleID> <RankerScore>0.045409687502190245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hormone_receptor</WikiTitle> <WikiTitleID>563580</WikiTitleID> <RankerScore>0.03946073272077015</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>amino acids</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>1.129020900436718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amino_acid</WikiTitle>
+		<WikiTitleID>1207</WikiTitleID>
+		<RankerScore>0.7695643407555312</RankerScore>
+		<Attributes>acid</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amino_acid</WikiTitle> <WikiTitleID>1207</WikiTitleID> <RankerScore>0.7695643407555312</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proteinogenic_amino_acid</WikiTitle> <WikiTitleID>427499</WikiTitleID> <RankerScore>0.11620897136193734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amino_acid_synthesis</WikiTitle> <WikiTitleID>7663482</WikiTitleID> <RankerScore>0.11422668788253154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>amino</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>164</EntityTextEnd>
+	<LinkerScore>0.6698743871686366</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Amine</WikiTitle>
+		<WikiTitleID>1412</WikiTitleID>
+		<RankerScore>0.5084246928742735</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Amine</WikiTitle> <WikiTitleID>1412</WikiTitleID> <RankerScore>0.5084246928742735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amino_acid</WikiTitle> <WikiTitleID>1207</WikiTitleID> <RankerScore>0.26051438529669574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>N-terminus</WikiTitle> <WikiTitleID>576704</WikiTitleID> <RankerScore>0.2310609218290307</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>glycogen</EntitySurfaceForm>
+	<EntityTextStart>173</EntityTextStart>
+	<EntityTextEnd>181</EntityTextEnd>
+	<LinkerScore>1.212017215419097</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Glycogen</WikiTitle>
+		<WikiTitleID>168986</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Glycogen</WikiTitle> <WikiTitleID>168986</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

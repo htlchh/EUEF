@@ -1,0 +1,647 @@
+<WikifierOutput>
+<InputFilename>
+1048testa RUGBY
+</InputFilename>
+<InputText>
+RUGBY LEAGUE- WIGAN BEAT BRADFORD 42-36 IN SEMIFINAL.
+WIGAN, England 1996-08-31
+Result of English rugby league premiership semifinal played on Saturday:
+Wigan 42 Bradford Bulls 36
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BRADFORD</EntitySurfaceForm>
+	<EntityTextStart>25</EntityTextStart>
+	<EntityTextEnd>33</EntityTextEnd>
+	<LinkerScore>0.6371642809864979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bradford_Bulls</WikiTitle>
+		<WikiTitleID>1095011</WikiTitleID>
+		<RankerScore>0.5453604827384859</RankerScore>
+		<Attributes>bull	club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bradford</WikiTitle> <WikiTitleID>370435</WikiTitleID> <RankerScore>0.11093238037471952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Pennsylvania</WikiTitle> <WikiTitleID>133178</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Ontario</WikiTitle> <WikiTitleID>565420</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Bulls</WikiTitle> <WikiTitleID>1095011</WikiTitleID> <RankerScore>0.5453604827384859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_County,_Pennsylvania</WikiTitle> <WikiTitleID>91977</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Bradford</WikiTitle> <WikiTitleID>632787</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_County,_Florida</WikiTitle> <WikiTitleID>72006</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_New_Hampshire</WikiTitle> <WikiTitleID>124813</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Odsal_Stadium</WikiTitle> <WikiTitleID>3411441</WikiTitleID> <RankerScore>0.0990149939276286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Massachusetts</WikiTitle> <WikiTitleID>1406987</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Vermont</WikiTitle> <WikiTitleID>767919</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_City_A.F.C.</WikiTitle> <WikiTitleID>431144</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6532819</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Meade</WikiTitle> <WikiTitleID>8310007</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Ohio</WikiTitle> <WikiTitleID>150894</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Park_Avenue_A.F.C.</WikiTitle> <WikiTitleID>3785267</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Greater_Manchester</WikiTitle> <WikiTitleID>2597808</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Tennessee</WikiTitle> <WikiTitleID>135180</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_on_Avon</WikiTitle> <WikiTitleID>373373</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Forster_Square_railway_station</WikiTitle> <WikiTitleID>1896115</WikiTitleID> <RankerScore>0.014393655468186236</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SEMIFINAL</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>52</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Single-elimination_tournament</WikiTitle>
+		<WikiTitleID>939680</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WIGAN</EntitySurfaceForm>
+	<EntityTextStart>54</EntityTextStart>
+	<EntityTextEnd>59</EntityTextEnd>
+	<LinkerScore>0.37773997910103474</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wigan_Warriors</WikiTitle>
+		<WikiTitleID>1095029</WikiTitleID>
+		<RankerScore>0.4275873566074443</RankerScore>
+		<Attributes>warrior	team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wigan</WikiTitle> <WikiTitleID>8222430</WikiTitleID> <RankerScore>0.38086130062625584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Warriors</WikiTitle> <WikiTitleID>1095029</WikiTitleID> <RankerScore>0.4275873566074443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Athletic_F.C.</WikiTitle> <WikiTitleID>367030</WikiTitleID> <RankerScore>0.06264999034705888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Borough_of_Wigan</WikiTitle> <WikiTitleID>635348</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1811268</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Wallgate_railway_station</WikiTitle> <WikiTitleID>2577379</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_North_Western_railway_station</WikiTitle> <WikiTitleID>2577218</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Wigan_Lane</WikiTitle> <WikiTitleID>1886812</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._John_Fisher_Catholic_High_School_(Wigan)</WikiTitle> <WikiTitleID>5140715</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Borough_of_Wigan</WikiTitle> <WikiTitleID>7801918</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Pier</WikiTitle> <WikiTitleID>1458264</WikiTitleID> <RankerScore>0.01611266905240512</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WIGAN, England</EntitySurfaceForm>
+	<EntityTextStart>54</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>1.177373220802187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wigan</WikiTitle>
+		<WikiTitleID>8222430</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>town</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wigan</WikiTitle> <WikiTitleID>8222430</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>England</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>0.5206852814606656</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.2613481558648416</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.2613481558648416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team</WikiTitle> <WikiTitleID>691024</WikiTitleID> <RankerScore>0.05867588352534993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_league_team</WikiTitle> <WikiTitleID>990422</WikiTitleID> <RankerScore>0.17527834099509138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>2154940</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2003020</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peerage_of_England</WikiTitle> <WikiTitleID>409902</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_rugby_union_team_(sevens)</WikiTitle> <WikiTitleID>3250117</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_under-21_football_team</WikiTitle> <WikiTitleID>2970437</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_national_speedway_team</WikiTitle> <WikiTitleID>12480361</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_field_hockey_team</WikiTitle> <WikiTitleID>7027438</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Anglo-Saxon_England</WikiTitle> <WikiTitleID>2645367</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_English_monarchs</WikiTitle> <WikiTitleID>160904</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_basketball_team</WikiTitle> <WikiTitleID>2903365</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Premier_League</WikiTitle> <WikiTitleID>11250</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_badminton_team</WikiTitle> <WikiTitleID>15539691</WikiTitleID> <RankerScore>0.02968809527145395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>English</EntitySurfaceForm>
+	<EntityTextStart>90</EntityTextStart>
+	<EntityTextEnd>97</EntityTextEnd>
+	<LinkerScore>1.158936991639425</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>England</WikiTitle>
+		<WikiTitleID>9316</WikiTitleID>
+		<RankerScore>0.235295398866329</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.235295398866329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_language</WikiTitle> <WikiTitleID>8569916</WikiTitleID> <RankerScore>0.06360937760510536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.060418362610062754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_studies</WikiTitle> <WikiTitleID>351646</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_England</WikiTitle> <WikiTitleID>407950</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_literature</WikiTitle> <WikiTitleID>55461</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_American</WikiTitle> <WikiTitleID>3685573</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_cricket_team</WikiTitle> <WikiTitleID>759125</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_law</WikiTitle> <WikiTitleID>85441</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_England</WikiTitle> <WikiTitleID>600364</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England_national_football_team</WikiTitle> <WikiTitleID>9904</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_folklore</WikiTitle> <WikiTitleID>419835</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_English</WikiTitle> <WikiTitleID>6340</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_Canadian</WikiTitle> <WikiTitleID>463702</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Indian_English</WikiTitle> <WikiTitleID>256135</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_England</WikiTitle> <WikiTitleID>9855990</WikiTitleID> <RankerScore>0.03768687417167664</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rugby league</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>110</EntityTextEnd>
+	<LinkerScore>1.5318357408392558</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rugby_league</WikiTitle>
+		<WikiTitleID>25735</WikiTitleID>
+		<RankerScore>0.7471295409279214</RankerScore>
+		<Attributes>introduction	sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rugby_league</WikiTitle> <WikiTitleID>25735</WikiTitleID> <RankerScore>0.7471295409279214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_football</WikiTitle> <WikiTitleID>25402</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australia_national_rugby_league_team</WikiTitle> <WikiTitleID>951978</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_in_Wales</WikiTitle> <WikiTitleID>2503040</WikiTitleID> <RankerScore>0.024151260407514478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_national_rugby_league_team</WikiTitle> <WikiTitleID>952064</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_in_Australia</WikiTitle> <WikiTitleID>2502889</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_in_England</WikiTitle> <WikiTitleID>2502906</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Rugby_League</WikiTitle> <WikiTitleID>255709</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auckland_Rugby_League</WikiTitle> <WikiTitleID>6669663</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Rugby_League</WikiTitle> <WikiTitleID>521158</WikiTitleID> <RankerScore>0.025473269872606674</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_in_South_Africa</WikiTitle> <WikiTitleID>2503070</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_in_France</WikiTitle> <WikiTitleID>2503045</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wales_national_rugby_league_team</WikiTitle> <WikiTitleID>990439</WikiTitleID> <RankerScore>0.02032459287919576</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rugby</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>103</EntityTextEnd>
+	<LinkerScore>0.5136800189899141</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rugby_league</WikiTitle>
+		<WikiTitleID>25735</WikiTitleID>
+		<RankerScore>0.33287358844441184</RankerScore>
+		<Attributes>introduction	sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rugby_football</WikiTitle> <WikiTitleID>25402</WikiTitleID> <RankerScore>0.08894207845736042</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union</WikiTitle> <WikiTitleID>25405</WikiTitleID> <RankerScore>0.18147379523341917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_rugby</WikiTitle> <WikiTitleID>1439641</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league</WikiTitle> <WikiTitleID>25735</WikiTitleID> <RankerScore>0.33287358844441184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wheelchair_rugby</WikiTitle> <WikiTitleID>532792</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_Rugby_Union</WikiTitle> <WikiTitleID>862966</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_in_Canada</WikiTitle> <WikiTitleID>5603639</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crynant_RFC</WikiTitle> <WikiTitleID>17959015</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ireland_national_rugby_union_team</WikiTitle> <WikiTitleID>955500</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_sevens</WikiTitle> <WikiTitleID>512323</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_in_the_United_States</WikiTitle> <WikiTitleID>4692085</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Portuguese_Rugby_Cup</WikiTitle> <WikiTitleID>11733037</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beer</WikiTitle> <WikiTitleID>3363</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgetown_University_Rugby_Football_Club</WikiTitle> <WikiTitleID>6916482</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carnegie_Mellon_Rugby_Football_Club</WikiTitle> <WikiTitleID>17406374</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Williams_College_Rugby_Football</WikiTitle> <WikiTitleID>4778621</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_Football_League</WikiTitle> <WikiTitleID>878253</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_School</WikiTitle> <WikiTitleID>49551</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Touch_rugby</WikiTitle> <WikiTitleID>1899125</WikiTitleID> <RankerScore>0.024794408616550533</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rugby league premiership</EntitySurfaceForm>
+	<EntityTextStart>98</EntityTextStart>
+	<EntityTextEnd>122</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rugby_League_Premiership</WikiTitle>
+		<WikiTitleID>1060574</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>disestablishment	establishment	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wigan</EntitySurfaceForm>
+	<EntityTextStart>153</EntityTextStart>
+	<EntityTextEnd>158</EntityTextEnd>
+	<LinkerScore>0.711755782489115</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wigan_Warriors</WikiTitle>
+		<WikiTitleID>1095029</WikiTitleID>
+		<RankerScore>0.5233935442476003</RankerScore>
+		<Attributes>warrior	team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wigan</WikiTitle> <WikiTitleID>8222430</WikiTitleID> <RankerScore>0.2733622464531809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Warriors</WikiTitle> <WikiTitleID>1095029</WikiTitleID> <RankerScore>0.5233935442476003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Athletic_F.C.</WikiTitle> <WikiTitleID>367030</WikiTitleID> <RankerScore>0.06662030803163646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Borough_of_Wigan</WikiTitle> <WikiTitleID>635348</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>1811268</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Wallgate_railway_station</WikiTitle> <WikiTitleID>2577379</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_North_Western_railway_station</WikiTitle> <WikiTitleID>2577218</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Wigan_Lane</WikiTitle> <WikiTitleID>1886812</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._John_Fisher_Catholic_High_School_(Wigan)</WikiTitle> <WikiTitleID>5140715</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Borough_of_Wigan</WikiTitle> <WikiTitleID>7801918</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wigan_Pier</WikiTitle> <WikiTitleID>1458264</WikiTitleID> <RankerScore>0.017077987658447785</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bradford</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>0.012103926789856112</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bradford_Bulls</WikiTitle>
+		<WikiTitleID>1095011</WikiTitleID>
+		<RankerScore>0.38829863569804973</RankerScore>
+		<Attributes>bull	club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bradford</WikiTitle> <WikiTitleID>370435</WikiTitleID> <RankerScore>0.11403075148395028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Pennsylvania</WikiTitle> <WikiTitleID>133178</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Ontario</WikiTitle> <WikiTitleID>565420</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Bulls</WikiTitle> <WikiTitleID>1095011</WikiTitleID> <RankerScore>0.38829863569804973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_County,_Pennsylvania</WikiTitle> <WikiTitleID>91977</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Bradford</WikiTitle> <WikiTitleID>632787</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_County,_Florida</WikiTitle> <WikiTitleID>72006</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_New_Hampshire</WikiTitle> <WikiTitleID>124813</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Odsal_Stadium</WikiTitle> <WikiTitleID>3411441</WikiTitleID> <RankerScore>0.20748809767574194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Massachusetts</WikiTitle> <WikiTitleID>1406987</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Vermont</WikiTitle> <WikiTitleID>767919</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_City_A.F.C.</WikiTitle> <WikiTitleID>431144</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>6532819</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Meade</WikiTitle> <WikiTitleID>8310007</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Ohio</WikiTitle> <WikiTitleID>150894</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Park_Avenue_A.F.C.</WikiTitle> <WikiTitleID>3785267</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Greater_Manchester</WikiTitle> <WikiTitleID>2597808</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford,_Tennessee</WikiTitle> <WikiTitleID>135180</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_on_Avon</WikiTitle> <WikiTitleID>373373</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Forster_Square_railway_station</WikiTitle> <WikiTitleID>1896115</WikiTitleID> <RankerScore>0.017069559714250473</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bradford Bulls</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>1.5711758641924036</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bradford_Bulls</WikiTitle>
+		<WikiTitleID>1095011</WikiTitleID>
+		<RankerScore>0.9712996483041084</RankerScore>
+		<Attributes>bull	club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bradford_Bulls</WikiTitle> <WikiTitleID>1095011</WikiTitleID> <RankerScore>0.9712996483041084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Rattlers</WikiTitle> <WikiTitleID>5201531</WikiTitleID> <RankerScore>0.028700351695891572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bulls</EntitySurfaceForm>
+	<EntityTextStart>171</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>0.9478814508445956</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bradford_Bulls</WikiTitle>
+		<WikiTitleID>1095011</WikiTitleID>
+		<RankerScore>0.6146262270216579</RankerScore>
+		<Attributes>bull	club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bulls_(rugby)</WikiTitle> <WikiTitleID>710786</WikiTitleID> <RankerScore>0.0526006515501406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.03327823489941228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bulls,_New_Zealand</WikiTitle> <WikiTitleID>808864</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buffalo_Bulls</WikiTitle> <WikiTitleID>13200756</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Florida_Bulls_football</WikiTitle> <WikiTitleID>6803709</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Papal_bull</WikiTitle> <WikiTitleID>210043</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cattle</WikiTitle> <WikiTitleID>5307</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bradford_Bulls</WikiTitle> <WikiTitleID>1095011</WikiTitleID> <RankerScore>0.6146262270216579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Market_trends</WikiTitle> <WikiTitleID>63082</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls_(AFL)</WikiTitle> <WikiTitleID>17613407</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Myrtle_Beach_Pelicans</WikiTitle> <WikiTitleID>1654888</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand</WikiTitle> <WikiTitleID>4913064</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queensland_Bulls</WikiTitle> <WikiTitleID>892127</WikiTitleID> <RankerScore>0.029949488652878914</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

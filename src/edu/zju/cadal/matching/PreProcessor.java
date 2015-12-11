@@ -209,7 +209,6 @@ public class PreProcessor {
 	
 	public void filterDuplicatedNIL(Map<String, Set<NIL>> systemResult, Map<String, Set<NIL>> goldStandard) {
 		Map<String, Set<NIL>> resultMap = new HashMap<String, Set<NIL>>();
-		
 		for (String title : systemResult.keySet()) {
 			Map<Integer, Set<NIL>> filterMap = new HashMap<Integer, Set<NIL>>();
 			Set<NIL> nSet = new HashSet<NIL>();

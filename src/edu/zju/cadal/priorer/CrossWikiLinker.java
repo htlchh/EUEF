@@ -40,7 +40,7 @@ public class CrossWikiLinker extends Linker {
 	
 	public CrossWikiLinker() {
 		this.coreDictSearcher = 
-				new CoreDictSearcher("/home/chenhui/Data/lucene_index/crosswikis_index/coredict_index");
+				new CoreDictSearcher("/home/chenhui/Data/lucene_index/crosswikis_index/core_dict_index");
 	}
 
 	

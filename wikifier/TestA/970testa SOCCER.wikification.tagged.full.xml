@@ -1,0 +1,847 @@
+<WikifierOutput>
+<InputFilename>
+970testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- BARATELLI TO COACH NICE.
+NICE, France 1996-08-30
+Former international goalkeeper Dominique Baratelli is to coach struggling French first division side Nice, the club said on Friday.
+Baratelli, who played for Nice and Paris St Germain, takes over from Albert Emon who was fired on Thursday after Nice&apos;s home defeat to Guingamp 2-1 in the league.
+Nice have been unable to win any of their four league matches played this season and are lying a lowly 18th in the table.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>NICE</EntitySurfaceForm>
+	<EntityTextStart>27</EntityTextStart>
+	<EntityTextEnd>31</EntityTextEnd>
+	<LinkerScore>0.8821756385006557</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Institute_for_Health_and_Clinical_Excellence</WikiTitle>
+		<WikiTitleID>429680</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>authorities</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Institute_for_Health_and_Clinical_Excellence</WikiTitle> <WikiTitleID>429680</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NICE</EntitySurfaceForm>
+	<EntityTextStart>33</EntityTextStart>
+	<EntityTextEnd>37</EntityTextEnd>
+	<LinkerScore>0.8821756385006557</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Institute_for_Health_and_Clinical_Excellence</WikiTitle>
+		<WikiTitleID>429680</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>authorities</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Institute_for_Health_and_Clinical_Excellence</WikiTitle> <WikiTitleID>429680</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NICE, France</EntitySurfaceForm>
+	<EntityTextStart>33</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>1.141697231291889</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nice</WikiTitle>
+		<WikiTitleID>47088</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nice</WikiTitle> <WikiTitleID>47088</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>France</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>0.5842700169793233</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>France</WikiTitle>
+		<WikiTitleID>5843419</WikiTitleID>
+		<RankerScore>0.2264280390483328</RankerScore>
+		<Attributes>nation	country	state	republic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>France</WikiTitle> <WikiTitleID>5843419</WikiTitleID> <RankerScore>0.2264280390483328</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.10729728728423023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_union_team</WikiTitle> <WikiTitleID>955656</WikiTitleID> <RankerScore>0.06454048293120229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_France</WikiTitle> <WikiTitleID>1069393</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Third_Republic</WikiTitle> <WikiTitleID>227177</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_league_team</WikiTitle> <WikiTitleID>966005</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_France</WikiTitle> <WikiTitleID>228080</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_French_Empire</WikiTitle> <WikiTitleID>216066</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_France</WikiTitle> <WikiTitleID>10784</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_basketball_team</WikiTitle> <WikiTitleID>1849804</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_French_Empire</WikiTitle> <WikiTitleID>215778</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_France</WikiTitle> <WikiTitleID>13854</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_Davis_Cup_team</WikiTitle> <WikiTitleID>9662573</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_France</WikiTitle> <WikiTitleID>2164838</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_Monarchy</WikiTitle> <WikiTitleID>374278</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_poetry</WikiTitle> <WikiTitleID>1551274</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_France</WikiTitle> <WikiTitleID>1809451</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_First_Republic</WikiTitle> <WikiTitleID>62243</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913656</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_cricket_team</WikiTitle> <WikiTitleID>4389582</WikiTitleID> <RankerScore>0.03539612886683733</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>goalkeeper</EntitySurfaceForm>
+	<EntityTextStart>78</EntityTextStart>
+	<EntityTextEnd>88</EntityTextEnd>
+	<LinkerScore>0.11357183050985828</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.3208704213211719</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Goalkeeper</WikiTitle> <WikiTitleID>86314</WikiTitleID> <RankerScore>0.2692139947460437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goalkeeper_(association_football)</WikiTitle> <WikiTitleID>5348091</WikiTitleID> <RankerScore>0.20110110550959304</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goalkeeper_(field_lacrosse)</WikiTitle> <WikiTitleID>15204939</WikiTitleID> <RankerScore>0.10440723921159573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.3208704213211719</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaelic_football_and_Hurling_positions</WikiTitle> <WikiTitleID>6886075</WikiTitleID> <RankerScore>0.10440723921159573</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dominique Baratelli</EntitySurfaceForm>
+	<EntityTextStart>89</EntityTextStart>
+	<EntityTextEnd>108</EntityTextEnd>
+	<LinkerScore>1.1919416865052204</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dominique_Baratelli</WikiTitle>
+		<WikiTitleID>4893181</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>footballer	person	goalkeeper	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dominique_Baratelli</WikiTitle> <WikiTitleID>4893181</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>coach</EntitySurfaceForm>
+	<EntityTextStart>115</EntityTextStart>
+	<EntityTextEnd>120</EntityTextEnd>
+	<LinkerScore>0.7628437963352315</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coach_(sport)</WikiTitle>
+		<WikiTitleID>626967</WikiTitleID>
+		<RankerScore>0.10058971366611832</RankerScore>
+		<Attributes>coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coach_(sport)</WikiTitle> <WikiTitleID>626967</WikiTitleID> <RankerScore>0.10058971366611832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(baseball)</WikiTitle> <WikiTitleID>596035</WikiTitleID> <RankerScore>0.055074403687884944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(vehicle)</WikiTitle> <WikiTitleID>214761</WikiTitleID> <RankerScore>0.05472978305337178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(ice_hockey)</WikiTitle> <WikiTitleID>567915</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(rail)</WikiTitle> <WikiTitleID>5355732</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_coach</WikiTitle> <WikiTitleID>533149</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(carriage)</WikiTitle> <WikiTitleID>13640744</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(basketball)</WikiTitle> <WikiTitleID>7001560</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coaching</WikiTitle> <WikiTitleID>143215</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stagecoach</WikiTitle> <WikiTitleID>214764</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carriage</WikiTitle> <WikiTitleID>229714</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_current_NCAA_Division_I_FBS_football_coaches</WikiTitle> <WikiTitleID>7894625</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bus</WikiTitle> <WikiTitleID>4146</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_class</WikiTitle> <WikiTitleID>1892865</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_training</WikiTitle> <WikiTitleID>11325137</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Head_Coaches_of_Boca_Juniors</WikiTitle> <WikiTitleID>8950253</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_services_in_the_United_Kingdom</WikiTitle> <WikiTitleID>16339321</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manager_(baseball)</WikiTitle> <WikiTitleID>501672</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teacher</WikiTitle> <WikiTitleID>205075</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passenger_car_(rail)</WikiTitle> <WikiTitleID>1103558</WikiTitleID> <RankerScore>0.04644741762309559</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>French first division</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>153</EntityTextEnd>
+	<LinkerScore>1.0421855623869356</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ligue_1</WikiTitle>
+		<WikiTitleID>1082929</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>competition	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ligue_1</WikiTitle> <WikiTitleID>1082929</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>French</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>1.044878991485816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>France</WikiTitle>
+		<WikiTitleID>5843419</WikiTitleID>
+		<RankerScore>0.17694005801148976</RankerScore>
+		<Attributes>nation	country	state	republic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>France</WikiTitle> <WikiTitleID>5843419</WikiTitleID> <RankerScore>0.17694005801148976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_language</WikiTitle> <WikiTitleID>10597</WikiTitleID> <RankerScore>0.09526015992725369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_people</WikiTitle> <WikiTitleID>962731</WikiTitleID> <RankerScore>0.05052291235670801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_cuisine</WikiTitle> <WikiTitleID>11002</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_French_Empire</WikiTitle> <WikiTitleID>215778</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_France</WikiTitle> <WikiTitleID>10784</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_poetry</WikiTitle> <WikiTitleID>1551274</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_literature</WikiTitle> <WikiTitleID>172553</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Canadian</WikiTitle> <WikiTitleID>144743</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_colonization_of_the_Americas</WikiTitle> <WikiTitleID>52460</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Navy</WikiTitle> <WikiTitleID>383256</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_American</WikiTitle> <WikiTitleID>2196211</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Revolution</WikiTitle> <WikiTitleID>11188</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_France</WikiTitle> <WikiTitleID>13854</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Third_Republic</WikiTitle> <WikiTitleID>227177</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_French</WikiTitle> <WikiTitleID>10904336</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Army</WikiTitle> <WikiTitleID>611740</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_colonial_empire</WikiTitle> <WikiTitleID>216862</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quebec_French</WikiTitle> <WikiTitleID>58122</WikiTitleID> <RankerScore>0.03983981586497345</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>first division</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>153</EntityTextEnd>
+	<LinkerScore>1.0747465157012033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ligue_1</WikiTitle>
+		<WikiTitleID>1082929</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>competition	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ligue_1</WikiTitle> <WikiTitleID>1082929</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nice</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>163</EntityTextEnd>
+	<LinkerScore>0.36118501164457295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nice</WikiTitle>
+		<WikiTitleID>47088</WikiTitleID>
+		<RankerScore>0.2022464760908216</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nice</WikiTitle> <WikiTitleID>47088</WikiTitleID> <RankerScore>0.2022464760908216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OGC_Nice</WikiTitle> <WikiTitleID>704478</WikiTitleID> <RankerScore>0.14461884064502267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_of_Nice</WikiTitle> <WikiTitleID>8665272</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice,_California</WikiTitle> <WikiTitleID>107588</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(programming_language)</WikiTitle> <WikiTitleID>294856</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(album)</WikiTitle> <WikiTitleID>9069702</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(The_Nice_album)</WikiTitle> <WikiTitleID>13077471</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Nice</WikiTitle> <WikiTitleID>76429</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Nice</WikiTitle> <WikiTitleID>171055</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_de_Nice</WikiTitle> <WikiTitleID>5322201</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Australian_band)</WikiTitle> <WikiTitleID>8079664</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Côte_d&apos;Azur_International_Airport</WikiTitle> <WikiTitleID>291627</WikiTitleID> <RankerScore>0.10227436016029354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arrondissement_of_Nice</WikiTitle> <WikiTitleID>3319534</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_metropolitan_area</WikiTitle> <WikiTitleID>11169166</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Nice</WikiTitle> <WikiTitleID>5310005</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(song)</WikiTitle> <WikiTitleID>7343862</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Nice_album)</WikiTitle> <WikiTitleID>13563427</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_Nice_Côte_d&apos;Azur_Université-Racing</WikiTitle> <WikiTitleID>8328448</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Nicaea</WikiTitle> <WikiTitleID>309758</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_du_Sud</WikiTitle> <WikiTitleID>4845793</WikiTitleID> <RankerScore>0.032403548417874246</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baratelli</EntitySurfaceForm>
+	<EntityTextStart>190</EntityTextStart>
+	<EntityTextEnd>199</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dominique_Baratelli</WikiTitle>
+		<WikiTitleID>4893181</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>footballer	person	goalkeeper	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nice</EntitySurfaceForm>
+	<EntityTextStart>216</EntityTextStart>
+	<EntityTextEnd>220</EntityTextEnd>
+	<LinkerScore>1.287402471629644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nice</WikiTitle>
+		<WikiTitleID>47088</WikiTitleID>
+		<RankerScore>0.23834465026241786</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nice</WikiTitle> <WikiTitleID>47088</WikiTitleID> <RankerScore>0.23834465026241786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OGC_Nice</WikiTitle> <WikiTitleID>704478</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_of_Nice</WikiTitle> <WikiTitleID>8665272</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice,_California</WikiTitle> <WikiTitleID>107588</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(programming_language)</WikiTitle> <WikiTitleID>294856</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(album)</WikiTitle> <WikiTitleID>9069702</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(The_Nice_album)</WikiTitle> <WikiTitleID>13077471</WikiTitleID> <RankerScore>0.05671625507567373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Nice</WikiTitle> <WikiTitleID>76429</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Nice</WikiTitle> <WikiTitleID>171055</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_de_Nice</WikiTitle> <WikiTitleID>5322201</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Australian_band)</WikiTitle> <WikiTitleID>8079664</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Côte_d&apos;Azur_International_Airport</WikiTitle> <WikiTitleID>291627</WikiTitleID> <RankerScore>0.11261720733006607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arrondissement_of_Nice</WikiTitle> <WikiTitleID>3319534</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_metropolitan_area</WikiTitle> <WikiTitleID>11169166</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Nice</WikiTitle> <WikiTitleID>5310005</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(song)</WikiTitle> <WikiTitleID>7343862</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Nice_album)</WikiTitle> <WikiTitleID>13563427</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_Nice_Côte_d&apos;Azur_Université-Racing</WikiTitle> <WikiTitleID>8328448</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Nicaea</WikiTitle> <WikiTitleID>309758</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_du_Sud</WikiTitle> <WikiTitleID>4845793</WikiTitleID> <RankerScore>0.03484246396069661</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paris St Germain</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>241</EntityTextEnd>
+	<LinkerScore>1.0410867286180587</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Paris_Saint-Germain_FC</WikiTitle>
+		<WikiTitleID>357488</WikiTitleID>
+		<RankerScore>0.7794536153083731</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paris_Saint-Germain_FC</WikiTitle> <WikiTitleID>357488</WikiTitleID> <RankerScore>0.7794536153083731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Saint_Germain_(rugby_league_team)</WikiTitle> <WikiTitleID>5690457</WikiTitleID> <RankerScore>0.22054638469162682</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Paris</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>1.3731727876346362</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Paris</WikiTitle>
+		<WikiTitleID>22989</WikiTitleID>
+		<RankerScore>0.21752672909035078</RankerScore>
+		<Attributes>establishment	capital	city	companion	site</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paris</WikiTitle> <WikiTitleID>22989</WikiTitleID> <RankerScore>0.21752672909035078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(mythology)</WikiTitle> <WikiTitleID>63416</WikiTitleID> <RankerScore>0.04932082014350059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Paris</WikiTitle> <WikiTitleID>84692</WikiTitleID> <RankerScore>0.0384267408986176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Texas</WikiTitle> <WikiTitleID>24001</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Ontario</WikiTitle> <WikiTitleID>248424</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_Saint-Lazare</WikiTitle> <WikiTitleID>503936</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(rapper)</WikiTitle> <WikiTitleID>212144</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Illinois</WikiTitle> <WikiTitleID>111145</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Kentucky</WikiTitle> <WikiTitleID>115033</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Masters</WikiTitle> <WikiTitleID>1872250</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Tennessee</WikiTitle> <WikiTitleID>135242</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Maine</WikiTitle> <WikiTitleID>116086</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(Paris_Hilton_album)</WikiTitle> <WikiTitleID>2397134</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Hilton</WikiTitle> <WikiTitleID>11217925</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(The_Cure_album)</WikiTitle> <WikiTitleID>782247</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Observatory</WikiTitle> <WikiTitleID>449760</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_Gaz_de_France</WikiTitle> <WikiTitleID>5679752</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Arkansas</WikiTitle> <WikiTitleID>107104</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris-Charles_de_Gaulle_Airport</WikiTitle> <WikiTitleID>105927</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(Supertramp_album)</WikiTitle> <WikiTitleID>1268600</WikiTitleID> <RankerScore>0.04086621822750181</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>St Germain</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>241</EntityTextEnd>
+	<LinkerScore>0.17391897249215515</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saint-Germain-en-Laye</WikiTitle>
+		<WikiTitleID>75952</WikiTitleID>
+		<RankerScore>0.36883417103159716</RankerScore>
+		<Attributes>subprefectures	establishment	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Château_de_Saint-Germain-en-Laye</WikiTitle> <WikiTitleID>6227909</WikiTitleID> <RankerScore>0.3396442473009381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Germain_(musician)</WikiTitle> <WikiTitleID>977721</WikiTitleID> <RankerScore>0.2915215816674646</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint-Germain-en-Laye</WikiTitle> <WikiTitleID>75952</WikiTitleID> <RankerScore>0.36883417103159716</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Albert Emon</EntitySurfaceForm>
+	<EntityTextStart>259</EntityTextStart>
+	<EntityTextEnd>270</EntityTextEnd>
+	<LinkerScore>1.0230337161049494</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Albert_Emon</WikiTitle>
+		<WikiTitleID>6085283</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	footballer	manager	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Albert_Emon</WikiTitle> <WikiTitleID>6085283</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nice</EntitySurfaceForm>
+	<EntityTextStart>303</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>0.09011948842055449</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Côte_d&apos;Azur_International_Airport</WikiTitle>
+		<WikiTitleID>291627</WikiTitleID>
+		<RankerScore>0.18011814085189087</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nice</WikiTitle> <WikiTitleID>47088</WikiTitleID> <RankerScore>0.16253042212872063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OGC_Nice</WikiTitle> <WikiTitleID>704478</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_of_Nice</WikiTitle> <WikiTitleID>8665272</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice,_California</WikiTitle> <WikiTitleID>107588</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(programming_language)</WikiTitle> <WikiTitleID>294856</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(album)</WikiTitle> <WikiTitleID>9069702</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(The_Nice_album)</WikiTitle> <WikiTitleID>13077471</WikiTitleID> <RankerScore>0.07330169980420585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Nice</WikiTitle> <WikiTitleID>76429</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Nice</WikiTitle> <WikiTitleID>171055</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_de_Nice</WikiTitle> <WikiTitleID>5322201</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Australian_band)</WikiTitle> <WikiTitleID>8079664</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Côte_d&apos;Azur_International_Airport</WikiTitle> <WikiTitleID>291627</WikiTitleID> <RankerScore>0.18011814085189087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arrondissement_of_Nice</WikiTitle> <WikiTitleID>3319534</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_metropolitan_area</WikiTitle> <WikiTitleID>11169166</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Nice</WikiTitle> <WikiTitleID>5310005</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(song)</WikiTitle> <WikiTitleID>7343862</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Nice_album)</WikiTitle> <WikiTitleID>13563427</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_Nice_Côte_d&apos;Azur_Université-Racing</WikiTitle> <WikiTitleID>8328448</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Nicaea</WikiTitle> <WikiTitleID>309758</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_du_Sud</WikiTitle> <WikiTitleID>4845793</WikiTitleID> <RankerScore>0.034355866895010745</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guingamp</EntitySurfaceForm>
+	<EntityTextStart>325</EntityTextStart>
+	<EntityTextEnd>333</EntityTextEnd>
+	<LinkerScore>0.7330116495648318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>En_Avant_Guingamp</WikiTitle>
+		<WikiTitleID>1693070</WikiTitleID>
+		<RankerScore>0.6609395796706761</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>En_Avant_Guingamp</WikiTitle> <WikiTitleID>1693070</WikiTitleID> <RankerScore>0.6609395796706761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guingamp</WikiTitle> <WikiTitleID>1830251</WikiTitleID> <RankerScore>0.339060420329324</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nice</EntitySurfaceForm>
+	<EntityTextStart>353</EntityTextStart>
+	<EntityTextEnd>357</EntityTextEnd>
+	<LinkerScore>0.3322932570991406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nice</WikiTitle>
+		<WikiTitleID>47088</WikiTitleID>
+		<RankerScore>0.1880124128128668</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nice</WikiTitle> <WikiTitleID>47088</WikiTitleID> <RankerScore>0.1880124128128668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>OGC_Nice</WikiTitle> <WikiTitleID>704478</WikiTitleID> <RankerScore>0.11626333904487643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_of_Nice</WikiTitle> <WikiTitleID>8665272</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice,_California</WikiTitle> <WikiTitleID>107588</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(programming_language)</WikiTitle> <WikiTitleID>294856</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(album)</WikiTitle> <WikiTitleID>9069702</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(The_Nice_album)</WikiTitle> <WikiTitleID>13077471</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Nice</WikiTitle> <WikiTitleID>76429</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Nice</WikiTitle> <WikiTitleID>171055</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_de_Nice</WikiTitle> <WikiTitleID>5322201</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Australian_band)</WikiTitle> <WikiTitleID>8079664</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Côte_d&apos;Azur_International_Airport</WikiTitle> <WikiTitleID>291627</WikiTitleID> <RankerScore>0.09114353285274533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arrondissement_of_Nice</WikiTitle> <WikiTitleID>3319534</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_metropolitan_area</WikiTitle> <WikiTitleID>11169166</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Nice</WikiTitle> <WikiTitleID>5310005</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(song)</WikiTitle> <WikiTitleID>7343862</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nice_(Nice_album)</WikiTitle> <WikiTitleID>13563427</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_Nice_Côte_d&apos;Azur_Université-Racing</WikiTitle> <WikiTitleID>8328448</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Nicaea</WikiTitle> <WikiTitleID>309758</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_du_Sud</WikiTitle> <WikiTitleID>4845793</WikiTitleID> <RankerScore>0.03556357148761832</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lowly</EntitySurfaceForm>
+	<EntityTextStart>450</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lowly</WikiTitle>
+		<WikiTitleID>2712158</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>redirects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

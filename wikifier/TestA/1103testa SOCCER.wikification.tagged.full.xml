@@ -1,0 +1,360 @@
+<WikifierOutput>
+<InputFilename>
+1103testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- FRANCE BEAT MEXICO 2-0 IN FRIENDLY.
+PARIS 1996-08-31
+France beat Mexico 2-0( halftime 0-0) in a friendly soccer international on Saturday.
+Scorers: Nicolas Ouedec( 49th minute), Youri Djorkaeff( 53rd)
+Attendance: 18,000
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>MEXICO</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>0.9476949497457202</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mexico_national_basketball_team</WikiTitle>
+		<WikiTitleID>12984168</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mexico_national_basketball_team</WikiTitle> <WikiTitleID>12984168</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PARIS</EntitySurfaceForm>
+	<EntityTextStart>44</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>1.154367241377798</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Paris</WikiTitle>
+		<WikiTitleID>22989</WikiTitleID>
+		<RankerScore>0.15545756257926407</RankerScore>
+		<Attributes>establishment	capital	city	companion	site</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Paris</WikiTitle> <WikiTitleID>22989</WikiTitleID> <RankerScore>0.15545756257926407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(mythology)</WikiTitle> <WikiTitleID>63416</WikiTitleID> <RankerScore>0.05320273623163215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Paris</WikiTitle> <WikiTitleID>84692</WikiTitleID> <RankerScore>0.04171362912768865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Texas</WikiTitle> <WikiTitleID>24001</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Ontario</WikiTitle> <WikiTitleID>248424</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gare_Saint-Lazare</WikiTitle> <WikiTitleID>503936</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(rapper)</WikiTitle> <WikiTitleID>212144</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Illinois</WikiTitle> <WikiTitleID>111145</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Kentucky</WikiTitle> <WikiTitleID>115033</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Masters</WikiTitle> <WikiTitleID>1872250</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Tennessee</WikiTitle> <WikiTitleID>135242</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Maine</WikiTitle> <WikiTitleID>116086</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(Paris_Hilton_album)</WikiTitle> <WikiTitleID>2397134</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Hilton</WikiTitle> <WikiTitleID>11217925</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(The_Cure_album)</WikiTitle> <WikiTitleID>782247</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_Observatory</WikiTitle> <WikiTitleID>449760</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Open_Gaz_de_France</WikiTitle> <WikiTitleID>5679752</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris,_Arkansas</WikiTitle> <WikiTitleID>107104</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris-Charles_de_Gaulle_Airport</WikiTitle> <WikiTitleID>105927</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paris_(Supertramp_album)</WikiTitle> <WikiTitleID>1268600</WikiTitleID> <RankerScore>0.04409565129773029</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>France</EntitySurfaceForm>
+	<EntityTextStart>61</EntityTextStart>
+	<EntityTextEnd>67</EntityTextEnd>
+	<LinkerScore>0.8500919433071318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>France_national_football_team</WikiTitle>
+		<WikiTitleID>250197</WikiTitleID>
+		<RankerScore>0.31778409769560295</RankerScore>
+		<Attributes>country	team	winner	confederation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>France</WikiTitle> <WikiTitleID>5843419</WikiTitleID> <RankerScore>0.14634712617539064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_football_team</WikiTitle> <WikiTitleID>250197</WikiTitleID> <RankerScore>0.31778409769560295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_union_team</WikiTitle> <WikiTitleID>955656</WikiTitleID> <RankerScore>0.058389879568785864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_France</WikiTitle> <WikiTitleID>1069393</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Third_Republic</WikiTitle> <WikiTitleID>227177</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_rugby_league_team</WikiTitle> <WikiTitleID>966005</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_France</WikiTitle> <WikiTitleID>228080</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_French_Empire</WikiTitle> <WikiTitleID>216066</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_France</WikiTitle> <WikiTitleID>10784</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_basketball_team</WikiTitle> <WikiTitleID>1849804</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_French_Empire</WikiTitle> <WikiTitleID>215778</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_France</WikiTitle> <WikiTitleID>13854</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_Davis_Cup_team</WikiTitle> <WikiTitleID>9662573</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_France</WikiTitle> <WikiTitleID>2164838</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_Monarchy</WikiTitle> <WikiTitleID>374278</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_poetry</WikiTitle> <WikiTitleID>1551274</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_France</WikiTitle> <WikiTitleID>1809451</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_First_Republic</WikiTitle> <WikiTitleID>62243</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913656</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>France_national_cricket_team</WikiTitle> <WikiTitleID>4389582</WikiTitleID> <RankerScore>0.028086993915307088</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mexico</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>79</EntityTextEnd>
+	<LinkerScore>0.13812306462429935</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mexico</WikiTitle>
+		<WikiTitleID>3966054</WikiTitleID>
+		<RankerScore>0.1629733032790716</RankerScore>
+		<Attributes>nation	country	state	empire	words	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mexico</WikiTitle> <WikiTitleID>3966054</WikiTitleID> <RankerScore>0.1629733032790716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_national_football_team</WikiTitle> <WikiTitleID>808402</WikiTitleID> <RankerScore>0.16208119173981406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuestra_Belleza_Mexico</WikiTitle> <WikiTitleID>4003317</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_City</WikiTitle> <WikiTitleID>18987</WikiTitleID> <RankerScore>0.08464398843320475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_State</WikiTitle> <WikiTitleID>222243</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico,_Missouri</WikiTitle> <WikiTitleID>122496</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Mexico</WikiTitle> <WikiTitleID>4925397</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Mexico</WikiTitle> <WikiTitleID>2164913</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_national_baseball_team</WikiTitle> <WikiTitleID>4102561</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(village),_New_York</WikiTitle> <WikiTitleID>259973</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_Davis_Cup_team</WikiTitle> <WikiTitleID>9988849</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_México</WikiTitle> <WikiTitleID>18143210</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>3720297</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Mexico</WikiTitle> <WikiTitleID>489783</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(Jefferson_Airplane_song)</WikiTitle> <WikiTitleID>13850570</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Señorita_México</WikiTitle> <WikiTitleID>2221131</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_cuisine</WikiTitle> <WikiTitleID>20167</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(town),_New_York</WikiTitle> <WikiTitleID>259974</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_Mexico</WikiTitle> <WikiTitleID>10918034</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico,_Pampanga</WikiTitle> <WikiTitleID>2137099</WikiTitleID> <RankerScore>0.034723618620465274</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>0.5268366061894825</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.25926024005104237</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.25926024005104237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.053010080270563906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.05742599430435885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.037076687374943226</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nicolas Ouedec</EntitySurfaceForm>
+	<EntityTextStart>156</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nicolas_Ouédec</WikiTitle>
+		<WikiTitleID>10513615</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Youri Djorkaeff</EntitySurfaceForm>
+	<EntityTextStart>186</EntityTextStart>
+	<EntityTextEnd>201</EntityTextEnd>
+	<LinkerScore>0.9946477674395379</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Youri_Djorkaeff</WikiTitle>
+		<WikiTitleID>1028629</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	footballer	player	confederation	armenian	chevalier</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Youri_Djorkaeff</WikiTitle> <WikiTitleID>1028629</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

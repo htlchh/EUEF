@@ -1,0 +1,514 @@
+<WikifierOutput>
+<InputFilename>
+1114testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- GERMAN CUP SECOND ROUND RESULTS.
+BONN 1996-08-31
+Results of German Cup second round
+matches on Saturday:
+Karlsruhe 2 Hansa Rostock 0
+Borussia Neunkirchen 1 St Pauli 3
+Duisburg 1 Luebeck 0( after extra time)
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>GERMAN CUP</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>18</EntityTextEnd>
+	<LinkerScore>1.3128630129398307</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DFB-Pokal</WikiTitle>
+		<WikiTitleID>675126</WikiTitleID>
+		<RankerScore>0.5593684716536803</RankerScore>
+		<Attributes>cup	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DFB-Pokal</WikiTitle> <WikiTitleID>675126</WikiTitleID> <RankerScore>0.5593684716536803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_German_Cup</WikiTitle> <WikiTitleID>9569402</WikiTitleID> <RankerScore>0.12471399754197764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2006-07</WikiTitle> <WikiTitleID>6477031</WikiTitleID> <RankerScore>0.06482765926792533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2003-04</WikiTitle> <WikiTitleID>9647638</WikiTitleID> <RankerScore>0.08369662384547227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2001-02</WikiTitle> <WikiTitleID>9693916</WikiTitleID> <RankerScore>0.08369662384547227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2002-03</WikiTitle> <WikiTitleID>9672216</WikiTitleID> <RankerScore>0.08369662384547227</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>RESULTS</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>39</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Results</WikiTitle>
+		<WikiTitleID>2724372</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BONN</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>0.8918137239682336</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bonn</WikiTitle>
+		<WikiTitleID>3295</WikiTitleID>
+		<RankerScore>0.37731078840731574</RankerScore>
+		<Attributes>legion	city	municipality	place	establishment	capital	town</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bonn</WikiTitle> <WikiTitleID>3295</WikiTitleID> <RankerScore>0.37731078840731574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Bonn</WikiTitle> <WikiTitleID>89061</WikiTitleID> <RankerScore>0.13824917488790897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cologne_Bonn_Airport</WikiTitle> <WikiTitleID>1076562</WikiTitleID> <RankerScore>0.12320297097496723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bonn_Hauptbahnhof</WikiTitle> <WikiTitleID>8827022</WikiTitleID> <RankerScore>0.12320297097496723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bonn_Stadtbahn</WikiTitle> <WikiTitleID>9199654</WikiTitleID> <RankerScore>0.12320297097496723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bonner_SC</WikiTitle> <WikiTitleID>3515199</WikiTitleID> <RankerScore>0.11483112377987355</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>German</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.5117724884060382</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Germany</WikiTitle>
+		<WikiTitleID>11867</WikiTitleID>
+		<RankerScore>0.19393520578310758</RankerScore>
+		<Attributes>state	republic	country	member	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Germany</WikiTitle> <WikiTitleID>11867</WikiTitleID> <RankerScore>0.19393520578310758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language</WikiTitle> <WikiTitleID>11884</WikiTitleID> <RankerScore>0.07897767558222454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germans</WikiTitle> <WikiTitleID>152735</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nazi_Germany</WikiTitle> <WikiTitleID>21212</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Empire</WikiTitle> <WikiTitleID>12674</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_American</WikiTitle> <WikiTitleID>290327</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_literature</WikiTitle> <WikiTitleID>12636</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ethnic_Germans</WikiTitle> <WikiTitleID>80366</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kriegsmarine</WikiTitle> <WikiTitleID>17386</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Germany</WikiTitle> <WikiTitleID>11935</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_football_team</WikiTitle> <WikiTitleID>250204</WikiTitleID> <RankerScore>0.0809921825177048</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Brazilian</WikiTitle> <WikiTitleID>1043873</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Germany</WikiTitle> <WikiTitleID>33166</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wehrmacht</WikiTitle> <WikiTitleID>33264</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_cuisine</WikiTitle> <WikiTitleID>12485</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Army</WikiTitle> <WikiTitleID>512737</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadians_of_German_ethnicity</WikiTitle> <WikiTitleID>952633</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Empire</WikiTitle> <WikiTitleID>13277</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kaiserliche_Marine</WikiTitle> <WikiTitleID>17385</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patriarch_German</WikiTitle> <WikiTitleID>4254515</WikiTitleID> <RankerScore>0.03800558447746842</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>German Cup</EntitySurfaceForm>
+	<EntityTextStart>68</EntityTextStart>
+	<EntityTextEnd>78</EntityTextEnd>
+	<LinkerScore>1.369815980465061</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DFB-Pokal</WikiTitle>
+		<WikiTitleID>675126</WikiTitleID>
+		<RankerScore>0.5667983563636997</RankerScore>
+		<Attributes>cup	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DFB-Pokal</WikiTitle> <WikiTitleID>675126</WikiTitleID> <RankerScore>0.5667983563636997</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_German_Cup</WikiTitle> <WikiTitleID>9569402</WikiTitleID> <RankerScore>0.1217741152582932</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2006-07</WikiTitle> <WikiTitleID>6477031</WikiTitleID> <RankerScore>0.07114413885112933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2003-04</WikiTitle> <WikiTitleID>9647638</WikiTitleID> <RankerScore>0.08009446317562591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2001-02</WikiTitle> <WikiTitleID>9693916</WikiTitleID> <RankerScore>0.08009446317562591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DFB_Cup_2002-03</WikiTitle> <WikiTitleID>9672216</WikiTitleID> <RankerScore>0.08009446317562591</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Karlsruhe</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>122</EntityTextEnd>
+	<LinkerScore>0.539527391241369</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Karlsruher_SC</WikiTitle>
+		<WikiTitleID>1734592</WikiTitleID>
+		<RankerScore>0.3503054033086694</RankerScore>
+		<Attributes>club	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Karlsruhe</WikiTitle> <WikiTitleID>105036</WikiTitleID> <RankerScore>0.1397313571643392</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_(district)</WikiTitle> <WikiTitleID>229825</WikiTitleID> <RankerScore>0.06427355156656607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruher_SC</WikiTitle> <WikiTitleID>1734592</WikiTitleID> <RankerScore>0.3503054033086694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Karlsruhe_(TH)</WikiTitle> <WikiTitleID>173508</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_(region)</WikiTitle> <WikiTitleID>194895</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe,_North_Dakota</WikiTitle> <WikiTitleID>128596</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_cruiser_Karlsruhe</WikiTitle> <WikiTitleID>3582096</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_Hauptbahnhof</WikiTitle> <WikiTitleID>9144858</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stadtbahn_Karlsruhe</WikiTitle> <WikiTitleID>12032265</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BG_Karlsruhe</WikiTitle> <WikiTitleID>7097170</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_Institute_of_Technology</WikiTitle> <WikiTitleID>5977314</WikiTitleID> <RankerScore>0.055711210995053155</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hansa</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>0.5757673887825856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hanseatic_League</WikiTitle>
+		<WikiTitleID>14105</WikiTitleID>
+		<RankerScore>0.30602429973569517</RankerScore>
+		<Attributes>establishment	organization	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hanseatic_League</WikiTitle> <WikiTitleID>14105</WikiTitleID> <RankerScore>0.30602429973569517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansa_Records</WikiTitle> <WikiTitleID>1408352</WikiTitleID> <RankerScore>0.1394132823031408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansa_(car)</WikiTitle> <WikiTitleID>2857741</WikiTitleID> <RankerScore>0.16351004954673984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansa_(shopping_centre)</WikiTitle> <WikiTitleID>3547543</WikiTitleID> <RankerScore>0.13035078947147477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansa_Brewery</WikiTitle> <WikiTitleID>1186207</WikiTitleID> <RankerScore>0.13035078947147477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Borgward_Hansa_1500</WikiTitle> <WikiTitleID>15612028</WikiTitleID> <RankerScore>0.13035078947147477</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hansa Rostock</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>1.2981946794757795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Hansa_Rostock</WikiTitle>
+		<WikiTitleID>599978</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Hansa_Rostock</WikiTitle> <WikiTitleID>599978</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rostock</EntitySurfaceForm>
+	<EntityTextStart>131</EntityTextStart>
+	<EntityTextEnd>138</EntityTextEnd>
+	<LinkerScore>0.3242732440064777</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rostock</WikiTitle>
+		<WikiTitleID>106296</WikiTitleID>
+		<RankerScore>0.5310298795359765</RankerScore>
+		<Attributes>crossing	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rostock</WikiTitle> <WikiTitleID>106296</WikiTitleID> <RankerScore>0.5310298795359765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Rostock</WikiTitle> <WikiTitleID>670437</WikiTitleID> <RankerScore>0.1551919170169799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Hansa_Rostock</WikiTitle> <WikiTitleID>599978</WikiTitleID> <RankerScore>0.3137782034470436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Borussia</EntitySurfaceForm>
+	<EntityTextStart>141</EntityTextStart>
+	<EntityTextEnd>149</EntityTextEnd>
+	<LinkerScore>0.7044042003169704</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Borussia_Dortmund</WikiTitle>
+		<WikiTitleID>331715</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>club	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Borussia_Dortmund</WikiTitle> <WikiTitleID>331715</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Borussia Neunkirchen</EntitySurfaceForm>
+	<EntityTextStart>141</EntityTextStart>
+	<EntityTextEnd>161</EntityTextEnd>
+	<LinkerScore>1.0131083607862</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Borussia_Neunkirchen</WikiTitle>
+		<WikiTitleID>3241723</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Borussia_Neunkirchen</WikiTitle> <WikiTitleID>3241723</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Neunkirchen</EntitySurfaceForm>
+	<EntityTextStart>150</EntityTextStart>
+	<EntityTextEnd>161</EntityTextEnd>
+	<LinkerScore>0.3420205836410679</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Neunkirchen,_Saarland</WikiTitle>
+		<WikiTitleID>4402289</WikiTitleID>
+		<RankerScore>0.1933698010383528</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Neunkirchen_(Austrian_district)</WikiTitle> <WikiTitleID>6028651</WikiTitleID> <RankerScore>0.1560170529960843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen_(district)</WikiTitle> <WikiTitleID>6028677</WikiTitleID> <RankerScore>0.11653772737799958</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen,_Saarland</WikiTitle> <WikiTitleID>4402289</WikiTitleID> <RankerScore>0.1933698010383528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen_(Siegerland)</WikiTitle> <WikiTitleID>4402223</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen,_Austria</WikiTitle> <WikiTitleID>11058314</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen-Seelscheid</WikiTitle> <WikiTitleID>3783208</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen_(German_district)</WikiTitle> <WikiTitleID>218069</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen,_Westerwaldkreis</WikiTitle> <WikiTitleID>13107844</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neunkirchen,_Lower_Franconia</WikiTitle> <WikiTitleID>10190648</WikiTitleID> <RankerScore>0.0890125697645939</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>St Pauli</EntitySurfaceForm>
+	<EntityTextStart>164</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>0.46302831669879185</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_St._Pauli</WikiTitle>
+		<WikiTitleID>881244</WikiTitleID>
+		<RankerScore>0.7459876322432891</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>St._Pauli</WikiTitle> <WikiTitleID>535900</WikiTitleID> <RankerScore>0.25401236775671093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_St._Pauli</WikiTitle> <WikiTitleID>881244</WikiTitleID> <RankerScore>0.7459876322432891</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pauli</EntitySurfaceForm>
+	<EntityTextStart>167</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>0.4031989602652801</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wolfgang_Pauli</WikiTitle>
+		<WikiTitleID>33972</WikiTitleID>
+		<RankerScore>0.4225829976332365</RankerScore>
+		<Attributes>jew	citizen	person	scientist	refugee	physicist	immigrant	catholic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wolfgang_Pauli</WikiTitle> <WikiTitleID>33972</WikiTitleID> <RankerScore>0.4225829976332365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pauli_(crater)</WikiTitle> <WikiTitleID>1968704</WikiTitleID> <RankerScore>0.27836698811320815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthur_Pauli</WikiTitle> <WikiTitleID>9444813</WikiTitleID> <RankerScore>0.2990500142535554</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Duisburg</EntitySurfaceForm>
+	<EntityTextStart>175</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>0.36436672980559004</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>MSV_Duisburg</WikiTitle>
+		<WikiTitleID>1586579</WikiTitleID>
+		<RankerScore>0.3096684482102826</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Duisburg</WikiTitle> <WikiTitleID>101612</WikiTitleID> <RankerScore>0.2955058781050067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MSV_Duisburg</WikiTitle> <WikiTitleID>1586579</WikiTitleID> <RankerScore>0.3096684482102826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duisburg_Hauptbahnhof</WikiTitle> <WikiTitleID>7443774</WikiTitleID> <RankerScore>0.07911989521951536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Duisburg</WikiTitle> <WikiTitleID>4658617</WikiTitleID> <RankerScore>0.07911989521951536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duisburg_(Tervuren)</WikiTitle> <WikiTitleID>15465427</WikiTitleID> <RankerScore>0.07911989521951536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wedau</WikiTitle> <WikiTitleID>12343790</WikiTitleID> <RankerScore>0.07834609280664931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombing_of_Duisburg_in_World_War_II</WikiTitle> <WikiTitleID>7668163</WikiTitleID> <RankerScore>0.07911989521951536</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Luebeck</EntitySurfaceForm>
+	<EntityTextStart>186</EntityTextStart>
+	<EntityTextEnd>193</EntityTextEnd>
+	<LinkerScore>1.0676945869800947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lübeck</WikiTitle>
+		<WikiTitleID>17750</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lübeck</WikiTitle> <WikiTitleID>17750</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>extra time</EntitySurfaceForm>
+	<EntityTextStart>203</EntityTextStart>
+	<EntityTextEnd>213</EntityTextEnd>
+	<LinkerScore>0.7286304208561776</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Extra_time</WikiTitle>
+		<WikiTitleID>511300</WikiTitleID>
+		<RankerScore>0.5679568200418779</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Extra_time</WikiTitle> <WikiTitleID>511300</WikiTitleID> <RankerScore>0.5679568200418779</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Golden_point</WikiTitle> <WikiTitleID>2108826</WikiTitleID> <RankerScore>0.219764867886068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sudden_death_(sport)</WikiTitle> <WikiTitleID>625161</WikiTitleID> <RankerScore>0.2122783120720542</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

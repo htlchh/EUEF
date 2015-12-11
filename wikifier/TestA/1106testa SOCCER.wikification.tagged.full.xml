@@ -1,0 +1,440 @@
+<WikifierOutput>
+<InputFilename>
+1106testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- RESULT IN SPANISH FIRST DIVISION.
+MADRID 1996-08-31
+Result of game played in the
+Spanish first division on Saturday:
+Deportivo Coruna 1 Real Madrid 1
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>SPANISH</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>25</EntityTextEnd>
+	<LinkerScore>0.059724530157622524</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spain</WikiTitle>
+		<WikiTitleID>26667</WikiTitleID>
+		<RankerScore>0.26269336770997437</RankerScore>
+		<Attributes>member	state	country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.13016833927050758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain</WikiTitle> <WikiTitleID>26667</WikiTitleID> <RankerScore>0.26269336770997437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_people</WikiTitle> <WikiTitleID>963152</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Empire</WikiTitle> <WikiTitleID>303062</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Spain</WikiTitle> <WikiTitleID>957951</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_cuisine</WikiTitle> <WikiTitleID>27669</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_settlement_in_the_Philippines</WikiTitle> <WikiTitleID>3439977</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_colonization_of_the_Americas</WikiTitle> <WikiTitleID>53091</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language_in_the_Philippines</WikiTitle> <WikiTitleID>878752</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Spain</WikiTitle> <WikiTitleID>105653</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Spain</WikiTitle> <WikiTitleID>27392</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_football_team</WikiTitle> <WikiTitleID>609825</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.16397269587370158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Spain</WikiTitle> <WikiTitleID>938546</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_literature</WikiTitle> <WikiTitleID>562444</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Spain</WikiTitle> <WikiTitleID>2268706</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Navy</WikiTitle> <WikiTitleID>156879</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Spain</WikiTitle> <WikiTitleID>2161043</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Spain</WikiTitle> <WikiTitleID>1010051</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Inquisition</WikiTitle> <WikiTitleID>5980301</WikiTitleID> <RankerScore>0.026068564537989208</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SPANISH FIRST DIVISION</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>40</EntityTextEnd>
+	<LinkerScore>1.206768669011627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_Liga</WikiTitle>
+		<WikiTitleID>37981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>league	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>FIRST DIVISION</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>40</EntityTextEnd>
+	<LinkerScore>0.5701954955940418</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_Liga</WikiTitle>
+		<WikiTitleID>37981</WikiTitleID>
+		<RankerScore>0.39558968469083955</RankerScore>
+		<Attributes>league	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Football_League_First_Division</WikiTitle> <WikiTitleID>563378</WikiTitleID> <RankerScore>0.059935464401871114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Football_League_First_Division</WikiTitle> <WikiTitleID>560684</WikiTitleID> <RankerScore>0.03391652318583628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FAI_First_Division</WikiTitle> <WikiTitleID>8463089</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_First_Division</WikiTitle> <WikiTitleID>2414941</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_First_Division</WikiTitle> <WikiTitleID>1430677</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_First_Division_League</WikiTitle> <WikiTitleID>1908877</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Championship</WikiTitle> <WikiTitleID>715008</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1st_Division</WikiTitle> <WikiTitleID>3436835</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_First_Division</WikiTitle> <WikiTitleID>252892</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_First_Division</WikiTitle> <WikiTitleID>2045291</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_México</WikiTitle> <WikiTitleID>18143210</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cypriot_First_Division</WikiTitle> <WikiTitleID>2804154</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_Argentina</WikiTitle> <WikiTitleID>1211728</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ONVOL_First_Division</WikiTitle> <WikiTitleID>18334144</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.39558968469083955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1st_Infantry_Division_(United_States)</WikiTitle> <WikiTitleID>256568</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_Peruana</WikiTitle> <WikiTitleID>5036336</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Premier_League_First_Division</WikiTitle> <WikiTitleID>696641</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Premier_League</WikiTitle> <WikiTitleID>603971</WikiTitleID> <RankerScore>0.030032842807144296</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MADRID</EntitySurfaceForm>
+	<EntityTextStart>42</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.7145376384688895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madrid</WikiTitle>
+		<WikiTitleID>20780</WikiTitleID>
+		<RankerScore>0.3675382373709106</RankerScore>
+		<Attributes>capital	municipality	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Madrid</WikiTitle> <WikiTitleID>20780</WikiTitleID> <RankerScore>0.3675382373709106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_(autonomous_community)</WikiTitle> <WikiTitleID>69802</WikiTitleID> <RankerScore>0.04281697268879527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_(Spanish_Congress_Electoral_District)</WikiTitle> <WikiTitleID>14256525</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_Masters</WikiTitle> <WikiTitleID>1872235</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_New_York</WikiTitle> <WikiTitleID>127192</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_Colombia</WikiTitle> <WikiTitleID>3823591</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_Barajas_International_Airport</WikiTitle> <WikiTitleID>100383</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Madrid</WikiTitle> <WikiTitleID>5721983</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_Maine</WikiTitle> <WikiTitleID>115966</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palacio_de_Deportes_de_la_Comunidad_de_Madrid</WikiTitle> <WikiTitleID>5695162</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Madrid_C.F.</WikiTitle> <WikiTitleID>26413</WikiTitleID> <RankerScore>0.19680608513675177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_Iowa</WikiTitle> <WikiTitleID>112776</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_New_Mexico</WikiTitle> <WikiTitleID>126024</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>11_March_2004_Madrid_train_bombings</WikiTitle> <WikiTitleID>519564</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_Surigao_del_Sur</WikiTitle> <WikiTitleID>2156535</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Madrid</WikiTitle> <WikiTitleID>7652104</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid,_Alabama</WikiTitle> <WikiTitleID>104741</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Madrid_Masters</WikiTitle> <WikiTitleID>13783435</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madrid_Metro</WikiTitle> <WikiTitleID>197590</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Complutense_University_of_Madrid</WikiTitle> <WikiTitleID>90168</WikiTitleID> <RankerScore>0.023108159106090723</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spanish first division</EntitySurfaceForm>
+	<EntityTextStart>89</EntityTextStart>
+	<EntityTextEnd>111</EntityTextEnd>
+	<LinkerScore>1.1848940126495238</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_Liga</WikiTitle>
+		<WikiTitleID>37981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>league	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spanish</EntitySurfaceForm>
+	<EntityTextStart>89</EntityTextStart>
+	<EntityTextEnd>96</EntityTextEnd>
+	<LinkerScore>-0.182118645453913</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spain</WikiTitle>
+		<WikiTitleID>26667</WikiTitleID>
+		<RankerScore>0.23049098914838845</RankerScore>
+		<Attributes>member	state	country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.12964221604456388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain</WikiTitle> <WikiTitleID>26667</WikiTitleID> <RankerScore>0.23049098914838845</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_people</WikiTitle> <WikiTitleID>963152</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Empire</WikiTitle> <WikiTitleID>303062</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Spain</WikiTitle> <WikiTitleID>957951</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_cuisine</WikiTitle> <WikiTitleID>27669</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_settlement_in_the_Philippines</WikiTitle> <WikiTitleID>3439977</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_colonization_of_the_Americas</WikiTitle> <WikiTitleID>53091</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language_in_the_Philippines</WikiTitle> <WikiTitleID>878752</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Spain</WikiTitle> <WikiTitleID>105653</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Spain</WikiTitle> <WikiTitleID>27392</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spain_national_football_team</WikiTitle> <WikiTitleID>609825</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>0.19803992037477938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Spain</WikiTitle> <WikiTitleID>938546</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_literature</WikiTitle> <WikiTitleID>562444</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Spain</WikiTitle> <WikiTitleID>2268706</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Navy</WikiTitle> <WikiTitleID>156879</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Spain</WikiTitle> <WikiTitleID>2161043</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Spain</WikiTitle> <WikiTitleID>1010051</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Inquisition</WikiTitle> <WikiTitleID>5980301</WikiTitleID> <RankerScore>0.025989816143074603</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>first division</EntitySurfaceForm>
+	<EntityTextStart>97</EntityTextStart>
+	<EntityTextEnd>111</EntityTextEnd>
+	<LinkerScore>1.2463408584710767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_Liga</WikiTitle>
+		<WikiTitleID>37981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>league	dispute	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>La_Liga</WikiTitle> <WikiTitleID>37981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Deportivo</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>134</EntityTextEnd>
+	<LinkerScore>1.226166286249175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deportivo_de_La_Coruña</WikiTitle>
+		<WikiTitleID>200764</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deportivo_de_La_Coruña</WikiTitle> <WikiTitleID>200764</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Coruna</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>A_Coruña</WikiTitle>
+		<WikiTitleID>500409</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Real Madrid</EntitySurfaceForm>
+	<EntityTextStart>144</EntityTextStart>
+	<EntityTextEnd>155</EntityTextEnd>
+	<LinkerScore>0.9444716695285414</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Real_Madrid_C.F.</WikiTitle>
+		<WikiTitleID>26413</WikiTitleID>
+		<RankerScore>0.6976504980705672</RankerScore>
+		<Attributes>club	winner	team	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Real_Madrid_C.F.</WikiTitle> <WikiTitleID>26413</WikiTitleID> <RankerScore>0.6976504980705672</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Madrid_Baloncesto</WikiTitle> <WikiTitleID>3286721</WikiTitleID> <RankerScore>0.06972072448131769</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Madrid_Castilla</WikiTitle> <WikiTitleID>3287319</WikiTitleID> <RankerScore>0.23262877744811508</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Madrid</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>155</EntityTextEnd>
+	<LinkerScore>0.914596160183292</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Real_Madrid_C.F.</WikiTitle>
+		<WikiTitleID>26413</WikiTitleID>
+		<RankerScore>0.6960179829010581</RankerScore>
+		<Attributes>club	winner	team	organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Real_Madrid_C.F.</WikiTitle> <WikiTitleID>26413</WikiTitleID> <RankerScore>0.6960179829010581</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Madrid_Baloncesto</WikiTitle> <WikiTitleID>3286721</WikiTitleID> <RankerScore>0.0857667588505816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Madrid_Castilla</WikiTitle> <WikiTitleID>3287319</WikiTitleID> <RankerScore>0.21821525824836033</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

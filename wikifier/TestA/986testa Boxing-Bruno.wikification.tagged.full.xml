@@ -1,0 +1,2156 @@
+<WikifierOutput>
+<InputFilename>
+986testa Boxing-Bruno
+</InputFilename>
+<InputText>
+Boxing-Bruno quits on doctor&apos;s advice.
+LONDON 1996-08-30
+Former world heavyweight champion Frank Bruno has quit the ring on medical advice, Britain&apos;s Sun newspaper reported on Friday.
+An eye specialist told the 35-year-old Bruno that he could be blinded in one eye if he boxed again, the newspaper said.
+The Briton, who lost his World Boxing Council( WBC) title to Mike Tyson in March, said:&quot; I was in shock as soon as he told me and it still has n&apos;t really sunk in.&quot; I never wanted to end like this but at the end of the day I&apos;m glad I had a good innings.&quot;
+Bruno, for years one of Britain&apos;s most popular sportsmen, had hoped to have another shot at the world title and had been in training until a routine eye test on Monday highlighted a problem with his right eye.
+Professor David McLeod, who examined Bruno, told the Sun:&quot; There is a risk he could be blinded in the eye if he steps into the ring again.
+He is in danger of getting a retinal detachment and there is no point in exposing himself to that.&quot;
+Bruno lost three world title fights before finally landing the crown by beating American Oliver McCall in a unanimous points decision at Wembley in September 1995.
+He was only the third Briton ever to hold a world heavyweight title.
+But Bruno lost the title on his first defence when he fought American Tyson in Las Vegas.
+Bruno suffered a cut eye in the opening round and the referee stopped the fight in the third as the Briton crumbled under a flurry of punches.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>doctor</EntitySurfaceForm>
+	<EntityTextStart>22</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>0.8906243122507289</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Physician</WikiTitle>
+		<WikiTitleID>23315</WikiTitleID>
+		<RankerScore>0.1622420641883463</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.1622420641883463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>0.08483488211532106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>0.08295017322687633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_the_Church</WikiTitle> <WikiTitleID>340345</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shamanism</WikiTitle> <WikiTitleID>26861</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Sacred_Theology</WikiTitle> <WikiTitleID>2997522</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Philosophy</WikiTitle> <WikiTitleID>8775</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Obstetrics</WikiTitle> <WikiTitleID>52965</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Divinity</WikiTitle> <WikiTitleID>569138</WikiTitleID> <RankerScore>0.07444143116327293</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>0.06524636539123788</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.5119001538984107</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.4880998461015893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.5119001538984107</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>world heavyweight champion</EntitySurfaceForm>
+	<EntityTextStart>64</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.5014561134746978</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_heavyweight_boxing_champions</WikiTitle>
+		<WikiTitleID>390606</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_heavyweight_boxing_champions</WikiTitle> <WikiTitleID>390606</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>heavyweight</EntitySurfaceForm>
+	<EntityTextStart>70</EntityTextStart>
+	<EntityTextEnd>81</EntityTextEnd>
+	<LinkerScore>1.024014965839038</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heavyweight</WikiTitle>
+		<WikiTitleID>591011</WikiTitleID>
+		<RankerScore>0.5789081331824081</RankerScore>
+		<Attributes>class</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heavyweight</WikiTitle> <WikiTitleID>591011</WikiTitleID> <RankerScore>0.5789081331824081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heavyweight_(MMA)</WikiTitle> <WikiTitleID>6271225</WikiTitleID> <RankerScore>0.07932754681690025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_weight_classes</WikiTitle> <WikiTitleID>33447</WikiTitleID> <RankerScore>0.07333143210683177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heavyweights</WikiTitle> <WikiTitleID>1039561</WikiTitleID> <RankerScore>0.07333143210683177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing</WikiTitle> <WikiTitleID>4243</WikiTitleID> <RankerScore>0.19510145578702814</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Frank Bruno</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>1.2169664128666604</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frank_Bruno</WikiTitle>
+		<WikiTitleID>325187</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	game	member	boxers	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>97</EntityTextStart>
+	<EntityTextEnd>102</EntityTextEnd>
+	<LinkerScore>1.2384191869012329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frank_Bruno</WikiTitle>
+		<WikiTitleID>325187</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	game	member	boxers	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>147</EntityTextEnd>
+	<LinkerScore>0.5974143725487195</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.12930642264958675</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.12930642264958675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06854295867566385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.05065762604552724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04420547015466013</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sun newspaper</EntitySurfaceForm>
+	<EntityTextStart>150</EntityTextStart>
+	<EntityTextEnd>163</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Sun_(United_Kingdom)</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>newspaper	dispute	subsidiary</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sun</EntitySurfaceForm>
+	<EntityTextStart>150</EntityTextStart>
+	<EntityTextEnd>153</EntityTextEnd>
+	<LinkerScore>0.5312641260513498</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Sun</WikiTitle>
+		<WikiTitleID>30989</WikiTitleID>
+		<RankerScore>0.17960527084801192</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sun</WikiTitle> <WikiTitleID>26751</WikiTitleID> <RankerScore>0.11839036716982448</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Microsystems</WikiTitle> <WikiTitleID>26980</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun-Hwa_Kwon</WikiTitle> <WikiTitleID>2231019</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(astrology)</WikiTitle> <WikiTitleID>2386809</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Sun</WikiTitle> <WikiTitleID>30989</WikiTitleID> <RankerScore>0.17960527084801192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Records</WikiTitle> <WikiTitleID>98455</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(supermarket_tabloid)</WikiTitle> <WikiTitleID>1950000</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ra</WikiTitle> <WikiTitleID>63634</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surya</WikiTitle> <WikiTitleID>99792</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Sun_(New_York)</WikiTitle> <WikiTitleID>1310577</WikiTitleID> <RankerScore>0.06283364206695272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_deity</WikiTitle> <WikiTitleID>27560</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helios</WikiTitle> <WikiTitleID>67230</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun,_Louisiana</WikiTitle> <WikiTitleID>115784</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(surname)</WikiTitle> <WikiTitleID>1443318</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_style_tai_chi_chuan</WikiTitle> <WikiTitleID>1015710</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ho_Yeow_Sun</WikiTitle> <WikiTitleID>1912580</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_Bowl</WikiTitle> <WikiTitleID>335338</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_New_York_Sun</WikiTitle> <WikiTitleID>49625</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sun_(automobile)</WikiTitle> <WikiTitleID>11165136</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Connecticut_Sun</WikiTitle> <WikiTitleID>232273</WikiTitleID> <RankerScore>0.03759827764207123</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>newspaper</EntitySurfaceForm>
+	<EntityTextStart>154</EntityTextStart>
+	<EntityTextEnd>163</EntityTextEnd>
+	<LinkerScore>1.0227817994725619</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Newspaper</WikiTitle>
+		<WikiTitleID>18582335</WikiTitleID>
+		<RankerScore>0.20476024688159464</RankerScore>
+		<Attributes>periodical	product	newspaper	format</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Newspaper</WikiTitle> <WikiTitleID>18582335</WikiTitleID> <RankerScore>0.20476024688159464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers</WikiTitle> <WikiTitleID>18546</WikiTitleID> <RankerScore>0.060521737634764296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Student_newspaper</WikiTitle> <WikiTitleID>1168956</WikiTitleID> <RankerScore>0.05029213985514766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Sweden</WikiTitle> <WikiTitleID>207301</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_American_newspapers</WikiTitle> <WikiTitleID>3494738</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_media</WikiTitle> <WikiTitleID>304113</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Turkey</WikiTitle> <WikiTitleID>3045015</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newspapers_of_Hong_Kong</WikiTitle> <WikiTitleID>267241</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Tajikistan</WikiTitle> <WikiTitleID>4277771</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_India</WikiTitle> <WikiTitleID>4050281</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_the_Netherlands</WikiTitle> <WikiTitleID>4050441</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amandala</WikiTitle> <WikiTitleID>6006358</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_South_Korea</WikiTitle> <WikiTitleID>4278015</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_early_Canadian_newspapers</WikiTitle> <WikiTitleID>357706</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>L&apos;Unità</WikiTitle> <WikiTitleID>1926403</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Scotland</WikiTitle> <WikiTitleID>3656139</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Australia</WikiTitle> <WikiTitleID>500076</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weekly_World_News</WikiTitle> <WikiTitleID>222550</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Star_newspaper</WikiTitle> <WikiTitleID>4917193</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Philadelphia_Inquirer</WikiTitle> <WikiTitleID>102952</WikiTitleID> <RankerScore>0.040260345625205494</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>187</EntityTextStart>
+	<EntityTextEnd>190</EntityTextEnd>
+	<LinkerScore>0.4570392556941681</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.19236986230401276</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.19236986230401276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.06985393898411298</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.0940072126416684</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.05852445327910962</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>223</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>-0.309667841577091</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruno_(character)</WikiTitle>
+		<WikiTitleID>946248</WikiTitleID>
+		<RankerScore>0.06344095846502597</RankerScore>
+		<Attributes>personality	character	person	reporter	male</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.06344095846502597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.06247936528646597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.05459707314603876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.04820485900602761</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>261</EntityTextStart>
+	<EntityTextEnd>264</EntityTextEnd>
+	<LinkerScore>0.541890646179326</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.1958111163513642</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.1958111163513642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.07060577967797928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.08176659708336398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.05925604608066297</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>newspaper</EntitySurfaceForm>
+	<EntityTextStart>288</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>0.9500356122859055</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Newspaper</WikiTitle>
+		<WikiTitleID>18582335</WikiTitleID>
+		<RankerScore>0.17391292002844483</RankerScore>
+		<Attributes>periodical	product	newspaper	format</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Newspaper</WikiTitle> <WikiTitleID>18582335</WikiTitleID> <RankerScore>0.17391292002844483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers</WikiTitle> <WikiTitleID>18546</WikiTitleID> <RankerScore>0.0598931471019449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Student_newspaper</WikiTitle> <WikiTitleID>1168956</WikiTitleID> <RankerScore>0.05246470962237993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Sweden</WikiTitle> <WikiTitleID>207301</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_American_newspapers</WikiTitle> <WikiTitleID>3494738</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>News_media</WikiTitle> <WikiTitleID>304113</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Turkey</WikiTitle> <WikiTitleID>3045015</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newspapers_of_Hong_Kong</WikiTitle> <WikiTitleID>267241</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Tajikistan</WikiTitle> <WikiTitleID>4277771</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_India</WikiTitle> <WikiTitleID>4050281</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_the_Netherlands</WikiTitle> <WikiTitleID>4050441</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amandala</WikiTitle> <WikiTitleID>6006358</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_South_Korea</WikiTitle> <WikiTitleID>4278015</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_early_Canadian_newspapers</WikiTitle> <WikiTitleID>357706</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>L&apos;Unità</WikiTitle> <WikiTitleID>1926403</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Scotland</WikiTitle> <WikiTitleID>3656139</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Australia</WikiTitle> <WikiTitleID>500076</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weekly_World_News</WikiTitle> <WikiTitleID>222550</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Northern_Star_newspaper</WikiTitle> <WikiTitleID>4917193</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Philadelphia_Inquirer</WikiTitle> <WikiTitleID>102952</WikiTitleID> <RankerScore>0.041984071955719425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Briton</EntitySurfaceForm>
+	<EntityTextStart>308</EntityTextStart>
+	<EntityTextEnd>314</EntityTextEnd>
+	<LinkerScore>0.21757648450097902</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.21023753985565694</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.14047109690921827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.21023753985565694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.09799179463677152</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_at_the_1908_Summer_Olympics</WikiTitle> <WikiTitleID>5343580</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.09188326143305887</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Boxing Council</EntitySurfaceForm>
+	<EntityTextStart>329</EntityTextStart>
+	<EntityTextEnd>349</EntityTextEnd>
+	<LinkerScore>1.1716387560801023</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Council</WikiTitle>
+		<WikiTitleID>93380</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Council</WikiTitle> <WikiTitleID>93380</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBC</EntitySurfaceForm>
+	<EntityTextStart>351</EntityTextStart>
+	<EntityTextEnd>354</EntityTextEnd>
+	<LinkerScore>0.8479780394984263</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Council</WikiTitle>
+		<WikiTitleID>93380</WikiTitleID>
+		<RankerScore>0.5274539944740794</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Council</WikiTitle> <WikiTitleID>93380</WikiTitleID> <RankerScore>0.5274539944740794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_blood_cell</WikiTitle> <WikiTitleID>144480</WikiTitleID> <RankerScore>0.04165132932668595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Westboro_Baptist_Church</WikiTitle> <WikiTitleID>376898</WikiTitleID> <RankerScore>0.04352446478052159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Boardgaming_Championships</WikiTitle> <WikiTitleID>2541891</WikiTitleID> <RankerScore>0.04352446478052159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Baseball_Classic</WikiTitle> <WikiTitleID>1877416</WikiTitleID> <RankerScore>0.04352446478052159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Boxing_Association</WikiTitle> <WikiTitleID>93469</WikiTitleID> <RankerScore>0.2132723522966267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wholesale_Broadband_Connect</WikiTitle> <WikiTitleID>16797706</WikiTitleID> <RankerScore>0.04352446478052159</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_World_Baseball_Classic</WikiTitle> <WikiTitleID>4282831</WikiTitleID> <RankerScore>0.04352446478052159</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mike Tyson</EntitySurfaceForm>
+	<EntityTextStart>365</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>1.4757903417891511</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Tyson</WikiTitle>
+		<WikiTitleID>39027</WikiTitleID>
+		<RankerScore>0.9149863459294795</RankerScore>
+		<Attributes>person	convert	rapist	champion	prisoner	vegan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mike_Tyson</WikiTitle> <WikiTitleID>39027</WikiTitleID> <RankerScore>0.9149863459294795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mike_Tyson_(baseball)</WikiTitle> <WikiTitleID>15760387</WikiTitleID> <RankerScore>0.0850136540705205</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tyson</EntitySurfaceForm>
+	<EntityTextStart>370</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>0.8907766717450579</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Tyson</WikiTitle>
+		<WikiTitleID>39027</WikiTitleID>
+		<RankerScore>0.48933392800516345</RankerScore>
+		<Attributes>person	convert	rapist	champion	prisoner	vegan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mike_Tyson</WikiTitle> <WikiTitleID>39027</WikiTitleID> <RankerScore>0.48933392800516345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_Granger</WikiTitle> <WikiTitleID>1988340</WikiTitleID> <RankerScore>0.09587595126128177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(MCC_cricketer)</WikiTitle> <WikiTitleID>18417711</WikiTitleID> <RankerScore>0.08260802014573268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cicely_Tyson</WikiTitle> <WikiTitleID>225467</WikiTitleID> <RankerScore>0.06643642011756443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(dog)</WikiTitle> <WikiTitleID>18509903</WikiTitleID> <RankerScore>0.06643642011756443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_turbine</WikiTitle> <WikiTitleID>150250</WikiTitleID> <RankerScore>0.06643642011756443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percy_Jackson_&amp;_The_Olympians</WikiTitle> <WikiTitleID>6143564</WikiTitleID> <RankerScore>0.06643642011756443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(documentary)</WikiTitle> <WikiTitleID>17470255</WikiTitleID> <RankerScore>0.06643642011756443</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>n&apos;t</EntitySurfaceForm>
+	<EntityTextStart>447</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>English_auxiliaries_and_contractions</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>innings</EntitySurfaceForm>
+	<EntityTextStart>548</EntityTextStart>
+	<EntityTextEnd>555</EntityTextEnd>
+	<LinkerScore>0.48654698079907266</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Innings</WikiTitle>
+		<WikiTitleID>463032</WikiTitleID>
+		<RankerScore>0.5961477455680507</RankerScore>
+		<Attributes>rule	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Innings</WikiTitle> <WikiTitleID>463032</WikiTitleID> <RankerScore>0.5961477455680507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Innings_pitched</WikiTitle> <WikiTitleID>300758</WikiTitleID> <RankerScore>0.40385225443194916</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>558</EntityTextStart>
+	<EntityTextEnd>563</EntityTextEnd>
+	<LinkerScore>-0.24155920914617998</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruno_(character)</WikiTitle>
+		<WikiTitleID>946248</WikiTitleID>
+		<RankerScore>0.06412292987545067</RankerScore>
+		<Attributes>personality	character	person	reporter	male</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.06412292987545067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.054110593688582904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.048812547541575296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.048997289934964196</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>582</EntityTextStart>
+	<EntityTextEnd>589</EntityTextEnd>
+	<LinkerScore>0.2832151884782945</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.12868710619345247</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.12868710619345247</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.07682215640185802</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.0501438140825078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.04378511313659893</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye test</EntitySurfaceForm>
+	<EntityTextStart>707</EntityTextStart>
+	<EntityTextEnd>715</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye_examination</WikiTitle>
+		<WikiTitleID>1099280</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>test</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>707</EntityTextStart>
+	<EntityTextEnd>710</EntityTextEnd>
+	<LinkerScore>0.7413707353012455</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.20143425911946716</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.20143425911946716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.07183516131675748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.06859119075483708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.059830853528085294</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>763</EntityTextStart>
+	<EntityTextEnd>766</EntityTextEnd>
+	<LinkerScore>1.043923901127307</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.21643387644650017</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.21643387644650017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.07013905990118185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.07048256545941765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.05844949983571821</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>805</EntityTextStart>
+	<EntityTextEnd>810</EntityTextEnd>
+	<LinkerScore>-0.3078259778874007</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruno_(character)</WikiTitle>
+		<WikiTitleID>946248</WikiTitleID>
+		<RankerScore>0.06364631023103169</RankerScore>
+		<Attributes>personality	character	person	reporter	male</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.06364631023103169</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.056447262806554585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.048709624436846115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.0488939295603275</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>870</EntityTextStart>
+	<EntityTextEnd>873</EntityTextEnd>
+	<LinkerScore>0.6907823325747957</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.20345536232285882</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.20345536232285882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.07055831091364596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.07679417819584992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.05901746805160412</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>retinal</EntitySurfaceForm>
+	<EntityTextStart>936</EntityTextStart>
+	<EntityTextEnd>943</EntityTextEnd>
+	<LinkerScore>0.1001753533423771</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Retinal</WikiTitle>
+		<WikiTitleID>1010189</WikiTitleID>
+		<RankerScore>0.4632482022541333</RankerScore>
+		<Attributes>cell	aldehyde</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Retinal</WikiTitle> <WikiTitleID>1010189</WikiTitleID> <RankerScore>0.4632482022541333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retina</WikiTitle> <WikiTitleID>48334</WikiTitleID> <RankerScore>0.3303147912252751</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Retinal_scan</WikiTitle> <WikiTitleID>407749</WikiTitleID> <RankerScore>0.20643700652059152</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>retinal detachment</EntitySurfaceForm>
+	<EntityTextStart>936</EntityTextStart>
+	<EntityTextEnd>954</EntityTextEnd>
+	<LinkerScore>1.0211845843155474</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Retinal_detachment</WikiTitle>
+		<WikiTitleID>816984</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>emergency	disorder</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Retinal_detachment</WikiTitle> <WikiTitleID>816984</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>1007</EntityTextStart>
+	<EntityTextEnd>1012</EntityTextEnd>
+	<LinkerScore>-0.2981744143904787</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bruno_(character)</WikiTitle>
+		<WikiTitleID>946248</WikiTitleID>
+		<RankerScore>0.06379080724378569</RankerScore>
+		<Attributes>personality	character	person	reporter	male</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.06379080724378569</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.05475450104670141</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.04869070794387749</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.048986116692096196</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>1087</EntityTextStart>
+	<EntityTextEnd>1095</EntityTextEnd>
+	<LinkerScore>0.8840250365158142</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.1666588519628252</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.1666588519628252</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.04721048587394591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.04418689515621635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.043643751000412505</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Oliver McCall</EntitySurfaceForm>
+	<EntityTextStart>1096</EntityTextStart>
+	<EntityTextEnd>1109</EntityTextEnd>
+	<LinkerScore>1.2124588722484988</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Oliver_McCall</WikiTitle>
+		<WikiTitleID>2602721</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	boxers	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Oliver_McCall</WikiTitle> <WikiTitleID>2602721</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>McCall</EntitySurfaceForm>
+	<EntityTextStart>1103</EntityTextStart>
+	<EntityTextEnd>1109</EntityTextEnd>
+	<LinkerScore>0.5195552308863094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>McCall,_Idaho</WikiTitle>
+		<WikiTitleID>110787</WikiTitleID>
+		<RankerScore>0.3610798697873554</RankerScore>
+		<Attributes>city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>McCall,_Idaho</WikiTitle> <WikiTitleID>110787</WikiTitleID> <RankerScore>0.3610798697873554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_A._McCall</WikiTitle> <WikiTitleID>2764168</WikiTitleID> <RankerScore>0.15821069946327743</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tom_McCall</WikiTitle> <WikiTitleID>143150</WikiTitleID> <RankerScore>0.15451777138424044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_McCall</WikiTitle> <WikiTitleID>13762140</WikiTitleID> <RankerScore>0.1630958296825634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>McCall_Corporation</WikiTitle> <WikiTitleID>17289932</WikiTitleID> <RankerScore>0.1630958296825634</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>points decision</EntitySurfaceForm>
+	<EntityTextStart>1125</EntityTextStart>
+	<EntityTextEnd>1140</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Points_decision</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>rule</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Wembley</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>0.6809895588165402</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Wembley_Stadium_(1923)</WikiTitle>
+		<WikiTitleID>143673</WikiTitleID>
+		<RankerScore>0.11610183461604726</RankerScore>
+		<Attributes>venue	establishment	building	disestablishment	stadium	athletics	sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Wembley_Stadium_(1923)</WikiTitle> <WikiTitleID>143673</WikiTitleID> <RankerScore>0.11610183461604726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley</WikiTitle> <WikiTitleID>94377</WikiTitleID> <RankerScore>0.09287013608044506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Stadium</WikiTitle> <WikiTitleID>8913012</WikiTitleID> <RankerScore>0.07980340784897985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Arena</WikiTitle> <WikiTitleID>596136</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley,_Western_Australia</WikiTitle> <WikiTitleID>2590879</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley,_Alberta</WikiTitle> <WikiTitleID>3522001</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_F.C.</WikiTitle> <WikiTitleID>3659081</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Lions_(speedway)</WikiTitle> <WikiTitleID>12510908</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipal_Borough_of_Wembley</WikiTitle> <WikiTitleID>2755804</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Fountain_Studios,_Wembley</WikiTitle> <WikiTitleID>7283805</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Cricket_Club</WikiTitle> <WikiTitleID>11344302</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Central_station</WikiTitle> <WikiTitleID>370170</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_professional_tennis_tournaments_before_the_Open_Era</WikiTitle> <WikiTitleID>839154</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wembley_Central_rail_crash</WikiTitle> <WikiTitleID>9331678</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HA_postcode_area</WikiTitle> <WikiTitleID>3538157</WikiTitleID> <RankerScore>0.059268718454543984</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>September 1995</EntitySurfaceForm>
+	<EntityTextStart>1155</EntityTextStart>
+	<EntityTextEnd>1169</EntityTextEnd>
+	<LinkerScore>0.9174663743208832</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1994_in_music</WikiTitle>
+		<WikiTitleID>160805</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1994_in_music</WikiTitle> <WikiTitleID>160805</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1995</EntitySurfaceForm>
+	<EntityTextStart>1165</EntityTextStart>
+	<EntityTextEnd>1169</EntityTextEnd>
+	<LinkerScore>0.9418774077837523</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1994_in_music</WikiTitle>
+		<WikiTitleID>160805</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1994_in_music</WikiTitle> <WikiTitleID>160805</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Briton</EntitySurfaceForm>
+	<EntityTextStart>1193</EntityTextStart>
+	<EntityTextEnd>1199</EntityTextEnd>
+	<LinkerScore>0.03395044808706041</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.2057963483985858</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.14281421196933936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.2057963483985858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.09813122396438592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_at_the_1908_Summer_Olympics</WikiTitle> <WikiTitleID>5343580</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.0922097026112815</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>heavyweight</EntitySurfaceForm>
+	<EntityTextStart>1221</EntityTextStart>
+	<EntityTextEnd>1232</EntityTextEnd>
+	<LinkerScore>1.1600971425813278</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heavyweight</WikiTitle>
+		<WikiTitleID>591011</WikiTitleID>
+		<RankerScore>0.6044899733327999</RankerScore>
+		<Attributes>class</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Heavyweight</WikiTitle> <WikiTitleID>591011</WikiTitleID> <RankerScore>0.6044899733327999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heavyweight_(MMA)</WikiTitle> <WikiTitleID>6271225</WikiTitleID> <RankerScore>0.10234635448384626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wrestling_weight_classes</WikiTitle> <WikiTitleID>33447</WikiTitleID> <RankerScore>0.06490540515914499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heavyweights</WikiTitle> <WikiTitleID>1039561</WikiTitleID> <RankerScore>0.06490540515914499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing</WikiTitle> <WikiTitleID>4243</WikiTitleID> <RankerScore>0.16335286186506395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>1244</EntityTextStart>
+	<EntityTextEnd>1249</EntityTextEnd>
+	<LinkerScore>0.5143091032205076</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frank_Bruno</WikiTitle>
+		<WikiTitleID>325187</WikiTitleID>
+		<RankerScore>0.13596125222138122</RankerScore>
+		<Attributes>person	game	member	boxers	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.0574784459725151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.05058415653595608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.13596125222138122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.04446918501589104</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>1301</EntityTextStart>
+	<EntityTextEnd>1309</EntityTextEnd>
+	<LinkerScore>0.867455463722711</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.165654494533261</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.165654494533261</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.04756326159563885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.04420147858480194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.04368122148742931</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tyson</EntitySurfaceForm>
+	<EntityTextStart>1310</EntityTextStart>
+	<EntityTextEnd>1315</EntityTextEnd>
+	<LinkerScore>0.8369311121185179</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mike_Tyson</WikiTitle>
+		<WikiTitleID>39027</WikiTitleID>
+		<RankerScore>0.43663503128320963</RankerScore>
+		<Attributes>person	convert	rapist	champion	prisoner	vegan</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mike_Tyson</WikiTitle> <WikiTitleID>39027</WikiTitleID> <RankerScore>0.43663503128320963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_Granger</WikiTitle> <WikiTitleID>1988340</WikiTitleID> <RankerScore>0.10594406308157073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(MCC_cricketer)</WikiTitle> <WikiTitleID>18417711</WikiTitleID> <RankerScore>0.09104645974147313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cicely_Tyson</WikiTitle> <WikiTitleID>225467</WikiTitleID> <RankerScore>0.0732748891787493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(dog)</WikiTitle> <WikiTitleID>18509903</WikiTitleID> <RankerScore>0.0732748891787493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_turbine</WikiTitle> <WikiTitleID>150250</WikiTitleID> <RankerScore>0.0732748891787493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percy_Jackson_&amp;_The_Olympians</WikiTitle> <WikiTitleID>6143564</WikiTitleID> <RankerScore>0.0732748891787493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tyson_(documentary)</WikiTitle> <WikiTitleID>17470255</WikiTitleID> <RankerScore>0.0732748891787493</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Las Vegas</EntitySurfaceForm>
+	<EntityTextStart>1319</EntityTextStart>
+	<EntityTextEnd>1328</EntityTextEnd>
+	<LinkerScore>0.6119440945244103</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Las_Vegas,_Nevada</WikiTitle>
+		<WikiTitleID>47737</WikiTitleID>
+		<RankerScore>0.14487223987633618</RankerScore>
+		<Attributes>city	seats	move	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Las_Vegas,_Nevada</WikiTitle> <WikiTitleID>47737</WikiTitleID> <RankerScore>0.14487223987633618</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_Strip</WikiTitle> <WikiTitleID>447621</WikiTitleID> <RankerScore>0.07997661877430295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_(TV_series)</WikiTitle> <WikiTitleID>322146</WikiTitleID> <RankerScore>0.05329259362768259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_metropolitan_area</WikiTitle> <WikiTitleID>665172</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas</WikiTitle> <WikiTitleID>75641</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_Motor_Speedway</WikiTitle> <WikiTitleID>1552223</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas,_New_Mexico</WikiTitle> <WikiTitleID>125983</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_51s</WikiTitle> <WikiTitleID>247287</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>McCarran_International_Airport</WikiTitle> <WikiTitleID>262540</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Las_Vegas</WikiTitle> <WikiTitleID>1636368</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Las_Vegas</WikiTitle> <WikiTitleID>2292167</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_Channel_Open</WikiTitle> <WikiTitleID>4289790</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1982_Las_Vegas_Grand_Prix</WikiTitle> <WikiTitleID>1122837</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1981_Las_Vegas_Grand_Prix</WikiTitle> <WikiTitleID>1122815</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Tennis_Channel_Open</WikiTitle> <WikiTitleID>16031438</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Relief_400</WikiTitle> <WikiTitleID>13000483</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Paradise,_Nevada</WikiTitle> <WikiTitleID>124384</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Las_Vegas_Posse</WikiTitle> <WikiTitleID>240312</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_tallest_buildings_in_Las_Vegas</WikiTitle> <WikiTitleID>13065408</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_films_set_in_Las_Vegas</WikiTitle> <WikiTitleID>1588377</WikiTitleID> <RankerScore>0.04246226751303989</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bruno</EntitySurfaceForm>
+	<EntityTextStart>1330</EntityTextStart>
+	<EntityTextEnd>1335</EntityTextEnd>
+	<LinkerScore>0.45107614280743213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frank_Bruno</WikiTitle>
+		<WikiTitleID>325187</WikiTitleID>
+		<RankerScore>0.1065690987538745</RankerScore>
+		<Attributes>person	game	member	boxers	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bruno_(character)</WikiTitle> <WikiTitleID>946248</WikiTitleID> <RankerScore>0.06040647009407318</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_I,_Archbishop_of_Cologne</WikiTitle> <WikiTitleID>1490996</WikiTitleID> <RankerScore>0.05227344231357584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Elite_Four_members</WikiTitle> <WikiTitleID>5680854</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(AT)</WikiTitle> <WikiTitleID>6557457</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Saskatchewan</WikiTitle> <WikiTitleID>13876867</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giordano_Bruno</WikiTitle> <WikiTitleID>12963</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_(webcomic)</WikiTitle> <WikiTitleID>1012583</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Augsburg</WikiTitle> <WikiTitleID>409789</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_di_Marco</WikiTitle> <WikiTitleID>12125895</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Cassirer</WikiTitle> <WikiTitleID>9771842</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_of_Cologne</WikiTitle> <WikiTitleID>597216</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Tattaglia</WikiTitle> <WikiTitleID>5185129</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Nebraska</WikiTitle> <WikiTitleID>123724</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Duke_of_Saxony</WikiTitle> <WikiTitleID>2031212</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Alves</WikiTitle> <WikiTitleID>6458453</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Milligan</WikiTitle> <WikiTitleID>10502764</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frank_Bruno</WikiTitle> <WikiTitleID>325187</WikiTitleID> <RankerScore>0.1065690987538745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Heller</WikiTitle> <WikiTitleID>2900386</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno_Gianelli</WikiTitle> <WikiTitleID>4525918</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bruno,_Bishop_of_Würzburg</WikiTitle> <WikiTitleID>2206867</WikiTitleID> <RankerScore>0.0459265287552045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eye</EntitySurfaceForm>
+	<EntityTextStart>1351</EntityTextStart>
+	<EntityTextEnd>1354</EntityTextEnd>
+	<LinkerScore>0.9779078565060366</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Eye</WikiTitle>
+		<WikiTitleID>157898</WikiTitleID>
+		<RankerScore>0.2024051563939034</RankerScore>
+		<Attributes>organs</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Eye</WikiTitle> <WikiTitleID>157898</WikiTitleID> <RankerScore>0.2024051563939034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_(cyclone)</WikiTitle> <WikiTitleID>4652664</WikiTitleID> <RankerScore>0.07145110132555738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_Weekly</WikiTitle> <WikiTitleID>1167950</WikiTitleID> <RankerScore>0.06697647681249629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Horus</WikiTitle> <WikiTitleID>967176</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Vecna</WikiTitle> <WikiTitleID>1569830</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_Providence</WikiTitle> <WikiTitleID>506916</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Witness</WikiTitle> <WikiTitleID>50956</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_vision</WikiTitle> <WikiTitleID>12204086</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_color</WikiTitle> <WikiTitleID>759008</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_perception</WikiTitle> <WikiTitleID>241675</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Evolution_of_the_eye</WikiTitle> <WikiTitleID>5645086</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_of_a_needle</WikiTitle> <WikiTitleID>1530163</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Projective_geometry</WikiTitle> <WikiTitleID>243849</WikiTitleID> <RankerScore>0.05992429686073117</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>referee</EntitySurfaceForm>
+	<EntityTextStart>1384</EntityTextStart>
+	<EntityTextEnd>1391</EntityTextEnd>
+	<LinkerScore>0.8475379511662677</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Referee_(boxing)</WikiTitle>
+		<WikiTitleID>1511768</WikiTitleID>
+		<RankerScore>0.39841762929034</RankerScore>
+		<Attributes>referee	sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Referee</WikiTitle> <WikiTitleID>400892</WikiTitleID> <RankerScore>0.07646508825695031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Referee_(football)</WikiTitle> <WikiTitleID>501260</WikiTitleID> <RankerScore>0.07330620247070423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Referee_(professional_wrestling)</WikiTitle> <WikiTitleID>5534832</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(ice_hockey)</WikiTitle> <WikiTitleID>1272618</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Referee_(boxing)</WikiTitle> <WikiTitleID>1511768</WikiTitleID> <RankerScore>0.39841762929034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(basketball)</WikiTitle> <WikiTitleID>11230394</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Official_(American_football)</WikiTitle> <WikiTitleID>1481025</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gyōji</WikiTitle> <WikiTitleID>1047028</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Match_referee</WikiTitle> <WikiTitleID>692973</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sylvain_Grenier</WikiTitle> <WikiTitleID>567701</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scott_Mathieson</WikiTitle> <WikiTitleID>3523391</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peer_review</WikiTitle> <WikiTitleID>24116</WikiTitleID> <RankerScore>0.04518110799820055</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Briton</EntitySurfaceForm>
+	<EntityTextStart>1430</EntityTextStart>
+	<EntityTextEnd>1436</EntityTextEnd>
+	<LinkerScore>-0.2067588282690888</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.19580524219972018</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>British_people</WikiTitle> <WikiTitleID>49951</WikiTitleID> <RankerScore>0.14184601804985675</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.19580524219972018</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.10302908362903017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_people</WikiTitle> <WikiTitleID>610214</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_at_the_1908_Summer_Olympics</WikiTitle> <WikiTitleID>5343580</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.09321994268689882</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

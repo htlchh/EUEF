@@ -1,0 +1,1982 @@
+<WikifierOutput>
+<InputFilename>
+960testa BASEBALL
+</InputFilename>
+<InputText>
+BASEBALL- MAJOR LEAGUE RESULTS THURSDAY.
+NEW YORK 1996-08-30
+Results of Major League
+Baseball games played on Thursday( home team in CAPS):
+American League
+DETROIT 4 Kansas City 1
+Minnesota 6 MILWAUKEE 1
+CALIFORNIA 14 New York 3
+SEATTLE 9 Baltimore 6
+National League
+San Diego 3 NEW YORK 2
+Chicago 4 HOUSTON 3
+Cincinnati 18 COLORADO 7
+Atlanta 5 PITTSBURGH 1
+Los Angeles 2 MONTREAL 1
+Florida 10 ST LOUIS 9
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>MAJOR LEAGUE</EntitySurfaceForm>
+	<EntityTextStart>10</EntityTextStart>
+	<EntityTextEnd>22</EntityTextEnd>
+	<LinkerScore>0.8373083556621939</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Major_League_Baseball</WikiTitle>
+		<WikiTitleID>38776</WikiTitleID>
+		<RankerScore>0.6562568570800031</RankerScore>
+		<Attributes>body	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball</WikiTitle> <WikiTitleID>38776</WikiTitleID> <RankerScore>0.6562568570800031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_(film)</WikiTitle> <WikiTitleID>685987</WikiTitleID> <RankerScore>0.20503126260616908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tiësto</WikiTitle> <WikiTitleID>892372</WikiTitleID> <RankerScore>0.05080446172586974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.08790741858795804</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>0.14291594801144863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>San_Francisco_Giants</WikiTitle>
+		<WikiTitleID>28416</WikiTitleID>
+		<RankerScore>0.229163578262057</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.08508019490527634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.229163578262057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.22041691195487667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.02737290087516412</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Major</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.8695983470349918</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Major_League_Baseball</WikiTitle>
+		<WikiTitleID>38776</WikiTitleID>
+		<RankerScore>0.31592797543387835</RankerScore>
+		<Attributes>body	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Major</WikiTitle> <WikiTitleID>201920</WikiTitleID> <RankerScore>0.0688496255392629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(United_States)</WikiTitle> <WikiTitleID>3412697</WikiTitleID> <RankerScore>0.035402468641934366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(United_Kingdom)</WikiTitle> <WikiTitleID>3412685</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball</WikiTitle> <WikiTitleID>38776</WikiTitleID> <RankerScore>0.31592797543387835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(manga)</WikiTitle> <WikiTitleID>3917294</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Major</WikiTitle> <WikiTitleID>15898</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(Sweden)</WikiTitle> <WikiTitleID>5917324</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major,_Saskatchewan</WikiTitle> <WikiTitleID>15707825</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_major</WikiTitle> <WikiTitleID>526101</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(Canada)</WikiTitle> <WikiTitleID>3898130</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_(Germany)</WikiTitle> <WikiTitleID>3898147</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Men&apos;s_major_golf_championships</WikiTitle> <WikiTitleID>1506950</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_County,_Oklahoma</WikiTitle> <WikiTitleID>92073</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georg_Major</WikiTitle> <WikiTitleID>45138</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_Mair</WikiTitle> <WikiTitleID>2673318</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Major_(Hellsing)</WikiTitle> <WikiTitleID>6275505</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_scale</WikiTitle> <WikiTitleID>20759</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_major_golf_championships</WikiTitle> <WikiTitleID>1520408</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Octavia_Major</WikiTitle> <WikiTitleID>4278340</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_Arcana</WikiTitle> <WikiTitleID>106066</WikiTitleID> <RankerScore>0.03410705472852497</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Major League</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>84</EntityTextEnd>
+	<LinkerScore>0.9373526818326644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Major_League_Baseball</WikiTitle>
+		<WikiTitleID>38776</WikiTitleID>
+		<RankerScore>0.6846726619632773</RankerScore>
+		<Attributes>body	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball</WikiTitle> <WikiTitleID>38776</WikiTitleID> <RankerScore>0.6846726619632773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_(film)</WikiTitle> <WikiTitleID>685987</WikiTitleID> <RankerScore>0.181711933264606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tiësto</WikiTitle> <WikiTitleID>892372</WikiTitleID> <RankerScore>0.04562226779720867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.08799313697490804</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baseball</EntitySurfaceForm>
+	<EntityTextStart>85</EntityTextStart>
+	<EntityTextEnd>93</EntityTextEnd>
+	<LinkerScore>0.7098287740460335</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baseball</WikiTitle>
+		<WikiTitleID>3850</WikiTitleID>
+		<RankerScore>0.2968303029177191</RankerScore>
+		<Attributes>sport	introduction	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baseball</WikiTitle> <WikiTitleID>3850</WikiTitleID> <RankerScore>0.2968303029177191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_(TV_series)</WikiTitle> <WikiTitleID>1020454</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_baseball</WikiTitle> <WikiTitleID>1370306</WikiTitleID> <RankerScore>0.05475083726304694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_(Nintendo)</WikiTitle> <WikiTitleID>2140666</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_(1971_video_game)</WikiTitle> <WikiTitleID>2436032</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>806711</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_1992_Summer_Olympics</WikiTitle> <WikiTitleID>1855492</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2000_Summer_Olympics</WikiTitle> <WikiTitleID>712167</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_1996_Summer_Olympics</WikiTitle> <WikiTitleID>1330241</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball</WikiTitle> <WikiTitleID>38776</WikiTitleID> <RankerScore>0.20494118923993285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_World_Series</WikiTitle> <WikiTitleID>536107</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_(band)</WikiTitle> <WikiTitleID>2793184</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2006_Asian_Games</WikiTitle> <WikiTitleID>7911469</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NCAA_Division_I_Baseball_Championship</WikiTitle> <WikiTitleID>5512063</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Baseball_Hall_of_Fame_and_Museum</WikiTitle> <WikiTitleID>4078</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2007_Southeast_Asian_Games</WikiTitle> <WikiTitleID>14614937</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2008_Summer_Olympics</WikiTitle> <WikiTitleID>7993910</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_1984_Summer_Olympics</WikiTitle> <WikiTitleID>1856799</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_1936_Summer_Olympics</WikiTitle> <WikiTitleID>1856513</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baseball_at_the_2007_Pan_American_Games</WikiTitle> <WikiTitleID>12322226</WikiTitleID> <RankerScore>0.02608692179878241</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>0.4901701208779962</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.20190519105344426</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.20190519105344426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.06661807209500188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.16599777453478412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.033263468371574685</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American League</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>155</EntityTextEnd>
+	<LinkerScore>1.1459791748280517</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>American_League</WikiTitle>
+		<WikiTitleID>64777</WikiTitleID>
+		<RankerScore>0.6389097831876527</RankerScore>
+		<Attributes>league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.6389097831876527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League_Championship_Series</WikiTitle> <WikiTitleID>3861</WikiTitleID> <RankerScore>0.10719889397623045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Major_League_Baseball_All-Star_Game</WikiTitle> <WikiTitleID>5943288</WikiTitleID> <RankerScore>0.06898710183160361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_American_League_Championship_Series</WikiTitle> <WikiTitleID>2824152</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_American_League_Division_Series</WikiTitle> <WikiTitleID>2817294</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_AL_Gold_Glove_winners_at_pitcher</WikiTitle> <WikiTitleID>329459</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_American_League_Championship_Series</WikiTitle> <WikiTitleID>8132725</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Baseball_Rookie_of_the_Year_Award</WikiTitle> <WikiTitleID>3859</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League_pennant_winners_1901–68</WikiTitle> <WikiTitleID>243667</WikiTitleID> <RankerScore>0.030817370167418884</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DETROIT</EntitySurfaceForm>
+	<EntityTextStart>156</EntityTextStart>
+	<EntityTextEnd>163</EntityTextEnd>
+	<LinkerScore>0.5108106869104122</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Detroit_Tigers</WikiTitle>
+		<WikiTitleID>8579</WikiTitleID>
+		<RankerScore>0.34631205282240596</RankerScore>
+		<Attributes>team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Detroit,_Michigan</WikiTitle> <WikiTitleID>8687</WikiTitleID> <RankerScore>0.13754731780795992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Pistons</WikiTitle> <WikiTitleID>72871</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Red_Wings</WikiTitle> <WikiTitleID>8795</WikiTitleID> <RankerScore>0.03908561523538429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Tigers</WikiTitle> <WikiTitleID>8579</WikiTitleID> <RankerScore>0.34631205282240596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Lions</WikiTitle> <WikiTitleID>8577</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Palace_of_Auburn_Hills</WikiTitle> <WikiTitleID>623472</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Oregon</WikiTitle> <WikiTitleID>130894</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Shock</WikiTitle> <WikiTitleID>237111</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Detroit</WikiTitle> <WikiTitleID>305530</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Siege_of_Detroit</WikiTitle> <WikiTitleID>1363510</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Metropolitan_Wayne_County_Airport</WikiTitle> <WikiTitleID>294538</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Massachusetts_Marauders</WikiTitle> <WikiTitleID>305305</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Indy_Grand_Prix</WikiTitle> <WikiTitleID>7252881</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Detroit_Mercy</WikiTitle> <WikiTitleID>744308</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Texas</WikiTitle> <WikiTitleID>136516</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Alabama</WikiTitle> <WikiTitleID>104822</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit,_Illinois</WikiTitle> <WikiTitleID>111794</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_River</WikiTitle> <WikiTitleID>8935</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detroit_Symphony_Orchestra</WikiTitle> <WikiTitleID>155553</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fort_Detroit</WikiTitle> <WikiTitleID>2833392</WikiTitleID> <RankerScore>0.028062059654955875</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kansas City</EntitySurfaceForm>
+	<EntityTextStart>166</EntityTextStart>
+	<EntityTextEnd>177</EntityTextEnd>
+	<LinkerScore>0.09023786669924673</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kansas_City_Royals</WikiTitle>
+		<WikiTitleID>16883</WikiTitleID>
+		<RankerScore>0.2927505393684317</RankerScore>
+		<Attributes>team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kansas_City,_Missouri</WikiTitle> <WikiTitleID>17454</WikiTitleID> <RankerScore>0.11736060618553919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City,_Kansas</WikiTitle> <WikiTitleID>115009</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Metropolitan_Area</WikiTitle> <WikiTitleID>572408</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Wizards</WikiTitle> <WikiTitleID>16857</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Royals</WikiTitle> <WikiTitleID>16883</WikiTitleID> <RankerScore>0.2927505393684317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_(1996_film)</WikiTitle> <WikiTitleID>1693894</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Chiefs</WikiTitle> <WikiTitleID>16715</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacramento_Kings</WikiTitle> <WikiTitleID>72898</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Brass</WikiTitle> <WikiTitleID>1241987</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_(R&amp;B_song)</WikiTitle> <WikiTitleID>5627611</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oakland_Athletics</WikiTitle> <WikiTitleID>22523</WikiTitleID> <RankerScore>0.201000933215238</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_(Sneaky_Sound_System_song)</WikiTitle> <WikiTitleID>18191977</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_(Oklahoma!)</WikiTitle> <WikiTitleID>5627598</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_International_Airport</WikiTitle> <WikiTitleID>290172</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_Reserve_Bank_of_Kansas_City</WikiTitle> <WikiTitleID>2338574</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Missouri–Kansas_City</WikiTitle> <WikiTitleID>170430</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_Cowboys_(baseball)</WikiTitle> <WikiTitleID>239752</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_blues_(music)</WikiTitle> <WikiTitleID>7945420</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City_(song)</WikiTitle> <WikiTitleID>2253260</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Speedway</WikiTitle> <WikiTitleID>1184888</WikiTitleID> <RankerScore>0.02287576007239948</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Kansas</EntitySurfaceForm>
+	<EntityTextStart>166</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>0.9020853163786979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kansas</WikiTitle>
+		<WikiTitleID>16716</WikiTitleID>
+		<RankerScore>0.18427025857642965</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kansas</WikiTitle> <WikiTitleID>16716</WikiTitleID> <RankerScore>0.18427025857642965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_(band)</WikiTitle> <WikiTitleID>148551</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Kansas</WikiTitle> <WikiTitleID>163327</WikiTitleID> <RankerScore>0.045911840287453654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Jayhawks</WikiTitle> <WikiTitleID>2888989</WikiTitleID> <RankerScore>0.06538624365863945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Jayhawks_men&apos;s_basketball</WikiTitle> <WikiTitleID>3258978</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Kansas_USA</WikiTitle> <WikiTitleID>3284437</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Kansas_Teen_USA</WikiTitle> <WikiTitleID>4552366</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Speedway</WikiTitle> <WikiTitleID>1184888</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Jayhawks_football</WikiTitle> <WikiTitleID>7957604</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Territory</WikiTitle> <WikiTitleID>447560</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_(album)</WikiTitle> <WikiTitleID>1239990</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Kansas_Jayhawks_football_team</WikiTitle> <WikiTitleID>13884688</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Lottery</WikiTitle> <WikiTitleID>10947959</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007-08_Kansas_Jayhawks_men&apos;s_basketball_team</WikiTitle> <WikiTitleID>14495373</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_River</WikiTitle> <WikiTitleID>158992</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Kansas</WikiTitle> <WikiTitleID>416368</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Representatives_from_Kansas</WikiTitle> <WikiTitleID>4644201</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas,_Oklahoma</WikiTitle> <WikiTitleID>130172</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_City,_Kansas</WikiTitle> <WikiTitleID>115009</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_newspapers_in_Kansas</WikiTitle> <WikiTitleID>4750775</WikiTitleID> <RankerScore>0.04143715632220454</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Minnesota</EntitySurfaceForm>
+	<EntityTextStart>180</EntityTextStart>
+	<EntityTextEnd>189</EntityTextEnd>
+	<LinkerScore>0.5682883110881397</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Minnesota_Twins</WikiTitle>
+		<WikiTitleID>20050</WikiTitleID>
+		<RankerScore>0.28712944782577715</RankerScore>
+		<Attributes>team	sport	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Minnesota</WikiTitle> <WikiTitleID>19590</WikiTitleID> <RankerScore>0.16632794934125902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Minnesota</WikiTitle> <WikiTitleID>416813</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Golden_Gophers_football</WikiTitle> <WikiTitleID>6102932</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Timberwolves</WikiTitle> <WikiTitleID>72887</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Golden_Gophers</WikiTitle> <WikiTitleID>556127</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Twins</WikiTitle> <WikiTitleID>20050</WikiTitleID> <RankerScore>0.28712944782577715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Minnesota_USA</WikiTitle> <WikiTitleID>3282967</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Vikings</WikiTitle> <WikiTitleID>20134</WikiTitleID> <RankerScore>0.06106974431507171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_River</WikiTitle> <WikiTitleID>254060</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Minnesota_Teen_USA</WikiTitle> <WikiTitleID>4562365</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Target_Center</WikiTitle> <WikiTitleID>237003</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Wild</WikiTitle> <WikiTitleID>73132</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_North_Stars</WikiTitle> <WikiTitleID>270840</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Minnesota_Golden_Gophers_football_team</WikiTitle> <WikiTitleID>10553752</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Lottery</WikiTitle> <WikiTitleID>3082096</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minneapolis,_Minnesota</WikiTitle> <WikiTitleID>6097240</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Minnesota</WikiTitle> <WikiTitleID>416411</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Golden_Gophers_men&apos;s_basketball</WikiTitle> <WikiTitleID>11179246</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Swarm</WikiTitle> <WikiTitleID>1105555</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_Minnesota</WikiTitle> <WikiTitleID>262300</WikiTitleID> <RankerScore>0.028557226971640717</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MILWAUKEE</EntitySurfaceForm>
+	<EntityTextStart>192</EntityTextStart>
+	<EntityTextEnd>201</EntityTextEnd>
+	<LinkerScore>0.27320465112128295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Milwaukee_Brewers</WikiTitle>
+		<WikiTitleID>20152</WikiTitleID>
+		<RankerScore>0.3755695595350907</RankerScore>
+		<Attributes>club	team	brewer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Milwaukee,_Wisconsin</WikiTitle> <WikiTitleID>53117</WikiTitleID> <RankerScore>0.09287399196337683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Bucks</WikiTitle> <WikiTitleID>72878</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Mile</WikiTitle> <WikiTitleID>1776260</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Brewers</WikiTitle> <WikiTitleID>20152</WikiTitleID> <RankerScore>0.3755695595350907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Wisconsin-Milwaukee</WikiTitle> <WikiTitleID>512185</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_County,_Wisconsin</WikiTitle> <WikiTitleID>90952</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Avenue_(Chicago)</WikiTitle> <WikiTitleID>10842335</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Milwaukee</WikiTitle> <WikiTitleID>304718</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Braves</WikiTitle> <WikiTitleID>2140</WikiTitleID> <RankerScore>0.18290739330944816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Symphony_Orchestra</WikiTitle> <WikiTitleID>1830533</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_Milwaukee</WikiTitle> <WikiTitleID>3843774</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ABC_Supply_Company_A.J._Foyt_225</WikiTitle> <WikiTitleID>6768060</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Bavarians</WikiTitle> <WikiTitleID>7691137</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_River</WikiTitle> <WikiTitleID>1360494</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Mustangs</WikiTitle> <WikiTitleID>333416</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UW_Milwaukee_Panthers</WikiTitle> <WikiTitleID>15419046</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_Mitchell_International_Airport</WikiTitle> <WikiTitleID>271105</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Milwaukee_(CL-5)</WikiTitle> <WikiTitleID>1098649</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee_Admirals</WikiTitle> <WikiTitleID>688340</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milwaukee–Racine–Waukesha_Metropolitan_Area</WikiTitle> <WikiTitleID>1125408</WikiTitleID> <RankerScore>0.020508767952475544</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CALIFORNIA 14</EntitySurfaceForm>
+	<EntityTextStart>204</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>California_State_Route_14</WikiTitle>
+		<WikiTitleID>719004</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>freeway	highway	roads</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CALIFORNIA</EntitySurfaceForm>
+	<EntityTextStart>204</EntityTextStart>
+	<EntityTextEnd>214</EntityTextEnd>
+	<LinkerScore>0.443992230252317</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Los_Angeles_Angels_of_Anaheim</WikiTitle>
+		<WikiTitleID>1360083</WikiTitleID>
+		<RankerScore>0.2501467362182936</RankerScore>
+		<Attributes>angel	team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>California</WikiTitle> <WikiTitleID>5407</WikiTitleID> <RankerScore>0.16137226218732661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Golden_Bears_football</WikiTitle> <WikiTitleID>7590031</WikiTitleID> <RankerScore>0.03952576027415488</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California,_Berkeley</WikiTitle> <WikiTitleID>31922</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Golden_Bears</WikiTitle> <WikiTitleID>3869638</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_California_USA</WikiTitle> <WikiTitleID>3292907</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_wine</WikiTitle> <WikiTitleID>14660227</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_California_Teen_USA</WikiTitle> <WikiTitleID>4540050</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Trail</WikiTitle> <WikiTitleID>768226</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auto_Club_Speedway</WikiTitle> <WikiTitleID>641044</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_(song)</WikiTitle> <WikiTitleID>1620072</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_(Mr._Bungle_album)</WikiTitle> <WikiTitleID>1643117</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California</WikiTitle> <WikiTitleID>31921</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_California</WikiTitle> <WikiTitleID>1142736</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Angels_of_Anaheim</WikiTitle> <WikiTitleID>1360083</WikiTitleID> <RankerScore>0.2501467362182936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_California_Golden_Bears_football_team</WikiTitle> <WikiTitleID>9417607</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego,_California</WikiTitle> <WikiTitleID>28504</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_(Mylène_Farmer_song)</WikiTitle> <WikiTitleID>15027876</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domestic_partnership_in_California</WikiTitle> <WikiTitleID>1601287</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California,_Pennsylvania</WikiTitle> <WikiTitleID>134026</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California,_Missouri</WikiTitle> <WikiTitleID>122921</WikiTitleID> <RankerScore>0.03229148478354264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New York</EntitySurfaceForm>
+	<EntityTextStart>218</EntityTextStart>
+	<EntityTextEnd>226</EntityTextEnd>
+	<LinkerScore>0.13821991269829564</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>San_Francisco_Giants</WikiTitle>
+		<WikiTitleID>28416</WikiTitleID>
+		<RankerScore>0.23263755123921928</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.09821272854386458</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.23263755123921928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.22755471774631655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.02597617661591763</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SEATTLE</EntitySurfaceForm>
+	<EntityTextStart>229</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>0.31038949874073873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Seattle_Mariners</WikiTitle>
+		<WikiTitleID>27660</WikiTitleID>
+		<RankerScore>0.28672317731698194</RankerScore>
+		<Attributes>team	sport	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seattle,_Washington</WikiTitle> <WikiTitleID>11388236</WikiTitleID> <RankerScore>0.1630153912521715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_SuperSonics</WikiTitle> <WikiTitleID>16671402</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Mariners</WikiTitle> <WikiTitleID>27660</WikiTitleID> <RankerScore>0.28672317731698194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Seahawks</WikiTitle> <WikiTitleID>28390</WikiTitleID> <RankerScore>0.04693691322721052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_University</WikiTitle> <WikiTitleID>29200</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Storm</WikiTitle> <WikiTitleID>240213</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KeyArena</WikiTitle> <WikiTitleID>644494</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Symphony</WikiTitle> <WikiTitleID>155538</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle-Tacoma_International_Airport</WikiTitle> <WikiTitleID>264272</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chief_Seattle</WikiTitle> <WikiTitleID>214753</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdome</WikiTitle> <WikiTitleID>634056</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Opera</WikiTitle> <WikiTitleID>1000718</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Street_Station_(Seattle)</WikiTitle> <WikiTitleID>858168</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Safeco_Field</WikiTitle> <WikiTitleID>351132</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_International_Film_Festival</WikiTitle> <WikiTitleID>101490</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Seattle</WikiTitle> <WikiTitleID>1654390</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_(song)</WikiTitle> <WikiTitleID>10241658</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WTO_Ministerial_Conference_of_1999_protest_activity</WikiTitle> <WikiTitleID>312622</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seattle_Rainiers</WikiTitle> <WikiTitleID>1507651</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Seattle</WikiTitle> <WikiTitleID>603757</WikiTitleID> <RankerScore>0.029607324600213883</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltimore</EntitySurfaceForm>
+	<EntityTextStart>239</EntityTextStart>
+	<EntityTextEnd>248</EntityTextEnd>
+	<LinkerScore>0.48326055113072364</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltimore_Orioles</WikiTitle>
+		<WikiTitleID>4340</WikiTitleID>
+		<RankerScore>0.299923020004548</RankerScore>
+		<Attributes>club	team	bird</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltimore,_Maryland</WikiTitle> <WikiTitleID>36582</WikiTitleID> <RankerScore>0.1590695976774555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Orioles</WikiTitle> <WikiTitleID>4340</WikiTitleID> <RankerScore>0.299923020004548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_County,_Maryland</WikiTitle> <WikiTitleID>47727</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore,_County_Cork</WikiTitle> <WikiTitleID>335485</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Ravens</WikiTitle> <WikiTitleID>4293</WikiTitleID> <RankerScore>0.040924813679207875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore-Washington_International_Thurgood_Marshall_Airport</WikiTitle> <WikiTitleID>48314</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Symphony_Orchestra</WikiTitle> <WikiTitleID>1797622</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Orioles_(minor_league)</WikiTitle> <WikiTitleID>2088632</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Stallions</WikiTitle> <WikiTitleID>240308</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Baltimore</WikiTitle> <WikiTitleID>335872</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_(album)</WikiTitle> <WikiTitleID>6839261</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore,_Indiana</WikiTitle> <WikiTitleID>3729251</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Orioles_(19th_century)</WikiTitle> <WikiTitleID>653109</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Baltimore</WikiTitle> <WikiTitleID>1048709</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Bullets_(original)</WikiTitle> <WikiTitleID>775304</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore,_Ontario</WikiTitle> <WikiTitleID>4456276</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore,_Vermont</WikiTitle> <WikiTitleID>137451</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Helen_Delich_Bentley_Port_of_Baltimore</WikiTitle> <WikiTitleID>10883456</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memorial_Stadium_(Baltimore)</WikiTitle> <WikiTitleID>757212</WikiTitleID> <RankerScore>0.029416621684634627</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>National League</EntitySurfaceForm>
+	<EntityTextStart>251</EntityTextStart>
+	<EntityTextEnd>266</EntityTextEnd>
+	<LinkerScore>1.248271522801512</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_League</WikiTitle>
+		<WikiTitleID>64290</WikiTitleID>
+		<RankerScore>0.4856930363211037</RankerScore>
+		<Attributes>league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_League</WikiTitle> <WikiTitleID>64290</WikiTitleID> <RankerScore>0.4856930363211037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pro40</WikiTitle> <WikiTitleID>1177737</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Football_League_(Ireland)</WikiTitle> <WikiTitleID>2759607</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_National_League</WikiTitle> <WikiTitleID>1057380</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speedway_National_League</WikiTitle> <WikiTitleID>15885432</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_National_Leagues</WikiTitle> <WikiTitleID>993015</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Hurling_League</WikiTitle> <WikiTitleID>2802698</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>19th_century_National_League_teams</WikiTitle> <WikiTitleID>243574</WikiTitleID> <RankerScore>0.06556881321909533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_National_Soccer_League</WikiTitle> <WikiTitleID>4088261</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_League_Party</WikiTitle> <WikiTitleID>5002105</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campeonato_Brasileiro_Série_A</WikiTitle> <WikiTitleID>6070212</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Hydro_Electric_National_Leagues</WikiTitle> <WikiTitleID>13203429</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_Nacional_de_Fútbol_de_Honduras</WikiTitle> <WikiTitleID>3419975</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_National_League</WikiTitle> <WikiTitleID>5914897</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_League_Championship_Series</WikiTitle> <WikiTitleID>3860</WikiTitleID> <RankerScore>0.10064966752027266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_College_Football</WikiTitle> <WikiTitleID>1742589</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_League_Division_Two_in_2005</WikiTitle> <WikiTitleID>1755222</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FA_Women&apos;s_Premier_League</WikiTitle> <WikiTitleID>2114684</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_NL_Gold_Glove_winners_at_pitcher</WikiTitle> <WikiTitleID>329485</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_League_Division_One_in_2005</WikiTitle> <WikiTitleID>1755221</WikiTitleID> <RankerScore>0.020475793114089896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>San Diego</EntitySurfaceForm>
+	<EntityTextStart>267</EntityTextStart>
+	<EntityTextEnd>276</EntityTextEnd>
+	<LinkerScore>0.5805683806101933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>San_Diego_Padres</WikiTitle>
+		<WikiTitleID>28417</WikiTitleID>
+		<RankerScore>0.31004094001953153</RankerScore>
+		<Attributes>team	padre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>San_Diego,_California</WikiTitle> <WikiTitleID>28504</WikiTitleID> <RankerScore>0.1379947088381936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_Base_San_Diego</WikiTitle> <WikiTitleID>1482249</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_County,_California</WikiTitle> <WikiTitleID>82048</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Acura_Classic</WikiTitle> <WikiTitleID>1995442</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_Padres</WikiTitle> <WikiTitleID>28417</WikiTitleID> <RankerScore>0.31004094001953153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_Chargers</WikiTitle> <WikiTitleID>27170</WikiTitleID> <RankerScore>0.05914203162550393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_405_(California)</WikiTitle> <WikiTitleID>467419</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego,_Texas</WikiTitle> <WikiTitleID>151173</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marine_Corps_Recruit_Depot_San_Diego</WikiTitle> <WikiTitleID>623149</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California,_San_Diego</WikiTitle> <WikiTitleID>31927</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qualcomm_Stadium</WikiTitle> <WikiTitleID>635025</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_San_Diego</WikiTitle> <WikiTitleID>574666</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego,_Carabobo</WikiTitle> <WikiTitleID>1105924</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego,_Cesar</WikiTitle> <WikiTitleID>9394913</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_(ship)</WikiTitle> <WikiTitleID>6692362</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_State_University</WikiTitle> <WikiTitleID>286083</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torrey_Pines_Golf_Course</WikiTitle> <WikiTitleID>870892</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_San_Diego</WikiTitle> <WikiTitleID>3954314</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego–Tijuana_metropolitan_area</WikiTitle> <WikiTitleID>8488842</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Diego_Fire-Rescue_Department</WikiTitle> <WikiTitleID>6727375</WikiTitleID> <RankerScore>0.028989548206868887</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>279</EntityTextStart>
+	<EntityTextEnd>287</EntityTextEnd>
+	<LinkerScore>0.2960540852343424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>San_Francisco_Giants</WikiTitle>
+		<WikiTitleID>28416</WikiTitleID>
+		<RankerScore>0.2855698159580998</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.09112729064730492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.2855698159580998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.21694861874954532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.02390319262617941</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>-0.013879212606098992</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago_Cubs</WikiTitle>
+		<WikiTitleID>6654</WikiTitleID>
+		<RankerScore>0.25915736482949786</RankerScore>
+		<Attributes>club	team	subsidiary	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago</WikiTitle> <WikiTitleID>6886</WikiTitleID> <RankerScore>0.25334408851494317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(band)</WikiTitle> <WikiTitleID>168876</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(musical)</WikiTitle> <WikiTitleID>213077</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(2002_film)</WikiTitle> <WikiTitleID>201534</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Chicago</WikiTitle> <WikiTitleID>32127</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Fire_(soccer)</WikiTitle> <WikiTitleID>245694</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Chicago)</WikiTitle> <WikiTitleID>950469</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Blackhawks</WikiTitle> <WikiTitleID>73126</WikiTitleID> <RankerScore>0.04380430085530362</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bears</WikiTitle> <WikiTitleID>6611</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(magazine)</WikiTitle> <WikiTitleID>11267556</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(That_Toddlin&apos;_Town)</WikiTitle> <WikiTitleID>7197338</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Symphony_Orchestra</WikiTitle> <WikiTitleID>150201</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Rush</WikiTitle> <WikiTitleID>328192</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(album)</WikiTitle> <WikiTitleID>994449</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reisinger</WikiTitle> <WikiTitleID>6779185</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(Prison_Break_episode)</WikiTitle> <WikiTitleID>8483895</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Cubs</WikiTitle> <WikiTitleID>6654</WikiTitleID> <RankerScore>0.25915736482949786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(1927_film)</WikiTitle> <WikiTitleID>198061</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.02609966151766207</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago 4</EntitySurfaceForm>
+	<EntityTextStart>290</EntityTextStart>
+	<EntityTextEnd>299</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago_at_Carnegie_Hall</WikiTitle>
+		<WikiTitleID>1111817</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album	record</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>HOUSTON</EntitySurfaceForm>
+	<EntityTextStart>300</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>0.5487632286239583</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Houston_Astros</WikiTitle>
+		<WikiTitleID>13894</WikiTitleID>
+		<RankerScore>0.4076809659546809</RankerScore>
+		<Attributes>team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Houston,_Texas</WikiTitle> <WikiTitleID>13774</WikiTitleID> <RankerScore>0.1287015145321205</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Rockets</WikiTitle> <WikiTitleID>72885</WikiTitleID> <RankerScore>0.034750948401101545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Houston</WikiTitle> <WikiTitleID>490310</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Astros</WikiTitle> <WikiTitleID>13894</WikiTitleID> <RankerScore>0.4076809659546809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_Renfrewshire</WikiTitle> <WikiTitleID>1039754</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Cougars_football</WikiTitle> <WikiTitleID>9570822</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Dynamo</WikiTitle> <WikiTitleID>3441277</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Comets</WikiTitle> <WikiTitleID>168193</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_Mississippi</WikiTitle> <WikiTitleID>122239</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_British_Columbia</WikiTitle> <WikiTitleID>3855685</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Texans</WikiTitle> <WikiTitleID>13864</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_Missouri</WikiTitle> <WikiTitleID>123280</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_(singer)</WikiTitle> <WikiTitleID>2104331</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_County,_Texas</WikiTitle> <WikiTitleID>91551</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_County,_Alabama</WikiTitle> <WikiTitleID>77873</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_Minnesota</WikiTitle> <WikiTitleID>120237</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_County,_Georgia</WikiTitle> <WikiTitleID>96759</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston,_Alaska</WikiTitle> <WikiTitleID>105540</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Leones</WikiTitle> <WikiTitleID>12939722</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_County,_Minnesota</WikiTitle> <WikiTitleID>94971</WikiTitleID> <RankerScore>0.025227445359535118</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cincinnati</EntitySurfaceForm>
+	<EntityTextStart>310</EntityTextStart>
+	<EntityTextEnd>320</EntityTextEnd>
+	<LinkerScore>0.7400562613977251</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cincinnati_Reds</WikiTitle>
+		<WikiTitleID>6671</WikiTitleID>
+		<RankerScore>0.3782386571337054</RankerScore>
+		<Attributes>sport	team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cincinnati,_Ohio</WikiTitle> <WikiTitleID>18522615</WikiTitleID> <RankerScore>0.06767306469308587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Masters</WikiTitle> <WikiTitleID>1872229</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Cincinnati</WikiTitle> <WikiTitleID>526016</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Reds</WikiTitle> <WikiTitleID>6671</WikiTitleID> <RankerScore>0.3782386571337054</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Bearcats</WikiTitle> <WikiTitleID>7770944</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Bengals</WikiTitle> <WikiTitleID>6612</WikiTitleID> <RankerScore>0.07089981661390919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Cincinnati_Bearcats_football_team</WikiTitle> <WikiTitleID>13759193</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Cincinnati</WikiTitle> <WikiTitleID>1378269</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Riverfront_Stadium</WikiTitle> <WikiTitleID>567405</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacramento_Kings</WikiTitle> <WikiTitleID>72898</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati,_Iowa</WikiTitle> <WikiTitleID>112731</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Marshals_(NIFL)</WikiTitle> <WikiTitleID>1956689</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Symphony_Orchestra</WikiTitle> <WikiTitleID>413339</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati/Northern_Kentucky_International_Airport</WikiTitle> <WikiTitleID>264379</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Kings</WikiTitle> <WikiTitleID>1939235</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Red_Stockings</WikiTitle> <WikiTitleID>770805</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Bearcats_men&apos;s_basketball</WikiTitle> <WikiTitleID>16774966</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_(horse)</WikiTitle> <WikiTitleID>2613072</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_American_Ball_Park</WikiTitle> <WikiTitleID>457325</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cincinnati_Cyclones</WikiTitle> <WikiTitleID>2233872</WikiTitleID> <RankerScore>0.028422850679958794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>COLORADO</EntitySurfaceForm>
+	<EntityTextStart>324</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>0.6943569530834589</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colorado_Rockies</WikiTitle>
+		<WikiTitleID>6669</WikiTitleID>
+		<RankerScore>0.3537324990588406</RankerScore>
+		<Attributes>team	club	rockies</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colorado</WikiTitle> <WikiTitleID>5399</WikiTitleID> <RankerScore>0.11472163293537595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Colorado_at_Boulder</WikiTitle> <WikiTitleID>289672</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Rapids</WikiTitle> <WikiTitleID>245705</WikiTitleID> <RankerScore>0.0349241868378748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Buffaloes_football</WikiTitle> <WikiTitleID>5740017</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_River</WikiTitle> <WikiTitleID>180968</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Buffaloes</WikiTitle> <WikiTitleID>3694278</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Colorado_Teen_USA</WikiTitle> <WikiTitleID>4540164</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Colorado_USA</WikiTitle> <WikiTitleID>4382143</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Rockies</WikiTitle> <WikiTitleID>6669</WikiTitleID> <RankerScore>0.3537324990588406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Avalanche</WikiTitle> <WikiTitleID>70948</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_County,_Texas</WikiTitle> <WikiTitleID>91625</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Crush</WikiTitle> <WikiTitleID>328092</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_River_(Argentina)</WikiTitle> <WikiTitleID>180967</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Mammoth</WikiTitle> <WikiTitleID>246383</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Colorado</WikiTitle> <WikiTitleID>416333</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Representatives_from_Colorado</WikiTitle> <WikiTitleID>4640853</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_River_(Texas)</WikiTitle> <WikiTitleID>180969</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Party_(Paraguay)</WikiTitle> <WikiTitleID>588655</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colorado_Desert</WikiTitle> <WikiTitleID>751147</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Colorado_Buffaloes_football_team</WikiTitle> <WikiTitleID>9733735</WikiTitleID> <RankerScore>0.029213040068700513</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Atlanta</EntitySurfaceForm>
+	<EntityTextStart>335</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>0.5312546109577655</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atlanta_Braves</WikiTitle>
+		<WikiTitleID>2140</WikiTitleID>
+		<RankerScore>0.34597520996240344</RankerScore>
+		<Attributes>team	sport	brave	subsidiary	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atlanta,_Georgia</WikiTitle> <WikiTitleID>3138</WikiTitleID> <RankerScore>0.1543570869249896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Hawks</WikiTitle> <WikiTitleID>72861</WikiTitleID> <RankerScore>0.05156445150084498</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Motor_Speedway</WikiTitle> <WikiTitleID>676303</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Braves</WikiTitle> <WikiTitleID>2140</WikiTitleID> <RankerScore>0.34597520996240344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Club_Atlético_Atlanta</WikiTitle> <WikiTitleID>1856389</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Falcons</WikiTitle> <WikiTitleID>2103</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hartsfield-Jackson_Atlanta_International_Airport</WikiTitle> <WikiTitleID>248446</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_Summer_Olympics</WikiTitle> <WikiTitleID>72311</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Atlanta</WikiTitle> <WikiTitleID>176263</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta,_Texas</WikiTitle> <WikiTitleID>135649</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta,_Michigan</WikiTitle> <WikiTitleID>118243</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Thrashers</WikiTitle> <WikiTitleID>70501</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_Atlanta</WikiTitle> <WikiTitleID>3830713</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Silverbacks_U23&apos;s</WikiTitle> <WikiTitleID>6052303</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Atlanta</WikiTitle> <WikiTitleID>1691713</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Symphony_Orchestra</WikiTitle> <WikiTitleID>148394</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta,_Indiana</WikiTitle> <WikiTitleID>112296</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Campaign</WikiTitle> <WikiTitleID>651663</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_Dome</WikiTitle> <WikiTitleID>752278</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta-Fulton_County_Stadium</WikiTitle> <WikiTitleID>754364</WikiTitleID> <RankerScore>0.026359014800691884</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PITTSBURGH</EntitySurfaceForm>
+	<EntityTextStart>345</EntityTextStart>
+	<EntityTextEnd>355</EntityTextEnd>
+	<LinkerScore>0.7959204945251155</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pittsburgh_Pirates</WikiTitle>
+		<WikiTitleID>24270</WikiTitleID>
+		<RankerScore>0.3671285880705371</RankerScore>
+		<Attributes>team	club	pirate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pittsburgh,_Pennsylvania</WikiTitle> <WikiTitleID>25101</WikiTitleID> <RankerScore>0.0932017491550435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Pittsburgh</WikiTitle> <WikiTitleID>239870</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Panthers_football</WikiTitle> <WikiTitleID>7958214</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Panthers</WikiTitle> <WikiTitleID>2581418</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Pirates</WikiTitle> <WikiTitleID>24270</WikiTitleID> <RankerScore>0.3671285880705371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Steelers</WikiTitle> <WikiTitleID>23338</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Penguins</WikiTitle> <WikiTitleID>66964</WikiTitleID> <RankerScore>0.04403522596020704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Three_Rivers_Stadium</WikiTitle> <WikiTitleID>737740</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_(1942_film)</WikiTitle> <WikiTitleID>8153526</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_International_Airport</WikiTitle> <WikiTitleID>262525</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Symphony_Orchestra</WikiTitle> <WikiTitleID>167982</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Panthers_men&apos;s_basketball</WikiTitle> <WikiTitleID>9986187</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KDKA-TV</WikiTitle> <WikiTitleID>1236491</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Pittsburgh</WikiTitle> <WikiTitleID>4550852</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_Pittsburgh</WikiTitle> <WikiTitleID>5884066</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mellon_Arena</WikiTitle> <WikiTitleID>753917</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_English</WikiTitle> <WikiTitleID>140585</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pitsburg,_Ohio</WikiTitle> <WikiTitleID>129145</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forbes_Field</WikiTitle> <WikiTitleID>632720</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pittsburgh_Rebels</WikiTitle> <WikiTitleID>2668338</WikiTitleID> <RankerScore>0.02915496687142425</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Los Angeles</EntitySurfaceForm>
+	<EntityTextStart>358</EntityTextStart>
+	<EntityTextEnd>369</EntityTextEnd>
+	<LinkerScore>0.5468837548203722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Los_Angeles_Dodgers</WikiTitle>
+		<WikiTitleID>18213</WikiTitleID>
+		<RankerScore>0.25215175974396087</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Los_Angeles,_California</WikiTitle> <WikiTitleID>18110</WikiTitleID> <RankerScore>0.17638070552964633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Lakers</WikiTitle> <WikiTitleID>72893</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_County,_California</WikiTitle> <WikiTitleID>79734</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Clippers</WikiTitle> <WikiTitleID>72892</WikiTitleID> <RankerScore>0.04978804894324931</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Galaxy</WikiTitle> <WikiTitleID>241880</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_International_Airport</WikiTitle> <WikiTitleID>18131</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>East_West_Bank_Classic</WikiTitle> <WikiTitleID>5845309</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Dodgers</WikiTitle> <WikiTitleID>18213</WikiTitleID> <RankerScore>0.25215175974396087</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_(magazine)</WikiTitle> <WikiTitleID>8246460</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Staples_Center</WikiTitle> <WikiTitleID>516154</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Kings</WikiTitle> <WikiTitleID>73136</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Sparks</WikiTitle> <WikiTitleID>179829</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1984_Summer_Olympics</WikiTitle> <WikiTitleID>82762</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Port_of_Los_Angeles</WikiTitle> <WikiTitleID>425363</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Los_Angeles)</WikiTitle> <WikiTitleID>724792</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Philharmonic</WikiTitle> <WikiTitleID>156261</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_California,_Los_Angeles</WikiTitle> <WikiTitleID>37765</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_Los_Angeles_Area</WikiTitle> <WikiTitleID>81605</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_Avengers</WikiTitle> <WikiTitleID>328216</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Angeles_River</WikiTitle> <WikiTitleID>180865</WikiTitleID> <RankerScore>0.030687028575479024</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MONTREAL</EntitySurfaceForm>
+	<EntityTextStart>372</EntityTextStart>
+	<EntityTextEnd>380</EntityTextEnd>
+	<LinkerScore>0.8442897195448529</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Montreal</WikiTitle>
+		<WikiTitleID>7954681</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place	community	establishment	settlement	post	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Montreal</WikiTitle> <WikiTitleID>7954681</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida</EntitySurfaceForm>
+	<EntityTextStart>383</EntityTextStart>
+	<EntityTextEnd>390</EntityTextEnd>
+	<LinkerScore>0.6155471596468369</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida_Marlins</WikiTitle>
+		<WikiTitleID>11278</WikiTitleID>
+		<RankerScore>0.270349020043097</RankerScore>
+		<Attributes>club	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.13319125315633756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Florida</WikiTitle> <WikiTitleID>60611</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators</WikiTitle> <WikiTitleID>965005</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_football</WikiTitle> <WikiTitleID>6161011</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_USA</WikiTitle> <WikiTitleID>2286699</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_men&apos;s_basketball</WikiTitle> <WikiTitleID>10244706</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Florida_Gators_football_team</WikiTitle> <WikiTitleID>8250592</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_Teen_USA</WikiTitle> <WikiTitleID>4540856</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orlando,_Florida</WikiTitle> <WikiTitleID>100582</WikiTitleID> <RankerScore>0.03405306047955511</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Orange_County,_New_York</WikiTitle> <WikiTitleID>126930</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Florida</WikiTitle> <WikiTitleID>2716954</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Massachusetts</WikiTitle> <WikiTitleID>116682</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Firecats</WikiTitle> <WikiTitleID>1956545</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Evans</WikiTitle> <WikiTitleID>4326774</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Lottery</WikiTitle> <WikiTitleID>1644197</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Marlins</WikiTitle> <WikiTitleID>11278</WikiTitleID> <RankerScore>0.270349020043097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Puerto_Rico</WikiTitle> <WikiTitleID>654432</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_New_York</WikiTitle> <WikiTitleID>141348</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Valle_del_Cauca</WikiTitle> <WikiTitleID>10719816</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Florida</WikiTitle> <WikiTitleID>416354</WikiTitleID> <RankerScore>0.033082745077706484</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ST LOUIS</EntitySurfaceForm>
+	<EntityTextStart>394</EntityTextStart>
+	<EntityTextEnd>402</EntityTextEnd>
+	<LinkerScore>0.525764042226459</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>St._Louis_Cardinals</WikiTitle>
+		<WikiTitleID>27720</WikiTitleID>
+		<RankerScore>0.4885722469979193</RankerScore>
+		<Attributes>sport	team	cardinal	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>St._Louis,_Missouri</WikiTitle> <WikiTitleID>27687</WikiTitleID> <RankerScore>0.21820721395097661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Cardinals</WikiTitle> <WikiTitleID>27720</WikiTitleID> <RankerScore>0.4885722469979193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_IX_of_France</WikiTitle> <WikiTitleID>18549</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Louis_Symphony_Orchestra</WikiTitle> <WikiTitleID>611978</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Rams</WikiTitle> <WikiTitleID>27724</WikiTitleID> <RankerScore>0.048150319392919465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_Reserve_Bank_of_St_Louis</WikiTitle> <WikiTitleID>2338705</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_St._Louis</WikiTitle> <WikiTitleID>305484</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_County,_Minnesota</WikiTitle> <WikiTitleID>94907</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint-Louis,_Senegal</WikiTitle> <WikiTitleID>527962</WikiTitleID> <RankerScore>0.040845036609697426</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

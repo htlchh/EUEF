@@ -1,0 +1,367 @@
+<WikifierOutput>
+<InputFilename>
+1099testa BOXING
+</InputFilename>
+<InputText>
+BOXING- PRINCE NASEEM RETAINS WBO FEATHERWEIGHT TITLE.
+DUBLIN 1996-08-31
+Britain&apos;s Naseem Hamed retained his WBO featherweight title on Saturday when Mexico&apos;s Manuel Medina was retired by his corner at the end of the 11th round.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>DUBLIN</EntitySurfaceForm>
+	<EntityTextStart>55</EntityTextStart>
+	<EntityTextEnd>61</EntityTextEnd>
+	<LinkerScore>0.700803562644424</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dublin</WikiTitle>
+		<WikiTitleID>8504</WikiTitleID>
+		<RankerScore>0.1382589084700373</RankerScore>
+		<Attributes>place	capital	establishment	city	town	port</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dublin</WikiTitle> <WikiTitleID>8504</WikiTitleID> <RankerScore>0.1382589084700373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_GAA</WikiTitle> <WikiTitleID>2759665</WikiTitleID> <RankerScore>0.061573518581517016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_California</WikiTitle> <WikiTitleID>107333</WikiTitleID> <RankerScore>0.04863218111654562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Ohio</WikiTitle> <WikiTitleID>150896</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Georgia</WikiTitle> <WikiTitleID>110212</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Dublin</WikiTitle> <WikiTitleID>6514</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_New_Hampshire</WikiTitle> <WikiTitleID>124537</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Airport</WikiTitle> <WikiTitleID>293794</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Dublin</WikiTitle> <WikiTitleID>145190</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>2855251</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Perth,_Ontario</WikiTitle> <WikiTitleID>8163046</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Texas</WikiTitle> <WikiTitleID>135851</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Pennsylvania</WikiTitle> <WikiTitleID>131518</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Virginia</WikiTitle> <WikiTitleID>137735</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Dublin</WikiTitle> <WikiTitleID>1450475</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Indiana</WikiTitle> <WikiTitleID>112683</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Port</WikiTitle> <WikiTitleID>961047</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Paterson</WikiTitle> <WikiTitleID>8684391</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_North_Carolina</WikiTitle> <WikiTitleID>127678</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Dublin</WikiTitle> <WikiTitleID>8624259</WikiTitleID> <RankerScore>0.04420796422540589</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>73</EntityTextStart>
+	<EntityTextEnd>80</EntityTextEnd>
+	<LinkerScore>-0.15652263101112832</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.0979034648534782</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.0979034648534782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06158443617374938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.07032453633709232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.045305150743275305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naseem Hamed</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>1.215604930902635</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naseem_Hamed</WikiTitle>
+		<WikiTitleID>102533</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>champion	person	muslim	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naseem_Hamed</WikiTitle> <WikiTitleID>102533</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naseem</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>89</EntityTextEnd>
+	<LinkerScore>1.0833419381785885</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naseem_Hamed</WikiTitle>
+		<WikiTitleID>102533</WikiTitleID>
+		<RankerScore>0.9076052436096722</RankerScore>
+		<Attributes>champion	person	muslim	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naseem_Hamed</WikiTitle> <WikiTitleID>102533</WikiTitleID> <RankerScore>0.9076052436096722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naseem_(film)</WikiTitle> <WikiTitleID>13550268</WikiTitleID> <RankerScore>0.09239475639032779</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBO</EntitySurfaceForm>
+	<EntityTextStart>109</EntityTextStart>
+	<EntityTextEnd>112</EntityTextEnd>
+	<LinkerScore>1.2687303583011496</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Organization</WikiTitle>
+		<WikiTitleID>93729</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>organisation	organization</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Organization</WikiTitle> <WikiTitleID>93729</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBO featherweight</EntitySurfaceForm>
+	<EntityTextStart>109</EntityTextStart>
+	<EntityTextEnd>126</EntityTextEnd>
+	<LinkerScore>0.9849672782057871</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_featherweight_boxing_champions</WikiTitle>
+		<WikiTitleID>6904435</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_featherweight_boxing_champions</WikiTitle> <WikiTitleID>6904435</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>featherweight</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>126</EntityTextEnd>
+	<LinkerScore>1.4367573184797808</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Featherweight</WikiTitle>
+		<WikiTitleID>787578</WikiTitleID>
+		<RankerScore>0.9111558864358089</RankerScore>
+		<Attributes>class</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Featherweight</WikiTitle> <WikiTitleID>787578</WikiTitleID> <RankerScore>0.9111558864358089</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Featherweight_(MMA)</WikiTitle> <WikiTitleID>6270478</WikiTitleID> <RankerScore>0.088844113564191</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mexico</EntitySurfaceForm>
+	<EntityTextStart>150</EntityTextStart>
+	<EntityTextEnd>156</EntityTextEnd>
+	<LinkerScore>0.4658388383193024</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mexico</WikiTitle>
+		<WikiTitleID>3966054</WikiTitleID>
+		<RankerScore>0.17360832752026545</RankerScore>
+		<Attributes>nation	country	state	empire	words	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mexico</WikiTitle> <WikiTitleID>3966054</WikiTitleID> <RankerScore>0.17360832752026545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_national_football_team</WikiTitle> <WikiTitleID>808402</WikiTitleID> <RankerScore>0.050598748212647156</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuestra_Belleza_Mexico</WikiTitle> <WikiTitleID>4003317</WikiTitleID> <RankerScore>0.04710824441139062</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_City</WikiTitle> <WikiTitleID>18987</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_State</WikiTitle> <WikiTitleID>222243</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico,_Missouri</WikiTitle> <WikiTitleID>122496</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Mexico</WikiTitle> <WikiTitleID>4925397</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Mexico</WikiTitle> <WikiTitleID>2164913</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_national_baseball_team</WikiTitle> <WikiTitleID>4102561</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(village),_New_York</WikiTitle> <WikiTitleID>259973</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_Davis_Cup_team</WikiTitle> <WikiTitleID>9988849</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_México</WikiTitle> <WikiTitleID>18143210</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>3720297</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Mexico</WikiTitle> <WikiTitleID>489783</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(Jefferson_Airplane_song)</WikiTitle> <WikiTitleID>13850570</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Señorita_México</WikiTitle> <WikiTitleID>2221131</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_cuisine</WikiTitle> <WikiTitleID>20167</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico_(town),_New_York</WikiTitle> <WikiTitleID>259974</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_Mexico</WikiTitle> <WikiTitleID>10918034</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexico,_Pampanga</WikiTitle> <WikiTitleID>2137099</WikiTitleID> <RankerScore>0.04286380469739393</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Manuel Medina</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>1.0105893904263474</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manuel_Medina_(boxer)</WikiTitle>
+		<WikiTitleID>2360828</WikiTitleID>
+		<RankerScore>0.9060471854816293</RankerScore>
+		<Attributes>champion	person	boxers</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manuel_Medina_(boxer)</WikiTitle> <WikiTitleID>2360828</WikiTitleID> <RankerScore>0.9060471854816293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manuel_Medina_(cyclist)</WikiTitle> <WikiTitleID>15324730</WikiTitleID> <RankerScore>0.09395281451837066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Medina</EntitySurfaceForm>
+	<EntityTextStart>166</EntityTextStart>
+	<EntityTextEnd>172</EntityTextEnd>
+	<LinkerScore>1.0636557263553386</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manuel_Medina_(boxer)</WikiTitle>
+		<WikiTitleID>2360828</WikiTitleID>
+		<RankerScore>0.8911799606442036</RankerScore>
+		<Attributes>champion	person	boxers</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manuel_Medina_(boxer)</WikiTitle> <WikiTitleID>2360828</WikiTitleID> <RankerScore>0.8911799606442036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manuel_Medina_(cyclist)</WikiTitle> <WikiTitleID>15324730</WikiTitleID> <RankerScore>0.10882003935579652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

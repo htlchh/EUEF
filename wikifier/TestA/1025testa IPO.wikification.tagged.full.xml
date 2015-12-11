@@ -1,0 +1,362 @@
+<WikifierOutput>
+<InputFilename>
+1025testa IPO
+</InputFilename>
+<InputText>
+IPO FILING-- Homegate Hospitality Inc.
+WASHINGTON 1996-08-30
+Company Name Homegate Hospitality Inc
+Nasdaq Stock symbol HMGT
+Estimated price range N/ A
+Total shares to be offered N/ A
+Shrs offered by company N/ A
+Shrs outstanding after ipo N/ A
+Lead Underwriter Bear Stearns&amp; Co Inc
+Underwriters over-allotment N/ A
+Business: Company&apos;s goal is to become a national provider of high quality extended-stay hotels in strategically selected markets located throughout the United States.
+Use of Proceeds: To finance the development of additional extended-stay hotels and other general corporate purposes.
+Financial Data in 000s: 1995 1994- Revenue N/ A N/ A- Net Income N/ A N/ A
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>WASHINGTON</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>-0.3131470975255686</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington,_D.C.</WikiTitle>
+		<WikiTitleID>108956</WikiTitleID>
+		<RankerScore>0.05913512244605407</RankerScore>
+		<Attributes>state	place	district	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.05913512244605407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.04915360311586389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.051246123922579497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_North_Carolina</WikiTitle> <WikiTitleID>93227</WikiTitleID> <RankerScore>0.04943912650091191</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hospitality</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>94</EntityTextEnd>
+	<LinkerScore>0.6418376011948796</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospitality</WikiTitle>
+		<WikiTitleID>2103537</WikiTitleID>
+		<RankerScore>0.4051616151038275</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospitality</WikiTitle> <WikiTitleID>2103537</WikiTitleID> <RankerScore>0.4051616151038275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wyndham_Worldwide</WikiTitle> <WikiTitleID>6317124</WikiTitleID> <RankerScore>0.20291202171529044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospitality_industry</WikiTitle> <WikiTitleID>2383439</WikiTitleID> <RankerScore>0.19159911222332301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospitality_(album)</WikiTitle> <WikiTitleID>6879506</WikiTitleID> <RankerScore>0.2003272509575591</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hospitality Inc</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.6415861937338343</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospitality</WikiTitle>
+		<WikiTitleID>2103537</WikiTitleID>
+		<RankerScore>0.40479380660507447</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospitality</WikiTitle> <WikiTitleID>2103537</WikiTitleID> <RankerScore>0.40479380660507447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wyndham_Worldwide</WikiTitle> <WikiTitleID>6317124</WikiTitleID> <RankerScore>0.20291081900054633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospitality_industry</WikiTitle> <WikiTitleID>2383439</WikiTitleID> <RankerScore>0.19175846474498315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospitality_(album)</WikiTitle> <WikiTitleID>6879506</WikiTitleID> <RankerScore>0.200536909649396</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nasdaq</EntitySurfaceForm>
+	<EntityTextStart>99</EntityTextStart>
+	<EntityTextEnd>105</EntityTextEnd>
+	<LinkerScore>0.984509751213608</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NASDAQ</WikiTitle>
+		<WikiTitleID>21559</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>company	partner	system	exchange</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>NASDAQ</WikiTitle> <WikiTitleID>21559</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stock symbol</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>118</EntityTextEnd>
+	<LinkerScore>0.9515033785966193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ticker_symbol</WikiTitle>
+		<WikiTitleID>153897</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ticker_symbol</WikiTitle> <WikiTitleID>153897</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>high quality</EntitySurfaceForm>
+	<EntityTextStart>376</EntityTextStart>
+	<EntityTextEnd>388</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Display_resolution</WikiTitle>
+		<WikiTitleID>601399</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>extended-stay hotels</EntitySurfaceForm>
+	<EntityTextStart>389</EntityTextStart>
+	<EntityTextEnd>409</EntityTextEnd>
+	<LinkerScore>0.978827078574522</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apartment_hotel</WikiTitle>
+		<WikiTitleID>5837055</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>habitat	type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Apartment_hotel</WikiTitle> <WikiTitleID>5837055</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>United States</EntitySurfaceForm>
+	<EntityTextStart>467</EntityTextStart>
+	<EntityTextEnd>480</EntityTextEnd>
+	<LinkerScore>0.9884635512043826</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.15132870908857993</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.15132870908857993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.046578026690258345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.043140217563655346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Davis_Cup_team</WikiTitle> <WikiTitleID>6311052</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>2119801</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>912874</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Fed_Cup_team</WikiTitle> <WikiTitleID>9479975</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_cricket_team</WikiTitle> <WikiTitleID>980450</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>89611</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_soccer_team</WikiTitle> <WikiTitleID>648033</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1690430</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_policy_of_the_United_States</WikiTitle> <WikiTitleID>7564</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_badminton_team</WikiTitle> <WikiTitleID>17459645</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_United_States</WikiTitle> <WikiTitleID>32022</WikiTitleID> <RankerScore>0.044644296862206265</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>finance</EntitySurfaceForm>
+	<EntityTextStart>502</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>0.8348923862341714</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Finance</WikiTitle>
+		<WikiTitleID>11162</WikiTitleID>
+		<RankerScore>0.16340617178936928</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Finance</WikiTitle> <WikiTitleID>11162</WikiTitleID> <RankerScore>0.16340617178936928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mathematical_finance</WikiTitle> <WikiTitleID>250244</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_services</WikiTitle> <WikiTitleID>433425</WikiTitleID> <RankerScore>0.07171303203369345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finance_minister</WikiTitle> <WikiTitleID>354563</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_financial_system</WikiTitle> <WikiTitleID>13663152</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business</WikiTitle> <WikiTitleID>39206</WikiTitleID> <RankerScore>0.1054096769934339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Department_of_Finance_(Philippines)</WikiTitle> <WikiTitleID>5477852</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_Ministry_of_Finance_(Germany)</WikiTitle> <WikiTitleID>1329890</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Finance_(Netherlands)</WikiTitle> <WikiTitleID>9480084</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finance_Minister_of_Denmark</WikiTitle> <WikiTitleID>3061655</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Finance_(Canada)</WikiTitle> <WikiTitleID>261575</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_finance</WikiTitle> <WikiTitleID>1799316</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Management_accounting</WikiTitle> <WikiTitleID>42272</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Global_financial_system</WikiTitle> <WikiTitleID>244078</WikiTitleID> <RankerScore>0.05995191992577303</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>extended-stay hotels</EntitySurfaceForm>
+	<EntityTextStart>540</EntityTextStart>
+	<EntityTextEnd>560</EntityTextEnd>
+	<LinkerScore>0.9275181386409889</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Apartment_hotel</WikiTitle>
+		<WikiTitleID>5837055</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>habitat	type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Apartment_hotel</WikiTitle> <WikiTitleID>5837055</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

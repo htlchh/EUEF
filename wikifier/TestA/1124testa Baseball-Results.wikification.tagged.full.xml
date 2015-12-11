@@ -1,0 +1,450 @@
+<WikifierOutput>
+<InputFilename>
+1124testa Baseball-Results
+</InputFilename>
+<InputText>
+Baseball-Results of S. Korean pro-baseball games.
+SEOUL 1996-08-31
+Results of South Korean pro-baseball games played on Friday.
+OB 5 Samsung 0
+Ssangbangwool 2 Hyundai 1
+Standings after games played on Friday( tabulate under won, drawn, lost, winning percentage, games behind first place)
+W D L PCT GB
+Haitai 64 2 43.596-
+Ssangbangwool 60 2 49.550 5
+Hanwha 58 1 49.542 6
+Hyundai 57 5 50.531 7
+Samsung 49 5 57.464 14 1/2
+Lotte 46 6 54.462 14 1/2
+LG 46 5 59.441 17
+OB 43 6 62.414 20
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>S. Korean</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>29</EntityTextEnd>
+	<LinkerScore>1.0767598121171096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Korean</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>29</EntityTextEnd>
+	<LinkerScore>1.1159505690907905</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pro-baseball</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>42</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Professional_baseball</WikiTitle>
+		<WikiTitleID>973037</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SEOUL</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>55</EntityTextEnd>
+	<LinkerScore>1.3630023082259242</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Seoul</WikiTitle>
+		<WikiTitleID>67767</WikiTitleID>
+		<RankerScore>0.4342322968345899</RankerScore>
+		<Attributes>capital	city	game	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seoul</WikiTitle> <WikiTitleID>67767</WikiTitleID> <RankerScore>0.4342322968345899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Summer_Olympics</WikiTitle> <WikiTitleID>82757</WikiTitleID> <RankerScore>0.0678406694905608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hansol_Korea_Open_Tennis_Championships</WikiTitle> <WikiTitleID>6443971</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_Station</WikiTitle> <WikiTitleID>905855</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_(song)</WikiTitle> <WikiTitleID>9997202</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Incheon_International_Airport</WikiTitle> <WikiTitleID>165522</WikiTitleID> <RankerScore>0.06004027368140411</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_Metropolitan_Subway</WikiTitle> <WikiTitleID>293921</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seoul_National_Capital_Area</WikiTitle> <WikiTitleID>1141124</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Incheon</WikiTitle> <WikiTitleID>1055744</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1988_Olympics</WikiTitle> <WikiTitleID>286721</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Seoul</WikiTitle> <WikiTitleID>2239683</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ATP_Seoul</WikiTitle> <WikiTitleID>16261562</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gimpo_International_Airport</WikiTitle> <WikiTitleID>286912</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3646316</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shooting_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>2774936</WikiTitleID> <RankerScore>0.03368359692257271</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>South Korean</EntitySurfaceForm>
+	<EntityTextStart>78</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.6353004559916866</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.45344844433077375</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.45344844433077375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Korea</WikiTitle> <WikiTitleID>506680</WikiTitleID> <RankerScore>0.058575216859802916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.058575216859802916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Republic_national_football_team</WikiTitle> <WikiTitleID>1018627</WikiTitleID> <RankerScore>0.09747708967234689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Baseball_Organization</WikiTitle> <WikiTitleID>1178325</WikiTitleID> <RankerScore>0.21477359855766773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_South_Korea</WikiTitle> <WikiTitleID>27027</WikiTitleID> <RankerScore>0.058575216859802916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.058575216859802916</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Korean</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.7472503575440271</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>South_Korea</WikiTitle>
+		<WikiTitleID>27019</WikiTitleID>
+		<RankerScore>0.4700999277807314</RankerScore>
+		<Attributes>country	republic	state	region	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>South_Korea</WikiTitle> <WikiTitleID>27019</WikiTitleID> <RankerScore>0.4700999277807314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Korea</WikiTitle> <WikiTitleID>506680</WikiTitleID> <RankerScore>0.0580329503408816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Koreans</WikiTitle> <WikiTitleID>335941</WikiTitleID> <RankerScore>0.0580329503408816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Republic_national_football_team</WikiTitle> <WikiTitleID>1018627</WikiTitleID> <RankerScore>0.09814777937011661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Korea_Baseball_Organization</WikiTitle> <WikiTitleID>1178325</WikiTitleID> <RankerScore>0.19962049148562547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_South_Korea</WikiTitle> <WikiTitleID>27027</WikiTitleID> <RankerScore>0.0580329503408816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Korea_Navy</WikiTitle> <WikiTitleID>2284275</WikiTitleID> <RankerScore>0.0580329503408816</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pro-baseball</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>103</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Professional_baseball</WikiTitle>
+		<WikiTitleID>973037</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Samsung</EntitySurfaceForm>
+	<EntityTextStart>133</EntityTextStart>
+	<EntityTextEnd>140</EntityTextEnd>
+	<LinkerScore>0.6133193494691175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Samsung_Group</WikiTitle>
+		<WikiTitleID>2478598</WikiTitleID>
+		<RankerScore>0.5324911908384441</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Samsung_Group</WikiTitle> <WikiTitleID>2478598</WikiTitleID> <RankerScore>0.5324911908384441</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samsung_Electronics</WikiTitle> <WikiTitleID>268287</WikiTitleID> <RankerScore>0.28613155975428006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samsung_Techwin</WikiTitle> <WikiTitleID>2854462</WikiTitleID> <RankerScore>0.18137724940727568</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hyundai</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>0.8204975113825737</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hyundai</WikiTitle>
+		<WikiTitleID>454253</WikiTitleID>
+		<RankerScore>0.48215333896047685</RankerScore>
+		<Attributes>brand</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hyundai</WikiTitle> <WikiTitleID>454253</WikiTitleID> <RankerScore>0.48215333896047685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Motor_Company</WikiTitle> <WikiTitleID>42257</WikiTitleID> <RankerScore>0.20389000526371745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Group</WikiTitle> <WikiTitleID>203897</WikiTitleID> <RankerScore>0.1529727468329716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Kia_Automotive_Group</WikiTitle> <WikiTitleID>453463</WikiTitleID> <RankerScore>0.08049195447141706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Department_Store</WikiTitle> <WikiTitleID>4620493</WikiTitleID> <RankerScore>0.08049195447141706</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Standings</EntitySurfaceForm>
+	<EntityTextStart>169</EntityTextStart>
+	<EntityTextEnd>178</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>League_table</WikiTitle>
+		<WikiTitleID>857511</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tabulate</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>0.9733374762401877</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tabulate_coral</WikiTitle>
+		<WikiTitleID>2874295</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tabulate_coral</WikiTitle> <WikiTitleID>2874295</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>PCT</EntitySurfaceForm>
+	<EntityTextStart>294</EntityTextStart>
+	<EntityTextEnd>297</EntityTextEnd>
+	<LinkerScore>-0.28699267167634884</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NHS_primary_care_trust</WikiTitle>
+		<WikiTitleID>4944089</WikiTitleID>
+		<RankerScore>0.15928860404104636</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>NHS_primary_care_trust</WikiTitle> <WikiTitleID>4944089</WikiTitleID> <RankerScore>0.15928860404104636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Patent_Cooperation_Treaty</WikiTitle> <WikiTitleID>419136</WikiTitleID> <RankerScore>0.1551990200009074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NHS_Trust</WikiTitle> <WikiTitleID>783106</WikiTitleID> <RankerScore>0.13755143808792933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Congolese_Party_of_Labour</WikiTitle> <WikiTitleID>1109795</WikiTitleID> <RankerScore>0.13530662360632892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Porphyria_cutanea_tarda</WikiTitle> <WikiTitleID>518666</WikiTitleID> <RankerScore>0.13755143808792933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pacific_Crest_Trail</WikiTitle> <WikiTitleID>167401</WikiTitleID> <RankerScore>0.13755143808792933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proximal_tubule</WikiTitle> <WikiTitleID>529372</WikiTitleID> <RankerScore>0.13755143808792933</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Haitai</EntitySurfaceForm>
+	<EntityTextStart>301</EntityTextStart>
+	<EntityTextEnd>307</EntityTextEnd>
+	<LinkerScore>1.0181277594829656</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Haitai</WikiTitle>
+		<WikiTitleID>3451573</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Haitai</WikiTitle> <WikiTitleID>3451573</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hanwha</EntitySurfaceForm>
+	<EntityTextStart>349</EntityTextStart>
+	<EntityTextEnd>355</EntityTextEnd>
+	<LinkerScore>0.9685254593713554</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hanwha</WikiTitle>
+		<WikiTitleID>3451564</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hanwha</WikiTitle> <WikiTitleID>3451564</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hyundai</EntitySurfaceForm>
+	<EntityTextStart>370</EntityTextStart>
+	<EntityTextEnd>377</EntityTextEnd>
+	<LinkerScore>0.1366650785691313</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hyundai</WikiTitle>
+		<WikiTitleID>454253</WikiTitleID>
+		<RankerScore>0.3664358203054505</RankerScore>
+		<Attributes>brand</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hyundai</WikiTitle> <WikiTitleID>454253</WikiTitleID> <RankerScore>0.3664358203054505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Motor_Company</WikiTitle> <WikiTitleID>42257</WikiTitleID> <RankerScore>0.1956642725645729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Group</WikiTitle> <WikiTitleID>203897</WikiTitleID> <RankerScore>0.0639338273437097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Kia_Automotive_Group</WikiTitle> <WikiTitleID>453463</WikiTitleID> <RankerScore>0.0639338273437097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyundai_Department_Store</WikiTitle> <WikiTitleID>4620493</WikiTitleID> <RankerScore>0.3100322524425572</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Samsung</EntitySurfaceForm>
+	<EntityTextStart>392</EntityTextStart>
+	<EntityTextEnd>399</EntityTextEnd>
+	<LinkerScore>0.626739673247723</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Samsung_Group</WikiTitle>
+		<WikiTitleID>2478598</WikiTitleID>
+		<RankerScore>0.5237375872116197</RankerScore>
+		<Attributes>company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Samsung_Group</WikiTitle> <WikiTitleID>2478598</WikiTitleID> <RankerScore>0.5237375872116197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samsung_Electronics</WikiTitle> <WikiTitleID>268287</WikiTitleID> <RankerScore>0.283062795015317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Samsung_Techwin</WikiTitle> <WikiTitleID>2854462</WikiTitleID> <RankerScore>0.1931996177730634</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lotte</EntitySurfaceForm>
+	<EntityTextStart>419</EntityTextStart>
+	<EntityTextEnd>424</EntityTextEnd>
+	<LinkerScore>0.5121720541937058</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lotte_Department_Store</WikiTitle>
+		<WikiTitleID>4770080</WikiTitleID>
+		<RankerScore>0.4058908495578649</RankerScore>
+		<Attributes>store	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lotte_(TV_series)</WikiTitle> <WikiTitleID>6857566</WikiTitleID> <RankerScore>0.23607666635593838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lotte_Department_Store</WikiTitle> <WikiTitleID>4770080</WikiTitleID> <RankerScore>0.4058908495578649</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lotte,_Germany</WikiTitle> <WikiTitleID>4163470</WikiTitleID> <RankerScore>0.1807881071552053</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chiba_Lotte_Marines</WikiTitle> <WikiTitleID>1132196</WikiTitleID> <RankerScore>0.17724437693099138</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

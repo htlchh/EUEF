@@ -1,0 +1,1083 @@
+<WikifierOutput>
+<InputFilename>
+953testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- ROTOR FANS LOCKED OUT AFTER VOLGOGRAD VIOLENCE.
+MOSCOW 1996-08-30
+Rotor Volgograd must play their next home game behind closed doors after fans hurled bottles and stones at Dynamo Moscow players during a 1-0 home defeat on Saturday that ended Rotor&apos;s brief spell as league leaders.
+The head of the Russian league&apos;s disciplinary committee, Anatoly Gorokhovsky, said on Friday that Rotor would play Lada Togliatti to empty stands on September 3.
+The club, who put Manchester United out of last year&apos;s UEFA Cup, were fined$ 1,000.
+Despite the defeat, Rotor are well placed with 11 games to play in the championship.
+Lying three points behind Alania and two behind Dynamo Moscow, the Volgograd side have a game in hand over the leaders and two over the Moscow club.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>ROTOR</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.9999763687549829</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>ROTOR</WikiTitle>
+		<WikiTitleID>867512</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>network</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>ROTOR</WikiTitle> <WikiTitleID>867512</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>VOLGOGRAD</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>1.1483235524121294</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Volgograd</WikiTitle>
+		<WikiTitleID>32585</WikiTitleID>
+		<RankerScore>0.8233049486921578</RankerScore>
+		<Attributes>place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Volgograd</WikiTitle> <WikiTitleID>32585</WikiTitleID> <RankerScore>0.8233049486921578</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volgograd_Oblast</WikiTitle> <WikiTitleID>478748</WikiTitleID> <RankerScore>0.17669505130784233</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>VIOLENCE</EntitySurfaceForm>
+	<EntityTextStart>46</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Violence</WikiTitle>
+		<WikiTitleID>46112</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MOSCOW</EntitySurfaceForm>
+	<EntityTextStart>56</EntityTextStart>
+	<EntityTextEnd>62</EntityTextEnd>
+	<LinkerScore>0.9720498011840242</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.23947090912248334</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.23947090912248334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.042755326964838615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.04071311759909462</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03982709684197549</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rotor</EntitySurfaceForm>
+	<EntityTextStart>74</EntityTextStart>
+	<EntityTextEnd>79</EntityTextEnd>
+	<LinkerScore>0.9921525987613895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Rotor_Volgograd</WikiTitle>
+		<WikiTitleID>3108494</WikiTitleID>
+		<RankerScore>0.6238071160469011</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rotor_the_Walrus</WikiTitle> <WikiTitleID>9581239</WikiTitleID> <RankerScore>0.08307837163416584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(ride)</WikiTitle> <WikiTitleID>4451914</WikiTitleID> <RankerScore>0.07238222108408099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Rotor_Volgograd</WikiTitle> <WikiTitleID>3108494</WikiTitleID> <RankerScore>0.6238071160469011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(electric)</WikiTitle> <WikiTitleID>9797479</WikiTitleID> <RankerScore>0.05518307280871302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shared_Source_Common_Language_Infrastructure</WikiTitle> <WikiTitleID>657862</WikiTitleID> <RankerScore>0.05518307280871302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cajun_Cliffhanger</WikiTitle> <WikiTitleID>2819323</WikiTitleID> <RankerScore>0.05518307280871302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turbine</WikiTitle> <WikiTitleID>30848</WikiTitleID> <RankerScore>0.05518307280871302</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rotor Volgograd</EntitySurfaceForm>
+	<EntityTextStart>74</EntityTextStart>
+	<EntityTextEnd>89</EntityTextEnd>
+	<LinkerScore>0.9439610788054437</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Rotor_Volgograd</WikiTitle>
+		<WikiTitleID>3108494</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Rotor_Volgograd</WikiTitle> <WikiTitleID>3108494</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Volgograd</EntitySurfaceForm>
+	<EntityTextStart>80</EntityTextStart>
+	<EntityTextEnd>89</EntityTextEnd>
+	<LinkerScore>1.2212681112920318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Volgograd</WikiTitle>
+		<WikiTitleID>32585</WikiTitleID>
+		<RankerScore>0.820999629949213</RankerScore>
+		<Attributes>place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Volgograd</WikiTitle> <WikiTitleID>32585</WikiTitleID> <RankerScore>0.820999629949213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volgograd_Oblast</WikiTitle> <WikiTitleID>478748</WikiTitleID> <RankerScore>0.179000370050787</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dynamo Moscow</EntitySurfaceForm>
+	<EntityTextStart>181</EntityTextStart>
+	<EntityTextEnd>194</EntityTextEnd>
+	<LinkerScore>0.4575625463062175</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>MBC_Dynamo_Moscow</WikiTitle>
+		<WikiTitleID>7740223</WikiTitleID>
+		<RankerScore>0.30975476506974353</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.24381164031030564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.30975476506974353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.2252780345296278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(bandy_club)</WikiTitle> <WikiTitleID>5688654</WikiTitleID> <RankerScore>0.11057778004516154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(women&apos;s_volleyball)</WikiTitle> <WikiTitleID>7160145</WikiTitleID> <RankerScore>0.11057778004516154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dynamo</EntitySurfaceForm>
+	<EntityTextStart>181</EntityTextStart>
+	<EntityTextEnd>187</EntityTextEnd>
+	<LinkerScore>0.1969625678016345</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dynamo_Sports_Club</WikiTitle>
+		<WikiTitleID>15820924</WikiTitleID>
+		<RankerScore>0.15593317165494994</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dynamo_Sports_Club</WikiTitle> <WikiTitleID>15820924</WikiTitleID> <RankerScore>0.15593317165494994</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo</WikiTitle> <WikiTitleID>10631769</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Kyiv</WikiTitle> <WikiTitleID>889025</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.07229720218943443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(album)</WikiTitle> <WikiTitleID>3023502</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Open_Air</WikiTitle> <WikiTitleID>1068850</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BC_Dinamo_Tbilisi</WikiTitle> <WikiTitleID>5259146</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Saint_Petersburg</WikiTitle> <WikiTitleID>14838339</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(magician)</WikiTitle> <WikiTitleID>12618788</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Makhachkala</WikiTitle> <WikiTitleID>7984948</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dunkirk_evacuation</WikiTitle> <WikiTitleID>253767</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Stavropol</WikiTitle> <WikiTitleID>2476209</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Stadium_(Moscow)</WikiTitle> <WikiTitleID>3719784</WikiTitleID> <RankerScore>0.12924781166639873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(Fox_Feature_Syndicate)</WikiTitle> <WikiTitleID>8873804</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_theory</WikiTitle> <WikiTitleID>255217</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Dynamo</WikiTitle> <WikiTitleID>3441277</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neo-Knights</WikiTitle> <WikiTitleID>1550165</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(play)</WikiTitle> <WikiTitleID>15440014</WikiTitleID> <RankerScore>0.03779540085230688</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>188</EntityTextStart>
+	<EntityTextEnd>194</EntityTextEnd>
+	<LinkerScore>0.08175511632125798</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Dynamo_Moscow</WikiTitle>
+		<WikiTitleID>968856</WikiTitleID>
+		<RankerScore>0.3051367978196286</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.3051367978196286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.2827958168656862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.2183393765074903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(bandy_club)</WikiTitle> <WikiTitleID>5688654</WikiTitleID> <RankerScore>0.09686400440359748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(women&apos;s_volleyball)</WikiTitle> <WikiTitleID>7160145</WikiTitleID> <RankerScore>0.09686400440359748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rotor</EntitySurfaceForm>
+	<EntityTextStart>251</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>0.8858613558244625</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Rotor_Volgograd</WikiTitle>
+		<WikiTitleID>3108494</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Rotor_Volgograd</WikiTitle> <WikiTitleID>3108494</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian league</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>320</EntityTextEnd>
+	<LinkerScore>0.403104495520042</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_Premier_League</WikiTitle>
+		<WikiTitleID>1167698</WikiTitleID>
+		<RankerScore>0.8082695132912381</RankerScore>
+		<Attributes>competition	league</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_Premier_League</WikiTitle> <WikiTitleID>1167698</WikiTitleID> <RankerScore>0.8082695132912381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Basketball_Super_League</WikiTitle> <WikiTitleID>4405546</WikiTitleID> <RankerScore>0.19173048670876183</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>313</EntityTextEnd>
+	<LinkerScore>0.2898955456961053</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.1542802740300212</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.1542802740300212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.060483534662371934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.15087420612264416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.037315410893233106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Anatoly</EntitySurfaceForm>
+	<EntityTextStart>347</EntityTextStart>
+	<EntityTextEnd>354</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anatoly</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>names</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rotor</EntitySurfaceForm>
+	<EntityTextStart>388</EntityTextStart>
+	<EntityTextEnd>393</EntityTextEnd>
+	<LinkerScore>0.08327484611344738</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Rotor_Volgograd</WikiTitle>
+		<WikiTitleID>3108494</WikiTitleID>
+		<RankerScore>0.2619343774395178</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rotor_the_Walrus</WikiTitle> <WikiTitleID>9581239</WikiTitleID> <RankerScore>0.16373693930451036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(ride)</WikiTitle> <WikiTitleID>4451914</WikiTitleID> <RankerScore>0.1408875677534023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Rotor_Volgograd</WikiTitle> <WikiTitleID>3108494</WikiTitleID> <RankerScore>0.2619343774395178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(electric)</WikiTitle> <WikiTitleID>9797479</WikiTitleID> <RankerScore>0.10836027887564233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shared_Source_Common_Language_Infrastructure</WikiTitle> <WikiTitleID>657862</WikiTitleID> <RankerScore>0.10836027887564233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cajun_Cliffhanger</WikiTitle> <WikiTitleID>2819323</WikiTitleID> <RankerScore>0.10836027887564233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turbine</WikiTitle> <WikiTitleID>30848</WikiTitleID> <RankerScore>0.10836027887564233</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lada</EntitySurfaceForm>
+	<EntityTextStart>405</EntityTextStart>
+	<EntityTextEnd>409</EntityTextEnd>
+	<LinkerScore>0.17406937737750944</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lada</WikiTitle>
+		<WikiTitleID>1597162</WikiTitleID>
+		<RankerScore>0.3321894149716705</RankerScore>
+		<Attributes>brand	manufacturer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lada</WikiTitle> <WikiTitleID>1597162</WikiTitleID> <RankerScore>0.3321894149716705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lada_and_Lado</WikiTitle> <WikiTitleID>380595</WikiTitleID> <RankerScore>0.08113091030029372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lada,_Prešov_District</WikiTitle> <WikiTitleID>7885472</WikiTitleID> <RankerScore>0.08113091030029372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ladas,_Messenia</WikiTitle> <WikiTitleID>5535412</WikiTitleID> <RankerScore>0.08113091030029372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Lada_Togliatti</WikiTitle> <WikiTitleID>4412222</WikiTitleID> <RankerScore>0.11388939634686876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>VAZ-2101</WikiTitle> <WikiTitleID>6935318</WikiTitleID> <RankerScore>0.08113091030029372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Lada_Togliatti</WikiTitle> <WikiTitleID>5826257</WikiTitleID> <RankerScore>0.22939754748028587</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lada Togliatti</EntitySurfaceForm>
+	<EntityTextStart>405</EntityTextStart>
+	<EntityTextEnd>419</EntityTextEnd>
+	<LinkerScore>0.06705438149759105</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>HC_Lada_Togliatti</WikiTitle>
+		<WikiTitleID>4412222</WikiTitleID>
+		<RankerScore>0.5058069884172977</RankerScore>
+		<Attributes>team	club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>HC_Lada_Togliatti</WikiTitle> <WikiTitleID>4412222</WikiTitleID> <RankerScore>0.5058069884172977</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Lada_Togliatti</WikiTitle> <WikiTitleID>5826257</WikiTitleID> <RankerScore>0.4941930115827023</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Togliatti</EntitySurfaceForm>
+	<EntityTextStart>410</EntityTextStart>
+	<EntityTextEnd>419</EntityTextEnd>
+	<LinkerScore>0.9226809170371079</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tolyatti</WikiTitle>
+		<WikiTitleID>528872</WikiTitleID>
+		<RankerScore>0.6908959790421882</RankerScore>
+		<Attributes>city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tolyatti</WikiTitle> <WikiTitleID>528872</WikiTitleID> <RankerScore>0.6908959790421882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palmiro_Togliatti</WikiTitle> <WikiTitleID>528894</WikiTitleID> <RankerScore>0.30910402095781175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>September 3</EntitySurfaceForm>
+	<EntityTextStart>439</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>1.0047483442992182</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>September_3</WikiTitle>
+		<WikiTitleID>27989</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>September_3</WikiTitle> <WikiTitleID>27989</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Manchester United</EntitySurfaceForm>
+	<EntityTextStart>470</EntityTextStart>
+	<EntityTextEnd>487</EntityTextEnd>
+	<LinkerScore>1.3145824253608616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manchester_United_F.C.</WikiTitle>
+		<WikiTitleID>19961</WikiTitleID>
+		<RankerScore>0.6277151689404552</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manchester_United_F.C.</WikiTitle> <WikiTitleID>19961</WikiTitleID> <RankerScore>0.6277151689404552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Altrincham_F.C.</WikiTitle> <WikiTitleID>2139207</WikiTitleID> <RankerScore>0.09711072632963795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_United_(video_game_series)</WikiTitle> <WikiTitleID>14510069</WikiTitleID> <RankerScore>0.08943466932352072</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Giants</WikiTitle> <WikiTitleID>3801392</WikiTitleID> <RankerScore>0.09286971770319306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_United_F.C._Reserves_and_Academy</WikiTitle> <WikiTitleID>9768801</WikiTitleID> <RankerScore>0.09286971770319306</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Manchester</EntitySurfaceForm>
+	<EntityTextStart>470</EntityTextStart>
+	<EntityTextEnd>480</EntityTextEnd>
+	<LinkerScore>1.1537370332964731</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manchester</WikiTitle>
+		<WikiTitleID>20206</WikiTitleID>
+		<RankerScore>0.18013150947299797</RankerScore>
+		<Attributes>district	city	place	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manchester</WikiTitle> <WikiTitleID>20206</WikiTitleID> <RankerScore>0.18013150947299797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_New_Hampshire</WikiTitle> <WikiTitleID>124770</WikiTitleID> <RankerScore>0.046402023224981</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Connecticut</WikiTitle> <WikiTitleID>108721</WikiTitleID> <RankerScore>0.04615090639016409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Manchester</WikiTitle> <WikiTitleID>83266</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Airport</WikiTitle> <WikiTitleID>266959</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Virginia</WikiTitle> <WikiTitleID>1216349</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Trafford_Cricket_Ground</WikiTitle> <WikiTitleID>660597</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Piccadilly_station</WikiTitle> <WikiTitleID>209875</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_(town),_Vermont</WikiTitle> <WikiTitleID>260212</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Tennessee</WikiTitle> <WikiTitleID>135128</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Ohio</WikiTitle> <WikiTitleID>128873</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_Parish,_Jamaica</WikiTitle> <WikiTitleID>2213338</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_New_York</WikiTitle> <WikiTitleID>259945</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Iowa</WikiTitle> <WikiTitleID>112986</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_(Pittsburgh)</WikiTitle> <WikiTitleID>2966337</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester-by-the-Sea,_Massachusetts</WikiTitle> <WikiTitleID>116750</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_(UK_Parliament_constituency)</WikiTitle> <WikiTitleID>8369424</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Kentucky</WikiTitle> <WikiTitleID>115095</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester,_Maine</WikiTitle> <WikiTitleID>116019</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manchester_(town),_New_York</WikiTitle> <WikiTitleID>685747</WikiTitleID> <RankerScore>0.042783268288932766</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>UEFA Cup</EntitySurfaceForm>
+	<EntityTextStart>507</EntityTextStart>
+	<EntityTextEnd>515</EntityTextEnd>
+	<LinkerScore>1.2007360827004627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>UEFA_Cup</WikiTitle>
+		<WikiTitleID>232175</WikiTitleID>
+		<RankerScore>0.35427433229750105</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>UEFA_Cup</WikiTitle> <WikiTitleID>232175</WikiTitleID> <RankerScore>0.35427433229750105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2006–07</WikiTitle> <WikiTitleID>4683903</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2007–08</WikiTitle> <WikiTitleID>10124937</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2005–06</WikiTitle> <WikiTitleID>2677012</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2008–09</WikiTitle> <WikiTitleID>12450336</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2000–01</WikiTitle> <WikiTitleID>4605647</WikiTitleID> <RankerScore>0.03338732510211974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2002–03</WikiTitle> <WikiTitleID>4657769</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2003–04</WikiTitle> <WikiTitleID>2795493</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2004–05</WikiTitle> <WikiTitleID>4333582</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_2001–02</WikiTitle> <WikiTitleID>18210406</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1999–2000</WikiTitle> <WikiTitleID>2102636</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1995-96</WikiTitle> <WikiTitleID>5344766</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1971-72</WikiTitle> <WikiTitleID>5653960</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1998-99</WikiTitle> <WikiTitleID>4710057</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1991-92</WikiTitle> <WikiTitleID>5401149</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1997-98</WikiTitle> <WikiTitleID>4749165</WikiTitleID> <RankerScore>0.05359541619767004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1978-79</WikiTitle> <WikiTitleID>5647479</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1976-77</WikiTitle> <WikiTitleID>5652753</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1981-82</WikiTitle> <WikiTitleID>5642147</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup_1980-81</WikiTitle> <WikiTitleID>5646181</WikiTitleID> <RankerScore>0.03286723096486525</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>UEFA</EntitySurfaceForm>
+	<EntityTextStart>507</EntityTextStart>
+	<EntityTextEnd>511</EntityTextEnd>
+	<LinkerScore>0.19581388421583795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>UEFA</WikiTitle>
+		<WikiTitleID>32332</WikiTitleID>
+		<RankerScore>0.5032621626566472</RankerScore>
+		<Attributes>supraorganizations	body	sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>UEFA</WikiTitle> <WikiTitleID>32332</WikiTitleID> <RankerScore>0.5032621626566472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Cup</WikiTitle> <WikiTitleID>232175</WikiTitleID> <RankerScore>0.4967378373433528</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rotor</EntitySurfaceForm>
+	<EntityTextStart>556</EntityTextStart>
+	<EntityTextEnd>561</EntityTextEnd>
+	<LinkerScore>0.15267576678435968</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Rotor_Volgograd</WikiTitle>
+		<WikiTitleID>3108494</WikiTitleID>
+		<RankerScore>0.2847025480305138</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rotor_the_Walrus</WikiTitle> <WikiTitleID>9581239</WikiTitleID> <RankerScore>0.15753292883403608</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(ride)</WikiTitle> <WikiTitleID>4451914</WikiTitleID> <RankerScore>0.13490529334642926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Rotor_Volgograd</WikiTitle> <WikiTitleID>3108494</WikiTitleID> <RankerScore>0.2847025480305138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rotor_(electric)</WikiTitle> <WikiTitleID>9797479</WikiTitleID> <RankerScore>0.10571480744725524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shared_Source_Common_Language_Infrastructure</WikiTitle> <WikiTitleID>657862</WikiTitleID> <RankerScore>0.10571480744725524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cajun_Cliffhanger</WikiTitle> <WikiTitleID>2819323</WikiTitleID> <RankerScore>0.10571480744725524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turbine</WikiTitle> <WikiTitleID>30848</WikiTitleID> <RankerScore>0.10571480744725524</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Alania</EntitySurfaceForm>
+	<EntityTextStart>647</EntityTextStart>
+	<EntityTextEnd>653</EntityTextEnd>
+	<LinkerScore>0.05735205927437018</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Alania</WikiTitle>
+		<WikiTitleID>12841417</WikiTitleID>
+		<RankerScore>0.34988496630347654</RankerScore>
+		<Attributes>country</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Alania</WikiTitle> <WikiTitleID>12841417</WikiTitleID> <RankerScore>0.34988496630347654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Alania_Vladikavkaz</WikiTitle> <WikiTitleID>1167720</WikiTitleID> <RankerScore>0.32891505704840857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Ossetia-Alania</WikiTitle> <WikiTitleID>44247</WikiTitleID> <RankerScore>0.1603234426015764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alans</WikiTitle> <WikiTitleID>45121</WikiTitleID> <RankerScore>0.16087653404653854</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dynamo</EntitySurfaceForm>
+	<EntityTextStart>669</EntityTextStart>
+	<EntityTextEnd>675</EntityTextEnd>
+	<LinkerScore>0.14445789489050762</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dynamo_Sports_Club</WikiTitle>
+		<WikiTitleID>15820924</WikiTitleID>
+		<RankerScore>0.15797361750041278</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dynamo_Sports_Club</WikiTitle> <WikiTitleID>15820924</WikiTitleID> <RankerScore>0.15797361750041278</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo</WikiTitle> <WikiTitleID>10631769</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Kyiv</WikiTitle> <WikiTitleID>889025</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.10804170917333998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(album)</WikiTitle> <WikiTitleID>3023502</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Open_Air</WikiTitle> <WikiTitleID>1068850</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BC_Dinamo_Tbilisi</WikiTitle> <WikiTitleID>5259146</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Saint_Petersburg</WikiTitle> <WikiTitleID>14838339</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(magician)</WikiTitle> <WikiTitleID>12618788</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Makhachkala</WikiTitle> <WikiTitleID>7984948</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dunkirk_evacuation</WikiTitle> <WikiTitleID>253767</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Stavropol</WikiTitle> <WikiTitleID>2476209</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Stadium_(Moscow)</WikiTitle> <WikiTitleID>3719784</WikiTitleID> <RankerScore>0.15236764157518398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(Fox_Feature_Syndicate)</WikiTitle> <WikiTitleID>8873804</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_theory</WikiTitle> <WikiTitleID>255217</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Houston_Dynamo</WikiTitle> <WikiTitleID>3441277</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neo-Knights</WikiTitle> <WikiTitleID>1550165</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_(play)</WikiTitle> <WikiTitleID>15440014</WikiTitleID> <RankerScore>0.03421276657359195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dynamo Moscow</EntitySurfaceForm>
+	<EntityTextStart>669</EntityTextStart>
+	<EntityTextEnd>682</EntityTextEnd>
+	<LinkerScore>0.3816253202664099</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Dynamo_Moscow</WikiTitle>
+		<WikiTitleID>968856</WikiTitleID>
+		<RankerScore>0.3515769174625424</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.3515769174625424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.2546426310099857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.20208701867336257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(bandy_club)</WikiTitle> <WikiTitleID>5688654</WikiTitleID> <RankerScore>0.09584671642705465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(women&apos;s_volleyball)</WikiTitle> <WikiTitleID>7160145</WikiTitleID> <RankerScore>0.09584671642705465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>676</EntityTextStart>
+	<EntityTextEnd>682</EntityTextEnd>
+	<LinkerScore>0.37722942717160873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Dynamo_Moscow</WikiTitle>
+		<WikiTitleID>968856</WikiTitleID>
+		<RankerScore>0.40654835074690227</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.40654835074690227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MBC_Dynamo_Moscow</WikiTitle> <WikiTitleID>7740223</WikiTitleID> <RankerScore>0.23188822333384126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HC_Dynamo_Moscow</WikiTitle> <WikiTitleID>1246931</WikiTitleID> <RankerScore>0.19318921557854943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(bandy_club)</WikiTitle> <WikiTitleID>5688654</WikiTitleID> <RankerScore>0.08418710517035351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Moscow_(women&apos;s_volleyball)</WikiTitle> <WikiTitleID>7160145</WikiTitleID> <RankerScore>0.08418710517035351</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Volgograd</EntitySurfaceForm>
+	<EntityTextStart>688</EntityTextStart>
+	<EntityTextEnd>697</EntityTextEnd>
+	<LinkerScore>1.1873064906010393</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Volgograd</WikiTitle>
+		<WikiTitleID>32585</WikiTitleID>
+		<RankerScore>0.8060394656980112</RankerScore>
+		<Attributes>place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Volgograd</WikiTitle> <WikiTitleID>32585</WikiTitleID> <RankerScore>0.8060394656980112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volgograd_Oblast</WikiTitle> <WikiTitleID>478748</WikiTitleID> <RankerScore>0.1939605343019887</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>757</EntityTextStart>
+	<EntityTextEnd>763</EntityTextEnd>
+	<LinkerScore>0.9254252182021329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.23481213048149804</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.23481213048149804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.0570179880030897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.054510449456069275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03845055482702017</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

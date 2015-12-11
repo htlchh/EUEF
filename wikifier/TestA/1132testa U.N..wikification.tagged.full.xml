@@ -1,0 +1,2105 @@
+<WikifierOutput>
+<InputFilename>
+1132testa U.N.
+</InputFilename>
+<InputText>
+U.N. Ambassador Albright arrives in Chile.
+SANTIAGO 1996-08-31
+The U.S. ambassador to the United Nations, Madeleine Albright, arrived in Chile late Friday for talks on various Security Council issues with Chilean officials as part of a five-nation Latin American tour.
+Albright will meet Foreign Minister Jose Miguel Insulza Monday for talks on issues currently up for debate on the council, of which Chile is a non-permanent member, a U.S. embassy statement said.
+The two will also discuss various issues affecting relations between the United States and Chile, local officials said.
+Albright, who arrived from Uruguay, will rest most of the weekend in Chile, officials said.
+Her official programme will begin on Monday, and she will leave that day for Bolivia to attend a Latin American summit meeting in the city of Cochabamba.
+Her tour will also include Honduras and Guatemala.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>U.N.</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>4</EntityTextEnd>
+	<LinkerScore>1.3020304826354903</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations</WikiTitle>
+		<WikiTitleID>31769</WikiTitleID>
+		<RankerScore>0.7687846387870712</RankerScore>
+		<Attributes>nation	system	supraorganizations	establishment	prize</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations</WikiTitle> <WikiTitleID>31769</WikiTitleID> <RankerScore>0.7687846387870712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Assistance_Mission_for_Rwanda</WikiTitle> <WikiTitleID>581793</WikiTitleID> <RankerScore>0.13444732928465816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Special_Commission</WikiTitle> <WikiTitleID>173504</WikiTitleID> <RankerScore>0.0967680319282706</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.N. Ambassador</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>1.0790613481553288</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle>
+		<WikiTitleID>316610</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ambassador</EntitySurfaceForm>
+	<EntityTextStart>5</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>1.0790613481553288</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle>
+		<WikiTitleID>316610</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Albright</EntitySurfaceForm>
+	<EntityTextStart>16</EntityTextStart>
+	<EntityTextEnd>24</EntityTextEnd>
+	<LinkerScore>0.6532159805597415</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_Albright</WikiTitle>
+		<WikiTitleID>133249</WikiTitleID>
+		<RankerScore>0.3182217317027041</RankerScore>
+		<Attributes>secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Albright,_West_Virginia</WikiTitle> <WikiTitleID>138557</WikiTitleID> <RankerScore>0.1492042585496422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Albright</WikiTitle> <WikiTitleID>133249</WikiTitleID> <RankerScore>0.3182217317027041</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_F._Albright</WikiTitle> <WikiTitleID>210162</WikiTitleID> <RankerScore>0.13304830588169575</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albright,_Alberta</WikiTitle> <WikiTitleID>6668766</WikiTitleID> <RankerScore>0.0998814259664895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Albright_(musician)</WikiTitle> <WikiTitleID>4050363</WikiTitleID> <RankerScore>0.0998814259664895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dr._Mary_Albright</WikiTitle> <WikiTitleID>5610248</WikiTitleID> <RankerScore>0.0998814259664895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob_Albright</WikiTitle> <WikiTitleID>1661700</WikiTitleID> <RankerScore>0.0998814259664895</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>1.2370508599109782</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.29906143242506694</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.29906143242506694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.07349205920505521</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>0.06521100876279966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_under_Pinochet</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.033072676447475184</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>SANTIAGO</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>0.7719900500577854</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Santiago,_Chile</WikiTitle>
+		<WikiTitleID>51572</WikiTitleID>
+		<RankerScore>0.2722422952896712</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Santiago,_Chile</WikiTitle> <WikiTitleID>51572</WikiTitleID> <RankerScore>0.2722422952896712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Cape_Verde</WikiTitle> <WikiTitleID>1632046</WikiTitleID> <RankerScore>0.04561213016740669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_Province_(Dominican_Republic)</WikiTitle> <WikiTitleID>998566</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago</WikiTitle> <WikiTitleID>51493</WikiTitleID> <RankerScore>0.06462573159718599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_de_Cuba</WikiTitle> <WikiTitleID>235003</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_de_los_Caballeros</WikiTitle> <WikiTitleID>1022671</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_de_Compostela</WikiTitle> <WikiTitleID>27670</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Order_of_Santiago</WikiTitle> <WikiTitleID>1669845</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James,_son_of_Zebedee</WikiTitle> <WikiTitleID>171625</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Rio_Grande_do_Sul</WikiTitle> <WikiTitleID>10124359</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Nuevo_León</WikiTitle> <WikiTitleID>7459408</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_(name)</WikiTitle> <WikiTitleID>8086525</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Baja_California_Sur</WikiTitle> <WikiTitleID>4107568</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Ilocos_Sur</WikiTitle> <WikiTitleID>2068467</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Santiago_de_Cuba</WikiTitle> <WikiTitleID>254819</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago,_Putumayo</WikiTitle> <WikiTitleID>10704816</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_(band)</WikiTitle> <WikiTitleID>9460330</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_de_Veraguas,_Veraguas</WikiTitle> <WikiTitleID>1654849</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Movistar_Open</WikiTitle> <WikiTitleID>5894397</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Santiago_de_Puriscal</WikiTitle> <WikiTitleID>12485254</WikiTitleID> <RankerScore>0.03632469664386683</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>1.4042080300043933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.22248092588135251</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.22248092588135251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.041804953196637615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.03869385291035969</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.04100119223597942</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. ambassador</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>82</EntityTextEnd>
+	<LinkerScore>0.27299523925727587</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle>
+		<WikiTitleID>316610</WikiTitleID>
+		<RankerScore>0.23521150147600023</RankerScore>
+		<Attributes>representative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ambassadors_of_the_United_States</WikiTitle> <WikiTitleID>153068</WikiTitleID> <RankerScore>1.2010894989992025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>0.23521150147600023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Slovakia</WikiTitle> <WikiTitleID>8597634</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Venezuela</WikiTitle> <WikiTitleID>4686467</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ambassadors_of_the_United_States</WikiTitle> <WikiTitleID>153068</WikiTitleID> <RankerScore>0.22380402518095902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ambassador</WikiTitle> <WikiTitleID>68651</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Mexico</WikiTitle> <WikiTitleID>3879642</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomacy</WikiTitle> <WikiTitleID>43259</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Cuba</WikiTitle> <WikiTitleID>6621567</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_France</WikiTitle> <WikiTitleID>2630379</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Kingdom</WikiTitle> <WikiTitleID>857149</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Gabon</WikiTitle> <WikiTitleID>8812052</WikiTitleID> <RankerScore>0.06010938592700452</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ambassador</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>82</EntityTextEnd>
+	<LinkerScore>0.6980522569090604</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ambassador</WikiTitle>
+		<WikiTitleID>68651</WikiTitleID>
+		<RankerScore>0.23765049291659657</RankerScore>
+		<Attributes>occupation	ambassador	diplomat</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ambassador</WikiTitle> <WikiTitleID>68651</WikiTitleID> <RankerScore>0.23765049291659657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ambassadors_of_the_United_States</WikiTitle> <WikiTitleID>153068</WikiTitleID> <RankerScore>0.08995281032748097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Kingdom</WikiTitle> <WikiTitleID>857149</WikiTitleID> <RankerScore>0.051759895559894506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_ambassadors_to_Angola</WikiTitle> <WikiTitleID>8809798</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_India</WikiTitle> <WikiTitleID>14213389</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Ambassadors_from_New_Zealand_to_France</WikiTitle> <WikiTitleID>5867532</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Turkey</WikiTitle> <WikiTitleID>8823981</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Minister_to_Hawaii</WikiTitle> <WikiTitleID>788859</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Imperial_China</WikiTitle> <WikiTitleID>1193402</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Lithuania</WikiTitle> <WikiTitleID>17828</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_Belgium</WikiTitle> <WikiTitleID>11958127</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Ambassador_to_Turkey</WikiTitle> <WikiTitleID>5640799</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_France</WikiTitle> <WikiTitleID>2630379</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Ambassadors_from_the_United_Kingdom_to_Germany</WikiTitle> <WikiTitleID>4116549</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Israeli_ambassadors_to_the_United_States</WikiTitle> <WikiTitleID>3419163</WikiTitleID> <RankerScore>0.051719733433002325</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>United Nations</EntitySurfaceForm>
+	<EntityTextStart>90</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>0.7876622794981079</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations</WikiTitle>
+		<WikiTitleID>31769</WikiTitleID>
+		<RankerScore>0.35125295440379173</RankerScore>
+		<Attributes>nation	system	supraorganizations	establishment	prize</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations</WikiTitle> <WikiTitleID>31769</WikiTitleID> <RankerScore>0.35125295440379173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Command_(Korea)</WikiTitle> <WikiTitleID>3054918</WikiTitleID> <RankerScore>0.041959659336860966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Mission_in_the_Democratic_Republic_of_Congo</WikiTitle> <WikiTitleID>1015555</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Ambassador_to_the_United_Nations</WikiTitle> <WikiTitleID>316610</WikiTitleID> <RankerScore>0.10313802345732971</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Headquarters</WikiTitle> <WikiTitleID>188955</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UN_peacekeeping_missions_involving_Pakistan</WikiTitle> <WikiTitleID>10608979</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>China_and_the_United_Nations</WikiTitle> <WikiTitleID>325572</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_(gang)</WikiTitle> <WikiTitleID>11865969</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Interim_Administration_Mission_in_Kosovo</WikiTitle> <WikiTitleID>38326</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_Committee_1267</WikiTitle> <WikiTitleID>8477059</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Relief_and_Works_Agency_for_Palestine_Refugees_in_the_Near_East</WikiTitle> <WikiTitleID>32270</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Operation_in_the_Congo</WikiTitle> <WikiTitleID>2200542</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Art_Collection</WikiTitle> <WikiTitleID>12588503</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_Resolution_47</WikiTitle> <WikiTitleID>9204411</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_member_states</WikiTitle> <WikiTitleID>31969</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_the_United_Nations</WikiTitle> <WikiTitleID>565612</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allies</WikiTitle> <WikiTitleID>58162</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Declaration_by_United_Nations</WikiTitle> <WikiTitleID>1341065</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_and_the_Iraq_War</WikiTitle> <WikiTitleID>183869</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allies_of_World_War_II</WikiTitle> <WikiTitleID>2198844</WikiTitleID> <RankerScore>0.029626433106001045</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Madeleine</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>115</EntityTextEnd>
+	<LinkerScore>-0.09388170857635403</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_(film)</WikiTitle>
+		<WikiTitleID>5565346</WikiTitleID>
+		<RankerScore>0.0984698366140775</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Madeleine_(film)</WikiTitle> <WikiTitleID>5565346</WikiTitleID> <RankerScore>0.0984698366140775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Église_de_la_Madeleine</WikiTitle> <WikiTitleID>187424</WikiTitleID> <RankerScore>0.07142301493348785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Princess_Madeleine,_Duchess_of_Hälsingland_and_Gästrikland</WikiTitle> <WikiTitleID>439508</WikiTitleID> <RankerScore>0.06948376921447236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Astor</WikiTitle> <WikiTitleID>661665</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Collinson</WikiTitle> <WikiTitleID>2294475</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_of_Valois</WikiTitle> <WikiTitleID>904458</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_de_Scudéry</WikiTitle> <WikiTitleID>287108</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_de_la_Tour_d&apos;Auvergne</WikiTitle> <WikiTitleID>1234493</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magdalena_of_Valois</WikiTitle> <WikiTitleID>5602577</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_(Paris_Métro)</WikiTitle> <WikiTitleID>504514</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_(cake)</WikiTitle> <WikiTitleID>1228550</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>La_Madeleine-sur-Loing</WikiTitle> <WikiTitleID>11035284</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Object_Prevalence</WikiTitle> <WikiTitleID>4838487</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Spencer_(Psych_character)</WikiTitle> <WikiTitleID>18524408</WikiTitleID> <RankerScore>0.06914757993072385</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Madeleine Albright</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>124</EntityTextEnd>
+	<LinkerScore>1.2062980808359869</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_Albright</WikiTitle>
+		<WikiTitleID>133249</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Madeleine_Albright</WikiTitle> <WikiTitleID>133249</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Albright</EntitySurfaceForm>
+	<EntityTextStart>116</EntityTextStart>
+	<EntityTextEnd>124</EntityTextEnd>
+	<LinkerScore>0.6709251254583177</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_Albright</WikiTitle>
+		<WikiTitleID>133249</WikiTitleID>
+		<RankerScore>0.29275027406085063</RankerScore>
+		<Attributes>secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Albright,_West_Virginia</WikiTitle> <WikiTitleID>138557</WikiTitleID> <RankerScore>0.1548532107030374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Albright</WikiTitle> <WikiTitleID>133249</WikiTitleID> <RankerScore>0.29275027406085063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_F._Albright</WikiTitle> <WikiTitleID>210162</WikiTitleID> <RankerScore>0.13780528090596172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albright,_Alberta</WikiTitle> <WikiTitleID>6668766</WikiTitleID> <RankerScore>0.10364780858253757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Albright_(musician)</WikiTitle> <WikiTitleID>4050363</WikiTitleID> <RankerScore>0.10364780858253757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dr._Mary_Albright</WikiTitle> <WikiTitleID>5610248</WikiTitleID> <RankerScore>0.10364780858253757</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob_Albright</WikiTitle> <WikiTitleID>1661700</WikiTitleID> <RankerScore>0.10364780858253757</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>137</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.0483135639280834</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.2302977064163449</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.2302977064163449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.08147667644762913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.06298377104039839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_under_Pinochet</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.03677893212327221</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>late Friday</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>154</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Friday_Night_Videos</WikiTitle>
+		<WikiTitleID>3577955</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>ending	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Security Council</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>192</EntityTextEnd>
+	<LinkerScore>1.011535456416331</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>31956</WikiTitleID>
+		<RankerScore>0.5146658062589153</RankerScore>
+		<Attributes>election	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council</WikiTitle> <WikiTitleID>31956</WikiTitleID> <RankerScore>0.5146658062589153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_of_Russia</WikiTitle> <WikiTitleID>7516389</WikiTitleID> <RankerScore>0.1351155501761586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Nations_Security_Council_resolution</WikiTitle> <WikiTitleID>178970</WikiTitleID> <RankerScore>0.217675123226242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Security_Council_(Japan)</WikiTitle> <WikiTitleID>2897582</WikiTitleID> <RankerScore>0.13254352033868394</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chilean</EntitySurfaceForm>
+	<EntityTextStart>205</EntityTextStart>
+	<EntityTextEnd>212</EntityTextEnd>
+	<LinkerScore>0.2743246059397233</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.26196787455699194</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.26196787455699194</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Flamingo</WikiTitle> <WikiTitleID>182807</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.09587099237818003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Chile</WikiTitle> <WikiTitleID>67363</WikiTitleID> <RankerScore>0.16226313685900792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_poetry</WikiTitle> <WikiTitleID>4620412</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Chile</WikiTitle> <WikiTitleID>148279</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_American</WikiTitle> <WikiTitleID>7765577</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_peso</WikiTitle> <WikiTitleID>171898</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_mythology</WikiTitle> <WikiTitleID>8857940</WikiTitleID> <RankerScore>0.05332199957842447</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Latin American</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.7436141835686791</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin_America</WikiTitle>
+		<WikiTitleID>18524</WikiTitleID>
+		<RankerScore>0.2750013257228681</RankerScore>
+		<Attributes>classification	region	dispute	study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.2750013257228681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Britons</WikiTitle> <WikiTitleID>11634440</WikiTitleID> <RankerScore>0.10863584994439653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_cuisine</WikiTitle> <WikiTitleID>524651</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Canadian</WikiTitle> <WikiTitleID>1939405</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afro-Latin_American</WikiTitle> <WikiTitleID>637348</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.10465795318827152</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_culture</WikiTitle> <WikiTitleID>5679416</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_literature</WikiTitle> <WikiTitleID>5042758</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispanic_and_Latino_Americans</WikiTitle> <WikiTitleID>1007667</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.0465186246494967</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Latin</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>0.0848757860913239</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin</WikiTitle>
+		<WikiTitleID>17730</WikiTitleID>
+		<RankerScore>0.1309856636674664</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin</WikiTitle> <WikiTitleID>17730</WikiTitleID> <RankerScore>0.1309856636674664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_alphabet</WikiTitle> <WikiTitleID>18306</WikiTitleID> <RankerScore>0.041860678043137055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latins</WikiTitle> <WikiTitleID>50996</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Rite</WikiTitle> <WikiTitleID>104458</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_literature</WikiTitle> <WikiTitleID>18058</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.1090501117986728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecclesiastical_Latin</WikiTitle> <WikiTitleID>631821</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medieval_Latin</WikiTitle> <WikiTitleID>898044</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Empire</WikiTitle> <WikiTitleID>174215</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulgar_Latin</WikiTitle> <WikiTitleID>51962</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Europe</WikiTitle> <WikiTitleID>956277</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaj&apos;s_Latin_Alphabet</WikiTitle> <WikiTitleID>1430156</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latium</WikiTitle> <WikiTitleID>7408972</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulgate</WikiTitle> <WikiTitleID>32576</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Jazz</WikiTitle> <WikiTitleID>285709</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_grammar</WikiTitle> <WikiTitleID>147176</WikiTitleID> <RankerScore>0.04224138508768963</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.6480874256973816</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin_America</WikiTitle>
+		<WikiTitleID>18524</WikiTitleID>
+		<RankerScore>0.2884800226766953</RankerScore>
+		<Attributes>classification	region	dispute	study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.2884800226766953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.0669954571360468</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Britons</WikiTitle> <WikiTitleID>11634440</WikiTitleID> <RankerScore>0.12104515565870812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_cuisine</WikiTitle> <WikiTitleID>524651</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Canadian</WikiTitle> <WikiTitleID>1939405</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afro-Latin_American</WikiTitle> <WikiTitleID>637348</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_culture</WikiTitle> <WikiTitleID>5679416</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_literature</WikiTitle> <WikiTitleID>5042758</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispanic_and_Latino_Americans</WikiTitle> <WikiTitleID>1007667</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.047589033138959076</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Albright</EntitySurfaceForm>
+	<EntityTextStart>269</EntityTextStart>
+	<EntityTextEnd>277</EntityTextEnd>
+	<LinkerScore>0.5860658242597325</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_Albright</WikiTitle>
+		<WikiTitleID>133249</WikiTitleID>
+		<RankerScore>0.25853343897319075</RankerScore>
+		<Attributes>secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Albright,_West_Virginia</WikiTitle> <WikiTitleID>138557</WikiTitleID> <RankerScore>0.16071229366576098</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Albright</WikiTitle> <WikiTitleID>133249</WikiTitleID> <RankerScore>0.25853343897319075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_F._Albright</WikiTitle> <WikiTitleID>210162</WikiTitleID> <RankerScore>0.1504357748383181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albright,_Alberta</WikiTitle> <WikiTitleID>6668766</WikiTitleID> <RankerScore>0.10757962313068255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Albright_(musician)</WikiTitle> <WikiTitleID>4050363</WikiTitleID> <RankerScore>0.10757962313068255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dr._Mary_Albright</WikiTitle> <WikiTitleID>5610248</WikiTitleID> <RankerScore>0.10757962313068255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob_Albright</WikiTitle> <WikiTitleID>1661700</WikiTitleID> <RankerScore>0.10757962313068255</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Foreign Minister</EntitySurfaceForm>
+	<EntityTextStart>288</EntityTextStart>
+	<EntityTextEnd>304</EntityTextEnd>
+	<LinkerScore>0.38821758793523986</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Foreign_minister</WikiTitle>
+		<WikiTitleID>317153</WikiTitleID>
+		<RankerScore>0.0785613679397224</RankerScore>
+		<Attributes>minister	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Foreign_minister</WikiTitle> <WikiTitleID>317153</WikiTitleID> <RankerScore>0.0785613679397224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(France)</WikiTitle> <WikiTitleID>250002</WikiTitleID> <RankerScore>0.051268902927768055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Romania)</WikiTitle> <WikiTitleID>6079447</WikiTitleID> <RankerScore>0.05092415035251084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>1326936</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_German_foreign_ministers</WikiTitle> <WikiTitleID>465438</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Fiji)</WikiTitle> <WikiTitleID>1777347</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Australia)</WikiTitle> <WikiTitleID>591908</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_Denmark</WikiTitle> <WikiTitleID>1701225</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_Minister_of_Israel</WikiTitle> <WikiTitleID>650835</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Cuba</WikiTitle> <WikiTitleID>5592</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_Nigeria</WikiTitle> <WikiTitleID>5938324</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_foreign_ministers</WikiTitle> <WikiTitleID>1316703</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Ireland)</WikiTitle> <WikiTitleID>487125</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_the_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>4497735</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Minister_of_Foreign_Affairs</WikiTitle> <WikiTitleID>3051160</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Greece)</WikiTitle> <WikiTitleID>3989509</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonian_Minister_of_Foreign_Affairs</WikiTitle> <WikiTitleID>1794160</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Japan)</WikiTitle> <WikiTitleID>868429</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_of_State_for_Foreign_and_Commonwealth_Affairs</WikiTitle> <WikiTitleID>59655</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Minister_of_Egypt</WikiTitle> <WikiTitleID>3664607</WikiTitleID> <RankerScore>0.04819091639882346</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Jose Miguel Insulza</EntitySurfaceForm>
+	<EntityTextStart>305</EntityTextStart>
+	<EntityTextEnd>324</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>José_Miguel_Insulza</WikiTitle>
+		<WikiTitleID>1261512</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>401</EntityTextStart>
+	<EntityTextEnd>406</EntityTextEnd>
+	<LinkerScore>1.0360001076119054</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.22390701167915003</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.22390701167915003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.08216481200711034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.06357137768666353</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_under_Pinochet</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.03707981168394565</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>non-permanent member</EntitySurfaceForm>
+	<EntityTextStart>412</EntityTextStart>
+	<EntityTextEnd>432</EntityTextEnd>
+	<LinkerScore>0.998317316068898</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_elected_members_of_the_United_Nations_Security_Council</WikiTitle>
+		<WikiTitleID>349284</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_elected_members_of_the_United_Nations_Security_Council</WikiTitle> <WikiTitleID>349284</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>436</EntityTextStart>
+	<EntityTextEnd>440</EntityTextEnd>
+	<LinkerScore>1.069635351213026</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.20447566202812018</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.20447566202812018</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.04255141311027478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.03965155948837963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.04196008031607209</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>embassy</EntitySurfaceForm>
+	<EntityTextStart>441</EntityTextStart>
+	<EntityTextEnd>448</EntityTextEnd>
+	<LinkerScore>0.668222203415747</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diplomatic_mission</WikiTitle>
+		<WikiTitleID>8970</WikiTitleID>
+		<RankerScore>0.2941629408716952</RankerScore>
+		<Attributes>mission</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diplomatic_mission</WikiTitle> <WikiTitleID>8970</WikiTitleID> <RankerScore>0.2941629408716952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_Russia_in_Kiev</WikiTitle> <WikiTitleID>18049035</WikiTitleID> <RankerScore>0.09615430465986965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_diplomatic_missions_in_Washington,_D.C.</WikiTitle> <WikiTitleID>1704676</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_the_United_States_in_Tokyo</WikiTitle> <WikiTitleID>2317990</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_Albania_in_Ottawa</WikiTitle> <WikiTitleID>11673455</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_Turkey_in_the_Turkish_Republic_of_Northern_Cyprus</WikiTitle> <WikiTitleID>9341721</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_Ukraine_in_Moscow</WikiTitle> <WikiTitleID>18048956</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_the_United_States_in_Athens</WikiTitle> <WikiTitleID>8883715</WikiTitleID> <RankerScore>0.07802061171302913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_missions_of_the_United_States</WikiTitle> <WikiTitleID>6654039</WikiTitleID> <RankerScore>0.1415590841902605</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>United States</EntitySurfaceForm>
+	<EntityTextStart>538</EntityTextStart>
+	<EntityTextEnd>551</EntityTextEnd>
+	<LinkerScore>0.6594684260985699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.21423845885802398</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.21423845885802398</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.04144699406873165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Davis_Cup_team</WikiTitle> <WikiTitleID>6311052</WikiTitleID> <RankerScore>0.058743330139998454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>2119801</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>912874</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Fed_Cup_team</WikiTitle> <WikiTitleID>9479975</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_cricket_team</WikiTitle> <WikiTitleID>980450</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>89611</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_soccer_team</WikiTitle> <WikiTitleID>648033</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_USA</WikiTitle> <WikiTitleID>884918</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1690430</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_policy_of_the_United_States</WikiTitle> <WikiTitleID>7564</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_badminton_team</WikiTitle> <WikiTitleID>17459645</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_the_United_States</WikiTitle> <WikiTitleID>32022</WikiTitleID> <RankerScore>0.04032771864313211</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>556</EntityTextStart>
+	<EntityTextEnd>561</EntityTextEnd>
+	<LinkerScore>0.9569705948055222</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.23631186424352804</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.23631186424352804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.08570991984802483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.06746324339387148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_under_Pinochet</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.03591264544203386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Albright</EntitySurfaceForm>
+	<EntityTextStart>585</EntityTextStart>
+	<EntityTextEnd>593</EntityTextEnd>
+	<LinkerScore>0.3650544813662839</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Madeleine_Albright</WikiTitle>
+		<WikiTitleID>133249</WikiTitleID>
+		<RankerScore>0.2523508995318244</RankerScore>
+		<Attributes>secretary	citizen	person	member	alumnus	recipient	minister	immigrant	diplomat	convert	president	jew	representative	woman	episcopalian</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Albright,_West_Virginia</WikiTitle> <WikiTitleID>138557</WikiTitleID> <RankerScore>0.16354530034929368</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madeleine_Albright</WikiTitle> <WikiTitleID>133249</WikiTitleID> <RankerScore>0.2523508995318244</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_F._Albright</WikiTitle> <WikiTitleID>210162</WikiTitleID> <RankerScore>0.14612044876451</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Albright,_Alberta</WikiTitle> <WikiTitleID>6668766</WikiTitleID> <RankerScore>0.10949583783859299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Albright_(musician)</WikiTitle> <WikiTitleID>4050363</WikiTitleID> <RankerScore>0.10949583783859299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dr._Mary_Albright</WikiTitle> <WikiTitleID>5610248</WikiTitleID> <RankerScore>0.10949583783859299</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jacob_Albright</WikiTitle> <WikiTitleID>1661700</WikiTitleID> <RankerScore>0.10949583783859299</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Uruguay</EntitySurfaceForm>
+	<EntityTextStart>612</EntityTextStart>
+	<EntityTextEnd>619</EntityTextEnd>
+	<LinkerScore>1.1028214417147908</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Uruguay</WikiTitle>
+		<WikiTitleID>31843</WikiTitleID>
+		<RankerScore>0.3158879604943939</RankerScore>
+		<Attributes>country	colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Uruguay</WikiTitle> <WikiTitleID>31843</WikiTitleID> <RankerScore>0.3158879604943939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguay_national_football_team</WikiTitle> <WikiTitleID>679782</WikiTitleID> <RankerScore>0.04765820693350319</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguay_national_rugby_union_team</WikiTitle> <WikiTitleID>3309481</WikiTitleID> <RankerScore>0.04307052085204663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguay_national_basketball_team</WikiTitle> <WikiTitleID>3313191</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguay_River</WikiTitle> <WikiTitleID>478650</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_Uruguaya</WikiTitle> <WikiTitleID>2836076</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguayan_Rugby_Union</WikiTitle> <WikiTitleID>1668514</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Uruguay</WikiTitle> <WikiTitleID>31850</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Uruguay</WikiTitle> <WikiTitleID>31844</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Uruguayan_films</WikiTitle> <WikiTitleID>10601510</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Uruguay</WikiTitle> <WikiTitleID>8629677</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Uruguay</WikiTitle> <WikiTitleID>459356</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Uruguay</WikiTitle> <WikiTitleID>31851</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1930_FIFA_World_Cup</WikiTitle> <WikiTitleID>59707</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_Uruguay</WikiTitle> <WikiTitleID>18102794</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Uruguay</WikiTitle> <WikiTitleID>409133</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Uruguay</WikiTitle> <WikiTitleID>31852</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguayan_cuisine</WikiTitle> <WikiTitleID>10423540</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hinduism_in_South_America</WikiTitle> <WikiTitleID>819663</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Uruguay</WikiTitle> <WikiTitleID>31847</WikiTitleID> <RankerScore>0.034904900689415076</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chile</EntitySurfaceForm>
+	<EntityTextStart>654</EntityTextStart>
+	<EntityTextEnd>659</EntityTextEnd>
+	<LinkerScore>0.8989293923920483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chile</WikiTitle>
+		<WikiTitleID>5489</WikiTitleID>
+		<RankerScore>0.25169530228771303</RankerScore>
+		<Attributes>state	country	colony	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chile</WikiTitle> <WikiTitleID>5489</WikiTitleID> <RankerScore>0.25169530228771303</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_football_team</WikiTitle> <WikiTitleID>697710</WikiTitleID> <RankerScore>0.08966151010353922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_rugby_union_team</WikiTitle> <WikiTitleID>6527686</WikiTitleID> <RankerScore>0.0822478935177097</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_wine</WikiTitle> <WikiTitleID>521306</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_basketball_team</WikiTitle> <WikiTitleID>4116669</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_Davis_Cup_team</WikiTitle> <WikiTitleID>9656926</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_national_cricket_team</WikiTitle> <WikiTitleID>6736738</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Chile</WikiTitle> <WikiTitleID>9264170</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Chile</WikiTitle> <WikiTitleID>5490</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Chile</WikiTitle> <WikiTitleID>5496</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Chile</WikiTitle> <WikiTitleID>2811465</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dingling</WikiTitle> <WikiTitleID>2651325</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antártica</WikiTitle> <WikiTitleID>8260404</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_under_Pinochet</WikiTitle> <WikiTitleID>1107462</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Chile</WikiTitle> <WikiTitleID>9843042</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chile_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>923283</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Primera_División_de_Chile</WikiTitle> <WikiTitleID>5220049</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Air_Force</WikiTitle> <WikiTitleID>4533723</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Chile</WikiTitle> <WikiTitleID>5497</WikiTitleID> <RankerScore>0.033905605534766944</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bolivia</EntitySurfaceForm>
+	<EntityTextStart>754</EntityTextStart>
+	<EntityTextEnd>761</EntityTextEnd>
+	<LinkerScore>1.5333909614499353</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bolivia</WikiTitle>
+		<WikiTitleID>3462</WikiTitleID>
+		<RankerScore>0.32252020355287564</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bolivia</WikiTitle> <WikiTitleID>3462</WikiTitleID> <RankerScore>0.32252020355287564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia_national_football_team</WikiTitle> <WikiTitleID>1014785</WikiTitleID> <RankerScore>0.04070793573935129</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia_(film)</WikiTitle> <WikiTitleID>9215002</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Bolivia</WikiTitle> <WikiTitleID>42393</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_North_Carolina</WikiTitle> <WikiTitleID>127698</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transportation_in_Bolivia</WikiTitle> <WikiTitleID>69016</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Bolivia</WikiTitle> <WikiTitleID>9925103</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Bolivia</WikiTitle> <WikiTitleID>69017</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_New_South_Wales</WikiTitle> <WikiTitleID>14354953</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_privatization_in_Bolivia</WikiTitle> <WikiTitleID>17047679</WikiTitleID> <RankerScore>0.05311625015934661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Bolivia</WikiTitle> <WikiTitleID>188806</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Bolivia</WikiTitle> <WikiTitleID>409081</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rail_transport_in_Bolivia</WikiTitle> <WikiTitleID>18403709</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Bolivia</WikiTitle> <WikiTitleID>333494</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electricity_sector_in_Bolivia</WikiTitle> <WikiTitleID>13344815</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_de_Fútbol_Profesional_Boliviano</WikiTitle> <WikiTitleID>3287979</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivian_peso</WikiTitle> <WikiTitleID>1822469</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Bolivia</WikiTitle> <WikiTitleID>670485</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolivia,_Cuba</WikiTitle> <WikiTitleID>13599932</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Bolivia</WikiTitle> <WikiTitleID>10910526</WikiTitleID> <RankerScore>0.03433268297343685</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Latin</EntitySurfaceForm>
+	<EntityTextStart>774</EntityTextStart>
+	<EntityTextEnd>779</EntityTextEnd>
+	<LinkerScore>0.16545210310782021</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin</WikiTitle>
+		<WikiTitleID>17730</WikiTitleID>
+		<RankerScore>0.13349568351842478</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin</WikiTitle> <WikiTitleID>17730</WikiTitleID> <RankerScore>0.13349568351842478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_alphabet</WikiTitle> <WikiTitleID>18306</WikiTitleID> <RankerScore>0.042404863460296864</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latins</WikiTitle> <WikiTitleID>50996</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Rite</WikiTitle> <WikiTitleID>104458</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_literature</WikiTitle> <WikiTitleID>18058</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.10184101791191284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecclesiastical_Latin</WikiTitle> <WikiTitleID>631821</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Church</WikiTitle> <WikiTitleID>606848</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medieval_Latin</WikiTitle> <WikiTitleID>898044</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Empire</WikiTitle> <WikiTitleID>174215</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulgar_Latin</WikiTitle> <WikiTitleID>51962</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Europe</WikiTitle> <WikiTitleID>956277</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gaj&apos;s_Latin_Alphabet</WikiTitle> <WikiTitleID>1430156</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latium</WikiTitle> <WikiTitleID>7408972</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vulgate</WikiTitle> <WikiTitleID>32576</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_Jazz</WikiTitle> <WikiTitleID>285709</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_grammar</WikiTitle> <WikiTitleID>147176</WikiTitleID> <RankerScore>0.04248579030055091</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Latin American</EntitySurfaceForm>
+	<EntityTextStart>774</EntityTextStart>
+	<EntityTextEnd>788</EntityTextEnd>
+	<LinkerScore>0.8389203951789521</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin_America</WikiTitle>
+		<WikiTitleID>18524</WikiTitleID>
+		<RankerScore>0.26262404441383413</RankerScore>
+		<Attributes>classification	region	dispute	study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.26262404441383413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Britons</WikiTitle> <WikiTitleID>11634440</WikiTitleID> <RankerScore>0.09382096383937075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_cuisine</WikiTitle> <WikiTitleID>524651</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Canadian</WikiTitle> <WikiTitleID>1939405</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afro-Latin_American</WikiTitle> <WikiTitleID>637348</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.10977178164101514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_culture</WikiTitle> <WikiTitleID>5679416</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_literature</WikiTitle> <WikiTitleID>5042758</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispanic_and_Latino_Americans</WikiTitle> <WikiTitleID>1007667</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.048525746373252736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American summit</EntitySurfaceForm>
+	<EntityTextStart>780</EntityTextStart>
+	<EntityTextEnd>795</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>American_Summit</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>780</EntityTextStart>
+	<EntityTextEnd>788</EntityTextEnd>
+	<LinkerScore>1.0185590646237828</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latin_America</WikiTitle>
+		<WikiTitleID>18524</WikiTitleID>
+		<RankerScore>0.2665369746610985</RankerScore>
+		<Attributes>classification	region	dispute	study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latin_America</WikiTitle> <WikiTitleID>18524</WikiTitleID> <RankerScore>0.2665369746610985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_music</WikiTitle> <WikiTitleID>58895</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Britons</WikiTitle> <WikiTitleID>11634440</WikiTitleID> <RankerScore>0.10137182685321822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_cuisine</WikiTitle> <WikiTitleID>524651</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latino_(demonym)</WikiTitle> <WikiTitleID>18522</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_Canadian</WikiTitle> <WikiTitleID>1939405</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Afro-Latin_American</WikiTitle> <WikiTitleID>637348</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_America</WikiTitle> <WikiTitleID>26769</WikiTitleID> <RankerScore>0.10727714359265297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_dance</WikiTitle> <WikiTitleID>365974</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_culture</WikiTitle> <WikiTitleID>5679416</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_language</WikiTitle> <WikiTitleID>26825</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latin_American_literature</WikiTitle> <WikiTitleID>5042758</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hispanic_and_Latino_Americans</WikiTitle> <WikiTitleID>1007667</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>White_Latin_American</WikiTitle> <WikiTitleID>9052729</WikiTitleID> <RankerScore>0.04771036862663911</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>summit meeting</EntitySurfaceForm>
+	<EntityTextStart>789</EntityTextStart>
+	<EntityTextEnd>803</EntityTextEnd>
+	<LinkerScore>0.7462957002905706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Summit_(meeting)</WikiTitle>
+		<WikiTitleID>3271361</WikiTitleID>
+		<RankerScore>0.6730272954093688</RankerScore>
+		<Attributes>conference	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Summit_(meeting)</WikiTitle> <WikiTitleID>3271361</WikiTitleID> <RankerScore>0.6730272954093688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharm_el-Sheikh_Summit_of_2005</WikiTitle> <WikiTitleID>1490480</WikiTitleID> <RankerScore>0.3269727045906312</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Cochabamba</EntitySurfaceForm>
+	<EntityTextStart>819</EntityTextStart>
+	<EntityTextEnd>829</EntityTextEnd>
+	<LinkerScore>1.2078200643811128</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cochabamba</WikiTitle>
+		<WikiTitleID>872602</WikiTitleID>
+		<RankerScore>0.5110309509879731</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cochabamba</WikiTitle> <WikiTitleID>872602</WikiTitleID> <RankerScore>0.5110309509879731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cochabamba_Department</WikiTitle> <WikiTitleID>696897</WikiTitleID> <RankerScore>0.19882455646849856</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Cochabamba</WikiTitle> <WikiTitleID>15864911</WikiTitleID> <RankerScore>0.12564803349631765</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cochabamba_protests_of_2000</WikiTitle> <WikiTitleID>194732</WikiTitleID> <RankerScore>0.1644964590472106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Honduras</EntitySurfaceForm>
+	<EntityTextStart>858</EntityTextStart>
+	<EntityTextEnd>866</EntityTextEnd>
+	<LinkerScore>1.24068703039187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Honduras</WikiTitle>
+		<WikiTitleID>13394</WikiTitleID>
+		<RankerScore>0.32595132431551704</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Honduras</WikiTitle> <WikiTitleID>13394</WikiTitleID> <RankerScore>0.32595132431551704</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honduras_national_football_team</WikiTitle> <WikiTitleID>1013983</WikiTitleID> <RankerScore>0.04357551304130331</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_Nacional_de_Fútbol_de_Honduras</WikiTitle> <WikiTitleID>3419975</WikiTitleID> <RankerScore>0.0340718106082103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Honduras</WikiTitle> <WikiTitleID>13401</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Honduras</WikiTitle> <WikiTitleID>9283249</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Honduras</WikiTitle> <WikiTitleID>409263</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Honduras</WikiTitle> <WikiTitleID>13395</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_of_Honduras</WikiTitle> <WikiTitleID>330153</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Honduras</WikiTitle> <WikiTitleID>10137487</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Honduras</WikiTitle> <WikiTitleID>476095</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Honduras</WikiTitle> <WikiTitleID>322792</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Honduras</WikiTitle> <WikiTitleID>13398</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Honduras</WikiTitle> <WikiTitleID>10907890</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Honduras</WikiTitle> <WikiTitleID>317686</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Golden_Pheasant</WikiTitle> <WikiTitleID>252169</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honduran_cuisine</WikiTitle> <WikiTitleID>6071264</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electricity_sector_in_Honduras</WikiTitle> <WikiTitleID>12075090</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Honduras</WikiTitle> <WikiTitleID>459121</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Honduras</WikiTitle> <WikiTitleID>442902</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>El_Salvador_national_football_team</WikiTitle> <WikiTitleID>1017349</WikiTitleID> <RankerScore>0.03508243247264526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Guatemala</EntitySurfaceForm>
+	<EntityTextStart>871</EntityTextStart>
+	<EntityTextEnd>880</EntityTextEnd>
+	<LinkerScore>1.2680307184375084</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Guatemala</WikiTitle>
+		<WikiTitleID>17238567</WikiTitleID>
+		<RankerScore>0.4067232622875183</RankerScore>
+		<Attributes>state	country	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Guatemala</WikiTitle> <WikiTitleID>17238567</WikiTitleID> <RankerScore>0.4067232622875183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemala_national_football_team</WikiTitle> <WikiTitleID>1027828</WikiTitleID> <RankerScore>0.04089627568289979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemala_(department)</WikiTitle> <WikiTitleID>732881</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemala_City</WikiTitle> <WikiTitleID>11874</WikiTitleID> <RankerScore>0.03629356623028335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Guatemala</WikiTitle> <WikiTitleID>12163</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Liga_Nacional_de_Guatemala</WikiTitle> <WikiTitleID>5327528</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Captaincy_General_of_Guatemala</WikiTitle> <WikiTitleID>3821440</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemala_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>927715</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rail_transport_in_Guatemala</WikiTitle> <WikiTitleID>5322409</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Guatemala</WikiTitle> <WikiTitleID>12157</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Guatemala</WikiTitle> <WikiTitleID>271994</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Guatemala</WikiTitle> <WikiTitleID>9642630</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Guatemala</WikiTitle> <WikiTitleID>1437898</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Guatemala</WikiTitle> <WikiTitleID>396654</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Guatemala</WikiTitle> <WikiTitleID>449861</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemalan_Air_Force</WikiTitle> <WikiTitleID>4139762</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Guatemala</WikiTitle> <WikiTitleID>322791</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Guatemala</WikiTitle> <WikiTitleID>12319455</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Guatemala</WikiTitle> <WikiTitleID>12160</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guatemala_at_the_1968_Summer_Olympics</WikiTitle> <WikiTitleID>7786076</WikiTitleID> <RankerScore>0.03035805269407639</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

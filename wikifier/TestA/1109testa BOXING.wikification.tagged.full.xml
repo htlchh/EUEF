@@ -1,0 +1,577 @@
+<WikifierOutput>
+<InputFilename>
+1109testa BOXING
+</InputFilename>
+<InputText>
+BOXING- KNOCK-OUT SPECIALIST MILLER DEFENDS TITLE.
+DUBLIN 1996-08-31
+A powerful right hook followed by a straight left gave defending champion Nate Miller a seventh round knock-out win over fellow American James Heath in their WBA cruiserweight title bout on Saturday.
+Miller, who went into the contest with a record of 24 knock-out wins in 32 fights, took charge from the opening bell and had his opponent on the canvas inside 90 seconds when he landed a deft left-hook to the head.
+Heath did score with two brusing lefts to Miller&apos;s head in the third round but failed to put his opponent under any real pressure.
+Miller raised the pace of the contest at the start of the fifth round and, once he started to get his right-left combinations working for him, the fight was never likely to go the distance.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>MILLER</EntitySurfaceForm>
+	<EntityTextStart>29</EntityTextStart>
+	<EntityTextEnd>35</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miller</WikiTitle>
+		<WikiTitleID>2159644</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DUBLIN</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>57</EntityTextEnd>
+	<LinkerScore>0.6729085780346411</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dublin</WikiTitle>
+		<WikiTitleID>8504</WikiTitleID>
+		<RankerScore>0.10491605928964617</RankerScore>
+		<Attributes>place	capital	establishment	city	town	port</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dublin</WikiTitle> <WikiTitleID>8504</WikiTitleID> <RankerScore>0.10491605928964617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_GAA</WikiTitle> <WikiTitleID>2759665</WikiTitleID> <RankerScore>0.06553517213547132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_California</WikiTitle> <WikiTitleID>107333</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Ohio</WikiTitle> <WikiTitleID>150896</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Georgia</WikiTitle> <WikiTitleID>110212</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Dublin</WikiTitle> <WikiTitleID>6514</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_New_Hampshire</WikiTitle> <WikiTitleID>124537</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Airport</WikiTitle> <WikiTitleID>293794</WikiTitleID> <RankerScore>0.05027664021002423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Dublin</WikiTitle> <WikiTitleID>145190</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>2855251</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Perth,_Ontario</WikiTitle> <WikiTitleID>8163046</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Texas</WikiTitle> <WikiTitleID>135851</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Pennsylvania</WikiTitle> <WikiTitleID>131518</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Virginia</WikiTitle> <WikiTitleID>137735</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Dublin</WikiTitle> <WikiTitleID>1450475</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Indiana</WikiTitle> <WikiTitleID>112683</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Port</WikiTitle> <WikiTitleID>961047</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Paterson</WikiTitle> <WikiTitleID>8684391</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_North_Carolina</WikiTitle> <WikiTitleID>127678</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Dublin</WikiTitle> <WikiTitleID>8624259</WikiTitleID> <RankerScore>0.045839536962638726</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hook</EntitySurfaceForm>
+	<EntityTextStart>86</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>0.39589942750992435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hook_(boxing)</WikiTitle>
+		<WikiTitleID>1532790</WikiTitleID>
+		<RankerScore>0.1558500386632116</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hook_(music)</WikiTitle> <WikiTitleID>830002</WikiTitleID> <RankerScore>0.12510786920893552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hook_(boxing)</WikiTitle> <WikiTitleID>1532790</WikiTitleID> <RankerScore>0.1558500386632116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fish_hook</WikiTitle> <WikiTitleID>989954</WikiTitleID> <RankerScore>0.08220973549142613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hook_(diacritic)</WikiTitle> <WikiTitleID>1933157</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Narrative_hook</WikiTitle> <WikiTitleID>4751502</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hooking</WikiTitle> <WikiTitleID>2953077</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transradial_prosthesis</WikiTitle> <WikiTitleID>5781771</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hook_(rhetoric)</WikiTitle> <WikiTitleID>3083756</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prosthesis</WikiTitle> <WikiTitleID>72750</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ankus</WikiTitle> <WikiTitleID>2046473</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Crochet_hook</WikiTitle> <WikiTitleID>601997</WikiTitleID> <RankerScore>0.07960404457955335</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>straight left</EntitySurfaceForm>
+	<EntityTextStart>105</EntityTextStart>
+	<EntityTextEnd>118</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Straight_Left</WikiTitle>
+		<WikiTitleID>2671233</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>newspaper</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nate Miller</EntitySurfaceForm>
+	<EntityTextStart>143</EntityTextStart>
+	<EntityTextEnd>154</EntityTextEnd>
+	<LinkerScore>0.9871064938699724</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nate_Miller</WikiTitle>
+		<WikiTitleID>6647379</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nate_Miller</WikiTitle> <WikiTitleID>6647379</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>knock-out</EntitySurfaceForm>
+	<EntityTextStart>171</EntityTextStart>
+	<EntityTextEnd>180</EntityTextEnd>
+	<LinkerScore>0.3127825033000531</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knockout</WikiTitle>
+		<WikiTitleID>17163</WikiTitleID>
+		<RankerScore>0.396874331581884</RankerScore>
+		<Attributes>terms	rule</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Single-elimination_tournament</WikiTitle> <WikiTitleID>939680</WikiTitleID> <RankerScore>0.272784869546477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knockout</WikiTitle> <WikiTitleID>17163</WikiTitleID> <RankerScore>0.396874331581884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gene_knockout</WikiTitle> <WikiTitleID>89242</WikiTitleID> <RankerScore>0.16625555163022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wagar_Women&apos;s_Knockout_Teams</WikiTitle> <WikiTitleID>12758751</WikiTitleID> <RankerScore>0.16408524724141904</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>197</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>0.5926451568841999</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.13045891364502357</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.13045891364502357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.05207787312881598</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.045921318936490235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.045384817311157066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>James Heath</EntitySurfaceForm>
+	<EntityTextStart>206</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>0.3604951281862273</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>James_Heath_(film_director)</WikiTitle>
+		<WikiTitleID>5683318</WikiTitleID>
+		<RankerScore>0.36976591728006225</RankerScore>
+		<Attributes>director	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Heath_(golfer)</WikiTitle> <WikiTitleID>12362202</WikiTitleID> <RankerScore>0.3194867245422776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(engraver)</WikiTitle> <WikiTitleID>11250781</WikiTitleID> <RankerScore>0.31074735817766014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(film_director)</WikiTitle> <WikiTitleID>5683318</WikiTitleID> <RankerScore>0.36976591728006225</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heath</EntitySurfaceForm>
+	<EntityTextStart>212</EntityTextStart>
+	<EntityTextEnd>217</EntityTextEnd>
+	<LinkerScore>0.212440342912024</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>James_Heath_(film_director)</WikiTitle>
+		<WikiTitleID>5683318</WikiTitleID>
+		<RankerScore>0.34662013997112495</RankerScore>
+		<Attributes>director	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Heath_(golfer)</WikiTitle> <WikiTitleID>12362202</WikiTitleID> <RankerScore>0.3384240667803894</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(engraver)</WikiTitle> <WikiTitleID>11250781</WikiTitleID> <RankerScore>0.31495579324848555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(film_director)</WikiTitle> <WikiTitleID>5683318</WikiTitleID> <RankerScore>0.34662013997112495</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBA</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>1.0875898611316401</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Association</WikiTitle>
+		<WikiTitleID>93469</WikiTitleID>
+		<RankerScore>0.5058111984072474</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Association</WikiTitle> <WikiTitleID>93469</WikiTitleID> <RankerScore>0.5058111984072474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Bromwich_Albion_F.C.</WikiTitle> <WikiTitleID>33921</WikiTitleID> <RankerScore>0.12824072437964143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Band_Association</WikiTitle> <WikiTitleID>4791897</WikiTitleID> <RankerScore>0.12432394046834731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_Association</WikiTitle> <WikiTitleID>4435865</WikiTitleID> <RankerScore>0.12081206837238195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_League</WikiTitle> <WikiTitleID>1761128</WikiTitleID> <RankerScore>0.12081206837238195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cruiserweight</EntitySurfaceForm>
+	<EntityTextStart>231</EntityTextStart>
+	<EntityTextEnd>244</EntityTextEnd>
+	<LinkerScore>-0.234977504840812</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cruiserweight_(professional_wrestling)</WikiTitle>
+		<WikiTitleID>2051166</WikiTitleID>
+		<RankerScore>0.5344422832543123</RankerScore>
+		<Attributes>genre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cruiserweight_(professional_wrestling)</WikiTitle> <WikiTitleID>2051166</WikiTitleID> <RankerScore>0.5344422832543123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WWE_Cruiserweight_Championship</WikiTitle> <WikiTitleID>866616</WikiTitleID> <RankerScore>0.4655577167456878</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>knock-out</EntitySurfaceForm>
+	<EntityTextStart>323</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>0.48313433007434287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Knockout</WikiTitle>
+		<WikiTitleID>17163</WikiTitleID>
+		<RankerScore>0.5472568058341153</RankerScore>
+		<Attributes>terms	rule</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Single-elimination_tournament</WikiTitle> <WikiTitleID>939680</WikiTitleID> <RankerScore>0.21557531033190264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knockout</WikiTitle> <WikiTitleID>17163</WikiTitleID> <RankerScore>0.5472568058341153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gene_knockout</WikiTitle> <WikiTitleID>89242</WikiTitleID> <RankerScore>0.11776845276513055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wagar_Women&apos;s_Knockout_Teams</WikiTitle> <WikiTitleID>12758751</WikiTitleID> <RankerScore>0.11939943106885165</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bell</EntitySurfaceForm>
+	<EntityTextStart>381</EntityTextStart>
+	<EntityTextEnd>385</EntityTextEnd>
+	<LinkerScore>0.6097962285629137</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bell_(instrument)</WikiTitle>
+		<WikiTitleID>761242</WikiTitleID>
+		<RankerScore>0.14597625803097677</RankerScore>
+		<Attributes>invention	instrument</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bell_(instrument)</WikiTitle> <WikiTitleID>761242</WikiTitleID> <RankerScore>0.14597625803097677</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Church_bell</WikiTitle> <WikiTitleID>978064</WikiTitleID> <RankerScore>0.08030284412553461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wind_instrument</WikiTitle> <WikiTitleID>33829</WikiTitleID> <RankerScore>0.06630289151260242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ship&apos;s_bell</WikiTitle> <WikiTitleID>274908</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bell_tower</WikiTitle> <WikiTitleID>611249</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tubular_bell</WikiTitle> <WikiTitleID>166362</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bell_character</WikiTitle> <WikiTitleID>1340559</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Handbell</WikiTitle> <WikiTitleID>978074</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stethoscope</WikiTitle> <WikiTitleID>28714</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nozzle</WikiTitle> <WikiTitleID>316824</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diving_bell</WikiTitle> <WikiTitleID>654092</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campanology</WikiTitle> <WikiTitleID>277014</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Altar_bell</WikiTitle> <WikiTitleID>3001973</WikiTitleID> <RankerScore>0.07074180063308862</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>canvas</EntitySurfaceForm>
+	<EntityTextStart>414</EntityTextStart>
+	<EntityTextEnd>420</EntityTextEnd>
+	<LinkerScore>0.5627514570319374</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Canvas</WikiTitle>
+		<WikiTitleID>72903</WikiTitleID>
+		<RankerScore>0.3672240389877925</RankerScore>
+		<Attributes>material	fabric</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Canvas</WikiTitle> <WikiTitleID>72903</WikiTitleID> <RankerScore>0.3672240389877925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canvas_print</WikiTitle> <WikiTitleID>7695637</WikiTitleID> <RankerScore>0.12763692092017975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canvas_(HTML_element)</WikiTitle> <WikiTitleID>3065894</WikiTitleID> <RankerScore>0.12546681159974923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boxing_ring</WikiTitle> <WikiTitleID>69190</WikiTitleID> <RankerScore>0.1287386052927801</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canvassing</WikiTitle> <WikiTitleID>731254</WikiTitleID> <RankerScore>0.12546681159974923</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fine_art</WikiTitle> <WikiTitleID>90317</WikiTitleID> <RankerScore>0.12546681159974923</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deft</EntitySurfaceForm>
+	<EntityTextStart>456</EntityTextStart>
+	<EntityTextEnd>460</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>USS_Deft_(AM-216)</WikiTitle>
+		<WikiTitleID>12282777</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>minesweeper	ship	vessel</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heath</EntitySurfaceForm>
+	<EntityTextStart>484</EntityTextStart>
+	<EntityTextEnd>489</EntityTextEnd>
+	<LinkerScore>-0.23343065339016889</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Heath,_Cardiff</WikiTitle>
+		<WikiTitleID>847255</WikiTitleID>
+		<RankerScore>0.06410414085147075</RankerScore>
+		<Attributes>district	politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edward_Heath</WikiTitle> <WikiTitleID>52269</WikiTitleID> <RankerScore>0.05552368590068302</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Cardiff</WikiTitle> <WikiTitleID>847255</WikiTitleID> <RankerScore>0.06410414085147075</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath</WikiTitle> <WikiTitleID>326118</WikiTitleID> <RankerScore>0.050303025986967134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Ohio</WikiTitle> <WikiTitleID>129519</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Massachusetts</WikiTitle> <WikiTitleID>116773</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Derbyshire</WikiTitle> <WikiTitleID>3600238</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath_(habitat)</WikiTitle> <WikiTitleID>461082</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Texas</WikiTitle> <WikiTitleID>136532</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath_(musician)</WikiTitle> <WikiTitleID>2712446</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heathkit</WikiTitle> <WikiTitleID>618552</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath_Shaw</WikiTitle> <WikiTitleID>4134461</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Indiana</WikiTitle> <WikiTitleID>7345729</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lincoln_Cliff</WikiTitle> <WikiTitleID>1730114</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jimmy_Heath</WikiTitle> <WikiTitleID>793333</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath_River</WikiTitle> <WikiTitleID>1892564</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lewis_Heath</WikiTitle> <WikiTitleID>3808200</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ericaceae</WikiTitle> <WikiTitleID>9555</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Erica</WikiTitle> <WikiTitleID>326115</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heath,_Alabama</WikiTitle> <WikiTitleID>104600</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adrian_Heath</WikiTitle> <WikiTitleID>5271577</WikiTitleID> <RankerScore>0.04882759689769877</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

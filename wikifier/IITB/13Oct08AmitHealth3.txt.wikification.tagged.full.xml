@@ -1,0 +1,2754 @@
+<WikifierOutput>
+<InputFilename>
+13Oct08AmitHealth3.txt
+</InputFilename>
+<InputText>
+The Care of Rheumatoid Arthritis
+
+The various forms of arthritis are each painful and debilitating. Although arthritis is often attributed to aging, certain types of it can occur at any age. Since this disease attacks the joints of the body, the agility and mobility of the patient is threatened. The pain becomes difficult to manage, and, as it progesses, it can have a major impact on quality of life and even extend so far as to cause physical deformity.
+
+The type of arthritis known as rheumatoid arthritis is a disease of the immune system. It most often affects the hands of the patient. Rheumatoid arthritis causes severe inflammation of the joints, leading to great pain. In addition to experiencing great pain, sufferers of this type of arthritis often exhibit deformity of the hands and fingers. The patient will lose normal manual function, since the disease affects both hands at the same time.
+
+In a more generic sense, arthritis simply refers to inflammation of the joints. In the case of rheumatoid arthritis, the linings of these joints become inflamed, which causes cartilage to be destroyed when the linings become overgrown, ultimately eroding the joints. It is this very characteristic that causes the crippling deformities to the fingers and hands.
+
+Though vast numbers of people suffer from all types of arthritis, those people diagnosed with rheumatoid arthritis comprise only 1% of the population. This terrible disease affects women much more frequently than men and there is, so far, no known cure for rheumatoid arthritis. The only treatment at this point is managing the pain. Doctors can prescribe various pain relief remedies, depending upon the patient&apos;s medical history, overall profile and other related factors.
+
+One of the most common treatments is oral medications to control the swelling and thereby reduce the pain associated with rheumatoid arthritis. Braces or splints may be prescribed to provide support to weakened joints and to remove the excess pressure. If none of these treatments provide relief, surgery may be performed, especially in the more serious cases. This will reduce pain and swelling and improve mobility. The three types of surgery commonly used are T synovectomy, osteomoty or joint replacement.
+
+When diagnosed early enough, there are many steps that can be used to reduce pain and the other consequences of this type of arthritis. So, even though there~s no known cure, if one experiences pain, swelling, or diminished use of the hands, one should contact a doctor immediately. A plan can be outlined to reduce pain, and prepare for future surgery.
+
+No-one should have to live with pain of arthritis, now that so much progress has been made in the field of pain management. The first steps in managing the pain may be as simple as common aspirin or other medications. If they do not work, a doctor will then prescribe medication that specifically targets arthritis pain. But before that can happen,there has to be open communication between the doctor and the patient regarding the pain early in the treatment. So, it is not advisable to suffer quietly in this case.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Rheumatoid Arthritis</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>32</EntityTextEnd>
+	<LinkerScore>1.1057187010323257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Arthritis</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>32</EntityTextEnd>
+	<LinkerScore>1.155244012663974</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>55</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>0.4909899841415502</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.5765711765792073</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.5765711765792073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.4234288234207927</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>109</EntityTextStart>
+	<EntityTextEnd>118</EntityTextEnd>
+	<LinkerScore>0.6074234973924406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6119208538818309</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6119208538818309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.38807914611816907</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>disease</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>209</EntityTextEnd>
+	<LinkerScore>1.0782204652158645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.20531982790221956</RankerScore>
+		<Attributes>terms	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.20531982790221956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06522122466023428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_peanut_diseases</WikiTitle> <WikiTitleID>9018416</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_grape_diseases</WikiTitle> <WikiTitleID>9019611</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heart_disease</WikiTitle> <WikiTitleID>69276</WikiTitleID> <RankerScore>0.061604914487650535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plague_of_Athens</WikiTitle> <WikiTitleID>1858051</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoonosis</WikiTitle> <WikiTitleID>34439</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leprosy</WikiTitle> <WikiTitleID>44700</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parkinson&apos;s_disease</WikiTitle> <WikiTitleID>6302185</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buerger&apos;s_disease</WikiTitle> <WikiTitleID>1081829</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_disorder</WikiTitle> <WikiTitleID>12437</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amyotrophic_lateral_sclerosis</WikiTitle> <WikiTitleID>175637</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illness</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_elm_diseases</WikiTitle> <WikiTitleID>9020199</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poliomyelitis</WikiTitle> <WikiTitleID>25107</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_medicine</WikiTitle> <WikiTitleID>32654</WikiTitleID> <RankerScore>0.03928553134999386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>0.5334034322974068</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.36115443054988106</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.36115443054988106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.06940443348270647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.1769059069448081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.06542253817043406</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>agility</EntitySurfaceForm>
+	<EntityTextStart>246</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>0.29796001758193347</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Agility</WikiTitle>
+		<WikiTitleID>4015896</WikiTitleID>
+		<RankerScore>0.5943692867937519</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Agility</WikiTitle> <WikiTitleID>4015896</WikiTitleID> <RankerScore>0.5943692867937519</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dog_agility</WikiTitle> <WikiTitleID>442499</WikiTitleID> <RankerScore>0.4056307132062481</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>301</EntityTextStart>
+	<EntityTextEnd>305</EntityTextEnd>
+	<LinkerScore>0.9414618660111468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.3958595929101517</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.3958595929101517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.113117722020171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.07104633061828232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.052497044306424365</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deformity</EntitySurfaceForm>
+	<EntityTextStart>447</EntityTextStart>
+	<EntityTextEnd>456</EntityTextEnd>
+	<LinkerScore>1.0256946961115836</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deformity</WikiTitle>
+		<WikiTitleID>749788</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>syndrome</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deformity</WikiTitle> <WikiTitleID>749788</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>471</EntityTextStart>
+	<EntityTextEnd>480</EntityTextEnd>
+	<LinkerScore>0.5739176725916538</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.5873063540784933</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.5873063540784933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.4126936459215066</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>490</EntityTextStart>
+	<EntityTextEnd>510</EntityTextEnd>
+	<LinkerScore>1.2539932788309864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>501</EntityTextStart>
+	<EntityTextEnd>510</EntityTextEnd>
+	<LinkerScore>0.5148934791593176</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.5598644157301282</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.5598644157301282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.44013558426987187</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>disease</EntitySurfaceForm>
+	<EntityTextStart>516</EntityTextStart>
+	<EntityTextEnd>523</EntityTextEnd>
+	<LinkerScore>1.157807214886296</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.23803943435028435</RankerScore>
+		<Attributes>terms	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.23803943435028435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06280835660878897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_peanut_diseases</WikiTitle> <WikiTitleID>9018416</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_grape_diseases</WikiTitle> <WikiTitleID>9019611</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heart_disease</WikiTitle> <WikiTitleID>69276</WikiTitleID> <RankerScore>0.07721473567915894</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plague_of_Athens</WikiTitle> <WikiTitleID>1858051</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoonosis</WikiTitle> <WikiTitleID>34439</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leprosy</WikiTitle> <WikiTitleID>44700</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parkinson&apos;s_disease</WikiTitle> <WikiTitleID>6302185</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buerger&apos;s_disease</WikiTitle> <WikiTitleID>1081829</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_disorder</WikiTitle> <WikiTitleID>12437</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amyotrophic_lateral_sclerosis</WikiTitle> <WikiTitleID>175637</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illness</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_elm_diseases</WikiTitle> <WikiTitleID>9020199</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poliomyelitis</WikiTitle> <WikiTitleID>25107</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_medicine</WikiTitle> <WikiTitleID>32654</WikiTitleID> <RankerScore>0.03658455725657457</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>immune system</EntitySurfaceForm>
+	<EntityTextStart>531</EntityTextStart>
+	<EntityTextEnd>544</EntityTextEnd>
+	<LinkerScore>0.332090160582718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Autoimmunity</WikiTitle>
+		<WikiTitleID>93842</WikiTitleID>
+		<RankerScore>0.5202898556274339</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Immune_system</WikiTitle> <WikiTitleID>14958</WikiTitleID> <RankerScore>0.3534107281200944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunity_(medical)</WikiTitle> <WikiTitleID>298547</WikiTitleID> <RankerScore>0.0581176375982526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunodeficiency</WikiTitle> <WikiTitleID>629684</WikiTitleID> <RankerScore>0.06818177865421908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Autoimmunity</WikiTitle> <WikiTitleID>93842</WikiTitleID> <RankerScore>0.5202898556274339</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>594</EntityTextStart>
+	<EntityTextEnd>614</EntityTextEnd>
+	<LinkerScore>1.1327653377521403</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>2.5788484278178534</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>605</EntityTextStart>
+	<EntityTextEnd>614</EntityTextEnd>
+	<LinkerScore>0.8730229879348159</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.7256283234205331</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.7256283234205331</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.2743716765794669</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>inflammation</EntitySurfaceForm>
+	<EntityTextStart>629</EntityTextStart>
+	<EntityTextEnd>641</EntityTextEnd>
+	<LinkerScore>1.1770614938127442</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inflammation</WikiTitle>
+		<WikiTitleID>70425</WikiTitleID>
+		<RankerScore>0.7629270362392903</RankerScore>
+		<Attributes>inflammation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inflammation</WikiTitle> <WikiTitleID>70425</WikiTitleID> <RankerScore>0.7629270362392903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allergic_inflammation</WikiTitle> <WikiTitleID>6862956</WikiTitleID> <RankerScore>0.13941786618998242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Esophagitis</WikiTitle> <WikiTitleID>197010</WikiTitleID> <RankerScore>0.09765509757072742</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>649</EntityTextStart>
+	<EntityTextEnd>655</EntityTextEnd>
+	<LinkerScore>0.3716738975208349</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.3575845811969405</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.3575845811969405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.05992145097573902</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.2496199374458011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.05547900506358657</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>674</EntityTextStart>
+	<EntityTextEnd>678</EntityTextEnd>
+	<LinkerScore>1.3055381009888196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.4765720814316785</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.4765720814316785</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.09831721975787235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04018963567756634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.10359361338991838</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>714</EntityTextStart>
+	<EntityTextEnd>718</EntityTextEnd>
+	<LinkerScore>1.2123115102473863</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.45448661907138466</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.45448661907138466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.10591141191201915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.040654269136386104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.11436781592550742</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>746</EntityTextStart>
+	<EntityTextEnd>755</EntityTextEnd>
+	<LinkerScore>0.8378887574377185</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6640786243888631</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6640786243888631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.33592137561113683</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deformity</EntitySurfaceForm>
+	<EntityTextStart>770</EntityTextStart>
+	<EntityTextEnd>779</EntityTextEnd>
+	<LinkerScore>1.0197660630678653</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deformity</WikiTitle>
+		<WikiTitleID>749788</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>syndrome</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deformity</WikiTitle> <WikiTitleID>749788</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>disease</EntitySurfaceForm>
+	<EntityTextStart>862</EntityTextStart>
+	<EntityTextEnd>869</EntityTextEnd>
+	<LinkerScore>1.3730502976898844</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.24701858988135653</RankerScore>
+		<Attributes>terms	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.24701858988135653</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06124713894524999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_peanut_diseases</WikiTitle> <WikiTitleID>9018416</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_grape_diseases</WikiTitle> <WikiTitleID>9019611</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heart_disease</WikiTitle> <WikiTitleID>69276</WikiTitleID> <RankerScore>0.05058813612003592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plague_of_Athens</WikiTitle> <WikiTitleID>1858051</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoonosis</WikiTitle> <WikiTitleID>34439</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leprosy</WikiTitle> <WikiTitleID>44700</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parkinson&apos;s_disease</WikiTitle> <WikiTitleID>6302185</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buerger&apos;s_disease</WikiTitle> <WikiTitleID>1081829</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_disorder</WikiTitle> <WikiTitleID>12437</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amyotrophic_lateral_sclerosis</WikiTitle> <WikiTitleID>175637</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illness</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_elm_diseases</WikiTitle> <WikiTitleID>9020199</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poliomyelitis</WikiTitle> <WikiTitleID>25107</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_medicine</WikiTitle> <WikiTitleID>32654</WikiTitleID> <RankerScore>0.037714478532550444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>933</EntityTextStart>
+	<EntityTextEnd>942</EntityTextEnd>
+	<LinkerScore>0.7973338326053101</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6881343645310486</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6881343645310486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.3118656354689514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>inflammation</EntitySurfaceForm>
+	<EntityTextStart>960</EntityTextStart>
+	<EntityTextEnd>972</EntityTextEnd>
+	<LinkerScore>0.9991422611723891</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inflammation</WikiTitle>
+		<WikiTitleID>70425</WikiTitleID>
+		<RankerScore>0.6788397099576967</RankerScore>
+		<Attributes>inflammation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Inflammation</WikiTitle> <WikiTitleID>70425</WikiTitleID> <RankerScore>0.6788397099576967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Allergic_inflammation</WikiTitle> <WikiTitleID>6862956</WikiTitleID> <RankerScore>0.18563154193523937</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Esophagitis</WikiTitle> <WikiTitleID>197010</WikiTitleID> <RankerScore>0.13552874810706397</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>980</EntityTextStart>
+	<EntityTextEnd>986</EntityTextEnd>
+	<LinkerScore>0.42916593948484016</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.3508812044038443</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.3508812044038443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.06508093034390797</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.2166763283678162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.06122692281407192</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>1003</EntityTextStart>
+	<EntityTextEnd>1023</EntityTextEnd>
+	<LinkerScore>1.1755532690216413</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>1014</EntityTextStart>
+	<EntityTextEnd>1023</EntityTextEnd>
+	<LinkerScore>0.8844040772935717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.7122312121966988</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.7122312121966988</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.28776878780330123</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>1046</EntityTextStart>
+	<EntityTextEnd>1052</EntityTextEnd>
+	<LinkerScore>0.5707273384560327</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.3759092734661268</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.3759092734661268</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.0661592394651461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.18282616508929203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.06251755366323918</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cartilage</EntitySurfaceForm>
+	<EntityTextStart>1083</EntityTextStart>
+	<EntityTextEnd>1092</EntityTextEnd>
+	<LinkerScore>1.0379947904334785</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cartilage</WikiTitle>
+		<WikiTitleID>166945</WikiTitleID>
+		<RankerScore>0.5256820258991391</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cartilage</WikiTitle> <WikiTitleID>166945</WikiTitleID> <RankerScore>0.5256820258991391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hyaline_cartilage</WikiTitle> <WikiTitleID>1130627</WikiTitleID> <RankerScore>0.1570097901500857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shark_cartilage</WikiTitle> <WikiTitleID>3854512</WikiTitleID> <RankerScore>0.15478062675470838</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Endochondral_ossification</WikiTitle> <WikiTitleID>1311158</WikiTitleID> <RankerScore>0.1625275571960667</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>overgrown</EntitySurfaceForm>
+	<EntityTextStart>1133</EntityTextStart>
+	<EntityTextEnd>1142</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Overgrown</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>1167</EntityTextStart>
+	<EntityTextEnd>1173</EntityTextEnd>
+	<LinkerScore>0.8377373374542212</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.3612846309860841</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.3612846309860841</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.07556656490229635</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.13544720408414643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.07128360000457885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>deformities</EntitySurfaceForm>
+	<EntityTextStart>1232</EntityTextStart>
+	<EntityTextEnd>1243</EntityTextEnd>
+	<LinkerScore>0.3359983695456751</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Deformity</WikiTitle>
+		<WikiTitleID>749788</WikiTitleID>
+		<RankerScore>0.5162624096498455</RankerScore>
+		<Attributes>syndrome</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Deformity</WikiTitle> <WikiTitleID>749788</WikiTitleID> <RankerScore>0.5162624096498455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teratology</WikiTitle> <WikiTitleID>223011</WikiTitleID> <RankerScore>0.2894703635997668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Congenital_disorder</WikiTitle> <WikiTitleID>321263</WikiTitleID> <RankerScore>0.19426722675038785</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vast</EntitySurfaceForm>
+	<EntityTextStart>1278</EntityTextStart>
+	<EntityTextEnd>1282</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>VAST</WikiTitle>
+		<WikiTitleID>192573</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>1326</EntityTextStart>
+	<EntityTextEnd>1335</EntityTextEnd>
+	<LinkerScore>0.46852095016703094</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.5733710055362676</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.5733710055362676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.4266289944637323</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>1365</EntityTextStart>
+	<EntityTextEnd>1385</EntityTextEnd>
+	<LinkerScore>1.1978440025463042</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>1376</EntityTextStart>
+	<EntityTextEnd>1385</EntityTextEnd>
+	<LinkerScore>0.6392789212318152</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6191475286552045</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6191475286552045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.3808524713447955</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>population</EntitySurfaceForm>
+	<EntityTextStart>1410</EntityTextStart>
+	<EntityTextEnd>1420</EntityTextEnd>
+	<LinkerScore>0.5758100811887792</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Population</WikiTitle>
+		<WikiTitleID>22949</WikiTitleID>
+		<RankerScore>0.11567370849307322</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Population</WikiTitle> <WikiTitleID>22949</WikiTitleID> <RankerScore>0.11567370849307322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statistical_population</WikiTitle> <WikiTitleID>27585</WikiTitleID> <RankerScore>0.055140041720619065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_countries_by_population</WikiTitle> <WikiTitleID>69058</WikiTitleID> <RankerScore>0.044957769631973246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_genetics</WikiTitle> <WikiTitleID>219268</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_population</WikiTitle> <WikiTitleID>524595</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Fiji</WikiTitle> <WikiTitleID>54574</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_dynamics</WikiTitle> <WikiTitleID>501466</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography_of_Slough</WikiTitle> <WikiTitleID>8688690</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_U.S._states_by_population</WikiTitle> <WikiTitleID>87525</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Overpopulation</WikiTitle> <WikiTitleID>4599275</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_growth</WikiTitle> <WikiTitleID>940606</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Iran</WikiTitle> <WikiTitleID>64699</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Romania</WikiTitle> <WikiTitleID>25638</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mean_center_of_United_States_population</WikiTitle> <WikiTitleID>391548</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_France</WikiTitle> <WikiTitleID>67475</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demography</WikiTitle> <WikiTitleID>45642</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Population_ecology</WikiTitle> <WikiTitleID>1156819</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Bhutan</WikiTitle> <WikiTitleID>69003</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Tonga</WikiTitle> <WikiTitleID>30161</WikiTitleID> <RankerScore>0.046131087067902025</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>disease</EntitySurfaceForm>
+	<EntityTextStart>1436</EntityTextStart>
+	<EntityTextEnd>1443</EntityTextEnd>
+	<LinkerScore>1.4225415707133764</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disease</WikiTitle>
+		<WikiTitleID>8072</WikiTitleID>
+		<RankerScore>0.25497216026957503</RankerScore>
+		<Attributes>terms	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Disease</WikiTitle> <WikiTitleID>8072</WikiTitleID> <RankerScore>0.25497216026957503</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Infectious_disease</WikiTitle> <WikiTitleID>14795</WikiTitleID> <RankerScore>0.06062304000584849</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_pathology</WikiTitle> <WikiTitleID>147484</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_disease</WikiTitle> <WikiTitleID>889672</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diseases_of_the_honey_bee</WikiTitle> <WikiTitleID>222937</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_peanut_diseases</WikiTitle> <WikiTitleID>9018416</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_grape_diseases</WikiTitle> <WikiTitleID>9019611</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heart_disease</WikiTitle> <WikiTitleID>69276</WikiTitleID> <RankerScore>0.05377096887919877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plague_of_Athens</WikiTitle> <WikiTitleID>1858051</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zoonosis</WikiTitle> <WikiTitleID>34439</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leprosy</WikiTitle> <WikiTitleID>44700</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parkinson&apos;s_disease</WikiTitle> <WikiTitleID>6302185</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buerger&apos;s_disease</WikiTitle> <WikiTitleID>1081829</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_disorder</WikiTitle> <WikiTitleID>12437</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Amyotrophic_lateral_sclerosis</WikiTitle> <WikiTitleID>175637</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illness</WikiTitle> <WikiTitleID>240401</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_elm_diseases</WikiTitle> <WikiTitleID>9020199</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poliomyelitis</WikiTitle> <WikiTitleID>25107</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_medicine</WikiTitle> <WikiTitleID>32654</WikiTitleID> <RankerScore>0.03709610769678692</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>frequently</EntitySurfaceForm>
+	<EntityTextStart>1468</EntityTextStart>
+	<EntityTextEnd>1478</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Frequentative</WikiTitle>
+		<WikiTitleID>213274</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>aspect	type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>1528</EntityTextStart>
+	<EntityTextEnd>1548</EntityTextEnd>
+	<LinkerScore>1.1835354508701836</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>1539</EntityTextStart>
+	<EntityTextEnd>1548</EntityTextEnd>
+	<LinkerScore>0.680411895125315</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6511534306935376</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6511534306935376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.34884656930646235</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>1599</EntityTextStart>
+	<EntityTextEnd>1603</EntityTextEnd>
+	<LinkerScore>0.8234706866611036</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.38446196826842094</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.38446196826842094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.13866151258986695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.1484365447439775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.04105499679971682</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Doctors</EntitySurfaceForm>
+	<EntityTextStart>1605</EntityTextStart>
+	<EntityTextEnd>1612</EntityTextEnd>
+	<LinkerScore>0.17940744518799237</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.19324560021947015</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Doctors_(2000_TV_series)</WikiTitle> <WikiTitleID>146307</WikiTitleID> <RankerScore>0.16780771320886625</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.117802762994316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctors_(novel)</WikiTitle> <WikiTitleID>2360481</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(Doctor_Who)</WikiTitle> <WikiTitleID>959699</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Doctors_(1969_TV_series)</WikiTitle> <WikiTitleID>4468144</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.19324560021947015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychologist</WikiTitle> <WikiTitleID>72132</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>0.07444913193962108</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain relief</EntitySurfaceForm>
+	<EntityTextStart>1635</EntityTextStart>
+	<EntityTextEnd>1646</EntityTextEnd>
+	<LinkerScore>0.18248715640753052</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Analgesic</WikiTitle>
+		<WikiTitleID>2246</WikiTitleID>
+		<RankerScore>0.6027831965223232</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.39721680347767685</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.6027831965223232</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>1635</EntityTextStart>
+	<EntityTextEnd>1639</EntityTextEnd>
+	<LinkerScore>0.8816269823093786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.41794398078358064</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.41794398078358064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.09835383862039823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.14230596113879662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.04267452743215305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>medical history</EntitySurfaceForm>
+	<EntityTextStart>1686</EntityTextStart>
+	<EntityTextEnd>1701</EntityTextEnd>
+	<LinkerScore>0.911824931676283</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medical_history</WikiTitle>
+		<WikiTitleID>1616002</WikiTitleID>
+		<RankerScore>0.7283472123363747</RankerScore>
+		<Attributes>terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medical_history</WikiTitle> <WikiTitleID>1616002</WikiTitleID> <RankerScore>0.7283472123363747</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_medicine</WikiTitle> <WikiTitleID>14194</WikiTitleID> <RankerScore>0.27165278766362544</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>oral medications</EntitySurfaceForm>
+	<EntityTextStart>1784</EntityTextStart>
+	<EntityTextEnd>1800</EntityTextEnd>
+	<LinkerScore>0.9478063512858547</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Anti-diabetic_drug</WikiTitle>
+		<WikiTitleID>253721</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Anti-diabetic_drug</WikiTitle> <WikiTitleID>253721</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>swelling</EntitySurfaceForm>
+	<EntityTextStart>1816</EntityTextStart>
+	<EntityTextEnd>1824</EntityTextEnd>
+	<LinkerScore>0.4789461222646329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inflammation</WikiTitle>
+		<WikiTitleID>70425</WikiTitleID>
+		<RankerScore>0.3023322928384528</RankerScore>
+		<Attributes>inflammation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edema</WikiTitle> <WikiTitleID>70426</WikiTitleID> <RankerScore>0.21163295946110317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swelling_(medical)</WikiTitle> <WikiTitleID>3417527</WikiTitleID> <RankerScore>0.19603840578053772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inflammation</WikiTitle> <WikiTitleID>70425</WikiTitleID> <RankerScore>0.3023322928384528</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_edema</WikiTitle> <WikiTitleID>378518</WikiTitleID> <RankerScore>0.09666544730663544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neutron-induced_swelling</WikiTitle> <WikiTitleID>2079223</WikiTitleID> <RankerScore>0.09666544730663544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hematoma</WikiTitle> <WikiTitleID>684811</WikiTitleID> <RankerScore>0.09666544730663544</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>1848</EntityTextStart>
+	<EntityTextEnd>1852</EntityTextEnd>
+	<LinkerScore>1.0676279988352873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.45068178408395126</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.45068178408395126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.11898828723863952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.12138295624239322</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.038618371554377</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>rheumatoid arthritis</EntitySurfaceForm>
+	<EntityTextStart>1869</EntityTextStart>
+	<EntityTextEnd>1889</EntityTextEnd>
+	<LinkerScore>1.1884431445374248</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rheumatoid_arthritis</WikiTitle>
+		<WikiTitleID>25875</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>1880</EntityTextStart>
+	<EntityTextEnd>1889</EntityTextEnd>
+	<LinkerScore>0.7553927549270156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.669071847818096</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.669071847818096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.330928152181904</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Braces</EntitySurfaceForm>
+	<EntityTextStart>1891</EntityTextStart>
+	<EntityTextEnd>1897</EntityTextEnd>
+	<LinkerScore>-0.17820745685895809</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Braces_(sailing)</WikiTitle>
+		<WikiTitleID>3058160</WikiTitleID>
+		<RankerScore>0.3734837284339746</RankerScore>
+		<Attributes>rig	terms</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Braces_(sailing)</WikiTitle> <WikiTitleID>3058160</WikiTitleID> <RankerScore>0.3734837284339746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_braces</WikiTitle> <WikiTitleID>902683</WikiTitleID> <RankerScore>0.3326600714959965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suspenders</WikiTitle> <WikiTitleID>701780</WikiTitleID> <RankerScore>0.2938562000700289</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>splints</EntitySurfaceForm>
+	<EntityTextStart>1901</EntityTextStart>
+	<EntityTextEnd>1908</EntityTextEnd>
+	<LinkerScore>1.1419592511029886</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Splint_(medicine)</WikiTitle>
+		<WikiTitleID>711783</WikiTitleID>
+		<RankerScore>0.7724981388697629</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Splint_(medicine)</WikiTitle> <WikiTitleID>711783</WikiTitleID> <RankerScore>0.7724981388697629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Splints</WikiTitle> <WikiTitleID>2286865</WikiTitleID> <RankerScore>0.2275018611302372</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joints</EntitySurfaceForm>
+	<EntityTextStart>1958</EntityTextStart>
+	<EntityTextEnd>1964</EntityTextEnd>
+	<LinkerScore>0.6564895790417002</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint</WikiTitle>
+		<WikiTitleID>210242</WikiTitleID>
+		<RankerScore>0.3235957006943806</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint</WikiTitle> <WikiTitleID>210242</WikiTitleID> <RankerScore>0.3235957006943806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(cannabis)</WikiTitle> <WikiTitleID>28562</WikiTitleID> <RankerScore>0.07638121883026891</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(geology)</WikiTitle> <WikiTitleID>3893437</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Woodworking_joints</WikiTitle> <WikiTitleID>113266</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cannabis_(drug)</WikiTitle> <WikiTitleID>1481886</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kinematic_pair</WikiTitle> <WikiTitleID>9536676</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arthralgia</WikiTitle> <WikiTitleID>380239</WikiTitleID> <RankerScore>0.16726837079350212</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Joint_(building)</WikiTitle> <WikiTitleID>10694483</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Universal_joint</WikiTitle> <WikiTitleID>144948</WikiTitleID> <RankerScore>0.07212578494697472</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>2044</EntityTextStart>
+	<EntityTextEnd>2051</EntityTextEnd>
+	<LinkerScore>1.35820398303683</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.25470662884664047</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.25470662884664047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>0.050603684110062705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.0598882531346615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgeon</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>0.03734126081815502</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2125</EntityTextStart>
+	<EntityTextEnd>2129</EntityTextEnd>
+	<LinkerScore>1.1353037191020185</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.45525428108748484</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.45525428108748484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.08401969187401453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.1220785355623524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.042330936434518525</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>swelling</EntitySurfaceForm>
+	<EntityTextStart>2134</EntityTextStart>
+	<EntityTextEnd>2142</EntityTextEnd>
+	<LinkerScore>0.15683964652532645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Inflammation</WikiTitle>
+		<WikiTitleID>70425</WikiTitleID>
+		<RankerScore>0.259069425618135</RankerScore>
+		<Attributes>inflammation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Edema</WikiTitle> <WikiTitleID>70426</WikiTitleID> <RankerScore>0.23804971635079275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swelling_(medical)</WikiTitle> <WikiTitleID>3417527</WikiTitleID> <RankerScore>0.20681922238751427</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inflammation</WikiTitle> <WikiTitleID>70425</WikiTitleID> <RankerScore>0.259069425618135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_edema</WikiTitle> <WikiTitleID>378518</WikiTitleID> <RankerScore>0.09868721188118602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neutron-induced_swelling</WikiTitle> <WikiTitleID>2079223</WikiTitleID> <RankerScore>0.09868721188118602</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hematoma</WikiTitle> <WikiTitleID>684811</WikiTitleID> <RankerScore>0.09868721188118602</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>2184</EntityTextStart>
+	<EntityTextEnd>2191</EntityTextEnd>
+	<LinkerScore>0.986616685418599</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.2130557460678788</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.2130557460678788</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>0.05285032559788093</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.06868177217237711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgeon</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>0.03914189153893313</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>synovectomy</EntitySurfaceForm>
+	<EntityTextStart>2212</EntityTextStart>
+	<EntityTextEnd>2223</EntityTextEnd>
+	<LinkerScore>0.9851387256185641</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Synovectomy</WikiTitle>
+		<WikiTitleID>9300815</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>procedure</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Synovectomy</WikiTitle> <WikiTitleID>9300815</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>joint replacement</EntitySurfaceForm>
+	<EntityTextStart>2238</EntityTextStart>
+	<EntityTextEnd>2255</EntityTextEnd>
+	<LinkerScore>1.009251579805063</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Joint_replacement</WikiTitle>
+		<WikiTitleID>2867638</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>technique</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Joint_replacement</WikiTitle> <WikiTitleID>2867638</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2335</EntityTextStart>
+	<EntityTextEnd>2339</EntityTextEnd>
+	<LinkerScore>0.9049564778057314</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.3745721906342037</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.3745721906342037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.09666428299384089</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.14401958810574197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.04809299228327667</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>2383</EntityTextStart>
+	<EntityTextEnd>2392</EntityTextEnd>
+	<LinkerScore>0.8894410869192109</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6923926996602151</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6923926996602151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.30760730033978484</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2452</EntityTextStart>
+	<EntityTextEnd>2456</EntityTextEnd>
+	<LinkerScore>1.281804168356281</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.47114980225237163</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.47114980225237163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.09379083771085697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.06733088050273547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.04596605994175449</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>doctor</EntitySurfaceForm>
+	<EntityTextStart>2521</EntityTextStart>
+	<EntityTextEnd>2527</EntityTextEnd>
+	<LinkerScore>0.10709949689585682</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Physician</WikiTitle>
+		<WikiTitleID>23315</WikiTitleID>
+		<RankerScore>0.1823218075175221</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.1823218075175221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>0.066129351239624</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_the_Church</WikiTitle> <WikiTitleID>340345</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.14023362259817226</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shamanism</WikiTitle> <WikiTitleID>26861</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Sacred_Theology</WikiTitle> <WikiTitleID>2997522</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Philosophy</WikiTitle> <WikiTitleID>8775</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Obstetrics</WikiTitle> <WikiTitleID>52965</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Divinity</WikiTitle> <WikiTitleID>569138</WikiTitleID> <RankerScore>0.06792391318274241</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2574</EntityTextStart>
+	<EntityTextEnd>2578</EntityTextEnd>
+	<LinkerScore>0.8581093429161609</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.3614990359588346</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.3614990359588346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.1048509513178584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.14619132603175164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.048432335836444414</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>surgery</EntitySurfaceForm>
+	<EntityTextStart>2603</EntityTextStart>
+	<EntityTextEnd>2610</EntityTextEnd>
+	<LinkerScore>1.4315996253495193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Surgery</WikiTitle>
+		<WikiTitleID>45599</WikiTitleID>
+		<RankerScore>0.221868575055812</RankerScore>
+		<Attributes>obstetrics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Surgery</WikiTitle> <WikiTitleID>45599</WikiTitleID> <RankerScore>0.221868575055812</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery</WikiTitle> <WikiTitleID>82385</WikiTitleID> <RankerScore>0.05186843802715433</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurosurgery</WikiTitle> <WikiTitleID>21848</WikiTitleID> <RankerScore>0.05527171648217917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_theory</WikiTitle> <WikiTitleID>5961115</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_John_surgery</WikiTitle> <WikiTitleID>306900</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Surgery_(politics)</WikiTitle> <WikiTitleID>1797711</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intersex_surgery</WikiTitle> <WikiTitleID>927942</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eye_surgery</WikiTitle> <WikiTitleID>587878</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(female-to-male)</WikiTitle> <WikiTitleID>627972</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_intersex_surgery</WikiTitle> <WikiTitleID>928084</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Breast_implant</WikiTitle> <WikiTitleID>4892591</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colectomy</WikiTitle> <WikiTitleID>1883708</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coronary_artery_bypass_surgery</WikiTitle> <WikiTitleID>195248</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lung_cancer_surgery</WikiTitle> <WikiTitleID>11957814</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Corneal_transplantation</WikiTitle> <WikiTitleID>1425134</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Veterinary_surgeon</WikiTitle> <WikiTitleID>495575</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dental_surgery</WikiTitle> <WikiTitleID>982883</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_reassignment_surgery_(male-to-female)</WikiTitle> <WikiTitleID>627982</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Decortication</WikiTitle> <WikiTitleID>1582910</WikiTitleID> <RankerScore>0.03947007473146203</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2645</EntityTextStart>
+	<EntityTextEnd>2649</EntityTextEnd>
+	<LinkerScore>1.1256978207185497</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.404295657855333</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.404295657855333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.10633753522426799</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04621706693961161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.11963027140350611</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>2653</EntityTextStart>
+	<EntityTextEnd>2662</EntityTextEnd>
+	<LinkerScore>0.9501605912095106</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.7099806750112523</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.7099806750112523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.29001932498874766</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain management</EntitySurfaceForm>
+	<EntityTextStart>2720</EntityTextStart>
+	<EntityTextEnd>2735</EntityTextEnd>
+	<LinkerScore>1.146667741127235</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain_management</WikiTitle>
+		<WikiTitleID>417111</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>specialty</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2720</EntityTextStart>
+	<EntityTextEnd>2724</EntityTextEnd>
+	<LinkerScore>0.46930007701595977</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.32649950525393423</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.32649950525393423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.11960686029710865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.15948076240327527</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.04930160900571023</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2769</EntityTextStart>
+	<EntityTextEnd>2773</EntityTextEnd>
+	<LinkerScore>0.4654772957380199</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.3123404260647584</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.3123404260647584</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.1148303545999855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.18549796641384003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.048416406615177016</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>aspirin</EntitySurfaceForm>
+	<EntityTextStart>2801</EntityTextStart>
+	<EntityTextEnd>2808</EntityTextEnd>
+	<LinkerScore>1.0848304982840657</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aspirin</WikiTitle>
+		<WikiTitleID>1525</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>medicine	ester	drug	acid</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aspirin</WikiTitle> <WikiTitleID>1525</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>doctor</EntitySurfaceForm>
+	<EntityTextStart>2854</EntityTextStart>
+	<EntityTextEnd>2860</EntityTextEnd>
+	<LinkerScore>0.3528169376284221</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Physician</WikiTitle>
+		<WikiTitleID>23315</WikiTitleID>
+		<RankerScore>0.18799046014893073</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.18799046014893073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>0.06976841012851681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_the_Church</WikiTitle> <WikiTitleID>340345</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.14173319383291474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shamanism</WikiTitle> <WikiTitleID>26861</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Sacred_Theology</WikiTitle> <WikiTitleID>2997522</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Philosophy</WikiTitle> <WikiTitleID>8775</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Obstetrics</WikiTitle> <WikiTitleID>52965</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Divinity</WikiTitle> <WikiTitleID>569138</WikiTitleID> <RankerScore>0.06672310398773752</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>medication</EntitySurfaceForm>
+	<EntityTextStart>2881</EntityTextStart>
+	<EntityTextEnd>2891</EntityTextEnd>
+	<LinkerScore>1.462901413380988</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medication</WikiTitle>
+		<WikiTitleID>180121</WikiTitleID>
+		<RankerScore>0.5562696525987446</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medication</WikiTitle> <WikiTitleID>180121</WikiTitleID> <RankerScore>0.5562696525987446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_medication</WikiTitle> <WikiTitleID>57762</WikiTitleID> <RankerScore>0.12312369207681038</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenazepam</WikiTitle> <WikiTitleID>8218169</WikiTitleID> <RankerScore>0.0914862894095612</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychoactive_drug</WikiTitle> <WikiTitleID>87887</WikiTitleID> <RankerScore>0.13763407650532253</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-diabetic_drug</WikiTitle> <WikiTitleID>253721</WikiTitleID> <RankerScore>0.0914862894095612</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>arthritis</EntitySurfaceForm>
+	<EntityTextStart>2918</EntityTextStart>
+	<EntityTextEnd>2927</EntityTextEnd>
+	<LinkerScore>0.8868737642260118</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arthritis</WikiTitle>
+		<WikiTitleID>1776</WikiTitleID>
+		<RankerScore>0.6917249526839243</RankerScore>
+		<Attributes>disorder	inflammation	disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Arthritis</WikiTitle> <WikiTitleID>1776</WikiTitleID> <RankerScore>0.6917249526839243</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rheumatoid_arthritis</WikiTitle> <WikiTitleID>25875</WikiTitleID> <RankerScore>0.30827504731607563</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>2928</EntityTextStart>
+	<EntityTextEnd>2932</EntityTextEnd>
+	<LinkerScore>0.8663030681405411</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.38176745156087566</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.38176745156087566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.09898749302977193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.1518473060115833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.045924718674721136</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>communication</EntitySurfaceForm>
+	<EntityTextStart>2982</EntityTextStart>
+	<EntityTextEnd>2995</EntityTextEnd>
+	<LinkerScore>0.39959232447112375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Communication</WikiTitle>
+		<WikiTitleID>5177</WikiTitleID>
+		<RankerScore>0.09981626035805714</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Communication</WikiTitle> <WikiTitleID>5177</WikiTitleID> <RankerScore>0.09981626035805714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.04731988705978483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animal_communication</WikiTitle> <WikiTitleID>464447</WikiTitleID> <RankerScore>0.04735685221182329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_studies</WikiTitle> <WikiTitleID>489145</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interpersonal_communication</WikiTitle> <WikiTitleID>228052</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_communications</WikiTitle> <WikiTitleID>2023546</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mass_media</WikiTitle> <WikiTitleID>19641</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communications_satellite</WikiTitle> <WikiTitleID>45207</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_networking</WikiTitle> <WikiTitleID>5652</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inter-process_communication</WikiTitle> <WikiTitleID>152106</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cat_communication</WikiTitle> <WikiTitleID>5741167</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Information_communication_technology</WikiTitle> <WikiTitleID>295257</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communications_in_Iran</WikiTitle> <WikiTitleID>64706</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neurotransmission</WikiTitle> <WikiTitleID>2918988</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstellar_communication</WikiTitle> <WikiTitleID>203883</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unconscious_communication</WikiTitle> <WikiTitleID>709227</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transmission_(telecommunications)</WikiTitle> <WikiTitleID>609152</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organizational_communication</WikiTitle> <WikiTitleID>228053</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.047382764727666754</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>doctor</EntitySurfaceForm>
+	<EntityTextStart>3008</EntityTextStart>
+	<EntityTextEnd>3014</EntityTextEnd>
+	<LinkerScore>0.7529345812449035</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Physician</WikiTitle>
+		<WikiTitleID>23315</WikiTitleID>
+		<RankerScore>0.22655334850598086</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.22655334850598086</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctorate</WikiTitle> <WikiTitleID>188886</WikiTitleID> <RankerScore>0.06436055722709795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_(title)</WikiTitle> <WikiTitleID>8881</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_the_Church</WikiTitle> <WikiTitleID>340345</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.11935990459551432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Shamanism</WikiTitle> <WikiTitleID>26861</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Sacred_Theology</WikiTitle> <WikiTitleID>2997522</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>General_practitioner</WikiTitle> <WikiTitleID>197817</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Philosophy</WikiTitle> <WikiTitleID>8775</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Obstetrics</WikiTitle> <WikiTitleID>52965</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Divinity</WikiTitle> <WikiTitleID>569138</WikiTitleID> <RankerScore>0.06552513218571188</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pain</EntitySurfaceForm>
+	<EntityTextStart>3045</EntityTextStart>
+	<EntityTextEnd>3049</EntityTextEnd>
+	<LinkerScore>0.8238224247516092</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pain</WikiTitle>
+		<WikiTitleID>24373</WikiTitleID>
+		<RankerScore>0.3632206573271605</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pain</WikiTitle> <WikiTitleID>24373</WikiTitleID> <RankerScore>0.3632206573271605</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suffering</WikiTitle> <WikiTitleID>206583</WikiTitleID> <RankerScore>0.11358166396870882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analgesic</WikiTitle> <WikiTitleID>2246</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abdominal_pain</WikiTitle> <WikiTitleID>593703</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dukkha</WikiTitle> <WikiTitleID>8702</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_management</WikiTitle> <WikiTitleID>417111</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociceptor</WikiTitle> <WikiTitleID>569879</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nociception</WikiTitle> <WikiTitleID>21781</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chronic_pain</WikiTitle> <WikiTitleID>144837</WikiTitleID> <RankerScore>0.14180385578847166</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pain_(philosophy)</WikiTitle> <WikiTitleID>477012</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Back_pain</WikiTitle> <WikiTitleID>153807</WikiTitleID> <RankerScore>0.047674227864457366</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

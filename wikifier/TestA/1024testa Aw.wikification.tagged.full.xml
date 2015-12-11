@@ -1,0 +1,564 @@
+<WikifierOutput>
+<InputFilename>
+1024testa Aw
+</InputFilename>
+<InputText>
+Aw Computer Systems Inc Q2 loss widens.
+NEW YORK 1996-08-30
+1996 1995
+Shr loss$ 0.22 loss$ 0.07
+Net loss 1,071 loss 277
+Revs 130 1,279
+Avg shrs 4,841 3,990
+First Half
+Shr loss$ 0.42 loss$ 0.21
+Net loss 1,967 loss 841
+Revs 476 2,253
+Avg shrs 4,666 3,944( All Data Above 000s Except Per Share Numbers)-- New York Newsdesk 212-859-1610.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Computer Systems Inc</EntitySurfaceForm>
+	<EntityTextStart>3</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>0.9266013219092438</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer</WikiTitle>
+		<WikiTitleID>7878457</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>computer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer</WikiTitle> <WikiTitleID>7878457</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Computer Systems</EntitySurfaceForm>
+	<EntityTextStart>3</EntityTextStart>
+	<EntityTextEnd>19</EntityTextEnd>
+	<LinkerScore>0.9266013219092438</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Computer</WikiTitle>
+		<WikiTitleID>7878457</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>computer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Computer</WikiTitle> <WikiTitleID>7878457</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>40</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.3693719156687125</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.11597796673900425</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.11597796673900425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.05676338649973662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.05176669684811088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1996</EntitySurfaceForm>
+	<EntityTextStart>60</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>1.0084253661504607</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1996</WikiTitle>
+		<WikiTitleID>34636</WikiTitleID>
+		<RankerScore>0.11106078537336057</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1996</WikiTitle> <WikiTitleID>34636</WikiTitleID> <RankerScore>0.11106078537336057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_film</WikiTitle> <WikiTitleID>169568</WikiTitleID> <RankerScore>0.05690505160644281</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_music</WikiTitle> <WikiTitleID>160807</WikiTitleID> <RankerScore>0.0531074219842975</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_literature</WikiTitle> <WikiTitleID>190198</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_video_gaming</WikiTitle> <WikiTitleID>1322992</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_Summer_Olympics</WikiTitle> <WikiTitleID>72311</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_sports</WikiTitle> <WikiTitleID>224726</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_NFL_season</WikiTitle> <WikiTitleID>2338868</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_baseball</WikiTitle> <WikiTitleID>2019478</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_comics</WikiTitle> <WikiTitleID>917032</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_in_poetry</WikiTitle> <WikiTitleID>5513001</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1996</WikiTitle> <WikiTitleID>1341472</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1996</WikiTitle> <WikiTitleID>32077</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995–96_NHL_season</WikiTitle> <WikiTitleID>1880859</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_general_election,_1996</WikiTitle> <WikiTitleID>536679</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Euro_1996</WikiTitle> <WikiTitleID>555876</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1996</WikiTitle> <WikiTitleID>5848231</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108305</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_CFL_season</WikiTitle> <WikiTitleID>2784372</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1996_Grand_Prix_motorcycle_racing_season</WikiTitle> <WikiTitleID>8081476</WikiTitleID> <RankerScore>0.04581922006093524</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1995</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>69</EntityTextEnd>
+	<LinkerScore>0.8254223873687251</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1995</WikiTitle>
+		<WikiTitleID>34658</WikiTitleID>
+		<RankerScore>0.10648142206574877</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1995</WikiTitle> <WikiTitleID>34658</WikiTitleID> <RankerScore>0.10648142206574877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_film</WikiTitle> <WikiTitleID>169220</WikiTitleID> <RankerScore>0.05631957114228678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_music</WikiTitle> <WikiTitleID>160806</WikiTitleID> <RankerScore>0.06619000759619133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_literature</WikiTitle> <WikiTitleID>190200</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_video_gaming</WikiTitle> <WikiTitleID>1322994</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_sports</WikiTitle> <WikiTitleID>224727</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_baseball</WikiTitle> <WikiTitleID>1959238</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_NFL_season</WikiTitle> <WikiTitleID>2338992</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_poetry</WikiTitle> <WikiTitleID>5513010</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_comics</WikiTitle> <WikiTitleID>11915556</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994–95_NHL_season</WikiTitle> <WikiTitleID>1882030</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_CFL_season</WikiTitle> <WikiTitleID>2785676</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_Rugby_World_Cup</WikiTitle> <WikiTitleID>526056</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1995</WikiTitle> <WikiTitleID>5834357</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_NHL_Entry_Draft</WikiTitle> <WikiTitleID>2886617</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>335538</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_NASCAR</WikiTitle> <WikiTitleID>11474567</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_World_Championships_in_Athletics</WikiTitle> <WikiTitleID>775979</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1995_in_aviation</WikiTitle> <WikiTitleID>566629</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Brunswick_general_election,_1995</WikiTitle> <WikiTitleID>1081562</WikiTitleID> <RankerScore>0.04535347054092782</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>277</EntitySurfaceForm>
+	<EntityTextStart>116</EntityTextStart>
+	<EntityTextEnd>119</EntityTextEnd>
+	<LinkerScore>-0.14144146494528517</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>277</WikiTitle>
+		<WikiTitleID>43752</WikiTitleID>
+		<RankerScore>0.21882142249995096</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>277</WikiTitle> <WikiTitleID>43752</WikiTitleID> <RankerScore>0.21882142249995096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Route_277</WikiTitle> <WikiTitleID>903330</WikiTitleID> <RankerScore>0.13916659138538384</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>277_(number)</WikiTitle> <WikiTitleID>5931368</WikiTitleID> <RankerScore>0.14705054054858335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>277_BC</WikiTitle> <WikiTitleID>73118</WikiTitleID> <RankerScore>0.12374036139152049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_277</WikiTitle> <WikiTitleID>14340067</WikiTitleID> <RankerScore>0.12374036139152049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_State_Route_277</WikiTitle> <WikiTitleID>4688455</WikiTitleID> <RankerScore>0.12374036139152049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_277</WikiTitle> <WikiTitleID>3263233</WikiTitleID> <RankerScore>0.12374036139152049</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Revs</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>124</EntityTextEnd>
+	<LinkerScore>0.637697236603992</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Revs_(Graffiti_Artist)</WikiTitle>
+		<WikiTitleID>17278893</WikiTitleID>
+		<RankerScore>0.4886950652159276</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Revs_(Graffiti_Artist)</WikiTitle> <WikiTitleID>17278893</WikiTitleID> <RankerScore>0.4886950652159276</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Revs_(video_game)</WikiTitle> <WikiTitleID>4424935</WikiTitleID> <RankerScore>0.27280213002605597</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geoff_Crammond</WikiTitle> <WikiTitleID>1113270</WikiTitleID> <RankerScore>0.2385028047580165</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Half</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>166</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>One_half</WikiTitle>
+		<WikiTitleID>464963</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>numbers</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>841</EntitySurfaceForm>
+	<EntityTextStart>213</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>0.15650844034677833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>841</WikiTitle>
+		<WikiTitleID>35769</WikiTitleID>
+		<RankerScore>0.40922308112694455</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>841</WikiTitle> <WikiTitleID>35769</WikiTitleID> <RankerScore>0.40922308112694455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>841_in_Ireland</WikiTitle> <WikiTitleID>10245952</WikiTitleID> <RankerScore>0.21068253723267094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>840s_BC</WikiTitle> <WikiTitleID>55500</WikiTitleID> <RankerScore>0.17410236474374155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_841</WikiTitle> <WikiTitleID>1601994</WikiTitleID> <RankerScore>0.205992016896643</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Revs</EntitySurfaceForm>
+	<EntityTextStart>217</EntityTextStart>
+	<EntityTextEnd>221</EntityTextEnd>
+	<LinkerScore>0.6366046106781077</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Revs_(Graffiti_Artist)</WikiTitle>
+		<WikiTitleID>17278893</WikiTitleID>
+		<RankerScore>0.48966899166060474</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Revs_(Graffiti_Artist)</WikiTitle> <WikiTitleID>17278893</WikiTitleID> <RankerScore>0.48966899166060474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Revs_(video_game)</WikiTitle> <WikiTitleID>4424935</WikiTitleID> <RankerScore>0.27228250036766266</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Geoff_Crammond</WikiTitle> <WikiTitleID>1113270</WikiTitleID> <RankerScore>0.23804850797173255</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>476</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>225</EntityTextEnd>
+	<LinkerScore>0.3292027758327287</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>476</WikiTitle>
+		<WikiTitleID>34915</WikiTitleID>
+		<RankerScore>0.3140247575527952</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>476</WikiTitle> <WikiTitleID>34915</WikiTitleID> <RankerScore>0.3140247575527952</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>476_BC</WikiTitle> <WikiTitleID>70870</WikiTitleID> <RankerScore>0.13341844735882424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Interstate_476</WikiTitle> <WikiTitleID>1817510</WikiTitleID> <RankerScore>0.14624479907643254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_476</WikiTitle> <WikiTitleID>12266190</WikiTitleID> <RankerScore>0.13543733200398267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_476</WikiTitle> <WikiTitleID>4154021</WikiTitleID> <RankerScore>0.13543733200398267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>476_in_Ireland</WikiTitle> <WikiTitleID>7138247</WikiTitleID> <RankerScore>0.13543733200398267</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Numbers</EntitySurfaceForm>
+	<EntityTextStart>291</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>0.25538586773170907</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Book_of_Numbers</WikiTitle>
+		<WikiTitleID>4376</WikiTitleID>
+		<RankerScore>0.17717965994984464</RankerScore>
+		<Attributes>book</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Book_of_Numbers</WikiTitle> <WikiTitleID>4376</WikiTitleID> <RankerScore>0.17717965994984464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(software)</WikiTitle> <WikiTitleID>12665211</WikiTitleID> <RankerScore>0.10913602599835073</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers</WikiTitle> <WikiTitleID>242832</WikiTitleID> <RankerScore>0.09407070500023454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(band)</WikiTitle> <WikiTitleID>18045682</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_Embassyland</WikiTitle> <WikiTitleID>18210386</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(Nanoha)</WikiTitle> <WikiTitleID>12774617</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(Lost)</WikiTitle> <WikiTitleID>4366300</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(Rufus_album)</WikiTitle> <WikiTitleID>18204077</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Number</WikiTitle> <WikiTitleID>21690</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Numbers_(album)</WikiTitle> <WikiTitleID>17676580</WikiTitleID> <RankerScore>0.08851622986451002</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New York</EntitySurfaceForm>
+	<EntityTextStart>302</EntityTextStart>
+	<EntityTextEnd>310</EntityTextEnd>
+	<LinkerScore>0.4078849545616201</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.11597796673900425</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.11597796673900425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.05676338649973662</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.05176669684811088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.045617173524302834</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Newsdesk</EntitySurfaceForm>
+	<EntityTextStart>311</EntityTextStart>
+	<EntityTextEnd>319</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_bureau</WikiTitle>
+		<WikiTitleID>14208196</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

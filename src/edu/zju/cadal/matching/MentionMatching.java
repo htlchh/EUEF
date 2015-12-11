@@ -65,12 +65,12 @@ public class MentionMatching implements Matching<Mention>{
 		
 		float similarity = EditDistance.distance(m1.getSurfaceForm(), m2.getSurfaceForm());
 //		System.out.println(m1.getSurfaceForm() + "|" + m2.getSurfaceForm() + ":" + similarity);
-//		//取两个词中较短的一个词的长度
-//		float length = m1.getSurfaceForm().length() < m2.getSurfaceForm().length() 
-//						? m2.getSurfaceForm().length() 
-//						: m1.getSurfaceForm().length();
+		//取两个词中较长的一个词的长度
+		float length = m1.getSurfaceForm().length() > m2.getSurfaceForm().length() 
+						? m1.getSurfaceForm().length() 
+						: m2.getSurfaceForm().length();
 		//取数据集的词作为标准长度
-		float length = m2.getSurfaceForm().length();
+//		float length = m2.getSurfaceForm().length();
 		
 //		System.out.println(m1.getSurfaceForm() + " | " + m2.getSurfaceForm() + similarity/length);
 		float confidence = 1 - similarity/length;

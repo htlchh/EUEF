@@ -1,0 +1,1756 @@
+<WikifierOutput>
+<InputFilename>
+1003testa Potent
+</InputFilename>
+<InputText>
+Potent landmines found near Colombian presidency.
+BOGOTA, Colombia 1996-08-30
+Eight claymore mines fitted with powerful C-4 plastic explosives were found stashed in a real estate office on Friday located about two blocks from Colombia&apos;s presidential palace, police said.&quot; These are powerful weapons,&quot; a spokesman with the Municipal Police told Reuters by telephone, adding that police had not ruled out a possible terrorist attack on the ornate Casa de Narino presidential palace in Bogota&apos;s historic downtown area.&quot; They could cause serious damage as much as 500 meters( yards) away from wherever they were detonated,&quot; the spokesman added.
+He said police backed by explosive experts were combing the area in search of other possible weapons or explosive devices.
+The police spokeman said plastic explosive like C-4 is not a normal component in claymore mines.
+But he said the eight mines seized by police had been&quot; specially adapted.&quot;
+The spokesman declined further comment, except to say that two women and a man identified as a lawyer had been arrested in connection with the landmines.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>landmines</EntitySurfaceForm>
+	<EntityTextStart>7</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>0.9518509126053708</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Land_mine</WikiTitle>
+		<WikiTitleID>18172</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	mine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Land_mine</WikiTitle> <WikiTitleID>18172</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Colombian</EntitySurfaceForm>
+	<EntityTextStart>28</EntityTextStart>
+	<EntityTextEnd>37</EntityTextEnd>
+	<LinkerScore>1.1115107369540944</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colombia</WikiTitle>
+		<WikiTitleID>5222</WikiTitleID>
+		<RankerScore>0.24731400701777762</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colombia</WikiTitle> <WikiTitleID>5222</WikiTitleID> <RankerScore>0.24731400701777762</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_people</WikiTitle> <WikiTitleID>7941778</WikiTitleID> <RankerScore>0.0909379788195135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_folklore</WikiTitle> <WikiTitleID>13808464</WikiTitleID> <RankerScore>0.08091759324215712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia_national_football_team</WikiTitle> <WikiTitleID>680175</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Colombia</WikiTitle> <WikiTitleID>248462</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Armada</WikiTitle> <WikiTitleID>8013257</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Air_Force</WikiTitle> <WikiTitleID>6719810</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_coffee</WikiTitle> <WikiTitleID>13078827</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_real</WikiTitle> <WikiTitleID>3742533</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_American</WikiTitle> <WikiTitleID>4439852</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Colombia</WikiTitle> <WikiTitleID>251302</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_peso</WikiTitle> <WikiTitleID>710305</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christopher_Columbus</WikiTitle> <WikiTitleID>5635</WikiTitleID> <RankerScore>0.05808304209205517</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Colombian presidency</EntitySurfaceForm>
+	<EntityTextStart>28</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.41201554909055227</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President_of_Colombia</WikiTitle>
+		<WikiTitleID>251302</WikiTitleID>
+		<RankerScore>0.5300327362235758</RankerScore>
+		<Attributes>president</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colombian_presidential_election,_2002</WikiTitle> <WikiTitleID>10326294</WikiTitleID> <RankerScore>0.4699672637764241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>President_of_Colombia</WikiTitle> <WikiTitleID>251302</WikiTitleID> <RankerScore>0.5300327362235758</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BOGOTA</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>56</EntityTextEnd>
+	<LinkerScore>0.5221662887278196</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bogotá</WikiTitle>
+		<WikiTitleID>211271</WikiTitleID>
+		<RankerScore>0.4126808387434334</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bogotá</WikiTitle> <WikiTitleID>211271</WikiTitleID> <RankerScore>0.4126808387434334</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bogota,_New_Jersey</WikiTitle> <WikiTitleID>124974</WikiTitleID> <RankerScore>0.29788088964449094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bogota,_Tennessee</WikiTitle> <WikiTitleID>2428202</WikiTitleID> <RankerScore>0.14610688055266474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copa_Colsanitas</WikiTitle> <WikiTitleID>6500296</WikiTitleID> <RankerScore>0.14333139105941084</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BOGOTA, Colombia</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>66</EntityTextEnd>
+	<LinkerScore>1.107795970322887</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bogotá</WikiTitle>
+		<WikiTitleID>211271</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bogotá</WikiTitle> <WikiTitleID>211271</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Colombia</EntitySurfaceForm>
+	<EntityTextStart>58</EntityTextStart>
+	<EntityTextEnd>66</EntityTextEnd>
+	<LinkerScore>1.006189053618521</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colombia</WikiTitle>
+		<WikiTitleID>5222</WikiTitleID>
+		<RankerScore>0.1951717748189828</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colombia</WikiTitle> <WikiTitleID>5222</WikiTitleID> <RankerScore>0.1951717748189828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia_national_football_team</WikiTitle> <WikiTitleID>680175</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Colombia</WikiTitle> <WikiTitleID>1126636</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Colombia</WikiTitle> <WikiTitleID>5841</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Professional_Football</WikiTitle> <WikiTitleID>5434392</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Colombia</WikiTitle> <WikiTitleID>8629418</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia,_Nuevo_León</WikiTitle> <WikiTitleID>11200119</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Armada</WikiTitle> <WikiTitleID>8013257</WikiTitleID> <RankerScore>0.06967827838362467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia_national_basketball_team</WikiTitle> <WikiTitleID>12260186</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Colombia</WikiTitle> <WikiTitleID>5844</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gran_Colombia</WikiTitle> <WikiTitleID>11226871</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Colombia</WikiTitle> <WikiTitleID>458980</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>930115</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_Air_Force</WikiTitle> <WikiTitleID>6719810</WikiTitleID> <RankerScore>0.07112412859218617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia_Davis_Cup_team</WikiTitle> <WikiTitleID>10022939</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Colombia</WikiTitle> <WikiTitleID>409115</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Colombia</WikiTitle> <WikiTitleID>5845</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombia,_Huila</WikiTitle> <WikiTitleID>10710785</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbia,_San_Diego,_California</WikiTitle> <WikiTitleID>9128803</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hinduism_in_South_America</WikiTitle> <WikiTitleID>819663</WikiTitleID> <RankerScore>0.03906034224736508</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>claymore</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>-0.06174064499459814</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Claymore</WikiTitle>
+		<WikiTitleID>12928564</WikiTitleID>
+		<RankerScore>0.5037743531758669</RankerScore>
+		<Attributes>sword	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Claymore</WikiTitle> <WikiTitleID>12928564</WikiTitleID> <RankerScore>0.5037743531758669</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle> <WikiTitleID>37352</WikiTitleID> <RankerScore>0.4962256468241331</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>claymore mines</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>1.0656167354234096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle>
+		<WikiTitleID>37352</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle> <WikiTitleID>37352</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mines</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.35607649996064406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Land_mine</WikiTitle>
+		<WikiTitleID>18172</WikiTitleID>
+		<RankerScore>0.20293945137368222</RankerScore>
+		<Attributes>dispute	mine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mining</WikiTitle> <WikiTitleID>20381</WikiTitleID> <RankerScore>0.10009885876530908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_mine</WikiTitle> <WikiTitleID>22102</WikiTitleID> <RankerScore>0.17760150811494427</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_mine</WikiTitle> <WikiTitleID>18172</WikiTitleID> <RankerScore>0.20293945137368222</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mining_(military)</WikiTitle> <WikiTitleID>145843</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coal_mining</WikiTitle> <WikiTitleID>208413</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-tank_mine</WikiTitle> <WikiTitleID>989207</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_extraction_techniques</WikiTitle> <WikiTitleID>828834</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mines_of_Rammelsberg</WikiTitle> <WikiTitleID>251646</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gold_mining</WikiTitle> <WikiTitleID>1291393</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sapping</WikiTitle> <WikiTitleID>14316080</WikiTitleID> <RankerScore>0.07419431167800918</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>C-4</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>123</EntityTextEnd>
+	<LinkerScore>1.10463373947282</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>C-4_(explosive)</WikiTitle>
+		<WikiTitleID>104020</WikiTitleID>
+		<RankerScore>0.6715257924088572</RankerScore>
+		<Attributes>explosive</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>C-4_(explosive)</WikiTitle> <WikiTitleID>104020</WikiTitleID> <RankerScore>0.6715257924088572</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C4</WikiTitle> <WikiTitleID>1203577</WikiTitleID> <RankerScore>0.2285363950336146</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Trimotor</WikiTitle> <WikiTitleID>536357</WikiTitleID> <RankerScore>0.09993781255752822</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>plastic explosives</EntitySurfaceForm>
+	<EntityTextStart>124</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>1.1195092152658745</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Plastic_explosive</WikiTitle>
+		<WikiTitleID>24900</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>invention	explosive</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Plastic_explosive</WikiTitle> <WikiTitleID>24900</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>plastic</EntitySurfaceForm>
+	<EntityTextStart>124</EntityTextStart>
+	<EntityTextEnd>131</EntityTextEnd>
+	<LinkerScore>0.21340319790427645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Plastic</WikiTitle>
+		<WikiTitleID>23883</WikiTitleID>
+		<RankerScore>0.16391165186520285</RankerScore>
+		<Attributes>plastic	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Plastic</WikiTitle> <WikiTitleID>23883</WikiTitleID> <RankerScore>0.16391165186520285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plasticity_(physics)</WikiTitle> <WikiTitleID>240123</WikiTitleID> <RankerScore>0.05677541762940706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_arts</WikiTitle> <WikiTitleID>423343</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bullet</WikiTitle> <WikiTitleID>207438</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_model</WikiTitle> <WikiTitleID>585358</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroplasticity</WikiTitle> <WikiTitleID>1948637</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_explosive</WikiTitle> <WikiTitleID>24900</WikiTitleID> <RankerScore>0.11096060079107294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bait</WikiTitle> <WikiTitleID>7716430</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bending</WikiTitle> <WikiTitleID>3973669</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_recycling</WikiTitle> <WikiTitleID>1999119</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenotypic_plasticity</WikiTitle> <WikiTitleID>3040270</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_optical_fiber</WikiTitle> <WikiTitleID>3223977</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deformation_(engineering)</WikiTitle> <WikiTitleID>237876</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermoplastics</WikiTitle> <WikiTitleID>182444</WikiTitleID> <RankerScore>0.05569602747619309</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosives</EntitySurfaceForm>
+	<EntityTextStart>132</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>0.9711333164719257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosive_material</WikiTitle>
+		<WikiTitleID>10192</WikiTitleID>
+		<RankerScore>0.4012351146528549</RankerScore>
+		<Attributes>explosive	material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.4012351146528549</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.0683698509122832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detonating_cord</WikiTitle> <WikiTitleID>610149</WikiTitleID> <RankerScore>0.0683698509122832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bomb</WikiTitle> <WikiTitleID>47628</WikiTitleID> <RankerScore>0.15185737583180767</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Titadine</WikiTitle> <WikiTitleID>608168</WikiTitleID> <RankerScore>0.0683698509122832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.17342810586620463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_bomb</WikiTitle> <WikiTitleID>1053290</WikiTitleID> <RankerScore>0.0683698509122832</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>real estate</EntitySurfaceForm>
+	<EntityTextStart>167</EntityTextStart>
+	<EntityTextEnd>178</EntityTextEnd>
+	<LinkerScore>0.9279236263466171</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Real_estate</WikiTitle>
+		<WikiTitleID>63089</WikiTitleID>
+		<RankerScore>0.508779369762524</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Real_estate</WikiTitle> <WikiTitleID>63089</WikiTitleID> <RankerScore>0.508779369762524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_property</WikiTitle> <WikiTitleID>26277</WikiTitleID> <RankerScore>0.19350960472311143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real-estate_developer</WikiTitle> <WikiTitleID>440254</WikiTitleID> <RankerScore>0.14253320728404173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_estate_broker</WikiTitle> <WikiTitleID>440273</WikiTitleID> <RankerScore>0.15517781823032287</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Colombia</EntitySurfaceForm>
+	<EntityTextStart>226</EntityTextStart>
+	<EntityTextEnd>234</EntityTextEnd>
+	<LinkerScore>1.0921717630602035</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colombia</WikiTitle>
+		<WikiTitleID>5222</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Colombia</WikiTitle> <WikiTitleID>5222</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>presidential palace</EntitySurfaceForm>
+	<EntityTextStart>237</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>-0.014882746746740727</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Istana_Bogor</WikiTitle>
+		<WikiTitleID>2230551</WikiTitleID>
+		<RankerScore>0.17651617462604294</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Presidential_palace</WikiTitle> <WikiTitleID>1185496</WikiTitleID> <RankerScore>0.15200056176206775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malacañang_Palace</WikiTitle> <WikiTitleID>283824</WikiTitleID> <RankerScore>0.16654756717976477</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Bogor</WikiTitle> <WikiTitleID>2230551</WikiTitleID> <RankerScore>0.17651617462604294</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Merdeka</WikiTitle> <WikiTitleID>2230501</WikiTitleID> <RankerScore>0.1009871392864249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Pinos</WikiTitle> <WikiTitleID>1515740</WikiTitleID> <RankerScore>0.1009871392864249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palacio_de_La_Moneda</WikiTitle> <WikiTitleID>483800</WikiTitleID> <RankerScore>0.1009871392864249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baabda_Palace</WikiTitle> <WikiTitleID>3538726</WikiTitleID> <RankerScore>0.1009871392864249</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presidential_Palace,_Baghdad</WikiTitle> <WikiTitleID>4483202</WikiTitleID> <RankerScore>0.1009871392864249</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>palace</EntitySurfaceForm>
+	<EntityTextStart>250</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>0.9625528063300136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palace</WikiTitle>
+		<WikiTitleID>23931</WikiTitleID>
+		<RankerScore>0.11298587030684444</RankerScore>
+		<Attributes>residence	palace</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palace</WikiTitle> <WikiTitleID>23931</WikiTitleID> <RankerScore>0.11298587030684444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Aachen</WikiTitle> <WikiTitleID>9942657</WikiTitleID> <RankerScore>0.06251148273945172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Versailles</WikiTitle> <WikiTitleID>53316</WikiTitleID> <RankerScore>0.06094640934961475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocletian&apos;s_Palace</WikiTitle> <WikiTitleID>1811447</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jabba_the_Hutt</WikiTitle> <WikiTitleID>56043</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sonning_Bishop&apos;s_Palace</WikiTitle> <WikiTitleID>5223364</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Nurul_Iman</WikiTitle> <WikiTitleID>1796111</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_the_Governors</WikiTitle> <WikiTitleID>4055316</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heian_Palace</WikiTitle> <WikiTitleID>11038610</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishopthorpe_Palace</WikiTitle> <WikiTitleID>153567</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampton_Court_Palace</WikiTitle> <WikiTitleID>52947</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queluz_National_Palace</WikiTitle> <WikiTitleID>6276716</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buckingham_Palace</WikiTitle> <WikiTitleID>3969</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_Palace</WikiTitle> <WikiTitleID>15145950</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richmond_Palace</WikiTitle> <WikiTitleID>2496276</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belvedere_(palace)</WikiTitle> <WikiTitleID>747154</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_the_Patriarchate</WikiTitle> <WikiTitleID>13844071</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kazanowski_Palace</WikiTitle> <WikiTitleID>13060906</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brühl_Palace,_Warsaw</WikiTitle> <WikiTitleID>12560741</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fasil_Ghebbi</WikiTitle> <WikiTitleID>3834467</WikiTitleID> <RankerScore>0.044915072800240534</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>258</EntityTextStart>
+	<EntityTextEnd>264</EntityTextEnd>
+	<LinkerScore>0.0848080412122725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Colombian_National_Police</WikiTitle>
+		<WikiTitleID>7278792</WikiTitleID>
+		<RankerScore>0.11148839696206271</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.09732735116977956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06528391264396216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.11148839696206271</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04270001995436444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Municipal Police</EntitySurfaceForm>
+	<EntityTextStart>322</EntityTextStart>
+	<EntityTextEnd>338</EntityTextEnd>
+	<LinkerScore>0.8792327518821704</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Municipal_police</WikiTitle>
+		<WikiTitleID>1313621</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Municipal_police</WikiTitle> <WikiTitleID>1313621</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Reuters</EntitySurfaceForm>
+	<EntityTextStart>344</EntityTextStart>
+	<EntityTextEnd>351</EntityTextEnd>
+	<LinkerScore>1.103916014306084</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reuters</WikiTitle>
+		<WikiTitleID>101623</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	agency	company	vendor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone</EntitySurfaceForm>
+	<EntityTextStart>355</EntityTextStart>
+	<EntityTextEnd>364</EntityTextEnd>
+	<LinkerScore>0.6657434152430508</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone</WikiTitle>
+		<WikiTitleID>30003</WikiTitleID>
+		<RankerScore>0.1538710663447036</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telephone</WikiTitle> <WikiTitleID>30003</WikiTitleID> <RankerScore>0.1538710663447036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_banking</WikiTitle> <WikiTitleID>6222524</WikiTitleID> <RankerScore>0.06619701930535321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plain_old_telephone_service</WikiTitle> <WikiTitleID>160834</WikiTitleID> <RankerScore>0.06076751927356948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_number</WikiTitle> <WikiTitleID>30750</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-assisted_telephone_interviewing</WikiTitle> <WikiTitleID>1290555</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_marketing</WikiTitle> <WikiTitleID>665239</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer-premises_equipment</WikiTitle> <WikiTitleID>40982</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_whispers</WikiTitle> <WikiTitleID>291405</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_directory</WikiTitle> <WikiTitleID>162263</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teleconference</WikiTitle> <WikiTitleID>41783</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephony</WikiTitle> <WikiTitleID>41831</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.06537858137057943</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>378</EntityTextStart>
+	<EntityTextEnd>384</EntityTextEnd>
+	<LinkerScore>0.4891488429359363</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.10601126820345502</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.10601126820345502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06659579458817509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06837930300326436</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04464786083559444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>terrorist</EntitySurfaceForm>
+	<EntityTextStart>414</EntityTextStart>
+	<EntityTextEnd>423</EntityTextEnd>
+	<LinkerScore>1.3064375945317324</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Terrorism</WikiTitle>
+		<WikiTitleID>30636</WikiTitleID>
+		<RankerScore>0.4977366373309338</RankerScore>
+		<Attributes>belief	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Terrorism</WikiTitle> <WikiTitleID>30636</WikiTitleID> <RankerScore>0.4977366373309338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_terrorism</WikiTitle> <WikiTitleID>566821</WikiTitleID> <RankerScore>0.08175313496502884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_political_violence</WikiTitle> <WikiTitleID>2646043</WikiTitleID> <RankerScore>0.08055830419459817</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_designated_terrorist_organizations</WikiTitle> <WikiTitleID>63578</WikiTitleID> <RankerScore>0.08498798087735979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Propaganda_of_the_deed</WikiTitle> <WikiTitleID>400776</WikiTitleID> <RankerScore>0.08498798087735979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_terrorism</WikiTitle> <WikiTitleID>566888</WikiTitleID> <RankerScore>0.08498798087735979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Definition_of_terrorism</WikiTitle> <WikiTitleID>531257</WikiTitleID> <RankerScore>0.08498798087735979</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>terrorist attack</EntitySurfaceForm>
+	<EntityTextStart>414</EntityTextStart>
+	<EntityTextEnd>430</EntityTextEnd>
+	<LinkerScore>-0.10801632388333748</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_terrorist_incidents</WikiTitle>
+		<WikiTitleID>54197</WikiTitleID>
+		<RankerScore>0.13614889022264837</RankerScore>
+		<Attributes>incident	list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_terrorist_incidents</WikiTitle> <WikiTitleID>54197</WikiTitleID> <RankerScore>0.13614889022264837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>September_11,_2001_attacks</WikiTitle> <WikiTitleID>5058690</WikiTitleID> <RankerScore>0.096527965921002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrorism</WikiTitle> <WikiTitleID>30636</WikiTitleID> <RankerScore>0.11602680700624513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Glasgow_International_Airport_attack</WikiTitle> <WikiTitleID>12022377</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>7_July_2005_London_bombings</WikiTitle> <WikiTitleID>2185939</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_Australian_embassy_bombing</WikiTitle> <WikiTitleID>971002</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bioterrorism</WikiTitle> <WikiTitleID>4393</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Madrid_Barajas_International_Airport_bombing</WikiTitle> <WikiTitleID>8670865</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Munich_massacre</WikiTitle> <WikiTitleID>20989</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beslan_school_hostage_crisis</WikiTitle> <WikiTitleID>951665</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Kabul_Serena_Hotel_attack</WikiTitle> <WikiTitleID>15225762</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_Indian_Parliament_attack</WikiTitle> <WikiTitleID>4188948</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_theater_hostage_crisis</WikiTitle> <WikiTitleID>142008</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercaz_HaRav_massacre</WikiTitle> <WikiTitleID>16140292</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sterling_Hall_bombing</WikiTitle> <WikiTitleID>2699460</WikiTitleID> <RankerScore>0.05009971821923881</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Casa de Narino</EntitySurfaceForm>
+	<EntityTextStart>445</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Casa_de_Nariño</WikiTitle>
+		<WikiTitleID>9545709</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Narino</EntitySurfaceForm>
+	<EntityTextStart>453</EntityTextStart>
+	<EntityTextEnd>459</EntityTextEnd>
+	<LinkerScore>0.546030134040812</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Department_of_Nariño</WikiTitle>
+		<WikiTitleID>549702</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Department_of_Nariño</WikiTitle> <WikiTitleID>549702</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>presidential palace</EntitySurfaceForm>
+	<EntityTextStart>460</EntityTextStart>
+	<EntityTextEnd>479</EntityTextEnd>
+	<LinkerScore>-0.24532517033203483</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Istana_Bogor</WikiTitle>
+		<WikiTitleID>2230551</WikiTitleID>
+		<RankerScore>0.1740437652048548</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Presidential_palace</WikiTitle> <WikiTitleID>1185496</WikiTitleID> <RankerScore>0.165941640118509</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Malacañang_Palace</WikiTitle> <WikiTitleID>283824</WikiTitleID> <RankerScore>0.16292747443025116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Bogor</WikiTitle> <WikiTitleID>2230551</WikiTitleID> <RankerScore>0.1740437652048548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Merdeka</WikiTitle> <WikiTitleID>2230501</WikiTitleID> <RankerScore>0.09941742404927703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Los_Pinos</WikiTitle> <WikiTitleID>1515740</WikiTitleID> <RankerScore>0.09941742404927703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palacio_de_La_Moneda</WikiTitle> <WikiTitleID>483800</WikiTitleID> <RankerScore>0.09941742404927703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baabda_Palace</WikiTitle> <WikiTitleID>3538726</WikiTitleID> <RankerScore>0.09941742404927703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presidential_Palace,_Baghdad</WikiTitle> <WikiTitleID>4483202</WikiTitleID> <RankerScore>0.09941742404927703</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>palace</EntitySurfaceForm>
+	<EntityTextStart>473</EntityTextStart>
+	<EntityTextEnd>479</EntityTextEnd>
+	<LinkerScore>0.9976768257667693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palace</WikiTitle>
+		<WikiTitleID>23931</WikiTitleID>
+		<RankerScore>0.11027369580576178</RankerScore>
+		<Attributes>residence	palace</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palace</WikiTitle> <WikiTitleID>23931</WikiTitleID> <RankerScore>0.11027369580576178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Aachen</WikiTitle> <WikiTitleID>9942657</WikiTitleID> <RankerScore>0.06397099870198178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_Versailles</WikiTitle> <WikiTitleID>53316</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocletian&apos;s_Palace</WikiTitle> <WikiTitleID>1811447</WikiTitleID> <RankerScore>0.04437158294884079</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jabba_the_Hutt</WikiTitle> <WikiTitleID>56043</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sonning_Bishop&apos;s_Palace</WikiTitle> <WikiTitleID>5223364</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Istana_Nurul_Iman</WikiTitle> <WikiTitleID>1796111</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_the_Governors</WikiTitle> <WikiTitleID>4055316</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Heian_Palace</WikiTitle> <WikiTitleID>11038610</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishopthorpe_Palace</WikiTitle> <WikiTitleID>153567</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hampton_Court_Palace</WikiTitle> <WikiTitleID>52947</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queluz_National_Palace</WikiTitle> <WikiTitleID>6276716</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buckingham_Palace</WikiTitle> <WikiTitleID>3969</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Karlsruhe_Palace</WikiTitle> <WikiTitleID>15145950</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richmond_Palace</WikiTitle> <WikiTitleID>2496276</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belvedere_(palace)</WikiTitle> <WikiTitleID>747154</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palace_of_the_Patriarchate</WikiTitle> <WikiTitleID>13844071</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kazanowski_Palace</WikiTitle> <WikiTitleID>13060906</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brühl_Palace,_Warsaw</WikiTitle> <WikiTitleID>12560741</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fasil_Ghebbi</WikiTitle> <WikiTitleID>3834467</WikiTitleID> <RankerScore>0.04596374838490681</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bogota</EntitySurfaceForm>
+	<EntityTextStart>483</EntityTextStart>
+	<EntityTextEnd>489</EntityTextEnd>
+	<LinkerScore>0.25127114900954706</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bogotá</WikiTitle>
+		<WikiTitleID>211271</WikiTitleID>
+		<RankerScore>0.3768400506209546</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bogotá</WikiTitle> <WikiTitleID>211271</WikiTitleID> <RankerScore>0.3768400506209546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bogota,_New_Jersey</WikiTitle> <WikiTitleID>124974</WikiTitleID> <RankerScore>0.31982527888876155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bogota,_Tennessee</WikiTitle> <WikiTitleID>2428202</WikiTitleID> <RankerScore>0.15312170785833565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copa_Colsanitas</WikiTitle> <WikiTitleID>6500296</WikiTitleID> <RankerScore>0.15021296263194833</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>downtown</EntitySurfaceForm>
+	<EntityTextStart>501</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>0.5729219937831591</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Downtown</WikiTitle>
+		<WikiTitleID>251024</WikiTitleID>
+		<RankerScore>0.10231635455226173</RankerScore>
+		<Attributes>study</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Downtown</WikiTitle> <WikiTitleID>251024</WikiTitleID> <RankerScore>0.10231635455226173</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Dallas</WikiTitle> <WikiTitleID>3287109</WikiTitleID> <RankerScore>0.05820253217757925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Cleveland</WikiTitle> <WikiTitleID>2284936</WikiTitleID> <RankerScore>0.05007144538222399</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Miami</WikiTitle> <WikiTitleID>6312442</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Louisville</WikiTitle> <WikiTitleID>2176325</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Omaha</WikiTitle> <WikiTitleID>12843529</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Portland</WikiTitle> <WikiTitleID>2382657</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Houston</WikiTitle> <WikiTitleID>332168</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Central_business_district</WikiTitle> <WikiTitleID>160463</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Albuquerque</WikiTitle> <WikiTitleID>4885683</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Calgary</WikiTitle> <WikiTitleID>2359454</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Seattle</WikiTitle> <WikiTitleID>603757</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Halifax</WikiTitle> <WikiTitleID>2680742</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Los_Angeles</WikiTitle> <WikiTitleID>425280</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Salt_Lake_City</WikiTitle> <WikiTitleID>1146152</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Phoenix</WikiTitle> <WikiTitleID>1599499</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Oklahoma_City</WikiTitle> <WikiTitleID>11706246</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Lethbridge</WikiTitle> <WikiTitleID>6892353</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Pittsburgh,_Pennsylvania</WikiTitle> <WikiTitleID>728700</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Downtown_Harrisburg,_Pennsylvania</WikiTitle> <WikiTitleID>3496304</WikiTitleID> <RankerScore>0.04643586281693735</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>649</EntityTextStart>
+	<EntityTextEnd>655</EntityTextEnd>
+	<LinkerScore>0.644932357927202</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.10109593273026046</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.10109593273026046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06637845263974695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06028875324993412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.045425697728238734</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosive</EntitySurfaceForm>
+	<EntityTextStart>666</EntityTextStart>
+	<EntityTextEnd>675</EntityTextEnd>
+	<LinkerScore>1.051015801803369</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosive_material</WikiTitle>
+		<WikiTitleID>10192</WikiTitleID>
+		<RankerScore>0.41421919574563426</RankerScore>
+		<Attributes>explosive	material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.41421919574563426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosion</WikiTitle> <WikiTitleID>158891</WikiTitleID> <RankerScore>0.11480794342663121</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosive_eruption</WikiTitle> <WikiTitleID>3051956</WikiTitleID> <RankerScore>0.076601444843297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosive_ROF</WikiTitle> <WikiTitleID>2212769</WikiTitleID> <RankerScore>0.076601444843297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand_grenade</WikiTitle> <WikiTitleID>67751</WikiTitleID> <RankerScore>0.1645670814545465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Explosive_Incendiary/Armor_Piercing_Ammunition</WikiTitle> <WikiTitleID>4718893</WikiTitleID> <RankerScore>0.076601444843297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_explosive</WikiTitle> <WikiTitleID>53144</WikiTitleID> <RankerScore>0.076601444843297</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosive</EntitySurfaceForm>
+	<EntityTextStart>745</EntityTextStart>
+	<EntityTextEnd>754</EntityTextEnd>
+	<LinkerScore>1.0633501552617095</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Explosive_material</WikiTitle>
+		<WikiTitleID>10192</WikiTitleID>
+		<RankerScore>0.45802581133907183</RankerScore>
+		<Attributes>explosive	material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.45802581133907183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosion</WikiTitle> <WikiTitleID>158891</WikiTitleID> <RankerScore>0.05988148239172645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosive_eruption</WikiTitle> <WikiTitleID>3051956</WikiTitleID> <RankerScore>0.05988148239172645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Explosive_ROF</WikiTitle> <WikiTitleID>2212769</WikiTitleID> <RankerScore>0.05988148239172645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand_grenade</WikiTitle> <WikiTitleID>67751</WikiTitleID> <RankerScore>0.162705543396518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Explosive_Incendiary/Armor_Piercing_Ammunition</WikiTitle> <WikiTitleID>4718893</WikiTitleID> <RankerScore>0.05988148239172645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nuclear_explosive</WikiTitle> <WikiTitleID>53144</WikiTitleID> <RankerScore>0.13974271569750424</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>768</EntityTextStart>
+	<EntityTextEnd>774</EntityTextEnd>
+	<LinkerScore>0.37689286554098317</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.09964040399103168</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.09964040399103168</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06663133819680342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06033441382001483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04549375552895</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>plastic</EntitySurfaceForm>
+	<EntityTextStart>789</EntityTextStart>
+	<EntityTextEnd>796</EntityTextEnd>
+	<LinkerScore>0.08000284744044237</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Plastic</WikiTitle>
+		<WikiTitleID>23883</WikiTitleID>
+		<RankerScore>0.16090484646078942</RankerScore>
+		<Attributes>plastic	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Plastic</WikiTitle> <WikiTitleID>23883</WikiTitleID> <RankerScore>0.16090484646078942</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plasticity_(physics)</WikiTitle> <WikiTitleID>240123</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_surgery</WikiTitle> <WikiTitleID>42048</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_arts</WikiTitle> <WikiTitleID>423343</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bullet</WikiTitle> <WikiTitleID>207438</WikiTitleID> <RankerScore>0.05188445942042901</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_model</WikiTitle> <WikiTitleID>585358</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuroplasticity</WikiTitle> <WikiTitleID>1948637</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_explosive</WikiTitle> <WikiTitleID>24900</WikiTitleID> <RankerScore>0.15567419589177697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bait</WikiTitle> <WikiTitleID>7716430</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_bending</WikiTitle> <WikiTitleID>3973669</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_recycling</WikiTitle> <WikiTitleID>1999119</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phenotypic_plasticity</WikiTitle> <WikiTitleID>3040270</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plastic_optical_fiber</WikiTitle> <WikiTitleID>3223977</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deformation_(engineering)</WikiTitle> <WikiTitleID>237876</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermoplastics</WikiTitle> <WikiTitleID>182444</WikiTitleID> <RankerScore>0.05262804151891705</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>C-4</EntitySurfaceForm>
+	<EntityTextStart>812</EntityTextStart>
+	<EntityTextEnd>815</EntityTextEnd>
+	<LinkerScore>1.2045494213723684</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>C-4_(explosive)</WikiTitle>
+		<WikiTitleID>104020</WikiTitleID>
+		<RankerScore>0.6713274319625263</RankerScore>
+		<Attributes>explosive</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>C-4_(explosive)</WikiTitle> <WikiTitleID>104020</WikiTitleID> <RankerScore>0.6713274319625263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C4</WikiTitle> <WikiTitleID>1203577</WikiTitleID> <RankerScore>0.21987369634064535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Trimotor</WikiTitle> <WikiTitleID>536357</WikiTitleID> <RankerScore>0.10879887169682839</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>normal component</EntitySurfaceForm>
+	<EntityTextStart>825</EntityTextStart>
+	<EntityTextEnd>841</EntityTextEnd>
+	<LinkerScore>0.9390255790338135</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tangential_and_normal_components</WikiTitle>
+		<WikiTitleID>10387769</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tangential_and_normal_components</WikiTitle> <WikiTitleID>10387769</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>claymore mines</EntitySurfaceForm>
+	<EntityTextStart>845</EntityTextStart>
+	<EntityTextEnd>859</EntityTextEnd>
+	<LinkerScore>1.103653520944455</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle>
+		<WikiTitleID>37352</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle> <WikiTitleID>37352</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>claymore</EntitySurfaceForm>
+	<EntityTextStart>845</EntityTextStart>
+	<EntityTextEnd>853</EntityTextEnd>
+	<LinkerScore>0.482497358646378</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle>
+		<WikiTitleID>37352</WikiTitleID>
+		<RankerScore>0.5315922487331513</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Claymore</WikiTitle> <WikiTitleID>12928564</WikiTitleID> <RankerScore>0.4684077512668488</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>M18A1_Claymore_Antipersonnel_Mine</WikiTitle> <WikiTitleID>37352</WikiTitleID> <RankerScore>0.5315922487331513</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mines</EntitySurfaceForm>
+	<EntityTextStart>854</EntityTextStart>
+	<EntityTextEnd>859</EntityTextEnd>
+	<LinkerScore>0.3020998868646281</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Land_mine</WikiTitle>
+		<WikiTitleID>18172</WikiTitleID>
+		<RankerScore>0.20101926940301718</RankerScore>
+		<Attributes>dispute	mine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mining</WikiTitle> <WikiTitleID>20381</WikiTitleID> <RankerScore>0.10398780785180287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_mine</WikiTitle> <WikiTitleID>22102</WikiTitleID> <RankerScore>0.18091949607975422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_mine</WikiTitle> <WikiTitleID>18172</WikiTitleID> <RankerScore>0.20101926940301718</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mining_(military)</WikiTitle> <WikiTitleID>145843</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coal_mining</WikiTitle> <WikiTitleID>208413</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-tank_mine</WikiTitle> <WikiTitleID>989207</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_extraction_techniques</WikiTitle> <WikiTitleID>828834</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mines_of_Rammelsberg</WikiTitle> <WikiTitleID>251646</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gold_mining</WikiTitle> <WikiTitleID>1291393</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sapping</WikiTitle> <WikiTitleID>14316080</WikiTitleID> <RankerScore>0.07343906095220369</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mines</EntitySurfaceForm>
+	<EntityTextStart>883</EntityTextStart>
+	<EntityTextEnd>888</EntityTextEnd>
+	<LinkerScore>0.1973000312254144</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Land_mine</WikiTitle>
+		<WikiTitleID>18172</WikiTitleID>
+		<RankerScore>0.19378101567238132</RankerScore>
+		<Attributes>dispute	mine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mining</WikiTitle> <WikiTitleID>20381</WikiTitleID> <RankerScore>0.10521056063108693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_mine</WikiTitle> <WikiTitleID>22102</WikiTitleID> <RankerScore>0.18206665231101135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_mine</WikiTitle> <WikiTitleID>18172</WikiTitleID> <RankerScore>0.19378101567238132</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mining_(military)</WikiTitle> <WikiTitleID>145843</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coal_mining</WikiTitle> <WikiTitleID>208413</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anti-tank_mine</WikiTitle> <WikiTitleID>989207</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_extraction_techniques</WikiTitle> <WikiTitleID>828834</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mines_of_Rammelsberg</WikiTitle> <WikiTitleID>251646</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gold_mining</WikiTitle> <WikiTitleID>1291393</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sapping</WikiTitle> <WikiTitleID>14316080</WikiTitleID> <RankerScore>0.07413453876936006</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>police</EntitySurfaceForm>
+	<EntityTextStart>899</EntityTextStart>
+	<EntityTextEnd>905</EntityTextEnd>
+	<LinkerScore>0.874953400037441</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Police</WikiTitle>
+		<WikiTitleID>23627</WikiTitleID>
+		<RankerScore>0.10755688575465537</RankerScore>
+		<Attributes>profession	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Police</WikiTitle> <WikiTitleID>23627</WikiTitleID> <RankerScore>0.10755688575465537</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_enforcement_in_the_United_Kingdom</WikiTitle> <WikiTitleID>347149</WikiTitleID> <RankerScore>0.06587355618751364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Ulster_Constabulary</WikiTitle> <WikiTitleID>60995</WikiTitleID> <RankerScore>0.06024110023664164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Police</WikiTitle> <WikiTitleID>5178194</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Police_(France)</WikiTitle> <WikiTitleID>614023</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Singapore_Police_Force</WikiTitle> <WikiTitleID>1154806</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City_Police_Department</WikiTitle> <WikiTitleID>255413</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Metropolitan_Police_Service</WikiTitle> <WikiTitleID>192450</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Police</WikiTitle> <WikiTitleID>406756</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Colombian_National_Police</WikiTitle> <WikiTitleID>7278792</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Police_Force</WikiTitle> <WikiTitleID>563673</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Police_officer</WikiTitle> <WikiTitleID>310240</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hong_Kong_Police_Force</WikiTitle> <WikiTitleID>1276176</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Omaha_Police_Department</WikiTitle> <WikiTitleID>1820230</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israel_Police</WikiTitle> <WikiTitleID>745595</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polizia_di_Stato</WikiTitle> <WikiTitleID>1313023</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Militsiya</WikiTitle> <WikiTitleID>854727</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iraqi_Police</WikiTitle> <WikiTitleID>2076117</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mounted_police</WikiTitle> <WikiTitleID>1003614</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Victoria_Police</WikiTitle> <WikiTitleID>1120591</WikiTitleID> <RankerScore>0.04507814457771702</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lawyer</EntitySurfaceForm>
+	<EntityTextStart>1031</EntityTextStart>
+	<EntityTextEnd>1037</EntityTextEnd>
+	<LinkerScore>0.47263378641122766</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lawyer</WikiTitle>
+		<WikiTitleID>17541</WikiTitleID>
+		<RankerScore>0.20731939957987333</RankerScore>
+		<Attributes>ethics	profession	lawyer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.20731939957987333</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attorney_at_law</WikiTitle> <WikiTitleID>168902</WikiTitleID> <RankerScore>0.08504477571642939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.09987597096314733</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solicitor</WikiTitle> <WikiTitleID>89777</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lindsey_McDonald</WikiTitle> <WikiTitleID>970956</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guantanamo_Bay_attorneys</WikiTitle> <WikiTitleID>9327970</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrister</WikiTitle> <WikiTitleID>4848</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attorney&apos;s_fee</WikiTitle> <WikiTitleID>2437392</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek_law</WikiTitle> <WikiTitleID>2708235</WikiTitleID> <RankerScore>0.06752887263783888</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>landmines</EntitySurfaceForm>
+	<EntityTextStart>1079</EntityTextStart>
+	<EntityTextEnd>1088</EntityTextEnd>
+	<LinkerScore>0.9253093205795905</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Land_mine</WikiTitle>
+		<WikiTitleID>18172</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>dispute	mine</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Land_mine</WikiTitle> <WikiTitleID>18172</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

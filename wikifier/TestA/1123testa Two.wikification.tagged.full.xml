@@ -1,0 +1,966 @@
+<WikifierOutput>
+<InputFilename>
+1123testa Two
+</InputFilename>
+<InputText>
+Two die in Algeria restaurant blast- radio.
+LONDON 1996-08-31
+Two people were killed when a hand grenade exploded in a restaurant near Algiers late on Friday, Algerian radio reported on Saturday.
+The report, monitored by the British Broadcasting Corporation( BBC), quoted security services as saying six other people were injured in the blast in the town of Staouelli.
+An estimated 50,000 people had been killed in political violence in Algeria since 1992, when army-backed authorities cancelled a general election that Islamic fundamentalists had been expected to win.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Algeria</EntitySurfaceForm>
+	<EntityTextStart>11</EntityTextStart>
+	<EntityTextEnd>18</EntityTextEnd>
+	<LinkerScore>0.4637527603459569</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Algeria</WikiTitle>
+		<WikiTitleID>358</WikiTitleID>
+		<RankerScore>0.14107690252643815</RankerScore>
+		<Attributes>state	country	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Algeria</WikiTitle> <WikiTitleID>358</WikiTitleID> <RankerScore>0.14107690252643815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_national_football_team</WikiTitle> <WikiTitleID>1029528</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Algeria</WikiTitle> <WikiTitleID>292341</WikiTitleID> <RankerScore>0.0775570897695963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_War</WikiTitle> <WikiTitleID>82430</WikiTitleID> <RankerScore>0.06011181733058127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Algeria</WikiTitle> <WikiTitleID>57599</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>908047</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Algerian_films</WikiTitle> <WikiTitleID>11363061</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Algeria</WikiTitle> <WikiTitleID>57600</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Algeria</WikiTitle> <WikiTitleID>413616</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>7153932</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Algeria</WikiTitle> <WikiTitleID>398975</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Algeria</WikiTitle> <WikiTitleID>924069</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Algeria</WikiTitle> <WikiTitleID>3247129</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_wine</WikiTitle> <WikiTitleID>14712646</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_national_basketball_team</WikiTitle> <WikiTitleID>10341910</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apostolic_Nunciature_to_Algeria</WikiTitle> <WikiTitleID>14679644</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Algeria</WikiTitle> <WikiTitleID>14113</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nationalism_and_resistance_in_Algeria</WikiTitle> <WikiTitleID>292388</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Algeria</WikiTitle> <WikiTitleID>4497714</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postage_stamps_and_postal_history_of_Algeria</WikiTitle> <WikiTitleID>14210994</WikiTitleID> <RankerScore>0.04242671708078731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>LONDON</EntitySurfaceForm>
+	<EntityTextStart>44</EntityTextStart>
+	<EntityTextEnd>50</EntityTextEnd>
+	<LinkerScore>0.31431520404335134</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London_postal_district</WikiTitle>
+		<WikiTitleID>118409</WikiTitleID>
+		<RankerScore>0.5971457153353638</RankerScore>
+		<Attributes>list</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London_postal_district</WikiTitle> <WikiTitleID>118409</WikiTitleID> <RankerScore>0.5971457153353638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.4028542846646362</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hand grenade</EntitySurfaceForm>
+	<EntityTextStart>92</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>0.955827605696718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hand_grenade</WikiTitle>
+		<WikiTitleID>67751</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hand_grenade</WikiTitle> <WikiTitleID>67751</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>grenade</EntitySurfaceForm>
+	<EntityTextStart>97</EntityTextStart>
+	<EntityTextEnd>104</EntityTextEnd>
+	<LinkerScore>0.6760785082850513</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hand_grenade</WikiTitle>
+		<WikiTitleID>67751</WikiTitleID>
+		<RankerScore>0.38931772409385407</RankerScore>
+		<Attributes>weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hand_grenade</WikiTitle> <WikiTitleID>67751</WikiTitleID> <RankerScore>0.38931772409385407</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mills_bomb</WikiTitle> <WikiTitleID>444180</WikiTitleID> <RankerScore>0.1885383328653203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>M79_grenade_launcher</WikiTitle> <WikiTitleID>620718</WikiTitleID> <RankerScore>0.09958958334674485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grenade_launcher</WikiTitle> <WikiTitleID>304883</WikiTitleID> <RankerScore>0.10751811989802694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grenade_(insignia)</WikiTitle> <WikiTitleID>3179382</WikiTitleID> <RankerScore>0.10751811989802694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rocket-propelled_grenade</WikiTitle> <WikiTitleID>26286</WikiTitleID> <RankerScore>0.10751811989802694</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>restaurant</EntitySurfaceForm>
+	<EntityTextStart>119</EntityTextStart>
+	<EntityTextEnd>129</EntityTextEnd>
+	<LinkerScore>0.5058638413195217</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Restaurant</WikiTitle>
+		<WikiTitleID>26437</WikiTitleID>
+		<RankerScore>0.4449501099950877</RankerScore>
+		<Attributes>restaurant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Restaurant</WikiTitle> <WikiTitleID>26437</WikiTitleID> <RankerScore>0.4449501099950877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fifteen_restaurants</WikiTitle> <WikiTitleID>1682384</WikiTitleID> <RankerScore>0.1915004011454492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_cuisine</WikiTitle> <WikiTitleID>12486</WikiTitleID> <RankerScore>0.17601738936890396</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fast_food_restaurants</WikiTitle> <WikiTitleID>3756956</WikiTitleID> <RankerScore>0.1875320994905591</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Algiers</EntitySurfaceForm>
+	<EntityTextStart>135</EntityTextStart>
+	<EntityTextEnd>142</EntityTextEnd>
+	<LinkerScore>0.9669412134869547</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Algiers</WikiTitle>
+		<WikiTitleID>1644</WikiTitleID>
+		<RankerScore>0.28886064307368003</RankerScore>
+		<Attributes>city	capital	colony	place	establishment	site	seats	war</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Algiers</WikiTitle> <WikiTitleID>1644</WikiTitleID> <RankerScore>0.28886064307368003</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algiers,_New_Orleans</WikiTitle> <WikiTitleID>575244</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algiers_(film)</WikiTitle> <WikiTitleID>1345561</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algiers_Province</WikiTitle> <WikiTitleID>7172945</WikiTitleID> <RankerScore>0.11374986150021428</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Alger</WikiTitle> <WikiTitleID>10913243</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria</WikiTitle> <WikiTitleID>358</WikiTitleID> <RankerScore>0.08988133800138191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Ottoman_Algeria</WikiTitle> <WikiTitleID>2843102</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Torch</WikiTitle> <WikiTitleID>73236</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Air_France_Flight_8969</WikiTitle> <WikiTitleID>265494</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algiers,_Vermont</WikiTitle> <WikiTitleID>14712233</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Charles_V,_Holy_Roman_Emperor</WikiTitle> <WikiTitleID>70716</WikiTitleID> <RankerScore>0.06343851967809047</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Algerian</EntitySurfaceForm>
+	<EntityTextStart>159</EntityTextStart>
+	<EntityTextEnd>167</EntityTextEnd>
+	<LinkerScore>0.6223615404779599</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Algeria</WikiTitle>
+		<WikiTitleID>358</WikiTitleID>
+		<RankerScore>0.19831497794605807</RankerScore>
+		<Attributes>state	country	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Algeria</WikiTitle> <WikiTitleID>358</WikiTitleID> <RankerScore>0.19831497794605807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_Algeria</WikiTitle> <WikiTitleID>67577</WikiTitleID> <RankerScore>0.0846288988416831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_national_football_team</WikiTitle> <WikiTitleID>1029528</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_War</WikiTitle> <WikiTitleID>82430</WikiTitleID> <RankerScore>0.06771778990410088</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_Arabic</WikiTitle> <WikiTitleID>2379261</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Languages_of_Algeria</WikiTitle> <WikiTitleID>944942</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algiers</WikiTitle> <WikiTitleID>1644</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_Air_Force</WikiTitle> <WikiTitleID>7927282</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Algerian_films</WikiTitle> <WikiTitleID>11363061</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Embassy_of_Algeria_in_Ottawa</WikiTitle> <WikiTitleID>1372135</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Algeria</WikiTitle> <WikiTitleID>292341</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Algeria</WikiTitle> <WikiTitleID>57600</WikiTitleID> <RankerScore>0.07214870370090644</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radio</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>173</EntityTextEnd>
+	<LinkerScore>0.5120445419726833</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radio</WikiTitle>
+		<WikiTitleID>15368428</WikiTitleID>
+		<RankerScore>0.1541981672929576</RankerScore>
+		<Attributes>invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radio</WikiTitle> <WikiTitleID>15368428</WikiTitleID> <RankerScore>0.1541981672929576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_broadcasting</WikiTitle> <WikiTitleID>173088</WikiTitleID> <RankerScore>0.051294787268613036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_programming</WikiTitle> <WikiTitleID>103661</WikiTitleID> <RankerScore>0.062016498979993805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_personality</WikiTitle> <WikiTitleID>3206586</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old-time_radio</WikiTitle> <WikiTitleID>82583</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_radio</WikiTitle> <WikiTitleID>20841</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_frequency</WikiTitle> <WikiTitleID>42852</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_commercial</WikiTitle> <WikiTitleID>3571486</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Receiver_(radio)</WikiTitle> <WikiTitleID>491851</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_network</WikiTitle> <WikiTitleID>224694</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_producer</WikiTitle> <WikiTitleID>2670542</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_astronomy</WikiTitle> <WikiTitleID>82961</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_drama</WikiTitle> <WikiTitleID>54954</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_waves</WikiTitle> <WikiTitleID>98132</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_radio_stations_in_Australia</WikiTitle> <WikiTitleID>575787</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Airplay_(radio)</WikiTitle> <WikiTitleID>1986945</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Talk_radio</WikiTitle> <WikiTitleID>30077</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broadcasting</WikiTitle> <WikiTitleID>113604</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Commercial_broadcasting</WikiTitle> <WikiTitleID>1551784</WikiTitleID> <RankerScore>0.04308767920343738</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>British Broadcasting Corporation</EntitySurfaceForm>
+	<EntityTextStart>225</EntityTextStart>
+	<EntityTextEnd>257</EntityTextEnd>
+	<LinkerScore>0.9475360058144968</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BBC</WikiTitle>
+		<WikiTitleID>4347</WikiTitleID>
+		<RankerScore>0.7379306728175057</RankerScore>
+		<Attributes>member	company	introduction	establishment	broadcaster	brand</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BBC</WikiTitle> <WikiTitleID>4347</WikiTitleID> <RankerScore>0.7379306728175057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Television</WikiTitle> <WikiTitleID>352308</WikiTitleID> <RankerScore>0.26206932718249426</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BBC</EntitySurfaceForm>
+	<EntityTextStart>259</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.5356416760851608</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BBC</WikiTitle>
+		<WikiTitleID>4347</WikiTitleID>
+		<RankerScore>0.15736701163488478</RankerScore>
+		<Attributes>member	company	introduction	establishment	broadcaster	brand</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BBC</WikiTitle> <WikiTitleID>4347</WikiTitleID> <RankerScore>0.15736701163488478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Television</WikiTitle> <WikiTitleID>352308</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_DAB_National</WikiTitle> <WikiTitleID>3246521</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Broadcasting_Company</WikiTitle> <WikiTitleID>210857</WikiTitleID> <RankerScore>0.060200261408700134</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News</WikiTitle> <WikiTitleID>1139893</WikiTitleID> <RankerScore>0.08081673766073233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_One</WikiTitle> <WikiTitleID>212157</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Sport</WikiTitle> <WikiTitleID>3095179</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_World_Service</WikiTitle> <WikiTitleID>37627</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Micro</WikiTitle> <WikiTitleID>4355</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Scotland</WikiTitle> <WikiTitleID>569201</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio_1</WikiTitle> <WikiTitleID>4348</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_Online</WikiTitle> <WikiTitleID>566699</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Board_of_Governors_of_the_BBC</WikiTitle> <WikiTitleID>564195</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bbc.co.uk</WikiTitle> <WikiTitleID>638514</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_(TV_channel)</WikiTitle> <WikiTitleID>4621</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Wales</WikiTitle> <WikiTitleID>899892</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stations_of_the_BBC</WikiTitle> <WikiTitleID>1147196</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Two</WikiTitle> <WikiTitleID>160949</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_London</WikiTitle> <WikiTitleID>423106</WikiTitleID> <RankerScore>0.04127152878209898</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>town</EntitySurfaceForm>
+	<EntityTextStart>350</EntityTextStart>
+	<EntityTextEnd>354</EntityTextEnd>
+	<LinkerScore>0.18413370187502903</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Town</WikiTitle>
+		<WikiTitleID>52911</WikiTitleID>
+		<RankerScore>0.09056320902639137</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Town</WikiTitle> <WikiTitleID>52911</WikiTitleID> <RankerScore>0.09056320902639137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Towns_of_Japan</WikiTitle> <WikiTitleID>450654</WikiTitleID> <RankerScore>0.06420028067741566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_England_town</WikiTitle> <WikiTitleID>3400990</WikiTitleID> <RankerScore>0.0559938509131912</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_(China)</WikiTitle> <WikiTitleID>1342390</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_and_towns_in_Finland</WikiTitle> <WikiTitleID>198108</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_(New_Jersey)</WikiTitle> <WikiTitleID>2884363</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban-type_settlement</WikiTitle> <WikiTitleID>463454</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Populated_places_in_Estonia</WikiTitle> <WikiTitleID>2347646</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Romania</WikiTitle> <WikiTitleID>214467</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_towns_in_Portugal</WikiTitle> <WikiTitleID>507837</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Municipalities_of_Brazil</WikiTitle> <WikiTitleID>214437</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(town),_New_York</WikiTitle> <WikiTitleID>259955</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_New_York</WikiTitle> <WikiTitleID>429081</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Local_government_of_Fiji</WikiTitle> <WikiTitleID>670527</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Places_in_Singapore_by_alphabetical_order</WikiTitle> <WikiTitleID>968623</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stad_(Sweden)</WikiTitle> <WikiTitleID>2499608</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Town_council</WikiTitle> <WikiTitleID>645032</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities_in_Turkey</WikiTitle> <WikiTitleID>214476</WikiTitleID> <RankerScore>0.04642603878723539</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>political violence</EntitySurfaceForm>
+	<EntityTextStart>415</EntityTextStart>
+	<EntityTextEnd>433</EntityTextEnd>
+	<LinkerScore>0.17347121064559692</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Politically_motivated_violence</WikiTitle>
+		<WikiTitleID>319651</WikiTitleID>
+		<RankerScore>0.4144117963108869</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Politically_motivated_violence</WikiTitle> <WikiTitleID>319651</WikiTitleID> <RankerScore>0.4144117963108869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrorism</WikiTitle> <WikiTitleID>30636</WikiTitleID> <RankerScore>0.2255051622383815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Troubles</WikiTitle> <WikiTitleID>30770</WikiTitleID> <RankerScore>0.3600830414507316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>violence</EntitySurfaceForm>
+	<EntityTextStart>425</EntityTextStart>
+	<EntityTextEnd>433</EntityTextEnd>
+	<LinkerScore>0.8419248326815942</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Violence</WikiTitle>
+		<WikiTitleID>46112</WikiTitleID>
+		<RankerScore>0.13475712746184723</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Violence</WikiTitle> <WikiTitleID>46112</WikiTitleID> <RankerScore>0.13475712746184723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Graphic_violence</WikiTitle> <WikiTitleID>3718113</WikiTitleID> <RankerScore>0.04391382920248048</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_East_Timorese_crisis</WikiTitle> <WikiTitleID>5308122</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Combat_in_film</WikiTitle> <WikiTitleID>10029743</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_game_controversy</WikiTitle> <WikiTitleID>350730</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Violence_in_sports</WikiTitle> <WikiTitleID>848317</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Abortion-related_violence</WikiTitle> <WikiTitleID>2375414</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Gujarat_violence</WikiTitle> <WikiTitleID>6356686</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jihad</WikiTitle> <WikiTitleID>16203</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Lebanon_conflict</WikiTitle> <WikiTitleID>11321906</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Structural_violence</WikiTitle> <WikiTitleID>832188</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domestic_violence</WikiTitle> <WikiTitleID>18582471</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape_pornography</WikiTitle> <WikiTitleID>1208663</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Insurgency</WikiTitle> <WikiTitleID>589841</WikiTitleID> <RankerScore>0.049089349158666286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herd_behavior</WikiTitle> <WikiTitleID>408888</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palestinian_political_violence</WikiTitle> <WikiTitleID>2646043</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Catania_football_violence</WikiTitle> <WikiTitleID>9286700</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terrorism</WikiTitle> <WikiTitleID>30636</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cycle_of_violence</WikiTitle> <WikiTitleID>3317874</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Depolonization_of_Volyn</WikiTitle> <WikiTitleID>464698</WikiTitleID> <RankerScore>0.045425864363353295</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Algeria</EntitySurfaceForm>
+	<EntityTextStart>437</EntityTextStart>
+	<EntityTextEnd>444</EntityTextEnd>
+	<LinkerScore>0.5930947472388355</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Algeria</WikiTitle>
+		<WikiTitleID>358</WikiTitleID>
+		<RankerScore>0.1459651374760711</RankerScore>
+		<Attributes>state	country	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Algeria</WikiTitle> <WikiTitleID>358</WikiTitleID> <RankerScore>0.1459651374760711</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_national_football_team</WikiTitle> <WikiTitleID>1029528</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Algeria</WikiTitle> <WikiTitleID>292341</WikiTitleID> <RankerScore>0.0765297016822282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_War</WikiTitle> <WikiTitleID>82430</WikiTitleID> <RankerScore>0.0663994743300188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Algeria</WikiTitle> <WikiTitleID>57599</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>908047</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Algerian_films</WikiTitle> <WikiTitleID>11363061</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Algeria</WikiTitle> <WikiTitleID>57600</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Algeria</WikiTitle> <WikiTitleID>413616</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>7153932</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Algeria</WikiTitle> <WikiTitleID>398975</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Algeria</WikiTitle> <WikiTitleID>924069</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Algeria</WikiTitle> <WikiTitleID>3247129</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algerian_wine</WikiTitle> <WikiTitleID>14712646</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Algeria_national_basketball_team</WikiTitle> <WikiTitleID>10341910</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Apostolic_Nunciature_to_Algeria</WikiTitle> <WikiTitleID>14679644</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Algeria</WikiTitle> <WikiTitleID>14113</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nationalism_and_resistance_in_Algeria</WikiTitle> <WikiTitleID>292388</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Algeria</WikiTitle> <WikiTitleID>4497714</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Postage_stamps_and_postal_history_of_Algeria</WikiTitle> <WikiTitleID>14210994</WikiTitleID> <RankerScore>0.04182974626539306</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1992</EntitySurfaceForm>
+	<EntityTextStart>451</EntityTextStart>
+	<EntityTextEnd>455</EntityTextEnd>
+	<LinkerScore>0.8916681187062786</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1992</WikiTitle>
+		<WikiTitleID>34669</WikiTitleID>
+		<RankerScore>0.1333426527805746</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1992</WikiTitle> <WikiTitleID>34669</WikiTitleID> <RankerScore>0.1333426527805746</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_film</WikiTitle> <WikiTitleID>171581</WikiTitleID> <RankerScore>0.05549246462705329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_music</WikiTitle> <WikiTitleID>160802</WikiTitleID> <RankerScore>0.051447406536796844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_literature</WikiTitle> <WikiTitleID>190208</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_video_gaming</WikiTitle> <WikiTitleID>1322998</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_Summer_Olympics</WikiTitle> <WikiTitleID>82755</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_sports</WikiTitle> <WikiTitleID>224733</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_baseball</WikiTitle> <WikiTitleID>2076419</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_NFL_season</WikiTitle> <WikiTitleID>2367327</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_Winter_Olympics</WikiTitle> <WikiTitleID>113357</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1991–92_NHL_season</WikiTitle> <WikiTitleID>2093351</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_poetry</WikiTitle> <WikiTitleID>5513161</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1992</WikiTitle> <WikiTitleID>39529</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1992</WikiTitle> <WikiTitleID>1341549</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1992</WikiTitle> <WikiTitleID>87184</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_comics</WikiTitle> <WikiTitleID>11790130</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1992</WikiTitle> <WikiTitleID>5801517</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108286</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Euro_1992</WikiTitle> <WikiTitleID>558990</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_CFL_season</WikiTitle> <WikiTitleID>2802932</WikiTitleID> <RankerScore>0.04468926329738678</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>general election</EntitySurfaceForm>
+	<EntityTextStart>498</EntityTextStart>
+	<EntityTextEnd>514</EntityTextEnd>
+	<LinkerScore>0.05809408913911051</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>General_election</WikiTitle>
+		<WikiTitleID>12795</WikiTitleID>
+		<RankerScore>0.08302826204365389</RankerScore>
+		<Attributes>election</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>General_election</WikiTitle> <WikiTitleID>12795</WikiTitleID> <RankerScore>0.08302826204365389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_elections</WikiTitle> <WikiTitleID>32153</WikiTitleID> <RankerScore>0.049314925307544125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fijian_general_election,_2006</WikiTitle> <WikiTitleID>2775465</WikiTitleID> <RankerScore>0.053798545893593515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_2005</WikiTitle> <WikiTitleID>1847945</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fijian_general_election,_1999</WikiTitle> <WikiTitleID>533750</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Lucian_general_election,_2006</WikiTitle> <WikiTitleID>8055351</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fijian_general_election,_2001</WikiTitle> <WikiTitleID>533805</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1979</WikiTitle> <WikiTitleID>73211</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_general_election,_2006</WikiTitle> <WikiTitleID>2059542</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1885</WikiTitle> <WikiTitleID>443213</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_general_election,_2006</WikiTitle> <WikiTitleID>1225045</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1997</WikiTitle> <WikiTitleID>35519</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Fiji</WikiTitle> <WikiTitleID>481400</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_federal_election,_2006</WikiTitle> <WikiTitleID>1145326</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_general_election,_2005</WikiTitle> <WikiTitleID>934445</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1945</WikiTitle> <WikiTitleID>332702</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_February_1974</WikiTitle> <WikiTitleID>269663</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scottish_Parliament_election,_2007</WikiTitle> <WikiTitleID>11105214</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1955</WikiTitle> <WikiTitleID>416898</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_general_election,_1918</WikiTitle> <WikiTitleID>301891</WikiTitleID> <RankerScore>0.04787401569148285</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Islamic</EntitySurfaceForm>
+	<EntityTextStart>520</EntityTextStart>
+	<EntityTextEnd>527</EntityTextEnd>
+	<LinkerScore>-0.05898087866034832</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Islam</WikiTitle>
+		<WikiTitleID>6037917</WikiTitleID>
+		<RankerScore>0.14679821450810496</RankerScore>
+		<Attributes>religion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Islam</WikiTitle> <WikiTitleID>6037917</WikiTitleID> <RankerScore>0.14679821450810496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_architecture</WikiTitle> <WikiTitleID>276104</WikiTitleID> <RankerScore>0.04115943682231574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamism</WikiTitle> <WikiTitleID>15012</WikiTitleID> <RankerScore>0.09662891058709401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_mythology</WikiTitle> <WikiTitleID>1661285</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim_culture</WikiTitle> <WikiTitleID>1946196</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim</WikiTitle> <WikiTitleID>19541</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim_history</WikiTitle> <WikiTitleID>13306</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Islamic_philosophy</WikiTitle> <WikiTitleID>171177</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_Golden_Age</WikiTitle> <WikiTitleID>649824</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_philosophy</WikiTitle> <WikiTitleID>166162</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muslim_world</WikiTitle> <WikiTitleID>191429</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_science</WikiTitle> <WikiTitleID>267542</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_calendar</WikiTitle> <WikiTitleID>14810</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caliphate</WikiTitle> <WikiTitleID>804036</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_state</WikiTitle> <WikiTitleID>2646438</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_astronomy</WikiTitle> <WikiTitleID>3304608</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_art</WikiTitle> <WikiTitleID>167020</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islam_in_China</WikiTitle> <WikiTitleID>705408</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_terrorism</WikiTitle> <WikiTitleID>566821</WikiTitleID> <RankerScore>0.04208314341661678</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Islamic fundamentalists</EntitySurfaceForm>
+	<EntityTextStart>520</EntityTextStart>
+	<EntityTextEnd>543</EntityTextEnd>
+	<LinkerScore>0.7880549505434463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Islamic_fundamentalism</WikiTitle>
+		<WikiTitleID>178778</WikiTitleID>
+		<RankerScore>0.6791270998267385</RankerScore>
+		<Attributes>politics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Islamic_fundamentalism</WikiTitle> <WikiTitleID>178778</WikiTitleID> <RankerScore>1.2735699558305011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_fundamentalist_Islam_in_Iran</WikiTitle> <WikiTitleID>8576213</WikiTitleID> <RankerScore>0.32087290017326153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_fundamentalism</WikiTitle> <WikiTitleID>178778</WikiTitleID> <RankerScore>0.6791270998267385</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fundamentalists</EntitySurfaceForm>
+	<EntityTextStart>528</EntityTextStart>
+	<EntityTextEnd>543</EntityTextEnd>
+	<LinkerScore>0.8957317502992993</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fundamentalism</WikiTitle>
+		<WikiTitleID>11582</WikiTitleID>
+		<RankerScore>0.44786133660965366</RankerScore>
+		<Attributes>dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fundamentalism</WikiTitle> <WikiTitleID>11582</WikiTitleID> <RankerScore>0.44786133660965366</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fundamentalist_Christianity</WikiTitle> <WikiTitleID>72767</WikiTitleID> <RankerScore>0.22562415768275135</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>SNP_fundamentalist</WikiTitle> <WikiTitleID>238904</WikiTitleID> <RankerScore>0.11739836971519683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_fundamentalism</WikiTitle> <WikiTitleID>178778</WikiTitleID> <RankerScore>0.20911613599239812</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

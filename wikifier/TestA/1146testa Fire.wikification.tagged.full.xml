@@ -1,0 +1,447 @@
+<WikifierOutput>
+<InputFilename>
+1146testa Fire
+</InputFilename>
+<InputText>
+Fire destroys restaurant in Bahraini village.
+MANAMA 1996-08-31
+A fire has completely gutted a Turkish-operated restaurant in a Bahraini village, residents said.
+They said a fire broke out at Shul&apos;ala restaurant in the early hours on Saturday in al-Daih village, five km( three miles) west of the capital Manama.
+It was not immediately clear what caused the fire or if there were any casualties.
+Government officials had no immediate comment.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>restaurant</EntitySurfaceForm>
+	<EntityTextStart>14</EntityTextStart>
+	<EntityTextEnd>24</EntityTextEnd>
+	<LinkerScore>0.5367749265612634</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Restaurant</WikiTitle>
+		<WikiTitleID>26437</WikiTitleID>
+		<RankerScore>0.4409857317829693</RankerScore>
+		<Attributes>restaurant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Restaurant</WikiTitle> <WikiTitleID>26437</WikiTitleID> <RankerScore>0.4409857317829693</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fifteen_restaurants</WikiTitle> <WikiTitleID>1682384</WikiTitleID> <RankerScore>0.18572890077879536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_cuisine</WikiTitle> <WikiTitleID>12486</WikiTitleID> <RankerScore>0.19146038729438114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fast_food_restaurants</WikiTitle> <WikiTitleID>3756956</WikiTitleID> <RankerScore>0.1818249801438542</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bahraini</EntitySurfaceForm>
+	<EntityTextStart>28</EntityTextStart>
+	<EntityTextEnd>36</EntityTextEnd>
+	<LinkerScore>1.0128940253876193</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bahrain</WikiTitle>
+		<WikiTitleID>3452</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bahrain</WikiTitle> <WikiTitleID>3452</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>village</EntitySurfaceForm>
+	<EntityTextStart>37</EntityTextStart>
+	<EntityTextEnd>44</EntityTextEnd>
+	<LinkerScore>0.4123704785128641</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Village</WikiTitle>
+		<WikiTitleID>53509</WikiTitleID>
+		<RankerScore>0.11081818479855494</RankerScore>
+		<Attributes>place	loanword	village	words	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Village</WikiTitle> <WikiTitleID>53509</WikiTitleID> <RankerScore>0.11081818479855494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Japan</WikiTitle> <WikiTitleID>450661</WikiTitleID> <RankerScore>0.05628007621184147</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.055250801341166944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(United_States)</WikiTitle> <WikiTitleID>8673728</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Guam</WikiTitle> <WikiTitleID>2588674</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(New_Jersey)</WikiTitle> <WikiTitleID>2460879</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Indonesia)</WikiTitle> <WikiTitleID>4038785</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities,_villages,_and_townships_in_Michigan</WikiTitle> <WikiTitleID>236034</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Massachusetts</WikiTitle> <WikiTitleID>4778334</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(village),_New_York</WikiTitle> <WikiTitleID>259954</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Oregon)</WikiTitle> <WikiTitleID>2711765</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(China)</WikiTitle> <WikiTitleID>1838823</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Hong_Kong</WikiTitle> <WikiTitleID>1263381</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mill_town</WikiTitle> <WikiTitleID>635166</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Ohio</WikiTitle> <WikiTitleID>129159</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_settlements_in_the_Pella_prefecture</WikiTitle> <WikiTitleID>1689381</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Paltz_(village),_New_York</WikiTitle> <WikiTitleID>260131</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Alaska</WikiTitle> <WikiTitleID>105738</WikiTitleID> <RankerScore>0.04574417280284922</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MANAMA</EntitySurfaceForm>
+	<EntityTextStart>46</EntityTextStart>
+	<EntityTextEnd>52</EntityTextEnd>
+	<LinkerScore>1.536000738338446</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manama</WikiTitle>
+		<WikiTitleID>20481</WikiTitleID>
+		<RankerScore>0.9266932438865211</RankerScore>
+		<Attributes>place	colony	municipality	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manama</WikiTitle> <WikiTitleID>20481</WikiTitleID> <RankerScore>0.9266932438865211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manama_(Ajman)</WikiTitle> <WikiTitleID>16290997</WikiTitleID> <RankerScore>0.07330675611347894</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gutted</EntitySurfaceForm>
+	<EntityTextStart>86</EntityTextStart>
+	<EntityTextEnd>92</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Disembowelment</WikiTitle>
+		<WikiTitleID>179206</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>method</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>restaurant</EntitySurfaceForm>
+	<EntityTextStart>112</EntityTextStart>
+	<EntityTextEnd>122</EntityTextEnd>
+	<LinkerScore>0.40226164461639025</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Restaurant</WikiTitle>
+		<WikiTitleID>26437</WikiTitleID>
+		<RankerScore>0.42166794892862974</RankerScore>
+		<Attributes>restaurant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Restaurant</WikiTitle> <WikiTitleID>26437</WikiTitleID> <RankerScore>0.42166794892862974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fifteen_restaurants</WikiTitle> <WikiTitleID>1682384</WikiTitleID> <RankerScore>0.16872962677929454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_cuisine</WikiTitle> <WikiTitleID>12486</WikiTitleID> <RankerScore>0.24524190798125095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fast_food_restaurants</WikiTitle> <WikiTitleID>3756956</WikiTitleID> <RankerScore>0.16436051631082488</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bahraini</EntitySurfaceForm>
+	<EntityTextStart>128</EntityTextStart>
+	<EntityTextEnd>136</EntityTextEnd>
+	<LinkerScore>0.9882149196213234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bahrain</WikiTitle>
+		<WikiTitleID>3452</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bahrain</WikiTitle> <WikiTitleID>3452</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>village</EntitySurfaceForm>
+	<EntityTextStart>137</EntityTextStart>
+	<EntityTextEnd>144</EntityTextEnd>
+	<LinkerScore>0.49892034951362796</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Village</WikiTitle>
+		<WikiTitleID>53509</WikiTitleID>
+		<RankerScore>0.10862759082136725</RankerScore>
+		<Attributes>place	loanword	village	words	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Village</WikiTitle> <WikiTitleID>53509</WikiTitleID> <RankerScore>0.10862759082136725</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Japan</WikiTitle> <WikiTitleID>450661</WikiTitleID> <RankerScore>0.05642348790822439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.05543114856166567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(United_States)</WikiTitle> <WikiTitleID>8673728</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Guam</WikiTitle> <WikiTitleID>2588674</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(New_Jersey)</WikiTitle> <WikiTitleID>2460879</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Indonesia)</WikiTitle> <WikiTitleID>4038785</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities,_villages,_and_townships_in_Michigan</WikiTitle> <WikiTitleID>236034</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Massachusetts</WikiTitle> <WikiTitleID>4778334</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(village),_New_York</WikiTitle> <WikiTitleID>259954</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Oregon)</WikiTitle> <WikiTitleID>2711765</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(China)</WikiTitle> <WikiTitleID>1838823</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Hong_Kong</WikiTitle> <WikiTitleID>1263381</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mill_town</WikiTitle> <WikiTitleID>635166</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Ohio</WikiTitle> <WikiTitleID>129159</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_settlements_in_the_Pella_prefecture</WikiTitle> <WikiTitleID>1689381</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Paltz_(village),_New_York</WikiTitle> <WikiTitleID>260131</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Alaska</WikiTitle> <WikiTitleID>105738</WikiTitleID> <RankerScore>0.04585398662992604</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>restaurant</EntitySurfaceForm>
+	<EntityTextStart>201</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>0.5371311551370738</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Restaurant</WikiTitle>
+		<WikiTitleID>26437</WikiTitleID>
+		<RankerScore>0.44261579335283463</RankerScore>
+		<Attributes>restaurant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Restaurant</WikiTitle> <WikiTitleID>26437</WikiTitleID> <RankerScore>0.44261579335283463</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fifteen_restaurants</WikiTitle> <WikiTitleID>1682384</WikiTitleID> <RankerScore>0.1880720340354402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_cuisine</WikiTitle> <WikiTitleID>12486</WikiTitleID> <RankerScore>0.18399992520977126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fast_food_restaurants</WikiTitle> <WikiTitleID>3756956</WikiTitleID> <RankerScore>0.18531224740195387</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>early hours</EntitySurfaceForm>
+	<EntityTextStart>219</EntityTextStart>
+	<EntityTextEnd>230</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Early_Hours</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>album</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>al-Daih</EntitySurfaceForm>
+	<EntityTextStart>246</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Daih</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>village</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>261</EntityTextEnd>
+	<LinkerScore>0.9220048751717013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Village</WikiTitle>
+		<WikiTitleID>53509</WikiTitleID>
+		<RankerScore>0.11292622393523516</RankerScore>
+		<Attributes>place	loanword	village	words	division</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Village</WikiTitle> <WikiTitleID>53509</WikiTitleID> <RankerScore>0.11292622393523516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Japan</WikiTitle> <WikiTitleID>450661</WikiTitleID> <RankerScore>0.05608695927076773</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_inhabited_localities_in_Russia</WikiTitle> <WikiTitleID>2813519</WikiTitleID> <RankerScore>0.056035785545099887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urban_areas_in_Sweden</WikiTitle> <WikiTitleID>1269662</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(United_States)</WikiTitle> <WikiTitleID>8673728</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Villages_of_Guam</WikiTitle> <WikiTitleID>2588674</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(New_Jersey)</WikiTitle> <WikiTitleID>2460879</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Unincorporated_area</WikiTitle> <WikiTitleID>232346</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Indonesia)</WikiTitle> <WikiTitleID>4038785</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_cities,_villages,_and_townships_in_Michigan</WikiTitle> <WikiTitleID>236034</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Massachusetts</WikiTitle> <WikiTitleID>4778334</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Goshen_(village),_New_York</WikiTitle> <WikiTitleID>259954</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(Oregon)</WikiTitle> <WikiTitleID>2711765</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Village_(China)</WikiTitle> <WikiTitleID>1838823</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_villages_in_Hong_Kong</WikiTitle> <WikiTitleID>1263381</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mill_town</WikiTitle> <WikiTitleID>635166</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Ohio</WikiTitle> <WikiTitleID>129159</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_settlements_in_the_Pella_prefecture</WikiTitle> <WikiTitleID>1689381</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Paltz_(village),_New_York</WikiTitle> <WikiTitleID>260131</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Galena,_Alaska</WikiTitle> <WikiTitleID>105738</WikiTitleID> <RankerScore>0.0455853547793469</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Manama</EntitySurfaceForm>
+	<EntityTextStart>305</EntityTextStart>
+	<EntityTextEnd>311</EntityTextEnd>
+	<LinkerScore>1.4998779725806588</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Manama</WikiTitle>
+		<WikiTitleID>20481</WikiTitleID>
+		<RankerScore>0.9183042090510071</RankerScore>
+		<Attributes>place	colony	municipality	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Manama</WikiTitle> <WikiTitleID>20481</WikiTitleID> <RankerScore>0.9183042090510071</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manama_(Ajman)</WikiTitle> <WikiTitleID>16290997</WikiTitleID> <RankerScore>0.08169579094899289</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Government officials</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>416</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Official</WikiTitle>
+		<WikiTitleID>725182</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>occupation	position	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

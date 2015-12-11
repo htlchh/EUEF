@@ -1,0 +1,821 @@
+<WikifierOutput>
+<InputFilename>
+1000testa Russian
+</InputFilename>
+<InputText>
+Russian judge stabbed to death over$ 7 fine.
+MOSCOW 1996-08-30
+A Moscow street vendor stabbed to death a woman judge in a city court on Friday after she fined him the equivalent of seven dollars for trading illegally, Interfax news agency said.
+Interfax said Judge Olga Lavrentyeva, 28, on Thursday ordered the confiscation of several overcoats, suits and shirts which vendor Valery Ivankov, 41, was illegally trading on Moscow streets and fined him 38,000 roubles( seven dollars).
+The next morning, Ivankov appeared in the courtroom and stabbed Lavrentyeva.
+The judge died later in hospital.
+Interfax quoted Levrentyeva&apos;s colleagues as saying that judges were generally unprotected against criminal attacks.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>0.1426460451949507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.15298288201745683</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.15298288201745683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.0670268164907461</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.11547131305449412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.039089352261017826</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>judge</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.7087861330141085</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Judge</WikiTitle>
+		<WikiTitleID>44719</WikiTitleID>
+		<RankerScore>0.16174554572658795</RankerScore>
+		<Attributes>judges	profession</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Judge</WikiTitle> <WikiTitleID>44719</WikiTitleID> <RankerScore>0.16174554572658795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(2000_AD)</WikiTitle> <WikiTitleID>1088489</WikiTitleID> <RankerScore>0.058794615257265974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_federal_judge</WikiTitle> <WikiTitleID>834368</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qadi</WikiTitle> <WikiTitleID>873192</WikiTitleID> <RankerScore>0.04147181266992867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(policy_debate)</WikiTitle> <WikiTitleID>3567777</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_judge</WikiTitle> <WikiTitleID>3192014</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_judges</WikiTitle> <WikiTitleID>3611489</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beth_din</WikiTitle> <WikiTitleID>794946</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Justice_of_Appeal</WikiTitle> <WikiTitleID>3740873</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_judge</WikiTitle> <WikiTitleID>5093797</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Last_Judgment</WikiTitle> <WikiTitleID>161978</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giudicati</WikiTitle> <WikiTitleID>607827</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inquisitorial_system</WikiTitle> <WikiTitleID>197639</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dayyán</WikiTitle> <WikiTitleID>1746971</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_L._Oakes</WikiTitle> <WikiTitleID>6277728</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Citizenship_judge</WikiTitle> <WikiTitleID>7375034</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_of_Session</WikiTitle> <WikiTitleID>381053</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Honourable_Mr_Justice_Stephen_Rawley</WikiTitle> <WikiTitleID>6061994</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magistrate</WikiTitle> <WikiTitleID>306902</WikiTitleID> <RankerScore>0.04341106037330691</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MOSCOW</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>51</EntityTextEnd>
+	<LinkerScore>0.9802746851361261</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.1973728204861531</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.1973728204861531</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.06918354201256012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.08982212656354309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03786008887869081</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>65</EntityTextStart>
+	<EntityTextEnd>71</EntityTextEnd>
+	<LinkerScore>1.0568553229251256</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.20211182420799564</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.20211182420799564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.06476953219564179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.07127854829070285</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03893177031209763</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>street vendor</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>85</EntityTextEnd>
+	<LinkerScore>0.4823706638931575</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hawker_(trade)</WikiTitle>
+		<WikiTitleID>1497253</WikiTitleID>
+		<RankerScore>0.6298925381574165</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hawker_(trade)</WikiTitle> <WikiTitleID>1497253</WikiTitleID> <RankerScore>0.6298925381574165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Street_food</WikiTitle> <WikiTitleID>1795705</WikiTitleID> <RankerScore>0.37010746184258336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>judge</EntitySurfaceForm>
+	<EntityTextStart>111</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>0.8612943732419516</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Judge</WikiTitle>
+		<WikiTitleID>44719</WikiTitleID>
+		<RankerScore>0.1862626757363066</RankerScore>
+		<Attributes>judges	profession</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Judge</WikiTitle> <WikiTitleID>44719</WikiTitleID> <RankerScore>0.1862626757363066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(2000_AD)</WikiTitle> <WikiTitleID>1088489</WikiTitleID> <RankerScore>0.06166977012345443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_federal_judge</WikiTitle> <WikiTitleID>834368</WikiTitleID> <RankerScore>0.07445846480250055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qadi</WikiTitle> <WikiTitleID>873192</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(policy_debate)</WikiTitle> <WikiTitleID>3567777</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_judge</WikiTitle> <WikiTitleID>3192014</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_judges</WikiTitle> <WikiTitleID>3611489</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beth_din</WikiTitle> <WikiTitleID>794946</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Justice_of_Appeal</WikiTitle> <WikiTitleID>3740873</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_judge</WikiTitle> <WikiTitleID>5093797</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Last_Judgment</WikiTitle> <WikiTitleID>161978</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giudicati</WikiTitle> <WikiTitleID>607827</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inquisitorial_system</WikiTitle> <WikiTitleID>197639</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dayyán</WikiTitle> <WikiTitleID>1746971</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_L._Oakes</WikiTitle> <WikiTitleID>6277728</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Citizenship_judge</WikiTitle> <WikiTitleID>7375034</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_of_Session</WikiTitle> <WikiTitleID>381053</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Honourable_Mr_Justice_Stephen_Rawley</WikiTitle> <WikiTitleID>6061994</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magistrate</WikiTitle> <WikiTitleID>306902</WikiTitleID> <RankerScore>0.039859358196337555</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>218</EntityTextStart>
+	<EntityTextEnd>226</EntityTextEnd>
+	<LinkerScore>1.1101983742001982</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news agency</EntitySurfaceForm>
+	<EntityTextStart>227</EntityTextStart>
+	<EntityTextEnd>238</EntityTextEnd>
+	<LinkerScore>0.9641242746888292</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_agency</WikiTitle>
+		<WikiTitleID>47917</WikiTitleID>
+		<RankerScore>0.8171689801865792</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.8171689801865792</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>0.18283101981342073</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>245</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>1.0996292797290215</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Olga</EntitySurfaceForm>
+	<EntityTextStart>265</EntityTextStart>
+	<EntityTextEnd>269</EntityTextEnd>
+	<LinkerScore>-0.2642063320764857</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Olga,_Greece</WikiTitle>
+		<WikiTitleID>12384407</WikiTitleID>
+		<RankerScore>0.06200426126311816</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grand_Duchess_Olga_Nikolaevna_of_Russia</WikiTitle> <WikiTitleID>981073</WikiTitleID> <RankerScore>0.05712783057210832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_of_Kiev</WikiTitle> <WikiTitleID>22817</WikiTitleID> <RankerScore>0.05408319920386441</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga,_Greece</WikiTitle> <WikiTitleID>12384407</WikiTitleID> <RankerScore>0.06200426126311816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga,_Washington</WikiTitle> <WikiTitleID>9041124</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga,_Russia</WikiTitle> <WikiTitleID>8402512</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Nikolaevna_of_Russia</WikiTitle> <WikiTitleID>3041351</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Constantinovna_of_Russia</WikiTitle> <WikiTitleID>1430549</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_(opera)</WikiTitle> <WikiTitleID>15145368</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Princess_Olga_of_Greece_and_Denmark</WikiTitle> <WikiTitleID>402882</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thomas_de_Hartmann</WikiTitle> <WikiTitleID>215290</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Kameneva</WikiTitle> <WikiTitleID>2813368</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hurricane_Olga_(2001)</WikiTitle> <WikiTitleID>12752170</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Valerianovna_Paley</WikiTitle> <WikiTitleID>2367408</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eugene_Onegin_(opera)</WikiTitle> <WikiTitleID>708937</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga,_Florida</WikiTitle> <WikiTitleID>109341</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tropical_Storm_Olga_(2007)</WikiTitle> <WikiTitleID>14668232</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Havlová</WikiTitle> <WikiTitleID>12240737</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchess_Olga_of_Russia</WikiTitle> <WikiTitleID>68063</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_(film)</WikiTitle> <WikiTitleID>18355667</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Olga_Menchik</WikiTitle> <WikiTitleID>15772260</WikiTitleID> <RankerScore>0.04863439464475936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>421</EntityTextStart>
+	<EntityTextEnd>427</EntityTextEnd>
+	<LinkerScore>0.8835145189576425</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.19954989936696893</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.19954989936696893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.044490016999089235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.039698414525890326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.04213303935929716</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>roubles</EntitySurfaceForm>
+	<EntityTextStart>457</EntityTextStart>
+	<EntityTextEnd>464</EntityTextEnd>
+	<LinkerScore>-0.14208430362845836</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_ruble</WikiTitle>
+		<WikiTitleID>233596</WikiTitleID>
+		<RankerScore>0.4222086177555171</RankerScore>
+		<Attributes>currency	sign</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_ruble</WikiTitle> <WikiTitleID>233596</WikiTitleID> <RankerScore>0.4222086177555171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ruble</WikiTitle> <WikiTitleID>3170873</WikiTitleID> <RankerScore>0.35899690854060284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_ruble</WikiTitle> <WikiTitleID>1677351</WikiTitleID> <RankerScore>0.21879447370387994</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>courtroom</EntitySurfaceForm>
+	<EntityTextStart>524</EntityTextStart>
+	<EntityTextEnd>533</EntityTextEnd>
+	<LinkerScore>0.6187652099027979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Courtroom</WikiTitle>
+		<WikiTitleID>1766292</WikiTitleID>
+		<RankerScore>0.6213520478753769</RankerScore>
+		<Attributes>courthouse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Courtroom</WikiTitle> <WikiTitleID>1766292</WikiTitleID> <RankerScore>0.6213520478753769</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court</WikiTitle> <WikiTitleID>75358</WikiTitleID> <RankerScore>0.26568962573243815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legal_drama</WikiTitle> <WikiTitleID>62000</WikiTitleID> <RankerScore>0.11295832639218488</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>judge</EntitySurfaceForm>
+	<EntityTextStart>563</EntityTextStart>
+	<EntityTextEnd>568</EntityTextEnd>
+	<LinkerScore>0.6537080986972157</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Judge</WikiTitle>
+		<WikiTitleID>44719</WikiTitleID>
+		<RankerScore>0.15653166713794622</RankerScore>
+		<Attributes>judges	profession</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Judge</WikiTitle> <WikiTitleID>44719</WikiTitleID> <RankerScore>0.15653166713794622</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(2000_AD)</WikiTitle> <WikiTitleID>1088489</WikiTitleID> <RankerScore>0.059376560173944465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_federal_judge</WikiTitle> <WikiTitleID>834368</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Qadi</WikiTitle> <WikiTitleID>873192</WikiTitleID> <RankerScore>0.04155453512226782</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judge_(policy_debate)</WikiTitle> <WikiTitleID>3567777</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_judge</WikiTitle> <WikiTitleID>3192014</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_judges</WikiTitle> <WikiTitleID>3611489</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Beth_din</WikiTitle> <WikiTitleID>794946</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lord_Justice_of_Appeal</WikiTitle> <WikiTitleID>3740873</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_judge</WikiTitle> <WikiTitleID>5093797</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Last_Judgment</WikiTitle> <WikiTitleID>161978</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Giudicati</WikiTitle> <WikiTitleID>607827</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inquisitorial_system</WikiTitle> <WikiTitleID>197639</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dayyán</WikiTitle> <WikiTitleID>1746971</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_L._Oakes</WikiTitle> <WikiTitleID>6277728</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Citizenship_judge</WikiTitle> <WikiTitleID>7375034</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Court_of_Session</WikiTitle> <WikiTitleID>381053</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Honourable_Mr_Justice_Stephen_Rawley</WikiTitle> <WikiTitleID>6061994</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magistrate</WikiTitle> <WikiTitleID>306902</WikiTitleID> <RankerScore>0.04367866103328479</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hospital</EntitySurfaceForm>
+	<EntityTextStart>583</EntityTextStart>
+	<EntityTextEnd>591</EntityTextEnd>
+	<LinkerScore>0.7930530652407918</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.11643525975128483</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.11643525975128483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bimaristan</WikiTitle> <WikiTitleID>8284152</WikiTitleID> <RankerScore>0.044783296045890764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stoke_Mandeville_Hospital</WikiTitle> <WikiTitleID>393514</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.04773942034555465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greystone_Park_Psychiatric_Hospital</WikiTitle> <WikiTitleID>3963096</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modbury_Hospital</WikiTitle> <WikiTitleID>13790829</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabbatsbergs_sjukhus</WikiTitle> <WikiTitleID>10109977</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_Albert_Schweitzer_Haiti</WikiTitle> <WikiTitleID>11665086</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_Saudi_Arabia</WikiTitle> <WikiTitleID>711236</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Wood_Johnson_University_Hospital</WikiTitle> <WikiTitleID>6739361</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Amsterdam_Public_Hospital</WikiTitle> <WikiTitleID>7449722</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aga_Khan_University_Hospital,_Nairobi</WikiTitle> <WikiTitleID>7941437</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ninewells_Hospital</WikiTitle> <WikiTitleID>7108193</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_locations_in_A_Series_of_Unfortunate_Events</WikiTitle> <WikiTitleID>8090523</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Providence_Saint_Joseph_Medical_Center</WikiTitle> <WikiTitleID>10698935</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway_Regional_Health_Authority</WikiTitle> <WikiTitleID>13725701</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whitgift_Foundation</WikiTitle> <WikiTitleID>1926811</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>0.04653188375630998</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>593</EntityTextStart>
+	<EntityTextEnd>601</EntityTextEnd>
+	<LinkerScore>1.13545819474606</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

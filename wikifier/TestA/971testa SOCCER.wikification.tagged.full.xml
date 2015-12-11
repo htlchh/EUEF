@@ -1,0 +1,1257 @@
+<WikifierOutput>
+<InputFilename>
+971testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- MILAN&apos;S LENTINI MOVES TO ATALANTA.
+MILAN 1996-08-30
+Former Italian international winger Gianluigi Lentini, transferred to Milan in 1992 for what was believed to be a world record sum, has been loaned to serie A club Atalanta for a year, newspapers reported on Friday.
+The Gazzetta dello Sport said the deal would cost Atalanta around$ 600,000.
+Lentini, 27, joined Milan from Torino in a$ 12 million deal that many have speculated involved far more money changing hands and which has subsequently been investigated by magistrates for alleged financial irregularities.
+The player suffered severe head injuries in a near-fatal car crash the following year and has since struggled to regain the form that made him a hero in Turin.
+The move to Bergamo-based Atalanta reunites Lentini, who fell out with ex-Milan coach Fabio Capello last season, with his former coach at Torino, Emiliano Mondonico.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>LENTINI</EntitySurfaceForm>
+	<EntityTextStart>16</EntityTextStart>
+	<EntityTextEnd>23</EntityTextEnd>
+	<LinkerScore>1.008002002759429</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lentini</WikiTitle>
+		<WikiTitleID>4957683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>establishment	colony	city	municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lentini</WikiTitle> <WikiTitleID>4957683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>ATALANTA</EntitySurfaceForm>
+	<EntityTextStart>33</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>1.0967327038709163</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atalanta_B.C.</WikiTitle>
+		<WikiTitleID>210482</WikiTitleID>
+		<RankerScore>0.47079816145507986</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atalanta_B.C.</WikiTitle> <WikiTitleID>210482</WikiTitleID> <RankerScore>0.47079816145507986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta</WikiTitle> <WikiTitleID>36743</WikiTitleID> <RankerScore>0.1585401616482753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(Pantheon)</WikiTitle> <WikiTitleID>14386523</WikiTitleID> <RankerScore>0.07135362501822776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(opera)</WikiTitle> <WikiTitleID>2632940</WikiTitleID> <RankerScore>0.07135362501822776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1915_automobile)</WikiTitle> <WikiTitleID>858211</WikiTitleID> <RankerScore>0.08524717682373374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(island)</WikiTitle> <WikiTitleID>7716055</WikiTitleID> <RankerScore>0.07135362501822776</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1937_automobile)</WikiTitle> <WikiTitleID>858219</WikiTitleID> <RankerScore>0.07135362501822776</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MILAN</EntitySurfaceForm>
+	<EntityTextStart>43</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>1.0426779642707023</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>MILAN</WikiTitle>
+		<WikiTitleID>312367</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>missile	weapon</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>MILAN</WikiTitle> <WikiTitleID>312367</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italian</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>1.0956754105695223</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.2653352799359713</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.2653352799359713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_language</WikiTitle> <WikiTitleID>14708</WikiTitleID> <RankerScore>0.06526971636773983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italians</WikiTitle> <WikiTitleID>385155</WikiTitleID> <RankerScore>0.0445055720957532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_cuisine</WikiTitle> <WikiTitleID>3735620</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_American</WikiTitle> <WikiTitleID>125320</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy_(1861–1946)</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Italy</WikiTitle> <WikiTitleID>14701</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Italy</WikiTitle> <WikiTitleID>283846</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Brazilian</WikiTitle> <WikiTitleID>4420441</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_literature</WikiTitle> <WikiTitleID>1589136</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Australian</WikiTitle> <WikiTitleID>3141986</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_poetry</WikiTitle> <WikiTitleID>2909091</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regia_Marina</WikiTitle> <WikiTitleID>1126949</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Canadians</WikiTitle> <WikiTitleID>1741313</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_comics</WikiTitle> <WikiTitleID>1181467</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_of_Italy</WikiTitle> <WikiTitleID>1079115</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Italy</WikiTitle> <WikiTitleID>383448</WikiTitleID> <RankerScore>0.03675820185885504</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italian international</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>88</EntityTextEnd>
+	<LinkerScore>0.7907716839669856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy_national_football_team</WikiTitle>
+		<WikiTitleID>362466</WikiTitleID>
+		<RankerScore>0.598461779442103</RankerScore>
+		<Attributes>country	winner	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.598461779442103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.19702598138103122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_International_(badminton)</WikiTitle> <WikiTitleID>12163320</WikiTitleID> <RankerScore>0.2045122391768658</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>winger</EntitySurfaceForm>
+	<EntityTextStart>89</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>0.4522241429182514</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Winger_(sport)</WikiTitle>
+		<WikiTitleID>821314</WikiTitleID>
+		<RankerScore>0.12247446686675115</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Winger_(ice_hockey)</WikiTitle> <WikiTitleID>567681</WikiTitleID> <RankerScore>0.10532268904004832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Winger_(sport)</WikiTitle> <WikiTitleID>821314</WikiTitleID> <RankerScore>0.12247446686675115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Midfielder</WikiTitle> <WikiTitleID>548981</WikiTitleID> <RankerScore>0.10051027884706204</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_league_positions</WikiTitle> <WikiTitleID>1195281</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_positions</WikiTitle> <WikiTitleID>771803</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Forward_(ice_hockey)</WikiTitle> <WikiTitleID>567665</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Leftwinger</WikiTitle> <WikiTitleID>1296797</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Centre_line</WikiTitle> <WikiTitleID>3252171</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Outside_forward</WikiTitle> <WikiTitleID>15927865</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_positions</WikiTitle> <WikiTitleID>727810</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Striker</WikiTitle> <WikiTitleID>428681</WikiTitleID> <RankerScore>0.08396157065576731</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gianluigi Lentini</EntitySurfaceForm>
+	<EntityTextStart>96</EntityTextStart>
+	<EntityTextEnd>113</EntityTextEnd>
+	<LinkerScore>1.162394018374552</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gianluigi_Lentini</WikiTitle>
+		<WikiTitleID>1914355</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	footballer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gianluigi_Lentini</WikiTitle> <WikiTitleID>1914355</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lentini</EntitySurfaceForm>
+	<EntityTextStart>106</EntityTextStart>
+	<EntityTextEnd>113</EntityTextEnd>
+	<LinkerScore>0.9814992937028332</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lentini</WikiTitle>
+		<WikiTitleID>4957683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>establishment	colony	city	municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lentini</WikiTitle> <WikiTitleID>4957683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Milan</EntitySurfaceForm>
+	<EntityTextStart>130</EntityTextStart>
+	<EntityTextEnd>135</EntityTextEnd>
+	<LinkerScore>0.014376064307482159</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Milan</WikiTitle>
+		<WikiTitleID>36511</WikiTitleID>
+		<RankerScore>0.17028829244685467</RankerScore>
+		<Attributes>place	city</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Milan</WikiTitle> <WikiTitleID>36511</WikiTitleID> <RankerScore>0.17028829244685467</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A.C._Milan</WikiTitle> <WikiTitleID>2867</WikiTitleID> <RankerScore>0.16225401443325985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duchy_of_Milan</WikiTitle> <WikiTitleID>679080</WikiTitleID> <RankerScore>0.04353028298503106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Ohio</WikiTitle> <WikiTitleID>150899</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_Hampshire</WikiTitle> <WikiTitleID>124609</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Milan</WikiTitle> <WikiTitleID>1448716</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_(1967_film)</WikiTitle> <WikiTitleID>10572390</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Michigan</WikiTitle> <WikiTitleID>150559</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_(aka_The_Leather_Boy)</WikiTitle> <WikiTitleID>7775728</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Milan</WikiTitle> <WikiTitleID>1733438</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Indiana</WikiTitle> <WikiTitleID>112578</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Tennessee</WikiTitle> <WikiTitleID>135184</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_Township,_Allen_County,_Indiana</WikiTitle> <WikiTitleID>6954960</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_York</WikiTitle> <WikiTitleID>126379</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_Orleans</WikiTitle> <WikiTitleID>18076149</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercury_Milan</WikiTitle> <WikiTitleID>933691</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Missouri</WikiTitle> <WikiTitleID>124860</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Illinois</WikiTitle> <WikiTitleID>111851</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Quebec</WikiTitle> <WikiTitleID>5766337</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Georgia</WikiTitle> <WikiTitleID>110054</WikiTitleID> <RankerScore>0.0367016123608738</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>1992</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>143</EntityTextEnd>
+	<LinkerScore>1.0492887446936796</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1992</WikiTitle>
+		<WikiTitleID>34669</WikiTitleID>
+		<RankerScore>0.10649356396914413</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>1992</WikiTitle> <WikiTitleID>34669</WikiTitleID> <RankerScore>0.10649356396914413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_film</WikiTitle> <WikiTitleID>171581</WikiTitleID> <RankerScore>0.05761321854822018</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_music</WikiTitle> <WikiTitleID>160802</WikiTitleID> <RankerScore>0.05651891664585545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_literature</WikiTitle> <WikiTitleID>190208</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_video_gaming</WikiTitle> <WikiTitleID>1322998</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_Summer_Olympics</WikiTitle> <WikiTitleID>82755</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_sports</WikiTitle> <WikiTitleID>224733</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_baseball</WikiTitle> <WikiTitleID>2076419</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_NFL_season</WikiTitle> <WikiTitleID>2367327</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_Winter_Olympics</WikiTitle> <WikiTitleID>113357</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1991–92_NHL_season</WikiTitle> <WikiTitleID>2093351</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_poetry</WikiTitle> <WikiTitleID>5513161</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1992</WikiTitle> <WikiTitleID>39529</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_of_Representatives_elections,_1992</WikiTitle> <WikiTitleID>1341549</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_general_election,_1992</WikiTitle> <WikiTitleID>87184</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_in_comics</WikiTitle> <WikiTitleID>11790130</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Juno_Awards_of_1992</WikiTitle> <WikiTitleID>5801517</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_African_Cup_of_Nations</WikiTitle> <WikiTitleID>1108286</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UEFA_Euro_1992</WikiTitle> <WikiTitleID>558990</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1992_CFL_season</WikiTitle> <WikiTitleID>2802932</WikiTitleID> <RankerScore>0.04584554710804589</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>world record</EntitySurfaceForm>
+	<EntityTextStart>174</EntityTextStart>
+	<EntityTextEnd>186</EntityTextEnd>
+	<LinkerScore>0.7053945156197579</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_record</WikiTitle>
+		<WikiTitleID>4380391</WikiTitleID>
+		<RankerScore>0.11372663886833012</RankerScore>
+		<Attributes>record</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_record</WikiTitle> <WikiTitleID>4380391</WikiTitleID> <RankerScore>0.11372663886833012</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_records_in_athletics</WikiTitle> <WikiTitleID>3443107</WikiTitleID> <RankerScore>0.055899256068456804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_speed_skating_records</WikiTitle> <WikiTitleID>3157211</WikiTitleID> <RankerScore>0.04819325388726586</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_200_metres_butterfly</WikiTitle> <WikiTitleID>8483298</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_50_metres_freestyle</WikiTitle> <WikiTitleID>8480088</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guinness_World_Records</WikiTitle> <WikiTitleID>100796</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_for_the_men&apos;s_10,000_m</WikiTitle> <WikiTitleID>6873474</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Land_speed_record_for_railed_vehicles</WikiTitle> <WikiTitleID>3054357</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Marathon_world_best_progression</WikiTitle> <WikiTitleID>310762</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_100_metres_butterfly</WikiTitle> <WikiTitleID>8515724</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_100_metres_men</WikiTitle> <WikiTitleID>86294</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rowing_World_Records</WikiTitle> <WikiTitleID>985229</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_1500_metres</WikiTitle> <WikiTitleID>14824822</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bench_press_world_records</WikiTitle> <WikiTitleID>8881386</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Test_cricket_records</WikiTitle> <WikiTitleID>302961</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_first-class_cricket_records</WikiTitle> <WikiTitleID>5507023</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_records_in_swimming</WikiTitle> <WikiTitleID>10076226</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_pole_vault_women</WikiTitle> <WikiTitleID>1579780</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_records_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>904713</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_record_progression_200_metres_medley</WikiTitle> <WikiTitleID>8526480</WikiTitleID> <RankerScore>0.04601063830446748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>serie A</EntitySurfaceForm>
+	<EntityTextStart>211</EntityTextStart>
+	<EntityTextEnd>218</EntityTextEnd>
+	<LinkerScore>1.1434491037950973</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Serie_A</WikiTitle>
+		<WikiTitleID>15496</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>competition	league	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Atalanta</EntitySurfaceForm>
+	<EntityTextStart>224</EntityTextStart>
+	<EntityTextEnd>232</EntityTextEnd>
+	<LinkerScore>1.121418163668216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atalanta_B.C.</WikiTitle>
+		<WikiTitleID>210482</WikiTitleID>
+		<RankerScore>0.4428624846849961</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atalanta_B.C.</WikiTitle> <WikiTitleID>210482</WikiTitleID> <RankerScore>0.4428624846849961</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta</WikiTitle> <WikiTitleID>36743</WikiTitleID> <RankerScore>0.16735118044423616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(Pantheon)</WikiTitle> <WikiTitleID>14386523</WikiTitleID> <RankerScore>0.0741865623903024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(opera)</WikiTitle> <WikiTitleID>2632940</WikiTitleID> <RankerScore>0.0741865623903024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1915_automobile)</WikiTitle> <WikiTitleID>858211</WikiTitleID> <RankerScore>0.09304008530955807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(island)</WikiTitle> <WikiTitleID>7716055</WikiTitleID> <RankerScore>0.0741865623903024</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1937_automobile)</WikiTitle> <WikiTitleID>858219</WikiTitleID> <RankerScore>0.0741865623903024</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gazzetta dello Sport</EntitySurfaceForm>
+	<EntityTextStart>280</EntityTextStart>
+	<EntityTextEnd>300</EntityTextEnd>
+	<LinkerScore>0.9553315173128573</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>La_Gazzetta_dello_Sport</WikiTitle>
+		<WikiTitleID>1938426</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>newspaper	medium</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>La_Gazzetta_dello_Sport</WikiTitle> <WikiTitleID>1938426</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sport</EntitySurfaceForm>
+	<EntityTextStart>295</EntityTextStart>
+	<EntityTextEnd>300</EntityTextEnd>
+	<LinkerScore>-0.23629915291494374</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sport</WikiTitle>
+		<WikiTitleID>26853</WikiTitleID>
+		<RankerScore>0.10247699449760807</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sport</WikiTitle> <WikiTitleID>26853</WikiTitleID> <RankerScore>0.10247699449760807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_Club_do_Recife</WikiTitle> <WikiTitleID>604575</WikiTitleID> <RankerScore>0.060804544227552805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Sport_(Australia)</WikiTitle> <WikiTitleID>15733048</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_(Vaasa)</WikiTitle> <WikiTitleID>731042</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_Canada</WikiTitle> <WikiTitleID>1171185</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_(magazine)</WikiTitle> <WikiTitleID>14246408</WikiTitleID> <RankerScore>0.08858522462018883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_(newspaper)</WikiTitle> <WikiTitleID>9528871</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_magazine</WikiTitle> <WikiTitleID>11595435</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Sport</WikiTitle> <WikiTitleID>3095179</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_in_Scotland</WikiTitle> <WikiTitleID>4476831</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ultima_Sports</WikiTitle> <WikiTitleID>4231957</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sports_in_the_United_States</WikiTitle> <WikiTitleID>2257795</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_in_Canada</WikiTitle> <WikiTitleID>1603583</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sports_College</WikiTitle> <WikiTitleID>9952916</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sportscene</WikiTitle> <WikiTitleID>6765046</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sports_game</WikiTitle> <WikiTitleID>387562</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sport_psychology</WikiTitle> <WikiTitleID>4428303</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Sport_and_Tourism</WikiTitle> <WikiTitleID>1469377</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Secretary_of_State_(Sport)</WikiTitle> <WikiTitleID>16346108</WikiTitleID> <RankerScore>0.04675832729091565</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Atalanta</EntitySurfaceForm>
+	<EntityTextStart>326</EntityTextStart>
+	<EntityTextEnd>334</EntityTextEnd>
+	<LinkerScore>0.9425789988242629</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atalanta_B.C.</WikiTitle>
+		<WikiTitleID>210482</WikiTitleID>
+		<RankerScore>0.4330470911010435</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atalanta_B.C.</WikiTitle> <WikiTitleID>210482</WikiTitleID> <RankerScore>0.4330470911010435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta</WikiTitle> <WikiTitleID>36743</WikiTitleID> <RankerScore>0.1701777805366536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(Pantheon)</WikiTitle> <WikiTitleID>14386523</WikiTitleID> <RankerScore>0.07570750254369805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(opera)</WikiTitle> <WikiTitleID>2632940</WikiTitleID> <RankerScore>0.07570750254369805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1915_automobile)</WikiTitle> <WikiTitleID>858211</WikiTitleID> <RankerScore>0.09394511818751074</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(island)</WikiTitle> <WikiTitleID>7716055</WikiTitleID> <RankerScore>0.07570750254369805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1937_automobile)</WikiTitle> <WikiTitleID>858219</WikiTitleID> <RankerScore>0.07570750254369805</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lentini</EntitySurfaceForm>
+	<EntityTextStart>352</EntityTextStart>
+	<EntityTextEnd>359</EntityTextEnd>
+	<LinkerScore>0.9964678121369658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lentini</WikiTitle>
+		<WikiTitleID>4957683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>establishment	colony	city	municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lentini</WikiTitle> <WikiTitleID>4957683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Milan</EntitySurfaceForm>
+	<EntityTextStart>372</EntityTextStart>
+	<EntityTextEnd>377</EntityTextEnd>
+	<LinkerScore>0.6921614898100426</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>A.C._Milan</WikiTitle>
+		<WikiTitleID>2867</WikiTitleID>
+		<RankerScore>0.1878894882780927</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Milan</WikiTitle> <WikiTitleID>36511</WikiTitleID> <RankerScore>0.1574968284130342</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A.C._Milan</WikiTitle> <WikiTitleID>2867</WikiTitleID> <RankerScore>0.1878894882780927</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duchy_of_Milan</WikiTitle> <WikiTitleID>679080</WikiTitleID> <RankerScore>0.042403664728683656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Ohio</WikiTitle> <WikiTitleID>150899</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_Hampshire</WikiTitle> <WikiTitleID>124609</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Milan</WikiTitle> <WikiTitleID>1448716</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_(1967_film)</WikiTitle> <WikiTitleID>10572390</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Michigan</WikiTitle> <WikiTitleID>150559</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_(aka_The_Leather_Boy)</WikiTitle> <WikiTitleID>7775728</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Milan</WikiTitle> <WikiTitleID>1733438</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Indiana</WikiTitle> <WikiTitleID>112578</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Tennessee</WikiTitle> <WikiTitleID>135184</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan_Township,_Allen_County,_Indiana</WikiTitle> <WikiTitleID>6954960</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_York</WikiTitle> <WikiTitleID>126379</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_New_Orleans</WikiTitle> <WikiTitleID>18076149</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mercury_Milan</WikiTitle> <WikiTitleID>933691</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Missouri</WikiTitle> <WikiTitleID>124860</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Illinois</WikiTitle> <WikiTitleID>111851</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Quebec</WikiTitle> <WikiTitleID>5766337</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Milan,_Georgia</WikiTitle> <WikiTitleID>110054</WikiTitleID> <RankerScore>0.03601235403412879</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Torino</EntitySurfaceForm>
+	<EntityTextStart>383</EntityTextStart>
+	<EntityTextEnd>389</EntityTextEnd>
+	<LinkerScore>1.0673689465688097</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Torino_F.C.</WikiTitle>
+		<WikiTitleID>2605752</WikiTitleID>
+		<RankerScore>0.4879312789823269</RankerScore>
+		<Attributes>list	club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Torino_F.C.</WikiTitle> <WikiTitleID>2605752</WikiTitleID> <RankerScore>0.4879312789823269</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin</WikiTitle> <WikiTitleID>31004</WikiTitleID> <RankerScore>0.1960369989370709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Torino</WikiTitle> <WikiTitleID>316912</WikiTitleID> <RankerScore>0.0686918222760839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_Torino</WikiTitle> <WikiTitleID>1206490</WikiTitleID> <RankerScore>0.06183497495112955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Turin</WikiTitle> <WikiTitleID>1449176</WikiTitleID> <RankerScore>0.06183497495112955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Winter_Olympics</WikiTitle> <WikiTitleID>77743</WikiTitleID> <RankerScore>0.06183497495112955</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torino_(album)</WikiTitle> <WikiTitleID>3230890</WikiTitleID> <RankerScore>0.06183497495112955</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>magistrates</EntitySurfaceForm>
+	<EntityTextStart>525</EntityTextStart>
+	<EntityTextEnd>536</EntityTextEnd>
+	<LinkerScore>0.4461538226943895</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Magistrate</WikiTitle>
+		<WikiTitleID>306902</WikiTitleID>
+		<RankerScore>0.4425642132913321</RankerScore>
+		<Attributes>profession</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Magistrate</WikiTitle> <WikiTitleID>306902</WikiTitleID> <RankerScore>0.4425642132913321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Magistrates</WikiTitle> <WikiTitleID>9167402</WikiTitleID> <RankerScore>0.30815954442164284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Justice_of_the_Peace</WikiTitle> <WikiTitleID>260962</WikiTitleID> <RankerScore>0.2492762422870249</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>head injuries</EntitySurfaceForm>
+	<EntityTextStart>602</EntityTextStart>
+	<EntityTextEnd>615</EntityTextEnd>
+	<LinkerScore>1.018017175797463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Head_injury</WikiTitle>
+		<WikiTitleID>37641</WikiTitleID>
+		<RankerScore>0.630178621297755</RankerScore>
+		<Attributes>injury</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Head_injury</WikiTitle> <WikiTitleID>37641</WikiTitleID> <RankerScore>0.630178621297755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brain_damage</WikiTitle> <WikiTitleID>304588</WikiTitleID> <RankerScore>0.20512100393663124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cerebral_contusion</WikiTitle> <WikiTitleID>2963341</WikiTitleID> <RankerScore>0.16470037476561367</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>car crash</EntitySurfaceForm>
+	<EntityTextStart>632</EntityTextStart>
+	<EntityTextEnd>641</EntityTextEnd>
+	<LinkerScore>1.0858439501791421</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Car_accident</WikiTitle>
+		<WikiTitleID>3080798</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Car_accident</WikiTitle> <WikiTitleID>3080798</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>regain</EntitySurfaceForm>
+	<EntityTextStart>688</EntityTextStart>
+	<EntityTextEnd>694</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Regain_Records</WikiTitle>
+		<WikiTitleID>8865463</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>label</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turin</EntitySurfaceForm>
+	<EntityTextStart>728</EntityTextStart>
+	<EntityTextEnd>733</EntityTextEnd>
+	<LinkerScore>1.2078488248895989</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Turin</WikiTitle>
+		<WikiTitleID>31004</WikiTitleID>
+		<RankerScore>0.19690895587725987</RankerScore>
+		<Attributes>game	city	town	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Turin</WikiTitle> <WikiTitleID>31004</WikiTitleID> <RankerScore>0.19690895587725987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Turin</WikiTitle> <WikiTitleID>1449176</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin,_Iowa</WikiTitle> <WikiTitleID>114083</WikiTitleID> <RankerScore>0.05025615835133851</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Turin</WikiTitle> <WikiTitleID>2880673</WikiTitleID> <RankerScore>0.05306168969840286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin_(village),_New_York</WikiTitle> <WikiTitleID>259856</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Turin</WikiTitle> <WikiTitleID>453828</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin,_Alberta</WikiTitle> <WikiTitleID>6544025</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin_(town),_New_York</WikiTitle> <WikiTitleID>259857</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin,_Georgia</WikiTitle> <WikiTitleID>110021</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_of_Turin</WikiTitle> <WikiTitleID>8551492</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Winter_Olympics</WikiTitle> <WikiTitleID>77743</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teatro_Regio_di_Torino</WikiTitle> <WikiTitleID>701691</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Turin</WikiTitle> <WikiTitleID>8072715</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canada_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3384211</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cross-country_skiing_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>2977055</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luge_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3489623</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin_International_Airport</WikiTitle> <WikiTitleID>5213757</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Sardinia</WikiTitle> <WikiTitleID>312776</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin_Cathedral</WikiTitle> <WikiTitleID>369324</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin,_New_York</WikiTitle> <WikiTitleID>5459120</WikiTitleID> <RankerScore>0.04116312918076464</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Atalanta</EntitySurfaceForm>
+	<EntityTextStart>761</EntityTextStart>
+	<EntityTextEnd>769</EntityTextEnd>
+	<LinkerScore>1.0980586508167376</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Atalanta_B.C.</WikiTitle>
+		<WikiTitleID>210482</WikiTitleID>
+		<RankerScore>0.43660197801899275</RankerScore>
+		<Attributes>club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Atalanta_B.C.</WikiTitle> <WikiTitleID>210482</WikiTitleID> <RankerScore>0.43660197801899275</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta</WikiTitle> <WikiTitleID>36743</WikiTitleID> <RankerScore>0.16762889637919096</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(Pantheon)</WikiTitle> <WikiTitleID>14386523</WikiTitleID> <RankerScore>0.07629804179906596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(opera)</WikiTitle> <WikiTitleID>2632940</WikiTitleID> <RankerScore>0.07629804179906596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1915_automobile)</WikiTitle> <WikiTitleID>858211</WikiTitleID> <RankerScore>0.09057695840555251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(island)</WikiTitle> <WikiTitleID>7716055</WikiTitleID> <RankerScore>0.07629804179906596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atalanta_(1937_automobile)</WikiTitle> <WikiTitleID>858219</WikiTitleID> <RankerScore>0.07629804179906596</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lentini</EntitySurfaceForm>
+	<EntityTextStart>779</EntityTextStart>
+	<EntityTextEnd>786</EntityTextEnd>
+	<LinkerScore>0.9972788524814465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lentini</WikiTitle>
+		<WikiTitleID>4957683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>establishment	colony	city	municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lentini</WikiTitle> <WikiTitleID>4957683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>coach</EntitySurfaceForm>
+	<EntityTextStart>815</EntityTextStart>
+	<EntityTextEnd>820</EntityTextEnd>
+	<LinkerScore>0.5353984154500262</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coach_(sport)</WikiTitle>
+		<WikiTitleID>626967</WikiTitleID>
+		<RankerScore>0.11711742930941309</RankerScore>
+		<Attributes>coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coach_(sport)</WikiTitle> <WikiTitleID>626967</WikiTitleID> <RankerScore>0.11711742930941309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(baseball)</WikiTitle> <WikiTitleID>596035</WikiTitleID> <RankerScore>0.06455878303650307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(vehicle)</WikiTitle> <WikiTitleID>214761</WikiTitleID> <RankerScore>0.05375874456303615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(ice_hockey)</WikiTitle> <WikiTitleID>567915</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(rail)</WikiTitle> <WikiTitleID>5355732</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_coach</WikiTitle> <WikiTitleID>533149</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(carriage)</WikiTitle> <WikiTitleID>13640744</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(basketball)</WikiTitle> <WikiTitleID>7001560</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coaching</WikiTitle> <WikiTitleID>143215</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stagecoach</WikiTitle> <WikiTitleID>214764</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carriage</WikiTitle> <WikiTitleID>229714</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_current_NCAA_Division_I_FBS_football_coaches</WikiTitle> <WikiTitleID>7894625</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bus</WikiTitle> <WikiTitleID>4146</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_class</WikiTitle> <WikiTitleID>1892865</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_training</WikiTitle> <WikiTitleID>11325137</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Head_Coaches_of_Boca_Juniors</WikiTitle> <WikiTitleID>8950253</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_services_in_the_United_Kingdom</WikiTitle> <WikiTitleID>16339321</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manager_(baseball)</WikiTitle> <WikiTitleID>501672</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teacher</WikiTitle> <WikiTitleID>205075</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passenger_car_(rail)</WikiTitle> <WikiTitleID>1103558</WikiTitleID> <RankerScore>0.044974414299473395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fabio Capello</EntitySurfaceForm>
+	<EntityTextStart>821</EntityTextStart>
+	<EntityTextEnd>834</EntityTextEnd>
+	<LinkerScore>1.2808131571706032</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fabio_Capello</WikiTitle>
+		<WikiTitleID>665012</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>manager	footballer	person	player	catholic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fabio_Capello</WikiTitle> <WikiTitleID>665012</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fabio</EntitySurfaceForm>
+	<EntityTextStart>821</EntityTextStart>
+	<EntityTextEnd>826</EntityTextEnd>
+	<LinkerScore>-0.017120513014918348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fabio_Lanzoni</WikiTitle>
+		<WikiTitleID>442799</WikiTitleID>
+		<RankerScore>0.30530170999144257</RankerScore>
+		<Attributes>parameter	writer	actor	person	model</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fabio_Lanzoni</WikiTitle> <WikiTitleID>442799</WikiTitleID> <RankerScore>0.30530170999144257</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fabio_(DJ)</WikiTitle> <WikiTitleID>1964796</WikiTitleID> <RankerScore>0.28273643389756764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fabio_Ochoa_Vázquez</WikiTitle> <WikiTitleID>8574204</WikiTitleID> <RankerScore>0.21841290241456915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fábio_Lopes_Alcântara</WikiTitle> <WikiTitleID>8967099</WikiTitleID> <RankerScore>0.19354895369642064</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Capello</EntitySurfaceForm>
+	<EntityTextStart>827</EntityTextStart>
+	<EntityTextEnd>834</EntityTextEnd>
+	<LinkerScore>1.025659020004579</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fabio_Capello</WikiTitle>
+		<WikiTitleID>665012</WikiTitleID>
+		<RankerScore>0.7850263912585936</RankerScore>
+		<Attributes>manager	footballer	person	player	catholic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Fabio_Capello</WikiTitle> <WikiTitleID>665012</WikiTitleID> <RankerScore>0.7850263912585936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Luigi_Capello</WikiTitle> <WikiTitleID>4693435</WikiTitleID> <RankerScore>0.21497360874140634</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>coach</EntitySurfaceForm>
+	<EntityTextStart>864</EntityTextStart>
+	<EntityTextEnd>869</EntityTextEnd>
+	<LinkerScore>0.6418302434044341</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Coach_(sport)</WikiTitle>
+		<WikiTitleID>626967</WikiTitleID>
+		<RankerScore>0.11903041044352507</RankerScore>
+		<Attributes>coach</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Coach_(sport)</WikiTitle> <WikiTitleID>626967</WikiTitleID> <RankerScore>0.11903041044352507</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(baseball)</WikiTitle> <WikiTitleID>596035</WikiTitleID> <RankerScore>0.0645189155286358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(vehicle)</WikiTitle> <WikiTitleID>214761</WikiTitleID> <RankerScore>0.053275810729717286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(ice_hockey)</WikiTitle> <WikiTitleID>567915</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(rail)</WikiTitle> <WikiTitleID>5355732</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Head_coach</WikiTitle> <WikiTitleID>533149</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(carriage)</WikiTitle> <WikiTitleID>13640744</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_(basketball)</WikiTitle> <WikiTitleID>7001560</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coaching</WikiTitle> <WikiTitleID>143215</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stagecoach</WikiTitle> <WikiTitleID>214764</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carriage</WikiTitle> <WikiTitleID>229714</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_current_NCAA_Division_I_FBS_football_coaches</WikiTitle> <WikiTitleID>7894625</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bus</WikiTitle> <WikiTitleID>4146</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_class</WikiTitle> <WikiTitleID>1892865</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_training</WikiTitle> <WikiTitleID>11325137</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Head_Coaches_of_Boca_Juniors</WikiTitle> <WikiTitleID>8950253</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coach_services_in_the_United_Kingdom</WikiTitle> <WikiTitleID>16339321</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manager_(baseball)</WikiTitle> <WikiTitleID>501672</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teacher</WikiTitle> <WikiTitleID>205075</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Passenger_car_(rail)</WikiTitle> <WikiTitleID>1103558</WikiTitleID> <RankerScore>0.044892639017536574</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Torino</EntitySurfaceForm>
+	<EntityTextStart>873</EntityTextStart>
+	<EntityTextEnd>879</EntityTextEnd>
+	<LinkerScore>1.2372546657911725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Torino_F.C.</WikiTitle>
+		<WikiTitleID>2605752</WikiTitleID>
+		<RankerScore>0.4122617646662064</RankerScore>
+		<Attributes>list	club	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Torino_F.C.</WikiTitle> <WikiTitleID>2605752</WikiTitleID> <RankerScore>0.4122617646662064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turin</WikiTitle> <WikiTitleID>31004</WikiTitleID> <RankerScore>0.18124490258705744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ford_Torino</WikiTitle> <WikiTitleID>316912</WikiTitleID> <RankerScore>0.07219905055279606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_Torino</WikiTitle> <WikiTitleID>1206490</WikiTitleID> <RankerScore>0.07219905055279606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_Turin</WikiTitle> <WikiTitleID>1449176</WikiTitleID> <RankerScore>0.07219905055279606</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Winter_Olympics</WikiTitle> <WikiTitleID>77743</WikiTitleID> <RankerScore>0.11769713053555196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Torino_(album)</WikiTitle> <WikiTitleID>3230890</WikiTitleID> <RankerScore>0.07219905055279606</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Emiliano Mondonico</EntitySurfaceForm>
+	<EntityTextStart>881</EntityTextStart>
+	<EntityTextEnd>899</EntityTextEnd>
+	<LinkerScore>1.2012582769566096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Emiliano_Mondonico</WikiTitle>
+		<WikiTitleID>7393320</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>manager	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Emiliano_Mondonico</WikiTitle> <WikiTitleID>7393320</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

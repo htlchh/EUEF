@@ -8,6 +8,7 @@ import java.io.ObjectInputStream;
 import java.io.ObjectOutputStream;
 import java.io.Serializable;
 import java.util.HashMap;
+import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
@@ -31,19 +32,19 @@ public class SystemResult implements Serializable {
 	private static File cacheFile = null;
 	private static boolean cacheOpened = false;
 	
-	//存储annotation任务的结果，Map<系统名字,Map<数据集名字,Map<文档title,title对应的annotation集合>>>
-	private Map<String, Map<String, Map<String, Set<Annotation>>>> annotationCache 
-					= new HashMap<String, Map<String, Map<String,Set<Annotation>>>>();
-	private Map<String, Map<String, Map<String, Set<Mention>>>> mentionCache 
-					= new HashMap<String, Map<String, Map<String,Set<Mention>>>>();
-	private Map<String, Map<String, Map<String, Set<NIL>>>> NILCache 
-					= new HashMap<String, Map<String, Map<String,Set<NIL>>>>();
-	private Map<String, Map<String, Map<String, Set<Candidate>>>> candidateCache 
-					= new HashMap<String, Map<String, Map<String,Set<Candidate>>>>();
-	private Map<String, Map<String, Map<String, Set<Entity>>>> entityCache 
-					= new HashMap<String, Map<String, Map<String,Set<Entity>>>>();
-	private Map<String, Map<String, Map<String, Long>>> costTime 
-					= new HashMap<String, Map<String, Map<String,Long>>>();
+	//存储annotation任务的结果，Map<系统名字+数据集名字,Map<文档title,title对应的annotation集合>>
+	private Map<String, Map<String, Set<Annotation>>> annotationCache 
+					= new HashMap<String, Map<String,Set<Annotation>>>();
+	private Map<String, Map<String, Set<Mention>>> mentionCache 
+					= new HashMap<String, Map<String,Set<Mention>>>();
+	private Map<String, Map<String, Set<NIL>>> NILCache 
+					= new HashMap<String, Map<String,Set<NIL>>>();
+	private Map<String, Map<String, Set<Candidate>>> candidateCache 
+					= new HashMap<String, Map<String,Set<Candidate>>>();
+	private Map<String, Map<String, Set<Entity>>> entityCache 
+					= new HashMap<String, Map<String,Set<Entity>>>();
+	private Map<String, Map<String, Long>> costTime 
+					= new HashMap<String, Map<String,Long>>();
 	
 	private SystemResult() { }
 	
@@ -95,8 +96,7 @@ public class SystemResult implements Serializable {
 	 */
 	public boolean isCached(String systemName, String datasetName) {
 		if (cacheOpened == false ||
-				this.annotationCache.get(systemName) == null ||
-					this.annotationCache.get(systemName).get(datasetName) == null)
+				this.annotationCache.get(systemName+datasetName) == null)
 			return false;
 		return true;
 	}
@@ -109,65 +109,124 @@ public class SystemResult implements Serializable {
 	 * @return
 	 */
 	public Map<String, Set<Annotation>> getAnnotationCache(String systemName, String datasetName) {
-		return annotationCache.get(systemName).get(datasetName);
+		return annotationCache.get(systemName + datasetName);
+	}
+	
+	/**
+	 * 返回特定系统大于给定threshold的annotation结果
+	 * 
+	 * @param systemName
+	 * @param datasetName
+	 * @param threshold
+	 * @return
+	 */
+	public Map<String, Set<Annotation>> getAnnotationCache(String systemName, String datasetName, float threshold) {
+		Map<String, Set<Annotation>> retMap = new HashMap<String, Set<Annotation>>();
+		Map<String, Set<Annotation>> resultMap = this.annotationCache.get(systemName + datasetName);
+		for (String title : resultMap.keySet()) 
+		{
+			for (Annotation a : resultMap.get(title)) 
+			{
+				if (retMap.containsKey(title) == false)
+					retMap.put(title, new HashSet<Annotation>());
+				
+				if (a.getScore() >= threshold)
+					retMap.get(title).add(a);
+			}
+		}
+		return retMap;
 	}
 
 	public void setAnnotationCache(String systemName, String datasetName, Map<String, Set<Annotation>> annotationMap) {
-		Map<String, Map<String, Set<Annotation>>> map = new HashMap<String, Map<String,Set<Annotation>>>();
-		map.put(datasetName, annotationMap);
-		this.annotationCache.put(systemName, map);
+		this.annotationCache.put(systemName+datasetName, annotationMap);
 		
 	}
 
 	public Map<String, Set<Mention>> getMentionCache(String systemName, String datasetName) {
-		return mentionCache.get(systemName).get(datasetName);
+		return mentionCache.get(systemName + datasetName);
 	}
 
+	public Map<String, Set<Mention>> getMentionCache(String systemName, String datasetName, float threshold) {
+		Map<String, Set<Mention>> retMap = new HashMap<String, Set<Mention>>();
+		Map<String, Set<Mention>> resultMap = this.mentionCache.get(systemName + datasetName);
+		for (String title : resultMap.keySet()) {
+			for (Mention m : resultMap.get(title)) {
+				if (retMap.containsKey(title) == false)
+					retMap.put(title, new HashSet<Mention>());
+				
+				if (m.getScore() >= threshold) 
+					retMap.get(title).add(m);
+			}
+		}
+		return retMap;
+	}
+	
+	
 	public void setMentionCache(String systemName, String datasetName, Map<String, Set<Mention>> mentionCache) {
-		Map<String, Map<String, Set<Mention>>> map = new HashMap<String, Map<String,Set<Mention>>>();
-		map.put(datasetName, mentionCache);
-		this.mentionCache.put(systemName, map);
+		this.mentionCache.put(systemName + datasetName, mentionCache);
 	}
 
 	public Map<String, Set<NIL>> getNILCache(String systemName, String datasetName) {
-		return NILCache.get(systemName).get(datasetName);
+		return NILCache.get(systemName + datasetName);
+	}
+	
+	public Map<String, Set<NIL>> getNILCache(String systemName, String datasetName, float threshold) {
+		Map<String, Set<NIL>> retMap = new HashMap<String, Set<NIL>>();
+		Map<String, Set<NIL>> resultMap = this.NILCache.get(systemName + datasetName);
+		
+		for (String title : resultMap.keySet()) { 
+			if (retMap.containsKey(title) == false) {
+				retMap.put(title, new HashSet<NIL>());
+			}
+			for (NIL n : resultMap.get(title)) {
+				if (n.getScore() >= threshold)
+					retMap.get(title).add(n);
+			}
+		}
+		return retMap;
 	}
 
 	public void setNILCache(String systemName, String datasetName, Map<String, Set<NIL>> nILCache) {
-		Map<String, Map<String, Set<NIL>>> map = new HashMap<String, Map<String,Set<NIL>>>();
-		map.put(datasetName, nILCache);
-		NILCache.put(systemName, map);
+		NILCache.put(systemName + datasetName, nILCache);
 	}
 
 	public Map<String, Set<Candidate>> getCandidateCache(String systemName, String datasetName) {
-		return candidateCache.get(systemName).get(datasetName);
+		return candidateCache.get(systemName + datasetName);
 	}
-
+	
 	public void setCandidateCache(String systemName, String datasetName, Map<String, Set<Candidate>> candidateCache) {
-		Map<String, Map<String, Set<Candidate>>> map = new HashMap<String, Map<String,Set<Candidate>>>();
-		map.put(datasetName, candidateCache);
-		this.candidateCache.put(systemName, map);
+		this.candidateCache.put(systemName + datasetName, candidateCache);
 	}
 	
 	public Map<String, Set<Entity>> getEntityCache(String systeName, String datasetName) {
-		return this.entityCache.get(systeName).get(datasetName);
+		return this.entityCache.get(systeName + datasetName);
 	}
 	
 	public void setEntityCache(String systemName, String datasetName, Map<String, Set<Entity>> entityMap) {
-		Map<String, Map<String, Set<Entity>>> map = new HashMap<String, Map<String,Set<Entity>>>();
-		map.put(datasetName, entityMap);
-		this.entityCache.put(systemName, map);
+		this.entityCache.put(systemName + datasetName, entityMap);
 	}
 
 	public Map<String, Long> getCostTime(String systemName, String datasetName) {
-		return costTime.get(systemName).get(datasetName);
+		return costTime.get(systemName + datasetName);
 	}
 
 	public void setCostTime(String systemName, String datasetName, Map<String, Long> costTime) {
-		Map<String, Map<String, Long>> map = new HashMap<String, Map<String,Long>>();
-		map.put(datasetName, costTime);
-		this.costTime.put(systemName, map);
+		this.costTime.put(systemName + datasetName, costTime);
 	}
 	
+	public void remove(String systemName, String datasetName) {
+		if (this.mentionCache.containsKey(systemName+datasetName))
+			this.mentionCache.remove(systemName+datasetName);
+		if (this.candidateCache.containsKey(systemName+datasetName))
+			this.candidateCache.remove(systemName+datasetName);
+		if (this.entityCache.containsKey(systemName+datasetName))
+			this.entityCache.remove(systemName+datasetName);
+		if (this.annotationCache.containsKey(systemName+datasetName))
+			this.annotationCache.remove(systemName+datasetName);
+		if (this.NILCache.containsKey(systemName+datasetName))
+			this.NILCache.remove(systemName+datasetName);
+		if (this.costTime.containsKey(systemName+datasetName))
+			this.costTime.remove(systemName+datasetName);
+	}
 	
 }

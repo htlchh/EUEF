@@ -1,0 +1,607 @@
+<WikifierOutput>
+<InputFilename>
+1112testa HORSE
+</InputFilename>
+<InputText>
+HORSE RACING- TATTERSALLS BREEDERS STAKES RESULT.
+DUBLIN 1996-08-31
+Result of the Tattersalls Breeders Stakes, a race for two-year-olds run over six furlongs( 1,200
+metres) at The Curragh on Saturday:
+1. Miss Stamper 3-1 joint-favourite( ridden by David Harrison)
+2. Paddy Lad 16-1( Peter Bloomfield)
+3. Pelham 10-1( Warren O&apos;Connor)
+Distances: Three lengths, two-and-a-half lengths.
+Winner owned by John and Beryll Remblance and trained in
+Britain by Richard Hannon.
+Value to the winning owner:$ 233,600
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>DUBLIN</EntitySurfaceForm>
+	<EntityTextStart>50</EntityTextStart>
+	<EntityTextEnd>56</EntityTextEnd>
+	<LinkerScore>0.6817307510139337</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dublin</WikiTitle>
+		<WikiTitleID>8504</WikiTitleID>
+		<RankerScore>0.10933943548166158</RankerScore>
+		<Attributes>place	capital	establishment	city	town	port</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dublin</WikiTitle> <WikiTitleID>8504</WikiTitleID> <RankerScore>0.10933943548166158</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_GAA</WikiTitle> <WikiTitleID>2759665</WikiTitleID> <RankerScore>0.05738949334374025</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_California</WikiTitle> <WikiTitleID>107333</WikiTitleID> <RankerScore>0.05048687895565631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Ohio</WikiTitle> <WikiTitleID>150896</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Georgia</WikiTitle> <WikiTitleID>110212</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Dublin</WikiTitle> <WikiTitleID>6514</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_New_Hampshire</WikiTitle> <WikiTitleID>124537</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Airport</WikiTitle> <WikiTitleID>293794</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Dublin</WikiTitle> <WikiTitleID>145190</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>2855251</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Perth,_Ontario</WikiTitle> <WikiTitleID>8163046</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Texas</WikiTitle> <WikiTitleID>135851</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Pennsylvania</WikiTitle> <WikiTitleID>131518</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Virginia</WikiTitle> <WikiTitleID>137735</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Dublin</WikiTitle> <WikiTitleID>1450475</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Indiana</WikiTitle> <WikiTitleID>112683</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Port</WikiTitle> <WikiTitleID>961047</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Paterson</WikiTitle> <WikiTitleID>8684391</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_North_Carolina</WikiTitle> <WikiTitleID>127678</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Dublin</WikiTitle> <WikiTitleID>8624259</WikiTitleID> <RankerScore>0.0460461289540554</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tattersalls</EntitySurfaceForm>
+	<EntityTextStart>82</EntityTextStart>
+	<EntityTextEnd>93</EntityTextEnd>
+	<LinkerScore>1.0692721858174836</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tattersalls</WikiTitle>
+		<WikiTitleID>1458835</WikiTitleID>
+		<RankerScore>0.7128490610506061</RankerScore>
+		<Attributes>house	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tattersalls</WikiTitle> <WikiTitleID>1458835</WikiTitleID> <RankerScore>0.7128490610506061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tatts_Group_Limited</WikiTitle> <WikiTitleID>3516637</WikiTitleID> <RankerScore>0.28715093894939403</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Breeders Stakes</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>109</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Breeders&apos;_Stakes</WikiTitle>
+		<WikiTitleID>6441689</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>race</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>six furlongs</EntitySurfaceForm>
+	<EntityTextStart>145</EntityTextStart>
+	<EntityTextEnd>157</EntityTextEnd>
+	<LinkerScore>0.996254745950541</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Furlong</WikiTitle>
+		<WikiTitleID>11488</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Furlong</WikiTitle> <WikiTitleID>11488</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>furlongs</EntitySurfaceForm>
+	<EntityTextStart>149</EntityTextStart>
+	<EntityTextEnd>157</EntityTextEnd>
+	<LinkerScore>1.00271535417406</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Furlong</WikiTitle>
+		<WikiTitleID>11488</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Furlong</WikiTitle> <WikiTitleID>11488</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The Curragh</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>187</EntityTextEnd>
+	<LinkerScore>0.21149138494437353</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Curragh_Racecourse</WikiTitle>
+		<WikiTitleID>10447472</WikiTitleID>
+		<RankerScore>0.4567050370842257</RankerScore>
+		<Attributes>attraction	venue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Curragh</WikiTitle> <WikiTitleID>588472</WikiTitleID> <RankerScore>0.30613342898133217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curragh_Camp</WikiTitle> <WikiTitleID>4488971</WikiTitleID> <RankerScore>0.23716153393444206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curragh_Racecourse</WikiTitle> <WikiTitleID>10447472</WikiTitleID> <RankerScore>0.4567050370842257</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Curragh</EntitySurfaceForm>
+	<EntityTextStart>180</EntityTextStart>
+	<EntityTextEnd>187</EntityTextEnd>
+	<LinkerScore>0.4751291492023568</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Curragh_Racecourse</WikiTitle>
+		<WikiTitleID>10447472</WikiTitleID>
+		<RankerScore>0.38946109192672607</RankerScore>
+		<Attributes>attraction	venue</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Curragh</WikiTitle> <WikiTitleID>588472</WikiTitleID> <RankerScore>0.21265828232502432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curragh_Racecourse</WikiTitle> <WikiTitleID>10447472</WikiTitleID> <RankerScore>0.38946109192672607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curragh_Camp</WikiTitle> <WikiTitleID>4488971</WikiTitleID> <RankerScore>0.1635208446262206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curragh_Camp_GAA</WikiTitle> <WikiTitleID>4229562</WikiTitleID> <RankerScore>0.11717989056101447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suncroft_GAA</WikiTitle> <WikiTitleID>4239842</WikiTitleID> <RankerScore>0.11717989056101447</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Stamper</EntitySurfaceForm>
+	<EntityTextStart>209</EntityTextStart>
+	<EntityTextEnd>216</EntityTextEnd>
+	<LinkerScore>0.9610672945168616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_James_Bond_henchmen_in_Tomorrow_Never_Dies</WikiTitle>
+		<WikiTitleID>7708944</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>List_of_James_Bond_henchmen_in_Tomorrow_Never_Dies</WikiTitle> <WikiTitleID>7708944</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>David Harrison</EntitySurfaceForm>
+	<EntityTextStart>248</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.18176563921547575</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>David_Harrison_(cricketer)</WikiTitle>
+		<WikiTitleID>3331152</WikiTitleID>
+		<RankerScore>0.3652287483667654</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>David_Harrison_(cricketer)</WikiTitle> <WikiTitleID>3331152</WikiTitleID> <RankerScore>0.3652287483667654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(basketball)</WikiTitle> <WikiTitleID>1301423</WikiTitleID> <RankerScore>0.2500862199331974</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(RAF_officer)</WikiTitle> <WikiTitleID>4931312</WikiTitleID> <RankerScore>0.20400140682726015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(artist)</WikiTitle> <WikiTitleID>17529658</WikiTitleID> <RankerScore>0.1806836248727772</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Harrison</EntitySurfaceForm>
+	<EntityTextStart>254</EntityTextStart>
+	<EntityTextEnd>262</EntityTextEnd>
+	<LinkerScore>0.04439248423107391</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>David_Harrison_(cricketer)</WikiTitle>
+		<WikiTitleID>3331152</WikiTitleID>
+		<RankerScore>0.36212283929992223</RankerScore>
+		<Attributes>person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>David_Harrison_(cricketer)</WikiTitle> <WikiTitleID>3331152</WikiTitleID> <RankerScore>0.36212283929992223</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(basketball)</WikiTitle> <WikiTitleID>1301423</WikiTitleID> <RankerScore>0.2523161362626164</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(RAF_officer)</WikiTitle> <WikiTitleID>4931312</WikiTitleID> <RankerScore>0.20326631773190654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Harrison_(artist)</WikiTitle> <WikiTitleID>17529658</WikiTitleID> <RankerScore>0.18229470670555487</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pelham</EntitySurfaceForm>
+	<EntityTextStart>304</EntityTextStart>
+	<EntityTextEnd>310</EntityTextEnd>
+	<LinkerScore>-0.31397813963522514</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pelham,_Ontario</WikiTitle>
+		<WikiTitleID>730832</WikiTitleID>
+		<RankerScore>0.0923175401606964</RankerScore>
+		<Attributes>municipality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pelham,_Ontario</WikiTitle> <WikiTitleID>730832</WikiTitleID> <RankerScore>0.0923175401606964</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_Alabama</WikiTitle> <WikiTitleID>105121</WikiTitleID> <RankerScore>0.08194965693210976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_Massachusetts</WikiTitle> <WikiTitleID>116821</WikiTitleID> <RankerScore>0.08057827300095022</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_New_Hampshire</WikiTitle> <WikiTitleID>124786</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_New_York</WikiTitle> <WikiTitleID>243708</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_Georgia</WikiTitle> <WikiTitleID>110262</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham_(town),_New_York</WikiTitle> <WikiTitleID>260183</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_North_Carolina</WikiTitle> <WikiTitleID>5699374</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham_(Metro-North_station)</WikiTitle> <WikiTitleID>5187951</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Henry_Pelham</WikiTitle> <WikiTitleID>171446</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham,_Birmingham</WikiTitle> <WikiTitleID>4457015</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham_(village),_New_York</WikiTitle> <WikiTitleID>260182</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham_Bay,_Bronx</WikiTitle> <WikiTitleID>879646</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelham_bit</WikiTitle> <WikiTitleID>2300625</WikiTitleID> <RankerScore>0.0677413209005676</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Warren</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>323</EntityTextEnd>
+	<LinkerScore>0.02416988797919037</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Warren,_Ohio</WikiTitle>
+		<WikiTitleID>129883</WikiTitleID>
+		<RankerScore>0.05716594737124965</RankerScore>
+		<Attributes>city	seats	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Warren,_Ohio</WikiTitle> <WikiTitleID>129883</WikiTitleID> <RankerScore>0.05716594737124965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Michigan</WikiTitle> <WikiTitleID>33967</WikiTitleID> <RankerScore>0.05523204148548825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_Ohio</WikiTitle> <WikiTitleID>92132</WikiTitleID> <RankerScore>0.05017705351947358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_New_York</WikiTitle> <WikiTitleID>54451</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Rhode_Island</WikiTitle> <WikiTitleID>134309</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Pennsylvania</WikiTitle> <WikiTitleID>134012</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earl_Warren</WikiTitle> <WikiTitleID>71908</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_North_Carolina</WikiTitle> <WikiTitleID>93228</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_Pennsylvania</WikiTitle> <WikiTitleID>91923</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_New_Jersey</WikiTitle> <WikiTitleID>93422</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Massachusetts</WikiTitle> <WikiTitleID>259519</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_New_Hampshire</WikiTitle> <WikiTitleID>124725</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Maine</WikiTitle> <WikiTitleID>116048</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_New_South_Wales</WikiTitle> <WikiTitleID>593474</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_Missouri</WikiTitle> <WikiTitleID>94509</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_Virginia</WikiTitle> <WikiTitleID>91238</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_Mears</WikiTitle> <WikiTitleID>225766</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_County,_Illinois</WikiTitle> <WikiTitleID>96159</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren_(biogeographic_region)</WikiTitle> <WikiTitleID>9421918</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Warren,_Vermont</WikiTitle> <WikiTitleID>137421</WikiTitleID> <RankerScore>0.04926029162492873</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>O&apos;Connor</EntitySurfaceForm>
+	<EntityTextStart>324</EntityTextStart>
+	<EntityTextEnd>332</EntityTextEnd>
+	<LinkerScore>0.25681432434015883</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle>
+		<WikiTitleID>42640</WikiTitleID>
+		<RankerScore>0.0969560650080306</RankerScore>
+		<Attributes>alumnus	episcopalian	person	republican	senator	judges	survivor	lawyer	justice	legislator	prosecutor	chancellor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle> <WikiTitleID>42640</WikiTitleID> <RankerScore>0.0969560650080306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Western_Australia</WikiTitle> <WikiTitleID>2597991</WikiTitleID> <RankerScore>0.09334441875511613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>2633897</WikiTitleID> <RankerScore>0.08991121535463141</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Ontario</WikiTitle> <WikiTitleID>13354602</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Division_of_O&apos;Connor</WikiTitle> <WikiTitleID>2177303</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_O&apos;Connor_(politician)</WikiTitle> <WikiTitleID>1221056</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_O&apos;Connor</WikiTitle> <WikiTitleID>203674</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C._Y._O&apos;Connor</WikiTitle> <WikiTitleID>216426</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Arthur_O&apos;Connor</WikiTitle> <WikiTitleID>13506861</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor_High_School_(Helotes,_Texas)</WikiTitle> <WikiTitleID>6754855</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carroll_O&apos;Connor</WikiTitle> <WikiTitleID>245805</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_O&apos;Connor</WikiTitle> <WikiTitleID>14158433</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor_Island</WikiTitle> <WikiTitleID>18547958</WikiTitleID> <RankerScore>0.07197883008822219</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>two-and-a-half</EntitySurfaceForm>
+	<EntityTextStart>360</EntityTextStart>
+	<EntityTextEnd>374</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2.5</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Beryll</EntitySurfaceForm>
+	<EntityTextStart>409</EntityTextStart>
+	<EntityTextEnd>415</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>+Beryll</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Britain</EntitySurfaceForm>
+	<EntityTextStart>441</EntityTextStart>
+	<EntityTextEnd>448</EntityTextEnd>
+	<LinkerScore>0.2607699756235914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_Kingdom</WikiTitle>
+		<WikiTitleID>31717</WikiTitleID>
+		<RankerScore>0.13753313033597694</RankerScore>
+		<Attributes>country	member	nation	state	template</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_Kingdom</WikiTitle> <WikiTitleID>31717</WikiTitleID> <RankerScore>0.13753313033597694</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain</WikiTitle> <WikiTitleID>13530298</WikiTitleID> <RankerScore>0.06531440528418213</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_Kingdom_of_Great_Britain_and_Ireland</WikiTitle> <WikiTitleID>152256</WikiTitleID> <RankerScore>0.06381136544798317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Great_Britain</WikiTitle> <WikiTitleID>158019</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Britain</WikiTitle> <WikiTitleID>13525</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prehistoric_Britain</WikiTitle> <WikiTitleID>448467</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Britain_in_the_Middle_Ages</WikiTitle> <WikiTitleID>969337</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Empire</WikiTitle> <WikiTitleID>4721</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sub-Roman_Britain</WikiTitle> <WikiTitleID>1902917</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Early_Modern_Britain</WikiTitle> <WikiTitleID>967013</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Iron_Age</WikiTitle> <WikiTitleID>1299531</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britannia</WikiTitle> <WikiTitleID>86124</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>England</WikiTitle> <WikiTitleID>9316</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Isles</WikiTitle> <WikiTitleID>3736</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_GAA</WikiTitle> <WikiTitleID>2819001</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britons_(historic)</WikiTitle> <WikiTitleID>2208391</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>English_poetry</WikiTitle> <WikiTitleID>173020</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Islands</WikiTitle> <WikiTitleID>377070</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Britain_Yearly_Meeting</WikiTitle> <WikiTitleID>1025534</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_British_Grand_Prix</WikiTitle> <WikiTitleID>5324735</WikiTitleID> <RankerScore>0.043137711701873985</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Richard Hannon</EntitySurfaceForm>
+	<EntityTextStart>452</EntityTextStart>
+	<EntityTextEnd>466</EntityTextEnd>
+	<LinkerScore>1.0192769878170318</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Richard_Hannon</WikiTitle>
+		<WikiTitleID>11047345</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>trainer	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Richard_Hannon</WikiTitle> <WikiTitleID>11047345</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Hannon</EntitySurfaceForm>
+	<EntityTextStart>460</EntityTextStart>
+	<EntityTextEnd>466</EntityTextEnd>
+	<LinkerScore>0.014960674268522677</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hannon,_Ontario</WikiTitle>
+		<WikiTitleID>16637430</WikiTitleID>
+		<RankerScore>0.5714104282378536</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hannon,_Ontario</WikiTitle> <WikiTitleID>16637430</WikiTitleID> <RankerScore>0.5714104282378536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neil_Hannon</WikiTitle> <WikiTitleID>179874</WikiTitleID> <RankerScore>0.4285895717621465</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

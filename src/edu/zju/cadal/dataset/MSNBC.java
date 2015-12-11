@@ -55,11 +55,29 @@ public class MSNBC extends AbstractDataset{
 			loadRawText(rawTextFolder);
 			Map<String, Set<Problem>> problemMap = loadProblem(problemFolder);
 			filling(problemMap);
+			deleteEmptyDocument();
 		} catch (IOException | DOMException | XPathExpressionException | ParserConfigurationException | SAXException | DatasetFormatErrorException e) {
 			e.printStackTrace();
 		}
 	}
 	
+	private void deleteEmptyDocument() {
+		Set<String> empty = new HashSet<String>();
+		
+		for (String title : goldMention.keySet())
+			if (goldMention.get(title).isEmpty() == true)
+				empty.add(title);
+		
+		for (String title : empty) {
+			rawText.remove(title);
+			goldMention.remove(title);
+			goldAnnotation.remove(title);
+			goldCandidate.remove(title);
+			goldEntity.remove(title);
+			goldNIL.remove(title);
+		}
+	}
+
 	private void loadRawText(String textFolder) throws IOException {
 		File folder = new File(textFolder);
 		if (folder.isDirectory() == false)
@@ -73,7 +91,7 @@ public class MSNBC extends AbstractDataset{
 				while ((line = br.readLine()) != null)
 					text.append(line + '\n');
 				br.close();
-				this.rawText.put(f.getName(), text.toString());
+				this.rawText.put(f.getName().trim(), text.toString());
 			}
 		}
 	}
@@ -134,7 +152,7 @@ public class MSNBC extends AbstractDataset{
 							problemSet.add(new Problem(surfaceForm, position, length, title));
 					} 
 				} // for
-				problemMap.put(docName, problemSet);
+				problemMap.put(f.getName().trim(), problemSet);
 			} //if 
 		}//for
 		

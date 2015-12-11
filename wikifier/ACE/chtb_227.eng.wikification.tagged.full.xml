@@ -1,0 +1,2172 @@
+<WikifierOutput>
+<InputFilename>
+chtb_227.eng
+</InputFilename>
+<InputText>
+  Xinhua News Agency, Moscow, August 31st, by reporter Rong Xie  Presidents of 3 Baltic Sea countries issued a joint statement on August 31st, pointing out that Russia&apos;s withdrawal of troops from the 3 Baltic Sea countries would &quot;strengthen European security&quot;.  The statement emphasized that Russia&apos;s completing its troop withdrawal should promote the development of relations between Russian and Baltic Sea countries.   This joint statement was issued on the occasion of Russia entirely completing its troop withdrawal from the three Baltic Sea countries.  Russian troops stationed in Lithuania had withdrawn to Russia one year earlier.  On August 31st of this year, Russian troops stationed in Latvia withdrew completely and Russian troops stationed in Estonia also completed withdrawal on August 29th of this year.   In an interview with International Correspondence Communication News Agency on the 31st, Klelov, vice-minister of Russia&apos;s Foreign Affairs, pointed out that, although Russia has withdrawn its troops from the Baltic Sea countries, if the Baltic Sea countries infringe upon the rights of local Russian-speaking residents, the Russian government still has measures for exerting influence over these countries, which include political, economical and humanitarian measures.  (End) 
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Xinhua</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>8</EntityTextEnd>
+	<LinkerScore>0.7718035754733159</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Xinhua_News_Agency</WikiTitle>
+		<WikiTitleID>263168</WikiTitleID>
+		<RankerScore>0.6528851770559426</RankerScore>
+		<Attributes>services	establishment	politics	agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Xinhua_News_Agency</WikiTitle> <WikiTitleID>263168</WikiTitleID> <RankerScore>0.6528851770559426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Xinhua_County</WikiTitle> <WikiTitleID>338666</WikiTitleID> <RankerScore>0.34711482294405743</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Xinhua News</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>13</EntityTextEnd>
+	<LinkerScore>0.9618018092665156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Xinhua_News_Agency</WikiTitle>
+		<WikiTitleID>263168</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	establishment	politics	agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Xinhua_News_Agency</WikiTitle> <WikiTitleID>263168</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Xinhua News Agency</EntitySurfaceForm>
+	<EntityTextStart>2</EntityTextStart>
+	<EntityTextEnd>20</EntityTextEnd>
+	<LinkerScore>1.037089279274329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Xinhua_News_Agency</WikiTitle>
+		<WikiTitleID>263168</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>services	establishment	politics	agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Xinhua_News_Agency</WikiTitle> <WikiTitleID>263168</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>22</EntityTextStart>
+	<EntityTextEnd>28</EntityTextEnd>
+	<LinkerScore>1.202503117286611</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.31853278307464616</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.31853278307464616</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.03700485702375976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.09327292451915915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03242290796367264</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 31st</EntitySurfaceForm>
+	<EntityTextStart>30</EntityTextStart>
+	<EntityTextEnd>41</EntityTextEnd>
+	<LinkerScore>-0.06727117147487865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_31</WikiTitle>
+		<WikiTitleID>1711</WikiTitleID>
+		<RankerScore>0.5652253951270547</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_31</WikiTitle> <WikiTitleID>1711</WikiTitleID> <RankerScore>0.5652253951270547</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August</WikiTitle> <WikiTitleID>1005</WikiTitleID> <RankerScore>0.4347746048729453</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>91</EntityTextEnd>
+	<LinkerScore>1.0434186166763793</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.5844283368080772</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.5844283368080772</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.20212982193732967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.21344184125459326</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>101</EntityTextEnd>
+	<LinkerScore>1.0619096571447928</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>81</EntityTextStart>
+	<EntityTextEnd>87</EntityTextEnd>
+	<LinkerScore>0.11783305057164835</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.18063952455564128</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.15480395388880389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.12401316412656634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.18063952455564128</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.03179666808405815</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 31st</EntitySurfaceForm>
+	<EntityTextStart>130</EntityTextStart>
+	<EntityTextEnd>141</EntityTextEnd>
+	<LinkerScore>-0.10235553786721541</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_31</WikiTitle>
+		<WikiTitleID>1711</WikiTitleID>
+		<RankerScore>0.5759172896369195</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_31</WikiTitle> <WikiTitleID>1711</WikiTitleID> <RankerScore>0.5759172896369195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August</WikiTitle> <WikiTitleID>1005</WikiTitleID> <RankerScore>0.42408271036308054</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>161</EntityTextStart>
+	<EntityTextEnd>167</EntityTextEnd>
+	<LinkerScore>0.7499463303866741</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.27332954472480664</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.27332954472480664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.11612600268339973</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.11169462429683187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.029344107546762453</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>212</EntityTextEnd>
+	<LinkerScore>1.0845403972270709</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.6117073514677531</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.6117073514677531</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.18841031328599803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.19988233524624888</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>208</EntityTextEnd>
+	<LinkerScore>0.20853053326660526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.21278720410139548</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.1578669687685809</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.14269393339953948</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.21278720410139548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.028626581984146127</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>202</EntityTextStart>
+	<EntityTextEnd>222</EntityTextEnd>
+	<LinkerScore>1.0878774789814396</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>292</EntityTextStart>
+	<EntityTextEnd>298</EntityTextEnd>
+	<LinkerScore>0.5775621330595883</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.25728873599983154</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.25728873599983154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.1155981928503176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.1096800177880218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.03043723843304877</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>385</EntityTextStart>
+	<EntityTextEnd>392</EntityTextEnd>
+	<LinkerScore>0.2383319974269767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.2230300144978834</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.2230300144978834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.13635410560511105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.11792642835581663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.030746438325952283</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>417</EntityTextEnd>
+	<LinkerScore>1.1098535127547093</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>407</EntityTextEnd>
+	<LinkerScore>1.1023541945550592</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.6214913355024198</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.6214913355024198</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.18049571240812307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.19801295208945724</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>397</EntityTextStart>
+	<EntityTextEnd>403</EntityTextEnd>
+	<LinkerScore>0.16208316195745914</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.19744444244396947</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.16841251725393713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.1228516328383031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.19744444244396947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.030075965144928853</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>472</EntityTextStart>
+	<EntityTextEnd>478</EntityTextEnd>
+	<LinkerScore>0.6102414361815526</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.2613645951968021</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.2613645951968021</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.11815728015106484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.11291017439895516</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.029856938250186933</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>535</EntityTextStart>
+	<EntityTextEnd>541</EntityTextEnd>
+	<LinkerScore>0.17872677994968383</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.2084214570050904</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.16624328354772325</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.12782831824583876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.2084214570050904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.02926511418831456</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>535</EntityTextStart>
+	<EntityTextEnd>555</EntityTextEnd>
+	<LinkerScore>1.1147551911319915</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>535</EntityTextStart>
+	<EntityTextEnd>545</EntityTextEnd>
+	<LinkerScore>0.967151497254719</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.6199798972002898</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.6199798972002898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.16261325531173604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.21740684748797426</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>558</EntityTextStart>
+	<EntityTextEnd>565</EntityTextEnd>
+	<LinkerScore>0.1960249894695395</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.2137246831981659</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.2137246831981659</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.14291254484564184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.1412265234928965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.02953742638019387</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Lithuania</EntitySurfaceForm>
+	<EntityTextStart>586</EntityTextStart>
+	<EntityTextEnd>595</EntityTextEnd>
+	<LinkerScore>1.307458814764409</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lithuania</WikiTitle>
+		<WikiTitleID>17675</WikiTitleID>
+		<RankerScore>0.3741492392126361</RankerScore>
+		<Attributes>state	country	member	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lithuania</WikiTitle> <WikiTitleID>17675</WikiTitleID> <RankerScore>0.3741492392126361</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuania_national_football_team</WikiTitle> <WikiTitleID>655953</WikiTitleID> <RankerScore>0.034828273685166375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Lithuania</WikiTitle> <WikiTitleID>380252</WikiTitleID> <RankerScore>0.10272265851444419</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuania_national_basketball_team</WikiTitle> <WikiTitleID>2686350</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_euro_coins</WikiTitle> <WikiTitleID>2021863</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>404449</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuanian_Jews</WikiTitle> <WikiTitleID>964634</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lietuvos_Krepšinio_Lyga</WikiTitle> <WikiTitleID>1220249</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Lithuania</WikiTitle> <WikiTitleID>17826</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Lithuania</WikiTitle> <WikiTitleID>17820</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuania_national_rugby_union_team</WikiTitle> <WikiTitleID>5826565</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Lithuania</WikiTitle> <WikiTitleID>3083965</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Lithuania</WikiTitle> <WikiTitleID>548501</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuania_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>945454</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Lithuania</WikiTitle> <WikiTitleID>17823</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lithuania_national_under-21_football_team</WikiTitle> <WikiTitleID>17674262</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Lithuania</WikiTitle> <WikiTitleID>7015294</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Lithuania</WikiTitle> <WikiTitleID>17827</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Lithuania</WikiTitle> <WikiTitleID>396376</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Lithuania_(1219–1295)</WikiTitle> <WikiTitleID>6712346</WikiTitleID> <RankerScore>0.02872351932869137</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>withdrawn</EntitySurfaceForm>
+	<EntityTextStart>600</EntityTextStart>
+	<EntityTextEnd>609</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Withdrawal</WikiTitle>
+		<WikiTitleID>419447</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>613</EntityTextStart>
+	<EntityTextEnd>619</EntityTextEnd>
+	<LinkerScore>0.6252876240422037</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.2675349532563485</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.2675349532563485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.13271179686359452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.1322913862723043</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.027497756682808985</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 31st</EntitySurfaceForm>
+	<EntityTextStart>642</EntityTextStart>
+	<EntityTextEnd>653</EntityTextEnd>
+	<LinkerScore>0.3231095036028223</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_31</WikiTitle>
+		<WikiTitleID>1711</WikiTitleID>
+		<RankerScore>0.6094131628053614</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_31</WikiTitle> <WikiTitleID>1711</WikiTitleID> <RankerScore>0.6094131628053614</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>August</WikiTitle> <WikiTitleID>1005</WikiTitleID> <RankerScore>0.3905868371946386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>668</EntityTextStart>
+	<EntityTextEnd>675</EntityTextEnd>
+	<LinkerScore>0.2341778528459234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.21520566001166222</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.21520566001166222</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.1255146754648358</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.1650806656788061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.029070529343805634</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Latvia</EntitySurfaceForm>
+	<EntityTextStart>696</EntityTextStart>
+	<EntityTextEnd>702</EntityTextEnd>
+	<LinkerScore>1.390463331750305</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Latvia</WikiTitle>
+		<WikiTitleID>17514</WikiTitleID>
+		<RankerScore>0.34267038819447576</RankerScore>
+		<Attributes>state	member	country	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Latvia</WikiTitle> <WikiTitleID>17514</WikiTitleID> <RankerScore>0.34267038819447576</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_national_football_team</WikiTitle> <WikiTitleID>711598</WikiTitleID> <RankerScore>0.05176866794458552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>380350</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_national_basketball_team</WikiTitle> <WikiTitleID>2753326</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvian_euro_coins</WikiTitle> <WikiTitleID>3200080</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_national_ice_hockey_team</WikiTitle> <WikiTitleID>945507</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Latvia</WikiTitle> <WikiTitleID>17768</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_molluscs_recorded_in_Latvia</WikiTitle> <WikiTitleID>14502741</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_national_rugby_union_team</WikiTitle> <WikiTitleID>5820390</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Latvia</WikiTitle> <WikiTitleID>17769</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Latvia</WikiTitle> <WikiTitleID>17765</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Latvia</WikiTitle> <WikiTitleID>3522864</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_Fed_Cup_team</WikiTitle> <WikiTitleID>11283677</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Latvian_films</WikiTitle> <WikiTitleID>10599288</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Latvia</WikiTitle> <WikiTitleID>396375</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_national_cricket_team</WikiTitle> <WikiTitleID>8417586</WikiTitleID> <RankerScore>0.043780583071071695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvian_War_of_Independence</WikiTitle> <WikiTitleID>4212744</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvian_Airplay_Top</WikiTitle> <WikiTitleID>6714801</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Latvia_women&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>13582582</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Latvia</WikiTitle> <WikiTitleID>7015277</WikiTitleID> <RankerScore>0.03304590357587453</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>727</EntityTextStart>
+	<EntityTextEnd>734</EntityTextEnd>
+	<LinkerScore>0.17506129137349624</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.21186748271261388</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.21186748271261388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.12760295190373083</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.1641227295967068</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.029200402105114615</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Estonia</EntitySurfaceForm>
+	<EntityTextStart>755</EntityTextStart>
+	<EntityTextEnd>762</EntityTextEnd>
+	<LinkerScore>0.9448547836166644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Estonia</WikiTitle>
+		<WikiTitleID>17238577</WikiTitleID>
+		<RankerScore>0.3358978395142763</RankerScore>
+		<Attributes>country	state	republic	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Estonia</WikiTitle> <WikiTitleID>17238577</WikiTitleID> <RankerScore>0.3358978395142763</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_football_team</WikiTitle> <WikiTitleID>1006164</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Estonia</WikiTitle> <WikiTitleID>739076</WikiTitleID> <RankerScore>0.08327693312685601</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonian_euro_coins</WikiTitle> <WikiTitleID>1354598</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_basketball_team</WikiTitle> <WikiTitleID>2859830</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Governorate_of_Estonia</WikiTitle> <WikiTitleID>670051</WikiTitleID> <RankerScore>0.08294283456584939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_rugby_league_team</WikiTitle> <WikiTitleID>2293385</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Estonia</WikiTitle> <WikiTitleID>9393</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>MS_Estonia</WikiTitle> <WikiTitleID>522384</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonians</WikiTitle> <WikiTitleID>347511</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_under-21_football_team</WikiTitle> <WikiTitleID>14782080</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>3092963</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>This_Strange_Engine</WikiTitle> <WikiTitleID>1334035</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Estonia</WikiTitle> <WikiTitleID>11432901</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_beach_soccer_team</WikiTitle> <WikiTitleID>15118723</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cuisine_of_Estonia</WikiTitle> <WikiTitleID>12843748</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Estonia</WikiTitle> <WikiTitleID>9391</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_national_cricket_team</WikiTitle> <WikiTitleID>8417508</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Estonia</WikiTitle> <WikiTitleID>396363</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Estonia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>943844</WikiTitleID> <RankerScore>0.029287199576059898</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>August 29th</EntitySurfaceForm>
+	<EntityTextStart>792</EntityTextStart>
+	<EntityTextEnd>803</EntityTextEnd>
+	<LinkerScore>0.940013103545622</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>August_29</WikiTitle>
+		<WikiTitleID>1793</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>August_29</WikiTitle> <WikiTitleID>1793</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Communication</EntitySurfaceForm>
+	<EntityTextStart>870</EntityTextStart>
+	<EntityTextEnd>883</EntityTextEnd>
+	<LinkerScore>0.6830483144576127</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Communication</WikiTitle>
+		<WikiTitleID>5177</WikiTitleID>
+		<RankerScore>0.14330636285477574</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Communication</WikiTitle> <WikiTitleID>5177</WikiTitleID> <RankerScore>0.14330636285477574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.08904516618431049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_studies</WikiTitle> <WikiTitleID>489145</WikiTitleID> <RankerScore>0.07219286260654909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_(album)</WikiTitle> <WikiTitleID>7138521</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_(Power_Station_song)</WikiTitle> <WikiTitleID>10585323</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Communications_and_Information_Technology_(Romania)</WikiTitle> <WikiTitleID>6187381</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_networking</WikiTitle> <WikiTitleID>5652</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_(song)</WikiTitle> <WikiTitleID>5460479</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technical_communication</WikiTitle> <WikiTitleID>1219401</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Directorate-General_Communication_(European_Commission)</WikiTitle> <WikiTitleID>7762351</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spaceship_Earth_(Epcot)</WikiTitle> <WikiTitleID>1426032</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_(1972_album)</WikiTitle> <WikiTitleID>14171886</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communication_Arts_(magazine)</WikiTitle> <WikiTitleID>2920947</WikiTitleID> <RankerScore>0.06954556083543648</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>934</EntityTextStart>
+	<EntityTextEnd>940</EntityTextEnd>
+	<LinkerScore>0.8628609647461617</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.27991779792834887</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.27991779792834887</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.11696699047308218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.10909540707171908</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.0290599885015794</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Foreign Affairs</EntitySurfaceForm>
+	<EntityTextStart>943</EntityTextStart>
+	<EntityTextEnd>958</EntityTextEnd>
+	<LinkerScore>0.5240236261370668</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Foreign_Affairs</WikiTitle>
+		<WikiTitleID>183519</WikiTitleID>
+		<RankerScore>0.1342745704293531</RankerScore>
+		<Attributes>magazine	relations	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs</WikiTitle> <WikiTitleID>183519</WikiTitleID> <RankerScore>0.1342745704293531</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Romania)</WikiTitle> <WikiTitleID>6079447</WikiTitleID> <RankerScore>0.04885600828101604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Department_of_Foreign_Affairs_and_International_Trade</WikiTitle> <WikiTitleID>256258</WikiTitleID> <RankerScore>0.053596357162582826</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_House_Committee_on_Foreign_Affairs</WikiTitle> <WikiTitleID>1267657</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>International_relations</WikiTitle> <WikiTitleID>82533</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_(novel)</WikiTitle> <WikiTitleID>1895332</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_and_Commonwealth_Office</WikiTitle> <WikiTitleID>59653</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_(album)</WikiTitle> <WikiTitleID>589966</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(Canada)</WikiTitle> <WikiTitleID>270882</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_of_Foreign_Affairs_(France)</WikiTitle> <WikiTitleID>250002</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Ministry_of_Foreign_Affairs_and_Trade</WikiTitle> <WikiTitleID>5982589</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Ireland)</WikiTitle> <WikiTitleID>487125</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Netherlands)</WikiTitle> <WikiTitleID>9473033</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Department_of_Foreign_Affairs_(South_Africa)</WikiTitle> <WikiTitleID>14036979</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minister_for_Foreign_Affairs_(Australia)</WikiTitle> <WikiTitleID>591908</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_of_Foreign_Affairs_(Republic_of_China)</WikiTitle> <WikiTitleID>10789929</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_policy</WikiTitle> <WikiTitleID>233404</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Ministers_of_Foreign_Affairs_of_Turkey</WikiTitle> <WikiTitleID>5409665</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_Affairs_Minister_of_the_Palestinian_National_Authority</WikiTitle> <WikiTitleID>14071505</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Fiji</WikiTitle> <WikiTitleID>10663</WikiTitleID> <RankerScore>0.04489841553688518</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>987</EntityTextStart>
+	<EntityTextEnd>993</EntityTextEnd>
+	<LinkerScore>0.7656556178971722</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.2839665834449828</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.2839665834449828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.11745488969999356</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.11305542049787481</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.028560182726891103</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>withdrawn</EntitySurfaceForm>
+	<EntityTextStart>998</EntityTextStart>
+	<EntityTextEnd>1007</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Withdrawal</WikiTitle>
+		<WikiTitleID>419447</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>1024</EntityTextStart>
+	<EntityTextEnd>1048</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1034</EntityTextEnd>
+	<LinkerScore>0.2085267646424182</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.22823522425910267</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.17139508503661222</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.1382588698781539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.22823522425910267</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.027182989460360657</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1038</EntityTextEnd>
+	<LinkerScore>0.8881911388058197</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.6045154782335724</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.6045154782335724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.16244415262694673</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.2330403691394808</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>1028</EntityTextStart>
+	<EntityTextEnd>1048</EntityTextEnd>
+	<LinkerScore>1.1283962352424115</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>the Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>1053</EntityTextStart>
+	<EntityTextEnd>1077</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1067</EntityTextEnd>
+	<LinkerScore>0.8440167277985848</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_Sea</WikiTitle>
+		<WikiTitleID>3335</WikiTitleID>
+		<RankerScore>0.5957544160233124</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.5957544160233124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_islands_in_the_Baltic_Sea</WikiTitle> <WikiTitleID>330045</WikiTitleID> <RankerScore>0.1627650895092394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curonian_Lagoon</WikiTitle> <WikiTitleID>528538</WikiTitleID> <RankerScore>0.24148049446744824</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1063</EntityTextEnd>
+	<LinkerScore>0.19904170340637445</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_states</WikiTitle>
+		<WikiTitleID>188675</WikiTitleID>
+		<RankerScore>0.22052331752358928</RankerScore>
+		<Attributes>state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_Sea</WikiTitle> <WikiTitleID>3335</WikiTitleID> <RankerScore>0.17506809353767036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>0.13112895003011993</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balts</WikiTitle> <WikiTitleID>4540</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_languages</WikiTitle> <WikiTitleID>4213</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_states</WikiTitle> <WikiTitleID>188675</WikiTitleID> <RankerScore>0.22052331752358928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_South_Dakota</WikiTitle> <WikiTitleID>134963</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_governorates</WikiTitle> <WikiTitleID>799585</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Fleet</WikiTitle> <WikiTitleID>1634766</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_mythology</WikiTitle> <WikiTitleID>2369290</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Neopaganism</WikiTitle> <WikiTitleID>3034558</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic,_Ohio</WikiTitle> <WikiTitleID>150890</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_amber</WikiTitle> <WikiTitleID>14286920</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_North_European_Jews</WikiTitle> <WikiTitleID>847219</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Centre_for_Contemporary_Art</WikiTitle> <WikiTitleID>981852</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sprague,_Connecticut</WikiTitle> <WikiTitleID>108837</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltic_Germans</WikiTitle> <WikiTitleID>75220</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eastland_Company</WikiTitle> <WikiTitleID>4461731</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CSS_Baltic</WikiTitle> <WikiTitleID>1169163</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Balto-Slavic_languages</WikiTitle> <WikiTitleID>867145</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>4-6-4</WikiTitle> <WikiTitleID>424928</WikiTitleID> <RankerScore>0.027839978759330607</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Baltic Sea countries</EntitySurfaceForm>
+	<EntityTextStart>1057</EntityTextStart>
+	<EntityTextEnd>1077</EntityTextEnd>
+	<LinkerScore>1.181641832837356</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Baltic_region</WikiTitle>
+		<WikiTitleID>338077</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Baltic_region</WikiTitle> <WikiTitleID>338077</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian-speaking</EntitySurfaceForm>
+	<EntityTextStart>1112</EntityTextStart>
+	<EntityTextEnd>1128</EntityTextEnd>
+	<LinkerScore>0.5537916744240664</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.6777706548119133</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.6777706548119133</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.32222934518808666</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>0.4209501400589637</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.239516807244023</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.239516807244023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.11106116639801229</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.14107768882999383</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.02990260808988064</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian government</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1162</EntityTextEnd>
+	<LinkerScore>-0.1259301411587288</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.3983436428001364</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Government_of_Russia</WikiTitle> <WikiTitleID>9787373</WikiTitleID> <RankerScore>1.2970545672576945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Russia</WikiTitle> <WikiTitleID>25704</WikiTitleID> <RankerScore>0.1041567517613837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.1041567517613837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.0</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Government_of_Russia</WikiTitle> <WikiTitleID>9787373</WikiTitleID> <RankerScore>0.39334285367709626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.3983436428001364</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

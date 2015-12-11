@@ -6,9 +6,8 @@ import java.nio.file.Paths;
 import org.apache.lucene.index.DirectoryReader;
 import org.apache.lucene.index.IndexReader;
 import org.apache.lucene.index.Term;
-import org.apache.lucene.search.BooleanClause;
-import org.apache.lucene.search.BooleanQuery;
 import org.apache.lucene.search.IndexSearcher;
+import org.apache.lucene.search.Query;
 import org.apache.lucene.search.TermQuery;
 import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
@@ -31,10 +30,10 @@ public class CoreDictSearcher {
 		this.searcher = searcher;
 	}
 
-	public CoreDictSearcher(String indexPath) {
-		System.out.println("load cross-wikis core dictionary index files ... ");
+	public CoreDictSearcher(String indexDirectory) {
+		System.out.println("Load CrossWikis Core Dictionary Index Files ... ");
 		try {
-			this.reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexPath)));
+			this.reader = DirectoryReader.open(FSDirectory.open(Paths.get(indexDirectory)));
 			this.searcher = new IndexSearcher(reader);	
 		} catch (IOException e) {
 			e.printStackTrace();
@@ -44,12 +43,13 @@ public class CoreDictSearcher {
 	public TopDocs search(String field, String queryString) 
 	{
 		try {
-			BooleanQuery bq = new BooleanQuery();
-			String[] terms = queryString.toLowerCase().replaceAll("_", " ").split(" ");
-			for (String t : terms) {
-				bq.add(new TermQuery(new Term(field, t)), BooleanClause.Occur.MUST);
-			}
-			return searcher.search(bq, 100);
+//			BooleanQuery bq = new BooleanQuery();
+//			String[] terms = queryString.toLowerCase().replaceAll("_", " ").split(" ");
+//			for (String t : terms) {
+//				bq.add(new TermQuery(new Term(field, t)), BooleanClause.Occur.MUST);
+//			}
+			Query query = new TermQuery(new Term(field, queryString.toLowerCase()));
+			return searcher.search(query, 100);
 		} catch (IOException e) {
 			e.printStackTrace();
 		}

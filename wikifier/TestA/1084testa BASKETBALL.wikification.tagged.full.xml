@@ -1,0 +1,484 @@
+<WikifierOutput>
+<InputFilename>
+1084testa BASKETBALL
+</InputFilename>
+<InputText>
+BASKETBALL- BENETTON BEAT DINAMO 92-81.
+BELGRADE 1996-08-31
+Benetton of Italy beat Dinamo of Russia 92-81( halftime 50-28) in a fifth place play-off in the Trofej Beograd 96 international basketball tournament on Saturday.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BENETTON</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>20</EntityTextEnd>
+	<LinkerScore>0.01556848824862252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Benetton_Formula</WikiTitle>
+		<WikiTitleID>445741</WikiTitleID>
+		<RankerScore>0.32787682003610863</RankerScore>
+		<Attributes>constructor	entrant	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Benetton_Formula</WikiTitle> <WikiTitleID>445741</WikiTitleID> <RankerScore>0.32787682003610863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benetton_Group</WikiTitle> <WikiTitleID>40480</WikiTitleID> <RankerScore>0.24099145080176063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_F1</WikiTitle> <WikiTitleID>240378</WikiTitleID> <RankerScore>0.17167319128736314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pallacanestro_Treviso</WikiTitle> <WikiTitleID>3450530</WikiTitleID> <RankerScore>0.2594585378747675</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DINAMO</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>32</EntityTextEnd>
+	<LinkerScore>-0.12661024642381696</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>NK_Dinamo_Zagreb</WikiTitle>
+		<WikiTitleID>675239</WikiTitleID>
+		<RankerScore>0.19849370555951867</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Bucureşti</WikiTitle> <WikiTitleID>861358</WikiTitleID> <RankerScore>0.1076390163485112</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NK_Dinamo_Zagreb</WikiTitle> <WikiTitleID>675239</WikiTitleID> <RankerScore>0.19849370555951867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Minsk</WikiTitle> <WikiTitleID>1651899</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Sports_Club</WikiTitle> <WikiTitleID>15820924</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dinamo_(Metro)</WikiTitle> <WikiTitleID>2243997</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.18334481997206875</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Tbilisi</WikiTitle> <WikiTitleID>833846</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KS_Dinamo_Tirana</WikiTitle> <WikiTitleID>830451</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Sokhumi</WikiTitle> <WikiTitleID>7373737</WikiTitleID> <RankerScore>0.08508707635331689</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BELGRADE</EntitySurfaceForm>
+	<EntityTextStart>40</EntityTextStart>
+	<EntityTextEnd>48</EntityTextEnd>
+	<LinkerScore>0.5122621056173203</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belgrade</WikiTitle>
+		<WikiTitleID>55904</WikiTitleID>
+		<RankerScore>0.2822624912209114</RankerScore>
+		<Attributes>district	place	capital	city	area	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belgrade</WikiTitle> <WikiTitleID>55904</WikiTitleID> <RankerScore>0.2822624912209114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Maine</WikiTitle> <WikiTitleID>116011</WikiTitleID> <RankerScore>0.08474650582995762</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Missouri</WikiTitle> <WikiTitleID>4642522</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Montana</WikiTitle> <WikiTitleID>123390</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Minnesota</WikiTitle> <WikiTitleID>121807</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade,_Nebraska</WikiTitle> <WikiTitleID>124077</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgrade_Nikola_Tesla_Airport</WikiTitle> <WikiTitleID>1467219</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serbian_Orthodox_Church</WikiTitle> <WikiTitleID>344447</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Beograd</WikiTitle> <WikiTitleID>15861465</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Belgrade</WikiTitle> <WikiTitleID>918895</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Belgrade</WikiTitle> <WikiTitleID>1218557</WikiTitleID> <RankerScore>0.05120757097645828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Star_Belgrade</WikiTitle> <WikiTitleID>361966</WikiTitleID> <RankerScore>0.17212286416100644</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Benetton</EntitySurfaceForm>
+	<EntityTextStart>60</EntityTextStart>
+	<EntityTextEnd>68</EntityTextEnd>
+	<LinkerScore>0.013535033023746645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Benetton_Formula</WikiTitle>
+		<WikiTitleID>445741</WikiTitleID>
+		<RankerScore>0.3274465808715241</RankerScore>
+		<Attributes>constructor	entrant	team</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Benetton_Formula</WikiTitle> <WikiTitleID>445741</WikiTitleID> <RankerScore>0.3274465808715241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Benetton_Group</WikiTitle> <WikiTitleID>40480</WikiTitleID> <RankerScore>0.23041384904155748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renault_F1</WikiTitle> <WikiTitleID>240378</WikiTitleID> <RankerScore>0.16772637716709496</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pallacanestro_Treviso</WikiTitle> <WikiTitleID>3450530</WikiTitleID> <RankerScore>0.27441319291982347</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Italy</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>77</EntityTextEnd>
+	<LinkerScore>0.31646238868456567</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Italy</WikiTitle>
+		<WikiTitleID>14532</WikiTitleID>
+		<RankerScore>0.12812262042437833</RankerScore>
+		<Attributes>country	nation	member	state	monarchy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Italy</WikiTitle> <WikiTitleID>14532</WikiTitleID> <RankerScore>0.12812262042437833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_football_team</WikiTitle> <WikiTitleID>362466</WikiTitleID> <RankerScore>0.056757005422831686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_rugby_union_team</WikiTitle> <WikiTitleID>957326</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy_(1861–1946)</WikiTitle> <WikiTitleID>9804204</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Campaign_(World_War_II)</WikiTitle> <WikiTitleID>493696</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_basketball_team</WikiTitle> <WikiTitleID>1812201</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_baseball_team</WikiTitle> <WikiTitleID>4310517</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Italy</WikiTitle> <WikiTitleID>10787</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_cricket_team</WikiTitle> <WikiTitleID>2540447</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A_(basketball)</WikiTitle> <WikiTitleID>5715621</WikiTitleID> <RankerScore>0.1152807368292254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_Davis_Cup_team</WikiTitle> <WikiTitleID>9988540</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_national_under-21_football_team</WikiTitle> <WikiTitleID>3867414</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_wine</WikiTitle> <WikiTitleID>1807097</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italian_Peninsula</WikiTitle> <WikiTitleID>378368</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2172188</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italy_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913796</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Italy</WikiTitle> <WikiTitleID>306047</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Italia_(Roman_Empire)</WikiTitle> <WikiTitleID>1873263</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Serie_A</WikiTitle> <WikiTitleID>15496</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Italy</WikiTitle> <WikiTitleID>2164851</WikiTitleID> <RankerScore>0.04116703748962144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dinamo</EntitySurfaceForm>
+	<EntityTextStart>83</EntityTextStart>
+	<EntityTextEnd>89</EntityTextEnd>
+	<LinkerScore>0.150998889292765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FC_Dynamo_Moscow</WikiTitle>
+		<WikiTitleID>968856</WikiTitleID>
+		<RankerScore>0.21715619690066928</RankerScore>
+		<Attributes>club</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Bucureşti</WikiTitle> <WikiTitleID>861358</WikiTitleID> <RankerScore>0.10200973388024409</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NK_Dinamo_Zagreb</WikiTitle> <WikiTitleID>675239</WikiTitleID> <RankerScore>0.18406197706071273</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Minsk</WikiTitle> <WikiTitleID>1651899</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dynamo_Sports_Club</WikiTitle> <WikiTitleID>15820924</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dinamo_(Metro)</WikiTitle> <WikiTitleID>2243997</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dynamo_Moscow</WikiTitle> <WikiTitleID>968856</WikiTitleID> <RankerScore>0.21715619690066928</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Tbilisi</WikiTitle> <WikiTitleID>833846</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>KS_Dinamo_Tirana</WikiTitle> <WikiTitleID>830451</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Dinamo_Sokhumi</WikiTitle> <WikiTitleID>7373737</WikiTitleID> <RankerScore>0.08279534869306233</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russia</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>99</EntityTextEnd>
+	<LinkerScore>0.6814349267892144</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russia</WikiTitle>
+		<WikiTitleID>25391</WikiTitleID>
+		<RankerScore>0.20382564662765926</RankerScore>
+		<Attributes>country	nation	republic	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.20382564662765926</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.041002093634063604</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.053376335818777466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_ice_hockey_team</WikiTitle> <WikiTitleID>950313</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913914</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_league_team</WikiTitle> <WikiTitleID>992963</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_basketball_team</WikiTitle> <WikiTitleID>6821042</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_handball_team</WikiTitle> <WikiTitleID>7195752</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_rugby_union_team</WikiTitle> <WikiTitleID>4921535</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Russia</WikiTitle> <WikiTitleID>25707</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Davis_Cup_team</WikiTitle> <WikiTitleID>9663292</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_Fed_Cup_team</WikiTitle> <WikiTitleID>11233270</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bolshevist_Russia</WikiTitle> <WikiTitleID>318390</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Russia</WikiTitle> <WikiTitleID>2518541</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_speedway_team</WikiTitle> <WikiTitleID>12529786</WikiTitleID> <RankerScore>0.041282113171735274</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>play-off</EntitySurfaceForm>
+	<EntityTextStart>140</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>0.6443959366837663</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Playoff</WikiTitle>
+		<WikiTitleID>74678</WikiTitleID>
+		<RankerScore>0.15060009135559724</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Playoff</WikiTitle> <WikiTitleID>74678</WikiTitleID> <RankerScore>0.15060009135559724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Championship_play-offs</WikiTitle> <WikiTitleID>8595452</WikiTitleID> <RankerScore>0.08913604678481288</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_play-offs</WikiTitle> <WikiTitleID>6043445</WikiTitleID> <RankerScore>0.08245209577166188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_One_play-offs</WikiTitle> <WikiTitleID>11752281</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Promotion_to_the_2nd_Bundesliga_(Football)</WikiTitle> <WikiTitleID>14242137</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_League_Two_play-offs</WikiTitle> <WikiTitleID>12944783</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1962_League_of_Ireland_Championship_play-off</WikiTitle> <WikiTitleID>12242002</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>One-game_playoff</WikiTitle> <WikiTitleID>6760905</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2521320</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inter-Cities_Fairs_Cup_Trophy_Play-Off</WikiTitle> <WikiTitleID>5626271</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Playoff_format</WikiTitle> <WikiTitleID>2847115</WikiTitleID> <RankerScore>0.08472647076099099</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Beograd</EntitySurfaceForm>
+	<EntityTextStart>163</EntityTextStart>
+	<EntityTextEnd>170</EntityTextEnd>
+	<LinkerScore>0.960766571659141</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belgrade</WikiTitle>
+		<WikiTitleID>55904</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>district	place	capital	city	area	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belgrade</WikiTitle> <WikiTitleID>55904</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>basketball</EntitySurfaceForm>
+	<EntityTextStart>188</EntityTextStart>
+	<EntityTextEnd>198</EntityTextEnd>
+	<LinkerScore>0.6274468785639248</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Basketball</WikiTitle>
+		<WikiTitleID>3921</WikiTitleID>
+		<RankerScore>0.19884447708083544</RankerScore>
+		<Attributes>sport	introduction	invention</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Basketball</WikiTitle> <WikiTitleID>3921</WikiTitleID> <RankerScore>0.19884447708083544</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_basketball</WikiTitle> <WikiTitleID>768856</WikiTitleID> <RankerScore>0.04423503702352141</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_(ball)</WikiTitle> <WikiTitleID>6129782</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Basketball_Association</WikiTitle> <WikiTitleID>22093</WikiTitleID> <RankerScore>0.08780498829100082</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_court</WikiTitle> <WikiTitleID>679837</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_in_Poland</WikiTitle> <WikiTitleID>755442</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USC_Trojans_men&apos;s_basketball</WikiTitle> <WikiTitleID>4396310</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auburn_Tigers_men&apos;s_basketball</WikiTitle> <WikiTitleID>10507077</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iowa_Hawkeyes_men&apos;s_basketball</WikiTitle> <WikiTitleID>10720485</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Virginia_Cavaliers_men&apos;s_basketball</WikiTitle> <WikiTitleID>7915778</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Duke_Blue_Devils_men&apos;s_basketball</WikiTitle> <WikiTitleID>8219053</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Mexico_Lobos_men&apos;s_basketball</WikiTitle> <WikiTitleID>2358612</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_at_the_1936_Summer_Olympics</WikiTitle> <WikiTitleID>299123</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Philippines_national_basketball_team</WikiTitle> <WikiTitleID>1919903</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Basketball_at_the_Summer_Olympics</WikiTitle> <WikiTitleID>2695055</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NCAA_Basketball_Championship_(Philippines)</WikiTitle> <WikiTitleID>2192184</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Golden_Gophers_men&apos;s_basketball</WikiTitle> <WikiTitleID>11179246</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_basketball</WikiTitle> <WikiTitleID>667977</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Argentina_national_basketball_team</WikiTitle> <WikiTitleID>2937490</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Jayhawks_men&apos;s_basketball</WikiTitle> <WikiTitleID>3258978</WikiTitleID> <RankerScore>0.039359735153214254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

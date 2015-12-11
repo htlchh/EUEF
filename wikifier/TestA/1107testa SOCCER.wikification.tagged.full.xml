@@ -1,0 +1,710 @@
+<WikifierOutput>
+<InputFilename>
+1107testa SOCCER
+</InputFilename>
+<InputText>
+SOCCER- BELGIUM BEAT TURKEY 2-1 IN WORLD CUP QUALIFIER.
+BRUSSELS 1996-08-31
+Belgium beat Turkey 2-1( halftime 2-0) in a World Cup group seven soccer qualifier on
+Saturday:
+Scorers:
+Belgium- Marc Degryse( 13th), Luis Oliveira( 38th)
+Turkey- Sergen Yalcin( 61st)
+Attendance: 30,000
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BELGIUM</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>15</EntityTextEnd>
+	<LinkerScore>-0.04785119804577609</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belgium</WikiTitle>
+		<WikiTitleID>3343</WikiTitleID>
+		<RankerScore>0.2134787363355494</RankerScore>
+		<Attributes>country	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belgium</WikiTitle> <WikiTitleID>3343</WikiTitleID> <RankerScore>0.2134787363355494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_football_team</WikiTitle> <WikiTitleID>679716</WikiTitleID> <RankerScore>0.19151596806744176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_euro_coins</WikiTitle> <WikiTitleID>54193</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Belgium</WikiTitle> <WikiTitleID>2282833</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Belgium</WikiTitle> <WikiTitleID>249618</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_Davis_Cup_team</WikiTitle> <WikiTitleID>9663467</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_rugby_union_team</WikiTitle> <WikiTitleID>4986438</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_basketball_team</WikiTitle> <WikiTitleID>2858581</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Belgium</WikiTitle> <WikiTitleID>6088014</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_in_the_Eurovision_Song_Contest_1957</WikiTitle> <WikiTitleID>15881512</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Belgium</WikiTitle> <WikiTitleID>67301</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_cricket_team</WikiTitle> <WikiTitleID>4378655</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_Fed_Cup_team</WikiTitle> <WikiTitleID>2707548</WikiTitleID> <RankerScore>0.049205993758255115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>929227</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium,_Wisconsin</WikiTitle> <WikiTitleID>260594</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_under-21_football_team</WikiTitle> <WikiTitleID>8118917</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_at_the_1900_Summer_Olympics</WikiTitle> <WikiTitleID>3440162</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_beer</WikiTitle> <WikiTitleID>1744139</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_Naval_Component</WikiTitle> <WikiTitleID>4084788</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_baseball_team</WikiTitle> <WikiTitleID>17098572</WikiTitleID> <RankerScore>0.03210584128463258</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>TURKEY</EntitySurfaceForm>
+	<EntityTextStart>21</EntityTextStart>
+	<EntityTextEnd>27</EntityTextEnd>
+	<LinkerScore>0.9293144059924062</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Turkey</WikiTitle>
+		<WikiTitleID>11125639</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>country	nation	republic	state	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Turkey</WikiTitle> <WikiTitleID>11125639</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.12168158544853955</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle>
+		<WikiTitleID>4940480</WikiTitleID>
+		<RankerScore>0.09336542976977867</RankerScore>
+		<Attributes>festival</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>2001_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4237189</WikiTitleID> <RankerScore>0.09328717063275999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Women&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4940480</WikiTitleID> <RankerScore>0.09336542976977867</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235328</WikiTitleID> <RankerScore>0.08597798666162192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1997_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>17475699</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>1952482</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1993_Women&apos;s_Field_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>4235718</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Men&apos;s_Hockey_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7528350</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2009_ICC_World_Cup_Qualifier</WikiTitle> <WikiTitleID>7127957</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup_qualification_(AFC-OFC_play-off)</WikiTitle> <WikiTitleID>5556528</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2010_FIFA_World_Cup_qualification_(AFC)</WikiTitle> <WikiTitleID>11798982</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2014796</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1990_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2467576</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1994_FIFA_World_Cup_qualification</WikiTitle> <WikiTitleID>2485341</WikiTitleID> <RankerScore>0.06612449208507631</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WORLD CUP</EntitySurfaceForm>
+	<EntityTextStart>35</EntityTextStart>
+	<EntityTextEnd>44</EntityTextEnd>
+	<LinkerScore>0.23646163667727305</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.14373561683737177</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.14373561683737177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.09494825786063629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.05929509270407385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.04129535485870106</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>CUP</EntitySurfaceForm>
+	<EntityTextStart>41</EntityTextStart>
+	<EntityTextEnd>44</EntityTextEnd>
+	<LinkerScore>0.014015735769967702</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Copper_units_of_pressure</WikiTitle>
+		<WikiTitleID>3848885</WikiTitleID>
+		<RankerScore>0.2158574298526486</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cambridge_University_Press</WikiTitle> <WikiTitleID>73199</WikiTitleID> <RankerScore>0.21493985632825482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Committee_of_Union_and_Progress</WikiTitle> <WikiTitleID>500233</WikiTitleID> <RankerScore>0.20807099213203314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copper_units_of_pressure</WikiTitle> <WikiTitleID>3848885</WikiTitleID> <RankerScore>0.2158574298526486</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Popular_Unity_Candidates</WikiTitle> <WikiTitleID>8736554</WikiTitleID> <RankerScore>0.1805658608435317</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbia_University_Press</WikiTitle> <WikiTitleID>1903626</WikiTitleID> <RankerScore>0.1805658608435317</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>QUALIFIER</EntitySurfaceForm>
+	<EntityTextStart>45</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.7597275716405507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle>
+		<WikiTitleID>1033640</WikiTitleID>
+		<RankerScore>0.7644142875688037</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Grammatical_modifier</WikiTitle> <WikiTitleID>210058</WikiTitleID> <RankerScore>0.2355857124311963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup_qualification_(UEFA)</WikiTitle> <WikiTitleID>1033640</WikiTitleID> <RankerScore>0.7644142875688037</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BRUSSELS</EntitySurfaceForm>
+	<EntityTextStart>56</EntityTextStart>
+	<EntityTextEnd>64</EntityTextEnd>
+	<LinkerScore>1.2018972062782587</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brussels</WikiTitle>
+		<WikiTitleID>3708</WikiTitleID>
+		<RankerScore>0.28704812435421634</RankerScore>
+		<Attributes>capital	region</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Brussels</WikiTitle> <WikiTitleID>3708</WikiTitleID> <RankerScore>0.28704812435421634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Molenbeek_Brussels_Strombeek</WikiTitle> <WikiTitleID>1437181</WikiTitleID> <RankerScore>0.0599026584639645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels,_Ontario</WikiTitle> <WikiTitleID>232832</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels_Airport</WikiTitle> <WikiTitleID>269753</WikiTitleID> <RankerScore>0.06089896423224557</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels,_Wisconsin</WikiTitle> <WikiTitleID>138956</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels_and_the_European_Union</WikiTitle> <WikiTitleID>9981557</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>European_Union</WikiTitle> <WikiTitleID>9317</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Université_Libre_de_Bruxelles</WikiTitle> <WikiTitleID>385994</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels_trams</WikiTitle> <WikiTitleID>2304653</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels,_Illinois</WikiTitle> <WikiTitleID>110853</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels_Stock_Exchange</WikiTitle> <WikiTitleID>4693853</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brussels_Metro</WikiTitle> <WikiTitleID>463327</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_Brussels</WikiTitle> <WikiTitleID>575501</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Memorial_Van_Damme</WikiTitle> <WikiTitleID>1111662</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Brussels</WikiTitle> <WikiTitleID>2453969</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliament_of_the_Brussels-Capital_Region</WikiTitle> <WikiTitleID>528644</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Espace_Léopold</WikiTitle> <WikiTitleID>14618808</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vrije_Universiteit_Brussel</WikiTitle> <WikiTitleID>385877</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>King_Baudouin_Stadium</WikiTitle> <WikiTitleID>61588</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Belgium</WikiTitle> <WikiTitleID>249618</WikiTitleID> <RankerScore>0.034832367820563155</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Belgium</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>83</EntityTextEnd>
+	<LinkerScore>-0.026992081808032503</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belgium</WikiTitle>
+		<WikiTitleID>3343</WikiTitleID>
+		<RankerScore>0.21270877792221998</RankerScore>
+		<Attributes>country	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belgium</WikiTitle> <WikiTitleID>3343</WikiTitleID> <RankerScore>0.21270877792221998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_football_team</WikiTitle> <WikiTitleID>679716</WikiTitleID> <RankerScore>0.1916689894834207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_euro_coins</WikiTitle> <WikiTitleID>54193</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Belgium</WikiTitle> <WikiTitleID>2282833</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Same-sex_marriage_in_Belgium</WikiTitle> <WikiTitleID>249618</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_Davis_Cup_team</WikiTitle> <WikiTitleID>9663467</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_rugby_union_team</WikiTitle> <WikiTitleID>4986438</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_basketball_team</WikiTitle> <WikiTitleID>2858581</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Belgium</WikiTitle> <WikiTitleID>6088014</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_in_the_Eurovision_Song_Contest_1957</WikiTitle> <WikiTitleID>15881512</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Belgium</WikiTitle> <WikiTitleID>67301</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_cricket_team</WikiTitle> <WikiTitleID>4378655</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_Fed_Cup_team</WikiTitle> <WikiTitleID>2707548</WikiTitleID> <RankerScore>0.05292859203609443</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>929227</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium,_Wisconsin</WikiTitle> <WikiTitleID>260594</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_under-21_football_team</WikiTitle> <WikiTitleID>8118917</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_at_the_1900_Summer_Olympics</WikiTitle> <WikiTitleID>3440162</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_beer</WikiTitle> <WikiTitleID>1744139</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgian_Naval_Component</WikiTitle> <WikiTitleID>4084788</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belgium_national_baseball_team</WikiTitle> <WikiTitleID>17098572</WikiTitleID> <RankerScore>0.031923155326956755</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Turkey</EntitySurfaceForm>
+	<EntityTextStart>89</EntityTextStart>
+	<EntityTextEnd>95</EntityTextEnd>
+	<LinkerScore>0.1009492952276308</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Turkey</WikiTitle>
+		<WikiTitleID>11125639</WikiTitleID>
+		<RankerScore>0.21603372696891987</RankerScore>
+		<Attributes>country	nation	republic	state	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Turkey</WikiTitle> <WikiTitleID>11125639</WikiTitleID> <RankerScore>0.21603372696891987</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_national_football_team</WikiTitle> <WikiTitleID>743577</WikiTitleID> <RankerScore>0.15560828489208905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ottoman_Empire</WikiTitle> <WikiTitleID>22278</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_(bird)</WikiTitle> <WikiTitleID>72821</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913704</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_national_basketball_team</WikiTitle> <WikiTitleID>3147234</WikiTitleID> <RankerScore>0.057791188190543116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Turkey</WikiTitle> <WikiTitleID>30204</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey,_Texas</WikiTitle> <WikiTitleID>135979</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Turkey</WikiTitle> <WikiTitleID>1408885</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Turkish_Grand_Prix</WikiTitle> <WikiTitleID>14233589</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_national_under-21_football_team</WikiTitle> <WikiTitleID>10847769</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_Turkish_Grand_Prix</WikiTitle> <WikiTitleID>5978167</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkish_cuisine</WikiTitle> <WikiTitleID>31427</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rally_of_Turkey</WikiTitle> <WikiTitleID>1445604</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkey_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>2961363</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turkish_Basketball_League</WikiTitle> <WikiTitleID>2315496</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Süper_Lig</WikiTitle> <WikiTitleID>1303104</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Domestic_turkey</WikiTitle> <WikiTitleID>296928</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Republic_of_Turkey</WikiTitle> <WikiTitleID>13305</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Turkey</WikiTitle> <WikiTitleID>168783</WikiTitleID> <RankerScore>0.033562752938144</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>World Cup</EntitySurfaceForm>
+	<EntityTextStart>120</EntityTextStart>
+	<EntityTextEnd>129</EntityTextEnd>
+	<LinkerScore>0.2506271937003933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>FIFA_World_Cup</WikiTitle>
+		<WikiTitleID>11370</WikiTitleID>
+		<RankerScore>0.14093610308502852</RankerScore>
+		<Attributes>championship	competition</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>FIFA_World_Cup</WikiTitle> <WikiTitleID>11370</WikiTitleID> <RankerScore>0.14093610308502852</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Cup_(men&apos;s_golf)</WikiTitle> <WikiTitleID>1543977</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alpine_skiing_World_Cup</WikiTitle> <WikiTitleID>183628</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_FIFA_World_Cup</WikiTitle> <WikiTitleID>157233</WikiTitleID> <RankerScore>0.09968968986171906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_League_World_Cup</WikiTitle> <WikiTitleID>12312312</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cricket_World_Cup</WikiTitle> <WikiTitleID>7239</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ski_jumping_World_Cup</WikiTitle> <WikiTitleID>3730010</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_World_Cup</WikiTitle> <WikiTitleID>25406</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Volleyball_World_Cup</WikiTitle> <WikiTitleID>225312</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hockey_World_Cup</WikiTitle> <WikiTitleID>951198</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FIFA_Women&apos;s_World_Cup</WikiTitle> <WikiTitleID>244862</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UCI_Track_Cycling_World_Cup_Classics</WikiTitle> <WikiTitleID>10428114</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1998_FIFA_World_Cup</WikiTitle> <WikiTitleID>126460</WikiTitleID> <RankerScore>0.05393711699352981</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biathlon_World_Cup</WikiTitle> <WikiTitleID>447991</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_Cricket_World_Cup</WikiTitle> <WikiTitleID>3977980</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_Women&apos;s_Hockey_World_Cup</WikiTitle> <WikiTitleID>6851847</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Speed_Skating_World_Cup</WikiTitle> <WikiTitleID>4364061</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2002_FIFA_World_Cup</WikiTitle> <WikiTitleID>52622</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1966_FIFA_World_Cup</WikiTitle> <WikiTitleID>61629</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_Rugby_World_Cup</WikiTitle> <WikiTitleID>338233</WikiTitleID> <RankerScore>0.041496299415277806</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>soccer</EntitySurfaceForm>
+	<EntityTextStart>142</EntityTextStart>
+	<EntityTextEnd>148</EntityTextEnd>
+	<LinkerScore>0.9928834717429404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Association_football</WikiTitle>
+		<WikiTitleID>10568</WikiTitleID>
+		<RankerScore>0.1649595273464422</RankerScore>
+		<Attributes>sport	code	game</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Association_football</WikiTitle> <WikiTitleID>10568</WikiTitleID> <RankerScore>0.1649595273464422</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football</WikiTitle> <WikiTitleID>185435</WikiTitleID> <RankerScore>0.055986756013371546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>College_soccer</WikiTitle> <WikiTitleID>1037270</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_Ireland_national_football_team</WikiTitle> <WikiTitleID>578510</WikiTitleID> <RankerScore>0.04935786032043307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soccer_in_Canada</WikiTitle> <WikiTitleID>579183</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>ESPN_Major_League_Soccer</WikiTitle> <WikiTitleID>7655620</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_in_the_Republic_of_Ireland</WikiTitle> <WikiTitleID>8526625</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USL_Premier_Development_League</WikiTitle> <WikiTitleID>746584</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Germany</WikiTitle> <WikiTitleID>2110610</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Association_football_pitch</WikiTitle> <WikiTitleID>1894710</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Syracuse_Orange_soccer</WikiTitle> <WikiTitleID>13220265</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Major_League_Soccer</WikiTitle> <WikiTitleID>71802</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_in_Poland</WikiTitle> <WikiTitleID>624609</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fairfield_Stags_men&apos;s_soccer</WikiTitle> <WikiTitleID>14607280</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>3196682</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>741180</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_South_Wales_Premier_League</WikiTitle> <WikiTitleID>2161851</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_association_football</WikiTitle> <WikiTitleID>191466</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Soccer_Federation</WikiTitle> <WikiTitleID>186853</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>J._League</WikiTitle> <WikiTitleID>448902</WikiTitleID> <RankerScore>0.04292328566586783</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Marc Degryse</EntitySurfaceForm>
+	<EntityTextStart>190</EntityTextStart>
+	<EntityTextEnd>202</EntityTextEnd>
+	<LinkerScore>1.0820847290617546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Marc_Degryse</WikiTitle>
+		<WikiTitleID>2575626</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	footballer	person	expatriate</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Marc_Degryse</WikiTitle> <WikiTitleID>2575626</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Luis Oliveira</EntitySurfaceForm>
+	<EntityTextStart>211</EntityTextStart>
+	<EntityTextEnd>224</EntityTextEnd>
+	<LinkerScore>1.0530593779188355</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Luis_Oliveira</WikiTitle>
+		<WikiTitleID>18731</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>footballer	player	person	citizen	immigrant</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Luis_Oliveira</WikiTitle> <WikiTitleID>18731</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sergen Yalcin</EntitySurfaceForm>
+	<EntityTextStart>240</EntityTextStart>
+	<EntityTextEnd>253</EntityTextEnd>
+	<LinkerScore>0.980478032783581</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sergen_Yalçın</WikiTitle>
+		<WikiTitleID>1230302</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sergen_Yalçın</WikiTitle> <WikiTitleID>1230302</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

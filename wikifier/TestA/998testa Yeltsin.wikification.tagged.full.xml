@@ -1,0 +1,1616 @@
+<WikifierOutput>
+<InputFilename>
+998testa Yeltsin
+</InputFilename>
+<InputText>
+Yeltsin visits wife Naina in hospital- Interfax.
+MOSCOW 1996-08-30
+Russian President Boris Yeltsin visited his wife Naina in hospital on Friday evening, Interfax news agency quoted spokesman Sergei Yastrzhembsky as saying.
+Naina Yeltsin had a kidney operation last Saturday.
+Earlier Russian news reports had said Yeltsin&apos;s children and grandchildren had visited the Russian first lady but they said only that Yeltsin, on vacation outside Moscow, had spoken to her by telephone.&quot; Naina Yeltsin looks well, she is active, she is clearly getting better,&quot; Yastrzhembsky quoted Yeltsin as saying.
+Naina Yeltsin is recovering in Moscow&apos;s Central Clinical Hospital, where the president himself was treated twice last year for heart attacks.
+Yeltsin, 65, has been seen only rarely since he was elected for a second term in office on July 3, although his aides have denied a string of rumours that he has been taken ill again.
+Yastrzhembsky said Yeltsin had travelled from the hospital to spend the night at the Barvikha sanatorium outside Moscow.
+He was likely to return on Saturday to his holiday resort, a hunting lodge some 100 km( 60 miles) from Moscow.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>1.234604939060546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8888934712680241</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8888934712680241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.111106528731976</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina</EntitySurfaceForm>
+	<EntityTextStart>20</EntityTextStart>
+	<EntityTextEnd>25</EntityTextEnd>
+	<LinkerScore>1.0389059936220018</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina</WikiTitle>
+		<WikiTitleID>1896242</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naina</WikiTitle> <WikiTitleID>1896242</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>39</EntityTextStart>
+	<EntityTextEnd>47</EntityTextEnd>
+	<LinkerScore>1.1118473271993266</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>MOSCOW</EntitySurfaceForm>
+	<EntityTextStart>49</EntityTextStart>
+	<EntityTextEnd>55</EntityTextEnd>
+	<LinkerScore>1.623657655877228</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.3164583333026539</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.3164583333026539</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04489790206165804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.04879791295898352</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03469681480451203</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.046038902669816834</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.20138580330196965</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.20138580330196965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.10456663461251357</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.14688333821844032</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.032186130815710375</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian President</EntitySurfaceForm>
+	<EntityTextStart>67</EntityTextStart>
+	<EntityTextEnd>84</EntityTextEnd>
+	<LinkerScore>1.1889172482968142</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President_of_Russia</WikiTitle>
+		<WikiTitleID>239646</WikiTitleID>
+		<RankerScore>0.8467561314630823</RankerScore>
+		<Attributes>establishment	president	politics	leaders</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.8467561314630823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vladimir_Putin</WikiTitle> <WikiTitleID>32817</WikiTitleID> <RankerScore>0.1532438685369177</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>84</EntityTextEnd>
+	<LinkerScore>1.073562874099742</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>President_of_Russia</WikiTitle>
+		<WikiTitleID>239646</WikiTitleID>
+		<RankerScore>0.8117474107924647</RankerScore>
+		<Attributes>establishment	president	politics	leaders</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>President_of_Russia</WikiTitle> <WikiTitleID>239646</WikiTitleID> <RankerScore>0.8117474107924647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vladimir_Putin</WikiTitle> <WikiTitleID>32817</WikiTitleID> <RankerScore>0.18825258920753526</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>President Boris Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>1.1287682780331145</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Boris Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>85</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>1.29859333911136</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Boris</EntitySurfaceForm>
+	<EntityTextStart>85</EntityTextStart>
+	<EntityTextEnd>90</EntityTextEnd>
+	<LinkerScore>-0.16368137753033624</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_(band)</WikiTitle>
+		<WikiTitleID>2390362</WikiTitleID>
+		<RankerScore>0.0877238042524717</RankerScore>
+		<Attributes>group	artist	trio</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_(band)</WikiTitle> <WikiTitleID>2390362</WikiTitleID> <RankerScore>0.0877238042524717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_(first_name)</WikiTitle> <WikiTitleID>1352961</WikiTitleID> <RankerScore>0.07866469963322882</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Kalamanos</WikiTitle> <WikiTitleID>17616924</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_III_of_Bulgaria</WikiTitle> <WikiTitleID>56152</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_and_Gleb</WikiTitle> <WikiTitleID>1414229</WikiTitleID> <RankerScore>0.04979770600666455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_(song)</WikiTitle> <WikiTitleID>11944878</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_I_of_Bulgaria</WikiTitle> <WikiTitleID>335936</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Titulaer</WikiTitle> <WikiTitleID>3527252</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Thomashefsky</WikiTitle> <WikiTitleID>1339472</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Boris_of_Bulgaria</WikiTitle> <WikiTitleID>3711505</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Dlugosch</WikiTitle> <WikiTitleID>1719004</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Pasternak</WikiTitle> <WikiTitleID>4667</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prince_Boris_of_Leiningen</WikiTitle> <WikiTitleID>6083666</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Kalin</WikiTitle> <WikiTitleID>16830606</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Malenko</WikiTitle> <WikiTitleID>4209336</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Vallejo</WikiTitle> <WikiTitleID>766490</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Karloff</WikiTitle> <WikiTitleID>67260</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kardam,_Prince_of_Turnovo</WikiTitle> <WikiTitleID>3711473</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris,_Hereditary_Prince_of_Montenegro</WikiTitle> <WikiTitleID>5504179</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boris_Podolsky</WikiTitle> <WikiTitleID>635151</WikiTitleID> <RankerScore>0.04610669353574323</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>91</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>1.3160909846466644</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8928399688755966</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8928399688755966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.10716003112440353</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina</EntitySurfaceForm>
+	<EntityTextStart>116</EntityTextStart>
+	<EntityTextEnd>121</EntityTextEnd>
+	<LinkerScore>1.0442388247642116</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina</WikiTitle>
+		<WikiTitleID>1896242</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naina</WikiTitle> <WikiTitleID>1896242</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hospital</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>133</EntityTextEnd>
+	<LinkerScore>0.6358797592065556</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.10779236479683832</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.10779236479683832</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bimaristan</WikiTitle> <WikiTitleID>8284152</WikiTitleID> <RankerScore>0.05578573875613909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stoke_Mandeville_Hospital</WikiTitle> <WikiTitleID>393514</WikiTitleID> <RankerScore>0.054686252518641947</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greystone_Park_Psychiatric_Hospital</WikiTitle> <WikiTitleID>3963096</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modbury_Hospital</WikiTitle> <WikiTitleID>13790829</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabbatsbergs_sjukhus</WikiTitle> <WikiTitleID>10109977</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_Albert_Schweitzer_Haiti</WikiTitle> <WikiTitleID>11665086</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_Saudi_Arabia</WikiTitle> <WikiTitleID>711236</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Wood_Johnson_University_Hospital</WikiTitle> <WikiTitleID>6739361</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Amsterdam_Public_Hospital</WikiTitle> <WikiTitleID>7449722</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aga_Khan_University_Hospital,_Nairobi</WikiTitle> <WikiTitleID>7941437</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ninewells_Hospital</WikiTitle> <WikiTitleID>7108193</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_locations_in_A_Series_of_Unfortunate_Events</WikiTitle> <WikiTitleID>8090523</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Providence_Saint_Joseph_Medical_Center</WikiTitle> <WikiTitleID>10698935</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway_Regional_Health_Authority</WikiTitle> <WikiTitleID>13725701</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whitgift_Foundation</WikiTitle> <WikiTitleID>1926811</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>0.04598444964284591</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Interfax</EntitySurfaceForm>
+	<EntityTextStart>153</EntityTextStart>
+	<EntityTextEnd>161</EntityTextEnd>
+	<LinkerScore>1.1015480031045823</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Interfax</WikiTitle>
+		<WikiTitleID>4921404</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agency	company</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Interfax</WikiTitle> <WikiTitleID>4921404</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>news agency</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>173</EntityTextEnd>
+	<LinkerScore>0.7666195018436701</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>News_agency</WikiTitle>
+		<WikiTitleID>47917</WikiTitleID>
+		<RankerScore>0.7259628793073506</RankerScore>
+		<Attributes>agency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>News_agency</WikiTitle> <WikiTitleID>47917</WikiTitleID> <RankerScore>0.7259628793073506</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reuters</WikiTitle> <WikiTitleID>101623</WikiTitleID> <RankerScore>0.2740371206926493</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sergei Yastrzhembsky</EntitySurfaceForm>
+	<EntityTextStart>191</EntityTextStart>
+	<EntityTextEnd>211</EntityTextEnd>
+	<LinkerScore>1.0336926010114542</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sergey_Yastrzhembsky</WikiTitle>
+		<WikiTitleID>13411146</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sergey_Yastrzhembsky</WikiTitle> <WikiTitleID>13411146</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>223</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina_Yeltsina</WikiTitle>
+		<WikiTitleID>10853787</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>spouse	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina</EntitySurfaceForm>
+	<EntityTextStart>223</EntityTextStart>
+	<EntityTextEnd>228</EntityTextEnd>
+	<LinkerScore>1.0450426801229602</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina</WikiTitle>
+		<WikiTitleID>1896242</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naina</WikiTitle> <WikiTitleID>1896242</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>229</EntityTextStart>
+	<EntityTextEnd>236</EntityTextEnd>
+	<LinkerScore>1.2966436478561276</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.882296646266562</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.882296646266562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.11770335373343796</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>kidney</EntitySurfaceForm>
+	<EntityTextStart>243</EntityTextStart>
+	<EntityTextEnd>249</EntityTextEnd>
+	<LinkerScore>0.40169189997946675</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Kidney</WikiTitle>
+		<WikiTitleID>17025</WikiTitleID>
+		<RankerScore>0.3153798389088256</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Kidney</WikiTitle> <WikiTitleID>17025</WikiTitleID> <RankerScore>0.3153798389088256</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renal_failure</WikiTitle> <WikiTitleID>284027</WikiTitleID> <RankerScore>0.13624826241299917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renal_cell_carcinoma</WikiTitle> <WikiTitleID>414178</WikiTitleID> <RankerScore>0.13030403272689936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Renal_function</WikiTitle> <WikiTitleID>623154</WikiTitleID> <RankerScore>0.13935595531709197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kidney_(TCM)</WikiTitle> <WikiTitleID>1130485</WikiTitleID> <RankerScore>0.13935595531709197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Common_bean</WikiTitle> <WikiTitleID>491986</WikiTitleID> <RankerScore>0.13935595531709197</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>283</EntityTextStart>
+	<EntityTextEnd>290</EntityTextEnd>
+	<LinkerScore>0.003275952311959346</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.19795936836814063</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.19795936836814063</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.09164621973840613</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.14531789469627324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.03323979512924588</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>313</EntityTextStart>
+	<EntityTextEnd>320</EntityTextEnd>
+	<LinkerScore>1.0337748179828714</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.873620724685348</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.873620724685348</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.12637927531465204</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Russian</EntitySurfaceForm>
+	<EntityTextStart>366</EntityTextStart>
+	<EntityTextEnd>373</EntityTextEnd>
+	<LinkerScore>-0.010699060570534574</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Russian_language</WikiTitle>
+		<WikiTitleID>25431</WikiTitleID>
+		<RankerScore>0.19571022287550235</RankerScore>
+		<Attributes>language</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Russian_language</WikiTitle> <WikiTitleID>25431</WikiTitleID> <RankerScore>0.19571022287550235</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russians</WikiTitle> <WikiTitleID>59510</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia</WikiTitle> <WikiTitleID>25391</WikiTitleID> <RankerScore>0.09117619564775511</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Empire</WikiTitle> <WikiTitleID>45644</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Soviet_Federative_Socialist_Republic</WikiTitle> <WikiTitleID>262683</WikiTitleID> <RankerScore>0.15182764394809906</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_literature</WikiTitle> <WikiTitleID>106409</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Orthodox_Church</WikiTitle> <WikiTitleID>40157</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Russian_language_poets</WikiTitle> <WikiTitleID>26068</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_cuisine</WikiTitle> <WikiTitleID>644135</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_American</WikiTitle> <WikiTitleID>3546725</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Russia</WikiTitle> <WikiTitleID>14115</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_alphabet</WikiTitle> <WikiTitleID>316936</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_culture</WikiTitle> <WikiTitleID>2012490</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tsardom_of_Russia</WikiTitle> <WikiTitleID>8527874</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Russian_Navy</WikiTitle> <WikiTitleID>1916665</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4029282</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Russia</WikiTitle> <WikiTitleID>210710</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russia_national_football_team</WikiTitle> <WikiTitleID>678367</WikiTitleID> <RankerScore>0.033016819854626095</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>first lady</EntitySurfaceForm>
+	<EntityTextStart>374</EntityTextStart>
+	<EntityTextEnd>384</EntityTextEnd>
+	<LinkerScore>0.32512720541754947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>First_Lady</WikiTitle>
+		<WikiTitleID>211103</WikiTitleID>
+		<RankerScore>0.3766049217897197</RankerScore>
+		<Attributes>spouse	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>First_Lady</WikiTitle> <WikiTitleID>211103</WikiTitleID> <RankerScore>0.3766049217897197</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Lady_of_the_United_States</WikiTitle> <WikiTitleID>10847</WikiTitleID> <RankerScore>0.1943278809799153</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Laura_Bush</WikiTitle> <WikiTitleID>17528</WikiTitleID> <RankerScore>0.22996202649927466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hillary_Rodham_Clinton</WikiTitle> <WikiTitleID>5043192</WikiTitleID> <RankerScore>0.19910517073109027</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>409</EntityTextStart>
+	<EntityTextEnd>416</EntityTextEnd>
+	<LinkerScore>1.0581978575414484</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8855287885725193</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8855287885725193</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.11447121142748079</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>438</EntityTextStart>
+	<EntityTextEnd>444</EntityTextEnd>
+	<LinkerScore>1.5570255434567466</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.2880950019511497</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.2880950019511497</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04715280225258199</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.05055796991120751</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03612907211088593</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>telephone</EntitySurfaceForm>
+	<EntityTextStart>467</EntityTextStart>
+	<EntityTextEnd>476</EntityTextEnd>
+	<LinkerScore>0.5999382549867699</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Telephone</WikiTitle>
+		<WikiTitleID>30003</WikiTitleID>
+		<RankerScore>0.15195752048126346</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Telephone</WikiTitle> <WikiTitleID>30003</WikiTitleID> <RankerScore>0.15195752048126346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_banking</WikiTitle> <WikiTitleID>6222524</WikiTitleID> <RankerScore>0.0663547358566192</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plain_old_telephone_service</WikiTitle> <WikiTitleID>160834</WikiTitleID> <RankerScore>0.06090059663680005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_number</WikiTitle> <WikiTitleID>30750</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer-assisted_telephone_interviewing</WikiTitle> <WikiTitleID>1290555</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_marketing</WikiTitle> <WikiTitleID>665239</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telecommunication</WikiTitle> <WikiTitleID>30322</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Customer-premises_equipment</WikiTitle> <WikiTitleID>40982</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_switched_telephone_network</WikiTitle> <WikiTitleID>468436</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_whispers</WikiTitle> <WikiTitleID>291405</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephone_directory</WikiTitle> <WikiTitleID>162263</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teleconference</WikiTitle> <WikiTitleID>41783</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Telephony</WikiTitle> <WikiTitleID>41831</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voice_over_Internet_Protocol</WikiTitle> <WikiTitleID>75028</WikiTitleID> <RankerScore>0.06552610427502885</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina</EntitySurfaceForm>
+	<EntityTextStart>479</EntityTextStart>
+	<EntityTextEnd>484</EntityTextEnd>
+	<LinkerScore>1.0390449574656082</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina</WikiTitle>
+		<WikiTitleID>1896242</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naina</WikiTitle> <WikiTitleID>1896242</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>479</EntityTextStart>
+	<EntityTextEnd>492</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina_Yeltsina</WikiTitle>
+		<WikiTitleID>10853787</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>spouse	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>485</EntityTextStart>
+	<EntityTextEnd>492</EntityTextEnd>
+	<LinkerScore>1.2866074314376312</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8841165126305731</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8841165126305731</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.11588348736942684</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>573</EntityTextStart>
+	<EntityTextEnd>580</EntityTextEnd>
+	<LinkerScore>1.2431376682266737</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8865689349761015</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8865689349761015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.11343106502389856</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>597</EntityTextEnd>
+	<LinkerScore>1.0438528340101234</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina</WikiTitle>
+		<WikiTitleID>1896242</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>film</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Naina</WikiTitle> <WikiTitleID>1896242</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naina Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>592</EntityTextStart>
+	<EntityTextEnd>605</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naina_Yeltsina</WikiTitle>
+		<WikiTitleID>10853787</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>spouse	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>598</EntityTextStart>
+	<EntityTextEnd>605</EntityTextEnd>
+	<LinkerScore>1.3041021474493284</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8918517374640628</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8918517374640628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.10814826253593722</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>623</EntityTextStart>
+	<EntityTextEnd>629</EntityTextEnd>
+	<LinkerScore>1.5423533220583003</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.2834225352010945</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.2834225352010945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04725324660995689</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.05073777472610959</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03638743785075524</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Central Clinical Hospital</EntitySurfaceForm>
+	<EntityTextStart>632</EntityTextStart>
+	<EntityTextEnd>657</EntityTextEnd>
+	<LinkerScore>0.9588009136159404</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Central_Clinical_Hospital</WikiTitle>
+		<WikiTitleID>11101932</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Central_Clinical_Hospital</WikiTitle> <WikiTitleID>11101932</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>heart attacks</EntitySurfaceForm>
+	<EntityTextStart>719</EntityTextStart>
+	<EntityTextEnd>732</EntityTextEnd>
+	<LinkerScore>0.8931049330025856</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Myocardial_infarction</WikiTitle>
+		<WikiTitleID>60969</WikiTitleID>
+		<RankerScore>0.6772271878891941</RankerScore>
+		<Attributes>disease	cause	emergency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Myocardial_infarction</WikiTitle> <WikiTitleID>60969</WikiTitleID> <RankerScore>0.6772271878891941</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardiac_arrest</WikiTitle> <WikiTitleID>60575</WikiTitleID> <RankerScore>0.3227728121108059</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>734</EntityTextStart>
+	<EntityTextEnd>741</EntityTextEnd>
+	<LinkerScore>0.7807467248288336</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8486632285610758</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8486632285610758</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.1513367714389242</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>July 3</EntitySurfaceForm>
+	<EntityTextStart>825</EntityTextStart>
+	<EntityTextEnd>831</EntityTextEnd>
+	<LinkerScore>1.1493833820024975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>July_3</WikiTitle>
+		<WikiTitleID>15848</WikiTitleID>
+		<RankerScore>0.6807133258398833</RankerScore>
+		<Attributes>days</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>July_3</WikiTitle> <WikiTitleID>15848</WikiTitleID> <RankerScore>0.6807133258398833</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_3_(Eastern_Orthodox_liturgics)</WikiTitle> <WikiTitleID>2108059</WikiTitleID> <RankerScore>0.1820959089559434</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>July_1999</WikiTitle> <WikiTitleID>2722966</WikiTitleID> <RankerScore>0.13719076520417328</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yeltsin</EntitySurfaceForm>
+	<EntityTextStart>937</EntityTextStart>
+	<EntityTextEnd>944</EntityTextEnd>
+	<LinkerScore>0.7169956834660309</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Boris_Yeltsin</WikiTitle>
+		<WikiTitleID>4981</WikiTitleID>
+		<RankerScore>0.8365844070732279</RankerScore>
+		<Attributes>recipient	person	president	leaders	convert	minister	politician</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Boris_Yeltsin</WikiTitle> <WikiTitleID>4981</WikiTitleID> <RankerScore>0.8365844070732279</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grayson_(Honorverse)</WikiTitle> <WikiTitleID>1417897</WikiTitleID> <RankerScore>0.1634155929267721</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hospital</EntitySurfaceForm>
+	<EntityTextStart>968</EntityTextStart>
+	<EntityTextEnd>976</EntityTextEnd>
+	<LinkerScore>0.9380109462005224</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hospital</WikiTitle>
+		<WikiTitleID>67214</WikiTitleID>
+		<RankerScore>0.11811021794158655</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hospital</WikiTitle> <WikiTitleID>67214</WikiTitleID> <RankerScore>0.11811021794158655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bimaristan</WikiTitle> <WikiTitleID>8284152</WikiTitleID> <RankerScore>0.054850664621057824</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stoke_Mandeville_Hospital</WikiTitle> <WikiTitleID>393514</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.05635926085199232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greystone_Park_Psychiatric_Hospital</WikiTitle> <WikiTitleID>3963096</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Hospital</WikiTitle> <WikiTitleID>879734</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Modbury_Hospital</WikiTitle> <WikiTitleID>13790829</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sabbatsbergs_sjukhus</WikiTitle> <WikiTitleID>10109977</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hospital_Albert_Schweitzer_Haiti</WikiTitle> <WikiTitleID>11665086</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_hospitals_in_Saudi_Arabia</WikiTitle> <WikiTitleID>711236</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Robert_Wood_Johnson_University_Hospital</WikiTitle> <WikiTitleID>6739361</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Amsterdam_Public_Hospital</WikiTitle> <WikiTitleID>7449722</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aga_Khan_University_Hospital,_Nairobi</WikiTitle> <WikiTitleID>7941437</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ninewells_Hospital</WikiTitle> <WikiTitleID>7108193</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_Medical_Center_Hamburg-Eppendorf</WikiTitle> <WikiTitleID>17464404</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Business_locations_in_A_Series_of_Unfortunate_Events</WikiTitle> <WikiTitleID>8090523</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Providence_Saint_Joseph_Medical_Center</WikiTitle> <WikiTitleID>10698935</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Norway_Regional_Health_Authority</WikiTitle> <WikiTitleID>13725701</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whitgift_Foundation</WikiTitle> <WikiTitleID>1926811</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sacred_Heart_Hospital</WikiTitle> <WikiTitleID>6999651</WikiTitleID> <RankerScore>0.04533410921090373</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barvikha</EntitySurfaceForm>
+	<EntityTextStart>1003</EntityTextStart>
+	<EntityTextEnd>1011</EntityTextEnd>
+	<LinkerScore>1.2610000839905051</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Barvikha</WikiTitle>
+		<WikiTitleID>14881514</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>hospital	locality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Barvikha</WikiTitle> <WikiTitleID>14881514</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Barvikha sanatorium</EntitySurfaceForm>
+	<EntityTextStart>1003</EntityTextStart>
+	<EntityTextEnd>1022</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Barvikha</WikiTitle>
+		<WikiTitleID>14881514</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>hospital	locality</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>sanatorium</EntitySurfaceForm>
+	<EntityTextStart>1012</EntityTextStart>
+	<EntityTextEnd>1022</EntityTextEnd>
+	<LinkerScore>0.7515703816908017</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sanatorium</WikiTitle>
+		<WikiTitleID>938121</WikiTitleID>
+		<RankerScore>0.7022021055242665</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sanatorium</WikiTitle> <WikiTitleID>938121</WikiTitleID> <RankerScore>0.7022021055242665</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Psychiatric_hospital</WikiTitle> <WikiTitleID>38722</WikiTitleID> <RankerScore>0.29779789447573357</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>1031</EntityTextStart>
+	<EntityTextEnd>1037</EntityTextEnd>
+	<LinkerScore>1.3895987236274414</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.2900721158999247</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.2900721158999247</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.04686991946663078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.053801424651055786</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.035838619998964046</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>holiday resort</EntitySurfaceForm>
+	<EntityTextStart>1082</EntityTextStart>
+	<EntityTextEnd>1096</EntityTextEnd>
+	<LinkerScore>1.0761009831293107</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Resort</WikiTitle>
+		<WikiTitleID>471772</WikiTitleID>
+		<RankerScore>0.7180366518292899</RankerScore>
+		<Attributes>type</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Resort</WikiTitle> <WikiTitleID>471772</WikiTitleID> <RankerScore>0.7180366518292899</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Seaside_resort</WikiTitle> <WikiTitleID>293990</WikiTitleID> <RankerScore>0.28196334817071017</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hunting</EntitySurfaceForm>
+	<EntityTextStart>1100</EntityTextStart>
+	<EntityTextEnd>1107</EntityTextEnd>
+	<LinkerScore>1.050820758943989</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hunting</WikiTitle>
+		<WikiTitleID>38791</WikiTitleID>
+		<RankerScore>0.1334879655940385</RankerScore>
+		<Attributes>dispute	sport	skill</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hunting</WikiTitle> <WikiTitleID>38791</WikiTitleID> <RankerScore>0.1334879655940385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fox_hunting</WikiTitle> <WikiTitleID>68502</WikiTitleID> <RankerScore>0.05950406487279282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medieval_hunting</WikiTitle> <WikiTitleID>1858609</WikiTitleID> <RankerScore>0.05352400364017777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_dog</WikiTitle> <WikiTitleID>491841</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Predation</WikiTitle> <WikiTitleID>57559</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunter-gatherer</WikiTitle> <WikiTitleID>210098</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_(engineering)</WikiTitle> <WikiTitleID>474936</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_license</WikiTitle> <WikiTitleID>10429922</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fossil_collecting</WikiTitle> <WikiTitleID>861503</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mushroom_hunting</WikiTitle> <WikiTitleID>301008</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Waterfowl_hunting</WikiTitle> <WikiTitleID>4100225</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Whaling</WikiTitle> <WikiTitleID>33557</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Turtling_(hunting)</WikiTitle> <WikiTitleID>5515527</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunt_seat</WikiTitle> <WikiTitleID>2657556</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_and_shooting_in_the_United_Kingdom</WikiTitle> <WikiTitleID>7822474</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hunting_oscillation</WikiTitle> <WikiTitleID>4757213</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bowhunting</WikiTitle> <WikiTitleID>2368441</WikiTitleID> <RankerScore>0.05382028327807078</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Moscow</EntitySurfaceForm>
+	<EntityTextStart>1142</EntityTextStart>
+	<EntityTextEnd>1148</EntityTextEnd>
+	<LinkerScore>1.0636906557909864</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Moscow</WikiTitle>
+		<WikiTitleID>19004</WikiTitleID>
+		<RankerScore>0.278365029867811</RankerScore>
+		<Attributes>city	list	establishment	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Moscow</WikiTitle> <WikiTitleID>19004</WikiTitleID> <RankerScore>0.278365029867811</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Idaho</WikiTitle> <WikiTitleID>53542</WikiTitleID> <RankerScore>0.0501472042820431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grand_Duchy_of_Moscow</WikiTitle> <WikiTitleID>45039</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kremlin_Cup</WikiTitle> <WikiTitleID>2905714</WikiTitleID> <RankerScore>0.05489376318564263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Oblast</WikiTitle> <WikiTitleID>372315</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Metro</WikiTitle> <WikiTitleID>66488</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battle_of_Moscow</WikiTitle> <WikiTitleID>573888</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1980_Summer_Olympics</WikiTitle> <WikiTitleID>82785</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_State_University</WikiTitle> <WikiTitleID>374544</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_International_Film_Festival</WikiTitle> <WikiTitleID>1899288</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Tennessee</WikiTitle> <WikiTitleID>135166</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Texas</WikiTitle> <WikiTitleID>4202847</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Maine</WikiTitle> <WikiTitleID>116186</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Indiana</WikiTitle> <WikiTitleID>14369204</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Pennsylvania</WikiTitle> <WikiTitleID>132851</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Military_District</WikiTitle> <WikiTitleID>7027009</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soviet_Union</WikiTitle> <WikiTitleID>26779</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow,_Iowa</WikiTitle> <WikiTitleID>18057555</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Township,_Michigan</WikiTitle> <WikiTitleID>117582</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moscow_Conservatory</WikiTitle> <WikiTitleID>703217</WikiTitleID> <RankerScore>0.03627023545085313</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

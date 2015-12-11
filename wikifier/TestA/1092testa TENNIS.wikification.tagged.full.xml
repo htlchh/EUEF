@@ -1,0 +1,1518 @@
+<WikifierOutput>
+<InputFilename>
+1092testa TENNIS
+</InputFilename>
+<InputText>
+TENNIS- SATURDAY&apos;S RESULTS FROM THE U.S. OPEN.
+NEW YORK 1996-08-31
+Results from the U.S. Open Tennis Championships at the National Tennis Centre on Saturday( prefix number denotes seeding):
+Women&apos;s singles, third round 1- Steffi Graf( Germany) beat Natasha Zvereva( Belarus) 6-4 6-2 16- Martina Hingis( Switzerland) beat Naoko Kijimuta( Japan) 6-2 6-2 Judith Wiesner( Austria) beat Petra Langrova( Czech Republic) 6- 2 6-0
+Men&apos;s singles, third round 13- Thomas Enqvist( Sweden) beat Pablo Campana( Ecuador) 6-4 6-4 6-2
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>THE U.S. OPEN</EntitySurfaceForm>
+	<EntityTextStart>32</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>US_Open_(tennis)</WikiTitle>
+		<WikiTitleID>82729</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>sport	tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>40</EntityTextEnd>
+	<LinkerScore>0.5486872798857687</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.16310945029406002</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.16310945029406002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.07729248778275634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.03990431599049306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.04233492623133474</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. OPEN</EntitySurfaceForm>
+	<EntityTextStart>36</EntityTextStart>
+	<EntityTextEnd>45</EntityTextEnd>
+	<LinkerScore>0.5807919488004187</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>US_Open_(tennis)</WikiTitle>
+		<WikiTitleID>82729</WikiTitleID>
+		<RankerScore>0.24277548204847163</RankerScore>
+		<Attributes>sport	tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._Open_(golf)</WikiTitle> <WikiTitleID>223854</WikiTitleID> <RankerScore>0.07515305671962232</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>US_Open_(tennis)</WikiTitle> <WikiTitleID>82729</WikiTitleID> <RankerScore>0.24277548204847163</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_Chess_Championship</WikiTitle> <WikiTitleID>10865496</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>9899132</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Women&apos;s_Open_Championship_(golf)</WikiTitle> <WikiTitleID>1456008</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>5873973</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_Badminton_Championships</WikiTitle> <WikiTitleID>10999302</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>16881908</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_(bowling)</WikiTitle> <WikiTitleID>7399665</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_(swimming)</WikiTitle> <WikiTitleID>13568864</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>16292316</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>14064009</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>1959454</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>1971871</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>3987892</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_U.S._Open_-_Men&apos;s_Singles</WikiTitle> <WikiTitleID>12791127</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_champions_(Mixed_Doubles)</WikiTitle> <WikiTitleID>1736001</WikiTitleID> <RankerScore>0.08030356198793251</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1985_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>17231246</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>13931709</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Go_Congress</WikiTitle> <WikiTitleID>7041398</WikiTitleID> <RankerScore>0.03539811172023374</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>NEW YORK</EntitySurfaceForm>
+	<EntityTextStart>47</EntityTextStart>
+	<EntityTextEnd>55</EntityTextEnd>
+	<LinkerScore>0.18427061236112496</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.10732541063307934</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.10732541063307934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.07855752519264085</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.04739544089995985</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.045101271957312936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. Open Tennis</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>1.2074638986011237</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>US_Open_(tennis)</WikiTitle>
+		<WikiTitleID>82729</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>sport	tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>US_Open_(tennis)</WikiTitle> <WikiTitleID>82729</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. Open</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>93</EntityTextEnd>
+	<LinkerScore>0.78767160005209</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>US_Open_(tennis)</WikiTitle>
+		<WikiTitleID>82729</WikiTitleID>
+		<RankerScore>0.3269692498790045</RankerScore>
+		<Attributes>sport	tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._Open_(golf)</WikiTitle> <WikiTitleID>223854</WikiTitleID> <RankerScore>0.07298242366211534</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>US_Open_(tennis)</WikiTitle> <WikiTitleID>82729</WikiTitleID> <RankerScore>0.3269692498790045</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_Chess_Championship</WikiTitle> <WikiTitleID>10865496</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>9899132</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Women&apos;s_Open_Championship_(golf)</WikiTitle> <WikiTitleID>1456008</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2006_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>5873973</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_Badminton_Championships</WikiTitle> <WikiTitleID>10999302</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>16881908</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_(bowling)</WikiTitle> <WikiTitleID>7399665</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_(swimming)</WikiTitle> <WikiTitleID>13568864</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>16292316</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2005_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>14064009</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2003_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>1959454</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2000_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>1971871</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2001_U.S._Open_(tennis)</WikiTitle> <WikiTitleID>3987892</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_U.S._Open_-_Men&apos;s_Singles</WikiTitle> <WikiTitleID>12791127</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Open_champions_(Mixed_Doubles)</WikiTitle> <WikiTitleID>1736001</WikiTitleID> <RankerScore>0.056037034199208274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1985_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>17231246</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2004_U.S._Open_Golf_Championship</WikiTitle> <WikiTitleID>13931709</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._Go_Congress</WikiTitle> <WikiTitleID>7041398</WikiTitleID> <RankerScore>0.03200066425056893</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. Open Tennis Championships</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>114</EntityTextEnd>
+	<LinkerScore>1.122332520844689</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>US_Open_(tennis)</WikiTitle>
+		<WikiTitleID>82729</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>sport	tournament</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>US_Open_(tennis)</WikiTitle> <WikiTitleID>82729</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>84</EntityTextStart>
+	<EntityTextEnd>88</EntityTextEnd>
+	<LinkerScore>0.4143809697224854</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.15430600765052593</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.15430600765052593</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.08037871281799668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.041192276262940884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.042595470780502145</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tennis</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>1.030290759543771</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tennis</WikiTitle>
+		<WikiTitleID>29773</WikiTitleID>
+		<RankerScore>0.29721848748566804</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tennis</WikiTitle> <WikiTitleID>29773</WikiTitleID> <RankerScore>0.29721848748566804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1996_Summer_Olympics</WikiTitle> <WikiTitleID>922303</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>856721</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1992_Summer_Olympics</WikiTitle> <WikiTitleID>2544752</WikiTitleID> <RankerScore>0.07689915790072517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>907325</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1912_Summer_Olympics</WikiTitle> <WikiTitleID>2547832</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_(video_game)</WikiTitle> <WikiTitleID>1305143</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2000_Summer_Olympics</WikiTitle> <WikiTitleID>712363</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1920_Summer_Olympics</WikiTitle> <WikiTitleID>709331</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1924_Summer_Olympics</WikiTitle> <WikiTitleID>2548064</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2008_Summer_Olympics</WikiTitle> <WikiTitleID>9185980</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1900_Summer_Olympics</WikiTitle> <WikiTitleID>229206</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NCAA_Men&apos;s_Tennis_Championship</WikiTitle> <WikiTitleID>770412</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1984_Summer_Olympics</WikiTitle> <WikiTitleID>2552823</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Activision_Tennis</WikiTitle> <WikiTitleID>869942</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1968_Summer_Olympics</WikiTitle> <WikiTitleID>11111316</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_(album)</WikiTitle> <WikiTitleID>3585522</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1995_Summer_Universiade</WikiTitle> <WikiTitleID>17822529</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2007_Pan_American_Games</WikiTitle> <WikiTitleID>12300378</WikiTitleID> <RankerScore>0.0320734301160287</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_Asian_Games</WikiTitle> <WikiTitleID>8425381</WikiTitleID> <RankerScore>0.08063404264111877</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tennis Championships</EntitySurfaceForm>
+	<EntityTextStart>94</EntityTextStart>
+	<EntityTextEnd>114</EntityTextEnd>
+	<LinkerScore>1.135776563761341</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_Championships,_Wimbledon</WikiTitle>
+		<WikiTitleID>91195</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>tournament	championship	event</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_Championships,_Wimbledon</WikiTitle> <WikiTitleID>91195</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>National Tennis Centre</EntitySurfaceForm>
+	<EntityTextStart>122</EntityTextStart>
+	<EntityTextEnd>144</EntityTextEnd>
+	<LinkerScore>-0.15805967890273115</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Tennis_Centre_(United_Kingdom)</WikiTitle>
+		<WikiTitleID>3523882</WikiTitleID>
+		<RankerScore>0.5466488451186298</RankerScore>
+		<Attributes>venue	academy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Tennis_Centre_(Canada)</WikiTitle> <WikiTitleID>2933282</WikiTitleID> <RankerScore>0.4533511548813701</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Tennis_Centre_(United_Kingdom)</WikiTitle> <WikiTitleID>3523882</WikiTitleID> <RankerScore>0.5466488451186298</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Tennis</EntitySurfaceForm>
+	<EntityTextStart>131</EntityTextStart>
+	<EntityTextEnd>137</EntityTextEnd>
+	<LinkerScore>1.1400011689689034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tennis</WikiTitle>
+		<WikiTitleID>29773</WikiTitleID>
+		<RankerScore>0.2754823717351921</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tennis</WikiTitle> <WikiTitleID>29773</WikiTitleID> <RankerScore>0.2754823717351921</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1996_Summer_Olympics</WikiTitle> <WikiTitleID>922303</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>856721</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1992_Summer_Olympics</WikiTitle> <WikiTitleID>2544752</WikiTitleID> <RankerScore>0.0844190473445391</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1988_Summer_Olympics</WikiTitle> <WikiTitleID>907325</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1912_Summer_Olympics</WikiTitle> <WikiTitleID>2547832</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_(video_game)</WikiTitle> <WikiTitleID>1305143</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2000_Summer_Olympics</WikiTitle> <WikiTitleID>712363</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1920_Summer_Olympics</WikiTitle> <WikiTitleID>709331</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1924_Summer_Olympics</WikiTitle> <WikiTitleID>2548064</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2008_Summer_Olympics</WikiTitle> <WikiTitleID>9185980</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1900_Summer_Olympics</WikiTitle> <WikiTitleID>229206</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>NCAA_Men&apos;s_Tennis_Championship</WikiTitle> <WikiTitleID>770412</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1984_Summer_Olympics</WikiTitle> <WikiTitleID>2552823</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Activision_Tennis</WikiTitle> <WikiTitleID>869942</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1968_Summer_Olympics</WikiTitle> <WikiTitleID>11111316</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_(album)</WikiTitle> <WikiTitleID>3585522</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_1995_Summer_Universiade</WikiTitle> <WikiTitleID>17822529</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_2007_Pan_American_Games</WikiTitle> <WikiTitleID>12300378</WikiTitleID> <RankerScore>0.03457934381372437</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis_at_the_Asian_Games</WikiTitle> <WikiTitleID>8425381</WikiTitleID> <RankerScore>0.05224973608695447</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>seeding</EntitySurfaceForm>
+	<EntityTextStart>180</EntityTextStart>
+	<EntityTextEnd>187</EntityTextEnd>
+	<LinkerScore>0.5378598981057443</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ice_hockey_at_the_2006_Winter_Olympics</WikiTitle>
+		<WikiTitleID>1327817</WikiTitleID>
+		<RankerScore>0.28996777065430335</RankerScore>
+		<Attributes>event</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Seed_crystal</WikiTitle> <WikiTitleID>1159186</WikiTitleID> <RankerScore>0.15401419833409036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ice_hockey_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>1327817</WikiTitleID> <RankerScore>0.28996777065430335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Iron_fertilization</WikiTitle> <WikiTitleID>4145551</WikiTitleID> <RankerScore>0.13561476769691883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cloud_seeding</WikiTitle> <WikiTitleID>449660</WikiTitleID> <RankerScore>0.14013442110489585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Panspermia</WikiTitle> <WikiTitleID>23678</WikiTitleID> <RankerScore>0.14013442110489585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Terminology_of_BitTorrent</WikiTitle> <WikiTitleID>9542521</WikiTitleID> <RankerScore>0.14013442110489585</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>singles</EntitySurfaceForm>
+	<EntityTextStart>198</EntityTextStart>
+	<EntityTextEnd>205</EntityTextEnd>
+	<LinkerScore>0.1455667430118868</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tennis</WikiTitle>
+		<WikiTitleID>29773</WikiTitleID>
+		<RankerScore>0.11281194937598049</RankerScore>
+		<Attributes>sport</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Single_(music)</WikiTitle> <WikiTitleID>156540</WikiTitleID> <RankerScore>0.07953455884894536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(baseball)</WikiTitle> <WikiTitleID>300734</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_skating</WikiTitle> <WikiTitleID>7291274</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_tennis_match</WikiTitle> <WikiTitleID>4543024</WikiTitleID> <RankerScore>0.07718535226185706</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CD_single</WikiTitle> <WikiTitleID>2104415</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Match_play</WikiTitle> <WikiTitleID>92729</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(cricket)</WikiTitle> <WikiTitleID>1670755</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_Singles_Chart</WikiTitle> <WikiTitleID>3349146</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_person</WikiTitle> <WikiTitleID>1169017</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>45s</WikiTitle> <WikiTitleID>6088007</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(football)</WikiTitle> <WikiTitleID>1177666</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hit_(baseball)</WikiTitle> <WikiTitleID>3807</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis</WikiTitle> <WikiTitleID>29773</WikiTitleID> <RankerScore>0.11281194937598049</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_scull</WikiTitle> <WikiTitleID>11382567</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clint_Eastwood_(song)</WikiTitle> <WikiTitleID>2158408</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hot_Country_Songs</WikiTitle> <WikiTitleID>2867196</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_cylinder_engine</WikiTitle> <WikiTitleID>3888930</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Monte_Carlo_Masters_-_Singles</WikiTitle> <WikiTitleID>17007379</WikiTitleID> <RankerScore>0.042968714089012774</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Steffi Graf</EntitySurfaceForm>
+	<EntityTextStart>222</EntityTextStart>
+	<EntityTextEnd>233</EntityTextEnd>
+	<LinkerScore>1.3200218968630077</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Steffi_Graf</WikiTitle>
+		<WikiTitleID>164640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>medalist	expatriate	player	person	champion	recipient</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Steffi_Graf</WikiTitle> <WikiTitleID>164640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Germany</EntitySurfaceForm>
+	<EntityTextStart>235</EntityTextStart>
+	<EntityTextEnd>242</EntityTextEnd>
+	<LinkerScore>0.7072793397597779</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Germany</WikiTitle>
+		<WikiTitleID>11867</WikiTitleID>
+		<RankerScore>0.16775574832303822</RankerScore>
+		<Attributes>state	republic	country	member	nation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Germany</WikiTitle> <WikiTitleID>11867</WikiTitleID> <RankerScore>0.16775574832303822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_football_team</WikiTitle> <WikiTitleID>250204</WikiTitleID> <RankerScore>0.06786056241208724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nazi_Germany</WikiTitle> <WikiTitleID>21212</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Empire</WikiTitle> <WikiTitleID>12674</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>662281</WikiTitleID> <RankerScore>0.05955332013302143</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_field_hockey_team</WikiTitle> <WikiTitleID>7032540</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weimar_Republic</WikiTitle> <WikiTitleID>33685</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_molluscs_recorded_in_Germany</WikiTitle> <WikiTitleID>12066911</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_basketball_team</WikiTitle> <WikiTitleID>2235041</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Germany</WikiTitle> <WikiTitleID>5153288</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_women&apos;s_national_field_hockey_team</WikiTitle> <WikiTitleID>7405297</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>913912</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Germany</WikiTitle> <WikiTitleID>2164840</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Holy_Roman_Empire</WikiTitle> <WikiTitleID>13277</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_wine</WikiTitle> <WikiTitleID>1039202</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_language_literature</WikiTitle> <WikiTitleID>12636</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_handball_team</WikiTitle> <WikiTitleID>7217975</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_ice_hockey_team</WikiTitle> <WikiTitleID>952624</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>German_Confederation</WikiTitle> <WikiTitleID>142280</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Germany_national_under-21_football_team</WikiTitle> <WikiTitleID>3239944</WikiTitleID> <RankerScore>0.04146060994893254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Natasha Zvereva</EntitySurfaceForm>
+	<EntityTextStart>249</EntityTextStart>
+	<EntityTextEnd>264</EntityTextEnd>
+	<LinkerScore>1.3183732356805329</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Natasha_Zvereva</WikiTitle>
+		<WikiTitleID>916019</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>player	champion	person	medalist</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Natasha_Zvereva</WikiTitle> <WikiTitleID>916019</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Belarus</EntitySurfaceForm>
+	<EntityTextStart>266</EntityTextStart>
+	<EntityTextEnd>273</EntityTextEnd>
+	<LinkerScore>1.3036160281224443</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Belarus</WikiTitle>
+		<WikiTitleID>3457</WikiTitleID>
+		<RankerScore>0.17810342689814587</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Belarus</WikiTitle> <WikiTitleID>3457</WikiTitleID> <RankerScore>0.17810342689814587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_national_football_team</WikiTitle> <WikiTitleID>1009113</WikiTitleID> <RankerScore>0.048851040372113116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>914160</WikiTitleID> <RankerScore>0.049556175011571425</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Byelorussian_Soviet_Socialist_Republic</WikiTitle> <WikiTitleID>194937</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarusian_People’s_Republic</WikiTitle> <WikiTitleID>896805</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_Davis_Cup_team</WikiTitle> <WikiTitleID>9663594</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Belarus</WikiTitle> <WikiTitleID>3536</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_(tractor)</WikiTitle> <WikiTitleID>610876</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_national_under-21_football_team</WikiTitle> <WikiTitleID>15059971</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1823327</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Economy_of_Belarus</WikiTitle> <WikiTitleID>3534</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_women&apos;s_national_basketball_team</WikiTitle> <WikiTitleID>16659073</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Belarus</WikiTitle> <WikiTitleID>408402</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarus_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>2658507</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Belarusian_Premier_League</WikiTitle> <WikiTitleID>3102880</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Operation_Bagration</WikiTitle> <WikiTitleID>476582</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_universities_in_Belarus</WikiTitle> <WikiTitleID>6703195</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constitution_of_Belarus</WikiTitle> <WikiTitleID>2411958</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Football_Federation_of_Belarus</WikiTitle> <WikiTitleID>1267898</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Foreign_relations_of_Belarus</WikiTitle> <WikiTitleID>3538</WikiTitleID> <RankerScore>0.04255819751283351</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Martina Hingis</EntitySurfaceForm>
+	<EntityTextStart>287</EntityTextStart>
+	<EntityTextEnd>301</EntityTextEnd>
+	<LinkerScore>1.2858223543846414</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Martina_Hingis</WikiTitle>
+		<WikiTitleID>19047</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player	champion	participant	winner	case	sportspeople</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Martina_Hingis</WikiTitle> <WikiTitleID>19047</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Switzerland</EntitySurfaceForm>
+	<EntityTextStart>303</EntityTextStart>
+	<EntityTextEnd>314</EntityTextEnd>
+	<LinkerScore>0.7881157136197893</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Switzerland</WikiTitle>
+		<WikiTitleID>26748</WikiTitleID>
+		<RankerScore>0.19482381025911566</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Switzerland</WikiTitle> <WikiTitleID>26748</WikiTitleID> <RankerScore>0.19482381025911566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_football_team</WikiTitle> <WikiTitleID>681862</WikiTitleID> <RankerScore>0.07514822080517589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Switzerland</WikiTitle> <WikiTitleID>2548902</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3856527</WikiTitleID> <RankerScore>0.049797129788201555</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1817447</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_basketball_team</WikiTitle> <WikiTitleID>2858515</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Switzerland</WikiTitle> <WikiTitleID>27464</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_rugby_union_team</WikiTitle> <WikiTitleID>7596037</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_Davis_Cup_team</WikiTitle> <WikiTitleID>9663677</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Old_Swiss_Confederacy</WikiTitle> <WikiTitleID>6754871</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_under-21_football_team</WikiTitle> <WikiTitleID>12263476</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_wine</WikiTitle> <WikiTitleID>8496915</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swiss_Alps</WikiTitle> <WikiTitleID>55205</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_in_the_Eurovision_Song_Contest</WikiTitle> <WikiTitleID>806150</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_County,_Indiana</WikiTitle> <WikiTitleID>96065</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Switzerland</WikiTitle> <WikiTitleID>7998540</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_national_cricket_team</WikiTitle> <WikiTitleID>7020564</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_(album)</WikiTitle> <WikiTitleID>5373138</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Switzerland_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>945300</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Switzerland</WikiTitle> <WikiTitleID>27467</WikiTitleID> <RankerScore>0.040013578773382755</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Naoko Kijimuta</EntitySurfaceForm>
+	<EntityTextStart>321</EntityTextStart>
+	<EntityTextEnd>335</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Naoko_Kijimuta</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>person	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Japan</EntitySurfaceForm>
+	<EntityTextStart>337</EntityTextStart>
+	<EntityTextEnd>342</EntityTextEnd>
+	<LinkerScore>0.7815298645088897</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Japan</WikiTitle>
+		<WikiTitleID>15573</WikiTitleID>
+		<RankerScore>0.135789370598913</RankerScore>
+		<Attributes>country	state	nation	empire</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Japan</WikiTitle> <WikiTitleID>15573</WikiTitleID> <RankerScore>0.135789370598913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Empire_of_Japan</WikiTitle> <WikiTitleID>183897</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_football_team</WikiTitle> <WikiTitleID>993546</WikiTitleID> <RankerScore>0.054193469202323014</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_rugby_union_team</WikiTitle> <WikiTitleID>759561</WikiTitleID> <RankerScore>0.051374036114402846</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_(band)</WikiTitle> <WikiTitleID>167707</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_baseball_team</WikiTitle> <WikiTitleID>3497139</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Japan</WikiTitle> <WikiTitleID>10790</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nippon_Professional_Baseball</WikiTitle> <WikiTitleID>147794</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>911410</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>3190583</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>4015792</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_cricket_team</WikiTitle> <WikiTitleID>4401647</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_women&apos;s_cricket_team</WikiTitle> <WikiTitleID>7075726</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_Davis_Cup_team</WikiTitle> <WikiTitleID>9988785</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professional_wrestling_in_Japan</WikiTitle> <WikiTitleID>550410</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japanese_cuisine</WikiTitle> <WikiTitleID>15976</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_national_badminton_team</WikiTitle> <WikiTitleID>17359476</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Japan</WikiTitle> <WikiTitleID>48592</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Japan_at_the_1972_Summer_Olympics</WikiTitle> <WikiTitleID>1577054</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Universe_Japan</WikiTitle> <WikiTitleID>10040748</WikiTitleID> <RankerScore>0.044626066122609484</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Judith Wiesner</EntitySurfaceForm>
+	<EntityTextStart>352</EntityTextStart>
+	<EntityTextEnd>366</EntityTextEnd>
+	<LinkerScore>1.161220964497332</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Judith_Wiesner</WikiTitle>
+		<WikiTitleID>2805420</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Judith_Wiesner</WikiTitle> <WikiTitleID>2805420</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Austria</EntitySurfaceForm>
+	<EntityTextStart>368</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>1.23546172376725</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Austria</WikiTitle>
+		<WikiTitleID>576</WikiTitleID>
+		<RankerScore>0.2233394009888502</RankerScore>
+		<Attributes>state	country	republic	winner</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Austria</WikiTitle> <WikiTitleID>576</WikiTitleID> <RankerScore>0.2233394009888502</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_national_football_team</WikiTitle> <WikiTitleID>695226</WikiTitleID> <RankerScore>0.05154123386520215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austrian_Empire</WikiTitle> <WikiTitleID>266894</WikiTitleID> <RankerScore>0.05562458387667181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Habsburg_Monarchy</WikiTitle> <WikiTitleID>1041515</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Archduchy_of_Austria</WikiTitle> <WikiTitleID>6490870</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria-Hungary</WikiTitle> <WikiTitleID>2983</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_national_cricket_team</WikiTitle> <WikiTitleID>4799810</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austrian_wine</WikiTitle> <WikiTitleID>8318345</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>March_of_Austria</WikiTitle> <WikiTitleID>11421146</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_Davis_Cup_team</WikiTitle> <WikiTitleID>9663869</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anschluss</WikiTitle> <WikiTitleID>862</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austrian_euro_coins</WikiTitle> <WikiTitleID>54343</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_national_rugby_union_team</WikiTitle> <WikiTitleID>5266125</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Austria</WikiTitle> <WikiTitleID>2738588</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_in_the_Eurovision_Song_Contest_1957</WikiTitle> <WikiTitleID>15867100</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_national_basketball_team</WikiTitle> <WikiTitleID>3146401</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3970312</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Austria</WikiTitle> <WikiTitleID>8562541</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Austria_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>937709</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Austrian_Republic</WikiTitle> <WikiTitleID>2507138</WikiTitleID> <RankerScore>0.03938204595701623</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Petra Langrova</EntitySurfaceForm>
+	<EntityTextStart>382</EntityTextStart>
+	<EntityTextEnd>396</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Petra_Langrová</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Czech Republic</EntitySurfaceForm>
+	<EntityTextStart>398</EntityTextStart>
+	<EntityTextEnd>412</EntityTextEnd>
+	<LinkerScore>0.7882803757953765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Czech_Republic</WikiTitle>
+		<WikiTitleID>5321</WikiTitleID>
+		<RankerScore>0.1924971282601444</RankerScore>
+		<Attributes>country	member	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Czech_Republic</WikiTitle> <WikiTitleID>5321</WikiTitleID> <RankerScore>0.1924971282601444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_football_team</WikiTitle> <WikiTitleID>729739</WikiTitleID> <RankerScore>0.055198757579070036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_molluscs_recorded_in_the_Czech_Republic</WikiTitle> <WikiTitleID>9798543</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_ice_hockey_team</WikiTitle> <WikiTitleID>949898</WikiTitleID> <RankerScore>0.07980082487282607</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_speedway_team</WikiTitle> <WikiTitleID>13444681</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>A1_Team_Czech_Republic</WikiTitle> <WikiTitleID>2738586</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_handball_team</WikiTitle> <WikiTitleID>8273526</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_under-21_football_team</WikiTitle> <WikiTitleID>4015791</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_Davis_Cup_team</WikiTitle> <WikiTitleID>9663779</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_wine</WikiTitle> <WikiTitleID>5119502</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Extraliga</WikiTitle> <WikiTitleID>1583525</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_rugby_league_team</WikiTitle> <WikiTitleID>7581619</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_rugby_union_team</WikiTitle> <WikiTitleID>4922809</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_basketball_team</WikiTitle> <WikiTitleID>9276275</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_Czech_Republic</WikiTitle> <WikiTitleID>336796</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_the_Czech_Republic</WikiTitle> <WikiTitleID>5851</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3988656</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_national_cricket_team</WikiTitle> <WikiTitleID>6825404</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_passport</WikiTitle> <WikiTitleID>4770107</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Czech_Republic_Fed_Cup_team</WikiTitle> <WikiTitleID>10829679</WikiTitleID> <RankerScore>0.03955901701693879</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>singles</EntitySurfaceForm>
+	<EntityTextStart>429</EntityTextStart>
+	<EntityTextEnd>436</EntityTextEnd>
+	<LinkerScore>-0.1012781356789101</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Single_(music)</WikiTitle>
+		<WikiTitleID>156540</WikiTitleID>
+		<RankerScore>0.08467982653157245</RankerScore>
+		<Attributes>singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Single_(music)</WikiTitle> <WikiTitleID>156540</WikiTitleID> <RankerScore>0.08467982653157245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(baseball)</WikiTitle> <WikiTitleID>300734</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_skating</WikiTitle> <WikiTitleID>7291274</WikiTitleID> <RankerScore>0.0543429333028823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Types_of_tennis_match</WikiTitle> <WikiTitleID>4543024</WikiTitleID> <RankerScore>0.07595580161671274</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>CD_single</WikiTitle> <WikiTitleID>2104415</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gramophone_record</WikiTitle> <WikiTitleID>172121</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Match_play</WikiTitle> <WikiTitleID>92729</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(cricket)</WikiTitle> <WikiTitleID>1670755</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UK_Singles_Chart</WikiTitle> <WikiTitleID>3349146</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_person</WikiTitle> <WikiTitleID>1169017</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>45s</WikiTitle> <WikiTitleID>6088007</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_(football)</WikiTitle> <WikiTitleID>1177666</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hit_(baseball)</WikiTitle> <WikiTitleID>3807</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennis</WikiTitle> <WikiTitleID>29773</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_scull</WikiTitle> <WikiTitleID>11382567</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clint_Eastwood_(song)</WikiTitle> <WikiTitleID>2158408</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hot_Country_Songs</WikiTitle> <WikiTitleID>2867196</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Single_cylinder_engine</WikiTitle> <WikiTitleID>3888930</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2008_Monte_Carlo_Masters_-_Singles</WikiTitle> <WikiTitleID>17007379</WikiTitleID> <RankerScore>0.04617773167934309</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Thomas Enqvist</EntitySurfaceForm>
+	<EntityTextStart>454</EntityTextStart>
+	<EntityTextEnd>468</EntityTextEnd>
+	<LinkerScore>1.0975310327057262</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thomas_Enqvist</WikiTitle>
+		<WikiTitleID>933709</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	player</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thomas_Enqvist</WikiTitle> <WikiTitleID>933709</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sweden</EntitySurfaceForm>
+	<EntityTextStart>470</EntityTextStart>
+	<EntityTextEnd>476</EntityTextEnd>
+	<LinkerScore>0.4840988508129098</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sweden</WikiTitle>
+		<WikiTitleID>5058739</WikiTitleID>
+		<RankerScore>0.1884083099855783</RankerScore>
+		<Attributes>country	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sweden</WikiTitle> <WikiTitleID>5058739</WikiTitleID> <RankerScore>0.1884083099855783</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_football_team</WikiTitle> <WikiTitleID>578468</WikiTitleID> <RankerScore>0.0606391935477983</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Empire</WikiTitle> <WikiTitleID>18589276</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_between_Sweden_and_Norway</WikiTitle> <WikiTitleID>217537</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Sweden_(1772–1809)</WikiTitle> <WikiTitleID>217498</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>747522</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_speedway_team</WikiTitle> <WikiTitleID>12514891</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_Davis_Cup_team</WikiTitle> <WikiTitleID>9662917</WikiTitleID> <RankerScore>0.07107648823957181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_women&apos;s_national_football_team</WikiTitle> <WikiTitleID>2086865</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Sweden</WikiTitle> <WikiTitleID>4707858</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_literature</WikiTitle> <WikiTitleID>1768396</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Sweden</WikiTitle> <WikiTitleID>623421</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>916906</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_women&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>1697384</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_at_the_2006_Winter_Olympics</WikiTitle> <WikiTitleID>3809868</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_under-21_football_team</WikiTitle> <WikiTitleID>10815871</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Semi-legendary_kings_of_Sweden</WikiTitle> <WikiTitleID>893528</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden_national_rugby_union_team</WikiTitle> <WikiTitleID>5090917</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sweden,_New_York</WikiTitle> <WikiTitleID>126646</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elitserien</WikiTitle> <WikiTitleID>332982</WikiTitleID> <RankerScore>0.03999270636629715</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pablo Campana</EntitySurfaceForm>
+	<EntityTextStart>483</EntityTextStart>
+	<EntityTextEnd>496</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pablo_Campana</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ecuador</EntitySurfaceForm>
+	<EntityTextStart>498</EntityTextStart>
+	<EntityTextEnd>505</EntityTextEnd>
+	<LinkerScore>0.6812688580248202</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ecuador</WikiTitle>
+		<WikiTitleID>9334</WikiTitleID>
+		<RankerScore>0.10909173943068264</RankerScore>
+		<Attributes>country	state	colony</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ecuador</WikiTitle> <WikiTitleID>9334</WikiTitleID> <RankerScore>0.10909173943068264</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecuador_national_football_team</WikiTitle> <WikiTitleID>1016797</WikiTitleID> <RankerScore>0.06298997944510963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecuador_Davis_Cup_team</WikiTitle> <WikiTitleID>9989224</WikiTitleID> <RankerScore>0.07132410564801313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Ecuador</WikiTitle> <WikiTitleID>9341</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Water_supply_and_sanitation_in_Ecuador</WikiTitle> <WikiTitleID>8354785</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecuador_national_basketball_team</WikiTitle> <WikiTitleID>11537561</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Ecuador</WikiTitle> <WikiTitleID>459022</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_Ecuador</WikiTitle> <WikiTitleID>9342</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecuador_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>943842</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Public_holidays_in_Ecuador</WikiTitle> <WikiTitleID>494407</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Campeonato_Ecuatoriano_de_Fútbol</WikiTitle> <WikiTitleID>2454589</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Ecuador</WikiTitle> <WikiTitleID>9335</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Ecuador</WikiTitle> <WikiTitleID>409171</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Copa_América_1993</WikiTitle> <WikiTitleID>1187649</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ecuador_at_the_Olympics</WikiTitle> <WikiTitleID>14937969</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Ecuador</WikiTitle> <WikiTitleID>1795340</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Ecuador</WikiTitle> <WikiTitleID>10910319</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Ecuador</WikiTitle> <WikiTitleID>306026</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_heads_of_state_of_Ecuador</WikiTitle> <WikiTitleID>840787</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_missions_of_Ecuador</WikiTitle> <WikiTitleID>10892075</WikiTitleID> <RankerScore>0.044505539733893804</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

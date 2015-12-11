@@ -1,0 +1,618 @@
+<WikifierOutput>
+<InputFilename>
+1002testa Romania
+</InputFilename>
+<InputText>
+Romania cen bank one-week rate rises to 50.19 pct.
+BUCHAREST 1996-08-30
+The National Bank of Romania( BNR) said its one-week refinancing rate has been lifted this week to 50.19 percent from 49 percent after two banks bids&apos; exceeded its offer at Thursday&apos;s auction.
+The two banks entered bids totalling 497.5 billion lei at rates ranging from 49 to 51 percent, against the BNR&apos;s offer of 420 billion lei.
+Traders said that over the past few days the two major banks, keen to meet minimum reserve targets, also chased funds on the money market, being ready to gulp short-term money at rates up to 49 percent.
+Other banks traded one-week rates near 48 percent.-- Bucharest Newsroom 40-1 3120264
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Romania</EntitySurfaceForm>
+	<EntityTextStart>0</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>0.9460411512969149</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Romania</WikiTitle>
+		<WikiTitleID>25445</WikiTitleID>
+		<RankerScore>0.22941479999757883</RankerScore>
+		<Attributes>member	state	monarchy	country	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Romania</WikiTitle> <WikiTitleID>25445</WikiTitleID> <RankerScore>0.22941479999757883</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_football_team</WikiTitle> <WikiTitleID>679755</WikiTitleID> <RankerScore>0.07193328495490914</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_rugby_union_team</WikiTitle> <WikiTitleID>979061</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Romania</WikiTitle> <WikiTitleID>297151</WikiTitleID> <RankerScore>0.0685673435573588</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Principalities</WikiTitle> <WikiTitleID>7134950</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_Romania</WikiTitle> <WikiTitleID>297157</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>919825</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_Davis_Cup_team</WikiTitle> <WikiTitleID>9663817</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_basketball_team</WikiTitle> <WikiTitleID>2858678</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_language</WikiTitle> <WikiTitleID>25534</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_during_World_War_II</WikiTitle> <WikiTitleID>297155</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Air_Force</WikiTitle> <WikiTitleID>2106520</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_at_the_1972_Summer_Olympics</WikiTitle> <WikiTitleID>1888645</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Romania</WikiTitle> <WikiTitleID>3955536</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_under-21_football_team</WikiTitle> <WikiTitleID>5452605</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Romania</WikiTitle> <WikiTitleID>25642</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Orthodox_Church</WikiTitle> <WikiTitleID>384458</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accession_of_Romania_to_the_European_Union</WikiTitle> <WikiTitleID>3396316</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_of_arms_of_Romania</WikiTitle> <WikiTitleID>915240</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_in_Romania</WikiTitle> <WikiTitleID>5926459</WikiTitleID> <RankerScore>0.03706379832295019</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bank</EntitySurfaceForm>
+	<EntityTextStart>12</EntityTextStart>
+	<EntityTextEnd>16</EntityTextEnd>
+	<LinkerScore>1.1694121321561013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bank</WikiTitle>
+		<WikiTitleID>3753</WikiTitleID>
+		<RankerScore>0.15843902426726728</RankerScore>
+		<Attributes>invention	institution	entity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bank</WikiTitle> <WikiTitleID>3753</WikiTitleID> <RankerScore>0.15843902426726728</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stream_bed</WikiTitle> <WikiTitleID>300026</WikiTitleID> <RankerScore>0.04507492476977052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_(topography)</WikiTitle> <WikiTitleID>9094822</WikiTitleID> <RankerScore>0.04738690382484495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flight_dynamics</WikiTitle> <WikiTitleID>221400</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_engine</WikiTitle> <WikiTitleID>1999259</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dike_(construction)</WikiTitle> <WikiTitleID>266132</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Branch_(banking)</WikiTitle> <WikiTitleID>7024420</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_teller</WikiTitle> <WikiTitleID>5277755</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Financial_institution</WikiTitle> <WikiTitleID>208836</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_robbery</WikiTitle> <WikiTitleID>216340</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Credit_union</WikiTitle> <WikiTitleID>246079</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Video_wall</WikiTitle> <WikiTitleID>8599932</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bank_of_Tokyo-Mitsubishi_UFJ</WikiTitle> <WikiTitleID>2823064</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cant_(road/rail)</WikiTitle> <WikiTitleID>1664101</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Bank_of_the_United_States</WikiTitle> <WikiTitleID>55568</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_banks_in_Malaysia</WikiTitle> <WikiTitleID>6989118</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al-Rajhi_Bank</WikiTitle> <WikiTitleID>4142258</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_banks_in_the_United_Kingdom</WikiTitle> <WikiTitleID>1744314</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HBOS</WikiTitle> <WikiTitleID>659342</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bank_of_Finland</WikiTitle> <WikiTitleID>850543</WikiTitleID> <RankerScore>0.044064655714006896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BUCHAREST</EntitySurfaceForm>
+	<EntityTextStart>51</EntityTextStart>
+	<EntityTextEnd>60</EntityTextEnd>
+	<LinkerScore>1.3001139064464955</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bucharest</WikiTitle>
+		<WikiTitleID>36877</WikiTitleID>
+		<RankerScore>0.35934336388993915</RankerScore>
+		<Attributes>city	county	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bucharest</WikiTitle> <WikiTitleID>36877</WikiTitleID> <RankerScore>0.35934336388993915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Open</WikiTitle> <WikiTitleID>3571279</WikiTitleID> <RankerScore>0.09963532962586177</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treaty_of_Bucharest_(1913)</WikiTitle> <WikiTitleID>589141</WikiTitleID> <RankerScore>0.08746445903250005</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Bucharest</WikiTitle> <WikiTitleID>553982</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bucharest_metropolitan_area</WikiTitle> <WikiTitleID>13406360</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Theatre_Bucharest</WikiTitle> <WikiTitleID>5037441</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aurel_Vlaicu_International_Airport</WikiTitle> <WikiTitleID>2370520</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FC_Steaua_Bucureşti</WikiTitle> <WikiTitleID>893411</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombing_of_Bucharest_in_World_War_II</WikiTitle> <WikiTitleID>6820802</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_BCR_Open_Romania</WikiTitle> <WikiTitleID>14709386</WikiTitleID> <RankerScore>0.06479383535024272</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The National Bank</EntitySurfaceForm>
+	<EntityTextStart>72</EntityTextStart>
+	<EntityTextEnd>89</EntityTextEnd>
+	<LinkerScore>0.62102322302037</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>The_National_Bank</WikiTitle>
+		<WikiTitleID>982998</WikiTitleID>
+		<RankerScore>0.6287825748987869</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>The_National_Bank</WikiTitle> <WikiTitleID>982998</WikiTitleID> <RankerScore>0.6287825748987869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_National_Bank_(album)</WikiTitle> <WikiTitleID>4324675</WikiTitleID> <RankerScore>0.3712174251012132</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>National Bank of Romania</EntitySurfaceForm>
+	<EntityTextStart>76</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>1.284152651878675</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Bank_of_Romania</WikiTitle>
+		<WikiTitleID>1242530</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Bank_of_Romania</WikiTitle> <WikiTitleID>1242530</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Romania</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>100</EntityTextEnd>
+	<LinkerScore>1.2528953895747292</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Romania</WikiTitle>
+		<WikiTitleID>25445</WikiTitleID>
+		<RankerScore>0.2510073972638998</RankerScore>
+		<Attributes>member	state	monarchy	country	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Romania</WikiTitle> <WikiTitleID>25445</WikiTitleID> <RankerScore>0.2510073972638998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_football_team</WikiTitle> <WikiTitleID>679755</WikiTitleID> <RankerScore>0.07053484863316692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_rugby_union_team</WikiTitle> <WikiTitleID>979061</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kingdom_of_Romania</WikiTitle> <WikiTitleID>297151</WikiTitleID> <RankerScore>0.06575799108742464</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Principalities</WikiTitle> <WikiTitleID>7134950</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Communist_Romania</WikiTitle> <WikiTitleID>297157</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_at_the_2004_Summer_Olympics</WikiTitle> <WikiTitleID>919825</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_Davis_Cup_team</WikiTitle> <WikiTitleID>9663817</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_basketball_team</WikiTitle> <WikiTitleID>2858678</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_language</WikiTitle> <WikiTitleID>25534</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_during_World_War_II</WikiTitle> <WikiTitleID>297155</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Air_Force</WikiTitle> <WikiTitleID>2106520</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_at_the_1972_Summer_Olympics</WikiTitle> <WikiTitleID>1888645</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_Jews_in_Romania</WikiTitle> <WikiTitleID>3955536</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romania_national_under-21_football_team</WikiTitle> <WikiTitleID>5452605</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Romania</WikiTitle> <WikiTitleID>25642</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Romanian_Orthodox_Church</WikiTitle> <WikiTitleID>384458</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accession_of_Romania_to_the_European_Union</WikiTitle> <WikiTitleID>3396316</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_of_arms_of_Romania</WikiTitle> <WikiTitleID>915240</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rugby_union_in_Romania</WikiTitle> <WikiTitleID>5926459</WikiTitleID> <RankerScore>0.036041162530324036</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BNR</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>105</EntityTextEnd>
+	<LinkerScore>0.6183663739664027</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Bank_of_Romania</WikiTitle>
+		<WikiTitleID>1242530</WikiTitleID>
+		<RankerScore>0.7424440341372376</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Bank_of_Romania</WikiTitle> <WikiTitleID>1242530</WikiTitleID> <RankerScore>0.7424440341372376</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bell-Northern_Research</WikiTitle> <WikiTitleID>457547</WikiTitleID> <RankerScore>0.2575559658627624</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>refinancing</EntitySurfaceForm>
+	<EntityTextStart>125</EntityTextStart>
+	<EntityTextEnd>136</EntityTextEnd>
+	<LinkerScore>0.9963588723853168</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Refinancing</WikiTitle>
+		<WikiTitleID>610631</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Refinancing</WikiTitle> <WikiTitleID>610631</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>49 percent</EntitySurfaceForm>
+	<EntityTextStart>190</EntityTextStart>
+	<EntityTextEnd>200</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>49_Percent</WikiTitle>
+		<WikiTitleID>3345309</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>song	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>auction</EntitySurfaceForm>
+	<EntityTextStart>256</EntityTextStart>
+	<EntityTextEnd>263</EntityTextEnd>
+	<LinkerScore>0.8078049094017398</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Auction</WikiTitle>
+		<WikiTitleID>62912</WikiTitleID>
+		<RankerScore>0.38861392655086435</RankerScore>
+		<Attributes>model</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Auction</WikiTitle> <WikiTitleID>62912</WikiTitleID> <RankerScore>0.38861392655086435</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spectrum_auction</WikiTitle> <WikiTitleID>3276234</WikiTitleID> <RankerScore>0.15763953196609615</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Auction_bridge</WikiTitle> <WikiTitleID>66078</WikiTitleID> <RankerScore>0.1487204627317722</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_sale</WikiTitle> <WikiTitleID>2983120</WikiTitleID> <RankerScore>0.1525130393756336</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sheriff&apos;s_sale</WikiTitle> <WikiTitleID>4845375</WikiTitleID> <RankerScore>0.1525130393756336</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lei</EntitySurfaceForm>
+	<EntityTextStart>316</EntityTextStart>
+	<EntityTextEnd>319</EntityTextEnd>
+	<LinkerScore>0.4002604974829305</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Romanian_leu</WikiTitle>
+		<WikiTitleID>642267</WikiTitleID>
+		<RankerScore>0.6134289985965884</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Romanian_leu</WikiTitle> <WikiTitleID>642267</WikiTitleID> <RankerScore>0.6134289985965884</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lei_(Hawaii)</WikiTitle> <WikiTitleID>696202</WikiTitleID> <RankerScore>0.1594077497498125</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moldovan_leu</WikiTitle> <WikiTitleID>636476</WikiTitleID> <RankerScore>0.22716325165359907</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BNR</EntitySurfaceForm>
+	<EntityTextStart>372</EntityTextStart>
+	<EntityTextEnd>375</EntityTextEnd>
+	<LinkerScore>0.49663068793674947</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>National_Bank_of_Romania</WikiTitle>
+		<WikiTitleID>1242530</WikiTitleID>
+		<RankerScore>0.7615436183476808</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>National_Bank_of_Romania</WikiTitle> <WikiTitleID>1242530</WikiTitleID> <RankerScore>0.7615436183476808</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bell-Northern_Research</WikiTitle> <WikiTitleID>457547</WikiTitleID> <RankerScore>0.23845638165231914</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>420</EntitySurfaceForm>
+	<EntityTextStart>387</EntityTextStart>
+	<EntityTextEnd>390</EntityTextEnd>
+	<LinkerScore>0.08553685978685134</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>420</WikiTitle>
+		<WikiTitleID>35312</WikiTitleID>
+		<RankerScore>0.1887941913333152</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>420</WikiTitle> <WikiTitleID>35312</WikiTitleID> <RankerScore>0.1887941913333152</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>420_(dinghy)</WikiTitle> <WikiTitleID>1280603</WikiTitleID> <RankerScore>0.09970713719025404</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>420_(cannabis_culture)</WikiTitle> <WikiTitleID>145891</WikiTitleID> <RankerScore>0.0918780355809656</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>420_BC</WikiTitle> <WikiTitleID>72427</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>420_(number)</WikiTitle> <WikiTitleID>648624</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jaguar_420_and_Daimler_Sovereign_(1966–69)</WikiTitle> <WikiTitleID>17335064</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maserati_420</WikiTitle> <WikiTitleID>7820337</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>1_E+8_m²</WikiTitle> <WikiTitleID>35952</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_420</WikiTitle> <WikiTitleID>6912829</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_highways_numbered_420</WikiTitle> <WikiTitleID>6326541</WikiTitleID> <RankerScore>0.08851723369935217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lei</EntitySurfaceForm>
+	<EntityTextStart>399</EntityTextStart>
+	<EntityTextEnd>402</EntityTextEnd>
+	<LinkerScore>0.5240550569491818</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Romanian_leu</WikiTitle>
+		<WikiTitleID>642267</WikiTitleID>
+		<RankerScore>0.6182006218228655</RankerScore>
+		<Attributes>currency</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Romanian_leu</WikiTitle> <WikiTitleID>642267</WikiTitleID> <RankerScore>0.6182006218228655</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lei_(Hawaii)</WikiTitle> <WikiTitleID>696202</WikiTitleID> <RankerScore>0.15785804899103886</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Moldovan_leu</WikiTitle> <WikiTitleID>636476</WikiTitleID> <RankerScore>0.22394132918609574</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Traders</EntitySurfaceForm>
+	<EntityTextStart>404</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>-0.12961734581002138</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Traders_(TV_series)</WikiTitle>
+		<WikiTitleID>1401607</WikiTitleID>
+		<RankerScore>0.41244292913960634</RankerScore>
+		<Attributes>ending	show</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Traders_(TV_series)</WikiTitle> <WikiTitleID>1401607</WikiTitleID> <RankerScore>0.41244292913960634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eubians</WikiTitle> <WikiTitleID>3788566</WikiTitleID> <RankerScore>0.2551891877018015</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trader_(finance)</WikiTitle> <WikiTitleID>4788542</WikiTitleID> <RankerScore>0.3323678831585922</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>minimum reserve</EntitySurfaceForm>
+	<EntityTextStart>479</EntityTextStart>
+	<EntityTextEnd>494</EntityTextEnd>
+	<LinkerScore>0.9165846087539601</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Reserve_requirement</WikiTitle>
+		<WikiTitleID>911658</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>ratio	economics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Reserve_requirement</WikiTitle> <WikiTitleID>911658</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>money market</EntitySurfaceForm>
+	<EntityTextStart>529</EntityTextStart>
+	<EntityTextEnd>541</EntityTextEnd>
+	<LinkerScore>1.026801320265151</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Money_market</WikiTitle>
+		<WikiTitleID>236999</WikiTitleID>
+		<RankerScore>0.7969223582381965</RankerScore>
+		<Attributes>market</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Money_market</WikiTitle> <WikiTitleID>236999</WikiTitleID> <RankerScore>0.7969223582381965</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Money_market_deposit_account</WikiTitle> <WikiTitleID>3765190</WikiTitleID> <RankerScore>0.20307764176180346</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gulp</EntitySurfaceForm>
+	<EntityTextStart>558</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Grenada_United_Labour_Party</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>politician	party</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>49 percent</EntitySurfaceForm>
+	<EntityTextStart>595</EntityTextStart>
+	<EntityTextEnd>605</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>49_Percent</WikiTitle>
+		<WikiTitleID>3345309</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>song	singles</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Newsroom</EntitySurfaceForm>
+	<EntityTextStart>670</EntityTextStart>
+	<EntityTextEnd>678</EntityTextEnd>
+	<LinkerScore>0.1518378334500261</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Newsroom_(BBC_programme)</WikiTitle>
+		<WikiTitleID>6867864</WikiTitleID>
+		<RankerScore>0.6188823302341612</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Newsroom_(BBC_programme)</WikiTitle> <WikiTitleID>6867864</WikiTitleID> <RankerScore>0.6188823302341612</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Newsroom</WikiTitle> <WikiTitleID>1525349</WikiTitleID> <RankerScore>0.38111766976583894</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

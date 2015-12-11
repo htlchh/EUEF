@@ -1,0 +1,338 @@
+<WikifierOutput>
+<InputFilename>
+VOA20001020.2100.1853
+</InputFilename>
+<InputText>
+ The US navy now says the USS Cole was being refueled when an explosion ripped through it in Yemen last week, killing 17. The revised accounting of the incident was given in a navy statement Friday raising new questions about how the small boat carrying the explosives was able to get near the ship and set off the blast.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>The US</EntitySurfaceForm>
+	<EntityTextStart>1</EntityTextStart>
+	<EntityTextEnd>7</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>navy</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>12</EntityTextEnd>
+	<LinkerScore>0.30773536041122185</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Navy</WikiTitle>
+		<WikiTitleID>32083</WikiTitleID>
+		<RankerScore>0.1079571830516034</RankerScore>
+		<Attributes>section	establishment	services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.07303164803274712</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.1079571830516034</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.0710099665973364</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy_blue</WikiTitle> <WikiTitleID>575590</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Navy</WikiTitle> <WikiTitleID>383256</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Japanese_Navy</WikiTitle> <WikiTitleID>236104</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Danish_Navy</WikiTitle> <WikiTitleID>201834</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Navy</WikiTitle> <WikiTitleID>470473</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Forces_Maritime_Command</WikiTitle> <WikiTitleID>293382</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Liberation_Army_Navy</WikiTitle> <WikiTitleID>24918</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Norwegian_Navy</WikiTitle> <WikiTitleID>82050</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Navy</WikiTitle> <WikiTitleID>198656</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Navy</WikiTitle> <WikiTitleID>1849295</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Thai_Navy</WikiTitle> <WikiTitleID>1222633</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Australian_Navy</WikiTitle> <WikiTitleID>26327</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_history_of_China</WikiTitle> <WikiTitleID>5083891</WikiTitleID> <RankerScore>0.04400007072460666</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>USS Cole</EntitySurfaceForm>
+	<EntityTextStart>26</EntityTextStart>
+	<EntityTextEnd>34</EntityTextEnd>
+	<LinkerScore>0.32344424187176063</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>USS_Cole_(DDG-67)</WikiTitle>
+		<WikiTitleID>197334</WikiTitleID>
+		<RankerScore>0.5701755499452698</RankerScore>
+		<Attributes>destroyer	ship</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>USS_Cole_(DDG-67)</WikiTitle> <WikiTitleID>197334</WikiTitleID> <RankerScore>0.5701755499452698</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Cole_bombing</WikiTitle> <WikiTitleID>31981</WikiTitleID> <RankerScore>0.4298244500547302</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Yemen</EntitySurfaceForm>
+	<EntityTextStart>93</EntityTextStart>
+	<EntityTextEnd>98</EntityTextEnd>
+	<LinkerScore>0.711198449862548</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Yemen</WikiTitle>
+		<WikiTitleID>350939</WikiTitleID>
+		<RankerScore>0.11522413159967723</RankerScore>
+		<Attributes>country	dispute	state	republic</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Yemen</WikiTitle> <WikiTitleID>350939</WikiTitleID> <RankerScore>0.11522413159967723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutawakkilite_Kingdom_of_Yemen</WikiTitle> <WikiTitleID>2457603</WikiTitleID> <RankerScore>0.05021663457118382</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemen_national_football_team</WikiTitle> <WikiTitleID>1291184</WikiTitleID> <RankerScore>0.05019598083311169</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemenite_Jews</WikiTitle> <WikiTitleID>348787</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flag_of_Yemen</WikiTitle> <WikiTitleID>351550</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transport_in_Yemen</WikiTitle> <WikiTitleID>56969</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Human_rights_in_Yemen</WikiTitle> <WikiTitleID>6352065</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coat_of_arms_of_Yemen</WikiTitle> <WikiTitleID>444106</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Islamic_history_of_Yemen</WikiTitle> <WikiTitleID>7005729</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_Yemen</WikiTitle> <WikiTitleID>34245</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_Yemen</WikiTitle> <WikiTitleID>34248</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Yemen</WikiTitle> <WikiTitleID>720778</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemen_Football_Association</WikiTitle> <WikiTitleID>5731530</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arab_Socialist_Rebirth_Party_(Yemen)</WikiTitle> <WikiTitleID>2673501</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Yemen</WikiTitle> <WikiTitleID>718749</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jewish_exodus_from_Arab_lands</WikiTitle> <WikiTitleID>143149</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Yemeni_cuisine</WikiTitle> <WikiTitleID>5554889</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Yemen</WikiTitle> <WikiTitleID>412725</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_political_parties_in_Yemen</WikiTitle> <WikiTitleID>409117</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>LGBT_rights_in_Yemen</WikiTitle> <WikiTitleID>12353353</WikiTitleID> <RankerScore>0.04613901488211925</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>accounting</EntitySurfaceForm>
+	<EntityTextStart>134</EntityTextStart>
+	<EntityTextEnd>144</EntityTextEnd>
+	<LinkerScore>0.6100344966253194</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Accountancy</WikiTitle>
+		<WikiTitleID>2593</WikiTitleID>
+		<RankerScore>0.2649145377984501</RankerScore>
+		<Attributes>occupation	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Accountancy</WikiTitle> <WikiTitleID>2593</WikiTitleID> <RankerScore>0.2649145377984501</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accounting_software</WikiTitle> <WikiTitleID>13277642</WikiTitleID> <RankerScore>0.12056938970160154</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accountant</WikiTitle> <WikiTitleID>58216</WikiTitleID> <RankerScore>0.11511944464006077</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accountability</WikiTitle> <WikiTitleID>161973</WikiTitleID> <RankerScore>0.12484915696497188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>FCAPS</WikiTitle> <WikiTitleID>653807</WikiTitleID> <RankerScore>0.12484915696497188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Coin_of_account</WikiTitle> <WikiTitleID>103186</WikiTitleID> <RankerScore>0.12484915696497188</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Accounting_scholarship</WikiTitle> <WikiTitleID>1367447</WikiTitleID> <RankerScore>0.12484915696497188</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>navy</EntitySurfaceForm>
+	<EntityTextStart>176</EntityTextStart>
+	<EntityTextEnd>180</EntityTextEnd>
+	<LinkerScore>-0.13155610243442367</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Navy</WikiTitle>
+		<WikiTitleID>32083</WikiTitleID>
+		<RankerScore>0.07727390442023992</RankerScore>
+		<Attributes>section	establishment	services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Navy</WikiTitle> <WikiTitleID>21533</WikiTitleID> <RankerScore>0.07353418920694871</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.07727390442023992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Navy</WikiTitle> <WikiTitleID>26061</WikiTitleID> <RankerScore>0.07532470468717645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Navy_blue</WikiTitle> <WikiTitleID>575590</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_Navy</WikiTitle> <WikiTitleID>383256</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Imperial_Japanese_Navy</WikiTitle> <WikiTitleID>236104</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Danish_Navy</WikiTitle> <WikiTitleID>201834</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_African_Navy</WikiTitle> <WikiTitleID>470473</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Canadian_Forces_Maritime_Command</WikiTitle> <WikiTitleID>293382</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chilean_Navy</WikiTitle> <WikiTitleID>1201138</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>People&apos;s_Liberation_Army_Navy</WikiTitle> <WikiTitleID>24918</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Norwegian_Navy</WikiTitle> <WikiTitleID>82050</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Swedish_Navy</WikiTitle> <WikiTitleID>198656</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Navy</WikiTitle> <WikiTitleID>1849295</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Navy</WikiTitle> <WikiTitleID>383258</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Israeli_Sea_Corps</WikiTitle> <WikiTitleID>1370788</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Thai_Navy</WikiTitle> <WikiTitleID>1222633</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Australian_Navy</WikiTitle> <WikiTitleID>26327</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Royal_Netherlands_Navy</WikiTitle> <WikiTitleID>198478</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Naval_history_of_China</WikiTitle> <WikiTitleID>5083891</WikiTitleID> <RankerScore>0.04552160009915499</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>explosives</EntitySurfaceForm>
+	<EntityTextStart>258</EntityTextStart>
+	<EntityTextEnd>268</EntityTextEnd>
+	<LinkerScore>0.14784840838169133</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Suicide_attack</WikiTitle>
+		<WikiTitleID>29361</WikiTitleID>
+		<RankerScore>0.25723453093004284</RankerScore>
+		<Attributes>method	tactics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Explosive_material</WikiTitle> <WikiTitleID>10192</WikiTitleID> <RankerScore>0.22918959974899633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Suicide_attack</WikiTitle> <WikiTitleID>29361</WikiTitleID> <RankerScore>0.25723453093004284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Detonating_cord</WikiTitle> <WikiTitleID>610149</WikiTitleID> <RankerScore>0.09780442226840579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bomb</WikiTitle> <WikiTitleID>47628</WikiTitleID> <RankerScore>0.12235818024733768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Titadine</WikiTitle> <WikiTitleID>608168</WikiTitleID> <RankerScore>0.09780442226840579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Improvised_explosive_device</WikiTitle> <WikiTitleID>265112</WikiTitleID> <RankerScore>0.09780442226840579</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_bomb</WikiTitle> <WikiTitleID>1053290</WikiTitleID> <RankerScore>0.09780442226840579</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

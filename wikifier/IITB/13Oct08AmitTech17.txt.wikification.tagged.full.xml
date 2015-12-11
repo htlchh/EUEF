@@ -1,0 +1,4255 @@
+<WikifierOutput>
+<InputFilename>
+13Oct08AmitTech17.txt
+</InputFilename>
+<InputText>
+Stopping Pandemic Bird Flu
+A broad-acting vaccine might be key. 
+
+Bird flu tops the list of the world&apos;s next &quot;potential pandemic&quot;--virulent influenza strains that spread rapidly across the globe--but figuring out how to fight it has been far less clear-cut. So far, the U.S. Food and Drug Administration has approved a few vaccines that may be able to fend off the virus, but all of those are grown in chicken eggs, take up to six months to produce, and are each effective against only one strain of the virus. A brand-new DNA vaccine, which scientists hope to soon test in humans, may provide much broader protection.
+
+Avian influenza, caused by a variant of the H5N1 virus, has afflicted hundreds of millions of birds worldwide. The virus mutates quickly: some of the mutations, upon making the jump to humans, have proved fatal. So far, bird flu has killed at least 250 people.
+
+&quot;Everyone fears that the virus only needs to make a few mutations to become virulent and transmissible human to human, so this is certainly one of the biggest pandemic threats that we face,&quot; says David Ho, a professor at Rockefeller University and the scientific director of the Aaron Diamond AIDS Research Center, in New York. &quot;It obviously continues to be a threat, even though it&apos;s no longer on everyone&apos;s radar screen.&quot;
+
+The bird flu&apos;s rapid mutations are precisely what make the virus so difficult to fight. The few vaccines that are currently approved to treat it were created using existing viruses, and therefore, each immunizes against only a single virulent mutation. To develop a more broadly acting vaccine, Ho and his colleagues at Taiwan&apos;s Academia Sinica took a DNA-based approach. DNA-based vaccines are made up of DNA that&apos;s been genetically modified to elicit a specific immune response and thus allow a greater level of control over design than do traditional vaccines.
+
+Ho and his colleagues focused on the gene for hemagglutinin, which produces the virus&apos;s outer protein and the one against which human immune systems respond. They created a DNA sequence for the gene that produces hemagglutinin, using pieces of the gene that are shared among different strains of H5N1, rather than a sequence obtained from a single strain of the virus.
+
+DNA vaccines have many benefits: they are long-lived, stable, require no refrigeration, can be hastily modified, and can be cheaply and quickly manufactured. But they do have one drawback: injections into muscle tissue result in very inefficient DNA uptake. To address this, Ho and his collaborators turned to a technique called electroporation, a method that has shown promise in preliminary studies. In electroporation, the vaccine is combined with small electrical stimuli at the injection site; the resulting electrical field enhances DNA uptake by the muscle cells.
+
+The study results, published in a recent edition of the Proceedings of the National Academy of Sciences, &quot;show that when you use the consensus sequence to immunize mice, the mice will mount an antibody response that&apos;s pretty broadly neutralizing for viruses in different branches of the H5N1 tree,&quot; Ho says. And when the researchers exposed the mice to different strains of the virus, they found that the protection had breadth as well.
+
+&quot;This is a very interesting, imaginative, and novel approach,&quot; says virologist Peter Palese, head of the microbiology department at the Mount Sinai School of Medicine, in New York. &quot;It takes advantage of several technological advances, and should be given a chance to be tested in humans.&quot;
+
+Part of what makes the approach so appealing, he notes, is the vaccine&apos;s ability to stimulate immunity to multiple virus strains. &quot;The present vaccines are very limited to a particular variant, and if the circulating variant is very different, then we have a problem,&quot; says Palese. &quot;The new vaccine will cover more variants around the original strain.&quot;
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>Pandemic</EntitySurfaceForm>
+	<EntityTextStart>9</EntityTextStart>
+	<EntityTextEnd>17</EntityTextEnd>
+	<LinkerScore>0.9874069281043686</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Pandemic</WikiTitle>
+		<WikiTitleID>24255</WikiTitleID>
+		<RankerScore>0.528998630348406</RankerScore>
+		<Attributes>problem	hazard</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.528998630348406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic_(comics)</WikiTitle> <WikiTitleID>12051889</WikiTitleID> <RankerScore>0.141206395906421</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic_(TV_miniseries)</WikiTitle> <WikiTitleID>11524153</WikiTitleID> <RankerScore>0.10064327793380326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fever_(DC_Comics)</WikiTitle> <WikiTitleID>2974866</WikiTitleID> <RankerScore>0.07638389860378991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic_Studios</WikiTitle> <WikiTitleID>1419707</WikiTitleID> <RankerScore>0.07638389860378991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pandemic_(board_game)</WikiTitle> <WikiTitleID>18320834</WikiTitleID> <RankerScore>0.07638389860378991</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bird Flu</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>0.79140888060627</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Avian_influenza</WikiTitle>
+		<WikiTitleID>442916</WikiTitleID>
+		<RankerScore>0.8328721602857224</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bird_Flu_(song)</WikiTitle> <WikiTitleID>9406922</WikiTitleID> <RankerScore>0.1671278397142777</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>0.8328721602857224</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Flu</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>1.1464791982769684</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza</WikiTitle>
+		<WikiTitleID>48333</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza</WikiTitle> <WikiTitleID>48333</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccine</EntitySurfaceForm>
+	<EntityTextStart>42</EntityTextStart>
+	<EntityTextEnd>49</EntityTextEnd>
+	<LinkerScore>0.6174635356610033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.40788162253518795</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.40788162253518795</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polio_vaccine</WikiTitle> <WikiTitleID>192198</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.14449011399914904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HIV_vaccine</WikiTitle> <WikiTitleID>147473</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumps_vaccine</WikiTitle> <WikiTitleID>5264978</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Purity_Control</WikiTitle> <WikiTitleID>3453424</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.22708843437452647</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoculation</WikiTitle> <WikiTitleID>14798</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.036756638181856115</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bird flu</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.11132662781308293</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>0.509526801148057</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>0.3877124731120682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>0.509526801148057</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenzavirus_A</WikiTitle> <WikiTitleID>440479</WikiTitleID> <RankerScore>0.05138036286993739</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_Flu_(song)</WikiTitle> <WikiTitleID>9406922</WikiTitleID> <RankerScore>0.05138036286993739</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>1.6703415999120612</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>flu</EntitySurfaceForm>
+	<EntityTextStart>71</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.8120752258942493</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza</WikiTitle>
+		<WikiTitleID>48333</WikiTitleID>
+		<RankerScore>0.5898170958894892</RankerScore>
+		<Attributes>disease	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza</WikiTitle> <WikiTitleID>48333</WikiTitleID> <RankerScore>0.5898170958894892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.2405421852969145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_flu</WikiTitle> <WikiTitleID>198796</WikiTitleID> <RankerScore>0.16964071881359635</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>far less</EntitySurfaceForm>
+	<EntityTextStart>238</EntityTextStart>
+	<EntityTextEnd>246</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Far-Less</WikiTitle>
+		<WikiTitleID>10265317</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>clear-cut</EntitySurfaceForm>
+	<EntityTextStart>247</EntityTextStart>
+	<EntityTextEnd>256</EntityTextEnd>
+	<LinkerScore>0.4672072200861326</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Clearcutting</WikiTitle>
+		<WikiTitleID>1091638</WikiTitleID>
+		<RankerScore>0.6645890011801917</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Clearcutting</WikiTitle> <WikiTitleID>1091638</WikiTitleID> <RankerScore>0.6645890011801917</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Deforestation</WikiTitle> <WikiTitleID>8103</WikiTitleID> <RankerScore>0.33541099881980824</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S.</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>274</EntityTextEnd>
+	<LinkerScore>0.8408876264435545</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.11023272355954236</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.11023272355954236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_Hot_100</WikiTitle> <WikiTitleID>423161</WikiTitleID> <RankerScore>0.04574349565216171</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Billboard_200</WikiTitle> <WikiTitleID>730350</WikiTitleID> <RankerScore>0.043722526144497904</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_men&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>582488</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_dollar</WikiTitle> <WikiTitleID>38723</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_United_States</WikiTitle> <WikiTitleID>32212</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Numbered_Highways</WikiTitle> <WikiTitleID>43951</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Federal_government_of_the_United_States</WikiTitle> <WikiTitleID>195149</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_men&apos;s_ice_hockey_team</WikiTitle> <WikiTitleID>945923</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_customary_units</WikiTitle> <WikiTitleID>32308</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army_Air_Forces</WikiTitle> <WikiTitleID>147248</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Star-Spangled_Banner</WikiTitle> <WikiTitleID>31064</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_women&apos;s_national_soccer_team</WikiTitle> <WikiTitleID>647757</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_national_rugby_union_team</WikiTitle> <WikiTitleID>1145226</WikiTitleID> <RankerScore>0.047076544390811645</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>U.S. Food and Drug Administration</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>303</EntityTextEnd>
+	<LinkerScore>1.0129399687343659</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>U.S._Food_and_Drug_Administration</WikiTitle>
+		<WikiTitleID>11632</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._Food_and_Drug_Administration</WikiTitle> <WikiTitleID>11632</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Food and Drug Administration</EntitySurfaceForm>
+	<EntityTextStart>275</EntityTextStart>
+	<EntityTextEnd>303</EntityTextEnd>
+	<LinkerScore>1.0442306303376436</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>U.S._Food_and_Drug_Administration</WikiTitle>
+		<WikiTitleID>11632</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._Food_and_Drug_Administration</WikiTitle> <WikiTitleID>11632</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccines</EntitySurfaceForm>
+	<EntityTextStart>323</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>1.0623796682604294</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.6734460349565732</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.6734460349565732</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.13154111581371652</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.19501284922971027</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>fend</EntitySurfaceForm>
+	<EntityTextStart>352</EntityTextStart>
+	<EntityTextEnd>356</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Fend_Flitzer</WikiTitle>
+		<WikiTitleID>758533</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>vehicle	manufacturer	car</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>365</EntityTextStart>
+	<EntityTextEnd>370</EntityTextEnd>
+	<LinkerScore>0.7812403131465213</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.525950449704002</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.525950449704002</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.11640440419407207</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.07360361697627953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07360361697627953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.21043791214936688</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chicken</EntitySurfaceForm>
+	<EntityTextStart>402</EntityTextStart>
+	<EntityTextEnd>409</EntityTextEnd>
+	<LinkerScore>0.6171462983929616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicken</WikiTitle>
+		<WikiTitleID>37402</WikiTitleID>
+		<RankerScore>0.29588792541351727</RankerScore>
+		<Attributes>animal	bird	pet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicken</WikiTitle> <WikiTitleID>37402</WikiTitleID> <RankerScore>0.29588792541351727</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken_(food)</WikiTitle> <WikiTitleID>5741239</WikiTitleID> <RankerScore>0.06539368574116297</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken_(game)</WikiTitle> <WikiTitleID>381323</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poultry</WikiTitle> <WikiTitleID>23197</WikiTitleID> <RankerScore>0.13459400023682666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cowardice</WikiTitle> <WikiTitleID>165119</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orpington_(chicken)</WikiTitle> <WikiTitleID>939860</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chickenlover</WikiTitle> <WikiTitleID>2596218</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken_Dance</WikiTitle> <WikiTitleID>377539</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken_soup</WikiTitle> <WikiTitleID>46461</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fried_chicken</WikiTitle> <WikiTitleID>18598020</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Broiler</WikiTitle> <WikiTitleID>862804</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Icelandic_chicken</WikiTitle> <WikiTitleID>18295368</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken_(gay_slang)</WikiTitle> <WikiTitleID>11638480</WikiTitleID> <RankerScore>0.050412438860849305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>chicken eggs</EntitySurfaceForm>
+	<EntityTextStart>402</EntityTextStart>
+	<EntityTextEnd>414</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Egg_(food)</WikiTitle>
+		<WikiTitleID>694135</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>food</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>eggs</EntitySurfaceForm>
+	<EntityTextStart>410</EntityTextStart>
+	<EntityTextEnd>414</EntityTextEnd>
+	<LinkerScore>0.5535268645139693</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Egg_allergy</WikiTitle>
+		<WikiTitleID>6317707</WikiTitleID>
+		<RankerScore>0.23447656397610595</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Egg_(biology)</WikiTitle> <WikiTitleID>484939</WikiTitleID> <RankerScore>0.12696228820517874</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Egg_(food)</WikiTitle> <WikiTitleID>694135</WikiTitleID> <RankerScore>0.09947576954500326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ovum</WikiTitle> <WikiTitleID>22334</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roe</WikiTitle> <WikiTitleID>294507</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Easter_egg</WikiTitle> <WikiTitleID>9324</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pickled_egg</WikiTitle> <WikiTitleID>3931717</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_egg</WikiTitle> <WikiTitleID>412703</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Egg_allergy</WikiTitle> <WikiTitleID>6317707</WikiTitleID> <RankerScore>0.23447656397610595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Caviar</WikiTitle> <WikiTitleID>825876</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Testicle</WikiTitle> <WikiTitleID>67193</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oocyte</WikiTitle> <WikiTitleID>559288</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicken</WikiTitle> <WikiTitleID>37402</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Boiled_egg</WikiTitle> <WikiTitleID>3719867</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Free-range_eggs</WikiTitle> <WikiTitleID>1423394</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oviparity</WikiTitle> <WikiTitleID>2112392</WikiTitleID> <RankerScore>0.04492378152280934</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>504</EntityTextStart>
+	<EntityTextEnd>509</EntityTextEnd>
+	<LinkerScore>1.2366178296403096</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.654045956743682</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.654045956743682</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.10219290647184225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.11740124845858245</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.06317994416294664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.06317994416294664</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>brand-new</EntitySurfaceForm>
+	<EntityTextStart>513</EntityTextStart>
+	<EntityTextEnd>522</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Brand_New</WikiTitle>
+		<WikiTitleID>728821</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>artist	group</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>523</EntityTextStart>
+	<EntityTextEnd>526</EntityTextEnd>
+	<LinkerScore>1.73739163305418</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.25648056065121416</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.25648056065121416</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.045790505308360055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.05036789787993313</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.038080060950617216</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA vaccine</EntitySurfaceForm>
+	<EntityTextStart>523</EntityTextStart>
+	<EntityTextEnd>534</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA_vaccination</WikiTitle>
+		<WikiTitleID>45570</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccine</EntitySurfaceForm>
+	<EntityTextStart>527</EntityTextStart>
+	<EntityTextEnd>534</EntityTextEnd>
+	<LinkerScore>0.9400839138231423</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.46051167921615394</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.46051167921615394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polio_vaccine</WikiTitle> <WikiTitleID>192198</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.11855618964981052</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HIV_vaccine</WikiTitle> <WikiTitleID>147473</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumps_vaccine</WikiTitle> <WikiTitleID>5264978</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Purity_Control</WikiTitle> <WikiTitleID>3453424</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.1496988426144417</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoculation</WikiTitle> <WikiTitleID>14798</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.04520554808659897</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Avian influenza</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>635</EntityTextEnd>
+	<LinkerScore>0.6135027475285612</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Avian_influenza</WikiTitle>
+		<WikiTitleID>442916</WikiTitleID>
+		<RankerScore>0.556377759202431</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>0.556377759202431</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>1.9163304619548558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>0.443622240797569</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Avian</EntitySurfaceForm>
+	<EntityTextStart>620</EntityTextStart>
+	<EntityTextEnd>625</EntityTextEnd>
+	<LinkerScore>-0.011101123569164522</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Avian_(band)</WikiTitle>
+		<WikiTitleID>8261709</WikiTitleID>
+		<RankerScore>0.5327838533327114</RankerScore>
+		<Attributes>group	quintet</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avian_(band)</WikiTitle> <WikiTitleID>8261709</WikiTitleID> <RankerScore>0.5327838533327114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird</WikiTitle> <WikiTitleID>3410</WikiTitleID> <RankerScore>0.4672161466672887</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>influenza</EntitySurfaceForm>
+	<EntityTextStart>626</EntityTextStart>
+	<EntityTextEnd>635</EntityTextEnd>
+	<LinkerScore>0.9783974835641834</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza</WikiTitle>
+		<WikiTitleID>48333</WikiTitleID>
+		<RankerScore>0.5607725550174532</RankerScore>
+		<Attributes>disease	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza</WikiTitle> <WikiTitleID>48333</WikiTitleID> <RankerScore>0.5607725550174532</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_flu</WikiTitle> <WikiTitleID>198796</WikiTitleID> <RankerScore>0.039607414823214705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.14766360161674114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Equine_influenza</WikiTitle> <WikiTitleID>3907756</WikiTitleID> <RankerScore>0.039607414823214705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Captain_Trips</WikiTitle> <WikiTitleID>1948803</WikiTitleID> <RankerScore>0.039607414823214705</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orthomyxoviridae</WikiTitle> <WikiTitleID>532906</WikiTitleID> <RankerScore>0.1727415988961616</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>H5N1 virus</EntitySurfaceForm>
+	<EntityTextStart>664</EntityTextStart>
+	<EntityTextEnd>674</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>H5N1</EntitySurfaceForm>
+	<EntityTextStart>664</EntityTextStart>
+	<EntityTextEnd>668</EntityTextEnd>
+	<LinkerScore>1.2019898976366405</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>669</EntityTextStart>
+	<EntityTextEnd>674</EntityTextEnd>
+	<LinkerScore>1.1141926239390747</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.6037981792474933</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.6037981792474933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.0956766799768954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.057585346852471145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.057585346852471145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.18535444707066892</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>birds</EntitySurfaceForm>
+	<EntityTextStart>714</EntityTextStart>
+	<EntityTextEnd>719</EntityTextEnd>
+	<LinkerScore>0.36325187611359033</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bird</WikiTitle>
+		<WikiTitleID>3410</WikiTitleID>
+		<RankerScore>0.1369751705746495</RankerScore>
+		<Attributes>animal</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bird</WikiTitle> <WikiTitleID>3410</WikiTitleID> <RankerScore>0.1369751705746495</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_migration</WikiTitle> <WikiTitleID>201943</WikiTitleID> <RankerScore>0.07466387280824296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Australia</WikiTitle> <WikiTitleID>3517460</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Kansas_birds</WikiTitle> <WikiTitleID>1827222</WikiTitleID> <RankerScore>0.045055742586124825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_vocalization</WikiTitle> <WikiTitleID>369978</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birds_in_Redwall</WikiTitle> <WikiTitleID>3868265</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_extinct_birds</WikiTitle> <WikiTitleID>9731</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_European_birds</WikiTitle> <WikiTitleID>204506</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_fossil_birds</WikiTitle> <WikiTitleID>4383850</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birds_of_Australia</WikiTitle> <WikiTitleID>160118</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stymphalian_birds</WikiTitle> <WikiTitleID>84711</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_flight</WikiTitle> <WikiTitleID>1837609</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_U.S._state_birds</WikiTitle> <WikiTitleID>346365</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frigatebird</WikiTitle> <WikiTitleID>183143</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fauna_of_New_Guinea</WikiTitle> <WikiTitleID>6238059</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hugin_and_Munin</WikiTitle> <WikiTitleID>13653</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds_of_Trinidad_and_Tobago</WikiTitle> <WikiTitleID>17442148</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_anatomy</WikiTitle> <WikiTitleID>5579717</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birdwatching</WikiTitle> <WikiTitleID>173575</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_Tuamotu_birds</WikiTitle> <WikiTitleID>4363280</WikiTitleID> <RankerScore>0.04372383611946957</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>735</EntityTextStart>
+	<EntityTextEnd>740</EntityTextEnd>
+	<LinkerScore>0.906501529082764</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5443560617471905</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5443560617471905</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.11245677037826708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.06872305396176803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.06872305396176803</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.20574105995100633</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mutations</EntitySurfaceForm>
+	<EntityTextStart>770</EntityTextStart>
+	<EntityTextEnd>779</EntityTextEnd>
+	<LinkerScore>1.2184582314334174</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mutation</WikiTitle>
+		<WikiTitleID>19702</WikiTitleID>
+		<RankerScore>0.6107396567287683</RankerScore>
+		<Attributes>effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mutation</WikiTitle> <WikiTitleID>19702</WikiTitleID> <RankerScore>0.6107396567287683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant_(Marvel_Comics)</WikiTitle> <WikiTitleID>7760245</WikiTitleID> <RankerScore>0.16076529844500084</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consonant_mutation</WikiTitle> <WikiTitleID>810257</WikiTitleID> <RankerScore>0.110788675516759</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_morphology</WikiTitle> <WikiTitleID>2765748</WikiTitleID> <RankerScore>0.11770636930947198</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bird</EntitySurfaceForm>
+	<EntityTextStart>840</EntityTextStart>
+	<EntityTextEnd>844</EntityTextEnd>
+	<LinkerScore>0.6551682256321517</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bird</WikiTitle>
+		<WikiTitleID>3410</WikiTitleID>
+		<RankerScore>0.16741493430192858</RankerScore>
+		<Attributes>animal</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bird</WikiTitle> <WikiTitleID>3410</WikiTitleID> <RankerScore>0.16741493430192858</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_flight</WikiTitle> <WikiTitleID>1837609</WikiTitleID> <RankerScore>0.05386130492603246</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbidae</WikiTitle> <WikiTitleID>63355</WikiTitleID> <RankerScore>0.05993537255368301</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelican</WikiTitle> <WikiTitleID>69785</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magpie</WikiTitle> <WikiTitleID>142879</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mistle_Thrush</WikiTitle> <WikiTitleID>185116</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partridge</WikiTitle> <WikiTitleID>63640</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Griffin</WikiTitle> <WikiTitleID>7713110</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finch</WikiTitle> <WikiTitleID>11711</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phoenix_(mythology)</WikiTitle> <WikiTitleID>49122</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardinal_(bird)</WikiTitle> <WikiTitleID>256611</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Orioles</WikiTitle> <WikiTitleID>4340</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arctic_Tern</WikiTitle> <WikiTitleID>239413</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birdwatching</WikiTitle> <WikiTitleID>173575</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donor_(fairy_tale)</WikiTitle> <WikiTitleID>10836835</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flock_(birds)</WikiTitle> <WikiTitleID>8809081</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds</WikiTitle> <WikiTitleID>79104</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_people</WikiTitle> <WikiTitleID>1679146</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flamingo</WikiTitle> <WikiTitleID>165927</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buzzard</WikiTitle> <WikiTitleID>220053</WikiTitleID> <RankerScore>0.04228166989519741</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bird flu</EntitySurfaceForm>
+	<EntityTextStart>840</EntityTextStart>
+	<EntityTextEnd>848</EntityTextEnd>
+	<LinkerScore>0.11742733471000892</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>0.38596363776737835</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>0.31866037269589337</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>0.38596363776737835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Bernard_Matthews_H5N1_outbreak</WikiTitle> <WikiTitleID>9398796</WikiTitleID> <RankerScore>0.06802021127048462</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenzavirus_A</WikiTitle> <WikiTitleID>440479</WikiTitleID> <RankerScore>0.2273557782662436</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>flu</EntitySurfaceForm>
+	<EntityTextStart>845</EntityTextStart>
+	<EntityTextEnd>848</EntityTextEnd>
+	<LinkerScore>0.9356444891842813</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza</WikiTitle>
+		<WikiTitleID>48333</WikiTitleID>
+		<RankerScore>0.571887857886289</RankerScore>
+		<Attributes>disease	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza</WikiTitle> <WikiTitleID>48333</WikiTitleID> <RankerScore>0.571887857886289</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.21177130693374255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_flu</WikiTitle> <WikiTitleID>198796</WikiTitleID> <RankerScore>0.2163408351799684</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>907</EntityTextStart>
+	<EntityTextEnd>912</EntityTextEnd>
+	<LinkerScore>0.8103336468746245</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5201317363220643</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5201317363220643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.1199724662475589</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.07689332275956713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07689332275956713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.20610915191124252</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mutations</EntitySurfaceForm>
+	<EntityTextStart>938</EntityTextStart>
+	<EntityTextEnd>947</EntityTextEnd>
+	<LinkerScore>1.2355217207277678</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mutation</WikiTitle>
+		<WikiTitleID>19702</WikiTitleID>
+		<RankerScore>0.6045006712179859</RankerScore>
+		<Attributes>effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mutation</WikiTitle> <WikiTitleID>19702</WikiTitleID> <RankerScore>0.6045006712179859</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant_(Marvel_Comics)</WikiTitle> <WikiTitleID>7760245</WikiTitleID> <RankerScore>0.15910531852520432</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consonant_mutation</WikiTitle> <WikiTitleID>810257</WikiTitleID> <RankerScore>0.11468739683152784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_morphology</WikiTitle> <WikiTitleID>2765748</WikiTitleID> <RankerScore>0.12170661342528202</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virulent</EntitySurfaceForm>
+	<EntityTextStart>958</EntityTextStart>
+	<EntityTextEnd>966</EntityTextEnd>
+	<LinkerScore>0.9603690873873997</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virulence</WikiTitle>
+		<WikiTitleID>406929</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virulence</WikiTitle> <WikiTitleID>406929</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pandemic</EntitySurfaceForm>
+	<EntityTextStart>1041</EntityTextStart>
+	<EntityTextEnd>1049</EntityTextEnd>
+	<LinkerScore>0.3336156776132063</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_pandemic</WikiTitle>
+		<WikiTitleID>2888063</WikiTitleID>
+		<RankerScore>0.49022531976351796</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Pandemic</WikiTitle> <WikiTitleID>24255</WikiTitleID> <RankerScore>0.4174259744395709</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_pandemic</WikiTitle> <WikiTitleID>2888063</WikiTitleID> <RankerScore>0.49022531976351796</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_pandemic</WikiTitle> <WikiTitleID>2340554</WikiTitleID> <RankerScore>0.09234870579691111</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>David Ho</EntitySurfaceForm>
+	<EntityTextStart>1078</EntityTextStart>
+	<EntityTextEnd>1086</EntityTextEnd>
+	<LinkerScore>0.33569369000945826</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>David_Ho_(artist)</WikiTitle>
+		<WikiTitleID>13569481</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>artist	alumnus	person</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>David_Ho_(artist)</WikiTitle> <WikiTitleID>13569481</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>professor</EntitySurfaceForm>
+	<EntityTextStart>1090</EntityTextStart>
+	<EntityTextEnd>1099</EntityTextEnd>
+	<LinkerScore>1.1855218315285276</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Professor</WikiTitle>
+		<WikiTitleID>167800</WikiTitleID>
+		<RankerScore>0.39106465954081215</RankerScore>
+		<Attributes>degree	title</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Professor</WikiTitle> <WikiTitleID>167800</WikiTitleID> <RankerScore>0.39106465954081215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brainiac_(comics)</WikiTitle> <WikiTitleID>525160</WikiTitleID> <RankerScore>0.14064646379853915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physics_education</WikiTitle> <WikiTitleID>2711029</WikiTitleID> <RankerScore>0.11493939829341938</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peter_George_(professor)</WikiTitle> <WikiTitleID>1716021</WikiTitleID> <RankerScore>0.11778315945574314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Teacher</WikiTitle> <WikiTitleID>205075</WikiTitleID> <RankerScore>0.11778315945574314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Professor_of_Botany,_Cambridge_University</WikiTitle> <WikiTitleID>798064</WikiTitleID> <RankerScore>0.11778315945574314</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rockefeller University</EntitySurfaceForm>
+	<EntityTextStart>1103</EntityTextStart>
+	<EntityTextEnd>1125</EntityTextEnd>
+	<LinkerScore>1.1685338141212829</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rockefeller_University</WikiTitle>
+		<WikiTitleID>605466</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>university	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rockefeller_University</WikiTitle> <WikiTitleID>605466</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Rockefeller</EntitySurfaceForm>
+	<EntityTextStart>1103</EntityTextStart>
+	<EntityTextEnd>1114</EntityTextEnd>
+	<LinkerScore>0.21015898344872375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Rockefeller_University</WikiTitle>
+		<WikiTitleID>605466</WikiTitleID>
+		<RankerScore>0.15374261993323185</RankerScore>
+		<Attributes>university	institution</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Rockefeller_Foundation</WikiTitle> <WikiTitleID>227730</WikiTitleID> <RankerScore>0.10165421102115237</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rockefeller_family</WikiTitle> <WikiTitleID>564564</WikiTitleID> <RankerScore>0.12283750295997475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_D._Rockefeller</WikiTitle> <WikiTitleID>186300</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nelson_Rockefeller</WikiTitle> <WikiTitleID>22032</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_D._Rockefeller,_Jr.</WikiTitle> <WikiTitleID>299978</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rockefeller_Music_Hall</WikiTitle> <WikiTitleID>12795541</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jay_Rockefeller</WikiTitle> <WikiTitleID>337026</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rockefeller_Group</WikiTitle> <WikiTitleID>1482627</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_D._Rockefeller_III</WikiTitle> <WikiTitleID>420107</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rockefeller_University</WikiTitle> <WikiTitleID>605466</WikiTitleID> <RankerScore>0.15374261993323185</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rockefeller_(album)</WikiTitle> <WikiTitleID>10526875</WikiTitleID> <RankerScore>0.07772070826070515</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>director</EntitySurfaceForm>
+	<EntityTextStart>1145</EntityTextStart>
+	<EntityTextEnd>1153</EntityTextEnd>
+	<LinkerScore>0.10324431475405119</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Film_director</WikiTitle>
+		<WikiTitleID>506181</WikiTitleID>
+		<RankerScore>0.0786725515294402</RankerScore>
+		<Attributes>occupation	director</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Film_director</WikiTitle> <WikiTitleID>506181</WikiTitleID> <RankerScore>0.0786725515294402</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_director</WikiTitle> <WikiTitleID>518021</WikiTitleID> <RankerScore>0.05574998741486741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Theatre_director</WikiTitle> <WikiTitleID>103078</WikiTitleID> <RankerScore>0.052980680134769385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Board_of_directors</WikiTitle> <WikiTitleID>4822</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_video_director</WikiTitle> <WikiTitleID>1901819</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Executive_director</WikiTitle> <WikiTitleID>2051602</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_director</WikiTitle> <WikiTitleID>438428</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Animation_director</WikiTitle> <WikiTitleID>3304549</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Managing_director</WikiTitle> <WikiTitleID>1328935</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_(education)</WikiTitle> <WikiTitleID>7075436</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Management</WikiTitle> <WikiTitleID>19881</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_director</WikiTitle> <WikiTitleID>2283342</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director-general</WikiTitle> <WikiTitleID>1434447</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artistic_director</WikiTitle> <WikiTitleID>1536254</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Technical_director</WikiTitle> <WikiTitleID>699158</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Art_director</WikiTitle> <WikiTitleID>631159</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Curator</WikiTitle> <WikiTitleID>391167</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supervisor</WikiTitle> <WikiTitleID>1957147</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chief_executive_officer</WikiTitle> <WikiTitleID>52234</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Director_of_Central_Intelligence</WikiTitle> <WikiTitleID>456058</WikiTitleID> <RankerScore>0.04779981064240724</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aaron Diamond AIDS Research Center</EntitySurfaceForm>
+	<EntityTextStart>1161</EntityTextStart>
+	<EntityTextEnd>1195</EntityTextEnd>
+	<LinkerScore>1.003361899289143</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aaron_Diamond_AIDS_Research_Center</WikiTitle>
+		<WikiTitleID>7556726</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aaron_Diamond_AIDS_Research_Center</WikiTitle> <WikiTitleID>7556726</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Aaron</EntitySurfaceForm>
+	<EntityTextStart>1161</EntityTextStart>
+	<EntityTextEnd>1166</EntityTextEnd>
+	<LinkerScore>0.3278204391229933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Aaron</WikiTitle>
+		<WikiTitleID>1006</WikiTitleID>
+		<RankerScore>0.09905131151634465</RankerScore>
+		<Attributes>priest	person	prophets	saint</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Aaron</WikiTitle> <WikiTitleID>1006</WikiTitleID> <RankerScore>0.09905131151634465</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hank_Aaron</WikiTitle> <WikiTitleID>14321</WikiTitleID> <RankerScore>0.04768476470498307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Boone</WikiTitle> <WikiTitleID>576712</WikiTitleID> <RankerScore>0.04769251558895221</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_(Nephite)</WikiTitle> <WikiTitleID>16421920</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Neville</WikiTitle> <WikiTitleID>579021</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Herr</WikiTitle> <WikiTitleID>2762100</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Davey</WikiTitle> <WikiTitleID>5003489</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_of_Aleth</WikiTitle> <WikiTitleID>5667813</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Aaronsohn</WikiTitle> <WikiTitleID>1466006</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Teitelbaum</WikiTitle> <WikiTitleID>2710643</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Willard</WikiTitle> <WikiTitleID>4882510</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_(Jaredite)</WikiTitle> <WikiTitleID>16387949</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_II</WikiTitle> <WikiTitleID>2128282</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Benward</WikiTitle> <WikiTitleID>4315393</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Carter</WikiTitle> <WikiTitleID>83108</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Looper</WikiTitle> <WikiTitleID>12974274</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Mauger</WikiTitle> <WikiTitleID>2574822</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Book_of_Mormon</WikiTitle> <WikiTitleID>3978</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_(Copt)</WikiTitle> <WikiTitleID>11195503</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Aaron_Broussard</WikiTitle> <WikiTitleID>2616789</WikiTitleID> <RankerScore>0.047386553422924714</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Diamond</EntitySurfaceForm>
+	<EntityTextStart>1167</EntityTextStart>
+	<EntityTextEnd>1174</EntityTextEnd>
+	<LinkerScore>0.32932281305002975</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Diamond</WikiTitle>
+		<WikiTitleID>8082</WikiTitleID>
+		<RankerScore>0.06532712420517031</RankerScore>
+		<Attributes>mineral	material</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Diamond</WikiTitle> <WikiTitleID>8082</WikiTitleID> <RankerScore>0.06532712420517031</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_recording_sales_certification</WikiTitle> <WikiTitleID>308242</WikiTitleID> <RankerScore>0.049665659409110004</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neil_Diamond</WikiTitle> <WikiTitleID>165113</WikiTitleID> <RankerScore>0.04721484692885494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_Comic_Distributors</WikiTitle> <WikiTitleID>1164411</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>RIAA_certification</WikiTitle> <WikiTitleID>308159</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_Aircraft_Industries</WikiTitle> <WikiTitleID>3445241</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_Multimedia</WikiTitle> <WikiTitleID>1851606</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond,_Illinois</WikiTitle> <WikiTitleID>111235</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond,_Missouri</WikiTitle> <WikiTitleID>124798</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_Light_Source</WikiTitle> <WikiTitleID>436077</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_(song)</WikiTitle> <WikiTitleID>14759923</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_(rapper)</WikiTitle> <WikiTitleID>18374273</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond,_Ohio</WikiTitle> <WikiTitleID>9617917</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond,_Oregon</WikiTitle> <WikiTitleID>18533862</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamonds_(suit)</WikiTitle> <WikiTitleID>2357860</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_D</WikiTitle> <WikiTitleID>3348779</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Anniversary</WikiTitle> <WikiTitleID>477069</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamond_(12012_album)</WikiTitle> <WikiTitleID>14813023</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diamant</WikiTitle> <WikiTitleID>82552</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>David_Diamond_(composer)</WikiTitle> <WikiTitleID>589996</WikiTitleID> <RankerScore>0.049281904085697936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AIDS</EntitySurfaceForm>
+	<EntityTextStart>1175</EntityTextStart>
+	<EntityTextEnd>1179</EntityTextEnd>
+	<LinkerScore>1.599965481110456</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>AIDS</WikiTitle>
+		<WikiTitleID>5069516</WikiTitleID>
+		<RankerScore>0.6108540677219282</RankerScore>
+		<Attributes>disease	disaster	disorder	syndrome</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.6108540677219282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_(journal)</WikiTitle> <WikiTitleID>5298132</WikiTitleID> <RankerScore>0.07115797854078344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_advocacy</WikiTitle> <WikiTitleID>2507389</WikiTitleID> <RankerScore>0.07115797854078344</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_denialism</WikiTitle> <WikiTitleID>275051</WikiTitleID> <RankerScore>0.10298942068432469</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_(computer_virus)</WikiTitle> <WikiTitleID>1034880</WikiTitleID> <RankerScore>0.07268257597139686</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS_origin</WikiTitle> <WikiTitleID>2340491</WikiTitleID> <RankerScore>0.07115797854078344</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New York</EntitySurfaceForm>
+	<EntityTextStart>1200</EntityTextStart>
+	<EntityTextEnd>1208</EntityTextEnd>
+	<LinkerScore>0.6310511964623762</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.13401471658687214</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.13401471658687214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.06786365230497668</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.049953262824994196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.0440099040166563</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>radar</EntitySurfaceForm>
+	<EntityTextStart>1291</EntityTextStart>
+	<EntityTextEnd>1296</EntityTextEnd>
+	<LinkerScore>1.0508194291477955</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Radar</WikiTitle>
+		<WikiTitleID>25676</WikiTitleID>
+		<RankerScore>0.22768789001466225</RankerScore>
+		<Attributes>avionics	instrument</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Radar</WikiTitle> <WikiTitleID>25676</WikiTitleID> <RankerScore>0.22768789001466225</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_radar</WikiTitle> <WikiTitleID>1280053</WikiTitleID> <RankerScore>0.08560267714325699</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Weather_radar</WikiTitle> <WikiTitleID>675776</WikiTitleID> <RankerScore>0.08096699447650259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radar_astronomy</WikiTitle> <WikiTitleID>264337</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hantsavichy_Radar</WikiTitle> <WikiTitleID>12607897</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doppler_radar</WikiTitle> <WikiTitleID>78446</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lichtenstein_radar</WikiTitle> <WikiTitleID>977144</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fire-control_radar</WikiTitle> <WikiTitleID>1493376</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chain_Home</WikiTitle> <WikiTitleID>382754</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Missile_guidance</WikiTitle> <WikiTitleID>419667</WikiTitleID> <RankerScore>0.08653463405222545</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bird flu</EntitySurfaceForm>
+	<EntityTextStart>1311</EntityTextStart>
+	<EntityTextEnd>1319</EntityTextEnd>
+	<LinkerScore>0.5995994226370077</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Avian_influenza</WikiTitle>
+		<WikiTitleID>442916</WikiTitleID>
+		<RankerScore>0.3282909841932861</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Avian_influenza</WikiTitle> <WikiTitleID>442916</WikiTitleID> <RankerScore>0.3282909841932861</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>0.31694793683347017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Bernard_Matthews_H5N1_outbreak</WikiTitle> <WikiTitleID>9398796</WikiTitleID> <RankerScore>0.08521960296875335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenzavirus_A</WikiTitle> <WikiTitleID>440479</WikiTitleID> <RankerScore>0.26954147600449024</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>bird</EntitySurfaceForm>
+	<EntityTextStart>1311</EntityTextStart>
+	<EntityTextEnd>1315</EntityTextEnd>
+	<LinkerScore>0.685440610077726</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Bird</WikiTitle>
+		<WikiTitleID>3410</WikiTitleID>
+		<RankerScore>0.16684668146844067</RankerScore>
+		<Attributes>animal</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Bird</WikiTitle> <WikiTitleID>3410</WikiTitleID> <RankerScore>0.16684668146844067</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_flight</WikiTitle> <WikiTitleID>1837609</WikiTitleID> <RankerScore>0.05296109864971637</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Columbidae</WikiTitle> <WikiTitleID>63355</WikiTitleID> <RankerScore>0.059274529808128494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pelican</WikiTitle> <WikiTitleID>69785</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Magpie</WikiTitle> <WikiTitleID>142879</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mistle_Thrush</WikiTitle> <WikiTitleID>185116</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partridge</WikiTitle> <WikiTitleID>63640</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Griffin</WikiTitle> <WikiTitleID>7713110</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Finch</WikiTitle> <WikiTitleID>11711</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Phoenix_(mythology)</WikiTitle> <WikiTitleID>49122</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardinal_(bird)</WikiTitle> <WikiTitleID>256611</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Baltimore_Orioles</WikiTitle> <WikiTitleID>4340</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arctic_Tern</WikiTitle> <WikiTitleID>239413</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Birdwatching</WikiTitle> <WikiTitleID>173575</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donor_(fairy_tale)</WikiTitle> <WikiTitleID>10836835</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flock_(birds)</WikiTitle> <WikiTitleID>8809081</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_birds</WikiTitle> <WikiTitleID>79104</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bird_people</WikiTitle> <WikiTitleID>1679146</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Flamingo</WikiTitle> <WikiTitleID>165927</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Buzzard</WikiTitle> <WikiTitleID>220053</WikiTitleID> <RankerScore>0.04240692294551262</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>flu</EntitySurfaceForm>
+	<EntityTextStart>1316</EntityTextStart>
+	<EntityTextEnd>1319</EntityTextEnd>
+	<LinkerScore>0.9495487134146717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza</WikiTitle>
+		<WikiTitleID>48333</WikiTitleID>
+		<RankerScore>0.599705161772494</RankerScore>
+		<Attributes>disease	loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza</WikiTitle> <WikiTitleID>48333</WikiTitleID> <RankerScore>0.599705161772494</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.2334666949116055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_flu</WikiTitle> <WikiTitleID>198796</WikiTitleID> <RankerScore>0.16682814331590048</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mutations</EntitySurfaceForm>
+	<EntityTextStart>1328</EntityTextStart>
+	<EntityTextEnd>1337</EntityTextEnd>
+	<LinkerScore>1.3491744370477368</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mutation</WikiTitle>
+		<WikiTitleID>19702</WikiTitleID>
+		<RankerScore>0.6033020791282645</RankerScore>
+		<Attributes>effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mutation</WikiTitle> <WikiTitleID>19702</WikiTitleID> <RankerScore>0.6033020791282645</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant_(Marvel_Comics)</WikiTitle> <WikiTitleID>7760245</WikiTitleID> <RankerScore>0.15550017216383308</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consonant_mutation</WikiTitle> <WikiTitleID>810257</WikiTitleID> <RankerScore>0.11652647035122753</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_morphology</WikiTitle> <WikiTitleID>2765748</WikiTitleID> <RankerScore>0.1246712783566749</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>1366</EntityTextStart>
+	<EntityTextEnd>1371</EntityTextEnd>
+	<LinkerScore>0.7383985817001594</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.49632517859116426</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.49632517859116426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.12367051678460815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.07913223406346406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07913223406346406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.2217398364972995</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccines</EntitySurfaceForm>
+	<EntityTextStart>1403</EntityTextStart>
+	<EntityTextEnd>1411</EntityTextEnd>
+	<LinkerScore>1.1314000059285099</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.6740462823309892</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.6740462823309892</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.14409376418074452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.1818599534882664</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>viruses</EntitySurfaceForm>
+	<EntityTextStart>1480</EntityTextStart>
+	<EntityTextEnd>1487</EntityTextEnd>
+	<LinkerScore>0.6133573961566148</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.4175357894608108</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.4175357894608108</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.16136450100033903</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.08507517197500558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viruses_in_the_Resident_Evil_series</WikiTitle> <WikiTitleID>12597121</WikiTitleID> <RankerScore>0.08507517197500558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bacteriophage</WikiTitle> <WikiTitleID>4185</WikiTitleID> <RankerScore>0.16587419361383335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poxviridae</WikiTitle> <WikiTitleID>1548205</WikiTitleID> <RankerScore>0.08507517197500558</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virulent</EntitySurfaceForm>
+	<EntityTextStart>1541</EntityTextStart>
+	<EntityTextEnd>1549</EntityTextEnd>
+	<LinkerScore>0.9826129033060039</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virulence</WikiTitle>
+		<WikiTitleID>406929</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virulence</WikiTitle> <WikiTitleID>406929</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mutation</EntitySurfaceForm>
+	<EntityTextStart>1550</EntityTextStart>
+	<EntityTextEnd>1558</EntityTextEnd>
+	<LinkerScore>1.2865529791739259</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mutation</WikiTitle>
+		<WikiTitleID>19702</WikiTitleID>
+		<RankerScore>0.3643633014308293</RankerScore>
+		<Attributes>effects</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mutation</WikiTitle> <WikiTitleID>19702</WikiTitleID> <RankerScore>0.3643633014308293</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutation_(genetic_algorithm)</WikiTitle> <WikiTitleID>555213</WikiTitleID> <RankerScore>0.09446659303971991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant_(Marvel_Comics)</WikiTitle> <WikiTitleID>7760245</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Consonant_mutation</WikiTitle> <WikiTitleID>810257</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutagen</WikiTitle> <WikiTitleID>20359</WikiTitleID> <RankerScore>0.07909504452826523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant_(fictional)</WikiTitle> <WikiTitleID>1003628</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Frameshift</WikiTitle> <WikiTitleID>487435</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Welsh_morphology</WikiTitle> <WikiTitleID>2765748</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immutable_object</WikiTitle> <WikiTitleID>197824</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutagenesis</WikiTitle> <WikiTitleID>19599</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sickle-cell_disease</WikiTitle> <WikiTitleID>28657</WikiTitleID> <RankerScore>0.057759382625148195</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccine</EntitySurfaceForm>
+	<EntityTextStart>1593</EntityTextStart>
+	<EntityTextEnd>1600</EntityTextEnd>
+	<LinkerScore>1.0374619527817814</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.4097985285103657</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.4097985285103657</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polio_vaccine</WikiTitle> <WikiTitleID>192198</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.12431877046101374</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HIV_vaccine</WikiTitle> <WikiTitleID>147473</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumps_vaccine</WikiTitle> <WikiTitleID>5264978</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Purity_Control</WikiTitle> <WikiTitleID>3453424</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.14868075032366831</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoculation</WikiTitle> <WikiTitleID>14798</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.0528669917841587</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Taiwan</EntitySurfaceForm>
+	<EntityTextStart>1627</EntityTextStart>
+	<EntityTextEnd>1633</EntityTextEnd>
+	<LinkerScore>0.5988780861063957</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Taiwan</WikiTitle>
+		<WikiTitleID>30107</WikiTitleID>
+		<RankerScore>0.11967351684560161</RankerScore>
+		<Attributes>dispute	island</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Taiwan</WikiTitle> <WikiTitleID>30107</WikiTitleID> <RankerScore>0.11967351684560161</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_China</WikiTitle> <WikiTitleID>25734</WikiTitleID> <RankerScore>0.06820072626671454</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_Taiwan</WikiTitle> <WikiTitleID>422000</WikiTitleID> <RankerScore>0.04552118506459122</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Political_status_of_Taiwan</WikiTitle> <WikiTitleID>66555</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_under_Japanese_rule</WikiTitle> <WikiTitleID>6020781</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_Taipei_national_football_team</WikiTitle> <WikiTitleID>1198587</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_national_baseball_team</WikiTitle> <WikiTitleID>3918558</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_Province</WikiTitle> <WikiTitleID>66744</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chinese_Professional_Baseball_League</WikiTitle> <WikiTitleID>3129937</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwan_Province,_People&apos;s_Republic_of_China</WikiTitle> <WikiTitleID>5695887</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_Taiwan</WikiTitle> <WikiTitleID>320555</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwanese_cuisine</WikiTitle> <WikiTitleID>30528</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Education_in_Taiwan</WikiTitle> <WikiTitleID>1133834</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Military_of_the_Republic_of_China</WikiTitle> <WikiTitleID>30095</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_China_Navy</WikiTitle> <WikiTitleID>1715978</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Culture_of_Taiwan</WikiTitle> <WikiTitleID>1381317</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_national_parks_of_Taiwan</WikiTitle> <WikiTitleID>10147908</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ulmus_parvifolia_&apos;Taiwan&apos;</WikiTitle> <WikiTitleID>16017700</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Taiwanese_aborigines</WikiTitle> <WikiTitleID>53787</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Politics_of_the_Republic_of_China</WikiTitle> <WikiTitleID>30091</WikiTitleID> <RankerScore>0.04509438657782898</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Academia Sinica</EntitySurfaceForm>
+	<EntityTextStart>1636</EntityTextStart>
+	<EntityTextEnd>1651</EntityTextEnd>
+	<LinkerScore>1.1469275129719168</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Academia_Sinica</WikiTitle>
+		<WikiTitleID>377858</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>academy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Academia_Sinica</WikiTitle> <WikiTitleID>377858</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Academia</EntitySurfaceForm>
+	<EntityTextStart>1636</EntityTextStart>
+	<EntityTextEnd>1644</EntityTextEnd>
+	<LinkerScore>0.8551233434047099</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Academia</WikiTitle>
+		<WikiTitleID>351220</WikiTitleID>
+		<RankerScore>0.42932773295839916</RankerScore>
+		<Attributes>loanword	dispute</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Academia</WikiTitle> <WikiTitleID>351220</WikiTitleID> <RankerScore>0.42932773295839916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academia_Peak</WikiTitle> <WikiTitleID>3888531</WikiTitleID> <RankerScore>0.18184785203926165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medieval_university</WikiTitle> <WikiTitleID>86344</WikiTitleID> <RankerScore>0.21671745669458636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Real_Academia_Española</WikiTitle> <WikiTitleID>59889</WikiTitleID> <RankerScore>0.17210695830775277</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccines</EntitySurfaceForm>
+	<EntityTextStart>1689</EntityTextStart>
+	<EntityTextEnd>1697</EntityTextEnd>
+	<LinkerScore>0.9945670797273158</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.6097564621933238</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.6097564621933238</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.1569861300793967</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.23325740772727938</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>1713</EntityTextStart>
+	<EntityTextEnd>1716</EntityTextEnd>
+	<LinkerScore>0.9641348362069246</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.2521576767186525</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.2521576767186525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.05730603634462055</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.08822216730653526</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.03543024233118775</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>genetically modified</EntitySurfaceForm>
+	<EntityTextStart>1729</EntityTextStart>
+	<EntityTextEnd>1749</EntityTextEnd>
+	<LinkerScore>1.0405781234252964</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Genetic_engineering</WikiTitle>
+		<WikiTitleID>12383</WikiTitleID>
+		<RankerScore>0.551832873049401</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Genetic_engineering</WikiTitle> <WikiTitleID>12383</WikiTitleID> <RankerScore>0.551832873049401</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetically_modified_organism</WikiTitle> <WikiTitleID>12339</WikiTitleID> <RankerScore>0.1916172199174178</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetically_modified_food</WikiTitle> <WikiTitleID>216102</WikiTitleID> <RankerScore>0.1504829802983596</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Transgenic_plant</WikiTitle> <WikiTitleID>264879</WikiTitleID> <RankerScore>0.10606692673482154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>specific immune response</EntitySurfaceForm>
+	<EntityTextStart>1762</EntityTextStart>
+	<EntityTextEnd>1786</EntityTextEnd>
+	<LinkerScore>1.077557634812317</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Adaptive_immune_system</WikiTitle>
+		<WikiTitleID>1664060</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Adaptive_immune_system</WikiTitle> <WikiTitleID>1664060</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>immune response</EntitySurfaceForm>
+	<EntityTextStart>1771</EntityTextStart>
+	<EntityTextEnd>1786</EntityTextEnd>
+	<LinkerScore>0.49538010930573934</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Immune_system</WikiTitle>
+		<WikiTitleID>14958</WikiTitleID>
+		<RankerScore>0.41562971964018114</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Immune_system</WikiTitle> <WikiTitleID>14958</WikiTitleID> <RankerScore>0.41562971964018114</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunology</WikiTitle> <WikiTitleID>14959</WikiTitleID> <RankerScore>0.06992724113086116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antibody</WikiTitle> <WikiTitleID>2362</WikiTitleID> <RankerScore>0.2556087012242823</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunity_(medical)</WikiTitle> <WikiTitleID>298547</WikiTitleID> <RankerScore>0.18890709687381418</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adaptive_immune_system</WikiTitle> <WikiTitleID>1664060</WikiTitleID> <RankerScore>0.06992724113086116</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>allow</EntitySurfaceForm>
+	<EntityTextStart>1796</EntityTextStart>
+	<EntityTextEnd>1801</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Allow</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccines</EntitySurfaceForm>
+	<EntityTextStart>1861</EntityTextStart>
+	<EntityTextEnd>1869</EntityTextEnd>
+	<LinkerScore>0.8561627826050503</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.6322067240708791</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.6322067240708791</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.14617128610635202</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.22162198982276896</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gene</EntitySurfaceForm>
+	<EntityTextStart>1909</EntityTextStart>
+	<EntityTextEnd>1913</EntityTextEnd>
+	<LinkerScore>0.9490898852825865</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gene</WikiTitle>
+		<WikiTitleID>4250553</WikiTitleID>
+		<RankerScore>0.4476646661187282</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gene</WikiTitle> <WikiTitleID>4250553</WikiTitleID> <RankerScore>0.4476646661187282</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genos</WikiTitle> <WikiTitleID>3987369</WikiTitleID> <RankerScore>0.06650830885980234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetics</WikiTitle> <WikiTitleID>12266</WikiTitleID> <RankerScore>0.12417782200240915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant</WikiTitle> <WikiTitleID>8407149</WikiTitleID> <RankerScore>0.06650830885980234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gene_expression</WikiTitle> <WikiTitleID>159266</WikiTitleID> <RankerScore>0.16212427643965335</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sickle_cell_trait</WikiTitle> <WikiTitleID>4280556</WikiTitleID> <RankerScore>0.06650830885980234</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biology_and_sexual_orientation</WikiTitle> <WikiTitleID>51614</WikiTitleID> <RankerScore>0.06650830885980234</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hemagglutinin</EntitySurfaceForm>
+	<EntityTextStart>1918</EntityTextStart>
+	<EntityTextEnd>1931</EntityTextEnd>
+	<LinkerScore>1.2453107931316645</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hemagglutinin</WikiTitle>
+		<WikiTitleID>501384</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hemagglutinin</WikiTitle> <WikiTitleID>501384</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>1952</EntityTextStart>
+	<EntityTextEnd>1957</EntityTextEnd>
+	<LinkerScore>1.127657159741243</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5981986012929179</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5981986012929179</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.11560432275635191</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.13850681000314236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07384513297379394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.07384513297379394</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>protein</EntitySurfaceForm>
+	<EntityTextStart>1966</EntityTextStart>
+	<EntityTextEnd>1973</EntityTextEnd>
+	<LinkerScore>1.5696492105204776</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Protein</WikiTitle>
+		<WikiTitleID>23634</WikiTitleID>
+		<RankerScore>0.422449792491825</RankerScore>
+		<Attributes>protein</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Protein</WikiTitle> <WikiTitleID>23634</WikiTitleID> <RankerScore>0.422449792491825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_in_nutrition</WikiTitle> <WikiTitleID>6531493</WikiTitleID> <RankerScore>0.054777705248883354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_sequencing</WikiTitle> <WikiTitleID>1076110</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bodybuilding_supplement</WikiTitle> <WikiTitleID>2383985</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Regulation_of_gene_expression</WikiTitle> <WikiTitleID>553121</WikiTitleID> <RankerScore>0.07331252529420844</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_metabolism</WikiTitle> <WikiTitleID>7663895</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Membrane_protein</WikiTitle> <WikiTitleID>168369</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_precursor</WikiTitle> <WikiTitleID>5452760</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Soy_protein</WikiTitle> <WikiTitleID>7619431</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Peptide_sequence</WikiTitle> <WikiTitleID>1107659</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Proteinuria</WikiTitle> <WikiTitleID>148008</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Glycoprotein</WikiTitle> <WikiTitleID>164912</WikiTitleID> <RankerScore>0.04993999744056479</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>immune systems</EntitySurfaceForm>
+	<EntityTextStart>2006</EntityTextStart>
+	<EntityTextEnd>2020</EntityTextEnd>
+	<LinkerScore>1.036070273595139</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Immune_system</WikiTitle>
+		<WikiTitleID>14958</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Immune_system</WikiTitle> <WikiTitleID>14958</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>2045</EntityTextStart>
+	<EntityTextEnd>2048</EntityTextEnd>
+	<LinkerScore>1.521752579652428</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.3223926926283742</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.3223926926283742</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.06204910235836326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.074293070240595</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.0318391255748628</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA sequence</EntitySurfaceForm>
+	<EntityTextStart>2045</EntityTextStart>
+	<EntityTextEnd>2057</EntityTextEnd>
+	<LinkerScore>1.078694659652439</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA_sequence</WikiTitle>
+		<WikiTitleID>331535</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gene</EntitySurfaceForm>
+	<EntityTextStart>2066</EntityTextStart>
+	<EntityTextEnd>2070</EntityTextEnd>
+	<LinkerScore>0.9354139759049614</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gene</WikiTitle>
+		<WikiTitleID>4250553</WikiTitleID>
+		<RankerScore>0.4922618926732126</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gene</WikiTitle> <WikiTitleID>4250553</WikiTitleID> <RankerScore>0.4922618926732126</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genos</WikiTitle> <WikiTitleID>3987369</WikiTitleID> <RankerScore>0.056590850586442934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetics</WikiTitle> <WikiTitleID>12266</WikiTitleID> <RankerScore>0.11034252698042483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant</WikiTitle> <WikiTitleID>8407149</WikiTitleID> <RankerScore>0.056590850586442934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gene_expression</WikiTitle> <WikiTitleID>159266</WikiTitleID> <RankerScore>0.1710321780005907</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sickle_cell_trait</WikiTitle> <WikiTitleID>4280556</WikiTitleID> <RankerScore>0.056590850586442934</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biology_and_sexual_orientation</WikiTitle> <WikiTitleID>51614</WikiTitleID> <RankerScore>0.056590850586442934</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hemagglutinin</EntitySurfaceForm>
+	<EntityTextStart>2085</EntityTextStart>
+	<EntityTextEnd>2098</EntityTextEnd>
+	<LinkerScore>1.217696761139724</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hemagglutinin</WikiTitle>
+		<WikiTitleID>501384</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hemagglutinin</WikiTitle> <WikiTitleID>501384</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>gene</EntitySurfaceForm>
+	<EntityTextStart>2120</EntityTextStart>
+	<EntityTextEnd>2124</EntityTextEnd>
+	<LinkerScore>0.8733948560294252</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Gene</WikiTitle>
+		<WikiTitleID>4250553</WikiTitleID>
+		<RankerScore>0.46010921483699013</RankerScore>
+		<Attributes>unit</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gene</WikiTitle> <WikiTitleID>4250553</WikiTitleID> <RankerScore>0.46010921483699013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genos</WikiTitle> <WikiTitleID>3987369</WikiTitleID> <RankerScore>0.06501427906105559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetics</WikiTitle> <WikiTitleID>12266</WikiTitleID> <RankerScore>0.06501427906105559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mutant</WikiTitle> <WikiTitleID>8407149</WikiTitleID> <RankerScore>0.10590060583543388</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gene_expression</WikiTitle> <WikiTitleID>159266</WikiTitleID> <RankerScore>0.17393306308335363</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sickle_cell_trait</WikiTitle> <WikiTitleID>4280556</WikiTitleID> <RankerScore>0.06501427906105559</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biology_and_sexual_orientation</WikiTitle> <WikiTitleID>51614</WikiTitleID> <RankerScore>0.06501427906105559</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>H5N1</EntitySurfaceForm>
+	<EntityTextStart>2168</EntityTextStart>
+	<EntityTextEnd>2172</EntityTextEnd>
+	<LinkerScore>1.1309107942839172</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>2234</EntityTextStart>
+	<EntityTextEnd>2239</EntityTextEnd>
+	<LinkerScore>0.9545396114259609</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5728927470751523</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5728927470751523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.117320293584633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.1577559107400862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07601552430006427</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.07601552430006427</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>2242</EntityTextStart>
+	<EntityTextEnd>2245</EntityTextEnd>
+	<LinkerScore>1.388198425943616</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.28182948010376857</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.28182948010376857</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.03336487267531442</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.06325680212596148</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.0365616967702915</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA vaccines</EntitySurfaceForm>
+	<EntityTextStart>2242</EntityTextStart>
+	<EntityTextEnd>2254</EntityTextEnd>
+	<LinkerScore>1.100334335492694</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA_vaccination</WikiTitle>
+		<WikiTitleID>45570</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA_vaccination</WikiTitle> <WikiTitleID>45570</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccines</EntitySurfaceForm>
+	<EntityTextStart>2246</EntityTextStart>
+	<EntityTextEnd>2254</EntityTextEnd>
+	<LinkerScore>0.9321387039416198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.6217642868587326</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.6217642868587326</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.16586559094914316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.21237012219212417</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>refrigeration</EntitySurfaceForm>
+	<EntityTextStart>2315</EntityTextStart>
+	<EntityTextEnd>2328</EntityTextEnd>
+	<LinkerScore>1.0939410446351243</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Refrigeration</WikiTitle>
+		<WikiTitleID>46238</WikiTitleID>
+		<RankerScore>0.7355129478853162</RankerScore>
+		<Attributes>thermodynamics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Refrigeration</WikiTitle> <WikiTitleID>46238</WikiTitleID> <RankerScore>0.7355129478853162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Refrigerator</WikiTitle> <WikiTitleID>1036259</WikiTitleID> <RankerScore>0.26448705211468376</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>muscle</EntitySurfaceForm>
+	<EntityTextStart>2447</EntityTextStart>
+	<EntityTextEnd>2453</EntityTextEnd>
+	<LinkerScore>0.68183115626782</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muscle</WikiTitle>
+		<WikiTitleID>19841</WikiTitleID>
+		<RankerScore>0.39269706985466996</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Muscle</WikiTitle> <WikiTitleID>19841</WikiTitleID> <RankerScore>0.39269706985466996</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Myalgia</WikiTitle> <WikiTitleID>149467</WikiTitleID> <RankerScore>0.08063268965614877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Skeletal_muscle</WikiTitle> <WikiTitleID>380541</WikiTitleID> <RankerScore>0.12208520573694541</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardiac_muscle</WikiTitle> <WikiTitleID>424348</WikiTitleID> <RankerScore>0.16268696578378966</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_neuron</WikiTitle> <WikiTitleID>152964</WikiTitleID> <RankerScore>0.08063268965614877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuromuscular_disease</WikiTitle> <WikiTitleID>4543565</WikiTitleID> <RankerScore>0.08063268965614877</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_fitness</WikiTitle> <WikiTitleID>432986</WikiTitleID> <RankerScore>0.08063268965614877</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>muscle tissue</EntitySurfaceForm>
+	<EntityTextStart>2447</EntityTextStart>
+	<EntityTextEnd>2460</EntityTextEnd>
+	<LinkerScore>1.059805195448495</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muscle</WikiTitle>
+		<WikiTitleID>19841</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Muscle</WikiTitle> <WikiTitleID>19841</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tissue</EntitySurfaceForm>
+	<EntityTextStart>2454</EntityTextStart>
+	<EntityTextEnd>2460</EntityTextEnd>
+	<LinkerScore>0.5054797932208368</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tissue_(biology)</WikiTitle>
+		<WikiTitleID>103915</WikiTitleID>
+		<RankerScore>0.3198411105133599</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tissue_(biology)</WikiTitle> <WikiTitleID>103915</WikiTitleID> <RankerScore>0.3198411105133599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tissue_paper</WikiTitle> <WikiTitleID>2026564</WikiTitleID> <RankerScore>0.07216309679686217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Facial_tissue</WikiTitle> <WikiTitleID>2894782</WikiTitleID> <RankerScore>0.07216309679686217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_(biology)</WikiTitle> <WikiTitleID>4230</WikiTitleID> <RankerScore>0.19908374950021612</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Toilet_paper</WikiTitle> <WikiTitleID>37993</WikiTitleID> <RankerScore>0.07216309679686217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stroma_(animal_tissue)</WikiTitle> <WikiTitleID>7118863</WikiTitleID> <RankerScore>0.07216309679686217</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Connective_tissue</WikiTitle> <WikiTitleID>228845</WikiTitleID> <RankerScore>0.12025965600211315</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thallus</WikiTitle> <WikiTitleID>316528</WikiTitleID> <RankerScore>0.07216309679686217</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>2488</EntityTextStart>
+	<EntityTextEnd>2491</EntityTextEnd>
+	<LinkerScore>1.4977132561299615</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.24273775492404573</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.24273775492404573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.04712206838948999</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.05146840081231548</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.03874539858083227</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>electroporation</EntitySurfaceForm>
+	<EntityTextStart>2571</EntityTextStart>
+	<EntityTextEnd>2586</EntityTextEnd>
+	<LinkerScore>1.0334523429690767</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electroporation</WikiTitle>
+		<WikiTitleID>39619</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electroporation</WikiTitle> <WikiTitleID>39619</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>electroporation</EntitySurfaceForm>
+	<EntityTextStart>2647</EntityTextStart>
+	<EntityTextEnd>2662</EntityTextEnd>
+	<LinkerScore>1.032814060572075</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electroporation</WikiTitle>
+		<WikiTitleID>39619</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electroporation</WikiTitle> <WikiTitleID>39619</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccine</EntitySurfaceForm>
+	<EntityTextStart>2668</EntityTextStart>
+	<EntityTextEnd>2675</EntityTextEnd>
+	<LinkerScore>1.0336146686960643</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.3825984834407986</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.3825984834407986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polio_vaccine</WikiTitle> <WikiTitleID>192198</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.13121040529741707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HIV_vaccine</WikiTitle> <WikiTitleID>147473</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumps_vaccine</WikiTitle> <WikiTitleID>5264978</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Purity_Control</WikiTitle> <WikiTitleID>3453424</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.13691668820772995</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoculation</WikiTitle> <WikiTitleID>14798</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.05821240384234241</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>stimuli</EntitySurfaceForm>
+	<EntityTextStart>2710</EntityTextStart>
+	<EntityTextEnd>2717</EntityTextEnd>
+	<LinkerScore>-0.014953860388533718</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Signal_transduction</WikiTitle>
+		<WikiTitleID>28857</WikiTitleID>
+		<RankerScore>0.3177182424102956</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Stimulus_(physiology)</WikiTitle> <WikiTitleID>569399</WikiTitleID> <RankerScore>0.2824588524757638</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stimulation</WikiTitle> <WikiTitleID>533196</WikiTitleID> <RankerScore>0.23529032227465566</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Signal_transduction</WikiTitle> <WikiTitleID>28857</WikiTitleID> <RankerScore>0.3177182424102956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Classical_conditioning</WikiTitle> <WikiTitleID>188540</WikiTitleID> <RankerScore>0.1645325828392847</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>injection</EntitySurfaceForm>
+	<EntityTextStart>2725</EntityTextStart>
+	<EntityTextEnd>2734</EntityTextEnd>
+	<LinkerScore>0.10462735771368703</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Injection_(medicine)</WikiTitle>
+		<WikiTitleID>665909</WikiTitleID>
+		<RankerScore>0.3638255041925715</RankerScore>
+		<Attributes>route	form</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Injection_(medicine)</WikiTitle> <WikiTitleID>665909</WikiTitleID> <RankerScore>0.3638255041925715</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Injective_function</WikiTitle> <WikiTitleID>45196</WikiTitleID> <RankerScore>0.14407441986902642</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fuel_injection</WikiTitle> <WikiTitleID>37161</WikiTitleID> <RankerScore>0.13462917397247592</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Intramuscular_injection</WikiTitle> <WikiTitleID>334821</WikiTitleID> <RankerScore>0.22284172799345037</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Depo-Provera</WikiTitle> <WikiTitleID>416627</WikiTitleID> <RankerScore>0.13462917397247592</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>electrical field</EntitySurfaceForm>
+	<EntityTextStart>2755</EntityTextStart>
+	<EntityTextEnd>2771</EntityTextEnd>
+	<LinkerScore>0.9586483943557026</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Electric_field</WikiTitle>
+		<WikiTitleID>41092</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>concept	quantity</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Electric_field</WikiTitle> <WikiTitleID>41092</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DNA</EntitySurfaceForm>
+	<EntityTextStart>2781</EntityTextStart>
+	<EntityTextEnd>2784</EntityTextEnd>
+	<LinkerScore>1.4664055050598253</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>DNA</WikiTitle>
+		<WikiTitleID>7955</WikiTitleID>
+		<RankerScore>0.2677099243181571</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>DNA</WikiTitle> <WikiTitleID>7955</WikiTitleID> <RankerScore>0.2677099243181571</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(band)</WikiTitle> <WikiTitleID>298291</WikiTitleID> <RankerScore>0.04495786810154394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetic_fingerprinting</WikiTitle> <WikiTitleID>44290</WikiTitleID> <RankerScore>0.051742539333753536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_DNA_Disciples</WikiTitle> <WikiTitleID>3206905</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(newspaper)</WikiTitle> <WikiTitleID>2527780</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(Red_Dwarf_episode)</WikiTitle> <WikiTitleID>7452762</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Oy</WikiTitle> <WikiTitleID>8846876</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_sequence</WikiTitle> <WikiTitleID>331535</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Norwegian_Labour_Party</WikiTitle> <WikiTitleID>255341</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_replication</WikiTitle> <WikiTitleID>9015</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_Magazine</WikiTitle> <WikiTitleID>7364811</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(film)</WikiTitle> <WikiTitleID>17022698</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genealogical_DNA_test</WikiTitle> <WikiTitleID>2282128</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nucleic_acid</WikiTitle> <WikiTitleID>21496</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_DNA_tested_mummies</WikiTitle> <WikiTitleID>3775846</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Douglas_Adams</WikiTitle> <WikiTitleID>8091</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mitochondrial_DNA</WikiTitle> <WikiTitleID>89796</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>DNA_(album)</WikiTitle> <WikiTitleID>670800</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Rape</WikiTitle> <WikiTitleID>7980471</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parental_testing</WikiTitle> <WikiTitleID>235169</WikiTitleID> <RankerScore>0.03738762754391444</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>muscle cells</EntitySurfaceForm>
+	<EntityTextStart>2799</EntityTextStart>
+	<EntityTextEnd>2811</EntityTextEnd>
+	<LinkerScore>0.09010494202307348</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Skeletal_muscle</WikiTitle>
+		<WikiTitleID>380541</WikiTitleID>
+		<RankerScore>0.3120872772723535</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Skeletal_muscle</WikiTitle> <WikiTitleID>380541</WikiTitleID> <RankerScore>0.3120872772723535</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muscle</WikiTitle> <WikiTitleID>19841</WikiTitleID> <RankerScore>0.3100351666556206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Myocardium</WikiTitle> <WikiTitleID>502364</WikiTitleID> <RankerScore>0.1607396745614059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Myocyte</WikiTitle> <WikiTitleID>571549</WikiTitleID> <RankerScore>0.21713788151061994</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>muscle</EntitySurfaceForm>
+	<EntityTextStart>2799</EntityTextStart>
+	<EntityTextEnd>2805</EntityTextEnd>
+	<LinkerScore>0.5396177722135505</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Muscle</WikiTitle>
+		<WikiTitleID>19841</WikiTitleID>
+		<RankerScore>0.3584153286598525</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Muscle</WikiTitle> <WikiTitleID>19841</WikiTitleID> <RankerScore>0.3584153286598525</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Myalgia</WikiTitle> <WikiTitleID>149467</WikiTitleID> <RankerScore>0.07899155091263636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Skeletal_muscle</WikiTitle> <WikiTitleID>380541</WikiTitleID> <RankerScore>0.13879211096999552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cardiac_muscle</WikiTitle> <WikiTitleID>424348</WikiTitleID> <RankerScore>0.1868263567196065</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Motor_neuron</WikiTitle> <WikiTitleID>152964</WikiTitleID> <RankerScore>0.07899155091263636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Neuromuscular_disease</WikiTitle> <WikiTitleID>4543565</WikiTitleID> <RankerScore>0.07899155091263636</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physical_fitness</WikiTitle> <WikiTitleID>432986</WikiTitleID> <RankerScore>0.07899155091263636</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cells</EntitySurfaceForm>
+	<EntityTextStart>2806</EntityTextStart>
+	<EntityTextEnd>2811</EntityTextEnd>
+	<LinkerScore>1.178244177534979</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cell_(biology)</WikiTitle>
+		<WikiTitleID>4230</WikiTitleID>
+		<RankerScore>0.26940691906724756</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cell_(biology)</WikiTitle> <WikiTitleID>4230</WikiTitleID> <RankerScore>0.26940691906724756</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_(geometry)</WikiTitle> <WikiTitleID>220665</WikiTitleID> <RankerScore>0.0473581429061017</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Clandestine_cell_system</WikiTitle> <WikiTitleID>14558092</WikiTitleID> <RankerScore>0.03730375351900415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prison_cell</WikiTitle> <WikiTitleID>2519135</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_(music)</WikiTitle> <WikiTitleID>1087790</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_cell</WikiTitle> <WikiTitleID>23977</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Somatic_cell</WikiTitle> <WikiTitleID>207754</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solar_cell</WikiTitle> <WikiTitleID>29373</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_biology</WikiTitle> <WikiTitleID>6339</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Monastery</WikiTitle> <WikiTitleID>45856</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Braille</WikiTitle> <WikiTitleID>3933</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Blood_cell</WikiTitle> <WikiTitleID>67159</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Partition_of_a_set</WikiTitle> <WikiTitleID>340240</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_culture</WikiTitle> <WikiTitleID>1106830</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Battery_(electricity)</WikiTitle> <WikiTitleID>4198</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_(comics)</WikiTitle> <WikiTitleID>5344103</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wet_cell</WikiTitle> <WikiTitleID>1595221</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chondrocyte</WikiTitle> <WikiTitleID>1309267</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Electrochemical_cell</WikiTitle> <WikiTitleID>10339</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cell_(EDA)</WikiTitle> <WikiTitleID>16107311</WikiTitleID> <RankerScore>0.037995952029861564</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Proceedings of the National Academy of Sciences</EntitySurfaceForm>
+	<EntityTextStart>2870</EntityTextStart>
+	<EntityTextEnd>2917</EntityTextEnd>
+	<LinkerScore>1.1222864284155853</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Proceedings_of_the_National_Academy_of_Sciences</WikiTitle>
+		<WikiTitleID>224259</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>journal	academy</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Proceedings_of_the_National_Academy_of_Sciences</WikiTitle> <WikiTitleID>224259</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>National Academy of Sciences</EntitySurfaceForm>
+	<EntityTextStart>2889</EntityTextStart>
+	<EntityTextEnd>2917</EntityTextEnd>
+	<LinkerScore>1.1305571359980207</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_National_Academy_of_Sciences</WikiTitle>
+		<WikiTitleID>46510</WikiTitleID>
+		<RankerScore>0.3657717215182426</RankerScore>
+		<Attributes>academy	organization	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_National_Academy_of_Sciences</WikiTitle> <WikiTitleID>46510</WikiTitleID> <RankerScore>0.3657717215182426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Academy_of_Sciences</WikiTitle> <WikiTitleID>2436666</WikiTitleID> <RankerScore>0.10948467922550828</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Armenian_Academy_of_Sciences</WikiTitle> <WikiTitleID>3712844</WikiTitleID> <RankerScore>0.08485795305465109</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Emissions_trading</WikiTitle> <WikiTitleID>37104</WikiTitleID> <RankerScore>0.0879771292403196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Academy_of_Sciences_of_Ukraine</WikiTitle> <WikiTitleID>2281470</WikiTitleID> <RankerScore>0.0879771292403196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_members_of_the_National_Academy_of_Sciences</WikiTitle> <WikiTitleID>2123336</WikiTitleID> <RankerScore>0.0879771292403196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_Academy_of_Sciences</WikiTitle> <WikiTitleID>374556</WikiTitleID> <RankerScore>0.0879771292403196</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_Academy_of_Sciences</WikiTitle> <WikiTitleID>3709875</WikiTitleID> <RankerScore>0.0879771292403196</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>consensus sequence</EntitySurfaceForm>
+	<EntityTextStart>2947</EntityTextStart>
+	<EntityTextEnd>2965</EntityTextEnd>
+	<LinkerScore>1.0118814991833602</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Consensus_sequence</WikiTitle>
+		<WikiTitleID>767937</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>bioinformatics</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Consensus_sequence</WikiTitle> <WikiTitleID>767937</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>immunize</EntitySurfaceForm>
+	<EntityTextStart>2969</EntityTextStart>
+	<EntityTextEnd>2977</EntityTextEnd>
+	<LinkerScore>0.14656580120797724</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Immunization</WikiTitle>
+		<WikiTitleID>284029</WikiTitleID>
+		<RankerScore>0.42708271969119066</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Immunization</WikiTitle> <WikiTitleID>284029</WikiTitleID> <RankerScore>0.42708271969119066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.4215350437345562</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunization_(finance)</WikiTitle> <WikiTitleID>1297934</WikiTitleID> <RankerScore>0.15138223657425318</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mice</EntitySurfaceForm>
+	<EntityTextStart>2978</EntityTextStart>
+	<EntityTextEnd>2982</EntityTextEnd>
+	<LinkerScore>0.49381921584437943</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mouse</WikiTitle>
+		<WikiTitleID>18845</WikiTitleID>
+		<RankerScore>0.26481903488544567</RankerScore>
+		<Attributes>rodent	mouse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mouse</WikiTitle> <WikiTitleID>18845</WikiTitleID> <RankerScore>0.26481903488544567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(computing)</WikiTitle> <WikiTitleID>7056</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_Mouse</WikiTitle> <WikiTitleID>575890</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knockout_mouse</WikiTitle> <WikiTitleID>340919</WikiTitleID> <RankerScore>0.10142179409372683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(set_theory)</WikiTitle> <WikiTitleID>3781877</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antechinus</WikiTitle> <WikiTitleID>2815219</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetically_modified_organism</WikiTitle> <WikiTitleID>12339</WikiTitleID> <RankerScore>0.1434322349998683</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fancy_mouse</WikiTitle> <WikiTitleID>2361916</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brown_Rat</WikiTitle> <WikiTitleID>56109</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murinae</WikiTitle> <WikiTitleID>1305118</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muroidea</WikiTitle> <WikiTitleID>495263</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fear_of_mice</WikiTitle> <WikiTitleID>4792629</WikiTitleID> <RankerScore>0.054480770668995475</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mice</EntitySurfaceForm>
+	<EntityTextStart>2988</EntityTextStart>
+	<EntityTextEnd>2992</EntityTextEnd>
+	<LinkerScore>0.5095161718320285</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mouse</WikiTitle>
+		<WikiTitleID>18845</WikiTitleID>
+		<RankerScore>0.26238275974952835</RankerScore>
+		<Attributes>rodent	mouse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mouse</WikiTitle> <WikiTitleID>18845</WikiTitleID> <RankerScore>0.26238275974952835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(computing)</WikiTitle> <WikiTitleID>7056</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_Mouse</WikiTitle> <WikiTitleID>575890</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knockout_mouse</WikiTitle> <WikiTitleID>340919</WikiTitleID> <RankerScore>0.101793066114945</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(set_theory)</WikiTitle> <WikiTitleID>3781877</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antechinus</WikiTitle> <WikiTitleID>2815219</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetically_modified_organism</WikiTitle> <WikiTitleID>12339</WikiTitleID> <RankerScore>0.13488827251186408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fancy_mouse</WikiTitle> <WikiTitleID>2361916</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brown_Rat</WikiTitle> <WikiTitleID>56109</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murinae</WikiTitle> <WikiTitleID>1305118</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muroidea</WikiTitle> <WikiTitleID>495263</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fear_of_mice</WikiTitle> <WikiTitleID>4792629</WikiTitleID> <RankerScore>0.0556595446248514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>antibody</EntitySurfaceForm>
+	<EntityTextStart>3007</EntityTextStart>
+	<EntityTextEnd>3015</EntityTextEnd>
+	<LinkerScore>1.0970996069481784</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Antibody</WikiTitle>
+		<WikiTitleID>2362</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Antibody</WikiTitle> <WikiTitleID>2362</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>viruses</EntitySurfaceForm>
+	<EntityTextStart>3064</EntityTextStart>
+	<EntityTextEnd>3071</EntityTextEnd>
+	<LinkerScore>0.6628669650272669</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.41834933635116117</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.41834933635116117</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.1539387184076976</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.0898639554631953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Viruses_in_the_Resident_Evil_series</WikiTitle> <WikiTitleID>12597121</WikiTitleID> <RankerScore>0.0898639554631953</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bacteriophage</WikiTitle> <WikiTitleID>4185</WikiTitleID> <RankerScore>0.15812007885155518</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poxviridae</WikiTitle> <WikiTitleID>1548205</WikiTitleID> <RankerScore>0.0898639554631953</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>H5N1</EntitySurfaceForm>
+	<EntityTextStart>3101</EntityTextStart>
+	<EntityTextEnd>3105</EntityTextEnd>
+	<LinkerScore>1.051073868797634</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle>
+		<WikiTitleID>1019908</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Influenza_A_virus_subtype_H5N1</WikiTitle> <WikiTitleID>1019908</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>tree</EntitySurfaceForm>
+	<EntityTextStart>3106</EntityTextStart>
+	<EntityTextEnd>3110</EntityTextEnd>
+	<LinkerScore>0.6810683527135757</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Tree</WikiTitle>
+		<WikiTitleID>30579</WikiTitleID>
+		<RankerScore>0.11051930255824394</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Tree</WikiTitle> <WikiTitleID>30579</WikiTitleID> <RankerScore>0.11051930255824394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_(graph_theory)</WikiTitle> <WikiTitleID>48560</WikiTitleID> <RankerScore>0.052670552355661426</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_(data_structure)</WikiTitle> <WikiTitleID>30806</WikiTitleID> <RankerScore>0.04833398583335678</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_structure</WikiTitle> <WikiTitleID>41821</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_(descriptive_set_theory)</WikiTitle> <WikiTitleID>2190732</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_(set_theory)</WikiTitle> <WikiTitleID>704160</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Game_tree</WikiTitle> <WikiTitleID>267355</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Family_tree_of_Muhammad</WikiTitle> <WikiTitleID>2144891</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_tree</WikiTitle> <WikiTitleID>7770</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christmas_tree_(oil_well)</WikiTitle> <WikiTitleID>1902795</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Trees_in_mythology</WikiTitle> <WikiTitleID>1078747</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treeing</WikiTitle> <WikiTitleID>2383614</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prumnopitys_taxifolia</WikiTitle> <WikiTitleID>301778</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_view</WikiTitle> <WikiTitleID>3110614</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Family_tree_of_Ali</WikiTitle> <WikiTitleID>2163743</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>First_Muslim_Dynasty</WikiTitle> <WikiTitleID>4522410</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Urosaurus</WikiTitle> <WikiTitleID>334399</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Quadtree</WikiTitle> <WikiTitleID>577097</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_of_life</WikiTitle> <WikiTitleID>30710</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tree_of_Life_(Judeo-Christian)</WikiTitle> <WikiTitleID>174387</WikiTitleID> <RankerScore>0.0463809505442787</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>mice</EntitySurfaceForm>
+	<EntityTextStart>3159</EntityTextStart>
+	<EntityTextEnd>3163</EntityTextEnd>
+	<LinkerScore>0.33036722546710523</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mouse</WikiTitle>
+		<WikiTitleID>18845</WikiTitleID>
+		<RankerScore>0.19215088064360222</RankerScore>
+		<Attributes>rodent	mouse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mouse</WikiTitle> <WikiTitleID>18845</WikiTitleID> <RankerScore>0.19215088064360222</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(computing)</WikiTitle> <WikiTitleID>7056</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>House_Mouse</WikiTitle> <WikiTitleID>575890</WikiTitleID> <RankerScore>0.09278711307758378</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Knockout_mouse</WikiTitle> <WikiTitleID>340919</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mouse_(set_theory)</WikiTitle> <WikiTitleID>3781877</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Antechinus</WikiTitle> <WikiTitleID>2815219</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Genetically_modified_organism</WikiTitle> <WikiTitleID>12339</WikiTitleID> <RankerScore>0.10577421834102664</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fancy_mouse</WikiTitle> <WikiTitleID>2361916</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Brown_Rat</WikiTitle> <WikiTitleID>56109</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Murinae</WikiTitle> <WikiTitleID>1305118</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Muroidea</WikiTitle> <WikiTitleID>495263</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Fear_of_mice</WikiTitle> <WikiTitleID>4792629</WikiTitleID> <RankerScore>0.0676986431041986</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>3192</EntityTextStart>
+	<EntityTextEnd>3197</EntityTextEnd>
+	<LinkerScore>0.6502633135818212</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5491384860169719</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5491384860169719</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.13489752282461157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.15107307519574822</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.08244545798133412</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.08244545798133412</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virologist</EntitySurfaceForm>
+	<EntityTextStart>3320</EntityTextStart>
+	<EntityTextEnd>3330</EntityTextEnd>
+	<LinkerScore>1.0373422523690086</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virology</WikiTitle>
+		<WikiTitleID>32772</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virology</WikiTitle> <WikiTitleID>32772</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Peter Palese</EntitySurfaceForm>
+	<EntityTextStart>3331</EntityTextStart>
+	<EntityTextEnd>3343</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Peter_Palese</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>microbiology</EntitySurfaceForm>
+	<EntityTextStart>3357</EntityTextStart>
+	<EntityTextEnd>3369</EntityTextEnd>
+	<LinkerScore>1.2108560657098169</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Microbiology</WikiTitle>
+		<WikiTitleID>19909</WikiTitleID>
+		<RankerScore>0.669803828339157</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Microbiology</WikiTitle> <WikiTitleID>19909</WikiTitleID> <RankerScore>0.669803828339157</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medical_microbiology</WikiTitle> <WikiTitleID>9949565</WikiTitleID> <RankerScore>0.14696280028768913</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Food_microbiology</WikiTitle> <WikiTitleID>7073591</WikiTitleID> <RankerScore>0.183233371373154</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>department</EntitySurfaceForm>
+	<EntityTextStart>3370</EntityTextStart>
+	<EntityTextEnd>3380</EntityTextEnd>
+	<LinkerScore>0.1678701681508401</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Departments_of_France</WikiTitle>
+		<WikiTitleID>38523</WikiTitleID>
+		<RankerScore>0.08793375386731643</RankerScore>
+		<Attributes>list	subdivision</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Departments_of_France</WikiTitle> <WikiTitleID>38523</WikiTitleID> <RankerScore>0.08793375386731643</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_El_Salvador</WikiTitle> <WikiTitleID>728040</WikiTitleID> <RankerScore>0.05858523306322933</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Colombia</WikiTitle> <WikiTitleID>549204</WikiTitleID> <RankerScore>0.04956980030072499</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Department_(administrative_division)</WikiTitle> <WikiTitleID>3329998</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Guatemala</WikiTitle> <WikiTitleID>449861</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Nicaragua</WikiTitle> <WikiTitleID>591079</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Argentina</WikiTitle> <WikiTitleID>2341159</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Burkina_Faso</WikiTitle> <WikiTitleID>1995443</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Honduras</WikiTitle> <WikiTitleID>317686</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Bolivia</WikiTitle> <WikiTitleID>670485</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ministry_(government_department)</WikiTitle> <WikiTitleID>859401</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Niger</WikiTitle> <WikiTitleID>689888</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Academic_department</WikiTitle> <WikiTitleID>408044</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Côte_d&apos;Ivoire</WikiTitle> <WikiTitleID>673520</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departmentalization</WikiTitle> <WikiTitleID>630371</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Uruguay</WikiTitle> <WikiTitleID>689626</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Paraguay</WikiTitle> <WikiTitleID>689446</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Overseas_department</WikiTitle> <WikiTitleID>338831</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_Chad</WikiTitle> <WikiTitleID>2707964</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Departments_of_the_United_Kingdom_Government</WikiTitle> <WikiTitleID>301386</WikiTitleID> <RankerScore>0.04728889486874878</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mount Sinai</EntitySurfaceForm>
+	<EntityTextStart>3388</EntityTextStart>
+	<EntityTextEnd>3399</EntityTextEnd>
+	<LinkerScore>0.43019238375710156</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mount_Sinai_Hospital,_New_York</WikiTitle>
+		<WikiTitleID>1241281</WikiTitleID>
+		<RankerScore>0.3616863529777762</RankerScore>
+		<Attributes>hospital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mount_Sinai</WikiTitle> <WikiTitleID>61768</WikiTitleID> <RankerScore>0.20858649093290843</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_Mount_Sinai</WikiTitle> <WikiTitleID>3601582</WikiTitleID> <RankerScore>0.12196139174290455</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Sinai,_New_York</WikiTitle> <WikiTitleID>127330</WikiTitleID> <RankerScore>0.10258858811547028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Sinai_Hospital,_New_York</WikiTitle> <WikiTitleID>1241281</WikiTitleID> <RankerScore>0.3616863529777762</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Sinai_Hospital_(Toronto)</WikiTitle> <WikiTitleID>893303</WikiTitleID> <RankerScore>0.10258858811547028</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Sinai,_Indiana</WikiTitle> <WikiTitleID>15072998</WikiTitleID> <RankerScore>0.10258858811547028</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Mount Sinai School of Medicine</EntitySurfaceForm>
+	<EntityTextStart>3388</EntityTextStart>
+	<EntityTextEnd>3418</EntityTextEnd>
+	<LinkerScore>1.1338404418850558</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Mount_Sinai_School_of_Medicine</WikiTitle>
+		<WikiTitleID>3688874</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>university</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Mount_Sinai_School_of_Medicine</WikiTitle> <WikiTitleID>3688874</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sinai</EntitySurfaceForm>
+	<EntityTextStart>3394</EntityTextStart>
+	<EntityTextEnd>3399</EntityTextEnd>
+	<LinkerScore>0.002238923580629463</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sinai_Peninsula</WikiTitle>
+		<WikiTitleID>27644</WikiTitleID>
+		<RankerScore>0.2352187002643893</RankerScore>
+		<Attributes>place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sinai_Peninsula</WikiTitle> <WikiTitleID>27644</WikiTitleID> <RankerScore>0.2352187002643893</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biblical_Mount_Sinai</WikiTitle> <WikiTitleID>3601582</WikiTitleID> <RankerScore>0.10987991030777552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mount_Sinai</WikiTitle> <WikiTitleID>61768</WikiTitleID> <RankerScore>0.11696156890220885</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Catherine&apos;s_Monastery,_Mount_Sinai</WikiTitle> <WikiTitleID>477189</WikiTitleID> <RankerScore>0.2083000896022998</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sinai,_South_Dakota</WikiTitle> <WikiTitleID>134745</WikiTitleID> <RankerScore>0.10987991030777552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sinai_and_Palestine_Campaign</WikiTitle> <WikiTitleID>1027093</WikiTitleID> <RankerScore>0.10987991030777552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Multinational_Force_and_Observers</WikiTitle> <WikiTitleID>1561501</WikiTitleID> <RankerScore>0.10987991030777552</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Medicine</EntitySurfaceForm>
+	<EntityTextStart>3410</EntityTextStart>
+	<EntityTextEnd>3418</EntityTextEnd>
+	<LinkerScore>0.8442190975061756</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medicine</WikiTitle>
+		<WikiTitleID>18957</WikiTitleID>
+		<RankerScore>0.14273323667772717</RankerScore>
+		<Attributes>dispute	science</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.14273323667772717</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nobel_Prize_in_Physiology_or_Medicine</WikiTitle> <WikiTitleID>52502</WikiTitleID> <RankerScore>0.07266475362259066</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine_(band)</WikiTitle> <WikiTitleID>1580383</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wolf_Prize_in_Medicine</WikiTitle> <WikiTitleID>714499</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Doctor_of_Medicine</WikiTitle> <WikiTitleID>428966</WikiTitleID> <RankerScore>0.04737358224796482</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Physician</WikiTitle> <WikiTitleID>23315</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Internal_medicine</WikiTitle> <WikiTitleID>205264</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>School_of_Medicine,_University_of_Manchester</WikiTitle> <WikiTitleID>4038040</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Adolescent_medicine</WikiTitle> <WikiTitleID>6189822</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>UNSW_Faculty_of_Medicine</WikiTitle> <WikiTitleID>18069983</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bachelor_of_Medicine_and_Surgery</WikiTitle> <WikiTitleID>910147</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pontifical_Xavierian_University_Faculty_of_Medicine</WikiTitle> <WikiTitleID>13560090</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Faculté_de_médecine_de_l&apos;Université_Laval</WikiTitle> <WikiTitleID>14475420</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ayurveda</WikiTitle> <WikiTitleID>236674</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Queen&apos;s_School_of_Medicine</WikiTitle> <WikiTitleID>2358708</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Durham_University_School_of_Medicine_and_Health</WikiTitle> <WikiTitleID>9034684</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Klimt_University_of_Vienna_Ceiling_Paintings</WikiTitle> <WikiTitleID>9193694</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>McGill_University_Faculty_of_Medicine</WikiTitle> <WikiTitleID>3892326</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stanford_University_School_of_Medicine</WikiTitle> <WikiTitleID>435330</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington_School_of_Medicine</WikiTitle> <WikiTitleID>9641301</WikiTitleID> <RankerScore>0.04336637808539514</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>New York</EntitySurfaceForm>
+	<EntityTextStart>3423</EntityTextStart>
+	<EntityTextEnd>3431</EntityTextEnd>
+	<LinkerScore>0.3181853143741588</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>New_York</WikiTitle>
+		<WikiTitleID>8210131</WikiTitleID>
+		<RankerScore>0.10772627523273438</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>New_York</WikiTitle> <WikiTitleID>8210131</WikiTitleID> <RankerScore>0.10772627523273438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_City</WikiTitle> <WikiTitleID>645042</WikiTitleID> <RankerScore>0.06405985386932485</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_congressional_delegations_from_New_York</WikiTitle> <WikiTitleID>466665</WikiTitleID> <RankerScore>0.0518366919974688</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(magazine)</WikiTitle> <WikiTitleID>714699</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Knicks</WikiTitle> <WikiTitleID>72855</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Manhattan</WikiTitle> <WikiTitleID>45470</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_USA</WikiTitle> <WikiTitleID>4370356</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Province_of_New_York</WikiTitle> <WikiTitleID>486947</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_New_York_Teen_USA</WikiTitle> <WikiTitleID>4576175</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_GAA</WikiTitle> <WikiTitleID>4108226</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Red_Bull_New_York</WikiTitle> <WikiTitleID>4331224</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pennsylvania_Station_(New_York_City)</WikiTitle> <WikiTitleID>188234</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>John_F._Kennedy_International_Airport</WikiTitle> <WikiTitleID>97218</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>San_Francisco_Giants</WikiTitle> <WikiTitleID>28416</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Liberty</WikiTitle> <WikiTitleID>180637</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Yankees</WikiTitle> <WikiTitleID>4848143</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Episcopal_Diocese_of_New_York</WikiTitle> <WikiTitleID>4227112</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_(album)</WikiTitle> <WikiTitleID>3473963</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_hardcore</WikiTitle> <WikiTitleID>1421740</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Philharmonic</WikiTitle> <WikiTitleID>88849</WikiTitleID> <RankerScore>0.04566924581767483</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>vaccine</EntitySurfaceForm>
+	<EntityTextStart>3606</EntityTextStart>
+	<EntityTextEnd>3613</EntityTextEnd>
+	<LinkerScore>0.6811818642476019</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Vaccine</WikiTitle>
+		<WikiTitleID>32653</WikiTitleID>
+		<RankerScore>0.41722335264178484</RankerScore>
+		<Attributes>disease</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Vaccine</WikiTitle> <WikiTitleID>32653</WikiTitleID> <RankerScore>0.41722335264178484</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polio_vaccine</WikiTitle> <WikiTitleID>192198</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vaccination</WikiTitle> <WikiTitleID>32473</WikiTitleID> <RankerScore>0.15562316749932184</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HIV_vaccine</WikiTitle> <WikiTitleID>147473</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mumps_vaccine</WikiTitle> <WikiTitleID>5264978</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Purity_Control</WikiTitle> <WikiTitleID>3453424</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Influenza_vaccine</WikiTitle> <WikiTitleID>1045705</WikiTitleID> <RankerScore>0.12526165984296242</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Inoculation</WikiTitle> <WikiTitleID>14798</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>HPV_vaccine</WikiTitle> <WikiTitleID>3304705</WikiTitleID> <RankerScore>0.05031530333598848</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>immunity</EntitySurfaceForm>
+	<EntityTextStart>3637</EntityTextStart>
+	<EntityTextEnd>3645</EntityTextEnd>
+	<LinkerScore>0.3179397135336427</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Immunity_(medical)</WikiTitle>
+		<WikiTitleID>298547</WikiTitleID>
+		<RankerScore>0.3714903766060805</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Immunity_(legal)</WikiTitle> <WikiTitleID>298564</WikiTitleID> <RankerScore>0.0756587026696754</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunity_(medical)</WikiTitle> <WikiTitleID>298547</WikiTitleID> <RankerScore>0.3714903766060805</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immune_system</WikiTitle> <WikiTitleID>14958</WikiTitleID> <RankerScore>0.2461174996341963</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diplomatic_immunity</WikiTitle> <WikiTitleID>8921</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Parliamentary_immunity</WikiTitle> <WikiTitleID>320344</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prosecutorial_immunity</WikiTitle> <WikiTitleID>9417406</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sovereign_immunity</WikiTitle> <WikiTitleID>29081</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Immunization</WikiTitle> <WikiTitleID>284029</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judicial_immunity</WikiTitle> <WikiTitleID>4525019</WikiTitleID> <RankerScore>0.0511222368483413</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>virus</EntitySurfaceForm>
+	<EntityTextStart>3658</EntityTextStart>
+	<EntityTextEnd>3663</EntityTextEnd>
+	<LinkerScore>1.1492881839287343</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Virus</WikiTitle>
+		<WikiTitleID>59929</WikiTitleID>
+		<RankerScore>0.5458996190596513</RankerScore>
+		<Attributes>virus</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Virus</WikiTitle> <WikiTitleID>59929</WikiTitleID> <RankerScore>0.5458996190596513</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Computer_virus</WikiTitle> <WikiTitleID>5684</WikiTitleID> <RankerScore>0.12637344156185162</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_virus</WikiTitle> <WikiTitleID>1475873</WikiTitleID> <RankerScore>0.07972064049197339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Vesicular_stomatitis_virus</WikiTitle> <WikiTitleID>416934</WikiTitleID> <RankerScore>0.07972064049197339</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>AIDS</WikiTitle> <WikiTitleID>5069516</WikiTitleID> <RankerScore>0.1682856583945503</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

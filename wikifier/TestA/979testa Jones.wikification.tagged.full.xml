@@ -1,0 +1,724 @@
+<WikifierOutput>
+<InputFilename>
+979testa Jones
+</InputFilename>
+<InputText>
+Jones Medical completes acquisition.
+ST. LOUIS 1996-08-30
+Jones Medical Industries Inc said Friday it completed the acquisition of Daniels Pharmaceuticals Inc of St. Petersburg, Fla., for about 2,960,000 shares of Jones common stock.
+Jones stock closed down 1/8 at 40 Friday.
+Daniels Pharmaceuticals manufactures prescription pharmaceutical products, the largest of which is Levoxyl, a synthetic thyroid hormone for treating hypothyroidism.-- Chicago newsdesk, 312 408-8787
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>ST. LOUIS</EntitySurfaceForm>
+	<EntityTextStart>37</EntityTextStart>
+	<EntityTextEnd>46</EntityTextEnd>
+	<LinkerScore>1.288082385464145</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>St._Louis,_Missouri</WikiTitle>
+		<WikiTitleID>27687</WikiTitleID>
+		<RankerScore>0.1541650398542815</RankerScore>
+		<Attributes>place	city	community</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>St._Louis,_Missouri</WikiTitle> <WikiTitleID>27687</WikiTitleID> <RankerScore>0.1541650398542815</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Cardinals</WikiTitle> <WikiTitleID>27720</WikiTitleID> <RankerScore>0.043065635400553345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Rams</WikiTitle> <WikiTitleID>27724</WikiTitleID> <RankerScore>0.041284872619744215</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Blues_(hockey)</WikiTitle> <WikiTitleID>27722</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis,_Saskatchewan</WikiTitle> <WikiTitleID>2204316</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_County,_Minnesota</WikiTitle> <WikiTitleID>94907</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Atlanta_Hawks</WikiTitle> <WikiTitleID>72861</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Louis_IX_of_France</WikiTitle> <WikiTitleID>18549</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_County,_Missouri</WikiTitle> <WikiTitleID>94524</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Busch_Memorial_Stadium</WikiTitle> <WikiTitleID>98971</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Louis_Symphony_Orchestra</WikiTitle> <WikiTitleID>611978</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis,_Michigan</WikiTitle> <WikiTitleID>117563</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_St._Louis</WikiTitle> <WikiTitleID>305484</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis,_Prince_Edward_Island</WikiTitle> <WikiTitleID>15844147</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Lions</WikiTitle> <WikiTitleID>3781971</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lambert-St._Louis_International_Airport</WikiTitle> <WikiTitleID>264236</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Louis_Blues</WikiTitle> <WikiTitleID>546895</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Missouri–St._Louis</WikiTitle> <WikiTitleID>178196</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arizona_Cardinals</WikiTitle> <WikiTitleID>2102</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint-Louis,_Senegal</WikiTitle> <WikiTitleID>527962</WikiTitleID> <RankerScore>0.04479320306620123</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pharmaceuticals</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>154</EntityTextEnd>
+	<LinkerScore>0.3900067002496439</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drug</WikiTitle>
+		<WikiTitleID>9311172</WikiTitleID>
+		<RankerScore>0.47521615471692474</RankerScore>
+		<Attributes>drug</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drug</WikiTitle> <WikiTitleID>9311172</WikiTitleID> <RankerScore>0.47521615471692474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutical_company</WikiTitle> <WikiTitleID>560876</WikiTitleID> <RankerScore>0.237140420103145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmacology</WikiTitle> <WikiTitleID>24354</WikiTitleID> <RankerScore>0.2876434251799303</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pharmaceuticals Inc</EntitySurfaceForm>
+	<EntityTextStart>139</EntityTextStart>
+	<EntityTextEnd>158</EntityTextEnd>
+	<LinkerScore>0.3900067002496439</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drug</WikiTitle>
+		<WikiTitleID>9311172</WikiTitleID>
+		<RankerScore>0.47521615471692474</RankerScore>
+		<Attributes>drug</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drug</WikiTitle> <WikiTitleID>9311172</WikiTitleID> <RankerScore>0.47521615471692474</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutical_company</WikiTitle> <WikiTitleID>560876</WikiTitleID> <RankerScore>0.237140420103145</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmacology</WikiTitle> <WikiTitleID>24354</WikiTitleID> <RankerScore>0.2876434251799303</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>St. Petersburg</EntitySurfaceForm>
+	<EntityTextStart>162</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>0.17410239120225873</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saint_Petersburg</WikiTitle>
+		<WikiTitleID>26964</WikiTitleID>
+		<RankerScore>0.14962212641970896</RankerScore>
+		<Attributes>capital	city	site	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg</WikiTitle> <WikiTitleID>26964</WikiTitleID> <RankerScore>0.14962212641970896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg,_Florida</WikiTitle> <WikiTitleID>84504</WikiTitleID> <RankerScore>0.11892500687846429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Grand_Prix_of_St._Petersburg</WikiTitle> <WikiTitleID>6711518</WikiTitleID> <RankerScore>0.08462596889402876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg,_Pennsylvania</WikiTitle> <WikiTitleID>131949</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_Metro</WikiTitle> <WikiTitleID>1629198</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_Open</WikiTitle> <WikiTitleID>5796005</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_South_Florida_St._Petersburg</WikiTitle> <WikiTitleID>368884</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_(song)</WikiTitle> <WikiTitleID>3096993</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_State_University</WikiTitle> <WikiTitleID>649879</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_Saints</WikiTitle> <WikiTitleID>12994319</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg-Clearwater_International_Airport</WikiTitle> <WikiTitleID>269856</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>32nd_G8_summit</WikiTitle> <WikiTitleID>2455037</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_Governorate</WikiTitle> <WikiTitleID>3749716</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Petersburg</EntitySurfaceForm>
+	<EntityTextStart>166</EntityTextStart>
+	<EntityTextEnd>176</EntityTextEnd>
+	<LinkerScore>0.17673085808403516</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Saint_Petersburg</WikiTitle>
+		<WikiTitleID>26964</WikiTitleID>
+		<RankerScore>0.14962212641970896</RankerScore>
+		<Attributes>capital	city	site	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg</WikiTitle> <WikiTitleID>26964</WikiTitleID> <RankerScore>0.14962212641970896</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg,_Florida</WikiTitle> <WikiTitleID>84504</WikiTitleID> <RankerScore>0.11892500687846429</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Honda_Grand_Prix_of_St._Petersburg</WikiTitle> <WikiTitleID>6711518</WikiTitleID> <RankerScore>0.08462596889402876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg,_Pennsylvania</WikiTitle> <WikiTitleID>131949</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_Metro</WikiTitle> <WikiTitleID>1629198</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_Open</WikiTitle> <WikiTitleID>5796005</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_South_Florida_St._Petersburg</WikiTitle> <WikiTitleID>368884</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_(song)</WikiTitle> <WikiTitleID>3096993</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_State_University</WikiTitle> <WikiTitleID>649879</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg_Saints</WikiTitle> <WikiTitleID>12994319</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St._Petersburg-Clearwater_International_Airport</WikiTitle> <WikiTitleID>269856</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>32nd_G8_summit</WikiTitle> <WikiTitleID>2455037</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Saint_Petersburg_Governorate</WikiTitle> <WikiTitleID>3749716</WikiTitleID> <RankerScore>0.0646826897807798</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Fla.</EntitySurfaceForm>
+	<EntityTextStart>178</EntityTextStart>
+	<EntityTextEnd>182</EntityTextEnd>
+	<LinkerScore>0.6805395170445978</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida</WikiTitle>
+		<WikiTitleID>10829</WikiTitleID>
+		<RankerScore>0.6827324437211798</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.6827324437211798</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Supreme_Court</WikiTitle> <WikiTitleID>1635683</WikiTitleID> <RankerScore>0.3172675562788202</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>common stock</EntitySurfaceForm>
+	<EntityTextStart>220</EntityTextStart>
+	<EntityTextEnd>232</EntityTextEnd>
+	<LinkerScore>0.763865278163774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Voting_share</WikiTitle>
+		<WikiTitleID>2657017</WikiTitleID>
+		<RankerScore>0.7088674709966769</RankerScore>
+		<Attributes>security</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Voting_share</WikiTitle> <WikiTitleID>2657017</WikiTitleID> <RankerScore>0.7088674709966769</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stock</WikiTitle> <WikiTitleID>29249</WikiTitleID> <RankerScore>0.29113252900332304</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Pharmaceuticals</EntitySurfaceForm>
+	<EntityTextStart>284</EntityTextStart>
+	<EntityTextEnd>299</EntityTextEnd>
+	<LinkerScore>0.6129611451215936</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Drug</WikiTitle>
+		<WikiTitleID>9311172</WikiTitleID>
+		<RankerScore>0.49801660004875564</RankerScore>
+		<Attributes>drug</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Drug</WikiTitle> <WikiTitleID>9311172</WikiTitleID> <RankerScore>0.49801660004875564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutical_company</WikiTitle> <WikiTitleID>560876</WikiTitleID> <RankerScore>0.24722878100091059</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmacology</WikiTitle> <WikiTitleID>24354</WikiTitleID> <RankerScore>0.25475461895033386</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>prescription</EntitySurfaceForm>
+	<EntityTextStart>313</EntityTextStart>
+	<EntityTextEnd>325</EntityTextEnd>
+	<LinkerScore>0.05753342443031795</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medical_prescription</WikiTitle>
+		<WikiTitleID>304263</WikiTitleID>
+		<RankerScore>0.32011076065319394</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medical_prescription</WikiTitle> <WikiTitleID>304263</WikiTitleID> <RankerScore>0.32011076065319394</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prescription_drug</WikiTitle> <WikiTitleID>359238</WikiTitleID> <RankerScore>0.2770070089747789</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Eyeglass_prescription</WikiTitle> <WikiTitleID>505463</WikiTitleID> <RankerScore>0.08106695015240284</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Statute_of_limitations</WikiTitle> <WikiTitleID>26917</WikiTitleID> <RankerScore>0.08045382005490609</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Linguistic_prescription</WikiTitle> <WikiTitleID>229136</WikiTitleID> <RankerScore>0.08045382005490609</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Prescription_(law)</WikiTitle> <WikiTitleID>5848660</WikiTitleID> <RankerScore>0.08045382005490609</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Time_immemorial</WikiTitle> <WikiTitleID>80248</WikiTitleID> <RankerScore>0.08045382005490609</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>pharmaceutical</EntitySurfaceForm>
+	<EntityTextStart>326</EntityTextStart>
+	<EntityTextEnd>340</EntityTextEnd>
+	<LinkerScore>0.9941580772784772</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Medication</WikiTitle>
+		<WikiTitleID>180121</WikiTitleID>
+		<RankerScore>0.500169721276916</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Medication</WikiTitle> <WikiTitleID>180121</WikiTitleID> <RankerScore>0.500169721276916</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutical_company</WikiTitle> <WikiTitleID>560876</WikiTitleID> <RankerScore>0.09605392255540784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmacology</WikiTitle> <WikiTitleID>24354</WikiTitleID> <RankerScore>0.06226282734216807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmacy</WikiTitle> <WikiTitleID>297350</WikiTitleID> <RankerScore>0.06226282734216807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Drug</WikiTitle> <WikiTitleID>9311172</WikiTitleID> <RankerScore>0.0924622194568359</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Pharmaceutics</WikiTitle> <WikiTitleID>920218</WikiTitleID> <RankerScore>0.06226282734216807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Medicine</WikiTitle> <WikiTitleID>18957</WikiTitleID> <RankerScore>0.06226282734216807</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Biopharmaceutical</WikiTitle> <WikiTitleID>437768</WikiTitleID> <RankerScore>0.06226282734216807</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>products</EntitySurfaceForm>
+	<EntityTextStart>341</EntityTextStart>
+	<EntityTextEnd>349</EntityTextEnd>
+	<LinkerScore>0.4733870932568327</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Product_(chemistry)</WikiTitle>
+		<WikiTitleID>540448</WikiTitleID>
+		<RankerScore>0.17316037241668372</RankerScore>
+		<Attributes>reaction</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Product_(chemistry)</WikiTitle> <WikiTitleID>540448</WikiTitleID> <RankerScore>0.17316037241668372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(business)</WikiTitle> <WikiTitleID>240410</WikiTitleID> <RankerScore>0.05950528716970553</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(category_theory)</WikiTitle> <WikiTitleID>237868</WikiTitleID> <RankerScore>0.05659607159120847</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(mathematics)</WikiTitle> <WikiTitleID>24977</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_topology</WikiTitle> <WikiTitleID>24910</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cartesian_product</WikiTitle> <WikiTitleID>5795</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Good_(economics)</WikiTitle> <WikiTitleID>580039</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_nanotechnology_applications</WikiTitle> <WikiTitleID>7067473</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Industrial_production</WikiTitle> <WikiTitleID>8340480</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Direct_product</WikiTitle> <WikiTitleID>8887</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Women&apos;s_fiction</WikiTitle> <WikiTitleID>1089263</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Voltz</WikiTitle> <WikiTitleID>9547811</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Product_(biology)</WikiTitle> <WikiTitleID>540433</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Matrix_multiplication</WikiTitle> <WikiTitleID>125280</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mazinger_Toy_Lines</WikiTitle> <WikiTitleID>9160101</WikiTitleID> <RankerScore>0.05922818906853351</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Levoxyl</EntitySurfaceForm>
+	<EntityTextStart>375</EntityTextStart>
+	<EntityTextEnd>382</EntityTextEnd>
+	<LinkerScore>1.0093759146516468</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Levothyroxine</WikiTitle>
+		<WikiTitleID>1618621</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>agent	derivative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Levothyroxine</WikiTitle> <WikiTitleID>1618621</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>synthetic</EntitySurfaceForm>
+	<EntityTextStart>386</EntityTextStart>
+	<EntityTextEnd>395</EntityTextEnd>
+	<LinkerScore>0.570549862073717</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chemical_synthesis</WikiTitle>
+		<WikiTitleID>85029</WikiTitleID>
+		<RankerScore>0.0833977307494729</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chemical_synthesis</WikiTitle> <WikiTitleID>85029</WikiTitleID> <RankerScore>0.0833977307494729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_language</WikiTitle> <WikiTitleID>294591</WikiTitleID> <RankerScore>0.05484929335000863</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_fiber</WikiTitle> <WikiTitleID>270081</WikiTitleID> <RankerScore>0.05216534550525033</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Analytic-synthetic_distinction</WikiTitle> <WikiTitleID>6395956</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organic_synthesis</WikiTitle> <WikiTitleID>1456984</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_geometry</WikiTitle> <WikiTitleID>267484</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthesizer</WikiTitle> <WikiTitleID>10791746</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_element</WikiTitle> <WikiTitleID>29365</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_oil</WikiTitle> <WikiTitleID>522468</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Organic_chemistry</WikiTitle> <WikiTitleID>22208</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_biology</WikiTitle> <WikiTitleID>841429</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Polysynthetic_language</WikiTitle> <WikiTitleID>159833</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Recombinant_DNA</WikiTitle> <WikiTitleID>1357514</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_options_position</WikiTitle> <WikiTitleID>7525857</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Protein_synthesis</WikiTitle> <WikiTitleID>153537</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artificial_turf</WikiTitle> <WikiTitleID>1156289</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Artificial_meat</WikiTitle> <WikiTitleID>219626</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Synthetic_rubber</WikiTitle> <WikiTitleID>1738731</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oligonucleotide_synthesis</WikiTitle> <WikiTitleID>10663351</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Constructed_language</WikiTitle> <WikiTitleID>5262</WikiTitleID> <RankerScore>0.04762280178795695</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thyroid hormone</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>0.5318249358362798</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thyroid_hormone</WikiTitle>
+		<WikiTitleID>18455584</WikiTitleID>
+		<RankerScore>0.6096541622519405</RankerScore>
+		<Attributes>hormone	derivative</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thyroid_hormone</WikiTitle> <WikiTitleID>18455584</WikiTitleID> <RankerScore>0.6096541622519405</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thyroid_hormone_receptor</WikiTitle> <WikiTitleID>5510860</WikiTitleID> <RankerScore>0.11693916046616827</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thyroxine</WikiTitle> <WikiTitleID>144893</WikiTitleID> <RankerScore>0.2734066772818913</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thyroid</EntitySurfaceForm>
+	<EntityTextStart>396</EntityTextStart>
+	<EntityTextEnd>403</EntityTextEnd>
+	<LinkerScore>0.5492122824196034</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Thyroid</WikiTitle>
+		<WikiTitleID>30078</WikiTitleID>
+		<RankerScore>0.5124909346769314</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Thyroid</WikiTitle> <WikiTitleID>30078</WikiTitleID> <RankerScore>0.5124909346769314</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thyroid_cancer</WikiTitle> <WikiTitleID>142005</WikiTitleID> <RankerScore>0.10641785630371478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thyroid_cartilage</WikiTitle> <WikiTitleID>2104580</WikiTitleID> <RankerScore>0.10009418306047663</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thyroid_hormone</WikiTitle> <WikiTitleID>18455584</WikiTitleID> <RankerScore>0.28099702595887727</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>hormone</EntitySurfaceForm>
+	<EntityTextStart>404</EntityTextStart>
+	<EntityTextEnd>411</EntityTextEnd>
+	<LinkerScore>1.1081151171357757</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Hormone</WikiTitle>
+		<WikiTitleID>13311</WikiTitleID>
+		<RankerScore>0.6644801838259329</RankerScore>
+		<Attributes>loanword</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Hormone</WikiTitle> <WikiTitleID>13311</WikiTitleID> <RankerScore>0.6644801838259329</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Plant_hormone</WikiTitle> <WikiTitleID>256641</WikiTitleID> <RankerScore>0.12196282446109324</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sex_steroid</WikiTitle> <WikiTitleID>689491</WikiTitleID> <RankerScore>0.10570192691939453</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hormone_receptor</WikiTitle> <WikiTitleID>563580</WikiTitleID> <RankerScore>0.10785506479357933</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Chicago</EntitySurfaceForm>
+	<EntityTextStart>443</EntityTextStart>
+	<EntityTextEnd>450</EntityTextEnd>
+	<LinkerScore>0.4462843534908507</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Chicago</WikiTitle>
+		<WikiTitleID>6886</WikiTitleID>
+		<RankerScore>0.14809620575974183</RankerScore>
+		<Attributes>place	settlement	community	city	seats</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Chicago</WikiTitle> <WikiTitleID>6886</WikiTitleID> <RankerScore>0.14809620575974183</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(band)</WikiTitle> <WikiTitleID>168876</WikiTitleID> <RankerScore>0.054478794942854056</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(musical)</WikiTitle> <WikiTitleID>213077</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(2002_film)</WikiTitle> <WikiTitleID>201534</WikiTitleID> <RankerScore>0.050632979308161456</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bulls</WikiTitle> <WikiTitleID>72866</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Chicago</WikiTitle> <WikiTitleID>32127</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Fire_(soccer)</WikiTitle> <WikiTitleID>245694</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Union_Station_(Chicago)</WikiTitle> <WikiTitleID>950469</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Blackhawks</WikiTitle> <WikiTitleID>73126</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Bears</WikiTitle> <WikiTitleID>6611</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(magazine)</WikiTitle> <WikiTitleID>11267556</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(That_Toddlin&apos;_Town)</WikiTitle> <WikiTitleID>7197338</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Symphony_Orchestra</WikiTitle> <WikiTitleID>150201</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Rush</WikiTitle> <WikiTitleID>328192</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(album)</WikiTitle> <WikiTitleID>994449</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Reisinger</WikiTitle> <WikiTitleID>6779185</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(Prison_Break_episode)</WikiTitle> <WikiTitleID>8483895</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_Cubs</WikiTitle> <WikiTitleID>6654</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chicago_(1927_film)</WikiTitle> <WikiTitleID>198061</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Hare_International_Airport</WikiTitle> <WikiTitleID>248434</WikiTitleID> <RankerScore>0.04392894235230839</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>312</EntitySurfaceForm>
+	<EntityTextStart>461</EntityTextStart>
+	<EntityTextEnd>464</EntityTextEnd>
+	<LinkerScore>0.7837511190255357</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Area_code_312</WikiTitle>
+		<WikiTitleID>1627561</WikiTitleID>
+		<RankerScore>0.2560718387364478</RankerScore>
+		<Attributes>code</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>312</WikiTitle> <WikiTitleID>35494</WikiTitleID> <RankerScore>0.13967861944173385</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Area_code_312</WikiTitle> <WikiTitleID>1627561</WikiTitleID> <RankerScore>0.2560718387364478</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Buses_route_312</WikiTitle> <WikiTitleID>8512601</WikiTitleID> <RankerScore>0.07741062144372991</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>312_BC</WikiTitle> <WikiTitleID>72490</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ferrari_312</WikiTitle> <WikiTitleID>3702907</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>300_(number)</WikiTitle> <WikiTitleID>444763</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maryland_Route_312</WikiTitle> <WikiTitleID>4116981</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>No._312_Squadron_RAF</WikiTitle> <WikiTitleID>4129265</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Morris_No._312,_Saskatchewan</WikiTitle> <WikiTitleID>4462213</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_state_leaders_in_312</WikiTitle> <WikiTitleID>3258957</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_State_Highway_312</WikiTitle> <WikiTitleID>2340782</WikiTitleID> <RankerScore>0.06585486504726104</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

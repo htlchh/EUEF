@@ -1,0 +1,2592 @@
+<WikifierOutput>
+<InputFilename>
+PRI20001201.2000.1828
+</InputFilename>
+<InputText>
+ From BBC News in London, I am Gregor Cragy for The World. The US Supreme Court has held a hearing to decide whether to intervene in the dispute over the presidential election results. Judith Spencer reports on the legal wrangling that is underway.   Inside the stately Supreme Court building, lawyers for Republican George W. Bush and Democrat AL Gore argued over the validity of hand re-counts in the crucial state of Florida, just as Ruth Bater Ginsburg pressed Bush&apos;s lawyer to explain why the Federal High Court should intervene in the Florida Supreme Court&apos;s move to extend the deadline for finishing the re-counts.   When we read a State court decision, we should read it in the light most favorable to the integrity of the State Supreme Court.   But later on, Justice Sandra Day O&apos;Connor suggested the State court might have been out of line.   The legislature had very clearly said, you know, 7 days after, that&apos;s the date and it just does look like very dramatic change made by the Florida court.   The US Supreme Court could rule on the matter as early as tomorrow. For The World, I am Judith Spencer in Washington.   Meanwhile, the Florida Supreme Court has rejected an emergency appeal from Al Gore for an immediate re-count of thousands of disputed ballots from Palm Beach and Miami Dade counties.  
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>BBC</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>9</EntityTextEnd>
+	<LinkerScore>0.9140513771384604</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BBC</WikiTitle>
+		<WikiTitleID>4347</WikiTitleID>
+		<RankerScore>0.19463348553146492</RankerScore>
+		<Attributes>member	company	introduction	establishment	broadcaster	brand</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BBC</WikiTitle> <WikiTitleID>4347</WikiTitleID> <RankerScore>0.19463348553146492</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Television</WikiTitle> <WikiTitleID>352308</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_DAB_National</WikiTitle> <WikiTitleID>3246521</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>British_Broadcasting_Company</WikiTitle> <WikiTitleID>210857</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio</WikiTitle> <WikiTitleID>167583</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News</WikiTitle> <WikiTitleID>1139893</WikiTitleID> <RankerScore>0.049150745287111094</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_One</WikiTitle> <WikiTitleID>212157</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Sport</WikiTitle> <WikiTitleID>3095179</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_World_Service</WikiTitle> <WikiTitleID>37627</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Micro</WikiTitle> <WikiTitleID>4355</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Scotland</WikiTitle> <WikiTitleID>569201</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Radio_1</WikiTitle> <WikiTitleID>4348</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_Online</WikiTitle> <WikiTitleID>566699</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Board_of_Governors_of_the_BBC</WikiTitle> <WikiTitleID>564195</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bbc.co.uk</WikiTitle> <WikiTitleID>638514</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_(TV_channel)</WikiTitle> <WikiTitleID>4621</WikiTitleID> <RankerScore>0.08647412680208935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Wales</WikiTitle> <WikiTitleID>899892</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Stations_of_the_BBC</WikiTitle> <WikiTitleID>1147196</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_Two</WikiTitle> <WikiTitleID>160949</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_London</WikiTitle> <WikiTitleID>423106</WikiTitleID> <RankerScore>0.03939656719878439</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>BBC News</EntitySurfaceForm>
+	<EntityTextStart>6</EntityTextStart>
+	<EntityTextEnd>14</EntityTextEnd>
+	<LinkerScore>0.4506982714063295</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>BBC_News</WikiTitle>
+		<WikiTitleID>1139893</WikiTitleID>
+		<RankerScore>0.39186055411222626</RankerScore>
+		<Attributes>establishment	services</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>BBC_News</WikiTitle> <WikiTitleID>1139893</WikiTitleID> <RankerScore>0.39186055411222626</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_(TV_channel)</WikiTitle> <WikiTitleID>4621</WikiTitleID> <RankerScore>0.2281618433378702</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC</WikiTitle> <WikiTitleID>4347</WikiTitleID> <RankerScore>0.22737780021634707</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>BBC_News_Online</WikiTitle> <WikiTitleID>566699</WikiTitleID> <RankerScore>0.15259980233355652</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>London</EntitySurfaceForm>
+	<EntityTextStart>18</EntityTextStart>
+	<EntityTextEnd>24</EntityTextEnd>
+	<LinkerScore>1.2156291043410465</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>London</WikiTitle>
+		<WikiTitleID>17867</WikiTitleID>
+		<RankerScore>0.14165515063141554</RankerScore>
+		<Attributes>capital	port	city	place</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>London</WikiTitle> <WikiTitleID>17867</WikiTitleID> <RankerScore>0.14165515063141554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ontario</WikiTitle> <WikiTitleID>40353</WikiTitleID> <RankerScore>0.048170504598748345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_End_theatre</WikiTitle> <WikiTitleID>1154952</WikiTitleID> <RankerScore>0.04256016360483533</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_London</WikiTitle> <WikiTitleID>60919</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_GAA</WikiTitle> <WikiTitleID>3004626</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Records</WikiTitle> <WikiTitleID>326248</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>City_of_London</WikiTitle> <WikiTitleID>6883</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(band)</WikiTitle> <WikiTitleID>3879356</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Cricket_Club</WikiTitle> <WikiTitleID>2400474</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Kentucky</WikiTitle> <WikiTitleID>115300</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(electoral_district)</WikiTitle> <WikiTitleID>1787620</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London,_Ohio</WikiTitle> <WikiTitleID>40491</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greater_London</WikiTitle> <WikiTitleID>12249</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bishop_of_London</WikiTitle> <WikiTitleID>3254731</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>1836519</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Diocese_of_London</WikiTitle> <WikiTitleID>1444501</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(heavy_metal_band)</WikiTitle> <WikiTitleID>6725314</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_Heathrow_Airport</WikiTitle> <WikiTitleID>13595</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>St_Pancras_railway_station</WikiTitle> <WikiTitleID>311178</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>London_(2005_film)</WikiTitle> <WikiTitleID>4121036</WikiTitleID> <RankerScore>0.0451537753626471</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The US</EntitySurfaceForm>
+	<EntityTextStart>59</EntityTextStart>
+	<EntityTextEnd>65</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>US Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>63</EntityTextStart>
+	<EntityTextEnd>79</EntityTextEnd>
+	<LinkerScore>1.0837581062929778</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle>
+		<WikiTitleID>31737</WikiTitleID>
+		<RankerScore>0.7667769816153842</RankerScore>
+		<Attributes>court	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>31737</WikiTitleID> <RankerScore>0.7667769816153842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>3047164</WikiTitleID> <RankerScore>0.2332230183846158</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>79</EntityTextEnd>
+	<LinkerScore>1.0837581062929778</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle>
+		<WikiTitleID>31737</WikiTitleID>
+		<RankerScore>0.7667769816153842</RankerScore>
+		<Attributes>court	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>31737</WikiTitleID> <RankerScore>0.7667769816153842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>3047164</WikiTitleID> <RankerScore>0.2332230183846158</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>decide</EntitySurfaceForm>
+	<EntityTextStart>102</EntityTextStart>
+	<EntityTextEnd>108</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Decide</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>presidential election results</EntitySurfaceForm>
+	<EntityTextStart>154</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_presidential_election,_2012</WikiTitle>
+		<WikiTitleID>3658264</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>presidential election</EntitySurfaceForm>
+	<EntityTextStart>154</EntityTextStart>
+	<EntityTextEnd>175</EntityTextEnd>
+	<LinkerScore>0.0866632961885814</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_presidential_election,_2004</WikiTitle>
+		<WikiTitleID>1297662</WikiTitleID>
+		<RankerScore>0.10435410530430515</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election</WikiTitle> <WikiTitleID>32076</WikiTitleID> <RankerScore>0.09979160806177408</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>São_Tomé_and_Príncipe_presidential_election,_2006</WikiTitle> <WikiTitleID>5431056</WikiTitleID> <RankerScore>0.05224244466401321</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2004</WikiTitle> <WikiTitleID>1297662</WikiTitleID> <RankerScore>0.10435410530430515</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burkinabe_presidential_election,_2005</WikiTitle> <WikiTitleID>3139311</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Togolese_presidential_election,_2005</WikiTitle> <WikiTitleID>1565761</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guinea-Bissau_presidential_election,_2005</WikiTitle> <WikiTitleID>1687059</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgian_presidential_election,_2008</WikiTitle> <WikiTitleID>14142371</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_2008</WikiTitle> <WikiTitleID>406859</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_presidential_election,_2004</WikiTitle> <WikiTitleID>452230</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Mexican_general_election,_2006</WikiTitle> <WikiTitleID>2059542</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_presidential_election,_2007</WikiTitle> <WikiTitleID>11105698</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ukrainian_presidential_election,_2004</WikiTitle> <WikiTitleID>1111039</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nigerien_presidential_election,_2004</WikiTitle> <WikiTitleID>1433067</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dominican_Republic_presidential_election,_2004</WikiTitle> <WikiTitleID>635260</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Russian_presidential_election,_2008</WikiTitle> <WikiTitleID>3223104</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Chadian_presidential_election,_2001</WikiTitle> <WikiTitleID>4571283</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zimbabwean_presidential_election,_2008</WikiTitle> <WikiTitleID>8233464</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1872</WikiTitle> <WikiTitleID>40522</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Salvadoran_presidential_election,_2004</WikiTitle> <WikiTitleID>542142</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_presidential_election,_1960</WikiTitle> <WikiTitleID>40565</WikiTitleID> <RankerScore>0.04374187305705338</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>election results</EntitySurfaceForm>
+	<EntityTextStart>167</EntityTextStart>
+	<EntityTextEnd>183</EntityTextEnd>
+	<LinkerScore>0.1411238462467216</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spanish_general_election,_2004</WikiTitle>
+		<WikiTitleID>495269</WikiTitleID>
+		<RankerScore>0.06442261653640724</RankerScore>
+		<Attributes>election</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_2004</WikiTitle> <WikiTitleID>495269</WikiTitleID> <RankerScore>0.06442261653640724</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_2000</WikiTitle> <WikiTitleID>10653610</WikiTitleID> <RankerScore>0.0539931420421186</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_2008</WikiTitle> <WikiTitleID>12400564</WikiTitleID> <RankerScore>0.0509107401701259</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1996</WikiTitle> <WikiTitleID>495264</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1993</WikiTitle> <WikiTitleID>515303</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1979</WikiTitle> <WikiTitleID>2108371</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Iceland</WikiTitle> <WikiTitleID>1437900</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1989</WikiTitle> <WikiTitleID>1286662</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1982</WikiTitle> <WikiTitleID>2014946</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Croatian_parliamentary_election,_1992</WikiTitle> <WikiTitleID>1823940</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_legislative_election,_1956</WikiTitle> <WikiTitleID>4683173</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Autonomous_Region_in_Muslim_Mindanao_general_election,_2008</WikiTitle> <WikiTitleID>13819347</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Zambian_parliamentary_election,_2006</WikiTitle> <WikiTitleID>6178468</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Greek_legislative_election,_1928</WikiTitle> <WikiTitleID>4121626</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ghanaian_presidential_election,_2000</WikiTitle> <WikiTitleID>9748544</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Elections_in_Belarus</WikiTitle> <WikiTitleID>1355972</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_general_election,_1986</WikiTitle> <WikiTitleID>2014811</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Uruguayan_general_election,_2004</WikiTitle> <WikiTitleID>4336368</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Autonomous_Region_in_Muslim_Mindanao_general_election,_2005</WikiTitle> <WikiTitleID>8897243</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hungarian_parliamentary_election,_1949</WikiTitle> <WikiTitleID>17876856</WikiTitleID> <RankerScore>0.04886314713243224</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Judith</EntitySurfaceForm>
+	<EntityTextStart>185</EntityTextStart>
+	<EntityTextEnd>191</EntityTextEnd>
+	<LinkerScore>-0.014952502798191436</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Book_of_Judith</WikiTitle>
+		<WikiTitleID>420456</WikiTitleID>
+		<RankerScore>0.07348040944766654</RankerScore>
+		<Attributes>woman	book</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Book_of_Judith</WikiTitle> <WikiTitleID>420456</WikiTitleID> <RankerScore>0.07348040944766654</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Bavaria_(795-843)</WikiTitle> <WikiTitleID>2306238</WikiTitleID> <RankerScore>0.05471345629493729</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Flanders</WikiTitle> <WikiTitleID>912226</WikiTitleID> <RankerScore>0.05528583879379493</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(Serov)</WikiTitle> <WikiTitleID>3681579</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(poem)</WikiTitle> <WikiTitleID>542149</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Quiney</WikiTitle> <WikiTitleID>11740189</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(song)</WikiTitle> <WikiTitleID>9135813</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(film)</WikiTitle> <WikiTitleID>2360326</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_and_Garfield_Reeves-Stevens</WikiTitle> <WikiTitleID>8297026</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Bavaria</WikiTitle> <WikiTitleID>2335724</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Lens</WikiTitle> <WikiTitleID>3264918</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(album)</WikiTitle> <WikiTitleID>7245705</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Myers</WikiTitle> <WikiTitleID>13574842</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Brittany</WikiTitle> <WikiTitleID>13742793</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Babenberg</WikiTitle> <WikiTitleID>2304783</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Swabia</WikiTitle> <WikiTitleID>60741</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(homily)</WikiTitle> <WikiTitleID>7303524</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judyta</WikiTitle> <WikiTitleID>16334</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Blunt-Lytton,_16th_Baroness_Wentworth</WikiTitle> <WikiTitleID>7280574</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Todd</WikiTitle> <WikiTitleID>14375419</WikiTitleID> <RankerScore>0.048030605615505956</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spencer</EntitySurfaceForm>
+	<EntityTextStart>192</EntityTextStart>
+	<EntityTextEnd>199</EntityTextEnd>
+	<LinkerScore>-0.18143590624644707</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spencer_County,_Indiana</WikiTitle>
+		<WikiTitleID>96070</WikiTitleID>
+		<RankerScore>0.06338821029940471</RankerScore>
+		<Attributes>county	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spencer,_Massachusetts</WikiTitle> <WikiTitleID>259515</WikiTitleID> <RankerScore>0.06116807497516138</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_County,_Indiana</WikiTitle> <WikiTitleID>96070</WikiTitleID> <RankerScore>0.06338821029940471</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Iowa</WikiTitle> <WikiTitleID>112899</WikiTitleID> <RankerScore>0.0524399840280868</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbert_Spencer</WikiTitle> <WikiTitleID>248859</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_West_Virginia</WikiTitle> <WikiTitleID>138607</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Indiana</WikiTitle> <WikiTitleID>112526</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_(village),_New_York</WikiTitle> <WikiTitleID>260114</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Wisconsin</WikiTitle> <WikiTitleID>260546</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Tennessee</WikiTitle> <WikiTitleID>135401</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_North_Carolina</WikiTitle> <WikiTitleID>128204</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Oklahoma</WikiTitle> <WikiTitleID>130458</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_County,_Kentucky</WikiTitle> <WikiTitleID>95525</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_Moon</WikiTitle> <WikiTitleID>3145230</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_New_South_Wales</WikiTitle> <WikiTitleID>6446308</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_repeating_rifle</WikiTitle> <WikiTitleID>1611825</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_South_Dakota</WikiTitle> <WikiTitleID>134947</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Nebraska</WikiTitle> <WikiTitleID>123698</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Virginia</WikiTitle> <WikiTitleID>16265927</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Idaho</WikiTitle> <WikiTitleID>110668</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earl_Spencer</WikiTitle> <WikiTitleID>242687</WikiTitleID> <RankerScore>0.04841198415866748</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court building</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>292</EntityTextEnd>
+	<LinkerScore>0.7548535805476824</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States_Supreme_Court_building</WikiTitle>
+		<WikiTitleID>2420742</WikiTitleID>
+		<RankerScore>0.7360625712087817</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States_Supreme_Court_building</WikiTitle> <WikiTitleID>2420742</WikiTitleID> <RankerScore>0.7360625712087817</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Canada</WikiTitle> <WikiTitleID>123468</WikiTitleID> <RankerScore>0.26393742879121823</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>270</EntityTextStart>
+	<EntityTextEnd>283</EntityTextEnd>
+	<LinkerScore>0.3006814067948053</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle>
+		<WikiTitleID>31737</WikiTitleID>
+		<RankerScore>0.19008344523113355</RankerScore>
+		<Attributes>court	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>31737</WikiTitleID> <RankerScore>0.19008344523113355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_court</WikiTitle> <WikiTitleID>4913027</WikiTitleID> <RankerScore>0.10836591182744211</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_Philippines</WikiTitle> <WikiTitleID>1335534</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Canada</WikiTitle> <WikiTitleID>123468</WikiTitleID> <RankerScore>0.03736112563311206</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Ireland</WikiTitle> <WikiTitleID>667839</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_India</WikiTitle> <WikiTitleID>395852</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Israel</WikiTitle> <WikiTitleID>1666510</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Pakistan</WikiTitle> <WikiTitleID>843857</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Norway</WikiTitle> <WikiTitleID>1187265</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Singapore</WikiTitle> <WikiTitleID>2872959</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Justice_of_the_Nation</WikiTitle> <WikiTitleID>2476388</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Argentina</WikiTitle> <WikiTitleID>2800711</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_New_Zealand</WikiTitle> <WikiTitleID>346169</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Chile</WikiTitle> <WikiTitleID>2181063</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_(Fiji)</WikiTitle> <WikiTitleID>3507937</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Sweden</WikiTitle> <WikiTitleID>932800</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Japan</WikiTitle> <WikiTitleID>2251732</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Nigeria</WikiTitle> <WikiTitleID>4239953</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_New_South_Wales</WikiTitle> <WikiTitleID>1951864</WikiTitleID> <RankerScore>0.039069971606371316</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Republican</EntitySurfaceForm>
+	<EntityTextStart>306</EntityTextStart>
+	<EntityTextEnd>316</EntityTextEnd>
+	<LinkerScore>1.559207337115901</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Republican_Party_(United_States)</WikiTitle>
+		<WikiTitleID>32070</WikiTitleID>
+		<RankerScore>0.3333818577006876</RankerScore>
+		<Attributes>party	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Republican_Party_(United_States)</WikiTitle> <WikiTitleID>32070</WikiTitleID> <RankerScore>0.3333818577006876</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Second_Spanish_Republic</WikiTitle> <WikiTitleID>5195347</WikiTitleID> <RankerScore>0.03468494754433784</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Irish_republicanism</WikiTitle> <WikiTitleID>772738</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Dakota_Republican_Party</WikiTitle> <WikiTitleID>584762</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Republican_Party</WikiTitle> <WikiTitleID>3823289</WikiTitleID> <RankerScore>0.04663292385031219</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republicanism</WikiTitle> <WikiTitleID>25755</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic-Republican_Party</WikiTitle> <WikiTitleID>32080</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_United_States_Republican_Party</WikiTitle> <WikiTitleID>4157940</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Republic</WikiTitle> <WikiTitleID>25816</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republican_Party_of_Minnesota</WikiTitle> <WikiTitleID>466306</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Utah_Republican_Party</WikiTitle> <WikiTitleID>5104014</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republican_Party_of_Virginia</WikiTitle> <WikiTitleID>2868828</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_Republican_Party</WikiTitle> <WikiTitleID>3031811</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republican_River</WikiTitle> <WikiTitleID>163353</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>French_First_Republic</WikiTitle> <WikiTitleID>62243</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Republican_Party</WikiTitle> <WikiTitleID>1491628</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republican_National_Convention</WikiTitle> <WikiTitleID>509001</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republic_of_China</WikiTitle> <WikiTitleID>25734</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Illinois_Republican_Party</WikiTitle> <WikiTitleID>6495584</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Republican_Party_(Pakistan)</WikiTitle> <WikiTitleID>3875470</WikiTitleID> <RankerScore>0.034429427700274254</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>George W. Bush</EntitySurfaceForm>
+	<EntityTextStart>317</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>1.2792352205689765</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>George_W._Bush</WikiTitle>
+		<WikiTitleID>3414021</WikiTitleID>
+		<RankerScore>0.6678035224405617</RankerScore>
+		<Attributes>convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>George_W._Bush</WikiTitle> <WikiTitleID>3414021</WikiTitleID> <RankerScore>0.6678035224405617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Presidency_of_George_W._Bush</WikiTitle> <WikiTitleID>183895</WikiTitleID> <RankerScore>0.14200778928300992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_family</WikiTitle> <WikiTitleID>360448</WikiTitleID> <RankerScore>0.04968423665991013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Bush_presidential_campaign,_2000</WikiTitle> <WikiTitleID>360446</WikiTitleID> <RankerScore>0.09082021495660816</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Bush_military_service_controversy</WikiTitle> <WikiTitleID>511694</WikiTitleID> <RankerScore>0.04968423665991013</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bush</EntitySurfaceForm>
+	<EntityTextStart>327</EntityTextStart>
+	<EntityTextEnd>331</EntityTextEnd>
+	<LinkerScore>0.5761162153905304</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>George_W._Bush</WikiTitle>
+		<WikiTitleID>3414021</WikiTitleID>
+		<RankerScore>0.27423184960036745</RankerScore>
+		<Attributes>convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>George_W._Bush</WikiTitle> <WikiTitleID>3414021</WikiTitleID> <RankerScore>0.27423184960036745</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(band)</WikiTitle> <WikiTitleID>171768</WikiTitleID> <RankerScore>0.04953441994481013</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_H._W._Bush</WikiTitle> <WikiTitleID>11955</WikiTitleID> <RankerScore>0.12204184080024721</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(Canadian_band)</WikiTitle> <WikiTitleID>1947579</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bush_(Alaska)</WikiTitle> <WikiTitleID>2941</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush,_Louisiana</WikiTitle> <WikiTitleID>770004</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(1916_automobile)</WikiTitle> <WikiTitleID>12455948</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_family</WikiTitle> <WikiTitleID>360448</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_Theatre</WikiTitle> <WikiTitleID>3070043</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_Township,_Boyd_County,_Nebraska</WikiTitle> <WikiTitleID>15919517</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush,_Illinois</WikiTitle> <WikiTitleID>112070</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burning_bush</WikiTitle> <WikiTitleID>477239</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Bush_(Hornblower)</WikiTitle> <WikiTitleID>5861209</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Bush_(DD-529)</WikiTitle> <WikiTitleID>1854818</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alan_Bush</WikiTitle> <WikiTitleID>64598</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jeb_Bush</WikiTitle> <WikiTitleID>189322</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percy_Bush</WikiTitle> <WikiTitleID>11588993</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kate_Bush</WikiTitle> <WikiTitleID>17443</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donie_Bush</WikiTitle> <WikiTitleID>2058528</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Bush_presidential_campaign,_2004</WikiTitle> <WikiTitleID>509804</WikiTitleID> <RankerScore>0.03259952292085736</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Democrat</EntitySurfaceForm>
+	<EntityTextStart>336</EntityTextStart>
+	<EntityTextEnd>344</EntityTextEnd>
+	<LinkerScore>1.0401985438062198</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Democratic_Party_(United_States)</WikiTitle>
+		<WikiTitleID>5043544</WikiTitleID>
+		<RankerScore>0.24316789963038415</RankerScore>
+		<Attributes>party	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Democratic_Party_(United_States)</WikiTitle> <WikiTitleID>5043544</WikiTitleID> <RankerScore>0.24316789963038415</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_Democratic_Party</WikiTitle> <WikiTitleID>3955409</WikiTitleID> <RankerScore>0.0656690011496116</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>History_of_the_United_States_Democratic_Party</WikiTitle> <WikiTitleID>3088213</WikiTitleID> <RankerScore>0.05486489664641389</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Democratic-Farmer-Labor_Party</WikiTitle> <WikiTitleID>75413</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democrat_Party_(Thailand)</WikiTitle> <WikiTitleID>866140</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Party_of_Oregon</WikiTitle> <WikiTitleID>8005160</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Party_of_Hawaii</WikiTitle> <WikiTitleID>1138116</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Party_of_Virginia</WikiTitle> <WikiTitleID>9428874</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Australian_Democrats</WikiTitle> <WikiTitleID>1943</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democrat_Party_(phrase)</WikiTitle> <WikiTitleID>781322</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Utah_Democratic_Party</WikiTitle> <WikiTitleID>5103838</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democrat_Township,_Carroll_County,_Indiana</WikiTitle> <WikiTitleID>13712519</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic-Republican_Party</WikiTitle> <WikiTitleID>32080</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_Democratic_Party</WikiTitle> <WikiTitleID>881689</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democracy</WikiTitle> <WikiTitleID>7959</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Democratic_Party_of_Canada</WikiTitle> <WikiTitleID>1433816</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_State_Democratic_Committee</WikiTitle> <WikiTitleID>9427527</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_Dakota_Democratic_Party</WikiTitle> <WikiTitleID>584810</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kansas_Democratic_Party</WikiTitle> <WikiTitleID>6558924</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Zealand_Democrat_Party</WikiTitle> <WikiTitleID>1130996</WikiTitleID> <RankerScore>0.03742930603374061</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>AL Gore</EntitySurfaceForm>
+	<EntityTextStart>345</EntityTextStart>
+	<EntityTextEnd>352</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Gore</WikiTitle>
+		<WikiTitleID>5042706</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>candidate	president	blogger	nominee	person	soldier	writer	environmentalist	winner	alumnus	democrat	senator	member	correspondent	capitalist	director	personnel	baptists</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gore</EntitySurfaceForm>
+	<EntityTextStart>348</EntityTextStart>
+	<EntityTextEnd>352</EntityTextEnd>
+	<LinkerScore>0.6647283776531929</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Gore</WikiTitle>
+		<WikiTitleID>5042706</WikiTitleID>
+		<RankerScore>0.2653638794859218</RankerScore>
+		<Attributes>candidate	president	blogger	nominee	person	soldier	writer	environmentalist	winner	alumnus	democrat	senator	member	correspondent	capitalist	director	personnel	baptists</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gore,_New_Zealand</WikiTitle> <WikiTitleID>266087</WikiTitleID> <RankerScore>0.07436261723117951</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Gore</WikiTitle> <WikiTitleID>5042706</WikiTitleID> <RankerScore>0.2653638794859218</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Ethiopia</WikiTitle> <WikiTitleID>2168156</WikiTitleID> <RankerScore>0.0639936102797741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Virginia</WikiTitle> <WikiTitleID>2802823</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Oklahoma</WikiTitle> <WikiTitleID>130591</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(hundred)</WikiTitle> <WikiTitleID>3224995</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martin_Gore</WikiTitle> <WikiTitleID>276581</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_Highway</WikiTitle> <WikiTitleID>1627052</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Nova_Scotia</WikiTitle> <WikiTitleID>10348434</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(band)</WikiTitle> <WikiTitleID>18040062</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Quebec</WikiTitle> <WikiTitleID>17137695</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_Verbinski</WikiTitle> <WikiTitleID>2750126</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_District,_Upper_Canada</WikiTitle> <WikiTitleID>3035042</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>W._L._Gore_and_Associates</WikiTitle> <WikiTitleID>4197757</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(road)</WikiTitle> <WikiTitleID>900779</WikiTitleID> <RankerScore>0.04968999108359372</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>state</EntitySurfaceForm>
+	<EntityTextStart>411</EntityTextStart>
+	<EntityTextEnd>416</EntityTextEnd>
+	<LinkerScore>0.285836033003087</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>U.S._state</WikiTitle>
+		<WikiTitleID>48831</WikiTitleID>
+		<RankerScore>0.12417529455648617</RankerScore>
+		<Attributes>subdivision	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_India</WikiTitle> <WikiTitleID>375986</WikiTitleID> <RankerScore>0.07315924239158306</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.12417529455648617</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Administrative_divisions_of_Mexico</WikiTitle> <WikiTitleID>87990</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_and_territories_of_Australia</WikiTitle> <WikiTitleID>4689096</WikiTitleID> <RankerScore>0.07401039495252423</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Brazil</WikiTitle> <WikiTitleID>229379</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Austria</WikiTitle> <WikiTitleID>214486</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Germany</WikiTitle> <WikiTitleID>217450</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(computer_science)</WikiTitle> <WikiTitleID>285512</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(law)</WikiTitle> <WikiTitleID>2383572</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_school</WikiTitle> <WikiTitleID>573933</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(administrative_division)</WikiTitle> <WikiTitleID>172400</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>South_Australian_House_of_Assembly</WikiTitle> <WikiTitleID>579453</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Venezuela</WikiTitle> <WikiTitleID>1831965</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_(physics)</WikiTitle> <WikiTitleID>658642</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Nigeria</WikiTitle> <WikiTitleID>226734</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_government</WikiTitle> <WikiTitleID>862851</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Malaysia</WikiTitle> <WikiTitleID>690318</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>States_of_Sudan</WikiTitle> <WikiTitleID>579458</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Thermodynamic_state</WikiTitle> <WikiTitleID>2747182</WikiTitleID> <RankerScore>0.042862062829376865</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida</EntitySurfaceForm>
+	<EntityTextStart>420</EntityTextStart>
+	<EntityTextEnd>427</EntityTextEnd>
+	<LinkerScore>1.0016414787345362</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida</WikiTitle>
+		<WikiTitleID>10829</WikiTitleID>
+		<RankerScore>0.26754737291979</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.26754737291979</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Florida</WikiTitle> <WikiTitleID>60611</WikiTitleID> <RankerScore>0.03910601555895909</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators</WikiTitle> <WikiTitleID>965005</WikiTitleID> <RankerScore>0.04249349143450888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_football</WikiTitle> <WikiTitleID>6161011</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_USA</WikiTitle> <WikiTitleID>2286699</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_men&apos;s_basketball</WikiTitle> <WikiTitleID>10244706</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Florida_Gators_football_team</WikiTitle> <WikiTitleID>8250592</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_Teen_USA</WikiTitle> <WikiTitleID>4540856</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orlando,_Florida</WikiTitle> <WikiTitleID>100582</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Orange_County,_New_York</WikiTitle> <WikiTitleID>126930</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Florida</WikiTitle> <WikiTitleID>2716954</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Massachusetts</WikiTitle> <WikiTitleID>116682</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Firecats</WikiTitle> <WikiTitleID>1956545</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Evans</WikiTitle> <WikiTitleID>4326774</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Lottery</WikiTitle> <WikiTitleID>1644197</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Marlins</WikiTitle> <WikiTitleID>11278</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Puerto_Rico</WikiTitle> <WikiTitleID>654432</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_New_York</WikiTitle> <WikiTitleID>141348</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Valle_del_Cauca</WikiTitle> <WikiTitleID>10719816</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Florida</WikiTitle> <WikiTitleID>416354</WikiTitleID> <RankerScore>0.038285477652161296</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Ginsburg</EntitySurfaceForm>
+	<EntityTextStart>448</EntityTextStart>
+	<EntityTextEnd>456</EntityTextEnd>
+	<LinkerScore>1.1097815819961128</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Ruth_Bader_Ginsburg</WikiTitle>
+		<WikiTitleID>185232</WikiTitleID>
+		<RankerScore>0.6411883628399517</RankerScore>
+		<Attributes>member	patient	jew	lawyer	alumnus	survivor	judges	justice	person	scholar</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Ruth_Bader_Ginsburg</WikiTitle> <WikiTitleID>185232</WikiTitleID> <RankerScore>0.6411883628399517</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Christian_David_Ginsburg</WikiTitle> <WikiTitleID>3133483</WikiTitleID> <RankerScore>0.11962462972137627</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Grigory_Ginzburg</WikiTitle> <WikiTitleID>3183566</WikiTitleID> <RankerScore>0.11844083414979552</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ahad_Ha&apos;am</WikiTitle> <WikiTitleID>282878</WikiTitleID> <RankerScore>0.12074617328887659</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Bush</EntitySurfaceForm>
+	<EntityTextStart>465</EntityTextStart>
+	<EntityTextEnd>469</EntityTextEnd>
+	<LinkerScore>0.33933087927101063</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>George_W._Bush</WikiTitle>
+		<WikiTitleID>3414021</WikiTitleID>
+		<RankerScore>0.1822390629661009</RankerScore>
+		<Attributes>convert	owner	alumnus	aviator	candidate	executive	republican	president	industrialist	person	politician	player	methodists	officer	episcopalian	recipient	nominee	speaker</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>George_W._Bush</WikiTitle> <WikiTitleID>3414021</WikiTitleID> <RankerScore>0.1822390629661009</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(band)</WikiTitle> <WikiTitleID>171768</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_H._W._Bush</WikiTitle> <WikiTitleID>11955</WikiTitleID> <RankerScore>0.10247621503233599</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(Canadian_band)</WikiTitle> <WikiTitleID>1947579</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>The_Bush_(Alaska)</WikiTitle> <WikiTitleID>2941</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush,_Louisiana</WikiTitle> <WikiTitleID>770004</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_(1916_automobile)</WikiTitle> <WikiTitleID>12455948</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_family</WikiTitle> <WikiTitleID>360448</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_Theatre</WikiTitle> <WikiTitleID>3070043</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush_Township,_Boyd_County,_Nebraska</WikiTitle> <WikiTitleID>15919517</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bush,_Illinois</WikiTitle> <WikiTitleID>112070</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Burning_bush</WikiTitle> <WikiTitleID>477239</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>William_Bush_(Hornblower)</WikiTitle> <WikiTitleID>5861209</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>USS_Bush_(DD-529)</WikiTitle> <WikiTitleID>1854818</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Alan_Bush</WikiTitle> <WikiTitleID>64598</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Jeb_Bush</WikiTitle> <WikiTitleID>189322</WikiTitleID> <RankerScore>0.12000648192661452</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Percy_Bush</WikiTitle> <WikiTitleID>11588993</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kate_Bush</WikiTitle> <WikiTitleID>17443</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Donie_Bush</WikiTitle> <WikiTitleID>2058528</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_W._Bush_presidential_campaign,_2004</WikiTitle> <WikiTitleID>509804</WikiTitleID> <RankerScore>0.03501636706323228</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>lawyer</EntitySurfaceForm>
+	<EntityTextStart>472</EntityTextStart>
+	<EntityTextEnd>478</EntityTextEnd>
+	<LinkerScore>0.5580119064171407</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Lawyer</WikiTitle>
+		<WikiTitleID>17541</WikiTitleID>
+		<RankerScore>0.2608424638981044</RankerScore>
+		<Attributes>ethics	profession	lawyer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Lawyer</WikiTitle> <WikiTitleID>17541</WikiTitleID> <RankerScore>0.2608424638981044</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attorney_at_law</WikiTitle> <WikiTitleID>168902</WikiTitleID> <RankerScore>0.10032336239517466</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law_of_the_United_States</WikiTitle> <WikiTitleID>77749</WikiTitleID> <RankerScore>0.11601055737253661</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Law</WikiTitle> <WikiTitleID>17538</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Solicitor</WikiTitle> <WikiTitleID>89777</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sharia</WikiTitle> <WikiTitleID>28840</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Lindsey_McDonald</WikiTitle> <WikiTitleID>970956</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Guantanamo_Bay_attorneys</WikiTitle> <WikiTitleID>9327970</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Barrister</WikiTitle> <WikiTitleID>4848</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Attorney&apos;s_fee</WikiTitle> <WikiTitleID>2437392</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Scots_law</WikiTitle> <WikiTitleID>282669</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ancient_Greek_law</WikiTitle> <WikiTitleID>2708235</WikiTitleID> <RankerScore>0.05809151292602047</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Federal High Court</EntitySurfaceForm>
+	<EntityTextStart>498</EntityTextStart>
+	<EntityTextEnd>516</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Islamabad_High_Court</WikiTitle>
+		<WikiTitleID>15668259</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>court</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>High Court</EntitySurfaceForm>
+	<EntityTextStart>506</EntityTextStart>
+	<EntityTextEnd>516</EntityTextEnd>
+	<LinkerScore>0.4881801039494502</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>High_Court_of_Australia</WikiTitle>
+		<WikiTitleID>314201</WikiTitleID>
+		<RankerScore>0.1172676220551935</RankerScore>
+		<Attributes>establishment	building	court	courthouse</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justice</WikiTitle> <WikiTitleID>572602</WikiTitleID> <RankerScore>0.08087807482882536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Australia</WikiTitle> <WikiTitleID>314201</WikiTitleID> <RankerScore>0.1172676220551935</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court</WikiTitle> <WikiTitleID>467751</WikiTitleID> <RankerScore>0.05697276966077764</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_(Ireland)</WikiTitle> <WikiTitleID>1780651</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_(Fiji)</WikiTitle> <WikiTitleID>2526453</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_New_Zealand</WikiTitle> <WikiTitleID>3902269</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_(Hong_Kong)</WikiTitle> <WikiTitleID>2305259</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Courts_of_India</WikiTitle> <WikiTitleID>2282504</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judicial_system_of_Singapore</WikiTitle> <WikiTitleID>2443416</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_South_Africa</WikiTitle> <WikiTitleID>1413162</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_of_Justiciary</WikiTitle> <WikiTitleID>423941</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Courts_of_Pakistan</WikiTitle> <WikiTitleID>13444074</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Courts_of_Malaysia</WikiTitle> <WikiTitleID>15497851</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Madras_High_Court</WikiTitle> <WikiTitleID>2354876</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary_of_Ghana</WikiTitle> <WikiTitleID>6501931</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Courts_of_Denmark</WikiTitle> <WikiTitleID>1826840</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kerala_High_Court</WikiTitle> <WikiTitleID>2604440</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>High_Court_(Burma)</WikiTitle> <WikiTitleID>6457955</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Bombay_High_Court</WikiTitle> <WikiTitleID>426102</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Isle_of_Man_High_Court</WikiTitle> <WikiTitleID>10685621</WikiTitleID> <RankerScore>0.04381656079148255</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>548</EntityTextEnd>
+	<LinkerScore>1.0613707729875013</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida</WikiTitle>
+		<WikiTitleID>10829</WikiTitleID>
+		<RankerScore>0.26422717059264944</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.26422717059264944</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Florida</WikiTitle> <WikiTitleID>60611</WikiTitleID> <RankerScore>0.03862224916408438</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators</WikiTitle> <WikiTitleID>965005</WikiTitleID> <RankerScore>0.04121269881545911</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_football</WikiTitle> <WikiTitleID>6161011</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_USA</WikiTitle> <WikiTitleID>2286699</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_men&apos;s_basketball</WikiTitle> <WikiTitleID>10244706</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Florida_Gators_football_team</WikiTitle> <WikiTitleID>8250592</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_Teen_USA</WikiTitle> <WikiTitleID>4540856</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orlando,_Florida</WikiTitle> <WikiTitleID>100582</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Orange_County,_New_York</WikiTitle> <WikiTitleID>126930</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Florida</WikiTitle> <WikiTitleID>2716954</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Massachusetts</WikiTitle> <WikiTitleID>116682</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Firecats</WikiTitle> <WikiTitleID>1956545</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Evans</WikiTitle> <WikiTitleID>4326774</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Lottery</WikiTitle> <WikiTitleID>1644197</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Marlins</WikiTitle> <WikiTitleID>11278</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Puerto_Rico</WikiTitle> <WikiTitleID>654432</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_New_York</WikiTitle> <WikiTitleID>141348</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Valle_del_Cauca</WikiTitle> <WikiTitleID>10719816</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Florida</WikiTitle> <WikiTitleID>416354</WikiTitleID> <RankerScore>0.03858458126045924</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>541</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>1.2183024335250574</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida_Supreme_Court</WikiTitle>
+		<WikiTitleID>1635683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida_Supreme_Court</WikiTitle> <WikiTitleID>1635683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>549</EntityTextStart>
+	<EntityTextEnd>562</EntityTextEnd>
+	<LinkerScore>1.1659798206329435</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida_Supreme_Court</WikiTitle>
+		<WikiTitleID>1635683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida_Supreme_Court</WikiTitle> <WikiTitleID>1635683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>State court</EntitySurfaceForm>
+	<EntityTextStart>639</EntityTextStart>
+	<EntityTextEnd>650</EntityTextEnd>
+	<LinkerScore>0.04017507012298485</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>U.S._state</WikiTitle>
+		<WikiTitleID>48831</WikiTitleID>
+		<RankerScore>0.676489855676825</RankerScore>
+		<Attributes>subdivision	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.676489855676825</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary_of_Germany</WikiTitle> <WikiTitleID>265708</WikiTitleID> <RankerScore>0.323510144323175</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>State Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>731</EntityTextStart>
+	<EntityTextEnd>750</EntityTextEnd>
+	<LinkerScore>0.6738636113959446</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>State_supreme_court</WikiTitle>
+		<WikiTitleID>28945</WikiTitleID>
+		<RankerScore>0.3612953913212007</RankerScore>
+		<Attributes>court	system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>State_supreme_court</WikiTitle> <WikiTitleID>28945</WikiTitleID> <RankerScore>0.3612953913212007</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.1403682976108327</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Jersey_Supreme_Court</WikiTitle> <WikiTitleID>1265234</WikiTitleID> <RankerScore>0.14595163563869046</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Nevada</WikiTitle> <WikiTitleID>1688613</WikiTitleID> <RankerScore>0.07047693508585523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Ohio</WikiTitle> <WikiTitleID>764790</WikiTitleID> <RankerScore>0.07047693508585523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_California</WikiTitle> <WikiTitleID>532376</WikiTitleID> <RankerScore>0.07047693508585523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wisconsin_Supreme_Court</WikiTitle> <WikiTitleID>2328280</WikiTitleID> <RankerScore>0.07047693508585523</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Supreme_Court</WikiTitle> <WikiTitleID>1313678</WikiTitleID> <RankerScore>0.07047693508585523</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>737</EntityTextStart>
+	<EntityTextEnd>750</EntityTextEnd>
+	<LinkerScore>0.9479786814543961</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>State_supreme_court</WikiTitle>
+		<WikiTitleID>28945</WikiTitleID>
+		<RankerScore>0.4591365622267741</RankerScore>
+		<Attributes>court	system</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>State_supreme_court</WikiTitle> <WikiTitleID>28945</WikiTitleID> <RankerScore>0.4591365622267741</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Supreme_Court</WikiTitle> <WikiTitleID>265108</WikiTitleID> <RankerScore>0.12093592999907574</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_Jersey_Supreme_Court</WikiTitle> <WikiTitleID>1265234</WikiTitleID> <RankerScore>0.12995731164303842</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Nevada</WikiTitle> <WikiTitleID>1688613</WikiTitleID> <RankerScore>0.05799403922622233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_Ohio</WikiTitle> <WikiTitleID>764790</WikiTitleID> <RankerScore>0.05799403922622233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_California</WikiTitle> <WikiTitleID>532376</WikiTitleID> <RankerScore>0.05799403922622233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Wisconsin_Supreme_Court</WikiTitle> <WikiTitleID>2328280</WikiTitleID> <RankerScore>0.05799403922622233</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Michigan_Supreme_Court</WikiTitle> <WikiTitleID>1313678</WikiTitleID> <RankerScore>0.05799403922622233</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Justice Sandra Day O&apos;Connor</EntitySurfaceForm>
+	<EntityTextStart>768</EntityTextStart>
+	<EntityTextEnd>795</EntityTextEnd>
+	<LinkerScore>1.1195593173723017</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle>
+		<WikiTitleID>42640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>alumnus	episcopalian	person	republican	senator	judges	survivor	lawyer	justice	legislator	prosecutor	chancellor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle> <WikiTitleID>42640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Sandra Day O&apos;Connor</EntitySurfaceForm>
+	<EntityTextStart>776</EntityTextStart>
+	<EntityTextEnd>795</EntityTextEnd>
+	<LinkerScore>1.3172412944338017</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle>
+		<WikiTitleID>42640</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>alumnus	episcopalian	person	republican	senator	judges	survivor	lawyer	justice	legislator	prosecutor	chancellor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle> <WikiTitleID>42640</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>O&apos;Connor</EntitySurfaceForm>
+	<EntityTextStart>787</EntityTextStart>
+	<EntityTextEnd>795</EntityTextEnd>
+	<LinkerScore>0.8589190444071957</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle>
+		<WikiTitleID>42640</WikiTitleID>
+		<RankerScore>0.3367114503406354</RankerScore>
+		<Attributes>alumnus	episcopalian	person	republican	senator	judges	survivor	lawyer	justice	legislator	prosecutor	chancellor</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor</WikiTitle> <WikiTitleID>42640</WikiTitleID> <RankerScore>0.3367114503406354</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Western_Australia</WikiTitle> <WikiTitleID>2597991</WikiTitleID> <RankerScore>0.06615061813713895</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Australian_Capital_Territory</WikiTitle> <WikiTitleID>2633897</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor,_Ontario</WikiTitle> <WikiTitleID>13354602</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Division_of_O&apos;Connor</WikiTitle> <WikiTitleID>2177303</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_O&apos;Connor_(politician)</WikiTitle> <WikiTitleID>1221056</WikiTitleID> <RankerScore>0.08705937948495633</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Richard_O&apos;Connor</WikiTitle> <WikiTitleID>203674</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>C._Y._O&apos;Connor</WikiTitle> <WikiTitleID>216426</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Arthur_O&apos;Connor</WikiTitle> <WikiTitleID>13506861</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Sandra_Day_O&apos;Connor_High_School_(Helotes,_Texas)</WikiTitle> <WikiTitleID>6754855</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Carroll_O&apos;Connor</WikiTitle> <WikiTitleID>245805</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tommy_O&apos;Connor</WikiTitle> <WikiTitleID>14158433</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>O&apos;Connor_Island</WikiTitle> <WikiTitleID>18547958</WikiTitleID> <RankerScore>0.051007855203726936</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>State court</EntitySurfaceForm>
+	<EntityTextStart>810</EntityTextStart>
+	<EntityTextEnd>821</EntityTextEnd>
+	<LinkerScore>0.29077504016948486</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>U.S._state</WikiTitle>
+		<WikiTitleID>48831</WikiTitleID>
+		<RankerScore>0.6876989064878869</RankerScore>
+		<Attributes>subdivision	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>U.S._state</WikiTitle> <WikiTitleID>48831</WikiTitleID> <RankerScore>0.6876989064878869</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judiciary_of_Germany</WikiTitle> <WikiTitleID>265708</WikiTitleID> <RankerScore>0.31230109351211305</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>legislature</EntitySurfaceForm>
+	<EntityTextStart>857</EntityTextStart>
+	<EntityTextEnd>868</EntityTextEnd>
+	<LinkerScore>0.19391944130661476</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>State_legislature_(United_States)</WikiTitle>
+		<WikiTitleID>48940</WikiTitleID>
+		<RankerScore>0.12210059042583919</RankerScore>
+		<Attributes>legislature</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Legislature</WikiTitle> <WikiTitleID>44421</WikiTitleID> <RankerScore>0.09165897708068371</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>State_legislature_(United_States)</WikiTitle> <WikiTitleID>48940</WikiTitleID> <RankerScore>0.12210059042583919</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Yuan</WikiTitle> <WikiTitleID>140556</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>New_York_Legislature</WikiTitle> <WikiTitleID>426458</WikiTitleID> <RankerScore>0.0550665428066286</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly_of_New_Brunswick</WikiTitle> <WikiTitleID>666742</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly_of_Alberta</WikiTitle> <WikiTitleID>664014</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>California_State_Legislature</WikiTitle> <WikiTitleID>425922</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oregon_Legislative_Assembly</WikiTitle> <WikiTitleID>2436275</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>National_Assembly_of_Quebec</WikiTitle> <WikiTitleID>396394</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Nebraska_Legislature</WikiTitle> <WikiTitleID>425879</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Tennessee_General_Assembly</WikiTitle> <WikiTitleID>904500</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maine_Legislature</WikiTitle> <WikiTitleID>426195</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly_of_British_Columbia</WikiTitle> <WikiTitleID>663889</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ohio_General_Assembly</WikiTitle> <WikiTitleID>426286</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Minnesota_Legislature</WikiTitle> <WikiTitleID>624367</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Provisional_Legislature_of_Oregon</WikiTitle> <WikiTitleID>11761063</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Georgia_General_Assembly</WikiTitle> <WikiTitleID>426277</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly_of_Quebec</WikiTitle> <WikiTitleID>517181</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Board_of_Supervisors</WikiTitle> <WikiTitleID>4844632</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Legislative_Assembly</WikiTitle> <WikiTitleID>222426</WikiTitleID> <RankerScore>0.043010228805108734</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida</EntitySurfaceForm>
+	<EntityTextStart>992</EntityTextStart>
+	<EntityTextEnd>999</EntityTextEnd>
+	<LinkerScore>0.8685722720548338</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida</WikiTitle>
+		<WikiTitleID>10829</WikiTitleID>
+		<RankerScore>0.2572494014142564</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.2572494014142564</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Florida</WikiTitle> <WikiTitleID>60611</WikiTitleID> <RankerScore>0.038220794232283355</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators</WikiTitle> <WikiTitleID>965005</WikiTitleID> <RankerScore>0.04085058827796316</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_football</WikiTitle> <WikiTitleID>6161011</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_USA</WikiTitle> <WikiTitleID>2286699</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_men&apos;s_basketball</WikiTitle> <WikiTitleID>10244706</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Florida_Gators_football_team</WikiTitle> <WikiTitleID>8250592</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_Teen_USA</WikiTitle> <WikiTitleID>4540856</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orlando,_Florida</WikiTitle> <WikiTitleID>100582</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Orange_County,_New_York</WikiTitle> <WikiTitleID>126930</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Florida</WikiTitle> <WikiTitleID>2716954</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Massachusetts</WikiTitle> <WikiTitleID>116682</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Firecats</WikiTitle> <WikiTitleID>1956545</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Evans</WikiTitle> <WikiTitleID>4326774</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Lottery</WikiTitle> <WikiTitleID>1644197</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Marlins</WikiTitle> <WikiTitleID>11278</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Puerto_Rico</WikiTitle> <WikiTitleID>654432</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_New_York</WikiTitle> <WikiTitleID>141348</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Valle_del_Cauca</WikiTitle> <WikiTitleID>10719816</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Florida</WikiTitle> <WikiTitleID>416354</WikiTitleID> <RankerScore>0.03903995388679395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>The US</EntitySurfaceForm>
+	<EntityTextStart>1009</EntityTextStart>
+	<EntityTextEnd>1015</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>US Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>1013</EntityTextStart>
+	<EntityTextEnd>1029</EntityTextEnd>
+	<LinkerScore>1.0534290379724658</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle>
+		<WikiTitleID>31737</WikiTitleID>
+		<RankerScore>0.7934214962448835</RankerScore>
+		<Attributes>court	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>31737</WikiTitleID> <RankerScore>0.7934214962448835</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>3047164</WikiTitleID> <RankerScore>0.20657850375511655</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>1016</EntityTextStart>
+	<EntityTextEnd>1029</EntityTextEnd>
+	<LinkerScore>1.053970327368581</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle>
+		<WikiTitleID>31737</WikiTitleID>
+		<RankerScore>0.7944447862074375</RankerScore>
+		<Attributes>court	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>31737</WikiTitleID> <RankerScore>0.7944447862074375</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_Supreme_Court_of_the_United_States</WikiTitle> <WikiTitleID>3047164</WikiTitleID> <RankerScore>0.20555521379256259</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Judith</EntitySurfaceForm>
+	<EntityTextStart>1097</EntityTextStart>
+	<EntityTextEnd>1103</EntityTextEnd>
+	<LinkerScore>0.1714826570282257</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Book_of_Judith</WikiTitle>
+		<WikiTitleID>420456</WikiTitleID>
+		<RankerScore>0.07370080990712666</RankerScore>
+		<Attributes>woman	book</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Book_of_Judith</WikiTitle> <WikiTitleID>420456</WikiTitleID> <RankerScore>0.07370080990712666</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Bavaria_(795-843)</WikiTitle> <WikiTitleID>2306238</WikiTitleID> <RankerScore>0.05471754995026505</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Flanders</WikiTitle> <WikiTitleID>912226</WikiTitleID> <RankerScore>0.05538870518240708</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(Serov)</WikiTitle> <WikiTitleID>3681579</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(poem)</WikiTitle> <WikiTitleID>542149</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Quiney</WikiTitle> <WikiTitleID>11740189</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(song)</WikiTitle> <WikiTitleID>9135813</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(film)</WikiTitle> <WikiTitleID>2360326</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_and_Garfield_Reeves-Stevens</WikiTitle> <WikiTitleID>8297026</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Bavaria</WikiTitle> <WikiTitleID>2335724</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Lens</WikiTitle> <WikiTitleID>3264918</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(album)</WikiTitle> <WikiTitleID>7245705</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Myers</WikiTitle> <WikiTitleID>13574842</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Brittany</WikiTitle> <WikiTitleID>13742793</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Babenberg</WikiTitle> <WikiTitleID>2304783</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_of_Swabia</WikiTitle> <WikiTitleID>60741</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_(homily)</WikiTitle> <WikiTitleID>7303524</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judyta</WikiTitle> <WikiTitleID>16334</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Blunt-Lytton,_16th_Baroness_Wentworth</WikiTitle> <WikiTitleID>7280574</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Judith_Todd</WikiTitle> <WikiTitleID>14375419</WikiTitleID> <RankerScore>0.048011349115305954</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Spencer</EntitySurfaceForm>
+	<EntityTextStart>1104</EntityTextStart>
+	<EntityTextEnd>1111</EntityTextEnd>
+	<LinkerScore>-0.026388049765230015</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Spencer_County,_Indiana</WikiTitle>
+		<WikiTitleID>96070</WikiTitleID>
+		<RankerScore>0.06400322265007558</RankerScore>
+		<Attributes>county	establishment</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Spencer,_Massachusetts</WikiTitle> <WikiTitleID>259515</WikiTitleID> <RankerScore>0.062003701805811585</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_County,_Indiana</WikiTitle> <WikiTitleID>96070</WikiTitleID> <RankerScore>0.06400322265007558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Iowa</WikiTitle> <WikiTitleID>112899</WikiTitleID> <RankerScore>0.05218233313003629</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Herbert_Spencer</WikiTitle> <WikiTitleID>248859</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_West_Virginia</WikiTitle> <WikiTitleID>138607</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Indiana</WikiTitle> <WikiTitleID>112526</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_(village),_New_York</WikiTitle> <WikiTitleID>260114</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Wisconsin</WikiTitle> <WikiTitleID>260546</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Tennessee</WikiTitle> <WikiTitleID>135401</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_North_Carolina</WikiTitle> <WikiTitleID>128204</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Oklahoma</WikiTitle> <WikiTitleID>130458</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_County,_Kentucky</WikiTitle> <WikiTitleID>95525</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_Moon</WikiTitle> <WikiTitleID>3145230</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_New_South_Wales</WikiTitle> <WikiTitleID>6446308</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer_repeating_rifle</WikiTitle> <WikiTitleID>1611825</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_South_Dakota</WikiTitle> <WikiTitleID>134947</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Nebraska</WikiTitle> <WikiTitleID>123698</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Virginia</WikiTitle> <WikiTitleID>16265927</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spencer,_Idaho</WikiTitle> <WikiTitleID>110668</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Earl_Spencer</WikiTitle> <WikiTitleID>242687</WikiTitleID> <RankerScore>0.04834180837729862</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Washington</EntitySurfaceForm>
+	<EntityTextStart>1115</EntityTextStart>
+	<EntityTextEnd>1125</EntityTextEnd>
+	<LinkerScore>0.5057176322166138</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Washington,_D.C.</WikiTitle>
+		<WikiTitleID>108956</WikiTitleID>
+		<RankerScore>0.1509061431170692</RankerScore>
+		<Attributes>state	place	district	city	capital</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Washington,_D.C.</WikiTitle> <WikiTitleID>108956</WikiTitleID> <RankerScore>0.1509061431170692</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Wizards</WikiTitle> <WikiTitleID>72858</WikiTitleID> <RankerScore>0.04337487727519972</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>George_Washington</WikiTitle> <WikiTitleID>11968</WikiTitleID> <RankerScore>0.06554097420444546</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Washington</WikiTitle> <WikiTitleID>31776</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies_football</WikiTitle> <WikiTitleID>5954250</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Tyne_and_Wear</WikiTitle> <WikiTitleID>264845</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Pennsylvania</WikiTitle> <WikiTitleID>134086</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Pennsylvania</WikiTitle> <WikiTitleID>91922</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Oregon</WikiTitle> <WikiTitleID>48966</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_North_Carolina</WikiTitle> <WikiTitleID>127665</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_New_York</WikiTitle> <WikiTitleID>51541</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_USA</WikiTitle> <WikiTitleID>4429498</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Maryland</WikiTitle> <WikiTitleID>47730</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Huskies</WikiTitle> <WikiTitleID>994480</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_Connecticut</WikiTitle> <WikiTitleID>108766</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Washington_Teen_USA</WikiTitle> <WikiTitleID>4596506</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_Redskins</WikiTitle> <WikiTitleID>33673</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_Wisconsin</WikiTitle> <WikiTitleID>90922</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington,_New_Hampshire</WikiTitle> <WikiTitleID>124947</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Washington_County,_North_Carolina</WikiTitle> <WikiTitleID>93227</WikiTitleID> <RankerScore>0.04353988267078151</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1151</EntityTextEnd>
+	<LinkerScore>1.060767552884752</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida</WikiTitle>
+		<WikiTitleID>10829</WikiTitleID>
+		<RankerScore>0.2722009248671697</RankerScore>
+		<Attributes>colony	state</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida</WikiTitle> <WikiTitleID>10829</WikiTitleID> <RankerScore>0.2722009248671697</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Florida</WikiTitle> <WikiTitleID>60611</WikiTitleID> <RankerScore>0.037594415044653794</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators</WikiTitle> <WikiTitleID>965005</WikiTitleID> <RankerScore>0.03959820684836181</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_football</WikiTitle> <WikiTitleID>6161011</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_USA</WikiTitle> <WikiTitleID>2286699</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Gators_men&apos;s_basketball</WikiTitle> <WikiTitleID>10244706</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>2007_Florida_Gators_football_team</WikiTitle> <WikiTitleID>8250592</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miss_Florida_Teen_USA</WikiTitle> <WikiTitleID>4540856</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Orlando,_Florida</WikiTitle> <WikiTitleID>100582</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Orange_County,_New_York</WikiTitle> <WikiTitleID>126930</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Spanish_Florida</WikiTitle> <WikiTitleID>2716954</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Massachusetts</WikiTitle> <WikiTitleID>116682</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Firecats</WikiTitle> <WikiTitleID>1956545</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Evans</WikiTitle> <WikiTitleID>4326774</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Lottery</WikiTitle> <WikiTitleID>1644197</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida_Marlins</WikiTitle> <WikiTitleID>11278</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Puerto_Rico</WikiTitle> <WikiTitleID>654432</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_New_York</WikiTitle> <WikiTitleID>141348</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Florida,_Valle_del_Cauca</WikiTitle> <WikiTitleID>10719816</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_United_States_Senators_from_Florida</WikiTitle> <WikiTitleID>416354</WikiTitleID> <RankerScore>0.038270967837636165</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Florida Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>1144</EntityTextStart>
+	<EntityTextEnd>1165</EntityTextEnd>
+	<LinkerScore>1.232119329697152</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida_Supreme_Court</WikiTitle>
+		<WikiTitleID>1635683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida_Supreme_Court</WikiTitle> <WikiTitleID>1635683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Supreme Court</EntitySurfaceForm>
+	<EntityTextStart>1152</EntityTextStart>
+	<EntityTextEnd>1165</EntityTextEnd>
+	<LinkerScore>1.179810272196271</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Florida_Supreme_Court</WikiTitle>
+		<WikiTitleID>1635683</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Florida_Supreme_Court</WikiTitle> <WikiTitleID>1635683</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Al Gore</EntitySurfaceForm>
+	<EntityTextStart>1204</EntityTextStart>
+	<EntityTextEnd>1211</EntityTextEnd>
+	<LinkerScore>0.7502748208378774</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Gore</WikiTitle>
+		<WikiTitleID>5042706</WikiTitleID>
+		<RankerScore>0.6329533642363236</RankerScore>
+		<Attributes>candidate	president	blogger	nominee	person	soldier	writer	environmentalist	winner	alumnus	democrat	senator	member	correspondent	capitalist	director	personnel	baptists</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Al_Gore</WikiTitle> <WikiTitleID>5042706</WikiTitleID> <RankerScore>0.6329533642363236</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Gore_and_information_technology</WikiTitle> <WikiTitleID>11714059</WikiTitleID> <RankerScore>0.15299422015875713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Gore_presidential_campaign,_2000</WikiTitle> <WikiTitleID>651254</WikiTitleID> <RankerScore>0.21405241560491925</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Gore</EntitySurfaceForm>
+	<EntityTextStart>1207</EntityTextStart>
+	<EntityTextEnd>1211</EntityTextEnd>
+	<LinkerScore>0.16219888969033328</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Al_Gore</WikiTitle>
+		<WikiTitleID>5042706</WikiTitleID>
+		<RankerScore>0.1629928190017814</RankerScore>
+		<Attributes>candidate	president	blogger	nominee	person	soldier	writer	environmentalist	winner	alumnus	democrat	senator	member	correspondent	capitalist	director	personnel	baptists</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Gore,_New_Zealand</WikiTitle> <WikiTitleID>266087</WikiTitleID> <RankerScore>0.08463169470421406</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Al_Gore</WikiTitle> <WikiTitleID>5042706</WikiTitleID> <RankerScore>0.1629928190017814</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Ethiopia</WikiTitle> <WikiTitleID>2168156</WikiTitleID> <RankerScore>0.07292012085077573</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Virginia</WikiTitle> <WikiTitleID>2802823</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Oklahoma</WikiTitle> <WikiTitleID>130591</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(hundred)</WikiTitle> <WikiTitleID>3224995</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Martin_Gore</WikiTitle> <WikiTitleID>276581</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_Highway</WikiTitle> <WikiTitleID>1627052</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Nova_Scotia</WikiTitle> <WikiTitleID>10348434</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(band)</WikiTitle> <WikiTitleID>18040062</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore,_Quebec</WikiTitle> <WikiTitleID>17137695</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_Verbinski</WikiTitle> <WikiTitleID>2750126</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_District,_Upper_Canada</WikiTitle> <WikiTitleID>3035042</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>W._L._Gore_and_Associates</WikiTitle> <WikiTitleID>4197757</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Gore_(road)</WikiTitle> <WikiTitleID>900779</WikiTitleID> <RankerScore>0.056621280453602395</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>thousands</EntitySurfaceForm>
+	<EntityTextStart>1241</EntityTextStart>
+	<EntityTextEnd>1250</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>1000_(number)</WikiTitle>
+		<WikiTitleID>442472</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>integer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palm</EntitySurfaceForm>
+	<EntityTextStart>1276</EntityTextStart>
+	<EntityTextEnd>1280</EntityTextEnd>
+	<LinkerScore>0.388233226191933</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Arecaceae</WikiTitle>
+		<WikiTitleID>45715</WikiTitleID>
+		<RankerScore>0.11936349304405346</RankerScore>
+		<Attributes>family</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palm_(PDA)</WikiTitle> <WikiTitleID>88946</WikiTitleID> <RankerScore>0.11430669518435176</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm,_Inc.</WikiTitle> <WikiTitleID>71107</WikiTitleID> <RankerScore>0.09886047431077381</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Arecaceae</WikiTitle> <WikiTitleID>45715</WikiTitleID> <RankerScore>0.11936349304405346</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_OS</WikiTitle> <WikiTitleID>37545</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>PalmPilot</WikiTitle> <WikiTitleID>37544</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palming</WikiTitle> <WikiTitleID>3261051</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Island,_Queensland</WikiTitle> <WikiTitleID>1163769</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Johann_Philipp_Palm</WikiTitle> <WikiTitleID>2226566</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Hand</WikiTitle> <WikiTitleID>76900</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_(band)</WikiTitle> <WikiTitleID>16048526</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Treo_650</WikiTitle> <WikiTitleID>1101450</WikiTitleID> <RankerScore>0.08343366718260263</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Palm Beach</EntitySurfaceForm>
+	<EntityTextStart>1276</EntityTextStart>
+	<EntityTextEnd>1286</EntityTextEnd>
+	<LinkerScore>0.7199437649584433</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Palm_Beach_County,_Florida</WikiTitle>
+		<WikiTitleID>73647</WikiTitleID>
+		<RankerScore>0.34122477351952457</RankerScore>
+		<Attributes>establishment	county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Palm_Beach,_Florida</WikiTitle> <WikiTitleID>109617</WikiTitleID> <RankerScore>0.10720231265921837</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach_County,_Florida</WikiTitle> <WikiTitleID>73647</WikiTitleID> <RankerScore>0.34122477351952457</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach,_New_South_Wales</WikiTitle> <WikiTitleID>561846</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach,_Aruba</WikiTitle> <WikiTitleID>7588229</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach,_Queensland</WikiTitle> <WikiTitleID>1646427</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Worth_Avenue</WikiTitle> <WikiTitleID>3684347</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach_International_Airport</WikiTitle> <WikiTitleID>287471</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Palm_Beach,_Florida</WikiTitle> <WikiTitleID>109634</WikiTitleID> <RankerScore>0.08645934133688023</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Diocese_of_Palm_Beach</WikiTitle> <WikiTitleID>4540224</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach_Cardinals</WikiTitle> <WikiTitleID>757976</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Palm_Beach_Sharks_Soccer_Club</WikiTitle> <WikiTitleID>4228609</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Port_of_Palm_Beach</WikiTitle> <WikiTitleID>3514075</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Oro-Medonte,_Ontario</WikiTitle> <WikiTitleID>622050</WikiTitleID> <RankerScore>0.04651135724843768</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miami Dade</EntitySurfaceForm>
+	<EntityTextStart>1291</EntityTextStart>
+	<EntityTextEnd>1301</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miami-Dade_County,_Florida</WikiTitle>
+		<WikiTitleID>72350</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Miami</EntitySurfaceForm>
+	<EntityTextStart>1291</EntityTextStart>
+	<EntityTextEnd>1296</EntityTextEnd>
+	<LinkerScore>0.992791858173394</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miami,_Florida</WikiTitle>
+		<WikiTitleID>53846</WikiTitleID>
+		<RankerScore>0.22926758603537187</RankerScore>
+		<Attributes></Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miami,_Florida</WikiTitle> <WikiTitleID>53846</WikiTitleID> <RankerScore>0.22926758603537187</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Heat</WikiTitle> <WikiTitleID>72850</WikiTitleID> <RankerScore>0.06068749218235447</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Miami</WikiTitle> <WikiTitleID>87011</WikiTitleID> <RankerScore>0.07394099720932956</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_tribe</WikiTitle> <WikiTitleID>101664</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Hurricanes_football</WikiTitle> <WikiTitleID>2517648</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Masters</WikiTitle> <WikiTitleID>1872202</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Fusion_F.C.</WikiTitle> <WikiTitleID>245700</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami,_Oklahoma</WikiTitle> <WikiTitleID>130491</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Dolphins</WikiTitle> <WikiTitleID>19190</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_International_Airport</WikiTitle> <WikiTitleID>128968</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_County,_Ohio</WikiTitle> <WikiTitleID>93049</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines_Arena</WikiTitle> <WikiTitleID>327817</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami,_Arizona</WikiTitle> <WikiTitleID>106611</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_Hurricanes</WikiTitle> <WikiTitleID>9078644</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_(Will_Smith_song)</WikiTitle> <WikiTitleID>6723006</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami-Illinois_language</WikiTitle> <WikiTitleID>1571240</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_University</WikiTitle> <WikiTitleID>295150</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Great_Miami_River</WikiTitle> <WikiTitleID>553025</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami_RedHawks</WikiTitle> <WikiTitleID>8188731</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Miami,_Texas</WikiTitle> <WikiTitleID>136525</WikiTitleID> <RankerScore>0.03741787791605554</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Dade</EntitySurfaceForm>
+	<EntityTextStart>1297</EntityTextStart>
+	<EntityTextEnd>1301</EntityTextEnd>
+	<LinkerScore>1.1641836624867095</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miami-Dade_County,_Florida</WikiTitle>
+		<WikiTitleID>72350</WikiTitleID>
+		<RankerScore>0.7519332292709713</RankerScore>
+		<Attributes>county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Miami-Dade_County,_Florida</WikiTitle> <WikiTitleID>72350</WikiTitleID> <RankerScore>0.7519332292709713</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dade_County,_Georgia</WikiTitle> <WikiTitleID>96794</WikiTitleID> <RankerScore>0.1398754479208011</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dade_County,_Missouri</WikiTitle> <WikiTitleID>94660</WikiTitleID> <RankerScore>0.1081913228082277</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>counties</EntitySurfaceForm>
+	<EntityTextStart>1302</EntityTextStart>
+	<EntityTextEnd>1310</EntityTextEnd>
+	<LinkerScore>0.7776734733768985</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>List_of_counties_in_Florida</WikiTitle>
+		<WikiTitleID>58273</WikiTitleID>
+		<RankerScore>0.173251467836307</RankerScore>
+		<Attributes>list	county</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>County</WikiTitle> <WikiTitleID>36656</WikiTitleID> <RankerScore>0.09013816063433536</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_(China)</WikiTitle> <WikiTitleID>414278</WikiTitleID> <RankerScore>0.04812590362032888</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_(United_States)</WikiTitle> <WikiTitleID>88366</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Scotland</WikiTitle> <WikiTitleID>357427</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Ireland</WikiTitle> <WikiTitleID>15033</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Estonia</WikiTitle> <WikiTitleID>276323</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Norway</WikiTitle> <WikiTitleID>220056</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Romania</WikiTitle> <WikiTitleID>215468</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Comitatus_(Kingdom_of_Hungary)</WikiTitle> <WikiTitleID>991952</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Sweden</WikiTitle> <WikiTitleID>157881</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Albania</WikiTitle> <WikiTitleID>302363</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Denmark</WikiTitle> <WikiTitleID>221378</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_England</WikiTitle> <WikiTitleID>356740</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Liberia</WikiTitle> <WikiTitleID>480042</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_Lithuania</WikiTitle> <WikiTitleID>493118</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_counties_in_Florida</WikiTitle> <WikiTitleID>58273</WikiTitleID> <RankerScore>0.173251467836307</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Counties_of_the_United_Kingdom</WikiTitle> <WikiTitleID>2457482</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>List_of_counties_in_New_York</WikiTitle> <WikiTitleID>82159</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Ceremonial_counties_of_England</WikiTitle> <WikiTitleID>357469</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Historic_counties_of_Wales</WikiTitle> <WikiTitleID>338147</WikiTitleID> <RankerScore>0.04049908634758992</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+

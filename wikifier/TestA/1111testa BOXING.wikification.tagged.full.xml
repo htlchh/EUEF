@@ -1,0 +1,317 @@
+<WikifierOutput>
+<InputFilename>
+1111testa BOXING
+</InputFilename>
+<InputText>
+BOXING- MILLER DEFENDS WBA CRUISERWEIGHT TITLE.
+DUBLIN 1996-08-31
+American Nate Miller successfully defended his WBA cruiserweight title when he knocked out compatriot James Heath in the seventh round of their bout on Saturday.
+
+</InputText>
+<WikifiedEntities>
+<Entity>
+	<EntitySurfaceForm>MILLER</EntitySurfaceForm>
+	<EntityTextStart>8</EntityTextStart>
+	<EntityTextEnd>14</EntityTextEnd>
+	<LinkerScore>1.0</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Miller</WikiTitle>
+		<WikiTitleID>2159644</WikiTitleID>
+		<RankerScore>0.5</RankerScore>
+		<Attributes>occupation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBA</EntitySurfaceForm>
+	<EntityTextStart>23</EntityTextStart>
+	<EntityTextEnd>26</EntityTextEnd>
+	<LinkerScore>1.1574147525776546</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Association</WikiTitle>
+		<WikiTitleID>93469</WikiTitleID>
+		<RankerScore>0.5551445977605834</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Association</WikiTitle> <WikiTitleID>93469</WikiTitleID> <RankerScore>0.5551445977605834</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Bromwich_Albion_F.C.</WikiTitle> <WikiTitleID>33921</WikiTitleID> <RankerScore>0.10878385642725538</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Band_Association</WikiTitle> <WikiTitleID>4791897</WikiTitleID> <RankerScore>0.12121262213631723</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_Association</WikiTitle> <WikiTitleID>4435865</WikiTitleID> <RankerScore>0.10607506724858855</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_League</WikiTitle> <WikiTitleID>1761128</WikiTitleID> <RankerScore>0.10878385642725538</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>DUBLIN</EntitySurfaceForm>
+	<EntityTextStart>48</EntityTextStart>
+	<EntityTextEnd>54</EntityTextEnd>
+	<LinkerScore>0.7167532359805477</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Dublin</WikiTitle>
+		<WikiTitleID>8504</WikiTitleID>
+		<RankerScore>0.10623563831857744</RankerScore>
+		<Attributes>place	capital	establishment	city	town	port</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Dublin</WikiTitle> <WikiTitleID>8504</WikiTitleID> <RankerScore>0.10623563831857744</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_GAA</WikiTitle> <WikiTitleID>2759665</WikiTitleID> <RankerScore>0.06291355802052345</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_California</WikiTitle> <WikiTitleID>107333</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Ohio</WikiTitle> <WikiTitleID>150896</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Georgia</WikiTitle> <WikiTitleID>110212</WikiTitleID> <RankerScore>0.06245347507196424</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>County_Dublin</WikiTitle> <WikiTitleID>6514</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_New_Hampshire</WikiTitle> <WikiTitleID>124537</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Airport</WikiTitle> <WikiTitleID>293794</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>University_of_Dublin</WikiTitle> <WikiTitleID>145190</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_(European_Parliament_constituency)</WikiTitle> <WikiTitleID>2855251</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Perth,_Ontario</WikiTitle> <WikiTitleID>8163046</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Texas</WikiTitle> <WikiTitleID>135851</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Pennsylvania</WikiTitle> <WikiTitleID>131518</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Virginia</WikiTitle> <WikiTitleID>137735</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Kings_of_Dublin</WikiTitle> <WikiTitleID>1450475</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Indiana</WikiTitle> <WikiTitleID>112683</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin_Port</WikiTitle> <WikiTitleID>961047</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_Paterson</WikiTitle> <WikiTitleID>8684391</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Dublin,_North_Carolina</WikiTitle> <WikiTitleID>127678</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Roman_Catholic_Archdiocese_of_Dublin</WikiTitle> <WikiTitleID>8624259</WikiTitleID> <RankerScore>0.045199842858172634</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>American</EntitySurfaceForm>
+	<EntityTextStart>66</EntityTextStart>
+	<EntityTextEnd>74</EntityTextEnd>
+	<LinkerScore>0.6134467456276382</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>United_States</WikiTitle>
+		<WikiTitleID>3434750</WikiTitleID>
+		<RankerScore>0.13426332999240703</RankerScore>
+		<Attributes>state	country	colony	nation	establishment	member</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>United_States</WikiTitle> <WikiTitleID>3434750</WikiTitleID> <RankerScore>0.13426332999240703</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Poetry_of_the_United_States</WikiTitle> <WikiTitleID>412032</WikiTitleID> <RankerScore>0.05065364198932898</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Cinema_of_the_United_States</WikiTitle> <WikiTitleID>418334</WikiTitleID> <RankerScore>0.045781008987085446</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Americas</WikiTitle> <WikiTitleID>29833</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_football</WikiTitle> <WikiTitleID>770</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_English</WikiTitle> <WikiTitleID>1890</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>North_America</WikiTitle> <WikiTitleID>21139</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_literature</WikiTitle> <WikiTitleID>199154</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Television_in_the_United_States</WikiTitle> <WikiTitleID>519148</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Music_of_the_United_States</WikiTitle> <WikiTitleID>171080</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_League</WikiTitle> <WikiTitleID>64777</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Airlines</WikiTitle> <WikiTitleID>2386</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_Revolution</WikiTitle> <WikiTitleID>1973</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Army</WikiTitle> <WikiTitleID>32087</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>United_States_Navy</WikiTitle> <WikiTitleID>32083</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Radio_in_the_United_States</WikiTitle> <WikiTitleID>1598357</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>American_cuisine</WikiTitle> <WikiTitleID>199512</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Maps_of_American_ancestries</WikiTitle> <WikiTitleID>1722482</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Demographics_of_the_United_States</WikiTitle> <WikiTitleID>70197</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Visual_arts_of_the_United_States</WikiTitle> <WikiTitleID>199145</WikiTitleID> <RankerScore>0.0452530599430105</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Nate Miller</EntitySurfaceForm>
+	<EntityTextStart>75</EntityTextStart>
+	<EntityTextEnd>86</EntityTextEnd>
+	<LinkerScore>0.9624057974680112</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Nate_Miller</WikiTitle>
+		<WikiTitleID>6647379</WikiTitleID>
+		<RankerScore>1.0</RankerScore>
+		<Attributes>person	champion</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Nate_Miller</WikiTitle> <WikiTitleID>6647379</WikiTitleID> <RankerScore>1.0</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>WBA</EntitySurfaceForm>
+	<EntityTextStart>113</EntityTextStart>
+	<EntityTextEnd>116</EntityTextEnd>
+	<LinkerScore>1.0543388738066375</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>World_Boxing_Association</WikiTitle>
+		<WikiTitleID>93469</WikiTitleID>
+		<RankerScore>0.5573629551349026</RankerScore>
+		<Attributes>organisation</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>World_Boxing_Association</WikiTitle> <WikiTitleID>93469</WikiTitleID> <RankerScore>0.5573629551349026</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>West_Bromwich_Albion_F.C.</WikiTitle> <WikiTitleID>33921</WikiTitleID> <RankerScore>0.10929150950561124</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>Western_Band_Association</WikiTitle> <WikiTitleID>4791897</WikiTitleID> <RankerScore>0.12035284728946558</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_Association</WikiTitle> <WikiTitleID>4435865</WikiTitleID> <RankerScore>0.10370117856440939</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>World_Basketball_League</WikiTitle> <WikiTitleID>1761128</WikiTitleID> <RankerScore>0.10929150950561124</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>cruiserweight</EntitySurfaceForm>
+	<EntityTextStart>117</EntityTextStart>
+	<EntityTextEnd>130</EntityTextEnd>
+	<LinkerScore>-0.048697891210086997</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>Cruiserweight_(professional_wrestling)</WikiTitle>
+		<WikiTitleID>2051166</WikiTitleID>
+		<RankerScore>0.5572892342937172</RankerScore>
+		<Attributes>genre</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>Cruiserweight_(professional_wrestling)</WikiTitle> <WikiTitleID>2051166</WikiTitleID> <RankerScore>0.5572892342937172</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>WWE_Cruiserweight_Championship</WikiTitle> <WikiTitleID>866616</WikiTitleID> <RankerScore>0.4427107657062827</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>James Heath</EntitySurfaceForm>
+	<EntityTextStart>168</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>-0.23237317185787848</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>James_Heath_(golfer)</WikiTitle>
+		<WikiTitleID>12362202</WikiTitleID>
+		<RankerScore>0.3488635957683214</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Heath_(golfer)</WikiTitle> <WikiTitleID>12362202</WikiTitleID> <RankerScore>0.3488635957683214</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(engraver)</WikiTitle> <WikiTitleID>11250781</WikiTitleID> <RankerScore>0.33898487208312567</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(film_director)</WikiTitle> <WikiTitleID>5683318</WikiTitleID> <RankerScore>0.3121515321485528</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+<Entity>
+	<EntitySurfaceForm>Heath</EntitySurfaceForm>
+	<EntityTextStart>174</EntityTextStart>
+	<EntityTextEnd>179</EntityTextEnd>
+	<LinkerScore>-0.1590732549107053</LinkerScore>
+	<TopDisambiguation>
+		<WikiTitle>James_Heath_(golfer)</WikiTitle>
+		<WikiTitleID>12362202</WikiTitleID>
+		<RankerScore>0.3610443701385155</RankerScore>
+		<Attributes>person	golfer</Attributes>
+	</TopDisambiguation>
+		<DisambiguationCandidates>
+			<Candidate>
+				<WikiTitle>James_Heath_(golfer)</WikiTitle> <WikiTitleID>12362202</WikiTitleID> <RankerScore>0.3610443701385155</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(engraver)</WikiTitle> <WikiTitleID>11250781</WikiTitleID> <RankerScore>0.3279804506969149</RankerScore>
+			</Candidate>
+			<Candidate>
+				<WikiTitle>James_Heath_(film_director)</WikiTitle> <WikiTitleID>5683318</WikiTitleID> <RankerScore>0.31097517916456957</RankerScore>
+			</Candidate>
+		</DisambiguationCandidates>
+</Entity>
+</WikifiedEntities>
+</WikifierOutput>
+
