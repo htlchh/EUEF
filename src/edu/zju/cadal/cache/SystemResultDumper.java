@@ -4,19 +4,12 @@ import java.io.PrintStream;
 import java.util.Map;
 import java.util.Set;
 
-import edu.zju.cadal.dataset.AbstractDataset;
 import edu.zju.cadal.exception.UnknowMatchingException;
-import edu.zju.cadal.matching.AnnotationMatching;
-import edu.zju.cadal.matching.CandidateMatching;
 import edu.zju.cadal.matching.Matching;
-import edu.zju.cadal.matching.MentionMatching;
-import edu.zju.cadal.matching.NILMatching;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
-import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.model.NIL;
-import edu.zju.cadal.system.AbstractERDSystem;
 
 /**
  * @author:chenhui 
@@ -30,54 +23,10 @@ public class SystemResultDumper<T> {
 		SystemResultDumper.out = out;
 	}
 	
-	public static <T> void compare(SystemResult result, AbstractDataset ds, AbstractERDSystem s, Matching<T> m) throws UnknowMatchingException {
-		Map<String, String> rawTextMap = ds.getRawText();
-		
-		if (m instanceof MentionMatching) {
-			MentionMatching mwm = (MentionMatching)m;
-			Map<String, Set<Mention>> systemMentionMap = result.getMentionCache(s.getName(), ds.getName());
-			Map<String, Set<Mention>> goldMentionMap = ds.getGoldMention();
-			
-			for (String title : rawTextMap.keySet()) {
-				compare(
-						title, 
-						systemMentionMap.get(title), 
-						goldMentionMap.get(title), 
-						mwm);		
-			}
+	public static <T> void compare(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard, Matching<T> m) {
+		for (String title : systemResult.keySet()) {
+			compare(title, systemResult.get(title), goldStandard.get(title), m);
 		}
-		
-		else if (m instanceof AnnotationMatching) {
-			AnnotationMatching awm = (AnnotationMatching)m;
-			Map<String, Set<Annotation>> systemAnnotationMap = result.getAnnotationCache(s.getName(), ds.getName());
-			Map<String, Set<Annotation>> goldAnnotationMap = ds.getGoldAnnotation();
-			
-			for (String title : rawTextMap.keySet()) {
-				compare(title, systemAnnotationMap.get(title), goldAnnotationMap.get(title), awm);
-			}			
-		}
-		
-		else if (m instanceof CandidateMatching) {
-			CandidateMatching cwm = (CandidateMatching)m;
-			Map<String, Set<Candidate>> systemCandidateMap = result.getCandidateCache(s.getName(), ds.getName());
-			Map<String, Set<Candidate>> goldCandidateMap = ds.getGoldCandidate();
-			
-			for (String title : rawTextMap.keySet())
-				compare(title, systemCandidateMap.get(title), goldCandidateMap.get(title), cwm);
-		} 
-
-		else if (m instanceof NILMatching) {
-			NILMatching nfm = (NILMatching)m;
-			Map<String, Set<NIL>> systemNILMap = result.getNILCache(s.getName(), ds.getName());
-			Map<String, Set<NIL>> goldNILMap = ds.getGoldNIL();
-			
-			for (String title : rawTextMap.keySet()) 
-				compare(title, systemNILMap.get(title), goldNILMap.get(title), nfm);
-		}
-		else {
-			throw new UnknowMatchingException();
-		}
-
 	}
 
 	private static <T> void compare(
@@ -113,8 +62,6 @@ public class SystemResultDumper<T> {
 				printAnnotation(g, note);
 			else if (g instanceof NIL)
 				printNIL(g, note);
-			else if (g instanceof Entity)
-				printEntity(g, note);
 			else 
 				throw new UnknowMatchingException();
 				;
@@ -140,8 +87,6 @@ public class SystemResultDumper<T> {
 				printAnnotation(s, note);
 			else if (s instanceof NIL)
 				printNIL(s, note);
-			else if (s instanceof Entity)
-				printEntity(s, note);
 			else 
 				throw new UnknowMatchingException();			
 		}
@@ -205,9 +150,5 @@ public class SystemResultDumper<T> {
 				score,
 				n.getEntity().getTitle(),
 				n.getScore());
-	}
-	
-	private static <T> void printEntity(T t, String note) {
-		
 	}
 }

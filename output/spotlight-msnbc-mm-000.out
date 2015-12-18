@@ -1,10 +1,10 @@
 [Bus3683270.txt]
 ***************** Gold Standard: ***********************
  => Wal-Mart Stores Inc.:[3411,3431]; score:1.000000
- => Goodyear Tire & Rubber Co:[4026,4051]; score:1.000000
 	FN => Bob Nardelli:[3277,3289]; score:1.000000
- => Commerce Department:[2999,3018]; score:1.000000
+ => Goodyear Tire & Rubber Co:[4026,4051]; score:1.000000
  => Nasdaq:[1418,1424]; score:1.000000
+ => Commerce Department:[2999,3018]; score:1.000000
 	FN => A.G. Edwards:[978,990]; score:1.000000
  => Amgen:[3820,3825]; score:1.000000
  => ADP:[1772,1775]; score:1.000000
@@ -13,19 +13,19 @@
  => Amgen Inc:[3767,3776]; score:1.000000
  => FTSE 100:[4889,4897]; score:1.000000
 	FN => Lennar Corp.:[4253,4265]; score:1.000000
- => Wal-Mart:[3610,3618]; score:1.000000
  => United States:[2239,2252]; score:1.000000
+ => Wal-Mart:[3610,3618]; score:1.000000
  => New York Mercantile Exchange:[2158,2186]; score:1.000000
- => Goldman:[3194,3201]; score:1.000000
  => Nikkei stock average:[4839,4859]; score:1.000000
+ => Goldman:[3194,3201]; score:1.000000
  => Germany:[4922,4929]; score:1.000000
 	FN => Cytokinetics Inc:[3684,3700]; score:1.000000
  => Home Depot Inc:[295,309]; score:1.000000
  => New Year:[4710,4718]; score:1.000000
  => ISM:[1667,1670]; score:1.000000
+ => Home Depot:[3563,3573]; score:1.000000
  => France:[4967,4973]; score:1.000000
 	FN => DAX:[4932,4935]; score:1.000000
- => Home Depot:[3563,3573]; score:1.000000
  => Al Goldman:[939,949]; score:1.000000
  => NEW YORK:[105,113]; score:1.000000
  => Wall Street:[2382,2393]; score:1.000000
@@ -34,16 +34,16 @@
  => ISM:[2573,2576]; score:1.000000
  => CAC-40:[4976,4982]; score:1.000000
  => Wall Street:[662,673]; score:1.000000
-	FN => Russell 2000 index:[4737,4755]; score:1.000000
  => Automatic Data Processing Inc.:[1741,1771]; score:1.000000
-	FN => Nasdaq:[1269,1275]; score:1.000000
 	FN => Institute for Supply Management:[750,781]; score:1.000000
+	FN => Russell 2000 index:[4737,4755]; score:1.000000
+	FN => Nasdaq:[1269,1275]; score:1.000000
  => Gerald R. Ford:[2366,2380]; score:1.000000
  => U.S.:[4279,4283]; score:1.000000
  => Sirius Satellite Radio Inc:[3854,3880]; score:1.000000
  => ISM:[855,858]; score:1.000000
- => Dow:[1115,1118]; score:1.000000
 	FN => Dow Jones:[417,426]; score:1.000000
+ => Dow:[1115,1118]; score:1.000000
  => Japan:[4831,4836]; score:1.000000
  => Standard & Poor's 500:[1328,1349]; score:1.000000
  => Home Depot:[69,79]; score:1.000000
@@ -75,11 +75,11 @@
 	FP => November:[2925,2933]; score:1.000000
 	FP => percent:[3981,3988]; score:1.000000
 	FP => percent:[3469,3476]; score:1.000000
+ => ISM:[2573,2576]; score:1.000000
 	FP => manufacturing:[727,740]; score:1.000000
 	FP => expected:[882,890]; score:1.000000
- => ISM:[2573,2576]; score:1.000000
-	FP => topping:[3478,3485]; score:1.000000
  => Automatic Data Processing Inc.:[1741,1771]; score:1.000000
+	FP => topping:[3478,3485]; score:1.000000
 	FP => heart failure:[3805,3818]; score:1.000000
 	FP => rose:[3574,3578]; score:1.000000
 	FP => growth:[3514,3520]; score:1.000000
@@ -236,14 +236,14 @@
 	FP => percent:[4798,4805]; score:1.000000
 	FP => November:[2722,2730]; score:1.000000
 	FP => years:[2815,2820]; score:1.000000
-	FP => mark:[2336,2340]; score:1.000000
  => New Year's:[4710,4720]; score:1.000000
+	FP => mark:[2336,2340]; score:1.000000
 	FP => production:[4200,4210]; score:1.000000
 	FP => company:[1733,1740]; score:1.000000
 	FP => stronger:[685,693]; score:1.000000
 	FP => rose:[3882,3886]; score:1.000000
- => Wal-Mart Stores Inc.:[315,335]; score:1.000000
 	FP => cutting:[2254,2261]; score:1.000000
+ => Wal-Mart Stores Inc.:[315,335]; score:1.000000
 	FP => chain:[3341,3346]; score:1.000000
 	FP => division:[1713,1721]; score:1.000000
 	FP => reason:[241,247]; score:1.000000
@@ -253,8 +253,8 @@
 	FP => expected:[699,707]; score:1.000000
  => ISM:[855,858]; score:1.000000
 	FP => companies:[4767,4776]; score:1.000000
- => Sirius Satellite Radio:[3854,3876]; score:1.000000
 	FP => economy:[223,230]; score:1.000000
+ => Sirius Satellite Radio:[3854,3876]; score:1.000000
 	FP => sharp:[1311,1316]; score:1.000000
  => Standard & Poor's 500:[1328,1349]; score:1.000000
  => Wal-Mart Stores Inc.:[3411,3431]; score:1.000000
@@ -304,8 +304,8 @@
 	FP => cut:[1982,1985]; score:1.000000
 	FP => expected:[804,812]; score:1.000000
 	FP => laden:[1412,1417]; score:1.000000
-	FP => chief executive:[80,95]; score:1.000000
  => France:[4967,4973]; score:1.000000
+	FP => chief executive:[80,95]; score:1.000000
 	FP => recovery:[4403,4411]; score:1.000000
 	FP => times:[401,406]; score:1.000000
 	FP => spending:[2869,2877]; score:1.000000
@@ -332,8 +332,8 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => Kissinger:[3758,3767]; score:1.000000
  => Nixon:[4011,4016]; score:1.000000
  => President Ford:[2069,2083]; score:1.000000
-	FN => Grace Episcopal Church in East Grand Rapids:[662,705]; score:1.000000
  => Ford:[591,595]; score:1.000000
+	FN => Grace Episcopal Church in East Grand Rapids:[662,705]; score:1.000000
  => Calif.:[4370,4376]; score:1.000000
  => President Bush:[2720,2734]; score:1.000000
  => Ford:[4313,4317]; score:1.000000
@@ -347,8 +347,8 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => The Victors:[4238,4249]; score:1.000000
  => Ford:[1000,1004]; score:1.000000
 	FN => GRAND RAPIDS:[113,125]; score:1.000000
- => Ford:[1130,1134]; score:1.000000
  => President Bush:[3124,3138]; score:1.000000
+ => Ford:[1130,1134]; score:1.000000
  => Ford:[492,496]; score:1.000000
 	FN => Michigan National Guard:[2209,2232]; score:1.000000
  => Ford:[2799,2803]; score:1.000000
@@ -358,17 +358,16 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => University of Michigan:[4170,4192]; score:1.000000
 	FN => Gerald R. Ford Presidential Library and Museum:[1764,1810]; score:1.000000
  => Grand Rapids:[2051,2063]; score:1.000000
- => Kalamazoo:[2144,2153]; score:1.000000
+	FN => Kalamazoo:[2144,2153]; score:1.000000
  => Ford:[1277,1281]; score:1.000000
- => Bush:[3071,3075]; score:1.000000
  => Lynn Chapp:[2245,2255]; score:1.000000
  => Michigan:[4104,4112]; score:1.000000
+ => Michigan:[12,20]; score:1.000000
  => Karin Lewis:[431,442]; score:1.000000
  => Jennifer Granholm:[1525,1542]; score:1.000000
- => Michigan:[12,20]; score:1.000000
  => Grand Rapids airport:[4121,4141]; score:1.000000
- => Ford:[1930,1934]; score:1.000000
  => Ford:[3466,3470]; score:1.000000
+ => Ford:[1930,1934]; score:1.000000
  => Kissinger:[3440,3449]; score:1.000000
 	FN => southern Africa:[3641,3656]; score:1.000000
  => Ford:[1551,1555]; score:1.000000
@@ -379,13 +378,13 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => Donald Rumsfeld:[833,848]; score:1.000000
  => Washington:[1629,1639]; score:1.000000
  => Gerald Ford:[3775,3786]; score:1.000000
- => University of Michigan:[1900,1922]; score:1.000000
  => Rancho Mirage:[4355,4368]; score:1.000000
+ => University of Michigan:[1900,1922]; score:1.000000
  => Tom Brokaw:[2784,2794]; score:1.000000
  => Mich.:[127,132]; score:1.000000
  => Ford:[4255,4259]; score:1.000000
-	FN => Richard Norton Smith:[1073,1093]; score:1.000000
 	FN => DeVos Place convention center:[1690,1719]; score:1.000000
+	FN => Richard Norton Smith:[1073,1093]; score:1.000000
  => Soviets:[3527,3534]; score:1.000000
  => Ford:[37,41]; score:1.000000
  => Gerald R. Ford:[242,256]; score:1.000000
@@ -403,20 +402,20 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => Israel:[3586,3592]; score:1.000000
 
 ************************ System Result: ***************************
+ => America:[2919,2926]; score:1.000000
 	FP => presidential museum:[499,518]; score:1.000000
 	FP => cabinet:[871,878]; score:1.000000
- => America:[2919,2926]; score:1.000000
  => Ford's:[3466,3472]; score:1.000000
  => Nixon:[4011,4016]; score:1.000000
 	FP => services:[1361,1369]; score:1.000000
-	FP => center:[1942,1948]; score:1.000000
  => Lewis:[437,442]; score:1.000000
+	FP => center:[1942,1948]; score:1.000000
 	FP => boys:[469,473]; score:1.000000
  => President Bush:[2720,2734]; score:1.000000
  => Grand River:[775,786]; score:1.000000
 	FP => people:[2472,2478]; score:1.000000
-	FP => night:[2505,2510]; score:1.000000
  => Ford:[1000,1004]; score:1.000000
+	FP => night:[2505,2510]; score:1.000000
 	FP => pay:[522,525]; score:1.000000
 	FP => Gov.:[1520,1524]; score:1.000000
  => President Jimmy Carter:[963,985]; score:1.000000
@@ -469,13 +468,13 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => father:[3106,3112]; score:1.000000
 	FP => band:[4193,4197]; score:1.000000
  => Michigan:[1511,1519]; score:1.000000
-	FP => paradoxical:[1419,1430]; score:1.000000
  => Washington National Cathedral:[1373,1402]; score:1.000000
-	FP => opportunity:[397,408]; score:1.000000
+	FP => paradoxical:[1419,1430]; score:1.000000
  => President Ford:[2864,2878]; score:1.000000
+	FP => opportunity:[397,408]; score:1.000000
 	FP => people:[1578,1584]; score:1.000000
-	FP => area:[2154,2158]; score:1.000000
  => Ford:[1130,1134]; score:1.000000
+	FP => area:[2154,2158]; score:1.000000
 	FP => presidential library:[1146,1166]; score:1.000000
 	FP => undefeated:[1968,1978]; score:1.000000
 	FP => legacy:[2092,2098]; score:1.000000
@@ -485,12 +484,11 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => University of Michigan:[4170,4192]; score:1.000000
 	FP => political:[3558,3567]; score:1.000000
 	FP => called:[3140,3146]; score:1.000000
- => airport:[4134,4141]; score:1.000000
  => Michigan:[4104,4112]; score:1.000000
  => Michigan:[12,20]; score:1.000000
 	FP => agreement:[3568,3577]; score:1.000000
-	FP => drew:[2701,2705]; score:1.000000
  => Ford's:[591,597]; score:1.000000
+	FP => drew:[2701,2705]; score:1.000000
 	FP => Wednesday:[2550,2559]; score:1.000000
  => Donald Rumsfeld:[833,848]; score:1.000000
  => Mich.:[127,132]; score:1.000000
@@ -529,11 +527,10 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => gentle:[3248,3254]; score:1.000000
  => Victors:[4242,4249]; score:1.000000
 	FP => casket:[4274,4280]; score:1.000000
-	FP => playing:[3733,3740]; score:1.000000
  => Ford:[3314,3318]; score:1.000000
+	FP => playing:[3733,3740]; score:1.000000
 	FP => walk:[2292,2296]; score:1.000000
 	FP => father:[2743,2749]; score:1.000000
- => Kalamazoo:[2144,2153]; score:1.000000
  => Grand Rapids:[2051,2063]; score:1.000000
 	FP => Wednesday:[100,109]; score:1.000000
 	FP => bridge:[1729,1735]; score:1.000000
@@ -555,18 +552,18 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => casket:[232,238]; score:1.000000
 	FP => performer:[3723,3732]; score:1.000000
 	FP => man:[327,330]; score:1.000000
- => President Bush:[3061,3075]; score:1.000000
 	FP => p.m.:[2347,2351]; score:1.000000
+ => President Bush:[3061,3075]; score:1.000000
  => Ford's:[2799,2805]; score:1.000000
 	FP => burial:[752,758]; score:1.000000
 	FP => time:[304,308]; score:1.000000
 	FP => virtues:[3795,3802]; score:1.000000
 	FP => north:[787,792]; score:1.000000
  => Brokaw:[3830,3836]; score:1.000000
- => Washington:[2683,2693]; score:1.000000
 	FP => newsman:[2776,2783]; score:1.000000
-	FP => fight song:[4225,4235]; score:1.000000
+ => Washington:[2683,2693]; score:1.000000
  => Ford's:[1277,1283]; score:1.000000
+	FP => fight song:[4225,4235]; score:1.000000
 	FP => casket:[2304,2310]; score:1.000000
 	FP => majority rule:[3624,3637]; score:1.000000
 	FP => casket:[1284,1290]; score:1.000000
@@ -574,8 +571,8 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => streets:[1256,1263]; score:1.000000
  => America:[3817,3824]; score:1.000000
 	FP => eulogy:[3849,3855]; score:1.000000
-	FP => final:[298,303]; score:1.000000
  => Kissinger:[3758,3767]; score:1.000000
+	FP => final:[298,303]; score:1.000000
 	FP => moonlight:[175,184]; score:1.000000
  => President Ford:[2069,2083]; score:1.000000
  => Calif.:[4370,4376]; score:1.000000
@@ -585,8 +582,8 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => museum:[800,806]; score:1.000000
 	FP => office:[3877,3883]; score:1.000000
 	FP => expected:[2280,2288]; score:1.000000
-	FP => air:[3977,3980]; score:1.000000
  => President Bush:[3124,3138]; score:1.000000
+	FP => air:[3977,3980]; score:1.000000
 	FP => museum:[814,820]; score:1.000000
 	FP => state funeral:[598,611]; score:1.000000
 	FP => demons:[3888,3894]; score:1.000000
@@ -595,18 +592,17 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
 	FP => sweat:[1882,1887]; score:1.000000
 	FP => pay:[412,415]; score:1.000000
 	FP => reputation:[3274,3284]; score:1.000000
-	FP => hitting:[3371,3378]; score:1.000000
  => Jennifer Granholm:[1525,1542]; score:1.000000
+	FP => hitting:[3371,3378]; score:1.000000
  => Ford:[1930,1934]; score:1.000000
- => airport:[1325,1332]; score:1.000000
 	FP => spokeswoman:[2233,2244]; score:1.000000
 	FP => arches:[3415,3421]; score:1.000000
 	FP => gift:[1431,1435]; score:1.000000
  => Gerald Ford:[3775,3786]; score:1.000000
  => University of Michigan:[1900,1922]; score:1.000000
  => Tom Brokaw:[2784,2794]; score:1.000000
-	FP => shirts:[1888,1894]; score:1.000000
  => Ford's:[864,870]; score:1.000000
+	FP => shirts:[1888,1894]; score:1.000000
 	FP => dresses:[1861,1868]; score:1.000000
 	FP => values:[358,364]; score:1.000000
 	FP => calm:[2982,2986]; score:1.000000
@@ -617,7 +613,7 @@ P/R/F:0.13970588/0.7916667/0.2375; tpCount:38.0; fpCount:234.0; fnCount:10.0
  => Midwest:[350,357]; score:1.000000
 	FP => turn:[2492,2496]; score:1.000000
 	FP => funeral service:[2664,2679]; score:1.000000
-P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
+P/R/F:0.3127962/0.88/0.46153843; tpCount:66.0; fpCount:145.0; fnCount:9.0
 [TvN16442287.txt]
 ***************** Gold Standard: ***********************
 	FN => Whole Wheat:[2250,2261]; score:1.000000
@@ -628,8 +624,8 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
  => Joy Bauer:[55,64]; score:1.000000
  => New Year:[505,513]; score:1.000000
 	FN => Whole Grain:[2270,2281]; score:1.000000
-	FN => NAASO:[2489,2494]; score:1.000000
 	FN => LDL-Cholesterol:[835,850]; score:1.000000
+	FN => NAASO:[2489,2494]; score:1.000000
 	FN => HDL-Cholesterol:[868,883]; score:1.000000
 	FN => American Journal of Clinical Nutrition:[1276,1314]; score:1.000000
  => Joy Bauer:[3297,3306]; score:1.000000
@@ -652,9 +648,9 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => calories:[3162,3170]; score:1.000000
 	FP => sleep:[441,446]; score:1.000000
 	FP => type:[2008,2012]; score:1.000000
+ => Annual:[2461,2467]; score:1.000000
 	FP => labels:[2205,2211]; score:1.000000
 	FP => whole wheat:[2050,2061]; score:1.000000
- => Annual:[2461,2467]; score:1.000000
 	FP => bread:[1726,1731]; score:1.000000
 	FP => free radicals:[1223,1236]; score:1.000000
 	FP => large:[2751,2756]; score:1.000000
@@ -669,9 +665,9 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => healthy:[398,405]; score:1.000000
 	FP => asked:[1997,2002]; score:1.000000
 	FP => Ring:[493,497]; score:1.000000
+ => Bauer:[207,212]; score:1.000000
 	FP => asked:[2767,2772]; score:1.000000
 	FP => list:[2286,2290]; score:1.000000
- => Bauer:[207,212]; score:1.000000
 	FP => ingredients:[2326,2337]; score:1.000000
 	FP => sooner:[691,697]; score:1.000000
 	FP => action:[1205,1211]; score:1.000000
@@ -696,10 +692,7 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => despair:[181,188]; score:1.000000
 	FP => or 100:[2262,2268]; score:1.000000
 	FP => expert:[3289,3295]; score:1.000000
- => Joy:[55,58]; score:1.000000
 	FP => Walnuts:[1470,1477]; score:1.000000
- => Beverage:[1954,1962]; score:1.000000
- => Joy:[320,323]; score:1.000000
 	FP => nutritionist:[42,54]; score:1.000000
 	FP => sound:[3075,3080]; score:1.000000
 	FP => list:[294,298]; score:1.000000
@@ -743,8 +736,8 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => antioxidants:[1372,1384]; score:1.000000
 	FP => consumers:[1978,1987]; score:1.000000
 	FP => year:[1623,1627]; score:1.000000
- => Bauer:[59,64]; score:1.000000
 	FP => Cloves:[1564,1570]; score:1.000000
+ => Bauer:[59,64]; score:1.000000
 	FP => body:[1116,1120]; score:1.000000
 	FP => triglyceride:[612,624]; score:1.000000
 	FP => doctor:[542,548]; score:1.000000
@@ -782,7 +775,6 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => Don:[175,178]; score:1.000000
 	FP => white:[1652,1657]; score:1.000000
 	FP => Artichokes:[1499,1509]; score:1.000000
- => Food:[1947,1951]; score:1.000000
 	FP => checking:[2080,2088]; score:1.000000
 	FP => reading:[579,586]; score:1.000000
 	FP => diet:[1441,1445]; score:1.000000
@@ -793,7 +785,6 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => ate:[3014,3017]; score:1.000000
 	FP => heart disease:[1173,1186]; score:1.000000
 	FP => fasting:[591,598]; score:1.000000
- => Joy:[203,206]; score:1.000000
 	FP => times:[2702,2707]; score:1.000000
 	FP => thought:[2129,2136]; score:1.000000
 	FP => new year:[307,315]; score:1.000000
@@ -809,33 +800,32 @@ P/R/F:0.31924883/0.8947368/0.4705882; tpCount:68.0; fpCount:145.0; fnCount:8.0
 	FP => women:[2977,2982]; score:1.000000
 	FP => pounds:[3204,3210]; score:1.000000
 	FP => ate:[3041,3044]; score:1.000000
- => Joy:[3297,3300]; score:1.000000
 P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 [USN16443053.txt]
 ***************** Gold Standard: ***********************
  => Morton County:[5036,5049]; score:1.000000
  => Chicago:[620,627]; score:1.000000
  => Wyo.:[586,590]; score:1.000000
- => U.S.:[13,17]; score:1.000000
+ => Baton Rouge:[4660,4671]; score:1.000000
  => San Diego:[498,507]; score:1.000000
  => Charles Schumer:[1720,1735]; score:1.000000
- => Baton Rouge:[4660,4671]; score:1.000000
+ => U.S.:[13,17]; score:1.000000
  => Columbus:[531,539]; score:1.000000
  => Cleveland:[629,638]; score:1.000000
  => Mandan:[658,664]; score:1.000000
  => Homeland Security Department:[1193,1221]; score:1.000000
  => Mandan:[4763,4769]; score:1.000000
  => Baton Rouge:[640,651]; score:1.000000
- => Washington:[480,490]; score:1.000000
 	FN => N.D.:[666,670]; score:1.000000
  => American Samoa:[676,690]; score:1.000000
+ => Washington:[480,490]; score:1.000000
  => U.S.:[154,158]; score:1.000000
  => Los Angeles:[3585,3596]; score:1.000000
  => Ohio:[541,545]; score:1.000000
  => Russ Knocke:[1861,1872]; score:1.000000
  => Mandan:[5025,5031]; score:1.000000
-	FN => World Trade Center:[2287,2305]; score:1.000000
  => Hurricane Katrina:[2638,2655]; score:1.000000
+	FN => World Trade Center:[2287,2305]; score:1.000000
 	FN => N.D.:[4771,4775]; score:1.000000
  => The Associated Press:[372,392]; score:1.000000
  => New York:[2410,2418]; score:1.000000
@@ -844,8 +834,8 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
  => Minneapolis-St. Paul:[509,529]; score:1.000000
  => La.:[653,656]; score:1.000000
  => San Francisco:[3736,3749]; score:1.000000
- => Laramie County:[570,584]; score:1.000000
 	FN => S.D.:[560,564]; score:1.000000
+ => Laramie County:[570,584]; score:1.000000
  => Tammy Lapp:[4983,4993]; score:1.000000
  => Michael Chertoff:[1981,1997]; score:1.000000
  => U.S. territories:[765,781]; score:1.000000
@@ -854,12 +844,12 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FN => American Samoa:[4798,4812]; score:1.000000
  => New York:[2106,2114]; score:1.000000
  => Congress:[1275,1283]; score:1.000000
- => Congress:[4092,4100]; score:1.000000
 	FN => WASHINGTON:[126,136]; score:1.000000
+ => Congress:[4092,4100]; score:1.000000
  => Chicago:[4637,4644]; score:1.000000
 	FN => N.D.:[5051,5055]; score:1.000000
- => Sioux Falls:[547,558]; score:1.000000
  => Homeland Security:[1833,1850]; score:1.000000
+ => Sioux Falls:[547,558]; score:1.000000
  => Cleveland:[4646,4655]; score:1.000000
 
 ************************ System Result: ***************************
@@ -874,17 +864,17 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FP => spokesman:[1851,1860]; score:1.000000
 	FP => pay:[1527,1530]; score:1.000000
  => American Samoa:[676,690]; score:1.000000
-	FP => link:[991,995]; score:1.000000
  => Mandan:[5025,5031]; score:1.000000
+	FP => link:[991,995]; score:1.000000
  => Hurricane Katrina:[2638,2655]; score:1.000000
 	FP => cost:[1505,1509]; score:1.000000
 	FP => report:[420,426]; score:1.000000
-	FP => stage:[4551,4556]; score:1.000000
  => New York:[2410,2418]; score:1.000000
+	FP => stage:[4551,4556]; score:1.000000
  => Minneapolis-St. Paul:[509,529]; score:1.000000
 	FP => communications systems:[4034,4056]; score:1.000000
-	FP => buildings:[2393,2402]; score:1.000000
  => Baton Rouge, La.:[640,656]; score:1.000000
+	FP => buildings:[2393,2402]; score:1.000000
 	FP => crisis:[3511,3517]; score:1.000000
 	FP => local:[3547,3552]; score:1.000000
 	FP => regular:[934,941]; score:1.000000
@@ -964,8 +954,8 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FP => industry:[4148,4156]; score:1.000000
 	FP => study:[1169,1174]; score:1.000000
 	FP => Sen.:[1715,1719]; score:1.000000
- => New York:[2106,2114]; score:1.000000
 	FP => add:[1237,1240]; score:1.000000
+ => New York:[2106,2114]; score:1.000000
  => Homeland Security:[1833,1850]; score:1.000000
 	FP => lagged:[1153,1159]; score:1.000000
  => Cleveland:[4646,4655]; score:1.000000
@@ -1032,7 +1022,6 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FP => communications:[2056,2070]; score:1.000000
 	FP => governance:[3721,3731]; score:1.000000
 	FP => Sept.:[294,299]; score:1.000000
- => Russ:[1861,1865]; score:1.000000
 	FP => suburbs:[745,752]; score:1.000000
  => Columbus, Ohio:[531,545]; score:1.000000
 	FP => place:[2858,2863]; score:1.000000
@@ -1056,7 +1045,6 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FP => place:[857,862]; score:1.000000
 	FP => money:[3932,3937]; score:1.000000
 	FP => percent:[3359,3366]; score:1.000000
- => Lapp:[4989,4993]; score:1.000000
 	FP => disaster:[263,271]; score:1.000000
 	FP => coordination:[4749,4761]; score:1.000000
  => Knocke:[1866,1872]; score:1.000000
@@ -1082,8 +1070,8 @@ P/R/F:0.041666668/0.5/0.07692308; tpCount:7.0; fpCount:161.0; fnCount:7.0
 	FP => draft:[399,404]; score:1.000000
 	FP => federal:[337,344]; score:1.000000
  => San Francisco:[3736,3749]; score:1.000000
- => Homeland Security Department:[4299,4327]; score:1.000000
 	FP => emergency workers:[1056,1073]; score:1.000000
+ => Homeland Security Department:[4299,4327]; score:1.000000
 	FP => comment:[1883,1890]; score:1.000000
 	FP => report:[2428,2434]; score:1.000000
 	FP => surveyed:[831,839]; score:1.000000
@@ -1097,16 +1085,16 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 [Hea16384904.txt]
 ***************** Gold Standard: ***********************
  => Sweden:[2071,2077]; score:1.000000
-	FN => Hodgkinâ€™s lymphoma:[2516,2534]; score:1.000000
  => London:[2424,2430]; score:1.000000
+	FN => Hodgkinâ€™s lymphoma:[2516,2534]; score:1.000000
  => New York:[1564,1572]; score:1.000000
  => Ohio State University:[2619,2640]; score:1.000000
  => Mayo Clinic:[818,829]; score:1.000000
  => University of Missouri:[2783,2805]; score:1.000000
  => Santa Baby:[453,463]; score:1.000000
  => Stony Brook University:[1538,1560]; score:1.000000
- => Goteborg University:[2048,2067]; score:1.000000
  => Mayo Clinic:[1208,1219]; score:1.000000
+ => Goteborg University:[2048,2067]; score:1.000000
 
 ************************ System Result: ***************************
 	FP => study:[1188,1193]; score:1.000000
@@ -1164,8 +1152,8 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 	FP => category:[1421,1429]; score:1.000000
 	FP => cancer:[972,978]; score:1.000000
  => Mayo Clinic:[818,829]; score:1.000000
- => University of Missouri:[2783,2805]; score:1.000000
 	FP => group:[1518,1523]; score:1.000000
+ => University of Missouri:[2783,2805]; score:1.000000
 	FP => karaoke:[433,440]; score:1.000000
 	FP => colorectal cancer:[1659,1676]; score:1.000000
 	FP => women:[1266,1271]; score:1.000000
@@ -1231,9 +1219,9 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 	FP => success:[2846,2853]; score:1.000000
 	FP => liver cancer:[3204,3216]; score:1.000000
 	FP => kissing:[1056,1063]; score:1.000000
- => Santa Baby:[453,463]; score:1.000000
 	FP => list:[383,387]; score:1.000000
 	FP => planning:[1283,1291]; score:1.000000
+ => Santa Baby:[453,463]; score:1.000000
 	FP => drive:[99,104]; score:1.000000
 	FP => basis:[2150,2155]; score:1.000000
 	FP => levels:[2121,2127]; score:1.000000
@@ -1243,8 +1231,8 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 	FP => Adding:[2892,2898]; score:1.000000
 	FP => problems:[1808,1816]; score:1.000000
 	FP => rheumatoid arthritis:[2204,2224]; score:1.000000
- => Mayo Clinic:[1208,1219]; score:1.000000
 	FP => academic:[2837,2845]; score:1.000000
+ => Mayo Clinic:[1208,1219]; score:1.000000
 	FP => route:[3446,3451]; score:1.000000
 	FP => drink:[120,125]; score:1.000000
  => New York:[1564,1572]; score:1.000000
@@ -1267,8 +1255,8 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 	FP => alcohol:[2131,2138]; score:1.000000
 	FP => intake:[627,633]; score:1.000000
 	FP => bay:[2001,2004]; score:1.000000
-	FP => mice:[2230,2234]; score:1.000000
  => London:[2424,2430]; score:1.000000
+	FP => mice:[2230,2234]; score:1.000000
 	FP => breast:[3193,3199]; score:1.000000
 	FP => alcohol:[1114,1121]; score:1.000000
 	FP => heart disease:[2976,2989]; score:1.000000
@@ -1287,8 +1275,8 @@ P/R/F:0.17748918/0.8541667/0.29390678; tpCount:41.0; fpCount:190.0; fnCount:7.0
 P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.0
 [Pol16452612.txt]
 ***************** Gold Standard: ***********************
- => Washington:[2250,2260]; score:1.000000
  => Positively American:[3443,3462]; score:1.000000
+ => Washington:[2250,2260]; score:1.000000
  => Bush:[2885,2889]; score:1.000000
  => Vietnam:[2795,2802]; score:1.000000
  => Pfeiffer:[3022,3030]; score:1.000000
@@ -1319,8 +1307,8 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
  => Boomer:[2689,2695]; score:1.000000
  => President George W. Bush:[468,492]; score:1.000000
  => Richard Nixon:[1258,1271]; score:1.000000
- => Nixon:[1315,1320]; score:1.000000
  => Bill Clinton:[2954,2966]; score:1.000000
+ => Nixon:[1315,1320]; score:1.000000
 
 ************************ System Result: ***************************
 	FP => handicap:[2119,2127]; score:1.000000
@@ -1383,7 +1371,6 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
  => Evan Bayh:[1908,1917]; score:1.000000
 	FP => capital:[178,185]; score:1.000000
  => Bayh:[2320,2324]; score:1.000000
- => people:[1491,1497]; score:1.000000
 	FP => type:[274,278]; score:1.000000
 	FP => time:[3348,3352]; score:1.000000
  => Ford:[1301,1305]; score:1.000000
@@ -1412,8 +1399,8 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
  => Bush:[2885,2889]; score:1.000000
  => American:[1482,1490]; score:1.000000
 	FP => mood:[3654,3658]; score:1.000000
-	FP => office:[1802,1808]; score:1.000000
  => Vietnam:[2795,2802]; score:1.000000
+	FP => office:[1802,1808]; score:1.000000
 	FP => move on:[3051,3058]; score:1.000000
  => Pfeiffer:[3022,3030]; score:1.000000
 	FP => president:[1968,1977]; score:1.000000
@@ -1423,9 +1410,9 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
 	FP => senator:[2037,2044]; score:1.000000
  => Washington:[1433,1443]; score:1.000000
 	FP => work:[3412,3416]; score:1.000000
+ => Washington:[1694,1704]; score:1.000000
 	FP => series:[1050,1056]; score:1.000000
 	FP => leader:[282,288]; score:1.000000
- => Washington:[1694,1704]; score:1.000000
 	FP => view:[857,861]; score:1.000000
 	FP => antidote:[1246,1254]; score:1.000000
  => Jimmy Carter:[1379,1391]; score:1.000000
@@ -1453,8 +1440,8 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
 	FP => Evolving:[0,8]; score:1.000000
  => Iraq:[892,896]; score:1.000000
  => Bill Clinton:[2954,2966]; score:1.000000
-	FP => these days:[1738,1748]; score:1.000000
  => Washington:[2250,2260]; score:1.000000
+	FP => these days:[1738,1748]; score:1.000000
 	FP => solution:[776,784]; score:1.000000
 	FP => Voters:[838,844]; score:1.000000
 	FP => surge:[870,875]; score:1.000000
@@ -1462,8 +1449,8 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
 	FP => country:[298,305]; score:1.000000
 	FP => Sen.:[3464,3468]; score:1.000000
 	FP => student:[3630,3637]; score:1.000000
-	FP => problem:[3119,3126]; score:1.000000
  => Gerald Ford:[1203,1214]; score:1.000000
+	FP => problem:[3119,3126]; score:1.000000
 	FP => change:[2384,2390]; score:1.000000
 	FP => 1960s:[2673,2678]; score:1.000000
 	FP => search:[83,89]; score:1.000000
@@ -1477,8 +1464,8 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
  => Washington:[1771,1781]; score:1.000000
 	FP => American:[44,52]; score:1.000000
  => Schumer:[3660,3667]; score:1.000000
- => Pfeiffer:[2610,2618]; score:1.000000
 	FP => troops:[880,886]; score:1.000000
+ => Pfeiffer:[2610,2618]; score:1.000000
  => Bayh:[2223,2227]; score:1.000000
 	FP => opening:[3155,3162]; score:1.000000
 	FP => experience:[1782,1792]; score:1.000000
@@ -1491,9 +1478,9 @@ P/R/F:0.057142857/0.90909094/0.10752688; tpCount:10.0; fpCount:165.0; fnCount:1.
 	FP => sense:[2717,2722]; score:1.000000
 	FP => answer:[2944,2950]; score:1.000000
 	FP => library:[1633,1640]; score:1.000000
- => Boomer:[2689,2695]; score:1.000000
 	FP => voters:[385,391]; score:1.000000
 	FP => culture:[2658,2665]; score:1.000000
+ => Boomer:[2689,2695]; score:1.000000
  => war in Iraq:[744,755]; score:1.000000
 P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 [Wor13259309.txt]
@@ -1506,34 +1493,34 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
  => The Associated Press:[2014,2034]; score:1.000000
  => Saddam:[4756,4762]; score:1.000000
 	FN => Al-Faroon:[3128,3137]; score:1.000000
-	FN => al-Faroon:[2619,2628]; score:1.000000
  => Muqtada:[4089,4096]; score:1.000000
-	FN => Mowaffak al-Rubaie:[422,440]; score:1.000000
+	FN => al-Faroon:[2619,2628]; score:1.000000
 	FN => Iraq:[88,92]; score:1.000000
+	FN => Mowaffak al-Rubaie:[422,440]; score:1.000000
  => Web site:[2525,2533]; score:1.000000
  => Maliki:[2844,2850]; score:1.000000
  => Saddam:[3998,4004]; score:1.000000
  => Al-Jazeera:[1059,1069]; score:1.000000
  => Iraqi forces:[870,882]; score:1.000000
  => Iraq:[95,99]; score:1.000000
- => Saddam:[1442,1448]; score:1.000000
  => Sunnis:[4258,4264]; score:1.000000
+ => Saddam:[1442,1448]; score:1.000000
  => Saddam:[935,941]; score:1.000000
  => Saddam:[553,559]; score:1.000000
  => Muqtada al-Sadr:[4114,4129]; score:1.000000
  => Times:[2888,2893]; score:1.000000
  => U.S. military:[1489,1502]; score:1.000000
- => U.S. military:[4436,4449]; score:1.000000
 	FN => Iraq:[4715,4719]; score:1.000000
+ => U.S. military:[4436,4449]; score:1.000000
  => Saddam:[3377,3383]; score:1.000000
  => Associated Press:[1148,1164]; score:1.000000
  => Al-Jazeera:[2498,2508]; score:1.000000
  => Saddam:[1986,1992]; score:1.000000
-	FN => al-Maliki:[3046,3055]; score:1.000000
  => NBC News:[133,141]; score:1.000000
+	FN => al-Maliki:[3046,3055]; score:1.000000
 	FN => Mowaffak al-Rubaie:[1872,1890]; score:1.000000
-	FN => al-Rubaie:[2927,2936]; score:1.000000
 	FN => Hussein:[2733,2740]; score:1.000000
+	FN => al-Rubaie:[2927,2936]; score:1.000000
  => Mahdi Army:[4178,4188]; score:1.000000
  => Nouri al-Maliki:[1214,1229]; score:1.000000
  => United States:[1534,1547]; score:1.000000
@@ -1546,19 +1533,19 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FN => Munqith al-Faroon:[1932,1949]; score:1.000000
 	FN => Saddam Hussein:[368,382]; score:1.000000
  => U.S.:[4391,4395]; score:1.000000
- => Al-Sadr:[4302,4309]; score:1.000000
+	FN => Al-Sadr:[4302,4309]; score:1.000000
  => MSNBC:[3852,3857]; score:1.000000
  => Saddam:[4333,4339]; score:1.000000
 	FN => BAGHDAD:[79,86]; score:1.000000
 	FN => al-Maliki:[4370,4379]; score:1.000000
  => US military:[4822,4833]; score:1.000000
- => Saddam:[2550,2556]; score:1.000000
 	FN => William Caldwell:[4416,4432]; score:1.000000
+ => Saddam:[2550,2556]; score:1.000000
 	FN => Mowaffak al-Rubaie:[2820,2838]; score:1.000000
 	FN => al-Faroon:[2332,2341]; score:1.000000
  => Al-Maliki:[1309,1318]; score:1.000000
- => Internet:[1089,1097]; score:1.000000
  => Al-Arabiya:[3715,3725]; score:1.000000
+ => Internet:[1089,1097]; score:1.000000
 
 ************************ System Result: ***************************
 	FP => conduct:[1383,1390]; score:1.000000
@@ -1572,10 +1559,10 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => comment:[2941,2948]; score:1.000000
  => Saddam:[3998,4004]; score:1.000000
 	FP => aide:[3038,3042]; score:1.000000
-	FP => squad:[5057,5062]; score:1.000000
  => Saddam:[1442,1448]; score:1.000000
-	FP => Prime Minister:[1199,1213]; score:1.000000
+	FP => squad:[5057,5062]; score:1.000000
  => Saddam:[935,941]; score:1.000000
+	FP => Prime Minister:[1199,1213]; score:1.000000
 	FP => authorized:[817,827]; score:1.000000
 	FP => security:[3441,3449]; score:1.000000
 	FP => video:[4047,4052]; score:1.000000
@@ -1598,9 +1585,9 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => execution:[1398,1407]; score:1.000000
  => Nouri al-Maliki:[1214,1229]; score:1.000000
 	FP => charge:[4565,4571]; score:1.000000
+ => Najaf:[3064,3069]; score:1.000000
 	FP => national security adviser:[396,421]; score:1.000000
 	FP => Wednesday:[4476,4485]; score:1.000000
- => Najaf:[3064,3069]; score:1.000000
 	FP => flight:[3550,3556]; score:1.000000
 	FP => individuals:[324,335]; score:1.000000
 	FP => arrests:[449,456]; score:1.000000
@@ -1655,8 +1642,8 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
  => U.S. forces:[4545,4556]; score:1.000000
 	FP => execution:[2559,2568]; score:1.000000
  => Al-Maliki:[0,9]; score:1.000000
-	FP => filmed:[609,615]; score:1.000000
  => Saddam:[1121,1127]; score:1.000000
+	FP => filmed:[609,615]; score:1.000000
 	FP => confiscated:[3527,3538]; score:1.000000
 	FP => reference:[4101,4110]; score:1.000000
 	FP => smuggled:[3625,3633]; score:1.000000
@@ -1665,8 +1652,8 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => militia:[4189,4196]; score:1.000000
 	FP => recording:[543,552]; score:1.000000
 	FP => lights:[2173,2179]; score:1.000000
- => Internet:[1089,1097]; score:1.000000
 	FP => man:[1244,1247]; score:1.000000
+ => Internet:[1089,1097]; score:1.000000
 	FP => execution:[1571,1580]; score:1.000000
 	FP => Wednesday:[2595,2604]; score:1.000000
 	FP => video:[2720,2725]; score:1.000000
@@ -1677,16 +1664,15 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => execution:[47,56]; score:1.000000
 	FP => Saturday:[1103,1111]; score:1.000000
 	FP => quoted:[1165,1171]; score:1.000000
- => Sadr:[4305,4309]; score:1.000000
 	FP => holding:[2676,2683]; score:1.000000
  => Saddam:[4756,4762]; score:1.000000
 	FP => process:[630,637]; score:1.000000
-	FP => execution:[2114,2123]; score:1.000000
  => Al-Jazeera:[1059,1069]; score:1.000000
+	FP => execution:[2114,2123]; score:1.000000
  => Sunnis:[4258,4264]; score:1.000000
 	FP => fell:[2790,2794]; score:1.000000
-	FP => television:[1070,1080]; score:1.000000
  => U.S. military:[1489,1502]; score:1.000000
+	FP => television:[1070,1080]; score:1.000000
 	FP => newspaper:[2638,2647]; score:1.000000
 	FP => person:[3755,3761]; score:1.000000
 	FP => officials:[3663,3672]; score:1.000000
@@ -1708,8 +1694,8 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => execution:[620,629]; score:1.000000
 	FP => report:[1738,1744]; score:1.000000
 	FP => guards:[3789,3795]; score:1.000000
-	FP => Iraqi:[4845,4850]; score:1.000000
  => Mahdi Army:[4178,4188]; score:1.000000
+	FP => Iraqi:[4845,4850]; score:1.000000
 	FP => interrogating:[505,518]; score:1.000000
 	FP => names:[2290,2295]; score:1.000000
  => United States:[1534,1547]; score:1.000000
@@ -1719,10 +1705,10 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => military intelligence:[3340,3361]; score:1.000000
 	FP => member:[3806,3812]; score:1.000000
 	FP => killed:[4323,4329]; score:1.000000
-	FP => filming:[714,721]; score:1.000000
  => U.S.:[4391,4395]; score:1.000000
- => MSNBC:[3852,3857]; score:1.000000
+	FP => filming:[714,721]; score:1.000000
  => Saddam:[4333,4339]; score:1.000000
+ => MSNBC:[3852,3857]; score:1.000000
 	FP => Wednesday:[145,154]; score:1.000000
 	FP => cameras:[2261,2268]; score:1.000000
 	FP => faces:[2324,2329]; score:1.000000
@@ -1749,9 +1735,9 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
  => Maliki:[2844,2850]; score:1.000000
 	FP => men:[3450,3453]; score:1.000000
 	FP => arrested:[1248,1256]; score:1.000000
-	FP => officials:[3276,3285]; score:1.000000
- => Times:[2888,2893]; score:1.000000
  => Muqtada al-Sadr:[4114,4129]; score:1.000000
+ => Times:[2888,2893]; score:1.000000
+	FP => officials:[3276,3285]; score:1.000000
 	FP => media:[843,848]; score:1.000000
 	FP => official:[1265,1273]; score:1.000000
  => Saddam:[3377,3383]; score:1.000000
@@ -1763,7 +1749,6 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => site:[4984,4988]; score:1.000000
 	FP => individuals:[166,177]; score:1.000000
 	FP => team:[1408,1412]; score:1.000000
- => Iraqi:[870,875]; score:1.000000
 	FP => executed:[4873,4881]; score:1.000000
 	FP => execution:[3820,3829]; score:1.000000
 	FP => reach:[2921,2926]; score:1.000000
@@ -1775,12 +1760,12 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
 	FP => Iraqi:[390,395]; score:1.000000
 	FP => execution:[1293,1302]; score:1.000000
 	FP => response:[4396,4404]; score:1.000000
-	FP => under arrest:[3762,3774]; score:1.000000
  => forces:[876,882]; score:1.000000
+	FP => under arrest:[3762,3774]; score:1.000000
 	FP => audio:[908,913]; score:1.000000
- => US military:[4822,4833]; score:1.000000
 	FP => prison:[4977,4983]; score:1.000000
 	FP => anonymity:[788,797]; score:1.000000
+ => US military:[4822,4833]; score:1.000000
 	FP => national security adviser:[2853,2878]; score:1.000000
 	FP => openly:[2419,2425]; score:1.000000
 	FP => heard:[1427,1432]; score:1.000000
@@ -1789,7 +1774,7 @@ P/R/F:0.18128654/0.9117647/0.30243903; tpCount:31.0; fpCount:140.0; fnCount:3.0
  => Al-Maliki:[1309,1318]; score:1.000000
 	FP => interrogation:[677,690]; score:1.000000
 	FP => mobile phone:[2248,2260]; score:1.000000
-P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
+P/R/F:0.17699115/0.6557377/0.27874565; tpCount:40.0; fpCount:186.0; fnCount:21.0
 [Spo16417540.txt]
 ***************** Gold Standard: ***********************
  => Miami:[421,426]; score:1.000000
@@ -1811,13 +1796,13 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FN => Wayne Huizenga:[433,447]; score:1.000000
  => Nick:[1257,1261]; score:1.000000
 	FN => Huizenga:[629,637]; score:1.000000
- => Pittsburgh Steelers:[2858,2877]; score:1.000000
  => Dolphins:[4735,4743]; score:1.000000
- => Tuscaloosa:[835,845]; score:1.000000
+ => Pittsburgh Steelers:[2858,2877]; score:1.000000
  => Saban:[222,227]; score:1.000000
+ => Tuscaloosa:[835,845]; score:1.000000
+	FN => Mike Shula:[1607,1617]; score:1.000000
  => NFL:[4384,4387]; score:1.000000
  => Brian Wiedmeier:[3500,3515]; score:1.000000
-	FN => Mike Shula:[1607,1617]; score:1.000000
  => Russ Grimm:[2889,2899]; score:1.000000
  => Crimson Tide:[1550,1562]; score:1.000000
  => Dolphins:[3979,3987]; score:1.000000
@@ -1826,12 +1811,12 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
  => Green Bay:[2679,2688]; score:1.000000
  => Saban:[762,767]; score:1.000000
  => Alabama:[2495,2502]; score:1.000000
- => Saban:[511,516]; score:1.000000
 	FN => Ron Rivera:[2660,2670]; score:1.000000
+ => Saban:[511,516]; score:1.000000
  => Saban:[0,5]; score:1.000000
 	FN => Huizenga:[3748,3756]; score:1.000000
- => Terry:[1030,1035]; score:1.000000
  => Joe Bailey:[3435,3445]; score:1.000000
+ => Terry:[1030,1035]; score:1.000000
  => Saban:[4360,4365]; score:1.000000
  => Dolphins:[4528,4536]; score:1.000000
 	FN => Huizenga:[1211,1219]; score:1.000000
@@ -1872,8 +1857,8 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
  => Mike Sherman:[2700,2712]; score:1.000000
  => Alabama:[1833,1840]; score:1.000000
  => LSU:[1445,1448]; score:1.000000
-	FN => Huizenga:[2316,2324]; score:1.000000
  => Nick:[1160,1164]; score:1.000000
+	FN => Huizenga:[2316,2324]; score:1.000000
  => Dolphins:[13,21]; score:1.000000
  => Arizona Cardinals:[3574,3591]; score:1.000000
 	FN => Huizenga:[526,534]; score:1.000000
@@ -1888,17 +1873,16 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
  => Saban:[654,659]; score:1.000000
  => Terry:[1169,1174]; score:1.000000
 	FN => Norm Chow:[2844,2853]; score:1.000000
- => Johnson:[2140,2147]; score:1.000000
  => Rich Rodriguez:[2438,2452]; score:1.000000
  => Dolphins:[3649,3657]; score:1.000000
 
 ************************ System Result: ***************************
-	FP => chief executive officer:[3447,3470]; score:1.000000
  => Miami:[421,426]; score:1.000000
+	FP => chief executive officer:[3447,3470]; score:1.000000
 	FP => lost:[2503,2507]; score:1.000000
 	FP => instability:[3822,3833]; score:1.000000
- => Alabama:[2411,2418]; score:1.000000
  => Indianapolis:[2768,2780]; score:1.000000
+ => Alabama:[2411,2418]; score:1.000000
 	FP => deliberation:[208,220]; score:1.000000
  => Saban:[2986,2991]; score:1.000000
 	FP => owner:[427,432]; score:1.000000
@@ -1919,8 +1903,8 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
  => Tuscaloosa:[835,845]; score:1.000000
 	FP => lifestyle:[1378,1387]; score:1.000000
 	FP => wife:[1024,1028]; score:1.000000
-	FP => job:[34,37]; score:1.000000
  => Russ Grimm:[2889,2899]; score:1.000000
+	FP => job:[34,37]; score:1.000000
  => Dolphins:[3979,3987]; score:1.000000
  => Dolphins:[3474,3482]; score:1.000000
 	FP => years:[1520,1525]; score:1.000000
@@ -1957,8 +1941,8 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => decision:[476,484]; score:1.000000
 	FP => defensive coordinator:[2638,2659]; score:1.000000
  => Miami:[4161,4166]; score:1.000000
- => Miami Dolphins:[299,313]; score:1.000000
 	FP => figure:[4643,4649]; score:1.000000
+ => Miami Dolphins:[299,313]; score:1.000000
 	FP => offer:[69,74]; score:1.000000
 	FP => president:[3531,3540]; score:1.000000
  => Saban:[585,590]; score:1.000000
@@ -1966,8 +1950,8 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => years:[80,85]; score:1.000000
 	FP => coach:[3664,3669]; score:1.000000
 	FP => win:[4754,4757]; score:1.000000
- => Alabama:[26,33]; score:1.000000
 	FP => pet:[662,665]; score:1.000000
+ => Alabama:[26,33]; score:1.000000
 	FP => win:[4762,4765]; score:1.000000
  => Fla.:[126,130]; score:1.000000
 	FP => win:[4767,4770]; score:1.000000
@@ -1987,12 +1971,12 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => head coach:[1531,1541]; score:1.000000
 	FP => persuasive:[2044,2054]; score:1.000000
 	FP => bound:[153,158]; score:1.000000
- => Rich Rodriguez:[2438,2452]; score:1.000000
 	FP => offensive coordinator:[2733,2754]; score:1.000000
+ => Rich Rodriguez:[2438,2452]; score:1.000000
  => Dolphins:[3649,3657]; score:1.000000
  => NFL:[2276,2279]; score:1.000000
- => Don Shula:[2092,2101]; score:1.000000
  => West Virginia:[2480,2493]; score:1.000000
+ => Don Shula:[2092,2101]; score:1.000000
 	FP => upset:[683,688]; score:1.000000
 	FP => seasons:[3699,3706]; score:1.000000
  => Nick:[1235,1239]; score:1.000000
@@ -2011,8 +1995,8 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => job:[258,261]; score:1.000000
 	FP => Johnson:[2184,2191]; score:1.000000
 	FP => retiring:[2155,2163]; score:1.000000
-	FP => butt:[4841,4845]; score:1.000000
  => Nick:[1257,1261]; score:1.000000
+	FP => butt:[4841,4845]; score:1.000000
 	FP => simple:[1196,1202]; score:1.000000
 	FP => repeated:[1649,1657]; score:1.000000
 	FP => retired:[4241,4248]; score:1.000000
@@ -2054,10 +2038,9 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
  => Saban:[2342,2347]; score:1.000000
 	FP => offense:[4330,4337]; score:1.000000
 	FP => leaves:[4366,4372]; score:1.000000
- => Joe:[3435,3438]; score:1.000000
 	FP => staff:[4398,4403]; score:1.000000
- => Alabama:[241,248]; score:1.000000
 	FP => game:[1358,1362]; score:1.000000
+ => Alabama:[241,248]; score:1.000000
 	FP => season:[1812,1818]; score:1.000000
 	FP => years:[3891,3896]; score:1.000000
 	FP => failed:[2325,2331]; score:1.000000
@@ -2089,16 +2072,16 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => failed:[3908,3914]; score:1.000000
  => Independence Bowl:[2543,2560]; score:1.000000
  => Mike Sherman:[2700,2712]; score:1.000000
- => LSU:[1445,1448]; score:1.000000
  => Alabama:[1833,1840]; score:1.000000
- => Arizona Cardinals:[3574,3591]; score:1.000000
+ => LSU:[1445,1448]; score:1.000000
 	FP => news conference:[564,579]; score:1.000000
+ => Arizona Cardinals:[3574,3591]; score:1.000000
 	FP => search:[3408,3414]; score:1.000000
 	FP => coach:[1908,1913]; score:1.000000
 	FP => years:[373,378]; score:1.000000
 	FP => campus:[1371,1377]; score:1.000000
- => Saban:[1404,1409]; score:1.000000
 	FP => franchise:[3840,3849]; score:1.000000
+ => Saban:[1404,1409]; score:1.000000
 	FP => this time:[2305,2314]; score:1.000000
  => Cam Cameron:[2755,2766]; score:1.000000
 	FP => Leading:[3396,3403]; score:1.000000
@@ -2116,7 +2099,7 @@ P/R/F:0.18061674/0.6721311/0.2847222; tpCount:41.0; fpCount:186.0; fnCount:20.0
 	FP => record:[3964,3970]; score:1.000000
 	FP => years:[1948,1953]; score:1.000000
 	FP => bowl game:[1314,1323]; score:1.000000
-P/R/F:0.3497758/0.7878788/0.4844721; tpCount:78.0; fpCount:145.0; fnCount:21.0
+P/R/F:0.34684685/0.78571427/0.48125; tpCount:77.0; fpCount:145.0; fnCount:21.0
 [Ent16444023.txt]
 ***************** Gold Standard: ***********************
  => Lou Pearlman:[940,952]; score:1.000000
@@ -2124,8 +2107,8 @@ P/R/F:0.3497758/0.7878788/0.4844721; tpCount:78.0; fpCount:145.0; fnCount:21.0
  => Christmas:[236,245]; score:1.000000
  => Vail:[265,269]; score:1.000000
  => N' Sync:[45,52]; score:1.000000
- => Diaz:[12,16]; score:1.000000
  => Britney Spears:[822,836]; score:1.000000
+ => Diaz:[12,16]; score:1.000000
  => Colo.:[271,276]; score:1.000000
  => Star magazine:[183,196]; score:1.000000
  => Saturday Night Live:[544,563]; score:1.000000
@@ -2136,11 +2119,10 @@ P/R/F:0.3497758/0.7878788/0.4844721; tpCount:78.0; fpCount:145.0; fnCount:21.0
  => Diaz:[569,573]; score:1.000000
  => Timberlake:[0,10]; score:1.000000
  => Kids' Choice Awards:[650,669]; score:1.000000
- => N' Sync:[383,390]; score:1.000000
- => Spears:[830,836]; score:1.000000
  => Diaz:[220,224]; score:1.000000
  => Timberlake:[578,588]; score:1.000000
  => Timberlake:[706,716]; score:1.000000
+ => N' Sync:[383,390]; score:1.000000
 	FN => Innosense:[899,908]; score:1.000000
  => Memphis:[325,332]; score:1.000000
 
@@ -2166,8 +2148,8 @@ P/R/F:0.3497758/0.7878788/0.4844721; tpCount:78.0; fpCount:145.0; fnCount:21.0
 	FP => dating:[815,821]; score:1.000000
 	FP => friends:[403,410]; score:1.000000
  => Saturday Night Live:[544,563]; score:1.000000
- => Cameron Diaz:[123,135]; score:1.000000
 	FP => singer:[53,59]; score:1.000000
+ => Cameron Diaz:[123,135]; score:1.000000
  => Justin Timberlake:[101,118]; score:1.000000
  => Timberlake:[578,588]; score:1.000000
  => Timberlake:[706,716]; score:1.000000
@@ -2183,18 +2165,18 @@ P/R/F:0.3497758/0.7878788/0.4844721; tpCount:78.0; fpCount:145.0; fnCount:21.0
 	FP => break up:[28,36]; score:1.000000
 	FP => '90s:[794,798]; score:1.000000
 	FP => magazine:[678,686]; score:1.000000
- => Memphis:[325,332]; score:1.000000
 	FP => source:[356,362]; score:1.000000
 	FP => girl group:[872,882]; score:1.000000
+ => Memphis:[325,332]; score:1.000000
  => Lou Pearlman:[940,952]; score:1.000000
  => Colo.:[271,276]; score:1.000000
 	FP => reports:[90,97]; score:1.000000
  => Diaz:[569,573]; score:1.000000
- => Timberlake:[0,10]; score:1.000000
 	FP => music:[923,928]; score:1.000000
 	FP => called:[892,898]; score:1.000000
+ => Timberlake:[0,10]; score:1.000000
 	FP => family:[255,261]; score:1.000000
-P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
+P/R/F:0.42857143/0.9130435/0.5833334; tpCount:21.0; fpCount:28.0; fnCount:2.0
 [TvN16442342.txt]
 ***************** Gold Standard: ***********************
  => United Mine Workers of America:[2173,2203]; score:1.000000
@@ -2204,8 +2186,8 @@ P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
 	FN => W. Va:[269,274]; score:1.000000
 	FN => Sago Mine:[242,251]; score:1.000000
 	FN => Sago:[1615,1619]; score:1.000000
-	FN => BUCKHANNON:[118,128]; score:1.000000
 	FN => Sago Mine accident:[62,80]; score:1.000000
+	FN => BUCKHANNON:[118,128]; score:1.000000
 	FN => Debbie Hamner:[635,648]; score:1.000000
 	FN => Sago:[690,694]; score:1.000000
  => West Virginia:[348,361]; score:1.000000
@@ -2227,8 +2209,8 @@ P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
 	FP => Wireless communications:[898,921]; score:1.000000
 	FP => production:[2073,2083]; score:1.000000
 	FP => sign:[2003,2007]; score:1.000000
- => West Virginia:[701,714]; score:1.000000
 	FP => coal industry:[2237,2250]; score:1.000000
+ => West Virginia:[701,714]; score:1.000000
 	FP => safety:[1175,1181]; score:1.000000
 	FP => laws:[89,93]; score:1.000000
 	FP => Underground:[1025,1036]; score:1.000000
@@ -2247,14 +2229,13 @@ P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
  => West Virginia:[348,361]; score:1.000000
 	FP => coal:[2292,2296]; score:1.000000
 	FP => miners:[310,316]; score:1.000000
- => Dell:[2165,2169]; score:1.000000
 	FP => safe:[1913,1917]; score:1.000000
 	FP => breath:[188,194]; score:1.000000
 	FP => safety:[1598,1604]; score:1.000000
 	FP => attitude:[2049,2057]; score:1.000000
 	FP => experts:[34,41]; score:1.000000
- => U.S.:[0,4]; score:1.000000
 	FP => training:[1668,1676]; score:1.000000
+ => U.S.:[0,4]; score:1.000000
 	FP => laws:[770,774]; score:1.000000
 	FP => year:[516,520]; score:1.000000
 	FP => federal government:[723,741]; score:1.000000
@@ -2262,8 +2243,8 @@ P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
 	FP => lone:[390,394]; score:1.000000
 	FP => emergency:[1643,1652]; score:1.000000
 	FP => survivor:[395,403]; score:1.000000
-	FP => miners:[202,208]; score:1.000000
  => West Virginia:[1265,1278]; score:1.000000
+	FP => miners:[202,208]; score:1.000000
 	FP => emergency:[1903,1912]; score:1.000000
 	FP => federal:[1710,1717]; score:1.000000
 	FP => holding:[176,183]; score:1.000000
@@ -2304,7 +2285,6 @@ P/R/F:0.44/0.9166667/0.5945946; tpCount:22.0; fpCount:28.0; fnCount:2.0
 	FP => rooms:[1052,1057]; score:1.000000
  => Buckhannon:[257,267]; score:1.000000
 	FP => underground:[1891,1902]; score:1.000000
- => Davitt:[1150,1156]; score:1.000000
 	FP => die:[603,606]; score:1.000000
 	FP => system:[1536,1542]; score:1.000000
 	FP => federal government:[1806,1824]; score:1.000000
@@ -2319,8 +2299,8 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
  => Half Pitcher Festival:[441,462]; score:1.000000
  => Garuda:[2507,2513]; score:1.000000
  => Madhya Pradesh:[1816,1830]; score:1.000000
- => Allahabad:[2100,2109]; score:1.000000
  => Ganges:[17,23]; score:1.000000
+ => Allahabad:[2100,2109]; score:1.000000
  => Allahabad:[2422,2431]; score:1.000000
  => Ganges:[1110,1116]; score:1.000000
 	FN => Kumbh:[2166,2171]; score:1.000000
@@ -2334,9 +2314,9 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
  => Ganges:[608,614]; score:1.000000
  => Indian army:[2314,2325]; score:1.000000
  => Garuda:[2663,2669]; score:1.000000
+ => Great Pitcher Festival:[1016,1038]; score:1.000000
 	FN => India:[135,140]; score:1.000000
 	FN => Kumbh:[2055,2060]; score:1.000000
- => Great Pitcher Festival:[1016,1038]; score:1.000000
  => Naba Kumar Ghosh:[1523,1539]; score:1.000000
  => Hindi:[2440,2445]; score:1.000000
  => Yamuna:[620,626]; score:1.000000
@@ -2346,7 +2326,6 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
  => Rama Devi:[2071,2080]; score:1.000000
  => Maha Kumbh Mela:[992,1007]; score:1.000000
  => Ganges:[1847,1853]; score:1.000000
-	FN => India:[280,285]; score:1.000000
  => Ganges river:[255,267]; score:1.000000
  => Uttar Pradesh:[2465,2478]; score:1.000000
  => Ardh Kumbh Mela:[421,436]; score:1.000000
@@ -2366,9 +2345,9 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => bath:[737,741]; score:1.000000
 	FP => sins:[225,229]; score:1.000000
 	FP => day:[769,772]; score:1.000000
+ => Indian army:[2314,2325]; score:1.000000
 	FP => Hindus:[165,171]; score:1.000000
 	FP => salute:[933,939]; score:1.000000
- => Indian army:[2314,2325]; score:1.000000
 	FP => relatives:[1352,1361]; score:1.000000
 	FP => falls:[966,971]; score:1.000000
 	FP => Men:[517,520]; score:1.000000
@@ -2399,16 +2378,12 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => authorities:[3385,3396]; score:1.000000
 	FP => winged:[2519,2525]; score:1.000000
  => West Bengal:[1597,1608]; score:1.000000
- => Kumar:[1528,1533]; score:1.000000
- => Great:[1016,1021]; score:1.000000
  => Kumbh Mela:[1885,1895]; score:1.000000
+ => Kumar:[1528,1533]; score:1.000000
  => Rama:[2071,2075]; score:1.000000
  => Maha Kumbh Mela:[2756,2771]; score:1.000000
 	FP => earth:[507,512]; score:1.000000
- => Pitcher:[446,453]; score:1.000000
- => Devi:[2076,2080]; score:1.000000
 	FP => prostrate:[898,907]; score:1.000000
- => Ghosh:[1534,1539]; score:1.000000
 	FP => dip:[63,66]; score:1.000000
 	FP => pilgrims:[3237,3245]; score:1.000000
 	FP => event:[773,778]; score:1.000000
@@ -2417,8 +2392,8 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => heartland:[2446,2455]; score:1.000000
 	FP => women:[522,527]; score:1.000000
  => Allahabad:[657,666]; score:1.000000
- => Vishnu:[2545,2551]; score:1.000000
 	FP => waters:[241,247]; score:1.000000
+ => Vishnu:[2545,2551]; score:1.000000
 	FP => immortality:[2647,2658]; score:1.000000
 	FP => freezing:[184,192]; score:1.000000
 	FP => celebration:[92,103]; score:1.000000
@@ -2429,8 +2404,8 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => mile:[2361,2365]; score:1.000000
 	FP => age:[2137,2140]; score:1.000000
 	FP => Hindus:[0,6]; score:1.000000
- => Maha Kumbh:[2948,2958]; score:1.000000
 	FP => walk:[2366,2370]; score:1.000000
+ => Maha Kumbh:[2948,2958]; score:1.000000
 	FP => festival:[3269,3277]; score:1.000000
  => Festival:[454,462]; score:1.000000
 	FP => holy:[834,838]; score:1.000000
@@ -2450,10 +2425,9 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => soldier:[2299,2306]; score:1.000000
 	FP => afterlife:[1213,1222]; score:1.000000
 	FP => verses:[796,802]; score:1.000000
- => Pitcher:[1022,1029]; score:1.000000
+ => Shakuntala:[1699,1709]; score:1.000000
 	FP => single purpose:[3111,3125]; score:1.000000
 	FP => central:[1792,1799]; score:1.000000
- => Shakuntala:[1699,1709]; score:1.000000
 	FP => battle:[2593,2599]; score:1.000000
 	FP => sin:[1155,1158]; score:1.000000
 	FP => trained:[3335,3342]; score:1.000000
@@ -2464,12 +2438,12 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => Hindus:[1075,1081]; score:1.000000
 	FP => dry:[1426,1429]; score:1.000000
 	FP => polluted:[1273,1281]; score:1.000000
- => Ganges:[1847,1853]; score:1.000000
 	FP => infirm:[567,573]; score:1.000000
+ => Ganges:[1847,1853]; score:1.000000
 	FP => titanic:[2585,2592]; score:1.000000
 	FP => bathing:[28,35]; score:1.000000
-	FP => eastern:[1573,1580]; score:1.000000
  => Festival:[1030,1038]; score:1.000000
+	FP => eastern:[1573,1580]; score:1.000000
  => Hindu god:[2535,2544]; score:1.000000
 	FP => waiting for the sun:[690,709]; score:1.000000
 	FP => policemen:[3304,3313]; score:1.000000
@@ -2527,29 +2501,28 @@ P/R/F:0.11111111/0.5/0.18181819; tpCount:10.0; fpCount:80.0; fnCount:10.0
 	FP => God:[2013,2016]; score:1.000000
 	FP => divine:[2689,2695]; score:1.000000
 	FP => acre:[3263,3267]; score:1.000000
-P/R/F:0.1845238/0.81578946/0.30097085; tpCount:31.0; fpCount:137.0; fnCount:7.0
+P/R/F:0.1845238/0.8378378/0.302439; tpCount:31.0; fpCount:137.0; fnCount:6.0
 [Tra16454203.txt]
 ***************** Gold Standard: ***********************
-	FN => BA:[817,819]; score:1.000000
 	FN => BA:[1345,1347]; score:1.000000
+	FN => BA:[817,819]; score:1.000000
  => London's Heathrow Airport:[73,98]; score:1.000000
  => London's Heathrow Airport:[234,259]; score:1.000000
 	FN => BA:[468,470]; score:1.000000
  => LONDON:[124,130]; score:1.000000
  => Heathrow:[958,966]; score:1.000000
- => Heathrow:[243,251]; score:1.000000
  => British Airways:[411,426]; score:1.000000
  => Heathrow:[1205,1213]; score:1.000000
-	FN => BA:[640,642]; score:1.000000
  => Heathrow:[598,606]; score:1.000000
+	FN => BA:[640,642]; score:1.000000
 
 ************************ System Result: ***************************
  => Heathrow Airport:[82,98]; score:1.000000
 	FP => Wednesday:[299,308]; score:1.000000
 	FP => spokesman:[820,829]; score:1.000000
 	FP => technical:[53,62]; score:1.000000
- => Heathrow:[598,606]; score:1.000000
 	FP => problems:[982,990]; score:1.000000
+ => Heathrow:[598,606]; score:1.000000
 	FP => airline:[1398,1405]; score:1.000000
 	FP => passengers:[154,164]; score:1.000000
 	FP => planes:[664,670]; score:1.000000
@@ -2577,7 +2550,6 @@ P/R/F:0.1845238/0.81578946/0.30097085; tpCount:31.0; fpCount:137.0; fnCount:7.0
 	FP => leading:[1059,1066]; score:1.000000
 	FP => spokesman:[1258,1267]; score:1.000000
 	FP => owners:[711,717]; score:1.000000
- => London:[73,79]; score:1.000000
 	FP => working:[1323,1330]; score:1.000000
 	FP => move:[1416,1420]; score:1.000000
 	FP => airline:[432,439]; score:1.000000
@@ -2589,17 +2561,16 @@ P/R/F:0.1845238/0.81578946/0.30097085; tpCount:31.0; fpCount:137.0; fnCount:7.0
 	FP => belt:[795,799]; score:1.000000
 	FP => handled:[1218,1225]; score:1.000000
 	FP => fault:[776,781]; score:1.000000
- => London:[234,240]; score:1.000000
 	FP => holiday season:[1139,1153]; score:1.000000
 	FP => system:[114,120]; score:1.000000
  => Heathrow:[1205,1213]; score:1.000000
 	FP => fog:[209,212]; score:1.000000
 	FP => problem:[726,733]; score:1.000000
 	FP => officials:[284,293]; score:1.000000
- => Heathrow:[958,966]; score:1.000000
  => LONDON:[124,130]; score:1.000000
+ => Heathrow:[958,966]; score:1.000000
 	FP => flights:[223,230]; score:1.000000
-P/R/F:0.14814815/0.6666667/0.24242425; tpCount:8.0; fpCount:46.0; fnCount:4.0
+P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
 [Tec16451635.txt]
 ***************** Gold Standard: ***********************
  => Sichuan:[1035,1042]; score:1.000000
@@ -2607,8 +2578,8 @@ P/R/F:0.14814815/0.6666667/0.24242425; tpCount:8.0; fpCount:46.0; fnCount:4.0
  => Chengdu Research Base:[829,850]; score:1.000000
  => China:[526,531]; score:1.000000
  => Sichuan:[721,728]; score:1.000000
-	FN => State Forestry Administration:[393,422]; score:1.000000
  => Chongqing:[917,926]; score:1.000000
+	FN => State Forestry Administration:[393,422]; score:1.000000
  => China:[22,27]; score:1.000000
  => Xinhua News Agency:[452,470]; score:1.000000
  => China:[1018,1023]; score:1.000000
@@ -2626,7 +2597,6 @@ P/R/F:0.14814815/0.6666667/0.24242425; tpCount:8.0; fpCount:46.0; fnCount:4.0
 	FP => cubs:[1227,1231]; score:1.000000
 	FP => captivity:[176,185]; score:1.000000
 	FP => total:[45,50]; score:1.000000
- => Base:[846,850]; score:1.000000
 	FP => artificial insemination:[262,285]; score:1.000000
 	FP => number:[151,157]; score:1.000000
  => China:[572,577]; score:1.000000
@@ -2693,8 +2663,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FN => Majed Shehadeh:[408,422]; score:1.000000
  => New Year:[2004,2012]; score:1.000000
  => Border Protection:[2495,2512]; score:1.000000
-	FN => Shehadeh:[983,991]; score:1.000000
  => Las Vegas:[3000,3009]; score:1.000000
+	FN => Shehadeh:[983,991]; score:1.000000
 	FN => Condor Airlines:[1791,1806]; score:1.000000
  => California:[666,676]; score:1.000000
 	FN => Alzenau:[2296,2303]; score:1.000000
@@ -2705,8 +2675,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
  => San Francisco International Airport:[1318,1353]; score:1.000000
  => Iraq:[1513,1517]; score:1.000000
  => Joanne Mulligan:[2839,2854]; score:1.000000
- => U.S. Customs and Border Protection:[843,877]; score:1.000000
  => Affad Shaikh:[1653,1665]; score:1.000000
+ => U.S. Customs and Border Protection:[843,877]; score:1.000000
 	FN => Shehadeh:[3578,3586]; score:1.000000
  => Phoenix:[1435,1442]; score:1.000000
  => U.S.:[377,381]; score:1.000000
@@ -2714,29 +2684,28 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
  => South Africa:[1285,1297]; score:1.000000
  => California:[581,591]; score:1.000000
 	FN => Shehadeh:[902,910]; score:1.000000
-	FN => Shehadeh:[2567,2575]; score:1.000000
  => Frankfurt:[488,497]; score:1.000000
+	FN => Shehadeh:[2567,2575]; score:1.000000
  => Dianne Feinstein:[3088,3104]; score:1.000000
  => Feinstein:[3182,3191]; score:1.000000
  => Las Vegas:[112,121]; score:1.000000
  => U.S.:[12,16]; score:1.000000
  => Las Vegas:[501,510]; score:1.000000
  => Bakersfield:[568,579]; score:1.000000
- => U.S. Immigration and Customs Enforcement:[2874,2914]; score:1.000000
 	FN => Shehadeh:[2714,2722]; score:1.000000
-	FN => Shehadeh:[414,422]; score:1.000000
+ => U.S. Immigration and Customs Enforcement:[2874,2914]; score:1.000000
  => Roxanne Hercules:[807,823]; score:1.000000
 	FN => Mulligan:[3364,3372]; score:1.000000
  => CAIR:[1698,1702]; score:1.000000
  => Las Vegas:[270,279]; score:1.000000
- => North Las Vegas:[2646,2661]; score:1.000000
 	FN => Majida Shehadeh:[3926,3941]; score:1.000000
+ => North Las Vegas:[2646,2661]; score:1.000000
  => US Airways:[1397,1407]; score:1.000000
  => Frankfurt:[3864,3873]; score:1.000000
  => Las Vegas:[1947,1956]; score:1.000000
  => FBI:[2517,2520]; score:1.000000
-	FN => Shehadeh:[3132,3140]; score:1.000000
 	FN => Shehadeh:[2236,2244]; score:1.000000
+	FN => Shehadeh:[3132,3140]; score:1.000000
  => Central California:[2056,2074]; score:1.000000
 	FN => FRESNO:[125,131]; score:1.000000
 	FN => Shehadeh:[3906,3914]; score:1.000000
@@ -2752,8 +2721,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => toilet:[3725,3731]; score:1.000000
 	FP => family:[1933,1939]; score:1.000000
 	FP => German:[144,150]; score:1.000000
- => Las Vegas area:[1947,1961]; score:1.000000
 	FP => Muslim:[1171,1177]; score:1.000000
+ => Las Vegas area:[1947,1961]; score:1.000000
 	FP => feared:[3989,3995]; score:1.000000
 	FP => comment:[2935,2942]; score:1.000000
 	FP => Arabic:[2199,2205]; score:1.000000
@@ -2781,9 +2750,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => countries:[2139,2148]; score:1.000000
 	FP => wanted:[185,191]; score:1.000000
  => Phoenix:[1435,1442]; score:1.000000
-	FP => German:[2751,2757]; score:1.000000
  => South Africa:[1285,1297]; score:1.000000
- => Border:[2495,2501]; score:1.000000
+	FP => German:[2751,2757]; score:1.000000
 	FP => airport:[2979,2986]; score:1.000000
 	FP => police car:[2630,2640]; score:1.000000
 	FP => aide:[3075,3079]; score:1.000000
@@ -2825,9 +2793,9 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => holiday:[224,231]; score:1.000000
 	FP => shoes:[3615,3620]; score:1.000000
 	FP => Muslim:[0,6]; score:1.000000
- => McCarran International Airport:[1817,1847]; score:1.000000
 	FP => daughter:[1987,1995]; score:1.000000
 	FP => surprise:[195,203]; score:1.000000
+ => McCarran International Airport:[1817,1847]; score:1.000000
 	FP => October:[1252,1259]; score:1.000000
 	FP => citizens:[2758,2766]; score:1.000000
  => Islamic scholar:[1264,1279]; score:1.000000
@@ -2835,8 +2803,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => officials:[2987,2996]; score:1.000000
 	FP => passenger:[1451,1460]; score:1.000000
 	FP => wife:[1868,1872]; score:1.000000
-	FP => flight:[1807,1813]; score:1.000000
  => Washington:[2451,2461]; score:1.000000
+	FP => flight:[1807,1813]; score:1.000000
 	FP => drive:[559,564]; score:1.000000
 	FP => family:[17,23]; score:1.000000
  => New Year:[2004,2012]; score:1.000000
@@ -2852,9 +2820,9 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => heart:[3644,3649]; score:1.000000
 	FP => airport:[2558,2565]; score:1.000000
 	FP => pick:[1888,1892]; score:1.000000
+ => U.S. military:[3405,3418]; score:1.000000
 	FP => born:[612,616]; score:1.000000
 	FP => jacket:[3622,3628]; score:1.000000
- => U.S. military:[3405,3418]; score:1.000000
  => Minneapolis:[1420,1431]; score:1.000000
 	FP => lot:[3460,3463]; score:1.000000
 	FP => jail:[2662,2666]; score:1.000000
@@ -2878,9 +2846,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => visa waiver:[2725,2736]; score:1.000000
  => Protection:[2502,2512]; score:1.000000
 	FP => news:[642,646]; score:1.000000
-	FP => charter airline:[3886,3901]; score:1.000000
  => Frankfurt:[488,497]; score:1.000000
- => Roxanne:[807,814]; score:1.000000
+	FP => charter airline:[3886,3901]; score:1.000000
  => Dianne Feinstein:[3088,3104]; score:1.000000
  => Bakersfield, California:[568,591]; score:1.000000
 	FP => group:[360,365]; score:1.000000
@@ -2894,9 +2861,9 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
  => CAIR:[1698,1702]; score:1.000000
 	FP => visit:[1927,1932]; score:1.000000
 	FP => interrogated:[2479,2491]; score:1.000000
+ => Las Vegas:[270,279]; score:1.000000
 	FP => case:[425,429]; score:1.000000
 	FP => room:[3753,3757]; score:1.000000
- => Las Vegas:[270,279]; score:1.000000
  => Hercules:[815,823]; score:1.000000
 	FP => series:[1133,1139]; score:1.000000
  => North Las Vegas:[2646,2661]; score:1.000000
@@ -2910,8 +2877,8 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
  => Shaikh:[1659,1665]; score:1.000000
 	FP => family:[2683,2689]; score:1.000000
 	FP => travel:[3451,3457]; score:1.000000
- => Central California:[2056,2074]; score:1.000000
 	FP => father:[3964,3970]; score:1.000000
+ => Central California:[2056,2074]; score:1.000000
  => war in Iraq:[1506,1517]; score:1.000000
 	FP => visa waiver:[994,1005]; score:1.000000
 	FP => flight:[1408,1414]; score:1.000000
@@ -2919,14 +2886,14 @@ P/R/F:0.1875/0.85714287/0.3076923; tpCount:12.0; fpCount:52.0; fnCount:2.0
 	FP => American:[1859,1867]; score:1.000000
 	FP => asked:[2210,2215]; score:1.000000
 	FP => wedding anniversary:[2033,2052]; score:1.000000
-P/R/F:0.21714285/0.6909091/0.33043474; tpCount:38.0; fpCount:137.0; fnCount:17.0
+P/R/F:0.21714285/0.7037037/0.3318777; tpCount:38.0; fpCount:137.0; fnCount:16.0
 [Ent16453733.txt]
 ***************** Gold Standard: ***********************
  => The Apprentice:[1806,1820]; score:1.000000
  => Miss Universe Organization:[1307,1333]; score:1.000000
  => The View:[1421,1429]; score:1.000000
- => Walters:[686,693]; score:1.000000
  => Walters:[622,629]; score:1.000000
+ => Walters:[686,693]; score:1.000000
 	FN => O'Donnell:[563,572]; score:1.000000
  => Rosie O'Donnell:[189,204]; score:1.000000
 	FN => America:[1654,1661]; score:1.000000
@@ -2939,15 +2906,15 @@ P/R/F:0.21714285/0.6909091/0.33043474; tpCount:38.0; fpCount:137.0; fnCount:17.0
  => Walters:[1084,1091]; score:1.000000
  => Conner:[1500,1506]; score:1.000000
  => Trump:[62,67]; score:1.000000
- => The Donald:[740,750]; score:1.000000
  => Trump:[1471,1476]; score:1.000000
+ => The Donald:[740,750]; score:1.000000
  => Walters:[257,264]; score:1.000000
  => Trump:[1281,1286]; score:1.000000
  => Trump:[1667,1672]; score:1.000000
 	FN => O'Donnell:[778,787]; score:1.000000
- => NBC:[1799,1802]; score:1.000000
 	FN => O'Donnell:[1101,1110]; score:1.000000
  => Donald Trump:[240,252]; score:1.000000
+ => NBC:[1799,1802]; score:1.000000
  => Miss Teen USA:[1363,1376]; score:1.000000
  => Rosie O'Donnell:[26,41]; score:1.000000
  => NEW YORK:[116,124]; score:1.000000
@@ -2969,13 +2936,13 @@ P/R/F:0.21714285/0.6909091/0.33043474; tpCount:38.0; fpCount:137.0; fnCount:17.0
 	FP => title:[1202,1207]; score:1.000000
 	FP => comedian:[87,95]; score:1.000000
  => Barbara Walters:[127,142]; score:1.000000
-	FP => mogul:[1590,1595]; score:1.000000
  => Barbara Walters:[0,15]; score:1.000000
+	FP => mogul:[1590,1595]; score:1.000000
 	FP => bully:[1720,1725]; score:1.000000
 	FP => morning show:[100,112]; score:1.000000
  => Trump:[62,67]; score:1.000000
- => Walters:[257,264]; score:1.000000
  => Trump:[1471,1476]; score:1.000000
+ => Walters:[257,264]; score:1.000000
 	FP => chat show:[325,334]; score:1.000000
 	FP => bankruptcy:[1066,1076]; score:1.000000
 	FP => truth:[454,459]; score:1.000000
@@ -3003,8 +2970,8 @@ P/R/F:0.21714285/0.6909091/0.33043474; tpCount:38.0; fpCount:137.0; fnCount:17.0
 	FP => host:[1791,1795]; score:1.000000
 	FP => media:[1760,1765]; score:1.000000
 	FP => business:[1027,1035]; score:1.000000
- => Walters:[547,554]; score:1.000000
 	FP => moment:[706,712]; score:1.000000
+ => Walters:[547,554]; score:1.000000
  => Trump:[355,360]; score:1.000000
 	FP => real estate:[1578,1589]; score:1.000000
 	FP => bankruptcies:[1036,1048]; score:1.000000
@@ -3013,21 +2980,21 @@ P/R/F:0.21714285/0.6909091/0.33043474; tpCount:38.0; fpCount:137.0; fnCount:17.0
  => Walters:[686,693]; score:1.000000
 	FP => wanted:[80,86]; score:1.000000
  => View:[1425,1429]; score:1.000000
-	FP => Miss USA:[1174,1182]; score:1.000000
  => Rosie O'Donnell:[189,204]; score:1.000000
+	FP => Miss USA:[1174,1182]; score:1.000000
 	FP => bitter:[212,218]; score:1.000000
  => Donald Trump:[926,938]; score:1.000000
+ => Walters:[1084,1091]; score:1.000000
 	FP => battle:[219,225]; score:1.000000
 	FP => crown:[1274,1279]; score:1.000000
- => Walters:[1084,1091]; score:1.000000
-	FP => in jeopardy:[1217,1228]; score:1.000000
  => Conner:[1500,1506]; score:1.000000
+	FP => in jeopardy:[1217,1228]; score:1.000000
 	FP => moderator:[1407,1416]; score:1.000000
 	FP => daytime:[317,324]; score:1.000000
 	FP => news conference:[1479,1494]; score:1.000000
 	FP => divorced:[1569,1577]; score:1.000000
- => Trump:[1281,1286]; score:1.000000
  => View:[288,292]; score:1.000000
+ => Trump:[1281,1286]; score:1.000000
 	FP => interviews:[1766,1776]; score:1.000000
  => View:[801,805]; score:1.000000
 	FP => casino:[995,1001]; score:1.000000
@@ -3051,14 +3018,14 @@ P/R/F:0.36144578/0.8333333/0.50420165; tpCount:30.0; fpCount:53.0; fnCount:6.0
 	FN => LOS ANGELES:[112,123]; score:1.000000
  => Earth:[715,720]; score:1.000000
  => NASA:[588,592]; score:1.000000
-	FN => Mars rovers:[20,31]; score:1.000000
  => Mars:[1293,1297]; score:1.000000
+	FN => Mars rovers:[20,31]; score:1.000000
  => Spirit:[1616,1622]; score:1.000000
  => John Callas:[507,518]; score:1.000000
  => Opportunity:[1660,1671]; score:1.000000
  => Earth:[1143,1148]; score:1.000000
- => Mars:[2040,2044]; score:1.000000
  => Jet Propulsion Laboratory:[557,582]; score:1.000000
+ => Mars:[2040,2044]; score:1.000000
  => Callas:[1533,1539]; score:1.000000
  => Spirit:[2046,2052]; score:1.000000
  => Spirit:[1311,1317]; score:1.000000
@@ -3080,7 +3047,6 @@ P/R/F:0.36144578/0.8333333/0.50420165; tpCount:30.0; fpCount:53.0; fnCount:6.0
 	FP => anniversary:[287,298]; score:1.000000
  => Mars:[2040,2044]; score:1.000000
 	FP => longevity:[1888,1897]; score:1.000000
- => John:[507,511]; score:1.000000
 	FP => just in time:[260,272]; score:1.000000
 	FP => computers:[99,108]; score:1.000000
 	FP => humans:[451,457]; score:1.000000
@@ -3111,9 +3077,9 @@ P/R/F:0.36144578/0.8333333/0.50420165; tpCount:30.0; fpCount:53.0; fnCount:6.0
 	FP => rim:[2153,2156]; score:1.000000
 	FP => dead end:[1486,1494]; score:1.000000
  => NASA:[588,592]; score:1.000000
+ => Spirit and Opportunity:[1311,1333]; score:1.000000
 	FP => Engineers:[178,187]; score:1.000000
 	FP => onboard:[240,247]; score:1.000000
- => Spirit and Opportunity:[1311,1333]; score:1.000000
 	FP => teaching:[469,477]; score:1.000000
 	FP => evidence:[2005,2013]; score:1.000000
 	FP => software:[216,224]; score:1.000000
@@ -3139,8 +3105,8 @@ P/R/F:0.36144578/0.8333333/0.50420165; tpCount:30.0; fpCount:53.0; fnCount:6.0
 	FP => geologic:[1550,1558]; score:1.000000
 	FP => Jan.:[1675,1679]; score:1.000000
 	FP => age:[170,173]; score:1.000000
- => Spirit:[1616,1622]; score:1.000000
 	FP => missions:[1298,1306]; score:1.000000
+ => Spirit:[1616,1622]; score:1.000000
 	FP => agency:[593,599]; score:1.000000
 	FP => exploration:[1720,1731]; score:1.000000
 	FP => landing:[308,315]; score:1.000000
@@ -3149,8 +3115,8 @@ P/R/F:0.36144578/0.8333333/0.50420165; tpCount:30.0; fpCount:53.0; fnCount:6.0
 	FP => piece:[884,889]; score:1.000000
 	FP => computers:[248,257]; score:1.000000
 	FP => roll:[404,408]; score:1.000000
- => Earth:[1143,1148]; score:1.000000
 	FP => Martian:[2105,2112]; score:1.000000
+ => Earth:[1143,1148]; score:1.000000
 	FP => problem:[1594,1601]; score:1.000000
 	FP => charge:[603,609]; score:1.000000
 	FP => transmitted:[193,204]; score:1.000000
@@ -3172,9 +3138,8 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
  => Pat Riley:[136,145]; score:1.000000
  => Heat:[420,424]; score:1.000000
  => Riley:[486,491]; score:1.000000
- => Riley:[1034,1039]; score:1.000000
- => Chicago Tribune:[1237,1252]; score:1.000000
  => Los Angeles Clippers:[442,462]; score:1.000000
+ => Chicago Tribune:[1237,1252]; score:1.000000
  => Heat:[523,527]; score:1.000000
  => Riley:[685,690]; score:1.000000
 	FN => MIAMI:[111,116]; score:1.000000
@@ -3186,9 +3151,9 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
  => Riley:[826,831]; score:1.000000
  => Stan Van Gundy:[741,755]; score:1.000000
  => Riley:[1311,1316]; score:1.000000
- => Shaquille O'Neal:[1387,1403]; score:1.000000
- => Riley:[0,5]; score:1.000000
  => Heat:[1375,1379]; score:1.000000
+ => Riley:[0,5]; score:1.000000
+ => Shaquille O'Neal:[1387,1403]; score:1.000000
  => Shaquille O'Neal:[620,636]; score:1.000000
  => Pat Riley:[1030,1039]; score:1.000000
  => Western Conference:[1519,1537]; score:1.000000
@@ -3206,16 +3171,16 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
 	FP => hip:[1138,1141]; score:1.000000
 	FP => coach:[53,58]; score:1.000000
 	FP => game:[1496,1500]; score:1.000000
- => Riley:[826,831]; score:1.000000
 	FP => Wednesday:[1214,1223]; score:1.000000
 	FP => knee:[89,93]; score:1.000000
+ => Riley:[826,831]; score:1.000000
 	FP => champions:[1088,1097]; score:1.000000
 	FP => injury:[1437,1443]; score:1.000000
 	FP => injuries:[99,107]; score:1.000000
  => Heat:[1375,1379]; score:1.000000
  => Shaquille O'Neal:[1387,1403]; score:1.000000
- => Shaquille O'Neal:[620,636]; score:1.000000
 	FP => injury:[674,680]; score:1.000000
+ => Shaquille O'Neal:[620,636]; score:1.000000
 	FP => reports:[1156,1163]; score:1.000000
 	FP => bench:[707,712]; score:1.000000
 	FP => interim:[393,400]; score:1.000000
@@ -3224,8 +3189,8 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
 	FP => surgery:[783,790]; score:1.000000
 	FP => surgeries:[1106,1115]; score:1.000000
 	FP => Wednesday:[466,475]; score:1.000000
- => Riley:[1360,1365]; score:1.000000
 	FP => year:[239,243]; score:1.000000
+ => Riley:[1360,1365]; score:1.000000
 	FP => hip replacement:[795,810]; score:1.000000
 	FP => 12th:[502,506]; score:1.000000
 	FP => travel:[1464,1470]; score:1.000000
@@ -3233,7 +3198,6 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
 	FP => promoted:[381,389]; score:1.000000
 	FP => night:[476,481]; score:1.000000
 	FP => operation:[866,875]; score:1.000000
- => NBA:[541,544]; score:1.000000
  => Riley:[486,491]; score:1.000000
 	FP => clear:[362,367]; score:1.000000
 	FP => leave of absence:[23,39]; score:1.000000
@@ -3245,26 +3209,26 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
 	FP => ESPN:[1301,1305]; score:1.000000
 	FP => news conference:[322,337]; score:1.000000
 	FP => coach:[248,253]; score:1.000000
- => Stan Van Gundy:[741,755]; score:1.000000
 	FP => condition:[896,905]; score:1.000000
+ => Stan Van Gundy:[741,755]; score:1.000000
 	FP => knee:[669,673]; score:1.000000
 	FP => leave of absence:[170,186]; score:1.000000
 	FP => coach:[1024,1029]; score:1.000000
  => Riley:[0,5]; score:1.000000
- => Western Conference:[1519,1537]; score:1.000000
 	FP => coach:[130,135]; score:1.000000
  => Pat Riley:[1030,1039]; score:1.000000
+ => Western Conference:[1519,1537]; score:1.000000
 	FP => center:[1380,1386]; score:1.000000
-	FP => ongoing:[198,205]; score:1.000000
  => Pat Riley:[136,145]; score:1.000000
+	FP => ongoing:[198,205]; score:1.000000
 	FP => center:[613,619]; score:1.000000
  => Heat:[420,424]; score:1.000000
 	FP => morning:[1224,1231]; score:1.000000
 	FP => Wednesday:[1164,1173]; score:1.000000
 	FP => team:[1193,1197]; score:1.000000
 	FP => named:[1291,1296]; score:1.000000
- => Chicago Tribune:[1237,1252]; score:1.000000
  => Los Angeles Clippers:[442,462]; score:1.000000
+ => Chicago Tribune:[1237,1252]; score:1.000000
 	FP => plans:[268,273]; score:1.000000
 	FP => June:[556,560]; score:1.000000
 	FP => year:[44,48]; score:1.000000
@@ -3274,23 +3238,23 @@ P/R/F:0.15/0.8333333/0.2542373; tpCount:15.0; fpCount:85.0; fnCount:3.0
 	FP => hip:[206,209]; score:1.000000
  => Miami Heat:[1013,1023]; score:1.000000
 	FP => decision:[308,316]; score:1.000000
- => Miami Heat:[119,129]; score:1.000000
 	FP => decision:[1205,1213]; score:1.000000
 	FP => play:[433,437]; score:1.000000
+ => Miami Heat:[119,129]; score:1.000000
 	FP => season:[507,513]; score:1.000000
 	FP => Riley:[1178,1183]; score:1.000000
  => Riley:[1311,1316]; score:1.000000
 	FP => team:[1343,1347]; score:1.000000
- => title:[545,550]; score:1.000000
 	FP => hip:[95,98]; score:1.000000
-P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
+ => title:[545,550]; score:1.000000
+P/R/F:0.23863636/0.95454544/0.3818182; tpCount:21.0; fpCount:67.0; fnCount:1.0
 [Bus16451112.txt]
 ***************** Gold Standard: ***********************
  => Jerry Shields:[812,825]; score:1.000000
 	FN => Nardelli:[1736,1744]; score:1.000000
 	FN => Nardelli:[4682,4690]; score:1.000000
- => Robinson College:[2898,2914]; score:1.000000
  => Home Depot:[652,662]; score:1.000000
+ => Robinson College:[2898,2914]; score:1.000000
 	FN => ATLANTA:[107,114]; score:1.000000
 	FN => Nardelli:[979,987]; score:1.000000
  => Home Depot:[791,801]; score:1.000000
@@ -3299,11 +3263,10 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FN => Nardelli:[3550,3558]; score:1.000000
  => Home Depot Supply:[3272,3289]; score:1.000000
 	FN => Nardelli:[611,619]; score:1.000000
-	FN => Blake:[705,710]; score:1.000000
  => Bob:[3072,3075]; score:1.000000
  => Home Depot:[1065,1075]; score:1.000000
- => Center for Global Business Leadership:[2917,2954]; score:1.000000
 	FN => Nardelli:[2280,2288]; score:1.000000
+ => Center for Global Business Leadership:[2917,2954]; score:1.000000
  => Atlanta:[1799,1806]; score:1.000000
 	FN => Bob:[1929,1932]; score:1.000000
  => Blake:[2763,2768]; score:1.000000
@@ -3321,10 +3284,9 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FN => DeAngelo:[3466,3474]; score:1.000000
  => Home Depot:[2509,2519]; score:1.000000
 	FN => Nardelli:[15,23]; score:1.000000
- => Shields:[818,825]; score:1.000000
- => The Home Depot:[1883,1897]; score:1.000000
-	FN => Nardelli:[1173,1181]; score:1.000000
  => Joe DeAngelo:[3225,3237]; score:1.000000
+	FN => Nardelli:[1173,1181]; score:1.000000
+ => The Home Depot:[1883,1897]; score:1.000000
  => Home Depot:[5208,5218]; score:1.000000
  => The Home Depot Inc.:[193,212]; score:1.000000
 	FN => Frank Blake:[699,710]; score:1.000000
@@ -3341,7 +3303,6 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
  => General Electric Co.:[583,603]; score:1.000000
  => Home Depot:[2814,2824]; score:1.000000
  => Home Depot:[0,10]; score:1.000000
- => Home Depot:[1667,1677]; score:1.000000
  => Blake:[927,932]; score:1.000000
  => The Associated Press:[1230,1250]; score:1.000000
 	FN => Nardelli:[3780,3788]; score:1.000000
@@ -3352,8 +3313,8 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => tenure:[1935,1941]; score:1.000000
 	FP => public discussion:[2619,2636]; score:1.000000
  => Hart:[5072,5076]; score:1.000000
-	FP => Shields:[884,891]; score:1.000000
  => Home Depot:[791,801]; score:1.000000
+	FP => Shields:[884,891]; score:1.000000
 	FP => number:[2451,2457]; score:1.000000
 	FP => services:[3414,3422]; score:1.000000
 	FP => appointment:[765,776]; score:1.000000
@@ -3369,7 +3330,6 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => apron:[1489,1494]; score:1.000000
 	FP => consideration:[3802,3815]; score:1.000000
 	FP => year:[4595,4599]; score:1.000000
- => Business:[2935,2943]; score:1.000000
 	FP => conjunction:[4893,4904]; score:1.000000
 	FP => company:[1947,1954]; score:1.000000
  => Georgia State University:[2958,2982]; score:1.000000
@@ -3377,11 +3337,10 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => chief executive:[174,189]; score:1.000000
 	FP => retirement:[4426,4436]; score:1.000000
 	FP => company:[2472,2479]; score:1.000000
-	FP => leadership:[1869,1879]; score:1.000000
  => Depot:[1512,1517]; score:1.000000
+	FP => leadership:[1869,1879]; score:1.000000
 	FP => orange:[1482,1488]; score:1.000000
 	FP => strategic:[3438,3447]; score:1.000000
- => Claudio:[5036,5043]; score:1.000000
 	FP => thought:[1456,1463]; score:1.000000
 	FP => chief operating officer:[3522,3545]; score:1.000000
 	FP => comment:[947,954]; score:1.000000
@@ -3398,12 +3357,12 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
  => Gonzales:[5047,5055]; score:1.000000
 	FP => period:[4600,4606]; score:1.000000
 	FP => investors:[411,420]; score:1.000000
- => General Electric Co.:[583,603]; score:1.000000
 	FP => interview:[1436,1445]; score:1.000000
+ => General Electric Co.:[583,603]; score:1.000000
 	FP => pay:[2647,2650]; score:1.000000
 	FP => contract:[4541,4549]; score:1.000000
-	FP => Asked:[1563,1568]; score:1.000000
  => Leadership:[2944,2954]; score:1.000000
+	FP => Asked:[1563,1568]; score:1.000000
 	FP => annual:[5118,5124]; score:1.000000
 	FP => performance:[358,369]; score:1.000000
 	FP => honor:[4644,4649]; score:1.000000
@@ -3427,8 +3386,8 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => thought:[1577,1584]; score:1.000000
  => Home Depot:[2509,2519]; score:1.000000
 	FP => payments:[4109,4117]; score:1.000000
-	FP => year:[4747,4751]; score:1.000000
  => Carol:[3180,3185]; score:1.000000
+	FP => year:[4747,4751]; score:1.000000
 	FP => college football:[2327,2343]; score:1.000000
 	FP => foundation:[3031,3041]; score:1.000000
 	FP => problems:[3094,3102]; score:1.000000
@@ -3449,8 +3408,8 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => company:[2659,2666]; score:1.000000
 	FP => account:[4196,4203]; score:1.000000
 	FP => top:[2785,2788]; score:1.000000
-	FP => job:[2789,2792]; score:1.000000
  => Robinson College:[2898,2914]; score:1.000000
+	FP => job:[2789,2792]; score:1.000000
 	FP => compete:[4714,4721]; score:1.000000
 	FP => long-term:[4140,4149]; score:1.000000
 	FP => chief financial officer:[3196,3219]; score:1.000000
@@ -3507,7 +3466,6 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => shares:[4356,4362]; score:1.000000
 	FP => leader:[2310,2316]; score:1.000000
  => Home Depot:[652,662]; score:1.000000
- => Jerry:[812,817]; score:1.000000
 	FP => customers:[4785,4794]; score:1.000000
 	FP => decision:[1747,1755]; score:1.000000
 	FP => agreement:[3769,3778]; score:1.000000
@@ -3540,41 +3498,38 @@ P/R/F:0.24719101/0.95652175/0.39285716; tpCount:22.0; fpCount:67.0; fnCount:1.0
 	FP => years:[1916,1921]; score:1.000000
 	FP => strategy:[2848,2856]; score:1.000000
 	FP => mergers and acquisitions:[3381,3405]; score:1.000000
- => Center:[2917,2923]; score:1.000000
 	FP => intention:[1289,1298]; score:1.000000
 	FP => director:[1321,1329]; score:1.000000
 	FP => permanent:[780,789]; score:1.000000
 	FP => waived:[4971,4977]; score:1.000000
 	FP => Asked:[1422,1427]; score:1.000000
- => Global:[2928,2934]; score:1.000000
 	FP => asked:[5011,5016]; score:1.000000
- => III:[5077,5080]; score:1.000000
  => Home Depot:[2814,2824]; score:1.000000
 	FP => awards:[3965,3971]; score:1.000000
 	FP => revenue:[2400,2407]; score:1.000000
 	FP => spokesman:[802,811]; score:1.000000
  => Blake:[927,932]; score:1.000000
 	FP => director:[2886,2894]; score:1.000000
-P/R/F:0.18137255/0.62711865/0.28136882; tpCount:37.0; fpCount:167.0; fnCount:22.0
+P/R/F:0.17326732/0.625/0.2713178; tpCount:35.0; fpCount:167.0; fnCount:21.0
 [Tra16444229.txt]
 ***************** Gold Standard: ***********************
 	FN => Perez:[839,844]; score:1.000000
 	FN => Venegas:[938,945]; score:1.000000
- => Menzies Aviation Group:[1051,1073]; score:1.000000
 	FN => Bownds:[1451,1457]; score:1.000000
+ => Menzies Aviation Group:[1051,1073]; score:1.000000
  => Police:[396,402]; score:1.000000
  => United States:[1140,1153]; score:1.000000
  => Texas:[13,18]; score:1.000000
 	FN => Carlos Osorio:[726,739]; score:1.000000
- => London:[1267,1273]; score:1.000000
  => George Bush Intercontinental Airport:[241,277]; score:1.000000
- => Manuel:[694,700]; score:1.000000
+ => London:[1267,1273]; score:1.000000
  => Daniel Venegas:[766,780]; score:1.000000
+ => Manuel:[694,700]; score:1.000000
 	FN => HOUSTON:[121,128]; score:1.000000
- => Ricardo Aguilar:[705,720]; score:1.000000
  => Harris County Jail:[868,886]; score:1.000000
-	FN => Bownds:[1020,1026]; score:1.000000
+ => Ricardo Aguilar:[705,720]; score:1.000000
  => Osorio:[828,834]; score:1.000000
+	FN => Bownds:[1020,1026]; score:1.000000
  => Houston:[354,361]; score:1.000000
 	FN => Erick Perez:[745,756]; score:1.000000
 
@@ -3599,7 +3554,6 @@ P/R/F:0.18137255/0.62711865/0.28136882; tpCount:37.0; fpCount:167.0; fnCount:22.
 	FP => company:[1159,1166]; score:1.000000
 	FP => men:[1036,1039]; score:1.000000
 	FP => airport:[19,26]; score:1.000000
- => Jail:[882,886]; score:1.000000
  => Manuel:[694,700]; score:1.000000
 	FP => police:[1207,1213]; score:1.000000
  => Osorio:[828,834]; score:1.000000
@@ -3613,7 +3567,6 @@ P/R/F:0.18137255/0.62711865/0.28136882; tpCount:37.0; fpCount:167.0; fnCount:22.
  => United States:[1140,1153]; score:1.000000
 	FP => discovered:[338,348]; score:1.000000
 	FP => company:[1077,1084]; score:1.000000
- => Ricardo:[705,712]; score:1.000000
 	FP => Houston:[580,587]; score:1.000000
  => Aguilar:[713,720]; score:1.000000
 	FP => twin:[680,684]; score:1.000000
@@ -3640,17 +3593,17 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FN => United States:[1136,1149]; score:1.000000
  => Jennifer Tolbert:[1428,1444]; score:1.000000
 	FN => Blue Cross and Blue Shield of Alabama:[777,814]; score:1.000000
- => U.S. Congress:[1589,1602]; score:1.000000
 	FN => Highmark Blue Cross Blue Shield:[3911,3942]; score:1.000000
+ => U.S. Congress:[1589,1602]; score:1.000000
 	FN => Denise Grabner:[4185,4199]; score:1.000000
  => Sharp:[3377,3382]; score:1.000000
 	FN => Al Rohling:[151,161]; score:1.000000
- => U.S.:[1105,1109]; score:1.000000
  => Medicaid:[917,925]; score:1.000000
- => Alabama Blue Cross Blue Shield:[2861,2891]; score:1.000000
+ => U.S.:[1105,1109]; score:1.000000
 	FN => Rohling:[630,637]; score:1.000000
- => Alabama:[2106,2113]; score:1.000000
+ => Alabama Blue Cross Blue Shield:[2861,2891]; score:1.000000
  => Sharp:[2808,2813]; score:1.000000
+ => Alabama:[2106,2113]; score:1.000000
  => Western Pennsylvania:[3946,3966]; score:1.000000
  => Dana:[2395,2399]; score:1.000000
  => Jody Sharp:[2274,2284]; score:1.000000
@@ -3658,8 +3611,8 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FN => Rohling:[642,649]; score:1.000000
  => Alabama:[4354,4361]; score:1.000000
  => Reuters:[2819,2826]; score:1.000000
- => Dana:[2465,2469]; score:1.000000
 	FN => Rohling:[324,331]; score:1.000000
+ => Dana:[2465,2469]; score:1.000000
  => Medicaid:[4585,4593]; score:1.000000
 	FN => Highmark:[4203,4211]; score:1.000000
  => Pittsburgh:[3887,3897]; score:1.000000
@@ -3671,13 +3624,13 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
  => Sharp:[2901,2906]; score:1.000000
  => Alabama:[346,353]; score:1.000000
  => SCHIP:[4312,4317]; score:1.000000
- => Sharp:[2521,2526]; score:1.000000
  => U.S. government:[291,306]; score:1.000000
  => School of Nursing:[3557,3574]; score:1.000000
+ => Sharp:[2521,2526]; score:1.000000
 	FN => Rohling:[3420,3427]; score:1.000000
  => Sharp:[2590,2595]; score:1.000000
- => All Kids:[4418,4426]; score:1.000000
 	FN => Rohling:[4769,4776]; score:1.000000
+ => All Kids:[4418,4426]; score:1.000000
  => Child Caring Foundation:[690,713]; score:1.000000
  => Congress:[4291,4299]; score:1.000000
  => Child Caring Foundation:[2227,2250]; score:1.000000
@@ -3707,7 +3660,6 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
  => Sharp:[2521,2526]; score:1.000000
 	FP => poverty level:[4834,4847]; score:1.000000
 	FP => gap:[25,28]; score:1.000000
- => Tolbert:[1437,1444]; score:1.000000
 	FP => workers:[4002,4009]; score:1.000000
 	FP => Kaiser:[1473,1479]; score:1.000000
 	FP => children:[3975,3983]; score:1.000000
@@ -3739,9 +3691,9 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => epilepsy:[2493,2501]; score:1.000000
 	FP => forced:[2045,2051]; score:1.000000
 	FP => private:[3039,3046]; score:1.000000
- => Sharp:[2590,2595]; score:1.000000
 	FP => insurance:[4514,4523]; score:1.000000
 	FP => child:[2078,2083]; score:1.000000
+ => Sharp:[2590,2595]; score:1.000000
 	FP => husband:[2529,2536]; score:1.000000
 	FP => ear:[3678,3681]; score:1.000000
 	FP => walked:[2562,2568]; score:1.000000
@@ -3809,14 +3761,11 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => children:[75,83]; score:1.000000
 	FP => family:[4749,4755]; score:1.000000
 	FP => kids:[205,209]; score:1.000000
- => Child:[690,695]; score:1.000000
 	FP => children:[1110,1118]; score:1.000000
- => Child:[2227,2232]; score:1.000000
 	FP => free:[730,734]; score:1.000000
 	FP => children:[2144,2152]; score:1.000000
  => State Children's Health Insurance Program:[1635,1676]; score:1.000000
 	FP => program:[4229,4236]; score:1.000000
- => Jody:[2274,2278]; score:1.000000
 	FP => official:[104,112]; score:1.000000
 	FP => forced:[1208,1214]; score:1.000000
  => SCHIP:[4312,4317]; score:1.000000
@@ -3824,8 +3773,8 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => epilepsy:[2685,2693]; score:1.000000
 	FP => drop:[254,258]; score:1.000000
 	FP => deafness:[3715,3723]; score:1.000000
-	FP => Health care:[557,568]; score:1.000000
  => Sharp:[2279,2284]; score:1.000000
+	FP => Health care:[557,568]; score:1.000000
 	FP => parents:[170,177]; score:1.000000
 	FP => parents:[1196,1203]; score:1.000000
 	FP => tobacco companies:[4474,4491]; score:1.000000
@@ -3848,8 +3797,8 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => children:[3774,3782]; score:1.000000
 	FP => Bear:[3387,3391]; score:1.000000
 	FP => dollars:[2783,2790]; score:1.000000
- => Congress:[4291,4299]; score:1.000000
 	FP => years:[2848,2853]; score:1.000000
+ => Congress:[4291,4299]; score:1.000000
 	FP => children:[1733,1741]; score:1.000000
 	FP => spokesperson:[4172,4184]; score:1.000000
  => Kids:[4422,4426]; score:1.000000
@@ -3860,8 +3809,8 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => incomes:[246,253]; score:1.000000
 	FP => funding:[4342,4349]; score:1.000000
  => Western Pennsylvania:[3946,3966]; score:1.000000
-	FP => health insurance:[3047,3063]; score:1.000000
  => Dana:[2395,2399]; score:1.000000
+	FP => health insurance:[3047,3063]; score:1.000000
 	FP => insurance:[2754,2763]; score:1.000000
 	FP => insurance:[3267,3276]; score:1.000000
  => Alabama:[4354,4361]; score:1.000000
@@ -3877,10 +3826,10 @@ P/R/F:0.23076923/0.6315789/0.3380282; tpCount:12.0; fpCount:40.0; fnCount:7.0
 	FP => charity:[2323,2330]; score:1.000000
 	FP => Health insurance:[0,16]; score:1.000000
  => Sharp:[2901,2906]; score:1.000000
- => School of Nursing:[3557,3574]; score:1.000000
 	FP => money:[4441,4446]; score:1.000000
- => Foundation:[703,713]; score:1.000000
+ => School of Nursing:[3557,3574]; score:1.000000
 	FP => combination:[2208,2219]; score:1.000000
+ => Foundation:[703,713]; score:1.000000
  => Foundation:[2240,2250]; score:1.000000
 	FP => time:[381,385]; score:1.000000
 	FP => medical insurance:[493,510]; score:1.000000

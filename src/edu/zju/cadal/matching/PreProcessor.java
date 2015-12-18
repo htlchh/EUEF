@@ -13,6 +13,9 @@ import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.model.NIL;
 
 /**
+ * + 对系统产生的多个mention对应一个相同的gold mention的情况进行预处理
+ * + 对系统产生的多个互相重叠mention的情况进行预处理 - coreference mention
+ * + 对重叠的gold mention进行预处理 - coreference gold mention
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月16日
@@ -26,8 +29,7 @@ public class PreProcessor {
 	}
 	
 	/**
-	 * 根据gold standard，检测多个system result对应一个gold standard的情形，
-	 * 并过滤掉这些system result
+	 * 系统产生的多个mention如果对应到同一个gold mention,那么只保留长度最长的那个mention
 	 * @param systemResult
 	 * @param goldStandard
 	 */
@@ -91,7 +93,7 @@ public class PreProcessor {
 	
 	
 	/**
-	 * 根据gold standard，过滤mention重叠的candidate
+	 * 根据gold standard,过滤mention重叠的candidate,只保留mention长度最长的candidate
 	 * @param systemResult
 	 * @param goldStandard
 	 */
@@ -151,6 +153,11 @@ public class PreProcessor {
 		}			
 	}
 	
+	/**
+	 * 
+	 * @param systemResult
+	 * @param goldStandard
+	 */
 	public void filterDuplicatedAnnotation(Map<String, Set<Annotation>> systemResult, Map<String, Set<Annotation>> goldStandard) {
 		Map<String, Set<Annotation>> resultMap = new HashMap<String, Set<Annotation>>();
 		
@@ -206,6 +213,7 @@ public class PreProcessor {
 			systemResult.get(title).addAll(resultMap.get(title));
 		}			
 	}
+	
 	
 	public void filterDuplicatedNIL(Map<String, Set<NIL>> systemResult, Map<String, Set<NIL>> goldStandard) {
 		Map<String, Set<NIL>> resultMap = new HashMap<String, Set<NIL>>();
@@ -264,8 +272,8 @@ public class PreProcessor {
 	
 	
 	/**
-	 * 根据给的MentionFuzzyMatching类过滤结果中有重叠的mention
-	 * 如果两个mention模糊匹配，则选择长度大的mention
+	 * 根据给的MentionMatching类过滤结果中有重叠的mention
+	 * 如果两个mention匹配，则选择长度大的mention
 	 * @param mentionMap
 	 */
 	public void mentionCoreference(Map<String, Set<Mention>> mentionMap) {
@@ -292,7 +300,7 @@ public class PreProcessor {
 	
 	
 	/**
-	 * 根据给定的模糊匹配，过滤结果中mention重叠的candidate
+	 * 根据给定的mention匹配方式，过滤结果中mention重叠的candidate
 	 * @param candidateMap
 	 */
 	public void candidateCoreference(Map<String, Set<Candidate>> candidateMap) {

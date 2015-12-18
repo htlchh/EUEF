@@ -4,12 +4,12 @@
  => Austria:[76,83]; score:1.000000
  => Moscow:[401,407]; score:1.000000
  => Wolfgang Schuessel:[701,719]; score:1.000000
-	FN => Viktor Klima:[664,676]; score:1.000000
  => Madeleine Albright:[126,144]; score:1.000000
+	FN => Viktor Klima:[664,676]; score:1.000000
  => World Jewish Congress:[898,919]; score:1.000000
+ => Nazis:[276,281]; score:1.000000
 	FN => Holocaust:[248,257]; score:1.000000
  => Germany:[1302,1309]; score:1.000000
- => Nazis:[276,281]; score:1.000000
  => stolen art:[60,70]; score:1.000000
  => United States:[607,620]; score:1.000000
  => Thomas Klestil:[323,337]; score:1.000000
@@ -100,8 +100,8 @@ P/R/F:0.16438356/0.8/0.27272725; tpCount:12.0; fpCount:61.0; fnCount:3.0
  => newspapers:[844,854]; score:1.000000
  => TV stations:[862,873]; score:1.000000
  => Thai people:[766,777]; score:1.000000
-	FN => Viravaidya:[14,24]; score:1.000000
  => justice system:[610,624]; score:1.000000
+	FN => Viravaidya:[14,24]; score:1.000000
  => SET:[75,78]; score:1.000000
  => lifestyle:[354,363]; score:1.000000
  => finance:[418,425]; score:1.000000
@@ -172,9 +172,9 @@ P/R/F:0.15517241/0.75/0.25714284; tpCount:9.0; fpCount:49.0; fnCount:3.0
  => Italy:[135,140]; score:1.000000
 	FN => B.C.:[487,491]; score:1.000000
 	FN => excavated:[525,534]; score:1.000000
+ => The J. Paul Getty Museum:[61,85]; score:1.000000
  => looting:[1228,1235]; score:1.000000
  => Greek:[778,783]; score:1.000000
- => The J. Paul Getty Museum:[61,85]; score:1.000000
  => works of art:[116,128]; score:1.000000
 	FN => Mithras:[592,599]; score:1.000000
  => Roman:[750,755]; score:1.000000
@@ -254,11 +254,11 @@ P/R/F:0.2/0.6666667/0.30769232; tpCount:12.0; fpCount:48.0; fnCount:6.0
  => Vatican:[1302,1309]; score:1.000000
  => nationalization:[398,413]; score:1.000000
  => forints:[568,575]; score:1.000000
-	FN => Hungarian:[76,85]; score:1.000000
  => the Holocaust:[1024,1037]; score:1.000000
+	FN => Hungarian:[76,85]; score:1.000000
  => MTI:[268,271]; score:1.000000
-	FN => Hungarian Jewish:[122,138]; score:1.000000
  => social welfare:[824,838]; score:1.000000
+	FN => Hungarian Jewish:[122,138]; score:1.000000
  => communist:[214,223]; score:1.000000
 
 ************************ System Result: ***************************
@@ -317,15 +317,15 @@ P/R/F:0.14/0.7777778/0.23728815; tpCount:7.0; fpCount:43.0; fnCount:2.0
 ***************** Gold Standard: ***********************
  => Calcutta University:[788,807]; score:1.000000
  => Indian newspapers:[323,340]; score:1.000000
-	FN => Prasar Bharati:[529,543]; score:1.000000
  => brain cancer:[191,203]; score:1.000000
- => journalism:[959,969]; score:1.000000
+	FN => Prasar Bharati:[529,543]; score:1.000000
  => Communist Party of India:[1021,1045]; score:1.000000
+ => journalism:[959,969]; score:1.000000
  => corporation:[562,573]; score:1.000000
  => Oxford University's Merton College:[826,860]; score:1.000000
+	FN => India:[98,103]; score:1.000000
  => Indira Gandhi:[1178,1191]; score:1.000000
  => Politics:[261,269]; score:1.000000
-	FN => India:[98,103]; score:1.000000
  => journalist:[120,130]; score:1.000000
 
 ************************ System Result: ***************************
@@ -488,8 +488,8 @@ P/R/F:0.16129032/0.90909094/0.27397257; tpCount:10.0; fpCount:52.0; fnCount:1.0
 	FN => reserves:[408,416]; score:1.000000
  => Apuseni Mountains:[1218,1235]; score:1.000000
  => rangers:[1177,1184]; score:1.000000
- => Dracula:[443,450]; score:1.000000
  => cattle:[26,32]; score:1.000000
+ => Dracula:[443,450]; score:1.000000
  => omnivorous:[866,876]; score:1.000000
 	FN => bear:[61,65]; score:1.000000
  => sheep:[192,197]; score:1.000000
@@ -577,8 +577,8 @@ P/R/F:0.21333334/0.84210527/0.34042552; tpCount:16.0; fpCount:59.0; fnCount:3.0
  => Civil Aviation Authority:[794,818]; score:1.000000
  => Palestinian:[79,90]; score:1.000000
 	FN => Yasser Arafat International Airport:[296,331]; score:1.000000
- => customs:[1135,1142]; score:1.000000
  => Israeli:[271,278]; score:1.000000
+ => customs:[1135,1142]; score:1.000000
  => passport:[1105,1113]; score:1.000000
  => Benjamin Netanyahu:[575,593]; score:1.000000
  => Cabinet:[502,509]; score:1.000000
@@ -662,15 +662,15 @@ P/R/F:0.22222222/0.93333334/0.35897437; tpCount:14.0; fpCount:49.0; fnCount:1.0
 	FN => negotiated:[652,662]; score:1.000000
  => Clive Lloyd:[877,888]; score:1.000000
 	FN => Caribbean News Agency:[152,173]; score:1.000000
- => Johannesburg:[1172,1184]; score:1.000000
 	FN => David Richardson:[1112,1128]; score:1.000000
+ => Johannesburg:[1172,1184]; score:1.000000
  => sponsorship:[1044,1055]; score:1.000000
  => South African cricket:[739,760]; score:1.000000
  => Lara:[182,186]; score:1.000000
 	FN => marketing:[1151,1160]; score:1.000000
  => batsman:[352,359]; score:1.000000
- => West Indies Cricket Board:[307,332]; score:1.000000
  => treasurer:[611,620]; score:1.000000
+ => West Indies Cricket Board:[307,332]; score:1.000000
 	FN => Hooper:[194,200]; score:1.000000
  => wicketkeeper:[1096,1108]; score:1.000000
  => Courtney Walsh:[76,90]; score:1.000000
@@ -740,8 +740,8 @@ P/R/F:0.21052632/0.6666667/0.32; tpCount:12.0; fpCount:45.0; fnCount:6.0
 	FN => Czech:[582,587]; score:1.000000
 	FN => Radio Free Europe:[150,167]; score:1.000000
  => Prague:[557,563]; score:1.000000
- => Munich, Germany:[1048,1063]; score:1.000000
  => Foreign Minister:[217,233]; score:1.000000
+ => Munich, Germany:[1048,1063]; score:1.000000
  => Soviet:[1106,1112]; score:1.000000
  => Iraq:[786,790]; score:1.000000
  => Cold War:[1175,1183]; score:1.000000
@@ -749,8 +749,8 @@ P/R/F:0.21052632/0.6666667/0.32; tpCount:12.0; fpCount:45.0; fnCount:6.0
  => the Hague:[91,100]; score:1.000000
  => Communist:[1212,1221]; score:1.000000
 	FN => Farsi:[921,926]; score:1.000000
- => Iran:[29,33]; score:1.000000
  => the Netherlands:[488,503]; score:1.000000
+ => Iran:[29,33]; score:1.000000
  => ICJ:[478,481]; score:1.000000
 
 ************************ System Result: ***************************
@@ -830,9 +830,9 @@ P/R/F:0.2/0.8125/0.32098767; tpCount:13.0; fpCount:52.0; fnCount:3.0
  => tender:[625,631]; score:1.000000
 	FN => Phan Van Khai:[91,104]; score:1.000000
 	FN => monopoly:[59,67]; score:1.000000
- => Vietnam:[348,355]; score:1.000000
 	FN => project accounting:[647,665]; score:1.000000
  => electricity:[128,139]; score:1.000000
+ => Vietnam:[348,355]; score:1.000000
  => bureaucracy:[193,204]; score:1.000000
  => Prime Minister:[73,87]; score:1.000000
  => hydroelectric:[1387,1400]; score:1.000000
@@ -912,24 +912,24 @@ P/R/F:0.12857144/0.64285713/0.21428573; tpCount:9.0; fpCount:61.0; fnCount:5.0
 [APW19980824_0827.htm]
 ***************** Gold Standard: ***********************
 	FN => embassies:[844,853]; score:1.000000
- => University of Connecticut:[1121,1146]; score:1.000000
  => tour operator:[1397,1410]; score:1.000000
+ => University of Connecticut:[1121,1146]; score:1.000000
  => U.S.:[205,209]; score:1.000000
  => Benjamin Netanyahu:[283,301]; score:1.000000
  => Muslim:[911,917]; score:1.000000
  => security:[21,29]; score:1.000000
  => terrorism:[407,416]; score:1.000000
  => pre-emptive strikes:[452,471]; score:1.000000
- => East Africa:[860,871]; score:1.000000
  => activist:[921,929]; score:1.000000
  => Islamic militants:[162,179]; score:1.000000
+ => East Africa:[860,871]; score:1.000000
  => strategic:[1052,1061]; score:1.000000
 	FN => David Bar-Illan:[323,338]; score:1.000000
  => Sudan:[698,703]; score:1.000000
  => administration:[1285,1299]; score:1.000000
- => Saudi:[767,772]; score:1.000000
  => international airport:[111,132]; score:1.000000
  => Osama bin Laden:[745,760]; score:1.000000
+ => Saudi:[767,772]; score:1.000000
  => Israel:[65,71]; score:1.000000
  => Afghanistan:[711,722]; score:1.000000
 	FN => air strikes:[680,691]; score:1.000000
@@ -996,8 +996,8 @@ P/R/F:0.12857144/0.64285713/0.21428573; tpCount:9.0; fpCount:61.0; fnCount:5.0
 	FP => bombings:[822,830]; score:1.000000
 	FP => Israel:[1268,1274]; score:1.000000
  => terrorism:[407,416]; score:1.000000
- => East Africa:[860,871]; score:1.000000
  => Islamic militants:[162,179]; score:1.000000
+ => East Africa:[860,871]; score:1.000000
  => strategic:[1052,1061]; score:1.000000
  => private security:[1220,1236]; score:1.000000
 	FP => Sunday:[892,898]; score:1.000000
@@ -1013,16 +1013,16 @@ P/R/F:0.2777778/0.8695652/0.42105266; tpCount:20.0; fpCount:52.0; fnCount:3.0
 ***************** Gold Standard: ***********************
  => Gulf:[37,41]; score:1.000000
  => Saudi Arabia:[657,669]; score:1.000000
- => Iraq:[298,302]; score:1.000000
  => William Cohen:[83,96]; score:1.000000
+ => Iraq:[298,302]; score:1.000000
  => U.S.:[146,150]; score:1.000000
  => U.N.:[1203,1207]; score:1.000000
  => United Arab Emirates:[612,632]; score:1.000000
  => sanctions:[1211,1220]; score:1.000000
  => Qatar:[540,545]; score:1.000000
  => Oman:[637,641]; score:1.000000
-	FN => ballistic missile defense system:[186,218]; score:1.000000
  => Iran:[286,290]; score:1.000000
+	FN => ballistic missile defense system:[186,218]; score:1.000000
  => Bahrain:[450,457]; score:1.000000
 
 ************************ System Result: ***************************
@@ -1181,15 +1181,15 @@ P/R/F:0.19298245/0.78571427/0.30985916; tpCount:11.0; fpCount:46.0; fnCount:3.0
 	FN => studies:[1383,1390]; score:1.000000
  => Federal:[40,47]; score:1.000000
  => mussel:[1064,1070]; score:1.000000
-	FN => Lukut:[1099,1104]; score:1.000000
  => Negri Sembilan:[1172,1186]; score:1.000000
+	FN => Lukut:[1099,1104]; score:1.000000
  => minister:[819,827]; score:1.000000
  => economic:[116,124]; score:1.000000
  => Government agencies:[64,83]; score:1.000000
  => ministry:[439,447]; score:1.000000
 	FN => allocation:[409,419]; score:1.000000
- => Port Dickson:[1246,1258]; score:1.000000
  => State:[55,60]; score:1.000000
+ => Port Dickson:[1246,1258]; score:1.000000
 	FN => poor:[472,476]; score:1.000000
  => Rural:[250,255]; score:1.000000
  => implementation:[228,242]; score:1.000000
@@ -1257,8 +1257,8 @@ P/R/F:0.19298245/0.78571427/0.30985916; tpCount:11.0; fpCount:46.0; fnCount:3.0
 P/R/F:0.18644068/0.6875/0.29333332; tpCount:11.0; fpCount:48.0; fnCount:5.0
 [APW19980808_0196.htm]
 ***************** Gold Standard: ***********************
- => Ayatollah Ruhollah Khomeini:[670,697]; score:1.000000
  => Saddam Hussein:[81,95]; score:1.000000
+ => Ayatollah Ruhollah Khomeini:[670,697]; score:1.000000
 	FN => Iranian government:[633,651]; score:1.000000
  => artillery:[1232,1241]; score:1.000000
  => United States:[117,130]; score:1.000000
@@ -1266,8 +1266,8 @@ P/R/F:0.18644068/0.6875/0.29333332; tpCount:11.0; fpCount:48.0; fnCount:5.0
  => Iran-Iraq war:[312,325]; score:1.000000
  => embargo:[818,825]; score:1.000000
  => U.N.:[464,468]; score:1.000000
- => sanctions:[891,900]; score:1.000000
  => Iraq:[214,218]; score:1.000000
+ => sanctions:[891,900]; score:1.000000
  => Baghdad:[1276,1283]; score:1.000000
  => patriotic:[1346,1355]; score:1.000000
 	FN => Kuwait:[961,967]; score:1.000000
@@ -1427,9 +1427,9 @@ P/R/F:0.15517241/1.0/0.26865673; tpCount:9.0; fpCount:49.0; fnCount:0.0
  => rifle:[876,881]; score:1.000000
  => oil field:[1313,1322]; score:1.000000
 	FN => Alaska State Troopers:[142,163]; score:1.000000
-	FN => Soldotna:[340,348]; score:1.000000
-	FN => ANCHORAGE:[37,46]; score:1.000000
  => Audelio Luis Cortes:[1215,1234]; score:1.000000
+	FN => ANCHORAGE:[37,46]; score:1.000000
+	FN => Soldotna:[340,348]; score:1.000000
 	FN => Alaska:[51,57]; score:1.000000
  => Kenai:[1331,1336]; score:1.000000
 
@@ -1517,10 +1517,10 @@ P/R/F:0.08219178/0.5/0.14117648; tpCount:6.0; fpCount:67.0; fnCount:6.0
  => Arab:[299,303]; score:1.000000
  => Britain:[114,121]; score:1.000000
  => Saddam Hussein:[154,168]; score:1.000000
- => United States:[93,106]; score:1.000000
-	FN => Abdul-Halim Khaddam:[195,214]; score:1.000000
  => Palestinian:[827,838]; score:1.000000
+ => United States:[93,106]; score:1.000000
  => Islamic:[311,318]; score:1.000000
+	FN => Abdul-Halim Khaddam:[195,214]; score:1.000000
  => Hafez Assad:[1372,1383]; score:1.000000
 	FN => Iran-Iraq war:[1503,1516]; score:1.000000
 	FN => Hassan Habibi:[385,398]; score:1.000000
@@ -1604,8 +1604,8 @@ P/R/F:0.15492958/0.6875/0.25287357; tpCount:11.0; fpCount:60.0; fnCount:5.0
 ***************** Gold Standard: ***********************
 	FN => Thai economy:[795,807]; score:1.000000
  => auction:[184,191]; score:1.000000
- => Chuan Leekpai:[1247,1260]; score:1.000000
  => baht:[406,410]; score:1.000000
+ => Chuan Leekpai:[1247,1260]; score:1.000000
  => Bangkok Post:[1040,1052]; score:1.000000
  => Christies:[1329,1338]; score:1.000000
  => Queen Sirikit Natoinal Convention Center:[1395,1435]; score:1.000000
@@ -1686,22 +1686,22 @@ P/R/F:0.14925373/0.90909094/0.25641027; tpCount:10.0; fpCount:57.0; fnCount:1.0
 [APW19990519_0141.htm]
 ***************** Gold Standard: ***********************
  => evaporated:[749,759]; score:1.000000
- => Earth:[617,622]; score:1.000000
  => Martian:[363,370]; score:1.000000
+ => Earth:[617,622]; score:1.000000
  => ice sheet:[785,794]; score:1.000000
  => Viking Orbiter:[954,968]; score:1.000000
  => hurricanes:[600,610]; score:1.000000
  => space telescope:[190,205]; score:1.000000
- => carbon dioxide:[767,781]; score:1.000000
 	FN => ice:[404,407]; score:1.000000
+ => carbon dioxide:[767,781]; score:1.000000
  => Space Telescope Science Institute:[244,277]; score:1.000000
- => wide field planetary camera:[1009,1036]; score:1.000000
  => cyclone:[61,68]; score:1.000000
+ => wide field planetary camera:[1009,1036]; score:1.000000
  => phenomenon:[1441,1451]; score:1.000000
  => Astronomers:[4,15]; score:1.000000
 	FN => Mars:[157,161]; score:1.000000
-	FN => Martian north pole:[812,830]; score:1.000000
  => Texas:[95,100]; score:1.000000
+	FN => Martian north pole:[812,830]; score:1.000000
  => Hubble Space Telescope:[306,328]; score:1.000000
 
 ************************ System Result: ***************************
@@ -1792,14 +1792,14 @@ P/R/F:0.1923077/0.8333333/0.31250003; tpCount:15.0; fpCount:63.0; fnCount:3.0
  => France:[559,565]; score:1.000000
  => East European:[408,421]; score:1.000000
  => art dealers:[1465,1476]; score:1.000000
- => communism:[762,771]; score:1.000000
  => illegal traffic:[160,175]; score:1.000000
+ => communism:[762,771]; score:1.000000
  => forints:[889,896]; score:1.000000
- => network:[1436,1443]; score:1.000000
  => illegal art traffic:[40,59]; score:1.000000
+ => network:[1436,1443]; score:1.000000
  => Interpol:[260,268]; score:1.000000
-	FN => Hungarian:[647,656]; score:1.000000
  => auctioneers:[1481,1492]; score:1.000000
+	FN => Hungarian:[647,656]; score:1.000000
 
 ************************ System Result: ***************************
 	FP => forints:[998,1005]; score:1.000000
@@ -2079,8 +2079,8 @@ P/R/F:0.15384616/1.0/0.26666668; tpCount:14.0; fpCount:77.0; fnCount:0.0
  => Dallas-Fort Worth International Airport:[498,537]; score:1.000000
  => Green Mountains:[667,682]; score:1.000000
  => the West:[885,893]; score:1.000000
- => Ohio Valley:[345,356]; score:1.000000
  => Lightning:[215,224]; score:1.000000
+ => Ohio Valley:[345,356]; score:1.000000
  => Alice:[1492,1497]; score:1.000000
  => wind:[244,248]; score:1.000000
  => freezing:[827,835]; score:1.000000
@@ -2172,8 +2172,8 @@ P/R/F:0.4050633/0.9142857/0.5614035; tpCount:32.0; fpCount:47.0; fnCount:3.0
 	FN => Saint Laurent du Var:[755,775]; score:1.000000
  => curator:[39,46]; score:1.000000
  => heist:[187,192]; score:1.000000
- => Alfred Sisley:[630,643]; score:1.000000
  => Riviera:[736,743]; score:1.000000
+ => Alfred Sisley:[630,643]; score:1.000000
  => Impressionist:[103,116]; score:1.000000
  => Monet:[400,405]; score:1.000000
  => Nice:[449,453]; score:1.000000
@@ -2258,8 +2258,8 @@ P/R/F:0.1/0.875/0.17948717; tpCount:7.0; fpCount:63.0; fnCount:1.0
  => Tehran:[712,718]; score:1.000000
  => trade fair:[45,55]; score:1.000000
  => commercial:[559,569]; score:1.000000
- => Iranian:[172,179]; score:1.000000
  => acts of sabotage:[1301,1317]; score:1.000000
+ => Iranian:[172,179]; score:1.000000
  => U.N.:[909,913]; score:1.000000
 	FN => Kermanshah province:[381,400]; score:1.000000
  => Mohammad Shariat-Madari:[514,537]; score:1.000000
@@ -2443,13 +2443,13 @@ P/R/F:0.08/0.75/0.14457831; tpCount:6.0; fpCount:69.0; fnCount:2.0
  => ambassador:[568,578]; score:1.000000
  => East:[1267,1271]; score:1.000000
  => the Hague:[121,130]; score:1.000000
- => West:[1238,1242]; score:1.000000
  => Iraq:[822,826]; score:1.000000
+ => West:[1238,1242]; score:1.000000
  => Soviet:[1145,1151]; score:1.000000
- => the Netherlands:[515,530]; score:1.000000
  => economic:[700,708]; score:1.000000
- => Cold War:[1214,1222]; score:1.000000
+ => the Netherlands:[515,530]; score:1.000000
  => ICJ:[505,508]; score:1.000000
+ => Cold War:[1214,1222]; score:1.000000
  => Iron Curtain:[1187,1199]; score:1.000000
 	FN => Farsi:[957,962]; score:1.000000
  => Kamal Kharrazi:[264,278]; score:1.000000
@@ -2632,18 +2632,18 @@ P/R/F:0.15/0.85714287/0.25531915; tpCount:12.0; fpCount:68.0; fnCount:2.0
  => Thailand:[327,335]; score:1.000000
 	FN => Linear Accelerator:[691,709]; score:1.000000
  => conscious:[972,981]; score:1.000000
- => radiation:[655,664]; score:1.000000
  => haemorrhage:[145,156]; score:1.000000
+ => radiation:[655,664]; score:1.000000
  => breast cancer:[118,131]; score:1.000000
- => brain tumours:[87,100]; score:1.000000
 	FN => tissues:[529,536]; score:1.000000
+ => brain tumours:[87,100]; score:1.000000
  => capillaries:[1147,1158]; score:1.000000
  => cancerous:[506,515]; score:1.000000
  => Bangkok:[251,258]; score:1.000000
  => clotting:[1117,1125]; score:1.000000
  => three dimensional:[555,572]; score:1.000000
-	FN => Malformation:[1096,1108]; score:1.000000
 	FN => Radio Surgery:[297,310]; score:1.000000
+	FN => Malformation:[1096,1108]; score:1.000000
  => Stereotaxic Surgery:[592,611]; score:1.000000
 
 ************************ System Result: ***************************
@@ -2797,11 +2797,11 @@ P/R/F:0.12328767/0.9/0.21686748; tpCount:9.0; fpCount:64.0; fnCount:1.0
 [APW19981109_1089.htm]
 ***************** Gold Standard: ***********************
  => cricket:[167,174]; score:1.000000
-	FN => David Richardson:[1112,1128]; score:1.000000
  => Johannesburg:[1172,1184]; score:1.000000
 	FN => sports marketing:[1144,1160]; score:1.000000
- => South African cricket:[734,755]; score:1.000000
+	FN => David Richardson:[1112,1128]; score:1.000000
 	FN => sponsorship:[1044,1055]; score:1.000000
+ => South African cricket:[734,755]; score:1.000000
  => South Africa:[151,163]; score:1.000000
  => West Indies Cricket Board:[678,703]; score:1.000000
  => West Indies:[91,102]; score:1.000000
@@ -2809,8 +2809,8 @@ P/R/F:0.12328767/0.9/0.21686748; tpCount:9.0; fpCount:64.0; fnCount:1.0
  => Carl Hooper:[321,332]; score:1.000000
  => Jimmy Adams:[545,556]; score:1.000000
  => Brian Lara:[292,302]; score:1.000000
- => wicketkeeper:[1096,1108]; score:1.000000
  => Joel Garner:[903,914]; score:1.000000
+ => wicketkeeper:[1096,1108]; score:1.000000
 	FN => Ali Bacher:[711,721]; score:1.000000
  => Clive Lloyd:[872,883]; score:1.000000
 
@@ -2884,8 +2884,8 @@ P/R/F:0.21311475/0.7647059/0.33333334; tpCount:13.0; fpCount:48.0; fnCount:4.0
  => amnesty:[940,947]; score:1.000000
  => Johannesburg:[721,733]; score:1.000000
  => prosecutor:[48,58]; score:1.000000
- => white rule:[194,204]; score:1.000000
 	FN => P.W. Botha:[130,140]; score:1.000000
+ => white rule:[194,204]; score:1.000000
  => African National Congress:[645,670]; score:1.000000
  => rand:[1282,1286]; score:1.000000
 
@@ -2960,10 +2960,10 @@ P/R/F:0.21311475/0.7647059/0.33333334; tpCount:13.0; fpCount:48.0; fnCount:4.0
 P/R/F:0.11940298/0.8888889/0.21052632; tpCount:8.0; fpCount:59.0; fnCount:1.0
 [APW20000312_0050.htm]
 ***************** Gold Standard: ***********************
- => Pope John Paul II:[785,802]; score:1.000000
  => Central America:[1103,1118]; score:1.000000
- => diabetes:[1321,1329]; score:1.000000
+ => Pope John Paul II:[785,802]; score:1.000000
  => short-wave:[395,405]; score:1.000000
+ => diabetes:[1321,1329]; score:1.000000
 	FN => Nicaragua:[49,58]; score:1.000000
  => Hurricane Mitch:[825,840]; score:1.000000
  => Radio Nicaragua:[350,365]; score:1.000000
@@ -3033,8 +3033,8 @@ P/R/F:0.11940298/0.8888889/0.21052632; tpCount:8.0; fpCount:59.0; fnCount:1.0
 	FP => Nicaragua:[6,15]; score:1.000000
 	FP => Nicaragua:[135,144]; score:1.000000
 	FP => war:[705,708]; score:1.000000
- => Pope John Paul II:[785,802]; score:1.000000
  => Central America:[1103,1118]; score:1.000000
+ => Pope John Paul II:[785,802]; score:1.000000
 	FP => illnesses:[1289,1298]; score:1.000000
  => diabetes:[1321,1329]; score:1.000000
 	FP => visit:[775,780]; score:1.000000
@@ -3055,14 +3055,14 @@ P/R/F:0.11940298/0.8888889/0.21052632; tpCount:8.0; fpCount:59.0; fnCount:1.0
 P/R/F:0.16/0.8/0.26666668; tpCount:12.0; fpCount:63.0; fnCount:3.0
 [APW19980624_0607.htm]
 ***************** Gold Standard: ***********************
- => prisoners of war:[147,163]; score:1.000000
  => Iran-Iraq war:[1168,1181]; score:1.000000
+ => prisoners of war:[147,163]; score:1.000000
  => repatriation:[912,924]; score:1.000000
- => International Committee of the Red Cross:[975,1015]; score:1.000000
  => Iraqi News Agency:[376,393]; score:1.000000
+ => International Committee of the Red Cross:[975,1015]; score:1.000000
  => Iran:[60,64]; score:1.000000
- => Tehran:[609,615]; score:1.000000
  => Baghdad:[226,233]; score:1.000000
+ => Tehran:[609,615]; score:1.000000
  => Iraq:[48,52]; score:1.000000
 
 ************************ System Result: ***************************
@@ -3153,16 +3153,16 @@ P/R/F:0.116883114/1.0/0.2093023; tpCount:9.0; fpCount:68.0; fnCount:0.0
  => Munich, Germany:[1054,1069]; score:1.000000
  => ambassador:[538,548]; score:1.000000
  => Iraq:[789,793]; score:1.000000
- => Soviet:[1112,1118]; score:1.000000
- => broadcast:[763,772]; score:1.000000
  => the Hague:[91,100]; score:1.000000
+ => broadcast:[763,772]; score:1.000000
+ => Soviet:[1112,1118]; score:1.000000
  => Cold War:[1181,1189]; score:1.000000
- => the Netherlands:[485,500]; score:1.000000
  => Iron Curtain:[1154,1166]; score:1.000000
+ => the Netherlands:[485,500]; score:1.000000
 	FN => Farsi:[924,929]; score:1.000000
  => ICJ:[475,478]; score:1.000000
- => Communist:[1218,1227]; score:1.000000
  => Iran:[29,33]; score:1.000000
+ => Communist:[1218,1227]; score:1.000000
  => Kamal Kharrazi:[234,248]; score:1.000000
  => collapse of communism:[1298,1319]; score:1.000000
 
@@ -3210,8 +3210,8 @@ P/R/F:0.116883114/1.0/0.2093023; tpCount:9.0; fpCount:68.0; fnCount:0.0
 	FP => assistance:[603,613]; score:1.000000
  => Iraq:[789,793]; score:1.000000
 	FP => protest:[569,576]; score:1.000000
- => Soviet:[1112,1118]; score:1.000000
  => broadcast:[763,772]; score:1.000000
+ => Soviet:[1112,1118]; score:1.000000
 	FP => economic:[669,677]; score:1.000000
  => Cold War:[1181,1189]; score:1.000000
 	FP => complaints:[353,363]; score:1.000000
@@ -3240,8 +3240,8 @@ P/R/F:0.23076923/0.7894737/0.35714287; tpCount:15.0; fpCount:50.0; fnCount:4.0
  => sarin attack:[400,412]; score:1.000000
  => nerve gas:[110,119]; score:1.000000
  => guru:[9,13]; score:1.000000
-	FN => Shoko Asahara:[292,305]; score:1.000000
 	FN => defense:[590,597]; score:1.000000
+	FN => Shoko Asahara:[292,305]; score:1.000000
  => Tokyo District Court:[781,801]; score:1.000000
  => Aum Shinri Kyo:[328,342]; score:1.000000
 	FN => gassing:[514,521]; score:1.000000
@@ -3403,8 +3403,8 @@ P/R/F:0.1884058/0.7647059/0.30232558; tpCount:13.0; fpCount:56.0; fnCount:4.0
  => Nice Airport:[515,527]; score:1.000000
  => Brooke Shields:[85,99]; score:1.000000
  => substance abuse:[1084,1099]; score:1.000000
- => Associated Newspapers Ltd:[615,640]; score:1.000000
  => libel:[35,40]; score:1.000000
+ => Associated Newspapers Ltd:[615,640]; score:1.000000
 
 ************************ System Result: ***************************
 	FP => damages:[1511,1518]; score:1.000000
@@ -3488,11 +3488,11 @@ P/R/F:0.112676054/0.72727275/0.19512196; tpCount:8.0; fpCount:63.0; fnCount:3.0
  => mayor:[1193,1198]; score:1.000000
  => coal-mining:[783,794]; score:1.000000
  => Kemerovo:[364,372]; score:1.000000
- => contract murder:[948,963]; score:1.000000
  => Russian:[44,51]; score:1.000000
+ => contract murder:[948,963]; score:1.000000
  => oil products:[721,733]; score:1.000000
- => trial:[1355,1360]; score:1.000000
  => mogul:[587,592]; score:1.000000
+ => trial:[1355,1360]; score:1.000000
  => embezzlement:[1235,1247]; score:1.000000
 	FN => mob:[1324,1327]; score:1.000000
 	FN => Sibneft:[241,248]; score:1.000000
@@ -3544,8 +3544,8 @@ P/R/F:0.112676054/0.72727275/0.19512196; tpCount:8.0; fpCount:63.0; fnCount:3.0
 	FP => shot:[263,267]; score:1.000000
 	FP => killer:[842,848]; score:1.000000
 	FP => Russia:[970,976]; score:1.000000
- => contract murder:[948,963]; score:1.000000
  => Russian:[44,51]; score:1.000000
+ => contract murder:[948,963]; score:1.000000
 	FP => main:[777,781]; score:1.000000
 	FP => Mayor:[1259,1264]; score:1.000000
 	FP => fight:[1003,1008]; score:1.000000
@@ -3668,11 +3668,11 @@ P/R/F:0.16883117/1.0/0.2888889; tpCount:13.0; fpCount:64.0; fnCount:0.0
 ***************** Gold Standard: ***********************
  => prisoners of war:[147,163]; score:1.000000
  => Iran:[60,64]; score:1.000000
+ => detainees:[882,891]; score:1.000000
  => Iran-Iraq war:[1174,1187]; score:1.000000
  => delegation:[291,301]; score:1.000000
- => detainees:[882,891]; score:1.000000
- => repatriation:[918,930]; score:1.000000
  => Iraqi News Agency:[379,396]; score:1.000000
+ => repatriation:[918,930]; score:1.000000
  => Baghdad:[226,233]; score:1.000000
  => Iraq:[48,52]; score:1.000000
  => International Committee of the Red Cross:[981,1021]; score:1.000000
@@ -3759,8 +3759,8 @@ P/R/F:0.16883117/1.0/0.2888889; tpCount:13.0; fpCount:64.0; fnCount:0.0
 P/R/F:0.14285715/1.0/0.25; tpCount:11.0; fpCount:66.0; fnCount:0.0
 [APW19980713_0449.htm]
 ***************** Gold Standard: ***********************
- => German railway:[15,29]; score:1.000000
  => Wuerzburg:[1002,1011]; score:1.000000
+ => German railway:[15,29]; score:1.000000
  => planes:[104,110]; score:1.000000
  => United:[1073,1079]; score:1.000000
  => main hub:[340,348]; score:1.000000
@@ -3771,8 +3771,8 @@ P/R/F:0.14285715/1.0/0.25; tpCount:11.0; fpCount:66.0; fnCount:0.0
  => Germany:[128,135]; score:1.000000
  => Frankfurt:[355,364]; score:1.000000
  => SAS:[1087,1090]; score:1.000000
-	FN => landing slots:[554,567]; score:1.000000
  => Bonn:[993,997]; score:1.000000
+	FN => landing slots:[554,567]; score:1.000000
 
 ************************ System Result: ***************************
  => German railway:[15,29]; score:1.000000
@@ -3857,14 +3857,14 @@ P/R/F:0.14285715/1.0/0.25; tpCount:11.0; fpCount:66.0; fnCount:0.0
 P/R/F:0.16455697/0.9285714/0.27956992; tpCount:13.0; fpCount:66.0; fnCount:1.0
 [APW19980811_0512.htm]
 ***************** Gold Standard: ***********************
- => liver disorders:[1103,1118]; score:1.000000
  => Niigata:[487,494]; score:1.000000
+ => liver disorders:[1103,1118]; score:1.000000
  => central nervous system:[215,237]; score:1.000000
  => sodium compound:[179,194]; score:1.000000
- => Niigata City:[1169,1181]; score:1.000000
  => toxic:[170,175]; score:1.000000
- => March 1995:[1202,1212]; score:1.000000
+ => Niigata City:[1169,1181]; score:1.000000
  => nausea:[590,596]; score:1.000000
+ => March 1995:[1202,1212]; score:1.000000
  => Aum Shinri Kyo:[1272,1286]; score:1.000000
  => cyanide:[721,728]; score:1.000000
  => police:[242,248]; score:1.000000
@@ -3956,11 +3956,11 @@ P/R/F:0.26086956/0.85714287/0.4; tpCount:18.0; fpCount:51.0; fnCount:3.0
 	FN => Air Afrique:[60,71]; score:1.000000
  => Boeing:[75,81]; score:1.000000
  => violent crime:[1442,1455]; score:1.000000
- => distress call:[707,720]; score:1.000000
  => Guardian newspaper:[248,266]; score:1.000000
+ => distress call:[707,720]; score:1.000000
  => Security:[767,775]; score:1.000000
- => tarmac:[1230,1236]; score:1.000000
  => Nigeria's largest international airport:[191,230]; score:1.000000
+ => tarmac:[1230,1236]; score:1.000000
  => Lagos:[239,244]; score:1.000000
 	FN => Cameroon Airlines:[1132,1149]; score:1.000000
 
@@ -4044,16 +4044,16 @@ P/R/F:0.26086956/0.85714287/0.4; tpCount:18.0; fpCount:51.0; fnCount:3.0
 P/R/F:0.118421055/0.8181818/0.20689654; tpCount:9.0; fpCount:67.0; fnCount:2.0
 [APW19990120_0179.htm]
 ***************** Gold Standard: ***********************
- => auction house:[224,237]; score:1.000000
-	FN => Beanie Babies:[96,109]; score:1.000000
 	FN => charge card:[1278,1289]; score:1.000000
+	FN => Beanie Babies:[96,109]; score:1.000000
+ => auction house:[224,237]; score:1.000000
  => baseball:[860,868]; score:1.000000
  => antiques:[367,375]; score:1.000000
 	FN => sports memorabilia:[394,412]; score:1.000000
 	FN => Sotheby:[194,201]; score:1.000000
  => New York:[212,220]; score:1.000000
- => Rembrandt:[165,174]; score:1.000000
 	FN => online auction:[810,824]; score:1.000000
+ => Rembrandt:[165,174]; score:1.000000
 	FN => Christie:[1332,1340]; score:1.000000
  => collectibles:[426,438]; score:1.000000
 
@@ -4120,8 +4120,8 @@ P/R/F:0.10714286/0.5/0.1764706; tpCount:6.0; fpCount:50.0; fnCount:6.0
  => Shannon Lucid:[1068,1081]; score:1.000000
  => Apollo 1:[263,271]; score:1.000000
 	FN => rocket:[901,907]; score:1.000000
-	FN => moon:[390,394]; score:1.000000
  => Roger Chaffee:[239,252]; score:1.000000
+	FN => moon:[390,394]; score:1.000000
  => Buzz Aldrin:[367,378]; score:1.000000
  => orbit:[172,177]; score:1.000000
  => spacecraft:[275,285]; score:1.000000
@@ -4131,8 +4131,8 @@ P/R/F:0.10714286/0.5/0.1764706; tpCount:6.0; fpCount:50.0; fnCount:6.0
  => Discovery:[1284,1293]; score:1.000000
  => Gus Grissom:[200,211]; score:1.000000
  => launch pad:[297,307]; score:1.000000
- => Mir:[963,966]; score:1.000000
  => space shuttle:[525,538]; score:1.000000
+ => Mir:[963,966]; score:1.000000
  => Apollo 11:[330,339]; score:1.000000
  => Story Musgrave:[1207,1221]; score:1.000000
  => Columbia:[498,506]; score:1.000000
@@ -4204,8 +4204,8 @@ P/R/F:0.10714286/0.5/0.1764706; tpCount:6.0; fpCount:50.0; fnCount:6.0
 	FP => launched:[807,815]; score:1.000000
 	FP => oldest man:[1385,1395]; score:1.000000
  => in orbit:[168,176]; score:1.000000
- => Mir:[963,966]; score:1.000000
  => space shuttle:[525,538]; score:1.000000
+ => Mir:[963,966]; score:1.000000
 	FP => Nov.:[1191,1195]; score:1.000000
 	FP => June 29:[973,980]; score:1.000000
 	FP => Glenn:[12,17]; score:1.000000
@@ -4228,8 +4228,8 @@ P/R/F:0.10714286/0.5/0.1764706; tpCount:6.0; fpCount:50.0; fnCount:6.0
 P/R/F:0.2875/0.88461536/0.43396226; tpCount:23.0; fpCount:57.0; fnCount:3.0
 [APW19980620_0458.htm]
 ***************** Gold Standard: ***********************
- => Iraqi News Agency:[257,274]; score:1.000000
  => Associated Press:[928,944]; score:1.000000
+ => Iraqi News Agency:[257,274]; score:1.000000
 	FN => Mohammed Saeed al-Sahhaf:[314,338]; score:1.000000
 	FN => Missing-In-Action:[451,468]; score:1.000000
 	FN => Iran-Iraq War:[704,717]; score:1.000000

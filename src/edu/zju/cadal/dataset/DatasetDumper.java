@@ -4,6 +4,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+import edu.zju.cadal.matching.Matching;
+import edu.zju.cadal.matching.MentionMatching;
+import edu.zju.cadal.matching.PreProcessor;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
@@ -16,7 +19,9 @@ import edu.zju.cadal.model.NIL;
  * @date:2015年11月16日
  */
 public class DatasetDumper {
-
+	
+	private static PreProcessor preProcessor;
+	
 	public static int getMentionCount(AbstractDataset ds) {
 		Map<String, Set<Mention>> goldMentionMap = ds.getGoldMention();
 		int count = 0;

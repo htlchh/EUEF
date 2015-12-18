@@ -45,8 +45,8 @@
 	FP => United States:[739,752]; score:1.000000; title:United_States; score:0.131744
 	FP => President:[312,321]; score:1.000000; title:President_of_France; score:0.257330
 	FP => left:[593,597]; score:1.000000; title:Left-wing_politics; score:0.102274
- => Wolfgang Schuessel:[701,719]; score:1.000000; title:Wolfgang_Schüssel; score:0.148344
 	FP => issue:[559,564]; score:1.000000; title:Issues_(Korn_album); score:0.001686
+ => Wolfgang Schuessel:[701,719]; score:1.000000; title:Wolfgang_Schüssel; score:0.148344
 	FP => dollars:[820,827]; score:1.000000; title:Dollar; score:0.124192
  => United States:[607,620]; score:1.000000; title:United_States; score:0.131744
  => Madeleine Albright:[126,144]; score:1.000000; title:Madeleine_Albright; score:0.292669
@@ -68,10 +68,10 @@
 	FP => works:[1175,1180]; score:1.000000; title:Work_of_art; score:0.080229
 	FP => billions:[808,816]; score:1.000000; title:1000000000_(number); score:0.219229
 	FP => Museum:[509,515]; score:1.000000; title:Museum; score:0.177232
- => Moscow:[401,407]; score:1.000000; title:Moscow; score:0.111937
-	FP => Secretary of State:[104,122]; score:1.000000; title:United_States_Secretary_of_State; score:0.199900
 	FP => museums:[1119,1126]; score:1.000000; title:Museum; score:0.177232
 	FP => art:[555,558]; score:1.000000; title:Art; score:0.127155
+	FP => Secretary of State:[104,122]; score:1.000000; title:United_States_Secretary_of_State; score:0.199900
+ => Moscow:[401,407]; score:1.000000; title:Moscow; score:0.111937
 	FP => World War II:[1371,1383]; score:1.000000; title:World_War_II; score:0.177595
 	FP => Germany:[1302,1309]; score:1.000000; title:Nazi_Germany; score:0.169254
 	FP => tracking:[1244,1252]; score:1.000000; title:Tracking_shot; score:0.024622
@@ -83,8 +83,8 @@
 	FP => current:[936,943]; score:1.000000; title:Current_TV; score:0.048192
 	FP => Austrian:[288,296]; score:1.000000; title:Austrian_Empire; score:0.280009
 	FP => worldwide:[1221,1230]; score:1.000000; title:Beyoncé_Knowles; score:0.056022
- => Nazis:[276,281]; score:1.000000; title:Nazism; score:0.160853
 	FP => Austrian president:[3,21]; score:1.000000; title:President_of_Austria; score:0.214173
+ => Nazis:[276,281]; score:1.000000; title:Nazism; score:0.160853
 	FP => database:[1231,1239]; score:1.000000; title:Database; score:0.063979
 	FP => art:[837,840]; score:1.000000; title:Art; score:0.127155
  => Austria:[76,83]; score:1.000000; title:Austria; score:0.330796
@@ -93,22 +93,22 @@
 P/R/F:0.12328767/0.6/0.20454545; tpCount:9.0; fpCount:64.0; fnCount:6.0
 [APW19980604_0787.htm]
 ***************** Gold Standard: ***********************
- => corporate ethics:[129,145]; score:1.000000; title:Business ethics; score:1.000000
 	FN => executives:[377,387]; score:1.000000; title:Chief executive officer; score:1.000000
 	FN => banks:[405,410]; score:1.000000; title:Bank; score:1.000000
- => finance:[418,425]; score:1.000000; title:Finance; score:1.000000
+ => corporate ethics:[129,145]; score:1.000000; title:Business ethics; score:1.000000
  => Thai people:[766,777]; score:1.000000; title:Thai people; score:1.000000
+ => finance:[418,425]; score:1.000000; title:Finance; score:1.000000
 	FN => SET:[75,78]; score:1.000000; title:SET Index; score:1.000000
  => newspapers:[844,854]; score:1.000000; title:Newspaper; score:1.000000
  => TV stations:[862,873]; score:1.000000; title:Television channel; score:1.000000
 	FN => justice system:[610,624]; score:1.000000; title:Legal systems of the world; score:1.000000
 	FN => Viravaidya:[14,24]; score:1.000000; title:Mechai Viravaidya; score:1.000000
-	FN => lifestyle:[354,363]; score:1.000000; title:Lifestyle; score:1.000000
  => Bank of Thailand:[543,559]; score:1.000000; title:Bank of Thailand; score:1.000000
+	FN => lifestyle:[354,363]; score:1.000000; title:Lifestyle; score:1.000000
 
 ************************ System Result: ***************************
-	FP => companies:[428,437]; score:1.000000; title:Company; score:0.138531
  => Thai people:[766,777]; score:1.000000; title:Thai_people; score:0.144757
+	FP => companies:[428,437]; score:1.000000; title:Company; score:0.138531
 	FP => subscribe:[232,241]; score:1.000000; title:Subscription_business_model; score:0.041100
 	FP => media:[330,335]; score:1.000000; title:Mass_media; score:0.170405
 	FP => seminar:[1202,1209]; score:1.000000; title:Seminar; score:0.072280
@@ -130,7 +130,6 @@ P/R/F:0.12328767/0.6/0.20454545; tpCount:9.0; fpCount:64.0; fnCount:6.0
 	FP => report:[339,345]; score:1.000000; title:Explosion; score:0.070748
 	FP => issue:[888,893]; score:1.000000; title:Issue_tracking_system; score:0.040235
 	FP => expose:[102,108]; score:1.000000; title:Investigative_journalism; score:0.121082
-	FP => system:[618,624]; score:1.000000; title:System; score:0.067609
 	FP => evidence:[576,584]; score:1.000000; title:Evidence_(law); score:0.085168
 	FP => collecting:[565,575]; score:1.000000; title:Collecting; score:0.056632
 	FP => media:[1288,1293]; score:1.000000; title:Mass_media; score:0.170405
@@ -166,7 +165,7 @@ P/R/F:0.12328767/0.6/0.20454545; tpCount:9.0; fpCount:64.0; fnCount:6.0
 	FP => abuses:[118,124]; score:1.000000; title:Abuse; score:0.089465
 	FP => hard:[1025,1029]; score:1.000000; title:Hardness; score:0.007017
  => Bank of Thailand:[543,559]; score:1.000000; title:Bank_of_Thailand; score:0.252423
-P/R/F:0.10169491/0.5/0.16901407; tpCount:6.0; fpCount:53.0; fnCount:6.0
+P/R/F:0.10344828/0.5/0.17142858; tpCount:6.0; fpCount:52.0; fnCount:6.0
 [APW19990203_0315.htm]
 ***************** Gold Standard: ***********************
  => antiquities:[344,355]; score:1.000000; title:Antiquities; score:1.000000
@@ -175,8 +174,8 @@ P/R/F:0.10169491/0.5/0.16901407; tpCount:6.0; fpCount:53.0; fnCount:6.0
 	FN => torso:[572,577]; score:1.000000; title:Torso; score:1.000000
  => Italy:[135,140]; score:1.000000; title:Italy; score:1.000000
  => archaeological site:[546,565]; score:1.000000; title:Archaeological site; score:1.000000
- => works of art:[116,128]; score:1.000000; title:Work of art; score:1.000000
 	FN => B.C.:[487,491]; score:1.000000; title:Anno Domini; score:1.000000
+ => works of art:[116,128]; score:1.000000; title:Work of art; score:1.000000
 	FN => Roman:[750,755]; score:1.000000; title:Ancient Rome; score:1.000000
  => sculpture:[190,199]; score:1.000000; title:Sculpture; score:1.000000
  => collection:[214,224]; score:1.000000; title:Collection (museum); score:1.000000
@@ -185,8 +184,8 @@ P/R/F:0.10169491/0.5/0.16901407; tpCount:6.0; fpCount:53.0; fnCount:6.0
 	FN => LOS ANGELES:[38,49]; score:1.000000; title:Los Angeles, California; score:1.000000
 	FN => Brentwood:[1322,1331]; score:1.000000; title:Brentwood, Los Angeles, California; score:1.000000
 	FN => The J. Paul Getty Museum:[61,85]; score:1.000000; title:Getty Center; score:1.000000
-	FN => Mithras:[592,599]; score:1.000000; title:Mithraic Mysteries; score:1.000000
 	FN => excavated:[525,534]; score:1.000000; title:Excavation; score:1.000000
+	FN => Mithras:[592,599]; score:1.000000; title:Mithraic Mysteries; score:1.000000
 
 ************************ System Result: ***************************
 	FP => museum:[329,335]; score:1.000000; title:Museum; score:0.325216
@@ -208,8 +207,8 @@ P/R/F:0.10169491/0.5/0.16901407; tpCount:6.0; fpCount:53.0; fnCount:6.0
 	FP => concern:[1136,1143]; score:1.000000; title:Concern_Worldwide; score:0.019136
  => Italy:[135,140]; score:1.000000; title:Italy; score:0.191084
 	FP => work:[786,790]; score:1.000000; title:Work_of_art; score:0.119113
-	FP => J. Paul Getty Museum:[65,85]; score:1.000000; title:J._Paul_Getty_Museum; score:0.281693
 	FP => sat:[202,205]; score:1.000000; title:Satellite; score:0.056509
+	FP => J. Paul Getty Museum:[65,85]; score:1.000000; title:J._Paul_Getty_Museum; score:0.281693
 	FP => Italy:[270,275]; score:1.000000; title:Italy; score:0.191084
 	FP => Getty:[406,411]; score:1.000000; title:J._Paul_Getty_Museum; score:0.281693
 	FP => thefts:[1176,1182]; score:1.000000; title:Theft; score:0.056234
@@ -225,8 +224,8 @@ P/R/F:0.10169491/0.5/0.16901407; tpCount:6.0; fpCount:53.0; fnCount:6.0
 	FP => Italian:[668,675]; score:1.000000; title:Italian_language; score:0.157228
 	FP => museum:[1288,1294]; score:1.000000; title:Museum; score:0.325216
 	FP => head:[705,709]; score:1.000000; title:Head_(company); score:0.053020
-	FP => Brentwood:[1322,1331]; score:1.000000; title:Brentwood,_Tennessee; score:0.047919
 	FP => cup:[473,476]; score:1.000000; title:Cambridge_University_Press; score:0.102415
+	FP => Brentwood:[1322,1331]; score:1.000000; title:Brentwood,_Tennessee; score:0.047919
 	FP => excavation:[854,864]; score:1.000000; title:Excavation_(archaeology); score:0.455020
 	FP => area:[1333,1337]; score:1.000000; title:Area_(band); score:0.047705
  => looting:[1228,1235]; score:1.000000; title:Looting; score:0.179368
@@ -274,8 +273,8 @@ P/R/F:0.11666667/0.3888889/0.17948717; tpCount:7.0; fpCount:53.0; fnCount:11.0
 	FP => fell:[382,386]; score:1.000000; title:Fell; score:0.009388
 	FP => financial:[291,300]; score:1.000000; title:Finance; score:0.068525
 	FP => charity:[862,869]; score:1.000000; title:Charity_(practice); score:0.044787
- => Holocaust:[1028,1037]; score:1.000000; title:The_Holocaust; score:0.139580
 	FP => money:[762,767]; score:1.000000; title:Money; score:0.060612
+ => Holocaust:[1028,1037]; score:1.000000; title:The_Holocaust; score:0.139580
 	FP => percentage:[643,653]; score:1.000000; title:Percentage; score:0.027712
  => social welfare:[824,838]; score:1.000000; title:Welfare; score:0.077790
 	FP => real estate:[326,337]; score:1.000000; title:Real_estate; score:0.076316
@@ -317,7 +316,7 @@ P/R/F:0.1/0.5555556/0.16949153; tpCount:5.0; fpCount:45.0; fnCount:4.0
 [APW19980627_0596.htm]
 ***************** Gold Standard: ***********************
 	FN => Communist Party of India:[1021,1045]; score:1.000000; title:Communist Party of India; score:1.000000
- => Oxford University's Merton College:[826,860]; score:1.000000; title:Merton College, Oxford; score:1.000000
+	FN => Oxford University's Merton College:[826,860]; score:1.000000; title:Merton College, Oxford; score:1.000000
  => Indira Gandhi:[1178,1191]; score:1.000000; title:Indira Gandhi; score:1.000000
  => brain cancer:[191,203]; score:1.000000; title:Brain tumor; score:1.000000
 	FN => Prasar Bharati:[529,543]; score:1.000000; title:Prasar Bharati; score:1.000000
@@ -330,9 +329,8 @@ P/R/F:0.1/0.5555556/0.16949153; tpCount:5.0; fpCount:45.0; fnCount:4.0
  => Calcutta University:[788,807]; score:1.000000; title:University of Calcutta; score:1.000000
 
 ************************ System Result: ***************************
-	FP => Assam:[1390,1395]; score:1.000000; title:Assam; score:0.098687
  => Indira Gandhi:[1178,1191]; score:1.000000; title:Indira_Gandhi; score:0.128448
-	FP => Indian:[323,329]; score:1.000000; title:Indian_subcontinent; score:0.107711
+	FP => Assam:[1390,1395]; score:1.000000; title:Assam; score:0.098687
 	FP => magazines:[1304,1313]; score:1.000000; title:Magazine; score:0.119191
 	FP => chief:[519,524]; score:1.000000; title:Chief_executive_officer; score:0.051817
 	FP => graduated:[772,781]; score:1.000000; title:Graduation; score:0.065560
@@ -350,8 +348,8 @@ P/R/F:0.1/0.5555556/0.16949153; tpCount:5.0; fpCount:45.0; fnCount:4.0
 	FP => closed:[1116,1122]; score:1.000000; title:Closed_set; score:0.001623
 	FP => England:[866,873]; score:1.000000; title:England; score:0.056445
 	FP => correspondent:[975,988]; score:1.000000; title:Correspondent; score:0.084084
-	FP => newspapers:[330,340]; score:1.000000; title:Newspaper; score:0.116820
 	FP => political:[1242,1251]; score:1.000000; title:Politics; score:0.121812
+	FP => newspapers:[330,340]; score:1.000000; title:Newspaper; score:0.116820
 	FP => weekly:[1138,1144]; score:1.000000; title:Week; score:0.025702
 	FP => year:[484,488]; score:1.000000; title:University; score:0.098989
 	FP => taught:[890,896]; score:1.000000; title:Teacher; score:0.065116
@@ -368,8 +366,8 @@ P/R/F:0.1/0.5555556/0.16949153; tpCount:5.0; fpCount:45.0; fnCount:4.0
 	FP => emergency rule:[1201,1215]; score:1.000000; title:State_of_emergency; score:0.059111
  => Politics:[261,269]; score:1.000000; title:Politics; score:0.121812
 	FP => India's:[1360,1367]; score:1.000000; title:India; score:0.123194
-	FP => CPI:[1072,1075]; score:1.000000; title:Communist_Party_of_India_(Marxist); score:0.108188
  => brain cancer:[191,203]; score:1.000000; title:Brain_tumor; score:0.043270
+	FP => CPI:[1072,1075]; score:1.000000; title:Communist_Party_of_India_(Marxist); score:0.108188
 	FP => magazines:[347,356]; score:1.000000; title:Magazine; score:0.119191
 	FP => government:[494,504]; score:1.000000; title:Government; score:0.110275
 	FP => autonomous:[550,560]; score:1.000000; title:Autonomy; score:0.053854
@@ -390,21 +388,20 @@ P/R/F:0.1/0.5555556/0.16949153; tpCount:5.0; fpCount:45.0; fnCount:4.0
 	FP => award:[675,680]; score:1.000000; title:Award; score:0.051569
 	FP => Oxford University:[826,843]; score:1.000000; title:University_of_Oxford; score:0.094245
 	FP => dead:[57,61]; score:1.000000; title:Death; score:0.031420
- => Merton College:[846,860]; score:1.000000; title:Merton_College,_Oxford; score:0.055256
 	FP => Prime Minister:[1162,1176]; score:1.000000; title:Prime_minister; score:0.068345
 	FP => India:[1219,1224]; score:1.000000; title:India; score:0.123194
 	FP => Saturday:[230,238]; score:1.000000; title:The_Saturdays; score:0.012097
 	FP => establishment:[751,764]; score:1.000000; title:The_Establishment; score:0.050122
 	FP => political:[36,45]; score:1.000000; title:Politics; score:0.121812
-P/R/F:0.121212125/0.6666667/0.20512822; tpCount:8.0; fpCount:58.0; fnCount:4.0
+P/R/F:0.109375/0.5833333/0.18421052; tpCount:7.0; fpCount:57.0; fnCount:5.0
 [APW19981113_0500.htm]
 ***************** Gold Standard: ***********************
  => airport:[94,101]; score:1.000000; title:Airport; score:1.000000
- => Gaza Strip:[348,358]; score:1.000000; title:Gaza Strip; score:1.000000
  => bus:[1011,1014]; score:1.000000; title:Bus; score:1.000000
+ => Gaza Strip:[348,358]; score:1.000000; title:Gaza Strip; score:1.000000
 	FN => Palestinian:[79,90]; score:1.000000; title:Palestinian people; score:1.000000
-	FN => Civil Aviation:[197,211]; score:1.000000; title:Civil aviation; score:1.000000
 	FN => Yasser Arafat International Airport:[293,328]; score:1.000000; title:Yasser Arafat International Airport; score:1.000000
+	FN => Civil Aviation:[197,211]; score:1.000000; title:Civil aviation; score:1.000000
 	FN => security:[888,896]; score:1.000000; title:Airport security; score:1.000000
 	FN => Civil Aviation Authority:[782,806]; score:1.000000; title:Civil Aviation Authority; score:1.000000
  => Israelis:[861,869]; score:1.000000; title:Israelis; score:1.000000
@@ -426,10 +423,10 @@ P/R/F:0.121212125/0.6666667/0.20512822; tpCount:8.0; fpCount:58.0; fnCount:4.0
 	FP => airport:[597,604]; score:1.000000; title:Airport; score:0.139234
 	FP => inspection:[1144,1154]; score:1.000000; title:Inspection; score:0.031494
 	FP => southern:[338,346]; score:1.000000; title:Southern_(train_operating_company); score:0.054922
-	FP => Israeli-Palestinian:[406,425]; score:1.000000; title:Israelis; score:0.110561
- => Gaza Strip:[348,358]; score:1.000000; title:Gaza_Strip; score:0.138155
  => bus:[1011,1014]; score:1.000000; title:Bus; score:0.087292
+ => Gaza Strip:[348,358]; score:1.000000; title:Gaza_Strip; score:0.138155
 	FP => exercise:[1036,1044]; score:1.000000; title:Physical_exercise; score:0.016407
+	FP => Israeli-Palestinian:[406,425]; score:1.000000; title:Israelis; score:0.110561
 	FP => Cabinet:[498,505]; score:1.000000; title:Cabinet_(government); score:0.068208
 	FP => schedule:[473,481]; score:1.000000; title:Broadcast_programming; score:0.014906
 	FP => passengers:[926,936]; score:1.000000; title:Passenger; score:0.094891
@@ -468,18 +465,17 @@ P/R/F:0.121212125/0.6666667/0.20512822; tpCount:8.0; fpCount:58.0; fnCount:4.0
 	FP => symbol:[116,122]; score:1.000000; title:Symbol; score:0.035656
 	FP => week:[632,636]; score:1.000000; title:Week; score:0.080754
 	FP => Palestinian:[184,195]; score:1.000000; title:Palestinian_territories; score:0.147496
-	FP => peace agreement:[426,441]; score:1.000000; title:Peace_treaty; score:0.051863
 	FP => Israel:[61,67]; score:1.000000; title:Israel; score:0.144627
 	FP => Palestinian:[823,834]; score:1.000000; title:Palestinian_territories; score:0.147496
 	FP => Palestinian:[690,701]; score:1.000000; title:Palestinian_territories; score:0.147496
 	FP => head:[172,176]; score:1.000000; title:Head; score:0.052859
 	FP => hear:[1221,1225]; score:1.000000; title:Hearing_(sense); score:0.017083
 	FP => open:[162,166]; score:1.000000; title:The_Open_Championship; score:0.061403
-P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
+P/R/F:0.06451613/0.36363637/0.10958904; tpCount:4.0; fpCount:58.0; fnCount:7.0
 [APW19981119_0585.htm]
 ***************** Gold Standard: ***********************
- => kilograms:[598,607]; score:1.000000; title:Kilogram; score:1.000000
  => Transylvania:[474,486]; score:1.000000; title:Transylvania; score:1.000000
+ => kilograms:[598,607]; score:1.000000; title:Kilogram; score:1.000000
 	FN => rangers:[1177,1184]; score:1.000000; title:Park ranger; score:1.000000
  => Romania:[145,152]; score:1.000000; title:Romania; score:1.000000
 	FN => Dracula:[443,450]; score:1.000000; title:Dracula; score:1.000000
@@ -488,10 +484,10 @@ P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
  => peasants:[75,83]; score:1.000000; title:Peasant; score:1.000000
 	FN => bear:[61,65]; score:1.000000; title:Bear; score:1.000000
  => livestock:[247,256]; score:1.000000; title:Livestock; score:1.000000
- => vampire:[491,498]; score:1.000000; title:vampire; score:1.000000
 	FN => reserves:[408,416]; score:1.000000; title:Game reserve; score:1.000000
- => cattle:[26,32]; score:1.000000; title:Cattle; score:1.000000
+ => vampire:[491,498]; score:1.000000; title:vampire; score:1.000000
 	FN => Nicolae Ceausescu:[945,962]; score:1.000000; title:Nicolae Ceauşescu; score:1.000000
+ => cattle:[26,32]; score:1.000000; title:Cattle; score:1.000000
  => communist:[971,980]; score:1.000000; title:Communism; score:1.000000
  => omnivorous:[866,876]; score:1.000000; title:Omnivore; score:1.000000
  => Apuseni Mountains:[1218,1235]; score:1.000000; title:Apuseni Mountains; score:1.000000
@@ -505,8 +501,8 @@ P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
 	FP => Romania:[430,437]; score:1.000000; title:Romania; score:0.081021
 	FP => regions:[677,684]; score:1.000000; title:Region; score:0.030736
 	FP => lodged:[301,307]; score:1.000000; title:Lodging; score:0.019599
- => livestock:[247,256]; score:1.000000; title:Livestock; score:0.078986
 	FP => meat:[1091,1095]; score:1.000000; title:Meat; score:0.108104
+ => livestock:[247,256]; score:1.000000; title:Livestock; score:0.078986
 	FP => partial:[1150,1157]; score:1.000000; title:Harmonic_series_(music); score:0.003806
 	FP => complaints:[314,324]; score:1.000000; title:Complaint; score:0.010053
 	FP => killed:[781,787]; score:1.000000; title:Murder; score:0.050894
@@ -518,8 +514,8 @@ P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
 	FP => Dracula:[769,776]; score:1.000000; title:Count_Dracula; score:0.280956
 	FP => named after:[457,468]; score:1.000000; title:Namesake; score:0.029612
 	FP => decade:[1025,1031]; score:1.000000; title:Decade; score:0.014118
- => kilograms:[598,607]; score:1.000000; title:Kilogram; score:0.041093
  => Transylvania:[474,486]; score:1.000000; title:Transylvania; score:0.130998
+ => kilograms:[598,607]; score:1.000000; title:Kilogram; score:0.041093
 	FP => Dracula:[9,16]; score:1.000000; title:Count_Dracula; score:0.280956
 	FP => rangers:[1177,1184]; score:1.000000; title:Rangers_F.C.; score:0.024183
 	FP => nicknamed:[91,100]; score:1.000000; title:Nickname; score:0.052858
@@ -545,19 +541,19 @@ P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
  => vampire:[491,498]; score:1.000000; title:Vampire; score:0.150998
  => cattle:[26,32]; score:1.000000; title:Cattle; score:0.065261
 	FP => appetite:[539,547]; score:1.000000; title:Appetite; score:0.001344
-	FP => weaned:[913,919]; score:1.000000; title:Weaning; score:0.024956
 	FP => Thursday:[218,226]; score:1.000000; title:Thursday; score:0.017628
+	FP => weaned:[913,919]; score:1.000000; title:Weaning; score:0.024956
+	FP => areas:[657,662]; score:1.000000; title:Area; score:0.022877
 	FP => Dracula:[443,450]; score:1.000000; title:Count_Dracula; score:0.280956
  => communist:[971,980]; score:1.000000; title:Communism; score:0.059237
-	FP => areas:[657,662]; score:1.000000; title:Area; score:0.022877
 	FP => deer:[39,43]; score:1.000000; title:Deer; score:0.103489
 	FP => bears:[1197,1202]; score:1.000000; title:Bear; score:0.134203
 	FP => closer:[637,643]; score:1.000000; title:The_Closer; score:0.030839
 	FP => pounds:[615,621]; score:1.000000; title:Pound_(mass); score:0.038354
 	FP => reserve:[1069,1076]; score:1.000000; title:Military_reserve; score:0.053505
 	FP => str:[1291,1294]; score:1.000000; title:Scuderia_Toro_Rosso; score:0.005074
- => dictator:[984,992]; score:1.000000; title:Dictator; score:0.043822
 	FP => executed:[1007,1015]; score:1.000000; title:Capital_punishment; score:0.057754
+ => dictator:[984,992]; score:1.000000; title:Dictator; score:0.043822
 	FP => taste:[170,175]; score:1.000000; title:Taste; score:0.011824
  => Romania:[145,152]; score:1.000000; title:Romania; score:0.081021
 	FP => meat:[925,929]; score:1.000000; title:Meat; score:0.108104
@@ -577,8 +573,8 @@ P/R/F:0.06349207/0.36363637/0.10810812; tpCount:4.0; fpCount:59.0; fnCount:7.0
 P/R/F:0.17333333/0.68421054/0.27659574; tpCount:13.0; fpCount:62.0; fnCount:6.0
 [APW19981113_0729.htm]
 ***************** Gold Standard: ***********************
- => customs:[1135,1142]; score:1.000000; title:Customs; score:1.000000
  => Israelis:[873,881]; score:1.000000; title:Israelis; score:1.000000
+ => customs:[1135,1142]; score:1.000000; title:Customs; score:1.000000
  => airport:[94,101]; score:1.000000; title:Airport; score:1.000000
  => Benjamin Netanyahu:[575,593]; score:1.000000; title:Benjamin Netanyahu; score:1.000000
 	FN => Palestinian:[79,90]; score:1.000000; title:Palestinian people; score:1.000000
@@ -590,8 +586,8 @@ P/R/F:0.17333333/0.68421054/0.27659574; tpCount:13.0; fpCount:62.0; fnCount:6.0
  => independence:[137,149]; score:1.000000; title:Independence; score:1.000000
 	FN => Israeli-Palestinian peace agreement:[409,444]; score:1.000000; title:Peace process in the Israeli-Palestinian conflict; score:1.000000
 	FN => Civil Aviation:[200,214]; score:1.000000; title:Civil aviation; score:1.000000
-	FN => Civil Aviation Authority:[794,818]; score:1.000000; title:Civil Aviation Authority; score:1.000000
  => passport:[1105,1113]; score:1.000000; title:Passport; score:1.000000
+	FN => Civil Aviation Authority:[794,818]; score:1.000000; title:Civil Aviation Authority; score:1.000000
 
 ************************ System Result: ***************************
 	FP => Palestinian:[781,792]; score:1.000000; title:Palestinian_territories; score:0.253416
@@ -610,13 +606,13 @@ P/R/F:0.17333333/0.68421054/0.27659574; tpCount:13.0; fpCount:62.0; fnCount:6.0
 	FP => word:[51,55]; score:1.000000; title:Microsoft_Word; score:0.026179
 	FP => Prime Minister:[559,573]; score:1.000000; title:Prime_minister; score:0.088820
 	FP => plane:[983,988]; score:1.000000; title:Boeing_757; score:0.138482
-	FP => Cabinet:[502,509]; score:1.000000; title:Cabinet_of_the_United_Kingdom; score:0.082939
  => Israelis:[873,881]; score:1.000000; title:Israelis; score:0.151156
+	FP => Cabinet:[502,509]; score:1.000000; title:Cabinet_of_the_United_Kingdom; score:0.082939
 	FP => Airport:[3,10]; score:1.000000; title:Airport; score:0.190235
 	FP => bus:[1019,1022]; score:1.000000; title:Bus; score:0.102242
 	FP => head:[769,773]; score:1.000000; title:Head; score:0.044198
-	FP => Israeli-Palestinian:[409,428]; score:1.000000; title:Israelis; score:0.151156
  => Gaza Strip:[351,361]; score:1.000000; title:Gaza_Strip; score:0.202787
+	FP => Israeli-Palestinian:[409,428]; score:1.000000; title:Israelis; score:0.151156
 	FP => schedule:[476,484]; score:1.000000; title:Broadcast_programming; score:0.015943
 	FP => Thursday:[680,688]; score:1.000000; title:Thursday_Next; score:0.027420
 	FP => start:[623,628]; score:1.000000; title:Stefanie_Sun; score:0.014610
@@ -648,7 +644,6 @@ P/R/F:0.17333333/0.68421054/0.27659574; tpCount:13.0; fpCount:62.0; fnCount:6.0
  => ratification:[513,525]; score:1.000000; title:Ratification; score:0.056576
 	FP => Palestinian:[702,713]; score:1.000000; title:Palestinian_territories; score:0.253416
 	FP => officials:[714,723]; score:1.000000; title:Official; score:0.075083
-	FP => peace agreement:[429,444]; score:1.000000; title:Peace_treaty; score:0.065944
 	FP => Palestinian:[187,198]; score:1.000000; title:Palestinian_territories; score:0.253416
 	FP => security:[899,907]; score:1.000000; title:Security; score:0.098632
 	FP => head:[175,179]; score:1.000000; title:Head; score:0.044198
@@ -658,14 +653,14 @@ P/R/F:0.17333333/0.68421054/0.27659574; tpCount:13.0; fpCount:62.0; fnCount:6.0
 	FP => open:[165,169]; score:1.000000; title:The_Open_Championship; score:0.052127
 	FP => hour:[738,742]; score:1.000000; title:12-hour_clock; score:0.049905
  => passport:[1105,1113]; score:1.000000; title:Passport; score:0.109742
-P/R/F:0.125/0.53333336/0.20253165; tpCount:8.0; fpCount:56.0; fnCount:7.0
+P/R/F:0.12698413/0.53333336/0.20512822; tpCount:8.0; fpCount:55.0; fnCount:7.0
 [APW19981109_1172.htm]
 ***************** Gold Standard: ***********************
  => West Indies:[107,118]; score:1.000000; title:West Indies cricket team; score:1.000000
  => West Indies Cricket Board:[307,332]; score:1.000000; title:West Indies Cricket Board; score:1.000000
  => Clive Lloyd:[877,888]; score:1.000000; title:Clive Lloyd; score:1.000000
-	FN => Lara:[182,186]; score:1.000000; title:Brian Lara; score:1.000000
 	FN => David Richardson:[1112,1128]; score:1.000000; title:David John Richardson; score:1.000000
+	FN => Lara:[182,186]; score:1.000000; title:Brian Lara; score:1.000000
  => Johannesburg:[1172,1184]; score:1.000000; title:Johannesburg; score:1.000000
 	FN => Caribbean News Agency:[152,173]; score:1.000000; title:Caribbean News Agency; score:1.000000
 	FN => negotiated:[652,662]; score:1.000000; title:Negotiation; score:1.000000
@@ -735,11 +730,10 @@ P/R/F:0.125/0.53333336/0.20253165; tpCount:8.0; fpCount:56.0; fnCount:7.0
 	FP => agreement:[34,43]; score:1.000000; title:Belfast_Agreement; score:0.055076
 	FP => head:[730,734]; score:1.000000; title:Head_teacher; score:0.051487
  => batsman:[352,359]; score:1.000000; title:Batting_(cricket); score:0.063825
-	FP => cricket:[753,760]; score:1.000000; title:Cricket; score:0.094327
 	FP => Progress:[977,985]; score:1.000000; title:Progress_(spacecraft); score:0.008454
 	FP => Lara:[362,366]; score:1.000000; title:Lara_Croft; score:0.041147
 	FP => head:[94,98]; score:1.000000; title:Head_teacher; score:0.051487
-P/R/F:0.15517241/0.5/0.2368421; tpCount:9.0; fpCount:49.0; fnCount:9.0
+P/R/F:0.15789473/0.5/0.24; tpCount:9.0; fpCount:48.0; fnCount:9.0
 [APW19981109_0464.htm]
 ***************** Gold Standard: ***********************
 	FN => Farsi:[921,926]; score:1.000000; title:Persian language; score:1.000000
@@ -750,10 +744,10 @@ P/R/F:0.15517241/0.5/0.2368421; tpCount:9.0; fpCount:49.0; fnCount:9.0
 	FN => Radio Free Europe:[150,167]; score:1.000000; title:Radio Free Europe; score:1.000000
  => Munich, Germany:[1048,1063]; score:1.000000; title:Munich; score:1.000000
  => the Hague:[91,100]; score:1.000000; title:the Hague; score:1.000000
- => Soviet:[1106,1112]; score:1.000000; title:Soviet Union; score:1.000000
  => Cold War:[1175,1183]; score:1.000000; title:Cold War; score:1.000000
-	FN => Iran:[29,33]; score:1.000000; title:Iran; score:1.000000
+ => Soviet:[1106,1112]; score:1.000000; title:Soviet Union; score:1.000000
 	FN => Czech:[582,587]; score:1.000000; title:Czech Republic; score:1.000000
+	FN => Iran:[29,33]; score:1.000000; title:Iran; score:1.000000
  => Iraq:[786,790]; score:1.000000; title:Iraq; score:1.000000
  => Foreign Minister:[217,233]; score:1.000000; title:Foreign minister; score:1.000000
  => Iron Curtain:[1148,1160]; score:1.000000; title:Iron Curtain; score:1.000000
@@ -762,8 +756,8 @@ P/R/F:0.15517241/0.5/0.2368421; tpCount:9.0; fpCount:49.0; fnCount:9.0
 ************************ System Result: ***************************
 	FP => headquarters:[1245,1257]; score:1.000000; title:Headquarters; score:0.127593
 	FP => reduce:[645,651]; score:1.000000; title:Redox; score:0.014413
- => Prague:[557,563]; score:1.000000; title:Prague; score:0.166765
 	FP => assistance:[603,613]; score:1.000000; title:Assistance_dog; score:0.001016
+ => Prague:[557,563]; score:1.000000; title:Prague; score:0.166765
 	FP => International Court of Justice:[56,86]; score:1.000000; title:International_Court_of_Justice; score:0.117993
 	FP => Prague:[709,715]; score:1.000000; title:Prague; score:0.166765
 	FP => funded:[142,148]; score:1.000000; title:Funding; score:0.091209
@@ -806,8 +800,8 @@ P/R/F:0.15517241/0.5/0.2368421; tpCount:9.0; fpCount:49.0; fnCount:9.0
 	FP => station:[844,851]; score:1.000000; title:Television_channel; score:0.123168
 	FP => broadcast:[857,866]; score:1.000000; title:Broadcasting; score:0.230563
  => Iraq:[786,790]; score:1.000000; title:Iraq; score:0.101264
- => Foreign Minister:[217,233]; score:1.000000; title:Foreign_minister; score:0.123799
 	FP => Iran:[446,450]; score:1.000000; title:Iranian_Revolution; score:0.112092
+ => Foreign Minister:[217,233]; score:1.000000; title:Foreign_minister; score:0.123799
 	FP => news:[1097,1101]; score:1.000000; title:News; score:0.136067
 	FP => service:[938,945]; score:1.000000; title:Service_(economics); score:0.076396
 	FP => Iran:[522,526]; score:1.000000; title:Iranian_Revolution; score:0.112092
@@ -852,12 +846,12 @@ P/R/F:0.16923077/0.6875/0.27160496; tpCount:11.0; fpCount:54.0; fnCount:5.0
 	FP => complaints:[686,696]; score:1.000000; title:Complaint; score:0.057437
 	FP => tender:[625,631]; score:1.000000; title:Tender_offer; score:0.055787
 	FP => Investment:[264,274]; score:1.000000; title:Investment; score:0.104300
- => electricity:[128,139]; score:1.000000; title:Electricity; score:0.191284
 	FP => country:[893,900]; score:1.000000; title:Country; score:0.058491
+ => electricity:[128,139]; score:1.000000; title:Electricity; score:0.191284
 	FP => newspaper:[825,834]; score:1.000000; title:Newspaper; score:0.083941
 	FP => driving:[384,391]; score:1.000000; title:Social_influence; score:0.075864
- => reservoir:[1359,1368]; score:1.000000; title:Reservoir; score:0.112224
 	FP => Army:[820,824]; score:1.000000; title:Army; score:0.072590
+ => reservoir:[1359,1368]; score:1.000000; title:Reservoir; score:0.112224
  => power cuts:[1243,1253]; score:1.000000; title:Power_outage; score:0.190424
 	FP => Thursday:[285,293]; score:1.000000; title:Thursday; score:0.030542
  => hydroelectric plants:[1387,1407]; score:1.000000; title:Hydroelectricity; score:0.190171
@@ -891,7 +885,6 @@ P/R/F:0.16923077/0.6875/0.27160496; tpCount:11.0; fpCount:54.0; fnCount:5.0
 	FP => bureaucracy:[1205,1216]; score:1.000000; title:Bureaucracy; score:0.117476
 	FP => feed:[1377,1381]; score:1.000000; title:Attack_of_the_Show!; score:0.036092
 	FP => cut:[366,369]; score:1.000000; title:Film_editing; score:0.050250
-	FP => rotating:[1234,1242]; score:1.000000; title:Rotation; score:0.043102
 	FP => thermal:[911,918]; score:1.000000; title:Thermal_power_station; score:0.206631
 	FP => Electricity:[332,343]; score:1.000000; title:Electricity; score:0.191284
 	FP => waste:[370,375]; score:1.000000; title:Waste; score:0.097869
@@ -915,7 +908,7 @@ P/R/F:0.16923077/0.6875/0.27160496; tpCount:11.0; fpCount:54.0; fnCount:5.0
 	FP => President:[773,782]; score:1.000000; title:President_of_France; score:0.084664
 	FP => media:[944,949]; score:1.000000; title:Mass_media; score:0.107549
 	FP => prime minister:[13,27]; score:1.000000; title:Prime_minister; score:0.107539
-P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
+P/R/F:0.1/0.5/0.16666666; tpCount:7.0; fpCount:63.0; fnCount:7.0
 [APW19980824_0827.htm]
 ***************** Gold Standard: ***********************
  => strategic:[1052,1061]; score:1.000000; title:Strategy; score:1.000000
@@ -925,13 +918,13 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
  => security guards:[1229,1244]; score:1.000000; title:Security guard; score:1.000000
  => Israel:[65,71]; score:1.000000; title:Israel; score:1.000000
 	FN => administration:[1285,1299]; score:1.000000; title:Academic administration; score:1.000000
- => international airport:[111,132]; score:1.000000; title:International airport; score:1.000000
 	FN => pre-emptive strikes:[452,471]; score:1.000000; title:Preemptive war; score:1.000000
+ => international airport:[111,132]; score:1.000000; title:International airport; score:1.000000
  => terrorism:[407,416]; score:1.000000; title:Terrorism; score:1.000000
  => tour operator:[1397,1410]; score:1.000000; title:Tour operator; score:1.000000
  => Benjamin Netanyahu:[283,301]; score:1.000000; title:Benjamin Netanyahu; score:1.000000
-	FN => David Bar-Illan:[323,338]; score:1.000000; title:David Bar-Illan; score:1.000000
  => security:[21,29]; score:1.000000; title:Security; score:1.000000
+	FN => David Bar-Illan:[323,338]; score:1.000000; title:David Bar-Illan; score:1.000000
  => Osama bin Laden:[745,760]; score:1.000000; title:Osama bin Laden; score:1.000000
  => University of Connecticut:[1121,1146]; score:1.000000; title:University of Connecticut; score:1.000000
 	FN => Sudan:[698,703]; score:1.000000; title:Sudan; score:1.000000
@@ -939,13 +932,13 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
 	FN => embassies:[844,853]; score:1.000000; title:Diplomatic mission; score:1.000000
 	FN => air strikes:[680,691]; score:1.000000; title:Airstrike; score:1.000000
  => activist:[921,929]; score:1.000000; title:Activism; score:1.000000
-	FN => Afghanistan:[711,722]; score:1.000000; title:Afghanistan; score:1.000000
  => Muslim:[911,917]; score:1.000000; title:Muslim; score:1.000000
+	FN => Afghanistan:[711,722]; score:1.000000; title:Afghanistan; score:1.000000
 
 ************************ System Result: ***************************
-	FP => Sudan:[698,703]; score:1.000000; title:South_Sudan; score:0.093160
-	FP => pre:[452,455]; score:1.000000; title:Palm_Pre; score:0.041544
 	FP => month:[879,884]; score:1.000000; title:Month; score:0.020562
+	FP => pre:[452,455]; score:1.000000; title:Palm_Pre; score:0.041544
+	FP => Sudan:[698,703]; score:1.000000; title:South_Sudan; score:0.093160
 	FP => Islamic militants:[956,973]; score:1.000000; title:Islamic_terrorism; score:0.093862
 	FP => Israel:[3,9]; score:1.000000; title:Israel; score:0.104523
 	FP => fight:[400,405]; score:1.000000; title:Combat; score:0.114511
@@ -967,7 +960,6 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
 	FP => graf:[1549,1553]; score:1.000000; title:Graffiti; score:0.074444
  => strategic:[1052,1061]; score:1.000000; title:Strategy; score:0.066477
  => East Africa:[860,871]; score:1.000000; title:East_Africa; score:0.062994
-	FP => guards:[1238,1244]; score:1.000000; title:Russian_Guards; score:0.020696
 	FP => U.S.:[623,627]; score:1.000000; title:United_States; score:0.087563
 	FP => security:[84,92]; score:1.000000; title:Security; score:0.078189
 	FP => basketball team:[1095,1110]; score:1.000000; title:Basketball; score:0.079948
@@ -987,8 +979,8 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
 	FP => airliners:[1074,1083]; score:1.000000; title:Airliner; score:0.185507
 	FP => specific:[532,540]; score:1.000000; title:Specific_impulse; score:0.022425
  => Israel:[65,71]; score:1.000000; title:Israel; score:0.104523
- => international airport:[111,132]; score:1.000000; title:International_airport; score:0.121420
 	FP => bombings:[1453,1461]; score:1.000000; title:Bomb; score:0.109769
+ => international airport:[111,132]; score:1.000000; title:International_airport; score:0.121420
  => terrorism:[407,416]; score:1.000000; title:Terrorism; score:0.128853
 	FP => airlines:[231,239]; score:1.000000; title:Airline; score:0.268382
  => tour operator:[1397,1410]; score:1.000000; title:Tour_operator; score:0.090913
@@ -1002,8 +994,8 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
 	FP => Israel:[347,353]; score:1.000000; title:Israel; score:0.104523
  => Muslim:[911,917]; score:1.000000; title:Muslim; score:0.064430
 	FP => Afghanistan:[711,722]; score:1.000000; title:War_in_Afghanistan_(2001–present); score:0.119197
- => Islamic militants:[162,179]; score:1.000000; title:Islamic_terrorism; score:0.093862
  => Saudi:[767,772]; score:1.000000; title:Saudi_Arabia; score:0.095982
+ => Islamic militants:[162,179]; score:1.000000; title:Islamic_terrorism; score:0.093862
 	FP => airports:[35,43]; score:1.000000; title:Airport; score:0.137605
 	FP => personnel:[93,102]; score:1.000000; title:Human_resources; score:0.066725
 	FP => games:[1203,1208]; score:1.000000; title:Olympic_Games; score:0.088553
@@ -1016,7 +1008,7 @@ P/R/F:0.09859155/0.5/0.16470589; tpCount:7.0; fpCount:64.0; fnCount:7.0
  => University of Connecticut:[1121,1146]; score:1.000000; title:University_of_Connecticut; score:0.074643
 	FP => response:[138,146]; score:1.000000; title:Antiphon; score:0.014387
 	FP => close:[932,937]; score:1.000000; title:Norwich; score:0.066448
-P/R/F:0.21917808/0.6956522/0.3333333; tpCount:16.0; fpCount:57.0; fnCount:7.0
+P/R/F:0.22222222/0.6956522/0.3368421; tpCount:16.0; fpCount:56.0; fnCount:7.0
 [APW19981010_0354.htm]
 ***************** Gold Standard: ***********************
 	FN => Gulf:[37,41]; score:1.000000; title:Persian Gulf; score:1.000000
@@ -1029,8 +1021,8 @@ P/R/F:0.21917808/0.6956522/0.3333333; tpCount:16.0; fpCount:57.0; fnCount:7.0
  => Iraq:[298,302]; score:1.000000; title:Iraq; score:1.000000
  => Saudi Arabia:[657,669]; score:1.000000; title:Saudi Arabia; score:1.000000
  => U.N.:[1203,1207]; score:1.000000; title:United Nations; score:1.000000
- => Bahrain:[450,457]; score:1.000000; title:Bahrain; score:1.000000
  => Oman:[637,641]; score:1.000000; title:Oman; score:1.000000
+ => Bahrain:[450,457]; score:1.000000; title:Bahrain; score:1.000000
  => William Cohen:[83,96]; score:1.000000; title:William Cohen; score:1.000000
 
 ************************ System Result: ***************************
@@ -1116,9 +1108,9 @@ P/R/F:0.12328767/0.6923077/0.20930232; tpCount:9.0; fpCount:64.0; fnCount:4.0
 	FN => four nuclear power plants:[334,359]; score:1.000000; title:Nuclear power in Switzerland; score:1.000000
  => nuclear power:[159,172]; score:1.000000; title:nuclear power; score:1.000000
  => liberalization:[1256,1270]; score:1.000000; title:Liberalization; score:1.000000
-	FN => Swiss:[4,9]; score:1.000000; title:Switzerland; score:1.000000
-	FN => power industry:[426,440]; score:1.000000; title:Electrical power industry; score:1.000000
  => nuclear waste:[526,539]; score:1.000000; title:Radioactive waste; score:1.000000
+	FN => power industry:[426,440]; score:1.000000; title:Electrical power industry; score:1.000000
+	FN => Swiss:[4,9]; score:1.000000; title:Switzerland; score:1.000000
  => Moritz Leuenberger:[907,925]; score:1.000000; title:Moritz Leuenberger; score:1.000000
 	FN => tax breaks:[1454,1464]; score:1.000000; title:Tax exemption; score:1.000000
 	FN => environmental campaigners:[244,269]; score:1.000000; title:Environmentalism; score:1.000000
@@ -1136,8 +1128,8 @@ P/R/F:0.12328767/0.6923077/0.20930232; tpCount:9.0; fpCount:64.0; fnCount:4.0
 	FP => discuss:[490,497]; score:1.000000; title:Debate; score:0.054741
 	FP => hydroelectric plants:[1390,1410]; score:1.000000; title:Hydroelectricity; score:0.214894
 	FP => nuclear power plants:[339,359]; score:1.000000; title:Nuclear_power; score:0.381813
-	FP => electricity market:[1102,1120]; score:1.000000; title:Electricity_market; score:0.233796
 	FP => parties:[726,733]; score:1.000000; title:Party; score:0.032668
+	FP => electricity market:[1102,1120]; score:1.000000; title:Electricity_market; score:0.233796
  => power stations:[605,619]; score:1.000000; title:Power_station; score:0.200410
 	FP => support:[1382,1389]; score:1.000000; title:Sympathy; score:0.043946
 	FP => work:[392,396]; score:1.000000; title:Work_(thermodynamics); score:0.053150
@@ -1154,9 +1146,9 @@ P/R/F:0.12328767/0.6923077/0.20930232; tpCount:9.0; fpCount:64.0; fnCount:4.0
 	FP => support:[195,202]; score:1.000000; title:Sympathy; score:0.043946
 	FP => produce:[742,749]; score:1.000000; title:Produce; score:0.072938
 	FP => domestic:[1092,1100]; score:1.000000; title:Domestic_policy; score:0.124207
- => liberalization:[1256,1270]; score:1.000000; title:Liberalization; score:0.106449
 	FP => discussions:[696,707]; score:1.000000; title:Debate; score:0.054741
 	FP => Government officials:[366,386]; score:1.000000; title:Official; score:0.094486
+ => liberalization:[1256,1270]; score:1.000000; title:Liberalization; score:0.106449
 	FP => electricity market:[1280,1298]; score:1.000000; title:Electricity_market; score:0.233796
 	FP => decision:[808,816]; score:1.000000; title:Decision_making; score:0.096098
 	FP => exit:[148,152]; score:1.000000; title:The_Joshua_Tree; score:0.008742
@@ -1186,8 +1178,8 @@ P/R/F:0.12328767/0.6923077/0.20930232; tpCount:9.0; fpCount:64.0; fnCount:4.0
 P/R/F:0.12280702/0.5/0.1971831; tpCount:7.0; fpCount:50.0; fnCount:7.0
 [APW19980603_1617.htm]
 ***************** Gold Standard: ***********************
-	FN => Government agencies:[64,83]; score:1.000000; title:Government agency; score:1.000000
  => implementation:[228,242]; score:1.000000; title:Implementation; score:1.000000
+	FN => Government agencies:[64,83]; score:1.000000; title:Government agency; score:1.000000
 	FN => State:[55,60]; score:1.000000; title:State; score:1.000000
 	FN => studies:[1383,1390]; score:1.000000; title:Research; score:1.000000
 	FN => poor:[472,476]; score:1.000000; title:Poverty; score:1.000000
@@ -1233,8 +1225,8 @@ P/R/F:0.12280702/0.5/0.1971831; tpCount:7.0; fpCount:50.0; fnCount:7.0
 	FP => hardcore:[462,470]; score:1.000000; title:Hardcore_punk; score:0.193201
 	FP => depth:[1376,1381]; score:1.000000; title:Depth_perception; score:0.011571
 	FP => district:[533,541]; score:1.000000; title:District; score:0.100957
-	FP => Federal:[40,47]; score:1.000000; title:Federal_government_of_the_United_States; score:0.115918
 	FP => ministry:[907,915]; score:1.000000; title:Ministry_(government_department); score:0.213162
+	FP => Federal:[40,47]; score:1.000000; title:Federal_government_of_the_United_States; score:0.115918
 	FP => projects:[597,605]; score:1.000000; title:Public_housing; score:0.100852
  => mussel:[1064,1070]; score:1.000000; title:Mussel; score:0.039852
 	FP => Rural Development:[250,267]; score:1.000000; title:Rural_development; score:0.105672
@@ -1255,9 +1247,9 @@ P/R/F:0.12280702/0.5/0.1971831; tpCount:7.0; fpCount:50.0; fnCount:7.0
 	FP => task:[97,101]; score:1.000000; title:Task_force; score:0.088113
 	FP => ministry:[787,795]; score:1.000000; title:Ministry_(government_department); score:0.213162
 	FP => deputy minister:[831,846]; score:1.000000; title:Deputy_Minister_(Canada); score:0.084816
- => economic:[116,124]; score:1.000000; title:Economy; score:0.090216
 	FP => success:[670,677]; score:1.000000; title:Chingy; score:0.012367
 	FP => progress:[581,589]; score:1.000000; title:Progress_(spacecraft); score:0.035894
+ => economic:[116,124]; score:1.000000; title:Economy; score:0.090216
 	FP => long:[1132,1136]; score:1.000000; title:Long_(finance); score:0.000607
 	FP => visiting:[1052,1060]; score:1.000000; title:The_Invasion_(film); score:0.007289
 	FP => policy:[798,804]; score:1.000000; title:Policy; score:0.088461
@@ -1268,8 +1260,8 @@ P/R/F:0.12068965/0.4375/0.1891892; tpCount:7.0; fpCount:51.0; fnCount:9.0
  => allies:[527,533]; score:1.000000; title:Allies; score:1.000000
  => Ayatollah Ruhollah Khomeini:[670,697]; score:1.000000; title:Ruhollah Khomeini; score:1.000000
  => Baghdad:[1276,1283]; score:1.000000; title:Baghdad; score:1.000000
- => embargo:[818,825]; score:1.000000; title:Embargo; score:1.000000
 	FN => Kuwait:[961,967]; score:1.000000; title:Kuwait; score:1.000000
+ => embargo:[818,825]; score:1.000000; title:Embargo; score:1.000000
 	FN => Iranian government:[633,651]; score:1.000000; title:Politics of Iran; score:1.000000
  => Iran-Iraq war:[312,325]; score:1.000000; title:Iran-Iraq war; score:1.000000
  => United States:[117,130]; score:1.000000; title:United States; score:1.000000
@@ -1283,8 +1275,8 @@ P/R/F:0.12068965/0.4375/0.1891892; tpCount:7.0; fpCount:51.0; fnCount:9.0
 ************************ System Result: ***************************
 	FP => today:[846,851]; score:1.000000; title:Today_(NBC_program); score:0.064321
  => allies:[527,533]; score:1.000000; title:Allies; score:0.098531
- => Iran-Iraq war:[312,325]; score:1.000000; title:Iran–Iraq_War; score:0.364326
 	FP => Saturday:[103,111]; score:1.000000; title:Saturday; score:0.015439
+ => Iran-Iraq war:[312,325]; score:1.000000; title:Iran–Iraq_War; score:0.364326
 	FP => Saddam:[3,9]; score:1.000000; title:Saddam_Hussein; score:0.329403
 	FP => freeze:[439,445]; score:1.000000; title:Mr._Freeze; score:0.025814
 	FP => reap:[25,29]; score:1.000000; title:Reaper; score:0.038714
@@ -1337,12 +1329,12 @@ P/R/F:0.12068965/0.4375/0.1891892; tpCount:7.0; fpCount:51.0; fnCount:9.0
 	FP => mark:[264,268]; score:1.000000; title:Deutsche_Mark; score:0.040890
  => United States:[117,130]; score:1.000000; title:United_States; score:0.093916
 	FP => guns:[1258,1262]; score:1.000000; title:Gun; score:0.055233
- => Saddam Hussein:[81,95]; score:1.000000; title:Saddam_Hussein; score:0.329403
 	FP => Saddam:[329,335]; score:1.000000; title:Saddam_Hussein; score:0.329403
+ => Saddam Hussein:[81,95]; score:1.000000; title:Saddam_Hussein; score:0.329403
 	FP => anniversary:[273,284]; score:1.000000; title:Anniversary; score:0.036847
- => artillery:[1232,1241]; score:1.000000; title:Artillery; score:0.102040
 	FP => early morning:[1293,1306]; score:1.000000; title:Morning; score:0.028657
 	FP => Saturday:[1170,1178]; score:1.000000; title:Saturday; score:0.015439
+ => artillery:[1232,1241]; score:1.000000; title:Artillery; score:0.102040
 	FP => cooperation:[446,457]; score:1.000000; title:Cooperation; score:0.036978
 	FP => Iran:[1218,1222]; score:1.000000; title:Iran; score:0.240225
 	FP => thought:[560,567]; score:1.000000; title:Thought; score:0.033415
@@ -1362,13 +1354,12 @@ P/R/F:0.1388889/0.71428573/0.23255816; tpCount:10.0; fpCount:62.0; fnCount:4.0
  => evidence:[1069,1077]; score:1.000000; title:Evidence; score:1.000000
  => money laundering:[930,946]; score:1.000000; title:Money laundering; score:1.000000
  => crime syndicates:[155,171]; score:1.000000; title:Syndicate; score:1.000000
- => illegal drug trade:[904,922]; score:1.000000; title:illegal drug trade; score:1.000000
- => terrorism:[819,828]; score:1.000000; title:terrorism; score:1.000000
  => strategy:[29,37]; score:1.000000; title:Strategy; score:1.000000
+ => terrorism:[819,828]; score:1.000000; title:terrorism; score:1.000000
+ => illegal drug trade:[904,922]; score:1.000000; title:illegal drug trade; score:1.000000
 
 ************************ System Result: ***************************
 	FP => risks:[515,520]; score:1.000000; title:Risk; score:0.057290
-	FP => crime:[155,160]; score:1.000000; title:Crime; score:0.119199
 	FP => Interpol:[627,635]; score:1.000000; title:Interpol; score:0.110588
 	FP => graf:[1397,1401]; score:1.000000; title:Graffiti; score:0.053390
 	FP => criminality:[873,884]; score:1.000000; title:Crime; score:0.119199
@@ -1426,15 +1417,15 @@ P/R/F:0.1388889/0.71428573/0.23255816; tpCount:10.0; fpCount:62.0; fnCount:4.0
 	FP => strategy:[636,644]; score:1.000000; title:Strategy; score:0.081718
 	FP => group:[1340,1345]; score:1.000000; title:Social_group; score:0.044532
 	FP => century:[186,193]; score:1.000000; title:Century; score:0.035605
-P/R/F:0.13559322/0.8888889/0.2352941; tpCount:8.0; fpCount:51.0; fnCount:1.0
+P/R/F:0.13793103/0.8888889/0.23880596; tpCount:8.0; fpCount:50.0; fnCount:1.0
 [APW19990526_0131.htm]
 ***************** Gold Standard: ***********************
 	FN => Alaska:[51,57]; score:1.000000; title:Alaska; score:1.000000
  => seismic:[1273,1280]; score:1.000000; title:Seismology; score:1.000000
-	FN => Audelio Luis Cortes:[1215,1234]; score:1.000000; title:List of fatal bear attacks in North America by decade; score:1.000000
 	FN => ANCHORAGE:[37,46]; score:1.000000; title:Anchorage, Alaska; score:1.000000
-	FN => Alaska State Troopers:[142,163]; score:1.000000; title:Alaska State Troopers; score:1.000000
+	FN => Audelio Luis Cortes:[1215,1234]; score:1.000000; title:List of fatal bear attacks in North America by decade; score:1.000000
  => rifle:[876,881]; score:1.000000; title:Rifle; score:1.000000
+	FN => Alaska State Troopers:[142,163]; score:1.000000; title:Alaska State Troopers; score:1.000000
  => oil field:[1313,1322]; score:1.000000; title:Oil field; score:1.000000
  => Bear:[27,31]; score:1.000000; title:Bear; score:1.000000
 	FN => Soldotna:[340,348]; score:1.000000; title:Soldotna, Alaska; score:1.000000
@@ -1469,7 +1460,6 @@ P/R/F:0.13559322/0.8888889/0.2352941; tpCount:8.0; fpCount:51.0; fnCount:1.0
 	FP => southwest:[438,447]; score:1.000000; title:Southwestern_United_States; score:0.069455
 	FP => Killed:[16,22]; score:1.000000; title:Murder; score:0.078216
 	FP => Anchorage:[451,460]; score:1.000000; title:Anchorage,_Alaska; score:0.175105
-	FP => Luis:[1223,1227]; score:1.000000; title:Luis_Muñoz_Marín_International_Airport; score:0.035965
 	FP => wildlife:[688,696]; score:1.000000; title:Wildlife; score:0.190869
 	FP => Cates:[855,860]; score:1.000000; title:Phoebe_Cates; score:0.015507
 	FP => Cates:[983,988]; score:1.000000; title:Phoebe_Cates; score:0.015507
@@ -1517,11 +1507,11 @@ P/R/F:0.13559322/0.8888889/0.2352941; tpCount:8.0; fpCount:51.0; fnCount:1.0
 	FP => fatal:[472,477]; score:1.000000; title:Fatalism; score:0.041914
 	FP => attack:[362,368]; score:1.000000; title:September_11_attacks; score:0.092440
 	FP => horse trail:[240,251]; score:1.000000; title:Trail; score:0.075887
-P/R/F:0.067567565/0.41666666/0.116279066; tpCount:5.0; fpCount:69.0; fnCount:7.0
+P/R/F:0.06849315/0.41666666/0.11764706; tpCount:5.0; fpCount:68.0; fnCount:7.0
 [APW19981210_0433.htm]
 ***************** Gold Standard: ***********************
-	FN => Damascus airport:[406,422]; score:1.000000; title:Damascus International Airport; score:1.000000
  => Israel:[260,266]; score:1.000000; title:Israel; score:1.000000
+	FN => Damascus airport:[406,422]; score:1.000000; title:Damascus International Airport; score:1.000000
 	FN => Arab:[299,303]; score:1.000000; title:Arab; score:1.000000
 	FN => Britain:[114,121]; score:1.000000; title:United Kingdom; score:1.000000
  => United States:[93,106]; score:1.000000; title:United States; score:1.000000
@@ -1554,8 +1544,8 @@ P/R/F:0.067567565/0.41666666/0.116279066; tpCount:5.0; fpCount:69.0; fnCount:7.0
 	FP => meet:[1349,1353]; score:1.000000; title:Meeting; score:0.124194
 	FP => design:[271,277]; score:1.000000; title:Design; score:0.026706
 	FP => Iraqi opposition:[478,494]; score:1.000000; title:Iraqi_insurgency; score:0.264462
-	FP => Palestinian:[827,838]; score:1.000000; title:Palestinian_refugee; score:0.286141
 	FP => Syria:[60,65]; score:1.000000; title:Greater_Syria; score:0.290169
+	FP => Palestinian:[827,838]; score:1.000000; title:Palestinian_refugee; score:0.286141
 	FP => issues:[959,965]; score:1.000000; title:Issues_(Korn_album); score:0.005319
 	FP => visit:[1407,1412]; score:1.000000; title:The_Visit; score:0.003555
 	FP => internal affairs:[742,758]; score:1.000000; title:Internal_affairs_(law_enforcement); score:0.048965
@@ -1576,16 +1566,16 @@ P/R/F:0.067567565/0.41666666/0.116279066; tpCount:5.0; fpCount:69.0; fnCount:7.0
 	FP => focus:[1063,1068]; score:1.000000; title:Focus_group; score:0.036168
 	FP => Supreme:[1142,1149]; score:1.000000; title:Supreme_Court_of_the_United_States; score:0.077418
 	FP => President:[1361,1370]; score:1.000000; title:President_of_Iraq; score:0.309959
- => Hafez Assad:[1372,1383]; score:1.000000; title:Hafez_al-Assad; score:0.293700
 	FP => meetings:[541,549]; score:1.000000; title:Meeting; score:0.124194
+ => Hafez Assad:[1372,1383]; score:1.000000; title:Hafez_al-Assad; score:0.293700
 	FP => IRMA:[1006,1010]; score:1.000000; title:Irish_Recorded_Music_Association; score:0.008410
 	FP => officials:[524,533]; score:1.000000; title:Official; score:0.068832
 	FP => Iranian:[1134,1141]; score:1.000000; title:Iranian_peoples; score:0.226849
 	FP => British:[503,510]; score:1.000000; title:British_Empire; score:0.084458
 	FP => Committee:[1150,1159]; score:1.000000; title:Central_Committee; score:0.139105
 	FP => Thursday:[222,230]; score:1.000000; title:Thursday_Next; score:0.014534
-	FP => Iraqi:[138,143]; score:1.000000; title:Iraqi_people; score:0.295284
 	FP => ally:[1446,1450]; score:1.000000; title:Ally_McBeal; score:0.018545
+	FP => Iraqi:[138,143]; score:1.000000; title:Iraqi_people; score:0.295284
 	FP => Persian:[1469,1476]; score:1.000000; title:Persian_Gulf; score:0.179294
 	FP => Syrian:[172,178]; score:1.000000; title:Syrian_people; score:0.200015
 	FP => technology:[1245,1255]; score:1.000000; title:Technology; score:0.071602
@@ -1618,11 +1608,11 @@ P/R/F:0.056338027/0.25/0.09195402; tpCount:4.0; fpCount:67.0; fnCount:12.0
  => financial firms:[218,233]; score:1.000000; title:Financial institution; score:1.000000
  => auction:[184,191]; score:1.000000; title:Auction; score:1.000000
  => International Monetary Fund:[697,724]; score:1.000000; title:International Monetary Fund; score:1.000000
- => Chuan Leekpai:[1247,1260]; score:1.000000; title:Chuan Leekpai; score:1.000000
  => Christies:[1329,1338]; score:1.000000; title:Christie's; score:1.000000
+ => Chuan Leekpai:[1247,1260]; score:1.000000; title:Chuan Leekpai; score:1.000000
  => baht:[406,410]; score:1.000000; title:Thai baht; score:1.000000
- => liquidate:[580,589]; score:1.000000; title:Liquidation; score:1.000000
  => Thailand:[166,174]; score:1.000000; title:Thailand; score:1.000000
+ => liquidate:[580,589]; score:1.000000; title:Liquidation; score:1.000000
 
 ************************ System Result: ***************************
 	FP => handled:[1317,1324]; score:1.000000; title:Subroutine; score:0.008703
@@ -1631,8 +1621,8 @@ P/R/F:0.056338027/0.25/0.09195402; tpCount:4.0; fpCount:67.0; fnCount:12.0
 	FP => auction:[831,838]; score:1.000000; title:Auction; score:0.195212
 	FP => Financial:[514,523]; score:1.000000; title:Finance; score:0.140620
 	FP => government agency:[551,568]; score:1.000000; title:Government_agency; score:0.063574
- => International Monetary Fund:[697,724]; score:1.000000; title:International_Monetary_Fund; score:0.071786
  => auction:[184,191]; score:1.000000; title:Auction; score:0.195212
+ => International Monetary Fund:[697,724]; score:1.000000; title:International_Monetary_Fund; score:0.071786
 	FP => Thailand:[503,511]; score:1.000000; title:Thailand; score:0.111080
 	FP => estimate:[382,390]; score:1.000000; title:Estimation; score:0.006754
 	FP => British:[1346,1353]; score:1.000000; title:British_Empire; score:0.045775
@@ -1663,10 +1653,10 @@ P/R/F:0.056338027/0.25/0.09195402; tpCount:4.0; fpCount:67.0; fnCount:12.0
  => liquidate:[580,589]; score:1.000000; title:Liquidation; score:0.064998
 	FP => companies:[617,626]; score:1.000000; title:Company; score:0.074891
 	FP => displayed:[104,113]; score:1.000000; title:Display_device; score:0.004599
- => financial firms:[218,233]; score:1.000000; title:Financial_institution; score:0.105140
 	FP => Convention Center:[1418,1435]; score:1.000000; title:Convention_center; score:0.050755
 	FP => Spirited:[3,11]; score:1.000000; title:Spirit; score:0.015117
 	FP => untitled:[1062,1070]; score:1.000000; title:Led_Zeppelin_IV; score:0.006467
+ => financial firms:[218,233]; score:1.000000; title:Financial_institution; score:0.105140
 	FP => art objects:[87,98]; score:1.000000; title:Work_of_art; score:0.032555
 	FP => art:[28,31]; score:1.000000; title:Art; score:0.074229
 	FP => companies:[878,887]; score:1.000000; title:Company; score:0.074891
@@ -1681,7 +1671,6 @@ P/R/F:0.056338027/0.25/0.09195402; tpCount:4.0; fpCount:67.0; fnCount:12.0
 	FP => prices:[903,909]; score:1.000000; title:Price; score:0.031725
 	FP => auction:[282,289]; score:1.000000; title:Auction; score:0.195212
 	FP => quoted:[1015,1021]; score:1.000000; title:Quotation; score:0.015729
-	FP => Queen Sirikit:[1395,1408]; score:1.000000; title:Sirikit; score:0.044425
 	FP => pay:[850,853]; score:1.000000; title:Payment; score:0.024879
 	FP => Restructuring:[524,537]; score:1.000000; title:Restructuring; score:0.061675
 	FP => finance:[51,58]; score:1.000000; title:Finance; score:0.140620
@@ -1691,9 +1680,9 @@ P/R/F:0.056338027/0.25/0.09195402; tpCount:4.0; fpCount:67.0; fnCount:12.0
 	FP => Sunday:[257,263]; score:1.000000; title:The_Sundays; score:0.011228
 	FP => offices:[125,132]; score:1.000000; title:Office; score:0.047605
 	FP => auction house:[1354,1367]; score:1.000000; title:Auction; score:0.195212
- => baht:[406,410]; score:1.000000; title:Thai_baht; score:0.108852
 	FP => expected:[340,348]; score:1.000000; title:Expected_value; score:0.056620
-P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
+ => baht:[406,410]; score:1.000000; title:Thai_baht; score:0.108852
+P/R/F:0.13432837/0.8181818/0.23076925; tpCount:9.0; fpCount:58.0; fnCount:2.0
 [APW19990519_0141.htm]
 ***************** Gold Standard: ***********************
 	FN => carbon dioxide:[767,781]; score:1.000000; title:Carbon dioxide; score:1.000000
@@ -1711,9 +1700,9 @@ P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
 	FN => wide field planetary camera:[1009,1036]; score:1.000000; title:Wide Field and Planetary Camera; score:1.000000
  => cyclone:[61,68]; score:1.000000; title:Cyclone; score:1.000000
  => Astronomers:[4,15]; score:1.000000; title:Astronomer; score:1.000000
+ => Space Telescope Science Institute:[244,277]; score:1.000000; title:Space Telescope Science Institute; score:1.000000
  => Earth:[617,622]; score:1.000000; title:Earth; score:1.000000
  => Viking Orbiter:[954,968]; score:1.000000; title:Viking program; score:1.000000
- => Space Telescope Science Institute:[244,277]; score:1.000000; title:Space Telescope Science Institute; score:1.000000
 
 ************************ System Result: ***************************
 	FP => clouds:[466,472]; score:1.000000; title:Cloud; score:0.371388
@@ -1746,22 +1735,19 @@ P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
 	FP => April 27:[334,342]; score:1.000000; title:April_27; score:0.065998
 	FP => size:[86,90]; score:1.000000; title:Steve_Angello; score:0.007768
 	FP => storm:[1208,1213]; score:1.000000; title:Storm; score:0.161045
-	FP => wide:[1009,1013]; score:1.000000; title:Wide_(cricket); score:0.006499
 	FP => storm:[559,564]; score:1.000000; title:Storm; score:0.161045
 	FP => eastward:[1229,1237]; score:1.000000; title:East; score:0.074387
 	FP => failed:[1360,1366]; score:1.000000; title:Failure; score:0.044856
 	FP => pictures:[1330,1338]; score:1.000000; title:Image; score:0.104435
 	FP => process:[1294,1301]; score:1.000000; title:Integrated_circuit; score:0.130732
 	FP => seasonal:[731,739]; score:1.000000; title:Season; score:0.154782
-	FP => field:[1014,1019]; score:1.000000; title:Field_of_view; score:0.175266
 	FP => hours:[1167,1172]; score:1.000000; title:Hour; score:0.112404
- => Viking Orbiter:[954,968]; score:1.000000; title:Viking_program; score:0.250277
  => Earth:[617,622]; score:1.000000; title:Earth; score:0.305137
+ => Viking Orbiter:[954,968]; score:1.000000; title:Viking_program; score:0.250277
 	FP => carbon dioxide ice:[767,785]; score:1.000000; title:Dry_ice; score:0.149675
 	FP => (AP):[50,54]; score:1.000000; title:Associated_Press; score:0.075394
  => Martian:[363,370]; score:1.000000; title:Martian; score:0.164609
 	FP => astronomers:[1390,1401]; score:1.000000; title:Astronomer; score:0.267303
-	FP => camera:[1030,1036]; score:1.000000; title:Camera; score:0.204058
 	FP => pictures:[1147,1155]; score:1.000000; title:Image; score:0.104435
  => hurricanes:[600,610]; score:1.000000; title:Tropical_cyclone; score:0.134964
 	FP => astronomers:[626,637]; score:1.000000; title:Astronomer; score:0.267303
@@ -1775,8 +1761,8 @@ P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
 	FP => caps:[802,806]; score:1.000000; title:Cap_(sport); score:0.021973
 	FP => short:[1428,1433]; score:1.000000; title:Short_circuit; score:0.048759
 	FP => closest approach:[1088,1104]; score:1.000000; title:Apsis; score:0.216839
- => Astronomers:[4,15]; score:1.000000; title:Astronomer; score:0.267303
 	FP => summer:[680,686]; score:1.000000; title:Summer; score:0.077823
+ => Astronomers:[4,15]; score:1.000000; title:Astronomer; score:0.267303
 	FP => storm:[654,659]; score:1.000000; title:Storm; score:0.161045
 	FP => sheet:[789,794]; score:1.000000; title:Sheet_music; score:0.050294
 	FP => mile:[524,528]; score:1.000000; title:Mile; score:0.124942
@@ -1785,8 +1771,8 @@ P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
 	FP => Mars:[32,36]; score:1.000000; title:Mars; score:0.354427
 	FP => center:[545,551]; score:1.000000; title:Center_of_mass; score:0.111630
  => Hubble Space Telescope:[306,328]; score:1.000000; title:Hubble_Space_Telescope; score:0.524289
- => phenomenon:[1441,1451]; score:1.000000; title:Phenomenon; score:0.087522
 	FP => Officials:[864,873]; score:1.000000; title:Official; score:0.026786
+ => phenomenon:[1441,1451]; score:1.000000; title:Phenomenon; score:0.087522
 	FP => wide:[445,449]; score:1.000000; title:Wide_(cricket); score:0.006499
 	FP => red planet:[221,231]; score:1.000000; title:Red_Planet_(film); score:0.107970
 	FP => storm:[883,888]; score:1.000000; title:Storm; score:0.161045
@@ -1797,11 +1783,11 @@ P/R/F:0.13235295/0.8181818/0.22784811; tpCount:9.0; fpCount:59.0; fnCount:2.0
  => cyclone:[61,68]; score:1.000000; title:Cyclone; score:0.162189
 	FP => spacecraft:[971,981]; score:1.000000; title:Spacecraft; score:0.238536
  => Space Telescope Science Institute:[244,277]; score:1.000000; title:Space_Telescope_Science_Institute; score:0.293857
-P/R/F:0.14814815/0.6666667/0.24242425; tpCount:12.0; fpCount:69.0; fnCount:6.0
+P/R/F:0.15384616/0.6666667/0.25000003; tpCount:12.0; fpCount:66.0; fnCount:6.0
 [APW19980611_0774.htm]
 ***************** Gold Standard: ***********************
- => East European:[408,421]; score:1.000000; title:Eastern Europe; score:1.000000
 	FN => illegal traffic:[160,175]; score:1.000000; title:Smuggling; score:1.000000
+ => East European:[408,421]; score:1.000000; title:Eastern Europe; score:1.000000
  => communism:[762,771]; score:1.000000; title:communism; score:1.000000
 	FN => illegal art traffic:[40,59]; score:1.000000; title:Art theft; score:1.000000
  => Budapest:[110,118]; score:1.000000; title:Budapest; score:1.000000
@@ -1822,7 +1808,6 @@ P/R/F:0.14814815/0.6666667/0.24242425; tpCount:12.0; fpCount:69.0; fnCount:6.0
  => communism:[762,771]; score:1.000000; title:Communism; score:0.099714
 	FP => April:[545,550]; score:1.000000; title:April_11; score:0.073344
 	FP => director:[1179,1187]; score:1.000000; title:Film_director; score:0.100928
-	FP => traffic:[168,175]; score:1.000000; title:Traffic; score:0.197385
 	FP => years:[1130,1135]; score:1.000000; title:Millennium; score:0.113572
 	FP => stolen art:[1097,1107]; score:1.000000; title:Art_theft; score:0.214570
 	FP => year:[750,754]; score:1.000000; title:University; score:0.127837
@@ -1843,8 +1828,8 @@ P/R/F:0.14814815/0.6666667/0.24242425; tpCount:12.0; fpCount:69.0; fnCount:6.0
 	FP => king:[61,65]; score:1.000000; title:Elvis_Presley; score:0.078122
 	FP => official:[205,213]; score:1.000000; title:Referee; score:0.075062
 	FP => Interpol:[1221,1229]; score:1.000000; title:Interpol; score:0.101505
-	FP => traffic:[52,59]; score:1.000000; title:Traffic; score:0.197385
 	FP => working:[478,485]; score:1.000000; title:Working_(musical); score:0.016892
+	FP => traffic:[52,59]; score:1.000000; title:Traffic; score:0.197385
 	FP => market:[1143,1149]; score:1.000000; title:Customer; score:0.084552
  => auctioneers:[1481,1492]; score:1.000000; title:Auction; score:0.117070
  => forints:[889,896]; score:1.000000; title:Hungarian_forint; score:0.028842
@@ -1883,10 +1868,10 @@ P/R/F:0.14814815/0.6666667/0.24242425; tpCount:12.0; fpCount:69.0; fnCount:6.0
 	FP => experience:[632,642]; score:1.000000; title:Experience; score:0.068612
 	FP => traffic:[501,508]; score:1.000000; title:Traffic; score:0.197385
 	FP => country:[1263,1270]; score:1.000000; title:Country; score:0.091097
- => France:[559,565]; score:1.000000; title:France; score:0.108949
 	FP => detail:[602,608]; score:1.000000; title:Details_(magazine); score:0.050976
+ => France:[559,565]; score:1.000000; title:France; score:0.108949
 	FP => total:[837,842]; score:1.000000; title:Total_S.A.; score:0.075209
-P/R/F:0.12857144/0.64285713/0.21428573; tpCount:9.0; fpCount:61.0; fnCount:5.0
+P/R/F:0.13043478/0.64285713/0.21686745; tpCount:9.0; fpCount:60.0; fnCount:5.0
 [APW19990827_0184.htm]
 ***************** Gold Standard: ***********************
  => concourse:[831,840]; score:1.000000; title:Concourse; score:1.000000
@@ -1937,9 +1922,9 @@ P/R/F:0.12857144/0.64285713/0.21428573; tpCount:9.0; fpCount:61.0; fnCount:5.0
 	FP => schedule:[688,696]; score:1.000000; title:Broadcast_programming; score:0.011990
 	FP => staircase:[928,937]; score:1.000000; title:Stairway; score:0.040960
 	FP => passenger:[144,153]; score:1.000000; title:Passenger; score:0.165077
- => O'Hare International Airport:[227,255]; score:1.000000; title:O'Hare_International_Airport; score:0.267995
 	FP => disappeared:[196,207]; score:1.000000; title:Forced_disappearance; score:0.037322
 	FP => authorities:[113,124]; score:1.000000; title:Authority; score:0.027267
+ => O'Hare International Airport:[227,255]; score:1.000000; title:O'Hare_International_Airport; score:0.267995
 	FP => search:[131,137]; score:1.000000; title:Search_and_seizure; score:0.057657
 	FP => terminal:[451,459]; score:1.000000; title:Train_station; score:0.054044
 	FP => one-way:[920,927]; score:1.000000; title:One-way_traffic; score:0.015824
@@ -1961,8 +1946,8 @@ P/R/F:0.054545455/0.5/0.09836066; tpCount:3.0; fpCount:52.0; fnCount:3.0
  => volume:[538,544]; score:1.000000; title:Volume; score:1.000000
  => Antonio Guterres:[348,364]; score:1.000000; title:António Guterres; score:1.000000
  => Portugal:[66,74]; score:1.000000; title:Portugal; score:1.000000
- => hydroelectric:[933,946]; score:1.000000; title:Hydroelectricity; score:1.000000
  => Lisbon:[454,460]; score:1.000000; title:Lisbon; score:1.000000
+ => hydroelectric:[933,946]; score:1.000000; title:Hydroelectricity; score:1.000000
  => Water supply:[735,747]; score:1.000000; title:Water supply; score:1.000000
  => water resources:[134,149]; score:1.000000; title:Water resources; score:1.000000
 	FN => Prime Minister:[330,344]; score:1.000000; title:Prime minister; score:1.000000
@@ -1981,9 +1966,9 @@ P/R/F:0.054545455/0.5/0.09836066; tpCount:3.0; fpCount:52.0; fnCount:3.0
 	FP => wealthier:[1221,1230]; score:1.000000; title:Wealth; score:0.065272
 	FP => Monday:[93,99]; score:1.000000; title:Monday; score:0.024040
 	FP => funds:[1203,1208]; score:1.000000; title:Funding; score:0.074312
- => Antonio Guterres:[348,364]; score:1.000000; title:António_Guterres; score:0.055678
 	FP => day:[199,202]; score:1.000000; title:Stockwell_Day; score:0.037850
 	FP => historic:[236,244]; score:1.000000; title:History; score:0.073059
+ => Antonio Guterres:[348,364]; score:1.000000; title:António_Guterres; score:0.055678
 	FP => countries:[837,846]; score:1.000000; title:Country; score:0.122051
 	FP => development:[1191,1202]; score:1.000000; title:African_Development_Bank; score:0.137230
 	FP => threat:[1005,1011]; score:1.000000; title:Threat_(computer); score:0.005665
@@ -2046,10 +2031,10 @@ P/R/F:0.054545455/0.5/0.09836066; tpCount:3.0; fpCount:52.0; fnCount:3.0
 	FP => south:[444,449]; score:1.000000; title:South; score:0.090410
 	FP => new road:[1298,1306]; score:1.000000; title:New_Road,_Worcester; score:0.006376
 	FP => shared:[126,132]; score:1.000000; title:Shared_services; score:0.053419
- => Spain:[82,87]; score:1.000000; title:Spain; score:0.219225
 	FP => summit:[390,396]; score:1.000000; title:Summit_(meeting); score:0.150545
 	FP => southwest:[757,766]; score:1.000000; title:Southwestern_United_States; score:0.109235
 	FP => agreement:[305,314]; score:1.000000; title:Belfast_Agreement; score:0.085130
+ => Spain:[82,87]; score:1.000000; title:Spain; score:0.219225
 	FP => campaign:[1168,1176]; score:1.000000; title:Military_campaign; score:0.081000
 	FP => plan:[1392,1396]; score:1.000000; title:Plan; score:0.079720
  => volume:[538,544]; score:1.000000; title:Volume; score:0.051721
@@ -2057,8 +2042,8 @@ P/R/F:0.054545455/0.5/0.09836066; tpCount:3.0; fpCount:52.0; fnCount:3.0
 	FP => Portugal:[3,11]; score:1.000000; title:Portugal; score:0.219756
  => Lisbon:[454,460]; score:1.000000; title:Lisbon; score:0.177251
 	FP => links:[872,877]; score:1.000000; title:Links_(golf); score:0.088004
- => water resources:[134,149]; score:1.000000; title:Water_resources; score:0.119763
 	FP => border:[1443,1449]; score:1.000000; title:Border; score:0.153150
+ => water resources:[134,149]; score:1.000000; title:Water_resources; score:0.119763
 	FP => common:[41,47]; score:1.000000; title:Lingua_franca; score:0.089056
 	FP => Premier:[601,608]; score:1.000000; title:Premier; score:0.101712
 	FP => agreement:[28,37]; score:1.000000; title:Belfast_Agreement; score:0.085130
@@ -2069,8 +2054,8 @@ P/R/F:0.14285715/0.9285714/0.24761905; tpCount:13.0; fpCount:78.0; fnCount:1.0
 	FN => Alice:[1492,1497]; score:1.000000; title:Alice, Texas; score:1.000000
  => Georgia:[117,124]; score:1.000000; title:Georgia (U.S. state); score:1.000000
  => temperature:[1365,1376]; score:1.000000; title:Temperature; score:1.000000
- => Plains:[938,944]; score:1.000000; title:Great Plains; score:1.000000
 	FN => Rockies:[898,905]; score:1.000000; title:Rocky Mountains; score:1.000000
+ => Plains:[938,944]; score:1.000000; title:Great Plains; score:1.000000
  => Lightning:[215,224]; score:1.000000; title:Lightning; score:1.000000
 	FN => Washington:[1035,1045]; score:1.000000; title:Washington; score:1.000000
  => freezing:[827,835]; score:1.000000; title:Freezing; score:1.000000
@@ -2085,8 +2070,8 @@ P/R/F:0.14285715/0.9285714/0.24761905; tpCount:13.0; fpCount:78.0; fnCount:1.0
  => the West:[885,893]; score:1.000000; title:Western United States; score:1.000000
  => Adirondack:[649,659]; score:1.000000; title:Adirondack Mountains; score:1.000000
  => Louisiana:[101,110]; score:1.000000; title:Louisiana; score:1.000000
- => Southeast:[910,919]; score:1.000000; title:Southeastern United States; score:1.000000
 	FN => wind-chill:[793,803]; score:1.000000; title:Wind Chill; score:1.000000
+ => Southeast:[910,919]; score:1.000000; title:Southeastern United States; score:1.000000
 	FN => Dallas-Fort Worth International Airport:[498,537]; score:1.000000; title:Dallas-Fort Worth International Airport; score:1.000000
  => Maine:[749,754]; score:1.000000; title:Maine; score:1.000000
  => Gulf Coast:[81,91]; score:1.000000; title:Gulf Coast of the United States; score:1.000000
@@ -2111,12 +2096,12 @@ P/R/F:0.14285715/0.9285714/0.24761905; tpCount:13.0; fpCount:78.0; fnCount:1.0
 	FP => forecast:[1083,1091]; score:1.000000; title:Forecasting; score:0.044234
 	FP => Northeast:[1140,1149]; score:1.000000; title:Northeast_Region,_Brazil; score:0.163804
 	FP => coasts:[1024,1030]; score:1.000000; title:Coast; score:0.121341
-	FP => forecast:[55,63]; score:1.000000; title:Forecasting; score:0.044234
  => Lightning:[215,224]; score:1.000000; title:Lightning; score:0.099640
+	FP => forecast:[55,63]; score:1.000000; title:Forecasting; score:0.044234
 	FP => reach:[1095,1100]; score:1.000000; title:Halo_(series); score:0.015915
 	FP => forecast:[698,706]; score:1.000000; title:Forecasting; score:0.044234
- => Northwest:[1214,1223]; score:1.000000; title:Pacific_Northwest; score:0.104752
  => freezing:[827,835]; score:1.000000; title:Freezing; score:0.038237
+ => Northwest:[1214,1223]; score:1.000000; title:Pacific_Northwest; score:0.104752
  => Oklahoma:[411,419]; score:1.000000; title:Oklahoma; score:0.124706
 	FP => winds:[764,769]; score:1.000000; title:Wind; score:0.146573
  => Tennessee:[145,154]; score:1.000000; title:Tennessee; score:0.089479
@@ -2126,9 +2111,9 @@ P/R/F:0.14285715/0.9285714/0.24761905; tpCount:13.0; fpCount:78.0; fnCount:1.0
 	FP => tonight:[202,209]; score:1.000000; title:The_Tonight_Show; score:0.031310
 	FP => Weather:[16,23]; score:1.000000; title:Weather; score:0.115216
  => Adirondack:[649,659]; score:1.000000; title:Adirondack_Mountains; score:0.060195
+ => Louisiana:[101,110]; score:1.000000; title:Louisiana; score:0.097103
 	FP => today:[947,952]; score:1.000000; title:Today_(NBC_program); score:0.032143
 	FP => large:[228,233]; score:1.000000; title:Tempo; score:0.020863
- => Louisiana:[101,110]; score:1.000000; title:Louisiana; score:0.097103
 	FP => expected:[775,783]; score:1.000000; title:Expected_value; score:0.013922
 	FP => Plains:[1341,1347]; score:1.000000; title:Great_Plains; score:0.257468
  => West:[889,893]; score:1.000000; title:Western_United_States; score:0.116680
@@ -2177,8 +2162,8 @@ P/R/F:0.14285715/0.9285714/0.24761905; tpCount:13.0; fpCount:78.0; fnCount:1.0
 	FP => storm:[372,377]; score:1.000000; title:Storm; score:0.131321
 	FP => Showers:[954,961]; score:1.000000; title:Shower; score:0.011572
 	FP => Northeast:[583,592]; score:1.000000; title:Northeast_Region,_Brazil; score:0.163804
- => Carolinas:[187,196]; score:1.000000; title:The_Carolinas; score:0.105487
 	FP => wind-chill:[793,803]; score:1.000000; title:Wind_chill; score:0.138665
+ => Carolinas:[187,196]; score:1.000000; title:The_Carolinas; score:0.105487
 	FP => Plains:[1265,1271]; score:1.000000; title:Great_Plains; score:0.257468
  => Great Lakes:[1164,1175]; score:1.000000; title:Great_Lakes; score:0.120536
 P/R/F:0.3164557/0.71428573/0.43859646; tpCount:25.0; fpCount:54.0; fnCount:10.0
@@ -2188,8 +2173,8 @@ P/R/F:0.3164557/0.71428573/0.43859646; tpCount:25.0; fpCount:54.0; fnCount:10.0
  => Alfred Sisley:[630,643]; score:1.000000; title:Alfred Sisley; score:1.000000
  => Nice:[449,453]; score:1.000000; title:Nice; score:1.000000
  => Riviera:[736,743]; score:1.000000; title:French Riviera; score:1.000000
-	FN => Saint Laurent du Var:[755,775]; score:1.000000; title:Saint-Laurent-du-Var; score:1.000000
  => Monet:[400,405]; score:1.000000; title:Claude Monet; score:1.000000
+	FN => Saint Laurent du Var:[755,775]; score:1.000000; title:Saint-Laurent-du-Var; score:1.000000
  => Impressionist:[103,116]; score:1.000000; title:Impressionism; score:1.000000
  => curator:[39,46]; score:1.000000; title:Curator; score:1.000000
 
@@ -2241,8 +2226,8 @@ P/R/F:0.3164557/0.71428573/0.43859646; tpCount:25.0; fpCount:54.0; fnCount:10.0
 	FP => painting:[592,600]; score:1.000000; title:Painting; score:0.106072
 	FP => Jean:[831,835]; score:1.000000; title:Jean_Valjean; score:0.032109
 	FP => heist:[187,192]; score:1.000000; title:Heist_film; score:0.018583
- => Monet:[400,405]; score:1.000000; title:Claude_Monet; score:0.139300
 	FP => spoke:[511,516]; score:1.000000; title:Spoke; score:0.009959
+ => Monet:[400,405]; score:1.000000; title:Claude_Monet; score:0.139300
 	FP => Claude Monet:[572,584]; score:1.000000; title:Claude_Monet; score:0.139300
 	FP => Police:[67,73]; score:1.000000; title:Police; score:0.091965
 	FP => art:[561,564]; score:1.000000; title:Art; score:0.129838
@@ -2267,21 +2252,21 @@ P/R/F:0.3164557/0.71428573/0.43859646; tpCount:25.0; fpCount:54.0; fnCount:10.0
 P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 [APW19980930_0522.htm]
 ***************** Gold Standard: ***********************
- => Iraq:[61,65]; score:1.000000; title:Iraq; score:1.000000
  => delegation:[284,294]; score:1.000000; title:Delegation; score:1.000000
 	FN => Kermanshah province:[381,400]; score:1.000000; title:Kermanshah province; score:1.000000
+ => Iraq:[61,65]; score:1.000000; title:Iraq; score:1.000000
 	FN => Iranian:[172,179]; score:1.000000; title:Iran; score:1.000000
 	FN => Taha Yassin Ramadan:[1359,1378]; score:1.000000; title:Taha Yassin Ramadan; score:1.000000
  => 1991 Gulf War:[1441,1454]; score:1.000000; title:Gulf War; score:1.000000
 	FN => Mohammad Shariat-Madari:[514,537]; score:1.000000; title:Mohammad Kazem Shariatmadari; score:1.000000
 	FN => commercial:[559,569]; score:1.000000; title:Commerce; score:1.000000
- => Baghdad:[1158,1165]; score:1.000000; title:Baghdad; score:1.000000
  => Tehran:[712,718]; score:1.000000; title:Tehran; score:1.000000
+ => Baghdad:[1158,1165]; score:1.000000; title:Baghdad; score:1.000000
  => Organization of the Islamic Conference:[1479,1517]; score:1.000000; title:Organization of the Islamic Conference; score:1.000000
- => trade fair:[45,55]; score:1.000000; title:Trade fair; score:1.000000
  => prisoners of war:[976,992]; score:1.000000; title:Prisoner of war; score:1.000000
- => U.N.:[909,913]; score:1.000000; title:United Nations; score:1.000000
+ => trade fair:[45,55]; score:1.000000; title:Trade fair; score:1.000000
  => acts of sabotage:[1301,1317]; score:1.000000; title:Sabotage; score:1.000000
+ => U.N.:[909,913]; score:1.000000; title:United Nations; score:1.000000
 	FN => eight-year war:[872,886]; score:1.000000; title:Iran-Iraq War; score:1.000000
 
 ************************ System Result: ***************************
@@ -2290,10 +2275,9 @@ P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 	FP => war:[1134,1137]; score:1.000000; title:Indo-Pakistani_War_of_1965; score:0.204438
 	FP => ranking:[1400,1407]; score:1.000000; title:Ranking; score:0.013690
 	FP => visit:[1417,1422]; score:1.000000; title:The_Visit; score:0.014148
- => Iraq:[61,65]; score:1.000000; title:Iraq; score:0.426463
  => delegation:[284,294]; score:1.000000; title:Delegation; score:0.123609
+ => Iraq:[61,65]; score:1.000000; title:Iraq; score:0.426463
 	FP => Iran:[1011,1015]; score:1.000000; title:Iranian_Revolution; score:0.620764
-	FP => war:[883,886]; score:1.000000; title:Indo-Pakistani_War_of_1965; score:0.204438
  => sabotage:[1309,1317]; score:1.000000; title:Sabotage; score:0.161375
 	FP => sneak:[1269,1274]; score:1.000000; title:DJ_Sneak; score:0.002113
 	FP => Tehran:[1423,1429]; score:1.000000; title:Tehran; score:0.412082
@@ -2307,8 +2291,8 @@ P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 	FP => Iraq:[856,860]; score:1.000000; title:Iraq; score:0.426463
 	FP => countries:[593,602]; score:1.000000; title:Country; score:0.148698
 	FP => 1 million:[1061,1070]; score:1.000000; title:Million; score:0.108652
-	FP => Iranian:[172,179]; score:1.000000; title:Iranian_peoples; score:0.401867
 	FP => discuss:[478,485]; score:1.000000; title:Debate; score:0.089119
+	FP => Iranian:[172,179]; score:1.000000; title:Iranian_peoples; score:0.401867
 	FP => Wednesday:[93,102]; score:1.000000; title:Sheffield_Wednesday_F.C.; score:0.049348
 	FP => Iran:[331,335]; score:1.000000; title:Iranian_Revolution; score:0.620764
 	FP => fair:[608,612]; score:1.000000; title:Fairness_and_Accuracy_in_Reporting; score:0.194771
@@ -2318,7 +2302,6 @@ P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 	FP => quoted:[441,447]; score:1.000000; title:Quotation; score:0.032638
 	FP => Iranian:[1179,1186]; score:1.000000; title:Iranian_peoples; score:0.401867
 	FP => Iran:[847,851]; score:1.000000; title:Iranian_Revolution; score:0.620764
-	FP => acts:[1301,1305]; score:1.000000; title:Acts_of_the_Apostles; score:0.061379
 	FP => holding:[1019,1026]; score:1.000000; title:Holding_company; score:0.155857
 	FP => fought:[861,867]; score:1.000000; title:Combat; score:0.134830
 	FP => hold:[145,149]; score:1.000000; title:Hold_(ship); score:0.031753
@@ -2353,7 +2336,6 @@ P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 	FP => Oct.:[631,635]; score:1.000000; title:October; score:0.041283
 	FP => fair:[136,140]; score:1.000000; title:Fairness_and_Accuracy_in_Reporting; score:0.194771
 	FP => borders:[1288,1295]; score:1.000000; title:Border; score:0.223391
-	FP => Shariat:[523,530]; score:1.000000; title:Sharia; score:0.372822
 	FP => Iraqi:[1408,1413]; score:1.000000; title:Iraqi_people; score:0.328459
 	FP => Iraq:[1001,1005]; score:1.000000; title:Iraq; score:0.426463
 	FP => December:[1327,1335]; score:1.000000; title:December; score:0.115047
@@ -2362,15 +2344,15 @@ P/R/F:0.08571429/0.75/0.15384616; tpCount:6.0; fpCount:64.0; fnCount:2.0
 	FP => Mehdi:[250,255]; score:1.000000; title:Mehdi_Hassan; score:0.004452
 	FP => Mohammed:[241,249]; score:1.000000; title:Muhammad; score:0.308283
 	FP => commercial:[559,569]; score:1.000000; title:Commercial_bank; score:0.118065
-P/R/F:0.12987013/0.625/0.21505377; tpCount:10.0; fpCount:67.0; fnCount:6.0
+P/R/F:0.13513513/0.625/0.22222221; tpCount:10.0; fpCount:64.0; fnCount:6.0
 [APW19980816_0994.htm]
 ***************** Gold Standard: ***********************
 	FN => Auckland:[633,641]; score:1.000000; title:Auckland; score:1.000000
- => New Zealand:[23,34]; score:1.000000; title:New Zealand; score:1.000000
 	FN => Auckland Art Gallery:[130,150]; score:1.000000; title:Auckland Art Gallery; score:1.000000
+ => New Zealand:[23,34]; score:1.000000; title:New Zealand; score:1.000000
  => shotgun:[595,602]; score:1.000000; title:Shotgun; score:1.000000
 	FN => Albert Park:[1354,1365]; score:1.000000; title:Albert Park, Auckland; score:1.000000
- => Jacques-Joseph (James) Tissot:[360,389]; score:1.000000; title:James Tissot; score:1.000000
+	FN => Jacques-Joseph (James) Tissot:[360,389]; score:1.000000; title:James Tissot; score:1.000000
  => crowbar:[799,806]; score:1.000000; title:Crowbar (tool); score:1.000000
  => firearm:[893,900]; score:1.000000; title:firearm; score:1.000000
 
@@ -2395,12 +2377,10 @@ P/R/F:0.12987013/0.625/0.21505377; tpCount:10.0; fpCount:67.0; fnCount:6.0
 	FP => oil:[315,318]; score:1.000000; title:Oil_painting; score:0.235982
 	FP => frame:[1231,1236]; score:1.000000; title:Janet_Frame; score:0.091540
 	FP => skirted:[1321,1328]; score:1.000000; title:Skirt; score:0.016597
- => Tissot:[383,389]; score:1.000000; title:James_Tissot; score:0.081591
 	FP => painting:[1124,1132]; score:1.000000; title:Painting; score:0.195536
 	FP => Aug.:[565,569]; score:1.000000; title:August; score:0.033993
 	FP => public:[1395,1401]; score:1.000000; title:Public; score:0.040329
 	FP => New Zealand's:[400,413]; score:1.000000; title:New_Zealand; score:0.188891
-	FP => James:[376,381]; score:1.000000; title:James_(band); score:0.047513
 	FP => born:[347,351]; score:1.000000; title:Max_Born; score:0.009228
 	FP => Top:[330,333]; score:1.000000; title:Record_chart; score:0.052174
 	FP => highway:[1476,1483]; score:1.000000; title:Highway; score:0.069839
@@ -2427,7 +2407,6 @@ P/R/F:0.12987013/0.625/0.21505377; tpCount:10.0; fpCount:67.0; fnCount:6.0
 	FP => painting:[82,90]; score:1.000000; title:Painting; score:0.195536
  => shotgun:[595,602]; score:1.000000; title:Shotgun; score:0.082075
 	FP => expensive:[419,428]; score:1.000000; title:Cost; score:0.022091
-	FP => Joseph:[368,374]; score:1.000000; title:Saint_Joseph; score:0.053893
 	FP => Albert Park:[1354,1365]; score:1.000000; title:Albert_Park,_Victoria; score:0.014485
 	FP => man:[983,986]; score:1.000000; title:Isle_of_Man; score:0.106130
 	FP => main:[757,761]; score:1.000000; title:Main_Page; score:0.038556
@@ -2453,7 +2432,7 @@ P/R/F:0.12987013/0.625/0.21505377; tpCount:10.0; fpCount:67.0; fnCount:6.0
 	FP => motorcycle:[1440,1450]; score:1.000000; title:Motorcycle; score:0.219637
 	FP => door:[762,766]; score:1.000000; title:The_Doors; score:0.065329
 	FP => robbery:[617,624]; score:1.000000; title:Robbery; score:0.116334
-P/R/F:0.06410257/0.625/0.116279066; tpCount:5.0; fpCount:73.0; fnCount:3.0
+P/R/F:0.053333335/0.5/0.096385546; tpCount:4.0; fpCount:71.0; fnCount:4.0
 [APW19981109_0140.htm]
 ***************** Gold Standard: ***********************
 	FN => East:[1267,1271]; score:1.000000; title:Eastern world; score:1.000000
@@ -2464,8 +2443,8 @@ P/R/F:0.06410257/0.625/0.116279066; tpCount:5.0; fpCount:73.0; fnCount:3.0
 	FN => Radio Free Europe:[180,197]; score:1.000000; title:Radio Free Europe; score:1.000000
  => Cold War:[1214,1222]; score:1.000000; title:Cold War; score:1.000000
  => the Netherlands:[515,530]; score:1.000000; title:Netherlands; score:1.000000
- => ICJ:[505,508]; score:1.000000; title:International Court of Justice; score:1.000000
 	FN => Kamal Kharrazi:[264,278]; score:1.000000; title:Kamal Kharazi; score:1.000000
+ => ICJ:[505,508]; score:1.000000; title:International Court of Justice; score:1.000000
  => political:[716,725]; score:1.000000; title:Politics; score:1.000000
  => Soviet:[1145,1151]; score:1.000000; title:Soviet Union; score:1.000000
  => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:1.000000
@@ -2486,11 +2465,11 @@ P/R/F:0.06410257/0.625/0.116279066; tpCount:5.0; fpCount:73.0; fnCount:3.0
 	FP => collapse of communism:[1335,1356]; score:1.000000; title:Revolutions_of_1989; score:0.103802
 	FP => period:[851,857]; score:1.000000; title:Frequency; score:0.101521
 	FP => trial:[845,850]; score:1.000000; title:Trial; score:0.112626
- => ICJ:[505,508]; score:1.000000; title:International_Court_of_Justice; score:0.166215
 	FP => August:[1030,1036]; score:1.000000; title:Augusto_Pinochet; score:0.141452
+ => ICJ:[505,508]; score:1.000000; title:International_Court_of_Justice; score:0.166215
  => political:[716,725]; score:1.000000; title:Politics; score:0.121149
- => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:0.088119
 	FP => protest:[71,78]; score:1.000000; title:Protest; score:0.185018
+ => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:0.088119
 	FP => radio:[651,656]; score:1.000000; title:Radio_broadcasting; score:0.189925
 	FP => news:[1136,1140]; score:1.000000; title:News_International; score:0.141210
 	FP => Iran:[3,7]; score:1.000000; title:Iran; score:0.171465
@@ -2503,12 +2482,12 @@ P/R/F:0.06410257/0.625/0.116279066; tpCount:5.0; fpCount:73.0; fnCount:3.0
 	FP => level:[686,691]; score:1.000000; title:Deck_(ship); score:0.043954
 	FP => radio:[295,300]; score:1.000000; title:Radio_broadcasting; score:0.189925
 	FP => Iraq:[943,947]; score:1.000000; title:Iraq; score:0.190017
- => Soviet:[1145,1151]; score:1.000000; title:Soviet_Union; score:0.141198
 	FP => years:[1361,1366]; score:1.000000; title:Millennium; score:0.094346
+ => Soviet:[1145,1151]; score:1.000000; title:Soviet_Union; score:0.141198
 	FP => day:[927,930]; score:1.000000; title:Sandra_Day_O'Connor; score:0.149193
  => West:[1238,1242]; score:1.000000; title:Western_world; score:0.111309
- => Iraq:[822,826]; score:1.000000; title:Iraq; score:0.190017
  => economic:[700,708]; score:1.000000; title:Economy; score:0.101038
+ => Iraq:[822,826]; score:1.000000; title:Iraq; score:0.190017
 	FP => station:[880,887]; score:1.000000; title:Train_station; score:0.123149
 	FP => Iran:[549,553]; score:1.000000; title:Iran; score:0.171465
 	FP => English-language:[413,429]; score:1.000000; title:English_language; score:0.120336
@@ -2546,8 +2525,8 @@ P/R/F:0.06410257/0.625/0.116279066; tpCount:5.0; fpCount:73.0; fnCount:3.0
 	FP => Prague:[1306,1312]; score:1.000000; title:Prague; score:0.148872
 	FP => Iran:[985,989]; score:1.000000; title:Iran; score:0.171465
 	FP => Iran:[473,477]; score:1.000000; title:Iran; score:0.171465
- => censored:[1125,1133]; score:1.000000; title:Censorship; score:0.124776
 	FP => Foreign Minister:[246,262]; score:1.000000; title:Foreign_minister; score:0.116081
+ => censored:[1125,1133]; score:1.000000; title:Censorship; score:0.124776
 P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 [APW19981106_0920.htm]
 ***************** Gold Standard: ***********************
@@ -2561,8 +2540,8 @@ P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 	FN => emissions:[235,244]; score:1.000000; title:Air pollution; score:1.000000
 	FN => hydrogen:[124,132]; score:1.000000; title:hydrogen; score:1.000000
  => hydroelectric plants:[1237,1257]; score:1.000000; title:Hydroelectricity; score:1.000000
- => Norsk Hydro ASA:[63,78]; score:1.000000; title:Norsk Hydro; score:1.000000
  => petroleum:[849,858]; score:1.000000; title:petroleum; score:1.000000
+ => Norsk Hydro ASA:[63,78]; score:1.000000; title:Norsk Hydro; score:1.000000
  => state-owned company:[267,286]; score:1.000000; title:Government-owned corporation; score:1.000000
  => power plant:[144,155]; score:1.000000; title:Power station; score:1.000000
 
@@ -2571,8 +2550,8 @@ P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 	FP => fields:[1170,1176]; score:1.000000; title:Fields_Medal; score:0.020267
 	FP => year:[637,641]; score:1.000000; title:University; score:0.047164
 	FP => plans:[99,104]; score:1.000000; title:Plan; score:0.047632
-	FP => plans:[357,362]; score:1.000000; title:Plan; score:0.047632
  => Oslo:[1490,1494]; score:1.000000; title:Oslo; score:0.066489
+	FP => plans:[357,362]; score:1.000000; title:Plan; score:0.047632
 	FP => kilometers:[1458,1468]; score:1.000000; title:Kilometre; score:0.055844
 	FP => early:[609,614]; score:1.000000; title:Early_Christianity; score:0.024302
 	FP => producer:[861,869]; score:1.000000; title:Film_producer; score:0.083115
@@ -2589,14 +2568,14 @@ P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 	FP => economically:[918,930]; score:1.000000; title:Economics; score:0.056836
 	FP => company:[647,654]; score:1.000000; title:Company; score:0.093935
 	FP => burning:[715,722]; score:1.000000; title:Combustion; score:0.094170
-	FP => hydrogen:[761,769]; score:1.000000; title:Hydrogen_economy; score:0.110745
  => natural gas:[809,820]; score:1.000000; title:Natural_gas; score:0.182995
+	FP => hydrogen:[761,769]; score:1.000000; title:Hydrogen_economy; score:0.110745
  => nitrogen:[1355,1363]; score:1.000000; title:Nitrogen; score:0.091775
 	FP => percent:[1004,1011]; score:1.000000; title:Percentage; score:0.047298
 	FP => plant:[1420,1425]; score:1.000000; title:Plant; score:0.071648
-	FP => hydrogen:[124,132]; score:1.000000; title:Hydrogen_economy; score:0.110745
 	FP => Friday:[105,111]; score:1.000000; title:Friday_the_13th; score:0.024136
 	FP => plans:[1284,1289]; score:1.000000; title:Plan; score:0.047632
+	FP => hydrogen:[124,132]; score:1.000000; title:Hydrogen_economy; score:0.110745
 	FP => completed:[549,558]; score:1.000000; title:Completeness; score:0.004080
 	FP => produce:[1336,1343]; score:1.000000; title:Produce; score:0.078589
 	FP => company:[13,20]; score:1.000000; title:Company; score:0.093935
@@ -2611,12 +2590,12 @@ P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 	FP => water:[1312,1317]; score:1.000000; title:Water_vapor; score:0.124001
  => hydroelectric plants:[1237,1257]; score:1.000000; title:Hydroelectricity; score:0.158891
 	FP => approval:[416,424]; score:1.000000; title:Approval_voting; score:0.006040
- => Norsk Hydro ASA:[63,78]; score:1.000000; title:Norsk_Hydro; score:0.100392
 	FP => Norsk Hydro:[827,838]; score:1.000000; title:Norsk_Hydro; score:0.100392
+ => Norsk Hydro ASA:[63,78]; score:1.000000; title:Norsk_Hydro; score:0.100392
 	FP => country:[1199,1206]; score:1.000000; title:Country; score:0.042652
- => electricity:[185,196]; score:1.000000; title:Electricity; score:0.131703
 	FP => electricity:[1209,1220]; score:1.000000; title:Electricity; score:0.131703
 	FP => offshore:[1161,1169]; score:1.000000; title:Offshore_drilling; score:0.082499
+ => electricity:[185,196]; score:1.000000; title:Electricity; score:0.131703
 	FP => oil:[1092,1095]; score:1.000000; title:Oil; score:0.117265
 	FP => major:[842,847]; score:1.000000; title:John_Major; score:0.039243
 	FP => Norsk Hydro:[1389,1400]; score:1.000000; title:Norsk_Hydro; score:0.100392
@@ -2644,9 +2623,9 @@ P/R/F:0.21428572/0.75/0.3333333; tpCount:15.0; fpCount:55.0; fnCount:5.0
 	FP => electricity:[744,755]; score:1.000000; title:Electricity; score:0.131703
  => petroleum:[849,858]; score:1.000000; title:Petroleum; score:0.132135
 	FP => island:[1441,1447]; score:1.000000; title:Island_Records; score:0.045290
- => power plant:[144,155]; score:1.000000; title:Power_station; score:0.173504
 	FP => carbon dioxide:[1370,1384]; score:1.000000; title:Carbon_dioxide; score:0.117173
 	FP => concern:[81,88]; score:1.000000; title:Concern_Worldwide; score:0.032716
+ => power plant:[144,155]; score:1.000000; title:Power_station; score:0.173504
 P/R/F:0.1375/0.78571427/0.23404256; tpCount:11.0; fpCount:69.0; fnCount:3.0
 [APW19980603_0791.htm]
 ***************** Gold Standard: ***********************
@@ -2661,18 +2640,18 @@ P/R/F:0.1375/0.78571427/0.23404256; tpCount:11.0; fpCount:69.0; fnCount:3.0
 	FN => Linear Accelerator:[691,709]; score:1.000000; title:Linear particle accelerator; score:1.000000
 	FN => tissues:[529,536]; score:1.000000; title:Tissue (biology); score:1.000000
  => clotting:[1117,1125]; score:1.000000; title:Coagulation; score:1.000000
-	FN => brain tumours:[87,100]; score:1.000000; title:Brain tumor; score:1.000000
  => breast cancer:[118,131]; score:1.000000; title:breast cancer; score:1.000000
+	FN => brain tumours:[87,100]; score:1.000000; title:Brain tumor; score:1.000000
 	FN => haemorrhage:[145,156]; score:1.000000; title:Bleeding; score:1.000000
- => Thailand:[327,335]; score:1.000000; title:Thailand; score:1.000000
  => three dimensional:[555,572]; score:1.000000; title:Three-dimensional space; score:1.000000
+ => Thailand:[327,335]; score:1.000000; title:Thailand; score:1.000000
 
 ************************ System Result: ***************************
+ => cancerous:[506,515]; score:1.000000; title:Cancer; score:0.152992
 	FP => THAILAND:[3,11]; score:1.000000; title:Thailand; score:0.032686
 	FP => blood:[1140,1145]; score:1.000000; title:Blood_bank; score:0.131119
- => cancerous:[506,515]; score:1.000000; title:Cancer; score:0.152992
-	FP => method:[575,581]; score:1.000000; title:Methodology; score:0.030274
  => conscious:[972,981]; score:1.000000; title:Consciousness; score:0.079924
+	FP => method:[575,581]; score:1.000000; title:Methodology; score:0.030274
 	FP => proper:[176,182]; score:1.000000; title:Tincture_(heraldry); score:0.001295
 	FP => fatal:[63,68]; score:1.000000; title:Fatalism; score:0.010420
 	FP => Hospital:[238,246]; score:1.000000; title:Hospital; score:0.202663
@@ -2710,7 +2689,6 @@ P/R/F:0.1375/0.78571427/0.23404256; tpCount:11.0; fpCount:69.0; fnCount:3.0
  => Bangkok:[251,258]; score:1.000000; title:Bangkok; score:0.040140
 	FP => equipment:[667,676]; score:1.000000; title:Tool; score:0.027488
 	FP => conjunction:[637,648]; score:1.000000; title:Conjunction_(astronomy_and_astrology); score:0.011534
-	FP => brain:[87,92]; score:1.000000; title:Brain; score:0.199671
 	FP => patients:[958,966]; score:1.000000; title:Patient; score:0.161565
 	FP => technology:[730,740]; score:1.000000; title:Technology; score:0.056138
 	FP => diseases:[1064,1072]; score:1.000000; title:Disease; score:0.110752
@@ -2727,7 +2705,7 @@ P/R/F:0.1375/0.78571427/0.23404256; tpCount:11.0; fpCount:69.0; fnCount:3.0
 	FP => normal:[855,861]; score:1.000000; title:Normal,_Illinois; score:0.004256
 	FP => embedded:[788,796]; score:1.000000; title:Embedded_system; score:0.028071
 	FP => computers:[944,953]; score:1.000000; title:Computer; score:0.065795
-P/R/F:0.13559322/0.5/0.21333332; tpCount:8.0; fpCount:51.0; fnCount:8.0
+P/R/F:0.13793103/0.5/0.2162162; tpCount:8.0; fpCount:50.0; fnCount:8.0
 [APW19990827_0137.htm]
 ***************** Gold Standard: ***********************
  => e-mail:[187,193]; score:1.000000; title:E-mail; score:1.000000
@@ -2735,8 +2713,8 @@ P/R/F:0.13559322/0.5/0.21333332; tpCount:8.0; fpCount:51.0; fnCount:8.0
  => The Charlotte Observer:[528,550]; score:1.000000; title:The Charlotte Observer; score:1.000000
 	FN => home-equity:[892,903]; score:1.000000; title:Home equity; score:1.000000
 	FN => hostile environment:[485,504]; score:1.000000; title:Hostile environment sexual harassment; score:1.000000
-	FN => First Union:[59,70]; score:1.000000; title:Wachovia; score:1.000000
 	FN => legal claims:[1226,1238]; score:1.000000; title:Claim (legal); score:1.000000
+	FN => First Union:[59,70]; score:1.000000; title:Wachovia; score:1.000000
  => sexual harassment:[1324,1341]; score:1.000000; title:sexual harassment; score:1.000000
  => Fortune 100:[1043,1054]; score:1.000000; title:Fortune 500; score:1.000000
  => server:[819,825]; score:1.000000; title:Server (computing); score:1.000000
@@ -2749,7 +2727,6 @@ P/R/F:0.13559322/0.5/0.21333332; tpCount:8.0; fpCount:51.0; fnCount:8.0
 	FP => spokeswoman:[291,302]; score:1.000000; title:Spokesperson; score:0.080357
 	FP => policy:[1162,1168]; score:1.000000; title:Policy; score:0.055089
 	FP => work:[1252,1256]; score:1.000000; title:Work_of_art; score:0.067209
-	FP => legal:[1226,1231]; score:1.000000; title:Law; score:0.074678
 	FP => Corp.:[73,78]; score:1.000000; title:Corporation; score:0.110836
 	FP => confirmed:[249,258]; score:1.000000; title:Confirmation; score:0.046630
 	FP => company:[1391,1398]; score:1.000000; title:Company; score:0.101930
@@ -2816,13 +2793,13 @@ P/R/F:0.13559322/0.5/0.21333332; tpCount:8.0; fpCount:51.0; fnCount:8.0
 	FP => swift:[1105,1110]; score:1.000000; title:Jonathan_Swift; score:0.047737
 	FP => e-mail:[959,965]; score:1.000000; title:Email; score:0.087652
 	FP => Fires:[8,13]; score:1.000000; title:Fire; score:0.068438
-P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
+P/R/F:0.08219178/0.6/0.14457831; tpCount:6.0; fpCount:67.0; fnCount:4.0
 [APW19981109_1089.htm]
 ***************** Gold Standard: ***********************
 	FN => David Richardson:[1112,1128]; score:1.000000; title:David John Richardson; score:1.000000
  => Johannesburg:[1172,1184]; score:1.000000; title:Johannesburg; score:1.000000
-	FN => sports marketing:[1144,1160]; score:1.000000; title:Sports marketing; score:1.000000
 	FN => South African cricket:[734,755]; score:1.000000; title:South Africa national cricket team; score:1.000000
+	FN => sports marketing:[1144,1160]; score:1.000000; title:Sports marketing; score:1.000000
  => Brian Lara:[292,302]; score:1.000000; title:Brian Lara; score:1.000000
  => West Indies Cricket Board:[678,703]; score:1.000000; title:West Indies Cricket Board; score:1.000000
  => cricket:[167,174]; score:1.000000; title:cricket; score:1.000000
@@ -2832,8 +2809,8 @@ P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
  => Carl Hooper:[321,332]; score:1.000000; title:Carl Hooper; score:1.000000
  => wicketkeeper:[1096,1108]; score:1.000000; title:Wicket-keeper; score:1.000000
 	FN => West Indies:[91,102]; score:1.000000; title:Caribbean; score:1.000000
- => Clive Lloyd:[872,883]; score:1.000000; title:Clive Lloyd; score:1.000000
  => Joel Garner:[903,914]; score:1.000000; title:Joel Garner; score:1.000000
+ => Clive Lloyd:[872,883]; score:1.000000; title:Clive Lloyd; score:1.000000
 	FN => sponsorship:[1044,1055]; score:1.000000; title:Sponsor; score:1.000000
  => South Africa:[151,163]; score:1.000000; title:South Africa; score:1.000000
 
@@ -2849,12 +2826,12 @@ P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
 	FP => West Indies:[91,102]; score:1.000000; title:West_Indies_cricket_team; score:0.207511
 	FP => settlement:[529,539]; score:1.000000; title:Human_settlement; score:0.163061
  => Carl Hooper:[321,332]; score:1.000000; title:Carl_Hooper; score:0.157410
- => wicketkeeper:[1096,1108]; score:1.000000; title:Wicket-keeper; score:0.102832
 	FP => South Africa:[385,397]; score:1.000000; title:South_Africa; score:0.299911
+ => wicketkeeper:[1096,1108]; score:1.000000; title:Wicket-keeper; score:0.102832
 	FP => players:[105,112]; score:1.000000; title:The_Players_Championship; score:0.126579
 	FP => tour:[443,447]; score:1.000000; title:Tour_de_France; score:0.116177
-	FP => South African:[734,747]; score:1.000000; title:South_Africa; score:0.299911
 	FP => Monday:[789,795]; score:1.000000; title:Rick_Monday; score:0.022316
+	FP => South African:[734,747]; score:1.000000; title:South_Africa; score:0.299911
 	FP => captain:[308,315]; score:1.000000; title:Captain_(cricket); score:0.166414
 	FP => proposal:[1220,1228]; score:1.000000; title:The_Proposal_(film); score:0.008478
 	FP => LONDON:[3,9]; score:1.000000; title:London; score:0.113566
@@ -2875,15 +2852,15 @@ P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
 	FP => Earnings:[1190,1198]; score:1.000000; title:Income; score:0.070932
 	FP => West Indies Cricket Board:[238,263]; score:1.000000; title:West_Indies_Cricket_Board; score:0.246170
  => Johannesburg:[1172,1184]; score:1.000000; title:Johannesburg; score:0.224341
-	FP => sponsorship:[1044,1055]; score:1.000000; title:Sponsor_(commercial); score:0.133222
 	FP => days:[62,66]; score:1.000000; title:Iran_hostage_crisis; score:0.086108
+	FP => sponsorship:[1044,1055]; score:1.000000; title:Sponsor_(commercial); score:0.133222
 	FP => runs:[1136,1140]; score:1.000000; title:Diarrhea; score:0.044587
 	FP => crisis:[192,198]; score:1.000000; title:The_Crisis; score:0.064754
 	FP => superstar:[270,279]; score:1.000000; title:Superstar; score:0.056953
  => cricket:[167,174]; score:1.000000; title:Cricket; score:0.178030
 	FP => head:[725,729]; score:1.000000; title:Headland; score:0.079988
- => Clive Lloyd:[872,883]; score:1.000000; title:Clive_Lloyd; score:0.182539
  => Joel Garner:[903,914]; score:1.000000; title:Joel_Garner; score:0.125220
+ => Clive Lloyd:[872,883]; score:1.000000; title:Clive_Lloyd; score:0.182539
 	FP => head:[209,213]; score:1.000000; title:Headland; score:0.079988
 	FP => Team:[452,456]; score:1.000000; title:Team; score:0.090588
 	FP => Hooper:[493,499]; score:1.000000; title:Carl_Hooper; score:0.157410
@@ -2893,7 +2870,6 @@ P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
  => Brian Lara:[292,302]; score:1.000000; title:Brian_Lara; score:0.288326
  => Jimmy Adams:[545,556]; score:1.000000; title:Jimmy_Adams; score:0.188484
 	FP => refused:[364,371]; score:1.000000; title:Refused; score:0.033943
-	FP => cricket:[748,755]; score:1.000000; title:Cricket; score:0.178030
 	FP => firm:[1163,1167]; score:1.000000; title:Business; score:0.096243
 	FP => Lara:[484,488]; score:1.000000; title:Brian_Lara; score:0.288326
 	FP => captain:[343,350]; score:1.000000; title:Captain_(cricket); score:0.166414
@@ -2901,15 +2877,15 @@ P/R/F:0.08108108/0.6/0.14285713; tpCount:6.0; fpCount:68.0; fnCount:4.0
 	FP => Monday:[634,640]; score:1.000000; title:Rick_Monday; score:0.022316
 	FP => players:[577,584]; score:1.000000; title:The_Players_Championship; score:0.126579
  => South Africa:[151,163]; score:1.000000; title:South_Africa; score:0.299911
-P/R/F:0.17460318/0.64705884/0.275; tpCount:11.0; fpCount:52.0; fnCount:6.0
+P/R/F:0.17741935/0.64705884/0.278481; tpCount:11.0; fpCount:51.0; fnCount:6.0
 [APW19981120_1056.htm]
 ***************** Gold Standard: ***********************
 	FN => P.W. Botha:[130,140]; score:1.000000; title:Pieter Willem Botha; score:1.000000
  => Johannesburg:[721,733]; score:1.000000; title:Johannesburg; score:1.000000
 	FN => white rule:[194,204]; score:1.000000; title:Dominant minority; score:1.000000
  => prosecutor:[48,58]; score:1.000000; title:prosecutor; score:1.000000
- => contempt of court:[1152,1169]; score:1.000000; title:contempt of court; score:1.000000
 	FN => Truth and Reconciliation Commission (South Africa):[340,390]; score:1.000000; title:Truth and reconciliation commission; score:1.000000
+ => contempt of court:[1152,1169]; score:1.000000; title:contempt of court; score:1.000000
  => amnesty:[940,947]; score:1.000000; title:amnesty; score:1.000000
  => African National Congress:[645,670]; score:1.000000; title:African National Congress; score:1.000000
 	FN => rand:[1282,1286]; score:1.000000; title:South African rand; score:1.000000
@@ -2928,7 +2904,6 @@ P/R/F:0.17460318/0.64705884/0.275; tpCount:11.0; fpCount:52.0; fnCount:6.0
 	FP => bombing:[629,636]; score:1.000000; title:Bomb; score:0.045268
 	FP => rand:[1282,1286]; score:1.000000; title:RAND_Corporation; score:0.021486
 	FP => Friday:[64,70]; score:1.000000; title:Friday_the_13th; score:0.021621
-	FP => South Africa:[377,389]; score:1.000000; title:South_Africa; score:0.034996
 	FP => grant:[933,938]; score:1.000000; title:Grant_(money); score:0.027673
 	FP => month:[525,530]; score:1.000000; title:Month; score:0.012533
 	FP => 1980s:[817,822]; score:1.000000; title:1980s; score:0.023813
@@ -2968,9 +2943,9 @@ P/R/F:0.17460318/0.64705884/0.275; tpCount:11.0; fpCount:52.0; fnCount:6.0
 	FP => prosecute:[284,293]; score:1.000000; title:Prosecutor; score:0.181642
 	FP => apartheid:[109,118]; score:1.000000; title:South_Africa_under_apartheid; score:0.036225
 	FP => head of state:[796,809]; score:1.000000; title:Head_of_state; score:0.043458
+	FP => white:[194,199]; score:1.000000; title:White_people; score:0.033999
 	FP => President:[119,128]; score:1.000000; title:President; score:0.040060
 	FP => politically:[980,991]; score:1.000000; title:Politics; score:0.036576
-	FP => white:[194,199]; score:1.000000; title:White_people; score:0.033999
  => African National Congress:[645,670]; score:1.000000; title:African_National_Congress; score:0.049833
 	FP => amnesty:[1097,1104]; score:1.000000; title:Amnesty; score:0.070031
 	FP => report:[570,576]; score:1.000000; title:Report; score:0.024552
@@ -2978,25 +2953,24 @@ P/R/F:0.17460318/0.64705884/0.275; tpCount:11.0; fpCount:52.0; fnCount:6.0
 	FP => fine:[1301,1305]; score:1.000000; title:Fine_(penalty); score:0.057978
 	FP => Truth and Reconciliation Commission:[340,375]; score:1.000000; title:Truth_and_Reconciliation_Commission_(South_Africa); score:0.058331
 	FP => Botha:[602,607]; score:1.000000; title:Pik_Botha; score:0.014482
-	FP => rule:[200,204]; score:1.000000; title:Rule_of_law; score:0.046562
 	FP => trial:[37,42]; score:1.000000; title:Trial; score:0.076711
 	FP => confess:[969,976]; score:1.000000; title:Confession; score:0.054498
 	FP => insufficient evidence:[259,280]; score:1.000000; title:Legal_burden_of_proof; score:0.063379
 	FP => commission:[1207,1217]; score:1.000000; title:European_Commission; score:0.035148
 	FP => anti-:[756,761]; score:1.000000; title:ANTI-; score:0.002484
-P/R/F:0.072463766/0.5555556/0.12820514; tpCount:5.0; fpCount:64.0; fnCount:4.0
+P/R/F:0.07462686/0.5555556/0.13157894; tpCount:5.0; fpCount:62.0; fnCount:4.0
 [APW20000312_0050.htm]
 ***************** Gold Standard: ***********************
  => Contra:[578,584]; score:1.000000; title:Contras; score:1.000000
- => cancer:[1337,1343]; score:1.000000; title:Cancer; score:1.000000
  => diabetes:[1321,1329]; score:1.000000; title:Diabetes mellitus; score:1.000000
+ => cancer:[1337,1343]; score:1.000000; title:Cancer; score:1.000000
  => Mexico:[1089,1095]; score:1.000000; title:Mexico; score:1.000000
  => Pope John Paul II:[785,802]; score:1.000000; title:Pope John Paul II; score:1.000000
  => Hurricane Mitch:[825,840]; score:1.000000; title:Hurricane Mitch; score:1.000000
-	FN => National Autonomous University of Nicaragua:[1211,1254]; score:1.000000; title:National Autonomous University of Nicaragua; score:1.000000
-	FN => volcanic eruptions:[744,762]; score:1.000000; title:Volcano; score:1.000000
  => Managua:[224,231]; score:1.000000; title:Managua; score:1.000000
+	FN => volcanic eruptions:[744,762]; score:1.000000; title:Volcano; score:1.000000
  => civil war:[165,174]; score:1.000000; title:Civil war; score:1.000000
+	FN => National Autonomous University of Nicaragua:[1211,1254]; score:1.000000; title:National Autonomous University of Nicaragua; score:1.000000
 	FN => Nicaragua:[49,58]; score:1.000000; title:Nicaragua; score:1.000000
 	FN => Radio Nicaragua:[350,365]; score:1.000000; title:List of radio stations in Nicaragua; score:1.000000
  => Sandinista:[549,559]; score:1.000000; title:Sandinista National Liberation Front; score:1.000000
@@ -3019,8 +2993,8 @@ P/R/F:0.072463766/0.5555556/0.12820514; tpCount:5.0; fpCount:64.0; fnCount:4.0
 	FP => effort:[682,688]; score:1.000000; title:Energy; score:0.038196
 	FP => war:[705,708]; score:1.000000; title:War; score:0.087955
  => Sandinista:[549,559]; score:1.000000; title:Sandinista_National_Liberation_Front; score:0.071398
- => Central America:[1103,1118]; score:1.000000; title:Central_America; score:0.068777
 	FP => objectivity:[959,970]; score:1.000000; title:Journalism; score:0.114888
+ => Central America:[1103,1118]; score:1.000000; title:Central_America; score:0.068777
 	FP => Nicaragua:[491,500]; score:1.000000; title:Nicaragua; score:0.078742
 	FP => country:[652,659]; score:1.000000; title:Country; score:0.044216
 	FP => died:[215,219]; score:1.000000; title:Death; score:0.052630
@@ -3033,7 +3007,6 @@ P/R/F:0.072463766/0.5555556/0.12820514; tpCount:5.0; fpCount:64.0; fnCount:4.0
 	FP => Associated Press:[88,104]; score:1.000000; title:Associated_Press; score:0.212466
 	FP => Sunday:[1402,1408]; score:1.000000; title:Billy_Sunday; score:0.053856
 	FP => Managua:[1185,1192]; score:1.000000; title:Managua; score:0.060587
-	FP => Radio:[350,355]; score:1.000000; title:Radio; score:0.069811
 	FP => (AP):[61,65]; score:1.000000; title:Associated_Press; score:0.212466
 	FP => Eloy:[1050,1054]; score:1.000000; title:Saint_Eligius; score:0.017033
 	FP => vision:[982,988]; score:1.000000; title:Visionary; score:0.042138
@@ -3080,11 +3053,11 @@ P/R/F:0.072463766/0.5555556/0.12820514; tpCount:5.0; fpCount:64.0; fnCount:4.0
  => short-wave:[395,405]; score:1.000000; title:Shortwave; score:0.038880
 	FP => Associated Press:[1025,1041]; score:1.000000; title:Associated_Press; score:0.212466
 	FP => long:[242,246]; score:1.000000; title:Long_(finance); score:0.006761
-P/R/F:0.14473684/0.73333335/0.24175824; tpCount:11.0; fpCount:65.0; fnCount:4.0
+P/R/F:0.14666666/0.73333335/0.24444444; tpCount:11.0; fpCount:64.0; fnCount:4.0
 [APW19980624_0607.htm]
 ***************** Gold Standard: ***********************
- => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:1.000000
  => repatriation:[912,924]; score:1.000000; title:Repatriation; score:1.000000
+ => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:1.000000
 	FN => Tehran:[609,615]; score:1.000000; title:Tehran; score:1.000000
 	FN => Iraq:[48,52]; score:1.000000; title:Iraq; score:1.000000
 	FN => Iran:[60,64]; score:1.000000; title:Iran; score:1.000000
@@ -3141,8 +3114,8 @@ P/R/F:0.14473684/0.73333335/0.24175824; tpCount:11.0; fpCount:65.0; fnCount:4.0
 	FP => Red Cross:[1050,1059]; score:1.000000; title:International_Committee_of_the_Red_Cross; score:0.076802
 	FP => claims:[618,624]; score:1.000000; title:Claim_(patent); score:0.029720
 	FP => Iraqi:[797,802]; score:1.000000; title:Iraqi_people; score:0.056921
- => International Committee of the Red Cross:[975,1015]; score:1.000000; title:International_Committee_of_the_Red_Cross; score:0.076802
 	FP => long:[1294,1298]; score:1.000000; title:Long_(finance); score:0.037237
+ => International Committee of the Red Cross:[975,1015]; score:1.000000; title:International_Committee_of_the_Red_Cross; score:0.076802
  => Iran-Iraq war:[1168,1181]; score:1.000000; title:Iran–Iraq_War; score:0.114199
 	FP => Iraq:[812,816]; score:1.000000; title:Anglo-Iraqi_War; score:0.075135
 	FP => Iraq:[48,52]; score:1.000000; title:Anglo-Iraqi_War; score:0.075135
@@ -3157,9 +3130,9 @@ P/R/F:0.14473684/0.73333335/0.24175824; tpCount:11.0; fpCount:65.0; fnCount:4.0
 	FP => agreement:[174,183]; score:1.000000; title:Belfast_Agreement; score:0.056460
 	FP => killed:[1235,1241]; score:1.000000; title:Murder; score:0.058392
 	FP => Iraqis:[1094,1100]; score:1.000000; title:Iraqi_people; score:0.056921
+ => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:0.061360
 	FP => Iranian:[702,709]; score:1.000000; title:Iranian_peoples; score:0.043681
 	FP => Baghdad:[482,489]; score:1.000000; title:Baghdad; score:0.061360
- => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:0.061360
 	FP => Abdullah:[311,319]; score:1.000000; title:Abdullah_Abdullah; score:0.053735
 	FP => Iraq:[3,7]; score:1.000000; title:Anglo-Iraqi_War; score:0.075135
 	FP => Iraq:[643,647]; score:1.000000; title:Anglo-Iraqi_War; score:0.075135
@@ -3179,18 +3152,18 @@ P/R/F:0.064935066/0.5555556/0.116279066; tpCount:5.0; fpCount:72.0; fnCount:4.0
  => Munich, Germany:[1054,1069]; score:1.000000; title:Munich; score:1.000000
  => Prague:[557,563]; score:1.000000; title:Prague; score:1.000000
  => Communist:[1218,1227]; score:1.000000; title:Communism; score:1.000000
-	FN => Farsi:[924,929]; score:1.000000; title:Persian language; score:1.000000
 	FN => Czech government:[978,994]; score:1.000000; title:Politics of the Czech Republic; score:1.000000
-	FN => Radio Free Europe:[150,167]; score:1.000000; title:Radio Free Europe; score:1.000000
+	FN => Farsi:[924,929]; score:1.000000; title:Persian language; score:1.000000
  => ICJ:[475,478]; score:1.000000; title:International Court of Justice; score:1.000000
- => Soviet:[1112,1118]; score:1.000000; title:Soviet Union; score:1.000000
+	FN => Radio Free Europe:[150,167]; score:1.000000; title:Radio Free Europe; score:1.000000
  => the Hague:[91,100]; score:1.000000; title:the Hague; score:1.000000
+ => Soviet:[1112,1118]; score:1.000000; title:Soviet Union; score:1.000000
 	FN => Kamal Kharrazi:[234,248]; score:1.000000; title:Kamal Kharazi; score:1.000000
  => the Netherlands:[485,500]; score:1.000000; title:Netherlands; score:1.000000
-	FN => Czech:[582,587]; score:1.000000; title:Czech Republic; score:1.000000
  => Iran:[29,33]; score:1.000000; title:Iran; score:1.000000
- => Iron Curtain:[1154,1166]; score:1.000000; title:Iron Curtain; score:1.000000
+	FN => Czech:[582,587]; score:1.000000; title:Czech Republic; score:1.000000
  => collapse of communism:[1298,1319]; score:1.000000; title:Revolutions of 1989; score:1.000000
+ => Iron Curtain:[1154,1166]; score:1.000000; title:Iron Curtain; score:1.000000
  => Cold War:[1181,1189]; score:1.000000; title:Cold War; score:1.000000
  => Iraq:[789,793]; score:1.000000; title:Iraq; score:1.000000
 
@@ -3202,8 +3175,8 @@ P/R/F:0.064935066/0.5555556/0.116279066; tpCount:5.0; fpCount:72.0; fnCount:4.0
  => Prague:[557,563]; score:1.000000; title:Prague; score:0.151618
 	FP => International Court of Justice:[56,86]; score:1.000000; title:International_Court_of_Justice; score:0.096241
 	FP => Prague:[709,715]; score:1.000000; title:Prague; score:0.151618
- => Soviet:[1112,1118]; score:1.000000; title:Soviet_Union; score:0.085972
 	FP => radio:[265,270]; score:1.000000; title:Radio_broadcasting; score:0.194940
+ => Soviet:[1112,1118]; score:1.000000; title:Soviet_Union; score:0.085972
 	FP => funded:[142,148]; score:1.000000; title:Funding; score:0.065649
 	FP => Kamal:[234,239]; score:1.000000; title:Kamal_Haasan; score:0.028902
 	FP => day:[894,897]; score:1.000000; title:2Day_FM; score:0.073870
@@ -3224,11 +3197,11 @@ P/R/F:0.064935066/0.5555556/0.116279066; tpCount:5.0; fpCount:72.0; fnCount:4.0
 	FP => minute:[877,883]; score:1.000000; title:Minute; score:0.037401
  => Iran:[29,33]; score:1.000000; title:Iran; score:0.075837
 	FP => global:[113,119]; score:1.000000; title:Global_Television_Network; score:0.114123
- => Iron Curtain:[1154,1166]; score:1.000000; title:Iron_Curtain; score:0.109749
 	FP => countries:[1132,1141]; score:1.000000; title:Country; score:0.097276
  => collapse of communism:[1298,1319]; score:1.000000; title:Revolutions_of_1989; score:0.100768
- => Cold War:[1181,1189]; score:1.000000; title:Cold_War; score:0.085635
+ => Iron Curtain:[1154,1166]; score:1.000000; title:Iron_Curtain; score:0.109749
 	FP => complaints:[353,363]; score:1.000000; title:Complaint; score:0.041913
+ => Cold War:[1181,1189]; score:1.000000; title:Cold_War; score:0.085635
 	FP => program:[884,891]; score:1.000000; title:Television_program; score:0.076503
 	FP => Prague:[1268,1274]; score:1.000000; title:Prague; score:0.151618
 	FP => broadcast:[860,869]; score:1.000000; title:Broadcasting; score:0.203900
@@ -3308,7 +3281,6 @@ P/R/F:0.21538462/0.7368421/0.33333334; tpCount:14.0; fpCount:51.0; fnCount:5.0
 	FP => guru:[79,83]; score:1.000000; title:Guru; score:0.025527
 	FP => defense:[1240,1247]; score:1.000000; title:Defense_(legal); score:0.110613
 	FP => meditate:[1202,1210]; score:1.000000; title:Meditation; score:0.033131
-	FP => sarin:[400,405]; score:1.000000; title:Sarin; score:0.060626
 	FP => court:[47,52]; score:1.000000; title:Court; score:0.098376
 	FP => accused:[837,844]; score:1.000000; title:The_Accused_(1988_film); score:0.037665
 	FP => court:[1072,1077]; score:1.000000; title:Court; score:0.098376
@@ -3329,7 +3301,7 @@ P/R/F:0.21538462/0.7368421/0.33333334; tpCount:14.0; fpCount:51.0; fnCount:5.0
 	FP => quoted:[1159,1165]; score:1.000000; title:Quotation; score:0.013939
 	FP => subways:[141,148]; score:1.000000; title:The_Subways; score:0.007819
 	FP => attack:[1132,1138]; score:1.000000; title:September_11_attacks; score:0.071932
-P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
+P/R/F:0.13461539/0.6363636/0.22222222; tpCount:7.0; fpCount:45.0; fnCount:4.0
 [APW19981109_0152.htm]
 ***************** Gold Standard: ***********************
  => Communist:[1248,1257]; score:1.000000; title:Communism; score:1.000000
@@ -3343,12 +3315,12 @@ P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
  => the Hague:[127,136]; score:1.000000; title:the Hague; score:1.000000
  => Soviet:[1142,1148]; score:1.000000; title:Soviet Union; score:1.000000
  => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:1.000000
- => Iron Curtain:[1184,1196]; score:1.000000; title:Iron Curtain; score:1.000000
  => Iraq:[819,823]; score:1.000000; title:Iraq; score:1.000000
+ => Iron Curtain:[1184,1196]; score:1.000000; title:Iron Curtain; score:1.000000
  => Cold War:[1211,1219]; score:1.000000; title:Cold War; score:1.000000
+	FN => Czech:[615,620]; score:1.000000; title:Czech Republic; score:1.000000
 	FN => Radio Free Europe:[186,203]; score:1.000000; title:Radio Free Europe; score:1.000000
  => ICJ:[511,514]; score:1.000000; title:International Court of Justice; score:1.000000
-	FN => Czech:[615,620]; score:1.000000; title:Czech Republic; score:1.000000
 
 ************************ System Result: ***************************
 	FP => service:[971,978]; score:1.000000; title:Service_(economics); score:0.103070
@@ -3360,8 +3332,8 @@ P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
 	FP => political:[715,724]; score:1.000000; title:Politics; score:0.175367
 	FP => trial:[842,847]; score:1.000000; title:Trial; score:0.127028
 	FP => August:[1030,1036]; score:1.000000; title:Augusto_Pinochet; score:0.176610
- => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:0.126373
 	FP => period:[848,854]; score:1.000000; title:Frequency; score:0.091969
+ => Munich, Germany:[1084,1099]; score:1.000000; title:Munich; score:0.126373
 	FP => station:[776,783]; score:1.000000; title:Television_channel; score:0.132241
 	FP => radio:[654,659]; score:1.000000; title:Radio_broadcasting; score:0.159206
  => ICJ:[511,514]; score:1.000000; title:International_Court_of_Justice; score:0.205376
@@ -3378,8 +3350,8 @@ P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
  => Soviet:[1142,1148]; score:1.000000; title:Soviet_Union; score:0.185391
 	FP => economic:[702,710]; score:1.000000; title:Economy; score:0.147456
 	FP => day:[924,927]; score:1.000000; title:Sandra_Day_O'Connor; score:0.144790
- => Iraq:[819,823]; score:1.000000; title:Iraq; score:0.237815
 	FP => West:[1234,1238]; score:1.000000; title:Western_world; score:0.181872
+ => Iraq:[819,823]; score:1.000000; title:Iraq; score:0.237815
 	FP => radio:[301,306]; score:1.000000; title:Radio_broadcasting; score:0.159206
 	FP => International Court of Justice:[92,122]; score:1.000000; title:International_Court_of_Justice; score:0.205376
 	FP => Iran:[931,935]; score:1.000000; title:Iran; score:0.321552
@@ -3402,8 +3374,8 @@ P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
 	FP => news:[1133,1137]; score:1.000000; title:News_International; score:0.166987
 	FP => Prague:[1297,1303]; score:1.000000; title:Prague; score:0.296008
 	FP => complaints:[389,399]; score:1.000000; title:Complaint; score:0.078877
-	FP => level:[689,694]; score:1.000000; title:COBOL; score:0.124190
  => Communist:[1248,1257]; score:1.000000; title:Communism; score:0.168106
+	FP => level:[689,694]; score:1.000000; title:COBOL; score:0.124190
  => Iran:[65,69]; score:1.000000; title:Iran; score:0.321552
 	FP => broadcasts:[795,805]; score:1.000000; title:Broadcasting; score:0.169748
 	FP => quoted:[245,251]; score:1.000000; title:Quotation; score:0.050248
@@ -3423,10 +3395,10 @@ P/R/F:0.13207547/0.6363636/0.21875; tpCount:7.0; fpCount:46.0; fnCount:4.0
 P/R/F:0.17391305/0.7058824/0.27906975; tpCount:12.0; fpCount:57.0; fnCount:5.0
 [APW19980615_0417.htm]
 ***************** Gold Standard: ***********************
-	FN => French police:[545,558]; score:1.000000; title:French National Police; score:1.000000
  => damages:[44,51]; score:1.000000; title:Damages; score:1.000000
-	FN => substance abuse:[1084,1099]; score:1.000000; title:Substance abuse; score:1.000000
  => libel:[35,40]; score:1.000000; title:Defamation; score:1.000000
+	FN => French police:[545,558]; score:1.000000; title:French National Police; score:1.000000
+	FN => substance abuse:[1084,1099]; score:1.000000; title:Substance abuse; score:1.000000
  => Cannes Film Festival:[311,331]; score:1.000000; title:Cannes Film Festival; score:1.000000
 	FN => The Mail on Sunday:[339,357]; score:1.000000; title:Daily Mail; score:1.000000
 	FN => drug:[278,282]; score:1.000000; title:Drug; score:1.000000
@@ -3513,17 +3485,17 @@ P/R/F:0.08450704/0.54545456/0.14634146; tpCount:6.0; fpCount:65.0; fnCount:5.0
 	FN => Sibneft:[241,248]; score:1.000000; title:Gazprom Neft; score:1.000000
  => mayor:[1193,1198]; score:1.000000; title:Mayor; score:1.000000
  => coal:[741,745]; score:1.000000; title:Coal; score:1.000000
- => Russia:[506,512]; score:1.000000; title:Russia; score:1.000000
- => embezzlement:[1235,1247]; score:1.000000; title:Embezzlement; score:1.000000
 	FN => Leninsk-Kuznetsky:[1123,1140]; score:1.000000; title:Leninsk-Kuznetsky; score:1.000000
+ => embezzlement:[1235,1247]; score:1.000000; title:Embezzlement; score:1.000000
+ => Russia:[506,512]; score:1.000000; title:Russia; score:1.000000
  => tax fraud:[1218,1227]; score:1.000000; title:Tax avoidance and tax evasion; score:1.000000
  => mogul:[587,592]; score:1.000000; title:Business magnate; score:1.000000
 	FN => Gennady Konyakhin:[1266,1283]; score:1.000000; title:Gennady Konyakhin; score:1.000000
  => coal-mining:[783,794]; score:1.000000; title:Coal mining; score:1.000000
 	FN => Russian:[44,51]; score:1.000000; title:Russians; score:1.000000
  => Siberia:[394,401]; score:1.000000; title:Siberia; score:1.000000
- => oil products:[721,733]; score:1.000000; title:Oil; score:1.000000
 	FN => Kemerovo:[364,372]; score:1.000000; title:Kemerovo; score:1.000000
+ => oil products:[721,733]; score:1.000000; title:Oil; score:1.000000
 	FN => mobsters:[992,1000]; score:1.000000; title:Mobsters; score:1.000000
  => organized crime:[159,174]; score:1.000000; title:Organized crime; score:1.000000
 	FN => mob:[1324,1327]; score:1.000000; title:Russian Mafia; score:1.000000
@@ -3562,8 +3534,8 @@ P/R/F:0.08450704/0.54545456/0.14634146; tpCount:6.0; fpCount:65.0; fnCount:5.0
 	FP => main:[777,781]; score:1.000000; title:Main_Street; score:0.050456
 	FP => Wednesday:[96,105]; score:1.000000; title:Sheffield_Wednesday_F.C.; score:0.037691
 	FP => murder:[914,920]; score:1.000000; title:Murder; score:0.085491
- => Siberia:[394,401]; score:1.000000; title:Siberia; score:0.098061
 	FP => city:[1187,1191]; score:1.000000; title:City; score:0.089083
+ => Siberia:[394,401]; score:1.000000; title:Siberia; score:0.098061
 	FP => comment:[878,885]; score:1.000000; title:SQL; score:0.020448
 	FP => Yuri:[216,220]; score:1.000000; title:Yuri_Gagarin; score:0.046455
 	FP => businessman:[54,65]; score:1.000000; title:Businessperson; score:0.088168
@@ -3592,8 +3564,8 @@ P/R/F:0.08450704/0.54545456/0.14634146; tpCount:6.0; fpCount:65.0; fnCount:5.0
 	FP => arrested:[1205,1213]; score:1.000000; title:Arrest; score:0.069226
 	FP => Russia:[970,976]; score:1.000000; title:Russia; score:0.124433
 	FP => year:[1172,1176]; score:1.000000; title:University; score:0.059686
-	FP => Russian:[44,51]; score:1.000000; title:Russia; score:0.124433
 	FP => controversial:[563,576]; score:1.000000; title:Controversy; score:0.056901
+	FP => Russian:[44,51]; score:1.000000; title:Russia; score:0.124433
  => organized crime:[159,174]; score:1.000000; title:Organized_crime; score:0.094666
 	FP => Businessman:[3,14]; score:1.000000; title:Businessperson; score:0.088168
 	FP => killing:[177,184]; score:1.000000; title:The_Killing_(film); score:0.017635
@@ -3604,9 +3576,9 @@ P/R/F:0.18461539/0.6/0.28235295; tpCount:12.0; fpCount:53.0; fnCount:8.0
  => human rights:[146,158]; score:1.000000; title:human rights; score:1.000000
  => commissioners:[1244,1257]; score:1.000000; title:Commissioner; score:1.000000
  => Angola:[1479,1485]; score:1.000000; title:Angola; score:1.000000
-	FN => South African Broadcasting Corp.:[669,701]; score:1.000000; title:South African Broadcasting Corporation; score:1.000000
- => South Africa:[12,24]; score:1.000000; title:South Africa; score:1.000000
  => torture:[184,191]; score:1.000000; title:Torture; score:1.000000
+ => South Africa:[12,24]; score:1.000000; title:South Africa; score:1.000000
+	FN => South African Broadcasting Corp.:[669,701]; score:1.000000; title:South African Broadcasting Corporation; score:1.000000
  => bomb:[199,203]; score:1.000000; title:Bomb; score:1.000000
  => land mines:[1416,1426]; score:1.000000; title:Land mine; score:1.000000
  => African National Congress:[114,139]; score:1.000000; title:African National Congress; score:1.000000
@@ -3621,8 +3593,8 @@ P/R/F:0.18461539/0.6/0.28235295; tpCount:12.0; fpCount:53.0; fnCount:8.0
 	FP => advance:[1004,1011]; score:1.000000; title:Advance_Publications; score:0.019602
 	FP => white:[611,616]; score:1.000000; title:White_people; score:0.118943
 	FP => report:[539,545]; score:1.000000; title:Report; score:0.104421
- => land mines:[1416,1426]; score:1.000000; title:Land_mine; score:0.110215
 	FP => border:[1432,1438]; score:1.000000; title:Border; score:0.068006
+ => land mines:[1416,1426]; score:1.000000; title:Land_mine; score:0.110215
 	FP => meeting:[1230,1237]; score:1.000000; title:Meeting; score:0.065168
 	FP => nervous:[1185,1192]; score:1.000000; title:Nervous_system; score:0.033535
 	FP => human rights violations:[1073,1096]; score:1.000000; title:Human_rights; score:0.267390
@@ -3645,7 +3617,6 @@ P/R/F:0.18461539/0.6/0.28235295; tpCount:12.0; fpCount:53.0; fnCount:8.0
 	FP => abuses:[1446,1452]; score:1.000000; title:Abuse; score:0.199991
  => torture:[184,191]; score:1.000000; title:Torture; score:0.222979
 	FP => politically:[786,797]; score:1.000000; title:Politics; score:0.115825
-	FP => Broadcasting:[683,695]; score:1.000000; title:Broadcasting; score:0.152752
 	FP => intention:[1033,1042]; score:1.000000; title:Intention; score:0.029721
 	FP => farms:[1439,1444]; score:1.000000; title:Farm; score:0.062317
 	FP => led:[271,274]; score:1.000000; title:Lead; score:0.057743
@@ -3675,7 +3646,6 @@ P/R/F:0.18461539/0.6/0.28235295; tpCount:12.0; fpCount:53.0; fnCount:8.0
 	FP => gross:[826,831]; score:1.000000; title:Gross_(economics); score:0.019858
 	FP => abuses:[90,96]; score:1.000000; title:Abuse; score:0.199991
 	FP => ANC:[1060,1063]; score:1.000000; title:African_National_Congress; score:0.235382
-	FP => rule:[303,307]; score:1.000000; title:Rule_of_law; score:0.160079
 	FP => state broadcaster:[219,236]; score:1.000000; title:Public_broadcasting; score:0.112271
 	FP => officials:[1114,1123]; score:1.000000; title:Official; score:0.086560
 	FP => military:[1460,1468]; score:1.000000; title:Military; score:0.094116
@@ -3692,16 +3662,15 @@ P/R/F:0.18461539/0.6/0.28235295; tpCount:12.0; fpCount:53.0; fnCount:8.0
  => human rights violations:[146,169]; score:1.000000; title:Human_rights; score:0.267390
 	FP => letter:[989,995]; score:1.000000; title:Letter_to_the_editor; score:0.058621
 	FP => Monday:[245,251]; score:1.000000; title:Rick_Monday; score:0.023995
-	FP => Corp.:[696,701]; score:1.000000; title:Corporation; score:0.105176
 	FP => era:[595,598]; score:1.000000; title:Equal_Rights_Amendment; score:0.114271
 	FP => era:[86,89]; score:1.000000; title:Equal_Rights_Amendment; score:0.114271
-P/R/F:0.125/0.7692308/0.21505377; tpCount:10.0; fpCount:70.0; fnCount:3.0
+P/R/F:0.12987013/0.7692308/0.22222224; tpCount:10.0; fpCount:67.0; fnCount:3.0
 [APW19980624_0436.htm]
 ***************** Gold Standard: ***********************
- => International Committee of the Red Cross:[981,1021]; score:1.000000; title:International Committee of the Red Cross; score:1.000000
  => Tehran:[612,618]; score:1.000000; title:Tehran; score:1.000000
- => delegation:[291,301]; score:1.000000; title:Delegation; score:1.000000
  => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:1.000000
+ => delegation:[291,301]; score:1.000000; title:Delegation; score:1.000000
+ => International Committee of the Red Cross:[981,1021]; score:1.000000; title:International Committee of the Red Cross; score:1.000000
  => detainees:[882,891]; score:1.000000; title:Detainee; score:1.000000
  => Iraq:[48,52]; score:1.000000; title:Iraq; score:1.000000
  => Iran-Iraq war:[1174,1187]; score:1.000000; title:Iran-Iraq war; score:1.000000
@@ -3728,8 +3697,8 @@ P/R/F:0.125/0.7692308/0.21505377; tpCount:10.0; fpCount:70.0; fnCount:3.0
 	FP => senior:[244,250]; score:1.000000; title:Senior_Bowl; score:0.036144
 	FP => Iranian:[282,289]; score:1.000000; title:Iranian_peoples; score:0.153737
 	FP => agency:[430,436]; score:1.000000; title:Central_Intelligence_Agency; score:0.129880
-	FP => left:[480,484]; score:1.000000; title:Left-wing_politics; score:0.069779
  => Iraq:[48,52]; score:1.000000; title:Iraq; score:0.164293
+	FP => left:[480,484]; score:1.000000; title:Left-wing_politics; score:0.069779
 	FP => Iran:[342,346]; score:1.000000; title:Iranian_Revolution; score:0.215439
 	FP => Iraq:[815,819]; score:1.000000; title:Iraq; score:0.164293
 	FP => Iran:[1110,1114]; score:1.000000; title:Iranian_Revolution; score:0.215439
@@ -3752,10 +3721,10 @@ P/R/F:0.125/0.7692308/0.21505377; tpCount:10.0; fpCount:70.0; fnCount:3.0
  => International Committee of the Red Cross:[981,1021]; score:1.000000; title:International_Committee_of_the_Red_Cross; score:0.155421
 	FP => long:[1300,1304]; score:1.000000; title:Long_(finance); score:0.023775
 	FP => issue:[39,44]; score:1.000000; title:Issues_(Korn_album); score:0.036194
-	FP => Iran:[60,64]; score:1.000000; title:Iranian_Revolution; score:0.215439
 	FP => civil law:[871,880]; score:1.000000; title:Civil_law_(legal_system); score:0.051455
 	FP => Iraqi:[800,805]; score:1.000000; title:Iraqi_people; score:0.154429
 	FP => comment:[519,526]; score:1.000000; title:Request_for_Comments; score:0.040043
+	FP => Iran:[60,64]; score:1.000000; title:Iranian_Revolution; score:0.215439
 	FP => long:[664,668]; score:1.000000; title:Long_(finance); score:0.023775
 	FP => Iraq:[655,659]; score:1.000000; title:Iraq; score:0.164293
 	FP => head:[334,338]; score:1.000000; title:Head; score:0.046509
@@ -3774,17 +3743,17 @@ P/R/F:0.125/0.7692308/0.21505377; tpCount:10.0; fpCount:70.0; fnCount:3.0
 	FP => Red Cross:[1056,1065]; score:1.000000; title:International_Committee_of_the_Red_Cross; score:0.155421
 	FP => details:[453,460]; score:1.000000; title:Details_(magazine); score:0.034382
 	FP => agreement:[174,183]; score:1.000000; title:Belfast_Agreement; score:0.062390
-	FP => aware:[1130,1135]; score:1.000000; title:Awareness; score:0.016577
- => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:0.157805
  => Tehran:[612,618]; score:1.000000; title:Tehran; score:0.140458
+ => Baghdad:[226,233]; score:1.000000; title:Baghdad; score:0.157805
+	FP => aware:[1130,1135]; score:1.000000; title:Awareness; score:0.016577
 	FP => Abdullah:[314,322]; score:1.000000; title:Abdullah_Abdullah; score:0.079053
 	FP => Iranian:[705,712]; score:1.000000; title:Iranian_peoples; score:0.153737
 	FP => issue:[1282,1287]; score:1.000000; title:Issues_(Korn_album); score:0.036194
 	FP => sign:[14,18]; score:1.000000; title:Sign_language; score:0.081356
 	FP => Baghdad:[485,492]; score:1.000000; title:Baghdad; score:0.157805
-	FP => Iraqi:[379,384]; score:1.000000; title:Iraqi_people; score:0.154429
 	FP => Iraqi:[251,256]; score:1.000000; title:Iraqi_people; score:0.154429
 	FP => deal:[81,85]; score:1.000000; title:Kim_Deal; score:0.028155
+	FP => Iraqi:[379,384]; score:1.000000; title:Iraqi_people; score:0.154429
 	FP => official:[369,377]; score:1.000000; title:Official; score:0.085971
 	FP => held:[638,642]; score:1.000000; title:Al_Held; score:0.013251
  => repatriation:[918,930]; score:1.000000; title:Repatriation; score:0.096123
@@ -3795,27 +3764,27 @@ P/R/F:0.116883114/0.8181818/0.20454545; tpCount:9.0; fpCount:68.0; fnCount:2.0
  => trains:[117,123]; score:1.000000; title:Train; score:1.000000
  => Germany:[128,135]; score:1.000000; title:Germany; score:1.000000
 	FN => planes:[104,110]; score:1.000000; title:Fixed-wing aircraft; score:1.000000
- => Deutsche Bahn:[641,654]; score:1.000000; title:Deutsche Bahn; score:1.000000
  => Cologne:[500,507]; score:1.000000; title:Cologne; score:1.000000
+ => Deutsche Bahn:[641,654]; score:1.000000; title:Deutsche Bahn; score:1.000000
  => Frankfurt:[355,364]; score:1.000000; title:Frankfurt; score:1.000000
 	FN => main hub:[340,348]; score:1.000000; title:Airline hub; score:1.000000
 	FN => German railway:[15,29]; score:1.000000; title:Rail transport in Germany; score:1.000000
  => United:[1073,1079]; score:1.000000; title:United Airlines; score:1.000000
-	FN => SAS:[1087,1090]; score:1.000000; title:Scandinavian Airlines System; score:1.000000
  => Wuerzburg:[1002,1011]; score:1.000000; title:Würzburg; score:1.000000
+	FN => SAS:[1087,1090]; score:1.000000; title:Scandinavian Airlines System; score:1.000000
 	FN => landing slots:[554,567]; score:1.000000; title:Landing slots; score:1.000000
  => Lufthansa:[155,164]; score:1.000000; title:Lufthansa; score:1.000000
 
 ************************ System Result: ***************************
 	FP => closer:[39,45]; score:1.000000; title:The_Closer; score:0.024304
 	FP => cities:[962,968]; score:1.000000; title:Minneapolis_–_Saint_Paul; score:0.076522
-	FP => SAS:[1087,1090]; score:1.000000; title:Special_Air_Service; score:0.095782
 	FP => hops:[470,474]; score:1.000000; title:Hops; score:0.035841
+	FP => SAS:[1087,1090]; score:1.000000; title:Special_Air_Service; score:0.095782
 	FP => shift:[71,76]; score:1.000000; title:Shift_work; score:0.065339
 	FP => Lufthansa:[630,639]; score:1.000000; title:Lufthansa; score:0.167297
 	FP => Nuremberg:[1018,1027]; score:1.000000; title:Nuremberg; score:0.111377
- => Deutsche Bahn:[641,654]; score:1.000000; title:Deutsche_Bahn; score:0.229225
 	FP => in 2001:[402,409]; score:1.000000; title:2001; score:0.071427
+ => Deutsche Bahn:[641,654]; score:1.000000; title:Deutsche_Bahn; score:0.229225
 	FP => Monday:[217,223]; score:1.000000; title:Monday; score:0.030562
 	FP => Duesseldorf:[970,981]; score:1.000000; title:Düsseldorf; score:0.113607
 	FP => catch:[764,769]; score:1.000000; title:Catch_and_release; score:0.011163
@@ -3855,12 +3824,12 @@ P/R/F:0.116883114/0.8181818/0.20454545; tpCount:9.0; fpCount:68.0; fnCount:2.0
  => Frankfurt:[355,364]; score:1.000000; title:Frankfurt; score:0.118354
 	FP => Frankfurt:[485,494]; score:1.000000; title:Frankfurt; score:0.118354
 	FP => flights:[603,610]; score:1.000000; title:Flight; score:0.125377
-	FP => German railway:[15,29]; score:1.000000; title:Deutsche_Bahn; score:0.229225
 	FP => Lufthansa:[327,336]; score:1.000000; title:Lufthansa; score:0.167297
+	FP => German railway:[15,29]; score:1.000000; title:Deutsche_Bahn; score:0.229225
 	FP => place:[813,818]; score:1.000000; title:Location_(geography); score:0.043795
 	FP => drop:[860,864]; score:1.000000; title:Ying_Yang_Twins; score:0.013516
- => United:[1073,1079]; score:1.000000; title:United_Airlines; score:0.126646
 	FP => pfg:[1539,1542]; score:1.000000; title:Bulgarian_A_Professional_Football_Group; score:0.016360
+ => United:[1073,1079]; score:1.000000; title:United_Airlines; score:0.126646
 	FP => airport:[1295,1302]; score:1.000000; title:Airport; score:0.115701
 	FP => train station:[1312,1325]; score:1.000000; title:Train_station; score:0.265158
 	FP => train:[318,323]; score:1.000000; title:Train; score:0.192544
@@ -3871,7 +3840,6 @@ P/R/F:0.116883114/0.8181818/0.20454545; tpCount:9.0; fpCount:68.0; fnCount:2.0
 	FP => letter of intent:[200,216]; score:1.000000; title:Letter_of_intent; score:0.023870
 	FP => working group:[1186,1199]; score:1.000000; title:Working_group; score:0.028939
 	FP => service:[923,930]; score:1.000000; title:Service_(economics); score:0.074538
-	FP => hub:[345,348]; score:1.000000; title:Fallout_(video_game); score:0.022514
 	FP => cooperation:[46,57]; score:1.000000; title:Cooperation; score:0.038870
 	FP => service:[791,798]; score:1.000000; title:Service_(economics); score:0.074538
 	FP => German railway:[176,190]; score:1.000000; title:Deutsche_Bahn; score:0.229225
@@ -3885,19 +3853,19 @@ P/R/F:0.116883114/0.8181818/0.20454545; tpCount:9.0; fpCount:68.0; fnCount:2.0
 	FP => train station:[715,728]; score:1.000000; title:Train_station; score:0.265158
 	FP => Lufthansa:[1053,1062]; score:1.000000; title:Lufthansa; score:0.167297
 	FP => railway:[1384,1391]; score:1.000000; title:Rail_transport; score:0.129469
- => Lufthansa:[155,164]; score:1.000000; title:Lufthansa; score:0.167297
 	FP => Lufthansa:[411,420]; score:1.000000; title:Lufthansa; score:0.167297
-P/R/F:0.1125/0.64285713/0.19148934; tpCount:9.0; fpCount:71.0; fnCount:5.0
+ => Lufthansa:[155,164]; score:1.000000; title:Lufthansa; score:0.167297
+P/R/F:0.11392405/0.64285713/0.1935484; tpCount:9.0; fpCount:70.0; fnCount:5.0
 [APW19980811_0512.htm]
 ***************** Gold Standard: ***********************
  => nerve gas:[1216,1225]; score:1.000000; title:Nerve agent; score:1.000000
- => numbness:[604,612]; score:1.000000; title:Paresthesia; score:1.000000
 	FN => sodium azide:[890,902]; score:1.000000; title:sodium azide; score:1.000000
+ => numbness:[604,612]; score:1.000000; title:Paresthesia; score:1.000000
 	FN => police:[242,248]; score:1.000000; title:Law enforcement in Japan; score:1.000000
 	FN => wood preservative:[455,472]; score:1.000000; title:Lumber; score:1.000000
-	FN => copycat:[827,834]; score:1.000000; title:Copycat crimes; score:1.000000
- => sodium compound:[179,194]; score:1.000000; title:Sodium; score:1.000000
  => toxic:[170,175]; score:1.000000; title:Toxicity; score:1.000000
+	FN => sodium compound:[179,194]; score:1.000000; title:Sodium; score:1.000000
+	FN => copycat:[827,834]; score:1.000000; title:Copycat crimes; score:1.000000
  => central nervous system:[215,237]; score:1.000000; title:central nervous system; score:1.000000
  => Niigata:[487,494]; score:1.000000; title:Niigata Prefecture; score:1.000000
  => curry:[701,706]; score:1.000000; title:Curry; score:1.000000
@@ -3908,8 +3876,8 @@ P/R/F:0.1125/0.64285713/0.19148934; tpCount:9.0; fpCount:71.0; fnCount:5.0
  => arsenic:[736,743]; score:1.000000; title:arsenic; score:1.000000
  => air-bag:[962,969]; score:1.000000; title:Airbag; score:1.000000
  => Aum Shinri Kyo:[1272,1286]; score:1.000000; title:Aum Shinrikyo; score:1.000000
- => tea:[33,36]; score:1.000000; title:Tea; score:1.000000
  => Tokyo:[539,544]; score:1.000000; title:Tokyo; score:1.000000
+ => tea:[33,36]; score:1.000000; title:Tea; score:1.000000
 	FN => Niigata City:[1169,1181]; score:1.000000; title:Niigata, Niigata; score:1.000000
 
 ************************ System Result: ***************************
@@ -3938,7 +3906,6 @@ P/R/F:0.1125/0.64285713/0.19148934; tpCount:9.0; fpCount:71.0; fnCount:5.0
 	FP => tea:[128,131]; score:1.000000; title:Tea; score:0.102045
 	FP => northwest:[525,534]; score:1.000000; title:Pacific_Northwest; score:0.074961
 	FP => break:[640,645]; score:1.000000; title:Breakwater_(structure); score:0.057179
- => sodium:[179,185]; score:1.000000; title:Sodium; score:0.102835
 	FP => pot:[336,339]; score:1.000000; title:Cannabis_(drug); score:0.108953
 	FP => substance:[19,28]; score:1.000000; title:Substance_theory; score:0.011066
 	FP => Police:[3,9]; score:1.000000; title:Police_officer; score:0.184853
@@ -3983,19 +3950,19 @@ P/R/F:0.1125/0.64285713/0.19148934; tpCount:9.0; fpCount:71.0; fnCount:5.0
 	FP => water:[368,373]; score:1.000000; title:Water; score:0.132339
 	FP => killed:[1379,1385]; score:1.000000; title:Murder; score:0.119818
  => Aum Shinri Kyo:[1272,1286]; score:1.000000; title:Aum_Shinrikyo; score:0.150130
-P/R/F:0.2/0.6666667/0.30769232; tpCount:14.0; fpCount:56.0; fnCount:7.0
+P/R/F:0.1884058/0.61904764/0.28888887; tpCount:13.0; fpCount:56.0; fnCount:8.0
 [APW19980625_1136.htm]
 ***************** Gold Standard: ***********************
  => violent crime:[1442,1455]; score:1.000000; title:Violent crime; score:1.000000
-	FN => Air Afrique:[60,71]; score:1.000000; title:Air Afrique; score:1.000000
- => tarmac:[1230,1236]; score:1.000000; title:Tarmac; score:1.000000
- => Lagos:[239,244]; score:1.000000; title:Lagos; score:1.000000
 	FN => Cameroon Airlines:[1132,1149]; score:1.000000; title:Cameroon Airlines; score:1.000000
+ => Lagos:[239,244]; score:1.000000; title:Lagos; score:1.000000
+ => tarmac:[1230,1236]; score:1.000000; title:Tarmac; score:1.000000
+	FN => Air Afrique:[60,71]; score:1.000000; title:Air Afrique; score:1.000000
 	FN => Nigeria:[1367,1374]; score:1.000000; title:Nigeria; score:1.000000
  => distress call:[707,720]; score:1.000000; title:Distress signal; score:1.000000
 	FN => Boeing:[75,81]; score:1.000000; title:Boeing; score:1.000000
-	FN => Guardian newspaper:[248,266]; score:1.000000; title:The Guardian (Nigeria); score:1.000000
 	FN => Security:[767,775]; score:1.000000; title:Airport security; score:1.000000
+	FN => Guardian newspaper:[248,266]; score:1.000000; title:The Guardian (Nigeria); score:1.000000
 	FN => Nigeria's largest international airport:[191,230]; score:1.000000; title:Murtala Mohammed International Airport; score:1.000000
 
 ************************ System Result: ***************************
@@ -4030,8 +3997,8 @@ P/R/F:0.2/0.6666667/0.30769232; tpCount:14.0; fpCount:56.0; fnCount:7.0
 	FP => Nigerian:[37,45]; score:1.000000; title:Nigeria; score:0.031956
 	FP => robberies:[1264,1273]; score:1.000000; title:Robbery; score:0.045286
 	FP => large:[371,376]; score:1.000000; title:Tempo; score:0.008756
-	FP => theft:[692,697]; score:1.000000; title:Theft; score:0.027746
  => tarmac:[1230,1236]; score:1.000000; title:Tarmac; score:0.060803
+	FP => theft:[692,697]; score:1.000000; title:Theft; score:0.027746
 	FP => newspaper:[1105,1114]; score:1.000000; title:Newspaper; score:0.022176
 	FP => shoot:[1329,1334]; score:1.000000; title:Shoot_(professional_wrestling); score:0.009353
 	FP => stripped:[1046,1054]; score:1.000000; title:Stripped_(song); score:0.004269
@@ -4067,16 +4034,15 @@ P/R/F:0.2/0.6666667/0.30769232; tpCount:14.0; fpCount:56.0; fnCount:7.0
 	FP => Security:[767,775]; score:1.000000; title:Security; score:0.052418
 	FP => plane:[1070,1075]; score:1.000000; title:Boeing_757; score:0.077433
 	FP => breakdown:[1474,1483]; score:1.000000; title:Lance_Hoyt; score:0.009537
-	FP => Guardian newspaper:[248,266]; score:1.000000; title:The_Guardian; score:0.022588
 	FP => captain:[667,674]; score:1.000000; title:Pilot_in_command; score:0.053772
 	FP => report:[644,650]; score:1.000000; title:Explosion; score:0.029020
-	FP => Nigeria:[191,198]; score:1.000000; title:Nigerian_Air_Force; score:0.035655
+	FP => Guardian newspaper:[248,266]; score:1.000000; title:The_Guardian; score:0.022588
 	FP => passenger liner:[106,121]; score:1.000000; title:Passenger_ship; score:0.080879
 	FP => robbed:[1162,1168]; score:1.000000; title:Robbery; score:0.045286
 	FP => luggage compartment:[332,351]; score:1.000000; title:Trunk_(automobile); score:0.017550
 	FP => passenger jet:[993,1006]; score:1.000000; title:Jet_airliner; score:0.043407
 	FP => thieves:[1196,1203]; score:1.000000; title:Theft; score:0.027746
-P/R/F:0.051948052/0.36363637/0.0909091; tpCount:4.0; fpCount:73.0; fnCount:7.0
+P/R/F:0.05263158/0.36363637/0.09195402; tpCount:4.0; fpCount:72.0; fnCount:7.0
 [APW19990120_0179.htm]
 ***************** Gold Standard: ***********************
 	FN => Beanie Babies:[96,109]; score:1.000000; title:Beanie Baby; score:1.000000
@@ -4085,10 +4051,10 @@ P/R/F:0.051948052/0.36363637/0.0909091; tpCount:4.0; fpCount:73.0; fnCount:7.0
  => collectibles:[426,438]; score:1.000000; title:Collectible; score:1.000000
 	FN => Sotheby:[194,201]; score:1.000000; title:Sotheby's; score:1.000000
  => auction house:[224,237]; score:1.000000; title:Auction; score:1.000000
-	FN => online auction:[810,824]; score:1.000000; title:Online auction business model; score:1.000000
-	FN => New York:[212,220]; score:1.000000; title:New York City; score:1.000000
-	FN => charge card:[1278,1289]; score:1.000000; title:charge card; score:1.000000
  => baseball:[860,868]; score:1.000000; title:Baseball; score:1.000000
+	FN => New York:[212,220]; score:1.000000; title:New York City; score:1.000000
+	FN => online auction:[810,824]; score:1.000000; title:Online auction business model; score:1.000000
+	FN => charge card:[1278,1289]; score:1.000000; title:charge card; score:1.000000
  => antiques:[367,375]; score:1.000000; title:Antique; score:1.000000
 	FN => Christie:[1332,1340]; score:1.000000; title:Christie's; score:1.000000
 
@@ -4133,8 +4099,8 @@ P/R/F:0.051948052/0.36363637/0.0909091; tpCount:4.0; fpCount:73.0; fnCount:7.0
 	FP => venture:[772,779]; score:1.000000; title:Venture_capital; score:0.119705
 	FP => numbers:[1292,1299]; score:1.000000; title:Toll-free_telephone_number; score:0.101105
 	FP => art dealers:[1192,1203]; score:1.000000; title:Art_dealer; score:0.103999
-	FP => virtual:[474,481]; score:1.000000; title:Virtual; score:0.096635
  => Rembrandt:[165,174]; score:1.000000; title:Rembrandt; score:0.099683
+	FP => virtual:[474,481]; score:1.000000; title:Virtual; score:0.096635
 	FP => Sotheby's:[3,12]; score:1.000000; title:Sotheby's; score:0.285046
  => auction house:[224,237]; score:1.000000; title:Auction; score:0.361563
 	FP => accepted:[1227,1235]; score:1.000000; title:Accepted; score:0.004265
@@ -4168,10 +4134,10 @@ P/R/F:0.08928572/0.41666666/0.14705883; tpCount:5.0; fpCount:51.0; fnCount:7.0
  => Neil Armstrong:[345,359]; score:1.000000; title:Neil Armstrong; score:1.000000
  => space shuttle:[525,538]; score:1.000000; title:space shuttle; score:1.000000
  => spacecraft:[275,285]; score:1.000000; title:spacecraft; score:1.000000
-	FN => rocket:[901,907]; score:1.000000; title:rocket; score:1.000000
  => Buzz Aldrin:[367,378]; score:1.000000; title:Buzz Aldrin; score:1.000000
- => Story Musgrave:[1207,1221]; score:1.000000; title:Story Musgrave; score:1.000000
+	FN => rocket:[901,907]; score:1.000000; title:rocket; score:1.000000
 	FN => Norman Thagard:[837,851]; score:1.000000; title:Norman Thagard; score:1.000000
+ => Story Musgrave:[1207,1221]; score:1.000000; title:Story Musgrave; score:1.000000
 	FN => moon:[390,394]; score:1.000000; title:Moon; score:1.000000
  => Sally Ride:[568,578]; score:1.000000; title:Sally Ride; score:1.000000
  => John Glenn:[132,142]; score:1.000000; title:John Glenn; score:1.000000
@@ -4200,15 +4166,15 @@ P/R/F:0.08928572/0.41666666/0.14705883; tpCount:5.0; fpCount:51.0; fnCount:7.0
 	FP => Sept.:[1051,1056]; score:1.000000; title:September; score:0.062587
 	FP => oldest man:[1385,1395]; score:1.000000; title:Oldest_people; score:0.111018
  => Roger Chaffee:[239,252]; score:1.000000; title:Roger_B._Chaffee; score:0.094428
-	FP => in space:[1255,1263]; score:1.000000; title:2009_in_spaceflight; score:0.165323
  => Atlantis:[989,997]; score:1.000000; title:Space_Shuttle_Atlantis; score:0.163770
+	FP => in space:[1255,1263]; score:1.000000; title:2009_in_spaceflight; score:0.165323
 	FP => world record:[1164,1176]; score:1.000000; title:World_record; score:0.110140
  => Neil Armstrong:[345,359]; score:1.000000; title:Neil_Armstrong; score:0.160301
 	FP => orbit:[752,757]; score:1.000000; title:Orbit; score:0.132416
  => spacecraft:[275,285]; score:1.000000; title:Spacecraft; score:0.124523
- => Buzz Aldrin:[367,378]; score:1.000000; title:Buzz_Aldrin; score:0.126856
 	FP => launched:[878,886]; score:1.000000; title:Ship_naming_and_launching; score:0.131676
 	FP => in space:[610,618]; score:1.000000; title:2009_in_spaceflight; score:0.165323
+ => Buzz Aldrin:[367,378]; score:1.000000; title:Buzz_Aldrin; score:0.126856
  => Edward White II:[216,231]; score:1.000000; title:Edward_Higgins_White; score:0.106316
 	FP => Mir:[1115,1118]; score:1.000000; title:Mir; score:0.157998
  => Sally Ride:[568,578]; score:1.000000; title:Sally_Ride; score:0.132953
@@ -4220,8 +4186,8 @@ P/R/F:0.08928572/0.41666666/0.14705883; tpCount:5.0; fpCount:51.0; fnCount:7.0
 	FP => in space:[1396,1404]; score:1.000000; title:2009_in_spaceflight; score:0.165323
 	FP => age:[1228,1231]; score:1.000000; title:The_Age; score:0.054321
 	FP => June 29:[973,980]; score:1.000000; title:June_29; score:0.174704
-	FP => mission:[1119,1126]; score:1.000000; title:The_Mission_(band); score:0.084721
  => Shannon Lucid:[1068,1081]; score:1.000000; title:Shannon_Lucid; score:0.146957
+	FP => mission:[1119,1126]; score:1.000000; title:The_Mission_(band); score:0.084721
 	FP => Oct. 29:[1268,1275]; score:1.000000; title:October_29; score:0.148154
 	FP => Dec.:[762,766]; score:1.000000; title:December; score:0.034264
 	FP => year:[1334,1338]; score:1.000000; title:1927; score:0.123840
@@ -4229,8 +4195,8 @@ P/R/F:0.08928572/0.41666666/0.14705883; tpCount:5.0; fpCount:51.0; fnCount:7.0
 	FP => April 12:[481,489]; score:1.000000; title:April_12; score:0.158261
  => Apollo 11:[330,339]; score:1.000000; title:Apollo_11; score:0.160348
 	FP => endurance:[1141,1150]; score:1.000000; title:Endurance_racing_(motorsport); score:0.052443
-	FP => Jan.:[623,627]; score:1.000000; title:January; score:0.057368
  => Mir:[963,966]; score:1.000000; title:Mir; score:0.157998
+	FP => Jan.:[623,627]; score:1.000000; title:January; score:0.057368
 	FP => Glenn:[1348,1353]; score:1.000000; title:Glenn_Research_Center; score:0.068060
 	FP => visit:[956,961]; score:1.000000; title:The_Visit; score:0.045454
 	FP => June 18:[552,559]; score:1.000000; title:June_18; score:0.167853
@@ -4267,11 +4233,11 @@ P/R/F:0.275/0.84615386/0.41509435; tpCount:22.0; fpCount:58.0; fnCount:4.0
  => prisoner of war:[84,99]; score:1.000000; title:prisoner of war; score:1.000000
 	FN => Iran-Iraq War:[704,717]; score:1.000000; title:Iran-Iraq War; score:1.000000
 	FN => Iraqi News Agency:[257,274]; score:1.000000; title:National Iraqi News Agency; score:1.000000
-	FN => Mohammed Saeed al-Sahhaf:[314,338]; score:1.000000; title:Muhammad Saeed al-Sahhaf; score:1.000000
  => International Committee of the Red Cross:[798,838]; score:1.000000; title:International Committee of the Red Cross; score:1.000000
  => Baghdad:[891,898]; score:1.000000; title:Baghdad; score:1.000000
-	FN => Iraqi Cabinet ministers:[127,150]; score:1.000000; title:Council of Ministers of Iraq; score:1.000000
+	FN => Mohammed Saeed al-Sahhaf:[314,338]; score:1.000000; title:Muhammad Saeed al-Sahhaf; score:1.000000
 	FN => Iran:[74,78]; score:1.000000; title:Iran; score:1.000000
+	FN => Iraqi Cabinet ministers:[127,150]; score:1.000000; title:Council of Ministers of Iraq; score:1.000000
 	FN => Missing-In-Action:[451,468]; score:1.000000; title:Missing in action; score:1.000000
 
 ************************ System Result: ***************************
@@ -4344,8 +4310,8 @@ P/R/F:0.06779661/0.4/0.11594202; tpCount:4.0; fpCount:55.0; fnCount:6.0
 	FN => Saxony:[1323,1329]; score:1.000000; title:Saxony; score:1.000000
  => South African:[581,594]; score:1.000000; title:South Africa; score:1.000000
 	FN => Zoo:[83,86]; score:1.000000; title:Zoo; score:1.000000
-	FN => Dresden:[72,79]; score:1.000000; title:Dresden; score:1.000000
 	FN => parliament:[1169,1179]; score:1.000000; title:Bundestag; score:1.000000
+	FN => Dresden:[72,79]; score:1.000000; title:Dresden; score:1.000000
  => Cologne:[358,365]; score:1.000000; title:Cologne; score:1.000000
 	FN => Germany:[466,473]; score:1.000000; title:Germany; score:1.000000
 	FN => Africa:[244,250]; score:1.000000; title:Africa; score:1.000000
@@ -4410,7 +4376,6 @@ P/R/F:0.06779661/0.4/0.11594202; tpCount:4.0; fpCount:55.0; fnCount:6.0
 	FP => export:[853,859]; score:1.000000; title:Export; score:0.054240
  => Botswana:[554,562]; score:1.000000; title:Botswana; score:0.103320
 	FP => herds:[544,549]; score:1.000000; title:Herd; score:0.072390
-	FP => Prevention:[781,791]; score:1.000000; title:Preventive_medicine; score:0.052366
 	FP => animals:[660,667]; score:1.000000; title:The_Animals; score:0.101259
 	FP => Germany:[1478,1485]; score:1.000000; title:Germany; score:0.198336
  => baby elephants:[202,216]; score:1.000000; title:Elephant; score:0.112792
@@ -4433,4 +4398,4 @@ P/R/F:0.06779661/0.4/0.11594202; tpCount:4.0; fpCount:55.0; fnCount:6.0
 	FP => steps:[1208,1213]; score:1.000000; title:Steps_(group); score:0.025454
 	FP => baby elephants:[868,882]; score:1.000000; title:Elephant; score:0.112792
 	FP => parliament:[1169,1179]; score:1.000000; title:Parliament; score:0.071326
-P/R/F:0.07594936/0.4/0.12765957; tpCount:6.0; fpCount:73.0; fnCount:9.0
+P/R/F:0.07692308/0.4/0.12903227; tpCount:6.0; fpCount:72.0; fnCount:9.0

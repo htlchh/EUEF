@@ -33,12 +33,13 @@ public class NILMatching implements Matching<NIL>{
 
 	@Override
 	public String getName() {
-		return "NIL Fuzzy Matching";
+		return "NIL Matching";
 	}
 
 	@Override
 	public void preProcessing(Map<String, Set<NIL>> systemResult, Map<String, Set<NIL>> goldStandard) {
 		preProcessor.NILCoreference(systemResult);
+		preProcessor.NILCoreference(goldStandard);
 		preProcessor.filterDuplicatedNIL(systemResult, goldStandard);
 	}
 

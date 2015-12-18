@@ -47,7 +47,7 @@ public class AnnotationMatching implements Matching<Annotation>{
 
 	@Override
 	public String getName() {
-		return "Annotation Fuzzy Matching";
+		return "Annotation Matching";
 	}
 
 	@Override
@@ -69,6 +69,7 @@ public class AnnotationMatching implements Matching<Annotation>{
 		}
 		
 		preProcessor.annotationCoreference(systemResult);
+		preProcessor.annotationCoreference(goldStandard);
 		preProcessor.filterDuplicatedAnnotation(systemResult, goldStandard);
 	}
 

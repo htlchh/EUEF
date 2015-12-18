@@ -149,7 +149,6 @@ P/R/F:0.9111111/0.8541667/0.88172036; tpCount:41.0; fpCount:4.0; fnCount:7.0
 	FN => Kalamazoo:[2144,9]; score:1.000000
  => Ford:[1277,4]; score:1.000000
  => Lynn Chapp:[2245,10]; score:1.000000
- => Bush:[3071,4]; score:1.000000
  => Michigan:[4104,8]; score:1.000000
  => Michigan:[12,8]; score:1.000000
  => Karin Lewis:[431,11]; score:1.000000
@@ -250,7 +249,7 @@ P/R/F:0.9111111/0.8541667/0.88172036; tpCount:41.0; fpCount:4.0; fnCount:7.0
  => Ford:[2079,4]; score:1.000000
  => Ford:[4255,4]; score:1.000000
  => Richard Norton Smith:[1073,20]; score:1.000000
-P/R/F:0.9066667/0.8947368/0.9006623; tpCount:68.0; fpCount:7.0; fnCount:8.0
+P/R/F:0.9054054/0.8933333/0.8993289; tpCount:67.0; fpCount:7.0; fnCount:8.0
 [TvN16442287.txt]
 ***************** Gold Standard: ***********************
 	FN => Joy Bauer:[203,9]; score:1.000000
@@ -627,7 +626,6 @@ P/R/F:0.8833333/0.86885244/0.876033; tpCount:53.0; fpCount:7.0; fnCount:8.0
  => Saban:[654,5]; score:1.000000
 	FN => Terry:[1169,5]; score:1.000000
  => Norm Chow:[2844,9]; score:1.000000
- => Johnson:[2140,7]; score:1.000000
  => Rich Rodriguez:[2438,14]; score:1.000000
  => Dolphins:[3649,8]; score:1.000000
  => Miami:[421,5]; score:1.000000
@@ -699,8 +697,8 @@ P/R/F:0.8833333/0.86885244/0.876033; tpCount:53.0; fpCount:7.0; fnCount:8.0
  => Huizenga:[2026,8]; score:1.000000
  => Saban:[585,5]; score:1.000000
  => Tennessee Titans:[2805,16]; score:1.000000
- => Randy Mueller:[4438,13]; score:1.000000
  => Jimmy Johnson:[2134,13]; score:1.000000
+ => Randy Mueller:[4438,13]; score:1.000000
  => Ken Whisenhut:[2904,13]; score:1.000000
  => Alabama:[26,7]; score:1.000000
  => Fla.:[126,4]; score:1.000000
@@ -821,7 +819,7 @@ P/R/F:0.8833333/0.86885244/0.876033; tpCount:53.0; fpCount:7.0; fnCount:8.0
  => Saban:[1404,5]; score:1.000000
  => Cam Cameron:[2755,11]; score:1.000000
  => Chicago:[2624,7]; score:1.000000
-P/R/F:0.95/0.959596/0.95477384; tpCount:95.0; fpCount:5.0; fnCount:4.0
+P/R/F:0.94949496/0.9591837/0.9543147; tpCount:94.0; fpCount:5.0; fnCount:4.0
 [Ent16444023.txt]
 ***************** Gold Standard: ***********************
  => Lou Pearlman:[940,12]; score:1.000000
@@ -843,7 +841,6 @@ P/R/F:0.95/0.959596/0.95477384; tpCount:95.0; fpCount:5.0; fnCount:4.0
 	FN => Kids' Choice Awards:[650,19]; score:1.000000
  => Diaz:[220,4]; score:1.000000
  => Timberlake:[578,10]; score:1.000000
- => Spears:[830,6]; score:1.000000
  => Timberlake:[706,10]; score:1.000000
 	FN => N' Sync:[383,7]; score:1.000000
  => Innosense:[899,9]; score:1.000000
@@ -871,7 +868,7 @@ P/R/F:0.95/0.959596/0.95477384; tpCount:95.0; fpCount:5.0; fnCount:4.0
  => Innosense:[899,9]; score:1.000000
  => Memphis:[325,7]; score:1.000000
  => Night Live:[553,10]; score:1.000000
-P/R/F:0.90909094/0.8333333/0.8695652; tpCount:20.0; fpCount:2.0; fnCount:4.0
+P/R/F:0.9047619/0.82608694/0.86363643; tpCount:19.0; fpCount:2.0; fnCount:4.0
 [TvN16442342.txt]
 ***************** Gold Standard: ***********************
  => West Virginia:[1265,13]; score:1.000000
@@ -932,7 +929,6 @@ P/R/F:0.9/0.9/0.9; tpCount:18.0; fpCount:2.0; fnCount:2.0
 	FN => Rama Devi:[2071,9]; score:1.000000
  => Maha Kumbh Mela:[992,15]; score:1.000000
  => Ganges:[1847,6]; score:1.000000
- => India:[280,5]; score:1.000000
  => Ganges river:[255,12]; score:1.000000
  => Uttar Pradesh:[2465,13]; score:1.000000
  => Ardh Kumbh Mela:[421,15]; score:1.000000
@@ -975,7 +971,7 @@ P/R/F:0.9/0.9/0.9; tpCount:18.0; fpCount:2.0; fnCount:2.0
 	FP => Rama Devi:[2071,9]; score:1.000000
  => Maha Kumbh Mela:[992,15]; score:1.000000
  => Ganges:[1847,6]; score:1.000000
- => India:[280,5]; score:1.000000
+	FP => India:[280,5]; score:1.000000
  => Uttar Pradesh:[2465,13]; score:1.000000
  => Ardh Kumbh Mela:[421,15]; score:1.000000
  => Ganges:[255,6]; score:1.000000
@@ -1004,7 +1000,7 @@ P/R/F:0.9/0.9/0.9; tpCount:18.0; fpCount:2.0; fnCount:2.0
 	FP => Shakuntala:[1699,10]; score:1.000000
  => Ganges:[608,6]; score:1.000000
 	FP => Hindus:[165,6]; score:1.000000
-P/R/F:0.7777778/0.92105263/0.84337354; tpCount:35.0; fpCount:10.0; fnCount:3.0
+P/R/F:0.75555557/0.9189189/0.8292683; tpCount:34.0; fpCount:11.0; fnCount:3.0
 [Tra16454203.txt]
 ***************** Gold Standard: ***********************
  => London's Heathrow Airport:[73,25]; score:1.000000
@@ -1012,7 +1008,6 @@ P/R/F:0.7777778/0.92105263/0.84337354; tpCount:35.0; fpCount:10.0; fnCount:3.0
  => BA:[468,2]; score:1.000000
  => LONDON:[124,6]; score:1.000000
  => Heathrow:[958,8]; score:1.000000
- => Heathrow:[243,8]; score:1.000000
  => British Airways:[411,15]; score:1.000000
  => Heathrow:[1205,8]; score:1.000000
  => Heathrow:[598,8]; score:1.000000
@@ -1021,8 +1016,8 @@ P/R/F:0.7777778/0.92105263/0.84337354; tpCount:35.0; fpCount:10.0; fnCount:3.0
  => BA:[817,2]; score:1.000000
 
 ************************ System Result: ***************************
-	FP => Terminal:[394,8]; score:1.000000
  => Heathrow Airport:[82,16]; score:1.000000
+	FP => Terminal:[394,8]; score:1.000000
  => Heathrow Airport:[243,16]; score:1.000000
 	FP => Christmas:[751,9]; score:1.000000
 	FP => Terminal:[624,8]; score:1.000000
@@ -1041,7 +1036,7 @@ P/R/F:0.7777778/0.92105263/0.84337354; tpCount:35.0; fpCount:10.0; fnCount:3.0
 	FP => Terminal:[803,8]; score:1.000000
  => BA:[640,2]; score:1.000000
  => BA:[1345,2]; score:1.000000
-P/R/F:0.5714286/1.0/0.72727275; tpCount:12.0; fpCount:9.0; fnCount:0.0
+P/R/F:0.55/1.0/0.70967746; tpCount:11.0; fpCount:9.0; fnCount:0.0
 [Tec16451635.txt]
 ***************** Gold Standard: ***********************
  => Sichuan:[1035,7]; score:1.000000
@@ -1128,7 +1123,6 @@ P/R/F:0.85714287/0.85714287/0.85714287; tpCount:12.0; fpCount:2.0; fnCount:2.0
  => Bakersfield:[568,11]; score:1.000000
  => Shehadeh:[2714,8]; score:1.000000
  => U.S. Immigration and Customs Enforcement:[2874,40]; score:1.000000
- => Shehadeh:[414,8]; score:1.000000
  => Roxanne Hercules:[807,16]; score:1.000000
 	FN => Mulligan:[3364,8]; score:1.000000
  => CAIR:[1698,4]; score:1.000000
@@ -1203,7 +1197,7 @@ FRESNO:[112,19]; score:1.000000
  => Roxanne Hercules:[807,16]; score:1.000000
 	FP => Mulligan:[3364,8]; score:1.000000
  => CAIR:[1698,4]; score:1.000000
-P/R/F:0.7058824/0.8727273/0.7804878; tpCount:48.0; fpCount:20.0; fnCount:7.0
+P/R/F:0.70149255/0.8703704/0.7768595; tpCount:47.0; fpCount:20.0; fnCount:7.0
 [Ent16453733.txt]
 ***************** Gold Standard: ***********************
 	FN => O'Donnell:[778,9]; score:1.000000
@@ -1314,7 +1308,6 @@ P/R/F:0.5/0.2777778/0.35714287; tpCount:5.0; fpCount:5.0; fnCount:13.0
 ***************** Gold Standard: ***********************
 	FN => Heat:[420,4]; score:1.000000
  => Riley:[486,5]; score:1.000000
- => Riley:[1034,5]; score:1.000000
  => Los Angeles Clippers:[442,20]; score:1.000000
  => Chicago Tribune:[1237,15]; score:1.000000
  => Heat:[523,4]; score:1.000000
@@ -1358,7 +1351,7 @@ P/R/F:0.5/0.2777778/0.35714287; tpCount:5.0; fpCount:5.0; fnCount:13.0
  => Pat Riley:[1030,9]; score:1.000000
  => Western Conference:[1519,18]; score:1.000000
  => Pat Riley:[136,9]; score:1.000000
-P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
+P/R/F:0.9047619/0.8636364/0.88372093; tpCount:19.0; fpCount:2.0; fnCount:3.0
 [Bus16451112.txt]
 ***************** Gold Standard: ***********************
 	FN => Home Depot:[3563,10]; score:1.000000
@@ -1370,7 +1363,6 @@ P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
  => General Electric Co.:[583,20]; score:1.000000
 	FN => Home Depot:[2814,10]; score:1.000000
 	FN => Home Depot:[0,10]; score:1.000000
-	FN => Home Depot:[1667,10]; score:1.000000
 	FN => Blake:[927,5]; score:1.000000
  => The Associated Press:[1230,20]; score:1.000000
  => Nardelli:[3780,8]; score:1.000000
@@ -1387,7 +1379,6 @@ P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
  => Nardelli:[3550,8]; score:1.000000
 	FN => Home Depot Supply:[3272,17]; score:1.000000
  => Nardelli:[611,8]; score:1.000000
- => Blake:[705,5]; score:1.000000
 	FN => Bob:[3072,3]; score:1.000000
 	FN => Home Depot:[1065,10]; score:1.000000
  => Nardelli:[2280,8]; score:1.000000
@@ -1409,7 +1400,6 @@ P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
 	FN => DeAngelo:[3466,8]; score:1.000000
 	FN => Home Depot:[2509,10]; score:1.000000
  => Nardelli:[15,8]; score:1.000000
- => Shields:[818,7]; score:1.000000
  => Joe DeAngelo:[3225,12]; score:1.000000
  => Nardelli:[1173,8]; score:1.000000
 	FN => The Home Depot:[1883,14]; score:1.000000
@@ -1454,8 +1444,8 @@ P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
  => Nardelli:[1173,8]; score:1.000000
  => Nardelli:[1622,8]; score:1.000000
  => The Home Depot Inc.:[193,19]; score:1.000000
- => Frank Blake:[699,11]; score:1.000000
 	FP => Blake:[757,5]; score:1.000000
+ => Frank Blake:[699,11]; score:1.000000
  => Nardelli:[1372,8]; score:1.000000
  => Nardelli:[668,8]; score:1.000000
  => Nardelli:[3550,8]; score:1.000000
@@ -1464,7 +1454,7 @@ P/R/F:0.90909094/0.8695652/0.8888889; tpCount:20.0; fpCount:2.0; fnCount:3.0
  => Atlanta-based:[1799,13]; score:1.000000
  => Nardelli:[611,8]; score:1.000000
 	FP => Bob:[3072,3]; score:1.000000
-P/R/F:0.79545456/0.59322035/0.6796116; tpCount:35.0; fpCount:9.0; fnCount:24.0
+P/R/F:0.78571427/0.58928573/0.6734694; tpCount:33.0; fpCount:9.0; fnCount:23.0
 [Tra16444229.txt]
 ***************** Gold Standard: ***********************
 	FN => Perez:[839,5]; score:1.000000

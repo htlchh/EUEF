@@ -80,12 +80,13 @@ public class CandidateMatching implements Matching<Candidate>{
 		}
 		
 		preProcessor.candidateCoreference(systemResult);
+		preProcessor.candidateCoreference(goldStandard);
 		preProcessor.filterDuplicatedCandidate(systemResult, goldStandard);
 	}
 	
 	@Override
 	public String getName() {
-		return "Candidate Fuzzy Matching";
+		return "Candidate Matching";
 	}
 
 }

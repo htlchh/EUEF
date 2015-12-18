@@ -1,0 +1,677 @@
+[VOA20001223.2000.0139]
+***************** Gold Standard: ***********************
+	FN => Slobodan Milosevic:[325,343]; score:1.000000; title:Slobodan Milošević; score:1.000000
+	FN => Socialist Party:[372,387]; score:1.000000; title:Socialist Party of Serbia; score:1.000000
+	FN => Democratic opposition:[138,159]; score:1.000000; title:Democratic Opposition of Serbia; score:1.000000
+
+************************ System Result: ***************************
+	FP => Yugoslav:[306,314]; score:1.000000; title:Croatian_Academy_of_Sciences_and_Arts; score:1.000000
+	FP => Slobodan Milosevic:[325,343]; score:1.000000; title:Bosnian_Genocide; score:1.000000
+	FP => Vojislav Kostunica:[40,58]; score:1.000000; title:Vojislav_Koštunica; score:1.000000
+	FP => Yugoslav:[21,29]; score:1.000000; title:Croatian_Academy_of_Sciences_and_Arts; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:4.0; fnCount:3.0
+[VOA20001220.2000.0060]
+***************** Gold Standard: ***********************
+	FN => America:[394,401]; score:1.000000; title:United States; score:1.000000
+ => VOA News:[19,27]; score:1.000000; title:Voice of America; score:1.000000
+	FN => Texas:[888,893]; score:1.000000; title:Texas; score:1.000000
+
+************************ System Result: ***************************
+	FP => Don Evans:[314,323]; score:1.000000; title:Donald_Evans; score:1.000000
+ => VOA News:[19,27]; score:1.000000; title:Voice_of_America; score:1.000000
+	FP => Mel Martinez:[672,684]; score:1.000000; title:Mel_Martinez; score:1.000000
+	FP => Jeb Bush:[822,830]; score:1.000000; title:Alex_Castellanos; score:1.000000
+	FP => California Food:[173,188]; score:1.000000; title:United_Food_and_Commercial_Workers; score:1.000000
+P/R/F:0.2/0.33333334/0.25; tpCount:1.0; fpCount:4.0; fnCount:2.0
+[NYT20001217.2241.0165]
+***************** Gold Standard: ***********************
+	FN => Burbank:[1725,1732]; score:1.000000; title:Bob Hope Airport; score:1.000000
+	FN => Federal Aviation Administration:[2704,2735]; score:1.000000; title:Federal Aviation Administration; score:1.000000
+	FN => Aviation Consumer Protection Div:[4785,4817]; score:1.000000; title:Airline complaints; score:1.000000
+	FN => Calif:[1773,1778]; score:1.000000; title:California; score:1.000000
+	FN => JFK:[1826,1829]; score:1.000000; title:John F. Kennedy International Airport; score:1.000000
+ => South:[679,684]; score:1.000000; title:Southern United States; score:1.000000
+	FN => La Guardia:[558,568]; score:1.000000; title:LaGuardia Airport; score:1.000000
+	FN => Transportation Department:[1018,1043]; score:1.000000; title:United States Department of Transportation; score:1.000000
+	FN => New York:[572,580]; score:1.000000; title:New York City; score:1.000000
+	FN => Washington:[4586,4596]; score:1.000000; title:Washington, D.C.; score:1.000000
+ => John Wayne Airport:[1736,1754]; score:1.000000; title:John Wayne Airport; score:1.000000
+	FN => Orange County:[1758,1771]; score:1.000000; title:Orange County, California; score:1.000000
+	FN => Chicago O'Hare:[539,553]; score:1.000000; title:O'Hare International Airport; score:1.000000
+ => Westchester County Airport:[1788,1814]; score:1.000000; title:Westchester County Airport; score:1.000000
+	FN => Los Angeles International:[1664,1689]; score:1.000000; title:Los Angeles International Airport; score:1.000000
+
+************************ System Result: ***************************
+	FP => Transportation Department:[1018,1043]; score:1.000000; title:Department_of_Transportation,_Indonesia; score:1.000000
+	FP => NYT:[92,95]; score:1.000000; title:Bagram_Air_Base; score:1.000000
+ => South:[679,684]; score:1.000000; title:Southern_United_States; score:0.215481
+	FP => New York:[1833,1841]; score:1.000000; title:New_York_Post; score:1.000000
+	FP => New York:[572,580]; score:1.000000; title:New_York_Post; score:1.000000
+	FP => Los Angeles International:[1664,1689]; score:1.000000; title:1910_Los_Angeles_International_Air_Meet_at_Dominguez_Field; score:1.000000
+ => John Wayne Airport:[1736,1754]; score:1.000000; title:John_Wayne_Airport; score:1.000000
+	FP => NYT:[48,51]; score:1.000000; title:Bagram_Air_Base; score:1.000000
+ => Westchester County Airport:[1788,1814]; score:1.000000; title:Westchester_County_Airport; score:1.000000
+	FP => Transportation Department:[4649,4674]; score:1.000000; title:Department_of_Transportation,_Indonesia; score:1.000000
+	FP => Department of Transportation:[4828,4856]; score:1.000000; title:Department_of_Transportation,_Indonesia; score:1.000000
+P/R/F:0.27272728/0.2/0.23076923; tpCount:3.0; fpCount:8.0; fnCount:12.0
+[PRI20001122.2000.0320]
+***************** Gold Standard: ***********************
+	FN => Washington:[358,368]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Yasser Arafat:[35,48]; score:1.000000; title:Yasser Arafat; score:1.000000
+ => Corey Flintoff:[332,346]; score:1.000000; title:Corey Flintoff; score:1.000000
+	FN => NPR news:[348,356]; score:1.000000; title:National Public Radio; score:1.000000
+
+************************ System Result: ***************************
+	FP => Northern Israeli:[197,213]; score:1.000000; title:Northern_Command_(Israel); score:1.000000
+ => Corey Flintoff:[332,346]; score:1.000000; title:Corey_Flintoff; score:1.000000
+P/R/F:0.5/0.25/0.33333334; tpCount:1.0; fpCount:1.0; fnCount:3.0
+[20001015_AFP_ARB.0053.eng]
+***************** Gold Standard: ***********************
+	FN => Bangkok:[1700,1707]; score:1.000000; title:Bangkok; score:1.000000
+	FN => Emirates:[1231,1239]; score:1.000000; title:United Arab Emirates; score:1.000000
+	FN => Beirut:[2,8]; score:1.000000; title:Beirut; score:1.000000
+	FN => Lebanon:[1089,1096]; score:1.000000; title:Lebanon; score:1.000000
+	FN => AFP:[16,19]; score:1.000000; title:Agence France-Presse; score:1.000000
+	FN => Mexico:[1362,1368]; score:1.000000; title:Mexico; score:1.000000
+
+************************ System Result: ***************************
+	FP => Machala:[1251,1258]; score:1.000000; title:Estadio_9_de_Mayo; score:1.000000
+	FP => Machala:[930,937]; score:1.000000; title:Estadio_9_de_Mayo; score:1.000000
+	FP => Machala:[1393,1400]; score:1.000000; title:Estadio_9_de_Mayo; score:1.000000
+	FP => Kuwaiti:[1509,1516]; score:1.000000; title:Economy_of_Kuwait; score:1.000000
+	FP => Machala:[574,581]; score:1.000000; title:Estadio_9_de_Mayo; score:1.000000
+	FP => Continents Championship:[1328,1351]; score:1.000000; title:Four_Continents_Figure_Skating_Championships; score:1.000000
+	FP => Agence France Presse:[895,915]; score:1.000000; title:Agence_France-Presse; score:1.000000
+	FP => Machala:[1014,1021]; score:1.000000; title:Estadio_9_de_Mayo; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:8.0; fnCount:6.0
+[PRI20001128.2000.0055]
+***************** Gold Standard: ***********************
+	FN => Washington State:[1925,1941]; score:1.000000; title:Washington (U.S. State); score:1.000000
+	FN => NPR news:[18,26]; score:1.000000; title:National Public Radio; score:1.000000
+	FN => Washington:[30,40]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Al Gore:[863,870]; score:1.000000; title:Al Gore; score:1.000000
+	FN => Miami Dade County:[513,530]; score:1.000000; title:Miami Dade County, Florida; score:1.000000
+	FN => Democrats:[600,609]; score:1.000000; title:Democratic Party (United States); score:1.000000
+	FN => Palm Beach County:[667,684]; score:1.000000; title:Palm Beach County, Florida; score:1.000000
+
+************************ System Result: ***************************
+	FP => Al Gore:[863,870]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => Palm Beach County:[667,684]; score:1.000000; title:Jupiter_Island; score:1.000000
+	FP => Sauls:[764,769]; score:1.000000; title:Christa_Sauls; score:1.000000
+	FP => Corey Flintoff:[46,60]; score:1.000000; title:Corey_Flintoff; score:1.000000
+	FP => KPLU:[2065,2069]; score:1.000000; title:Taylor_Eigsti; score:1.000000
+	FP => US Senate:[2006,2015]; score:1.000000; title:United_States_Senate_elections,_2010; score:1.000000
+	FP => Miami Dade County:[513,530]; score:1.000000; title:Burglar_alarm; score:1.000000
+	FP => Corey:[389,394]; score:1.000000; title:Corey_Bell; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:8.0; fnCount:7.0
+[NYT20001129.2040.0383]
+***************** Gold Standard: ***********************
+	FN => Supreme Court:[593,606]; score:1.000000; title:Supreme Court of Florida; score:1.000000
+	FN => District Court of Appeal:[679,703]; score:1.000000; title:Florida District Courts of Appeal; score:1.000000
+	FN => TALLAHASSEE:[323,334]; score:1.000000; title:Tallahassee, Florida; score:1.000000
+	FN => Electoral College:[2896,2913]; score:1.000000; title:Electoral College (United States); score:1.000000
+	FN => Fla.:[336,340]; score:1.000000; title:Florida; score:1.000000
+
+************************ System Result: ***************************
+	FP => Florida Supreme Court:[585,606]; score:1.000000; title:Joseph_Lancaster; score:1.000000
+	FP => David Boies:[2321,2332]; score:1.000000; title:Perry_v._Schwarzenegger; score:1.000000
+	FP => Al Gore:[370,377]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => Florida Supreme Court:[2653,2674]; score:1.000000; title:Joseph_Lancaster; score:1.000000
+	FP => Florida Supreme Court:[4157,4178]; score:1.000000; title:Joseph_Lancaster; score:1.000000
+	FP => Sauls:[2364,2369]; score:1.000000; title:Christa_Sauls; score:1.000000
+	FP => Fla.:[336,340]; score:1.000000; title:Seminole,_Florida; score:1.000000
+	FP => NYT:[118,121]; score:1.000000; title:Bagram_Air_Base; score:1.000000
+	FP => Sauls:[3047,3052]; score:1.000000; title:Christa_Sauls; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:9.0; fnCount:5.0
+[VOA20001020.2100.1853]
+***************** Gold Standard: ***********************
+	FN => navy:[8,12]; score:1.000000; title:United States Navy; score:1.000000
+ => Yemen:[93,98]; score:1.000000; title:Yemen; score:1.000000
+
+************************ System Result: ***************************
+ => Yemen:[93,98]; score:1.000000; title:Yemen; score:0.742570
+P/R/F:1.0/0.5/0.6666667; tpCount:1.0; fpCount:0.0; fnCount:1.0
+[20000815_AFP_ARB.0071.eng]
+***************** Gold Standard: ***********************
+	FN => Lebanon:[23,30]; score:1.000000; title:Lebanon; score:1.000000
+	FN => Israel:[140,146]; score:1.000000; title:Israel; score:1.000000
+	FN => Beirut:[2,8]; score:1.000000; title:Beirut; score:1.000000
+	FN => AFP:[15,18]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => AFP:[15,18]; score:1.000000; title:UH-1N_Twin_Huey; score:1.000000
+	FP => Matla:[1544,1549]; score:1.000000; title:MATLAB; score:1.000000
+	FP => Agence France Presse:[823,843]; score:1.000000; title:Agence_France-Presse; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:4.0
+[20001115_AFP_ARB.0061.eng]
+***************** Gold Standard: ***********************
+	FN => Gaza:[2,6]; score:1.000000; title:Gaza; score:1.000000
+	FN => AFP:[14,17]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+P/R/F:1.0/0.0/0.0; tpCount:0.0; fpCount:0.0; fnCount:2.0
+[20001115_AFP_ARB.0065.eng]
+***************** Gold Standard: ***********************
+	FN => Alameen Khalifa Fahima:[1825,1847]; score:1.000000; title:Lamin Khalifah Fhimah; score:1.000000
+	FN => Camp Zeist:[2,12]; score:1.000000; title:Zeist; score:1.000000
+	FN => Holland:[14,21]; score:1.000000; title:Holland; score:1.000000
+	FN => Amsterdam:[870,879]; score:1.000000; title:Amsterdam; score:1.000000
+	FN => Soviet Union:[574,586]; score:1.000000; title:Soviet Union; score:1.000000
+	FN => Abdulbasit al-Maqrahi:[1852,1873]; score:1.000000; title:Abdelbaset Ali Mohmed Al Megrahi; score:1.000000
+	FN => Stockholm:[896,905]; score:1.000000; title:Stockholm; score:1.000000
+	FN => Sweden:[841,847]; score:1.000000; title:Sweden; score:1.000000
+	FN => Malta:[1912,1917]; score:1.000000; title:Malta; score:1.000000
+	FN => Copenhagen:[881,891]; score:1.000000; title:Copenhagen; score:1.000000
+	FN => AFP:[30,33]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Libyans:[1816,1823]; score:1.000000; title:Demographics_of_Libya; score:1.000000
+	FP => Camp Zeist:[114,124]; score:1.000000; title:Pan_Am_Flight_103_bombing_trial; score:1.000000
+	FP => Camp Zeist:[2,12]; score:1.000000; title:Pan_Am_Flight_103_bombing_trial; score:1.000000
+	FP => Ronald Sutherland:[1638,1655]; score:1.000000; title:Lord_Ronald_Gower; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:4.0; fnCount:11.0
+[20001115_AFP_ARB.0030.eng]
+***************** Gold Standard: ***********************
+	FN => Nitsarim:[1026,1034]; score:1.000000; title:Netzarim (settlement); score:1.000000
+	FN => Gaza:[2,6]; score:1.000000; title:Gaza; score:1.000000
+	FN => Egypt:[490,495]; score:1.000000; title:Egypt; score:1.000000
+	FN => AFP:[14,17]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Gaza Strip:[175,185]; score:1.000000; title:Fatah–Hamas_conflict; score:1.000000
+	FP => Kosovim:[754,761]; score:1.000000; title:Kosovo_Polje; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:4.0
+[NYT20001101.2212.0429]
+***************** Gold Standard: ***********************
+	FN => Washington:[2682,2692]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Warner:[2045,2051]; score:1.000000; title:Warner Communications; score:1.000000
+	FN => Merrill Lynch:[2465,2478]; score:1.000000; title:Merrill Lynch; score:1.000000
+	FN => Time Warner:[508,519]; score:1.000000; title:Time Warner; score:1.000000
+	FN => State Street Research:[862,883]; score:1.000000; title:State Street Corporation; score:1.000000
+	FN => Boston:[887,893]; score:1.000000; title:Boston; score:1.000000
+	FN => Roger McNamee:[2128,2141]; score:1.000000; title:Roger McNamee; score:1.000000
+	FN => Time:[2036,2040]; score:1.000000; title:Time Inc.; score:1.000000
+	FN => Comcast:[3974,3981]; score:1.000000; title:Comcast; score:1.000000
+	FN => Disney:[1883,1889]; score:1.000000; title:The Walt Disney Company; score:1.000000
+ => Sanford C. Bernstein:[1592,1612]; score:1.000000; title:Sanford Bernstein; score:1.000000
+	FN => Janus Capital:[2748,2761]; score:1.000000; title:Janus Capital Group; score:1.000000
+	FN => Capital Cities/ABC:[1921,1939]; score:1.000000; title:Capital Cities Communications; score:1.000000
+	FN => NBC:[2665,2668]; score:1.000000; title:NBC; score:1.000000
+
+************************ System Result: ***************************
+	FP => Time Warner:[2976,2987]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => America Online:[3919,3933]; score:1.000000; title:ABS-CBN_News_and_Current_Affairs; score:1.000000
+	FP => Time Warner:[1953,1964]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => John Schreiber:[2698,2712]; score:1.000000; title:John_Schreiber; score:1.000000
+	FP => America Online:[3154,3168]; score:1.000000; title:ABS-CBN_News_and_Current_Affairs; score:1.000000
+	FP => Reif:[2592,2596]; score:1.000000; title:Heinrich_Reif-Gintl; score:0.333333
+	FP => America Online:[154,168]; score:1.000000; title:ABS-CBN_News_and_Current_Affairs; score:1.000000
+	FP => Time Warner:[1870,1881]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Time Warner:[526,537]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+ => Sanford C. Bernstein:[1592,1612]; score:1.000000; title:Sanford_Bernstein; score:1.000000
+	FP => Stephen Case:[597,609]; score:1.000000; title:Stephen_Glass_(reporter); score:1.000000
+	FP => Capital Cities/ABC:[1921,1939]; score:1.000000; title:American_Broadcasting_Company; score:0.248120
+	FP => Time Warner:[328,339]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Time Warner:[4101,4112]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Haverty:[931,938]; score:1.000000; title:Joe_Haverty; score:1.000000
+	FP => Time Warner:[3200,3211]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Time Warner:[630,641]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Haverty:[1388,1395]; score:1.000000; title:Joe_Haverty; score:1.000000
+	FP => Time Warner:[183,194]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Janus Capital:[2748,2761]; score:1.000000; title:Janus; score:1.000000
+	FP => Time Warner:[508,519]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Time Warner:[956,967]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => America Online:[570,584]; score:1.000000; title:ABS-CBN_News_and_Current_Affairs; score:1.000000
+	FP => Time Warner:[1203,1214]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => Time Warner:[3371,3382]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+	FP => ALEX BERENSON:[16,29]; score:1.000000; title:Alex_Berenson; score:1.000000
+	FP => Gerald Levin:[655,667]; score:1.000000; title:Gerald_M._Levin; score:1.000000
+	FP => Time Warner:[2795,2806]; score:1.000000; title:Time_Warner_Cable_Stadium; score:1.000000
+P/R/F:0.035714287/0.071428575/0.04761905; tpCount:1.0; fpCount:27.0; fnCount:13.0
+[20001015_AFP_ARB.0229.eng]
+***************** Gold Standard: ***********************
+	FN => Riyadh:[164,170]; score:1.000000; title:Riyadh; score:1.000000
+	FN => Baghdad:[123,130]; score:1.000000; title:Baghdad; score:1.000000
+	FN => Riyadh International Airport:[370,398]; score:1.000000; title:King Khalid International Airport; score:1.000000
+	FN => London:[2,8]; score:1.000000; title:London; score:1.000000
+	FN => AFP:[16,19]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Frenchman:[654,663]; score:1.000000; title:Michel_Houellebecq; score:1.000000
+	FP => Swede:[682,687]; score:1.000000; title:Swede_Hanson_(wrestler); score:0.684932
+	FP => Spaniard:[665,673]; score:1.000000; title:Spanish_Lady; score:0.130435
+	FP => Saudis:[572,578]; score:1.000000; title:Ottoman–Saudi_War; score:1.000000
+	FP => Jordanian:[446,455]; score:1.000000; title:Jordanian; score:1.000000
+	FP => Yemenis:[597,604]; score:1.000000; title:Hydrogen; score:1.000000
+	FP => Pakistanis:[583,593]; score:1.000000; title:Shia_Islam_in_Pakistan; score:1.000000
+	FP => Omani:[707,712]; score:1.000000; title:Omani_Arabic; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:8.0; fnCount:5.0
+[PRI20001031.2000.1824]
+***************** Gold Standard: ***********************
+	FN => Taiwan:[97,103]; score:1.000000; title:Taiwan; score:1.000000
+	FN => BBC News:[6,14]; score:1.000000; title:BBC News; score:1.000000
+	FN => London:[18,24]; score:1.000000; title:London; score:1.000000
+	FN => Los Angeles:[107,118]; score:1.000000; title:Los Angeles; score:1.000000
+
+************************ System Result: ***************************
+P/R/F:1.0/0.0/0.0; tpCount:0.0; fpCount:0.0; fnCount:4.0
+[20001115_AFP_ARB.0184.eng]
+***************** Gold Standard: ***********************
+	FN => Jerusalem:[2,11]; score:1.000000; title:Jerusalem; score:1.000000
+	FN => West Bank:[1607,1616]; score:1.000000; title:West Bank; score:1.000000
+	FN => AFP:[19,22]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Shir:[1023,1027]; score:1.000000; title:Milk; score:0.095238
+	FP => Gaza Strip:[1296,1306]; score:1.000000; title:Fatah–Hamas_conflict; score:1.000000
+	FP => Fatah:[1584,1589]; score:1.000000; title:Fatah_al-Intifada; score:1.000000
+	FP => Fatah:[1446,1451]; score:1.000000; title:Fatah_al-Intifada; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:4.0; fnCount:3.0
+[NYT20001106.1705.0187]
+***************** Gold Standard: ***********************
+	FN => D.C.:[3951,3955]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => White House:[1175,1186]; score:1.000000; title:White House; score:1.000000
+	FN => Arkansas:[881,889]; score:1.000000; title:Arkansas; score:1.000000
+	FN => Tenn.:[330,335]; score:1.000000; title:Tennessee; score:1.000000
+	FN => Green Bay:[3041,3050]; score:1.000000; title:Green Bay, Wisconsin; score:1.000000
+	FN => Michigan:[2365,2373]; score:1.000000; title:Michigan; score:1.000000
+	FN => Pennsylvania:[2378,2390]; score:1.000000; title:Pennsylvania; score:1.000000
+	FN => Wisconsin:[2196,2205]; score:1.000000; title:Wisconsin; score:1.000000
+	FN => CHATTANOOGA:[317,328]; score:1.000000; title:Chattanooga, Tennessee; score:1.000000
+	FN => Washington:[544,554]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Iowa:[2210,2214]; score:1.000000; title:Iowa; score:1.000000
+
+************************ System Result: ***************************
+	FP => Al Gore:[940,947]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => Chattanooga:[3510,3521]; score:1.000000; title:Chattanooga_Central_High_School; score:1.000000
+	FP => NYT:[118,121]; score:1.000000; title:Bagram_Air_Base; score:1.000000
+	FP => CHATTANOOGA:[317,328]; score:1.000000; title:Chattanooga_Central_High_School; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:4.0; fnCount:11.0
+[NYT20001109.1946.0315]
+***************** Gold Standard: ***********************
+	FN => Gainesville:[4314,4325]; score:1.000000; title:Gainesville, Florida; score:1.000000
+	FN => University of Florida:[4289,4310]; score:1.000000; title:University of Florida; score:1.000000
+	FN => Oregon:[2068,2074]; score:1.000000; title:Oregon; score:1.000000
+	FN => WASHINGTON:[88,98]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Ralph Nader:[101,112]; score:1.000000; title:Ralph Nader; score:1.000000
+	FN => America:[469,476]; score:1.000000; title:United States; score:1.000000
+ => Green Party:[3514,3525]; score:1.000000; title:Green Party of Florida; score:1.000000
+	FN => Florida:[1390,1397]; score:1.000000; title:Florida; score:1.000000
+	FN => Sierra Club:[4003,4014]; score:1.000000; title:Sierra Club; score:1.000000
+	FN => Portland:[2286,2294]; score:1.000000; title:Portland; score:1.000000
+	FN => White House:[1081,1092]; score:1.000000; title:White House; score:1.000000
+
+************************ System Result: ***************************
+	FP => Al Gore:[1378,1385]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => John Ruth:[1636,1645]; score:1.000000; title:Second_Class_Male/Time_To_Go; score:1.000000
+	FP => Sierra Club:[4003,4014]; score:1.000000; title:Elizabeth_May; score:1.000000
+ => Florida Green Party:[3506,3525]; score:1.000000; title:Green_Party_of_Florida; score:1.000000
+	FP => Dorothy Byrne:[3463,3476]; score:1.000000; title:Dorothy_Byrne_(mezzo-soprano); score:1.000000
+P/R/F:0.2/0.09090909/0.125; tpCount:1.0; fpCount:4.0; fnCount:10.0
+[NYT20001123.1511.0062]
+***************** Gold Standard: ***********************
+	FN => MSN network:[3113,3124]; score:1.000000; title:MSN; score:1.000000
+	FN => Fidelity Investments:[932,952]; score:1.000000; title:Fidelity Investments; score:1.000000
+	FN => Reader's Digest magazine:[2692,2716]; score:1.000000; title:Reader's Digest; score:1.000000
+	FN => Helen Hunt:[2143,2153]; score:1.000000; title:Helen Hunt; score:1.000000
+	FN => Reader's Digest Association:[2519,2546]; score:1.000000; title:Reader's Digest Association; score:1.000000
+ => Empire Blue Cross Blue Shield:[3075,3104]; score:1.000000; title:Blue Cross Blue Shield Association; score:1.000000
+	FN => Sprint Communications Co:[3698,3722]; score:1.000000; title:Sprint Nextel; score:1.000000
+	FN => ABC:[285,288]; score:1.000000; title:American Broadcasting Company; score:1.000000
+	FN => Times Square:[2404,2416]; score:1.000000; title:Times Square; score:1.000000
+	FN => Volvo:[3293,3298]; score:1.000000; title:Volvo; score:1.000000
+	FN => In Style Entertaining 2000 magazine:[1729,1764]; score:1.000000; title:InStyle; score:1.000000
+	FN => Fox Sports:[766,776]; score:1.000000; title:Fox Sports (USA); score:1.000000
+	FN => Jack Nicholson:[2127,2141]; score:1.000000; title:Jack Nicholson; score:1.000000
+ => Greg Kinnear:[2155,2167]; score:1.000000; title:Greg Kinnear; score:1.000000
+	FN => Roundabout Theater Company:[2346,2372]; score:1.000000; title:Roundabout Theatre Company; score:1.000000
+ => Campbell Soup Co:[2214,2230]; score:1.000000; title:Campbell Soup Company; score:1.000000
+	FN => PepsiCo:[1985,1992]; score:1.000000; title:Pepsico; score:1.000000
+	FN => CBS:[4238,4241]; score:1.000000; title:CBS; score:1.000000
+	FN => Sun Microsystems:[790,806]; score:1.000000; title:Sun Microsystems; score:1.000000
+	FN => Brooklyn:[4633,4641]; score:1.000000; title:Brooklyn; score:1.000000
+	FN => Land Rover:[3278,3288]; score:1.000000; title:Land Rover; score:1.000000
+	FN => Microsoft:[3128,3137]; score:1.000000; title:Microsoft; score:1.000000
+	FN => Ocean Spray Cranberries:[1435,1458]; score:1.000000; title:Ocean Spray (cooperative); score:1.000000
+	FN => Houston Grand Opera:[4040,4059]; score:1.000000; title:Houston Grand Opera; score:1.000000
+	FN => Levi:[2793,2797]; score:1.000000; title:Levi Strauss & Co.; score:1.000000
+	FN => James L. Brooks:[2172,2187]; score:1.000000; title:James L. Brooks; score:1.000000
+	FN => John Corbett:[3879,3891]; score:1.000000; title:John Corbett (actor); score:1.000000
+
+************************ System Result: ***************************
+	FP => STUART ELLIOTT:[26,40]; score:1.000000; title:Stuart_Elliott_(footballer_born_1978); score:1.000000
+	FP => Fox Sports:[766,776]; score:1.000000; title:Fox_College_Sports; score:1.000000
+	FP => Buick:[881,886]; score:1.000000; title:Barjack; score:1.000000
+	FP => Avaya Communication:[3632,3651]; score:1.000000; title:Avaya_Communication_Manager; score:1.000000
+ => Campbell Soup Co.:[2214,2231]; score:1.000000; title:Campbell_Soup_Company; score:1.000000
+	FP => American Airlines:[2421,2438]; score:1.000000; title:Boeing_747; score:1.000000
+	FP => Survivor II:[4271,4282]; score:1.000000; title:Survivor's_Law_II; score:1.000000
+	FP => Sun Microsystems:[790,806]; score:1.000000; title:KLM_Open; score:1.000000
+	FP => Aidan Shaw:[3917,3927]; score:1.000000; title:Sex_and_the_City_characters; score:0.666667
+	FP => Cream of Mushroom:[2247,2264]; score:1.000000; title:List_of_soups; score:0.280000
+	FP => Drew Carey Show:[367,382]; score:1.000000; title:List_of_The_Drew_Carey_Show_episodes; score:1.000000
+	FP => Super Bowl XXXV:[4308,4323]; score:1.000000; title:Super_Bowl_XXXV; score:1.000000
+	FP => James L. Brooks:[2172,2187]; score:1.000000; title:Room_222; score:1.000000
+	FP => Spin City:[391,400]; score:1.000000; title:Spin_City; score:1.000000
+ => Empire Blue Cross Blue Shield:[3075,3104]; score:1.000000; title:Blue_Cross_and_Blue_Shield_Association; score:1.000000
+	FP => MSN:[3113,3116]; score:1.000000; title:Windows_Live_Messenger; score:0.483425
+	FP => Citibank:[1049,1057]; score:1.000000; title:399_Park_Avenue; score:0.571429
+	FP => Chad World:[527,537]; score:1.000000; title:Chad_Collyer; score:1.000000
+	FP => Lucent Technologies:[3595,3614]; score:1.000000; title:Carly_Fiorina; score:1.000000
+	FP => Houston Grand Opera:[4040,4059]; score:1.000000; title:Porgy_and_Bess; score:1.000000
+	FP => Tropicana:[1963,1972]; score:1.000000; title:Tropicana_Resort_&_Casino; score:1.000000
+ => Greg Kinnear:[2155,2167]; score:1.000000; title:Greg_Kinnear; score:1.000000
+	FP => New York:[1222,1230]; score:1.000000; title:New_York_Post; score:1.000000
+	FP => Arthur Godfrey:[3487,3501]; score:1.000000; title:Godfrey_Brown; score:1.000000
+P/R/F:0.125/0.11111111/0.11764707; tpCount:3.0; fpCount:21.0; fnCount:24.0
+[VOA20001129.2000.0364]
+***************** Gold Standard: ***********************
+	FN => legislature:[2981,2992]; score:1.000000; title:Florida Legislature; score:1.000000
+	FN => Johns Hopkins University:[412,436]; score:1.000000; title:Johns Hopkins University; score:1.000000
+	FN => Gore:[838,842]; score:1.000000; title:Al Gore; score:1.000000
+	FN => Lawrence Tribe:[770,784]; score:1.000000; title:Laurence Tribe; score:1.000000
+	FN => Supreme Court:[171,184]; score:1.000000; title:Supreme Court of the United States; score:1.000000
+	FN => Joe O'Grossman:[345,359]; score:1.000000; title:Joel Grossman; score:1.000000
+	FN => Baltimore:[400,409]; score:1.000000; title:Baltimore; score:1.000000
+	FN => Washington:[59,69]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Congress:[3237,3245]; score:1.000000; title:United States Congress; score:1.000000
+
+************************ System Result: ***************************
+	FP => Harvard Law School:[790,808]; score:1.000000; title:Charles_Nesson; score:1.000000
+	FP => US Supreme Court:[168,184]; score:1.000000; title:Red_Lion_Broadcasting_Co._v._Federal_Communications_Commission; score:1.000000
+	FP => Federal Courts:[248,262]; score:1.000000; title:Attorney-client_privilege; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:9.0
+[20001115_AFP_ARB.0060.eng]
+***************** Gold Standard: ***********************
+	FN => Sultanate of Brunei:[751,770]; score:1.000000; title:Brunei; score:1.000000
+	FN => Bandar Seri Begawan:[2,21]; score:1.000000; title:Bandar Seri Begawan; score:1.000000
+	FN => AFP:[29,32]; score:1.000000; title:Agence France-Presse; score:1.000000
+	FN => Iran:[2438,2442]; score:1.000000; title:Iran; score:1.000000
+
+************************ System Result: ***************************
+	FP => Putin:[893,898]; score:1.000000; title:Russia; score:1.000000
+	FP => Putin:[2462,2467]; score:1.000000; title:Russia; score:1.000000
+	FP => Putin:[633,638]; score:1.000000; title:Russia; score:1.000000
+	FP => George Bush Junior:[1907,1925]; score:1.000000; title:W._(film); score:1.000000
+	FP => Putin:[209,214]; score:1.000000; title:Russia; score:1.000000
+	FP => Bandar Seri Begawan:[2,21]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+	FP => NMD:[1726,1729]; score:1.000000; title:Railway_stations_in_the_Netherlands; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[662,695]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Putin:[1066,1071]; score:1.000000; title:Russia; score:1.000000
+	FP => Bandar Seri Begawan:[712,731]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+	FP => Putin:[458,463]; score:1.000000; title:Russia; score:1.000000
+	FP => APEC:[697,701]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Edmond Bob:[2671,2681]; score:1.000000; title:Bob_Edmond; score:1.000000
+	FP => NMD:[1575,1578]; score:1.000000; title:Railway_stations_in_the_Netherlands; score:1.000000
+	FP => Sultanate:[751,760]; score:1.000000; title:Sultan; score:0.865870
+	FP => Putin:[1378,1383]; score:1.000000; title:Russia; score:1.000000
+	FP => NMD:[1954,1957]; score:1.000000; title:Railway_stations_in_the_Netherlands; score:1.000000
+	FP => Putin:[2884,2889]; score:1.000000; title:Russia; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:18.0; fnCount:4.0
+[20001115_AFP_ARB.0212.eng]
+***************** Gold Standard: ***********************
+	FN => America:[44,51]; score:1.000000; title:United States; score:1.000000
+	FN => Middle East:[670,681]; score:1.000000; title:Middle East; score:1.000000
+	FN => Time magazine:[902,915]; score:1.000000; title:Time (magazine); score:1.000000
+	FN => Globalization Studies Center:[384,412]; score:1.000000; title:Yale Center for the Study of Globalization; score:1.000000
+	FN => Madeleine Albright:[136,154]; score:1.000000; title:Madeleine Albright; score:1.000000
+ => Richard Levin:[295,308]; score:1.000000; title:Rick Levin; score:1.000000
+	FN => Yale University:[236,251]; score:1.000000; title:Yale University; score:1.000000
+
+************************ System Result: ***************************
+	FP => Stewart Talbot:[28,42]; score:1.000000; title:Sharp_Stewart_0-8-2T; score:1.000000
+ => Richard Levin:[295,308]; score:1.000000; title:Rick_Levin; score:1.000000
+	FP => Dennis Ross:[683,694]; score:1.000000; title:Dennis_Ross; score:1.000000
+P/R/F:0.33333334/0.14285715/0.2; tpCount:1.0; fpCount:2.0; fnCount:6.0
+[chtb_267.eng]
+***************** Gold Standard: ***********************
+	FN => Beijing:[22,29]; score:1.000000; title:Beijing; score:1.000000
+	FN => China:[209,214]; score:1.000000; title:China; score:1.000000
+	FN => Taiwan:[2727,2733]; score:1.000000; title:Taiwan; score:1.000000
+ => Rudong:[1927,1933]; score:1.000000; title:Rudong County; score:1.000000
+	FN => US:[92,94]; score:1.000000; title:United States; score:1.000000
+	FN => South Korea:[2711,2722]; score:1.000000; title:South Korea; score:1.000000
+	FN => Weir Group:[74,84]; score:1.000000; title:Weir Group; score:1.000000
+	FN => Jiangsu Province:[155,171]; score:1.000000; title:Jiangsu; score:1.000000
+	FN => Japan:[2704,2709]; score:1.000000; title:Japan; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000; title:Xinhua News Agency; score:1.000000
+
+************************ System Result: ***************************
+	FP => Weir Group:[1427,1437]; score:1.000000; title:Weir_Group; score:1.000000
+	FP => Weir Group:[1731,1741]; score:1.000000; title:Weir_Group; score:1.000000
+	FP => Weir Group:[2104,2114]; score:1.000000; title:Weir_Group; score:1.000000
+	FP => Weir Group:[3128,3138]; score:1.000000; title:Weir_Group; score:1.000000
+	FP => Xinhua News Agency:[424,442]; score:1.000000; title:Xinhua_News_Agency; score:1.000000
+ => Rudong:[1927,1933]; score:1.000000; title:Rudong_County; score:1.000000
+	FP => Weir Group:[2316,2326]; score:1.000000; title:Weir_Group; score:1.000000
+	FP => Jiangsu Province:[155,171]; score:1.000000; title:Jiangsu_Province_Kunqu_Theatre; score:1.000000
+	FP => Weir Group:[2159,2169]; score:1.000000; title:Weir_Group; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000; title:Xinhua_News_Agency; score:1.000000
+P/R/F:0.2/0.2/0.20000002; tpCount:2.0; fpCount:8.0; fnCount:8.0
+[20001115_AFP_ARB.0013.eng]
+***************** Gold Standard: ***********************
+	FN => Bandar Seri Begawan:[2,21]; score:1.000000; title:Bandar Seri Begawan; score:1.000000
+	FN => Brunei:[456,462]; score:1.000000; title:Brunei; score:1.000000
+	FN => State of Florida:[333,349]; score:1.000000; title:Florida; score:1.000000
+	FN => AFP:[29,32]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Asia-Pacific Economic Cooperation:[413,446]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Al Gore:[507,514]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => Al Gore:[1159,1166]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => Apec:[1575,1579]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Bandar Seri Begawan:[2,21]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:5.0; fnCount:4.0
+[chtb_165.eng]
+***************** Gold Standard: ***********************
+ => Tokyo Mitsubishi Bank:[445,466]; score:1.000000; title:The Bank of Tokyo-Mitsubishi UFJ; score:1.000000
+	FN => Pudong:[287,293]; score:1.000000; title:Pudong; score:1.000000
+	FN => Hong Kong:[419,428]; score:1.000000; title:Hong Kong; score:1.000000
+	FN => Japan:[437,442]; score:1.000000; title:Japan; score:1.000000
+	FN => China Shipping Mansion:[121,143]; score:1.000000; title:International Ocean Shipping Building; score:1.000000
+	FN => HSBC:[79,83]; score:1.000000; title:HSBC; score:1.000000
+	FN => Shanghai:[22,30]; score:1.000000; title:Shanghai; score:1.000000
+	FN => Citibank:[409,417]; score:1.000000; title:Citibank; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000; title:Xinhua News Agency; score:1.000000
+	FN => US:[404,406]; score:1.000000; title:United States; score:1.000000
+
+************************ System Result: ***************************
+	FP => Citibank:[409,417]; score:1.000000; title:399_Park_Avenue; score:0.571429
+ => Tokyo Mitsubishi Bank:[445,466]; score:1.000000; title:The_Bank_of_Tokyo-Mitsubishi_UFJ; score:1.000000
+	FP => Pudong:[1008,1014]; score:1.000000; title:Shanghai_Pudong_International_Airport; score:1.000000
+	FP => Pudong:[287,293]; score:1.000000; title:Shanghai_Pudong_International_Airport; score:1.000000
+	FP => Pudong:[733,739]; score:1.000000; title:Shanghai_Pudong_International_Airport; score:1.000000
+	FP => Dai-Ichi Kangyo Bank:[607,627]; score:1.000000; title:Dai-Ichi_Kangyo_Bank; score:1.000000
+	FP => Pudong:[1435,1441]; score:1.000000; title:Shanghai_Pudong_International_Airport; score:1.000000
+	FP => Industrial Bank:[476,491]; score:1.000000; title:List_of_United_Kingdom_locations; score:1.000000
+	FP => Pudong:[1526,1532]; score:1.000000; title:Shanghai_Pudong_International_Airport; score:1.000000
+	FP => Lujiazui:[1046,1054]; score:1.000000; title:One_Lujiazui; score:1.000000
+ => Xinhua News Agency:[2,20]; score:1.000000; title:Xinhua_News_Agency; score:1.000000
+P/R/F:0.18181819/0.2/0.19047621; tpCount:2.0; fpCount:9.0; fnCount:8.0
+[20001115_AFP_ARB.0217.eng]
+***************** Gold Standard: ***********************
+	FN => Bandar Seri Begawan:[2,21]; score:1.000000; title:Bandar Seri Begawan; score:1.000000
+	FN => Irkotsik:[636,644]; score:1.000000; title:Irkutsk; score:1.000000
+	FN => Russia:[98,104]; score:1.000000; title:Russia; score:1.000000
+	FN => Brunei:[553,559]; score:1.000000; title:Brunei; score:1.000000
+	FN => AFP:[29,32]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Putin:[1135,1140]; score:1.000000; title:Russia; score:1.000000
+	FP => Coral Islands:[221,234]; score:1.000000; title:Coral_Sea_Islands; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[510,543]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Yoshiro Mori:[473,485]; score:1.000000; title:Yoshirō_Mori; score:1.000000
+	FP => Bandar Seri Begawan:[2,21]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:5.0; fnCount:5.0
+[20001115_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+	FN => Baghdad:[2,9]; score:1.000000; title:Baghdad; score:1.000000
+	FN => Iraq:[128,132]; score:1.000000; title:Iraq; score:1.000000
+	FN => AFP:[17,20]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+P/R/F:1.0/0.0/0.0; tpCount:0.0; fpCount:0.0; fnCount:3.0
+[NYT20001124.2050.0257]
+***************** Gold Standard: ***********************
+ => Asia:[147,151]; score:1.000000; title:Asia; score:1.000000
+	FN => Malaysia:[1358,1366]; score:1.000000; title:Malaysia; score:1.000000
+	FN => South Korea:[1371,1382]; score:1.000000; title:South Korea; score:1.000000
+	FN => China:[2428,2433]; score:1.000000; title:People's Republic of China; score:1.000000
+	FN => United States:[2264,2277]; score:1.000000; title:United States; score:1.000000
+	FN => HONG KONG:[112,121]; score:1.000000; title:Hong Kong; score:1.000000
+ => Bloomberg News:[2128,2142]; score:1.000000; title:Bloomberg Television; score:1.000000
+	FN => Chen Shui-bian:[1242,1256]; score:1.000000; title:Chen Shui-bian; score:1.000000
+	FN => Indonesia:[1101,1110]; score:1.000000; title:Indonesia; score:1.000000
+	FN => Taiwan:[1089,1095]; score:1.000000; title:Taiwan; score:1.000000
+ => Hong Kong General Chamber of Commerce:[2673,2710]; score:1.000000; title:Hong Kong General Chamber of Commerce; score:1.000000
+	FN => Philippines:[1076,1087]; score:1.000000; title:Philippines; score:1.000000
+	FN => Singapore:[1969,1978]; score:1.000000; title:Singapore; score:1.000000
+	FN => International Monetary Fund:[552,579]; score:1.000000; title:International Monetary Fund; score:1.000000
+
+************************ System Result: ***************************
+ => Asia:[147,151]; score:1.000000; title:Asia; score:0.808361
+	FP => Asia:[3668,3672]; score:1.000000; title:Asia; score:0.808361
+	FP => Asia:[1028,1032]; score:1.000000; title:Asia; score:0.808361
+	FP => Asia:[4117,4121]; score:1.000000; title:Asia; score:0.808361
+ => Hong Kong General Chamber of Commerce:[2673,2710]; score:1.000000; title:Hong_Kong_General_Chamber_of_Commerce; score:1.000000
+	FP => Chen Shui-bian:[1242,1256]; score:1.000000; title:Taiwan_independence; score:1.000000
+	FP => Asia:[3322,3326]; score:1.000000; title:Asia; score:0.808361
+	FP => LANDLER:[35,42]; score:1.000000; title:Jenő_Landler; score:1.000000
+	FP => International Monetary Fund:[552,579]; score:1.000000; title:Christine_Lagarde; score:1.000000
+ => Bloomberg News:[2128,2142]; score:1.000000; title:Bloomberg_Television; score:1.000000
+	FP => Asia:[3119,3123]; score:1.000000; title:Asia; score:0.808361
+	FP => Joseph Estrada:[1195,1209]; score:1.000000; title:Trial_of_Joseph_Estrada; score:1.000000
+P/R/F:0.25/0.21428572/0.23076923; tpCount:3.0; fpCount:9.0; fnCount:11.0
+[20001115_AFP_ARB.0089.eng]
+***************** Gold Standard: ***********************
+	FN => Beirut:[330,336]; score:1.000000; title:Beirut; score:1.000000
+	FN => Lebanon:[9,16]; score:1.000000; title:Lebanon; score:1.000000
+	FN => Jerusalem:[1318,1327]; score:1.000000; title:Jerusalem; score:1.000000
+	FN => AFP:[25,28]; score:1.000000; title:Agence France-Presse; score:1.000000
+	FN => Palestinian National Council:[198,226]; score:1.000000; title:Palestinian National Council; score:1.000000
+	FN => Lebanon:[731,738]; score:1.000000; title:Lebanon; score:1.000000
+	FN => Souer:[308,313]; score:1.000000; title:Tyre, Lebanon; score:1.000000
+	FN => Saida:[708,713]; score:1.000000; title:Sidon; score:1.000000
+	FN => Algeria:[230,237]; score:1.000000; title:Algeria; score:1.000000
+
+************************ System Result: ***************************
+	FP => Palestinian Intifada:[2041,2061]; score:1.000000; title:Intifada; score:1.000000
+	FP => Fatah:[785,790]; score:1.000000; title:Fatah_al-Intifada; score:1.000000
+	FP => Mohamed al-Dura:[448,463]; score:1.000000; title:Muhammad_al-Durrah; score:1.000000
+	FP => Souer:[308,313]; score:1.000000; title:Maria-sama_ga_Miteru; score:1.000000
+	FP => France Presse:[583,596]; score:1.000000; title:La_Presse_(French_newspaper); score:1.000000
+	FP => Fatah:[1592,1597]; score:1.000000; title:Fatah_al-Intifada; score:1.000000
+	FP => Khalid Arif:[966,977]; score:1.000000; title:Khalid_Mahmud_Arif; score:1.000000
+	FP => Fatah:[1000,1005]; score:1.000000; title:Fatah_al-Intifada; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:8.0; fnCount:9.0
+[APW20001001.2021.0521]
+***************** Gold Standard: ***********************
+	FN => AP:[16,18]; score:1.000000; title:Associated Press; score:1.000000
+	FN => Jerusalem:[500,509]; score:1.000000; title:Jerusalem; score:1.000000
+	FN => West Bank:[474,483]; score:1.000000; title:West Bank; score:1.000000
+	FN => President:[110,119]; score:1.000000; title:President of Egypt; score:1.000000
+	FN => Iraq:[317,321]; score:1.000000; title:Iraq; score:1.000000
+	FN => CAIRO:[2,7]; score:1.000000; title:Cairo; score:1.000000
+	FN => Syria:[53,58]; score:1.000000; title:Syria; score:1.000000
+	FN => Egypt:[9,14]; score:1.000000; title:Egypt; score:1.000000
+	FN => Gaza Strip:[485,495]; score:1.000000; title:Gaza Strip; score:1.000000
+
+************************ System Result: ***************************
+	FP => Assad:[222,227]; score:1.000000; title:Assaad_Hardan; score:1.000000
+	FP => Assad:[2142,2147]; score:1.000000; title:Assaad_Hardan; score:1.000000
+	FP => Assad:[799,804]; score:1.000000; title:Assaad_Hardan; score:1.000000
+	FP => U.N.:[2351,2355]; score:1.000000; title:United_Nations_Foundation; score:1.000000
+	FP => Yemen:[2309,2314]; score:1.000000; title:Yemen; score:0.742570
+	FP => Golan Heights:[1975,1988]; score:1.000000; title:Six-Day_War; score:1.000000
+	FP => Assad:[2254,2259]; score:1.000000; title:Assaad_Hardan; score:1.000000
+	FP => Mideast:[146,153]; score:1.000000; title:Six-Day_War; score:1.000000
+	FP => Gaza Strip:[485,495]; score:1.000000; title:Fatah–Hamas_conflict; score:1.000000
+	FP => Hafez Assad:[2777,2788]; score:1.000000; title:Muammar_al-Gaddafi; score:1.000000
+	FP => Bashar Assad:[1063,1075]; score:1.000000; title:Bashar_al-Assad; score:1.000000
+	FP => Hafez Assad:[859,870]; score:1.000000; title:Muammar_al-Gaddafi; score:1.000000
+	FP => Bashar Assad:[72,84]; score:1.000000; title:Bashar_al-Assad; score:1.000000
+	FP => Assad:[611,616]; score:1.000000; title:Assaad_Hardan; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:14.0; fnCount:9.0
+[20001115_AFP_ARB.0210.eng]
+***************** Gold Standard: ***********************
+	FN => Supreme Court:[49,62]; score:1.000000; title:Supreme Court of Florida; score:1.000000
+	FN => AFP:[37,40]; score:1.000000; title:Agence France-Presse; score:1.000000
+	FN => Tallahassee:[2,13]; score:1.000000; title:Tallahassee, Florida; score:1.000000
+	FN => United States:[15,28]; score:1.000000; title:United States; score:1.000000
+	FN => Florida:[66,73]; score:1.000000; title:Florida; score:1.000000
+
+************************ System Result: ***************************
+P/R/F:1.0/0.0/0.0; tpCount:0.0; fpCount:0.0; fnCount:5.0
+[chtb_227.eng]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+	FP => Russian-speaking:[1112,1128]; score:1.000000; title:History_of_Russians_in_Estonia; score:1.000000
+	FP => Xinhua News Agency:[2,20]; score:1.000000; title:Xinhua_News_Agency; score:1.000000
+P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:0.0
+[20001115_AFP_ARB.0093.eng]
+***************** Gold Standard: ***********************
+	FN => Palestinian Superior Security Council:[1200,1237]; score:1.000000; title:Palestinian National Council; score:1.000000
+	FN => Bandar Seri Begawan:[2,21]; score:1.000000; title:Bandar Seri Begawan; score:1.000000
+	FN => White House:[354,365]; score:1.000000; title:White House; score:1.000000
+	FN => United States:[41,54]; score:1.000000; title:United States; score:1.000000
+	FN => AFP:[29,32]; score:1.000000; title:Agence France-Presse; score:1.000000
+
+************************ System Result: ***************************
+	FP => Palestinian Authority:[171,192]; score:1.000000; title:Economy_of_the_Palestinian_territories; score:1.000000
+	FP => Palestinian Authority:[1707,1728]; score:1.000000; title:Economy_of_the_Palestinian_territories; score:1.000000
+	FP => Asia-Pacific Economic Cooperation:[748,781]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Sultanate of Brunei:[421,440]; score:1.000000; title:Kingdom_of_Maynila; score:1.000000
+	FP => Gaza Strip:[1750,1760]; score:1.000000; title:Fatah–Hamas_conflict; score:1.000000
+	FP => APEC:[789,793]; score:1.000000; title:APEC_Russia_2012; score:1.000000
+	FP => Bandar Seri Begawan:[381,400]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+	FP => Bandar Seri Begawan:[2,21]; score:1.000000; title:Downtown_Bandar_Seri_Begawan; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:8.0; fnCount:5.0
+[NYT20001125.1558.0117]
+***************** Gold Standard: ***********************
+	FN => Department of Natural Resources:[904,935]; score:1.000000; title:Michigan Department of Natural Resources and Environment; score:1.000000
+	FN => New York:[640,648]; score:1.000000; title:New York; score:1.000000
+ => GROSSE POINTE PARK:[55,73]; score:1.000000; title:Grosse Pointe Park, Michigan; score:1.000000
+	FN => Mich.:[75,80]; score:1.000000; title:Michigan; score:1.000000
+	FN => Detroit:[2481,2488]; score:1.000000; title:Detroit; score:1.000000
+	FN => Pennsylvania:[653,665]; score:1.000000; title:Pennsylvania; score:1.000000
+
+************************ System Result: ***************************
+	FP => Art Bush:[2378,2386]; score:1.000000; title:Bush's_Pasture_Park; score:1.000000
+ => GROSSE POINTE PARK:[55,73]; score:1.000000; title:Grosse_Pointe_Park,_Michigan; score:1.000000
+	FP => New York:[640,648]; score:1.000000; title:New_York_Post; score:1.000000
+	FP => Rule No.:[2506,2514]; score:1.000000; title:Augustine's_laws; score:1.000000
+P/R/F:0.25/0.16666667/0.2; tpCount:1.0; fpCount:3.0; fnCount:5.0
+[20000715_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+	FN => Jerusalem:[2,11]; score:1.000000; title:Jerusalem; score:1.000000
+	FN => Moscow:[877,883]; score:1.000000; title:Moscow; score:1.000000
+	FN => Iran:[106,110]; score:1.000000; title:Iran; score:1.000000
+	FN => AFP:[18,21]; score:1.000000; title:Agence France-Presse; score:1.000000
+	FN => Ministry of Defense:[2212,2231]; score:1.000000; title:Ministry of Defense and Armed Forces Logistics (Iran); score:1.000000
+
+************************ System Result: ***************************
+	FP => Ephraim Sneh:[1749,1761]; score:1.000000; title:Efraim_Sneh; score:1.000000
+	FP => Sneh:[1917,1921]; score:1.000000; title:Eskimo_words_for_snow; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:5.0
+[PRI20001201.2000.1828]
+***************** Gold Standard: ***********************
+	FN => Ruth Bater Ginsburg:[437,456]; score:1.000000; title:Ruth Bader Ginsburg; score:1.000000
+	FN => US Supreme Court:[63,79]; score:1.000000; title:Supreme Court of the United States; score:1.000000
+	FN => BBC News:[6,14]; score:1.000000; title:BBC News; score:1.000000
+	FN => Washington:[1115,1125]; score:1.000000; title:Washington, D.C.; score:1.000000
+	FN => Sandra Day O'Connor:[776,795]; score:1.000000; title:Sandra Day O'Connor; score:1.000000
+	FN => London:[18,24]; score:1.000000; title:London; score:1.000000
+	FN => Florida Supreme Court:[541,562]; score:1.000000; title:Supreme Court of Florida; score:1.000000
+
+************************ System Result: ***************************
+	FP => Florida Supreme Court:[1144,1165]; score:1.000000; title:Joseph_Lancaster; score:1.000000
+	FP => Miami Dade:[1291,1301]; score:1.000000; title:Miami-Dade_Expressway_Authority; score:1.000000
+	FP => Federal High Court:[498,516]; score:1.000000; title:Islamabad_High_Court; score:1.000000
+	FP => Florida Supreme Court:[541,562]; score:1.000000; title:Joseph_Lancaster; score:1.000000
+	FP => AL Gore:[345,352]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+	FP => US Supreme Court:[1013,1029]; score:1.000000; title:Red_Lion_Broadcasting_Co._v._Federal_Communications_Commission; score:1.000000
+	FP => State Supreme Court:[731,750]; score:1.000000; title:South_Carolina_Supreme_Court; score:0.133333
+	FP => US Supreme Court:[63,79]; score:1.000000; title:Red_Lion_Broadcasting_Co._v._Federal_Communications_Commission; score:1.000000
+	FP => Al Gore:[1204,1211]; score:1.000000; title:High_Performance_Computing_and_Communication_Act_of_1991; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:9.0; fnCount:7.0

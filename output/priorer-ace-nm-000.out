@@ -1,13 +1,31 @@
+[VOA20001223.2000.0139]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[VOA20001220.2000.0060]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+	FP => Al Koha Chairman Paul O:[110,133] score:1.000000; title:*null*; score:1.000000
+	FP => David Coler:[6,17] score:1.000000; title:*null*; score:1.000000
+	FP => Anne Venemon:[216,228] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:0.0
 [NYT20001217.2241.0165]
 ***************** Gold Standard: ***********************
  => 400 Seventh St. S.W.:[4859,4879] score:1.000000; title:*null*; score:1.000000
 
 ************************ System Result: ***************************
 	FP => LAURENCE ZUCKERMAN:[212,230] score:1.000000; title:*null*; score:1.000000
- => S.W.   Washington:[4875,4892] score:1.000000; title:*null*; score:1.000000
 	FP => Air Travel Consumer Report:[4685,4711] score:1.000000; title:*null*; score:1.000000
+ => S.W.   Washington:[4875,4892] score:1.000000; title:*null*; score:1.000000
 	FP => N.Y. Times News Service:[258,281] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.25/1.0/0.4; tpCount:1.0; fpCount:3.0; fnCount:0.0
+[PRI20001122.2000.0320]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
 [20001015_AFP_ARB.0053.eng]
 ***************** Gold Standard: ***********************
  => Saudi Soccer Federation:[28,51] score:1.000000; title:*null*; score:1.000000
@@ -43,6 +61,16 @@ P/R/F:0.2/1.0/0.3333333; tpCount:2.0; fpCount:8.0; fnCount:0.0
 	FP => Catwell:[2433,2440] score:1.000000; title:*null*; score:1.000000
 	FP => Jennifer Nesan:[2828,2842] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.2/0.6666667/0.30769232; tpCount:2.0; fpCount:8.0; fnCount:1.0
+[NYT20001129.2040.0383]
+***************** Gold Standard: ***********************
+ => Kendall Coffey:[2978,2992] score:1.000000; title:*null*; score:1.000000
+	FN => Barry Richard:[1591,1604] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => N.Y. Times News Service:[281,304] score:1.000000; title:*null*; score:1.000000
+ => Kendall Coffey:[2978,2992] score:1.000000; title:*null*; score:1.000000
+	FP => N. Sanders Sauls:[1199,1215] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.33333334/0.5/0.4; tpCount:1.0; fpCount:2.0; fnCount:1.0
 [VOA20001020.2100.1853]
 ***************** Gold Standard: ***********************
 	FN => USS Cole:[26,34] score:1.000000; title:*null*; score:1.000000
@@ -57,6 +85,15 @@ P/R/F:1.0/0.0/0.0; tpCount:0.0; fpCount:0.0; fnCount:1.0
 ************************ System Result: ***************************
  => Wadi Marjayoun:[1501,1515] score:1.000000; title:*null*; score:1.000000
 P/R/F:1.0/0.5/0.6666667; tpCount:1.0; fpCount:0.0; fnCount:1.0
+[20001115_AFP_ARB.0061.eng]
+***************** Gold Standard: ***********************
+	FN => area "A":[191,199] score:1.000000; title:*null*; score:1.000000
+ => Palestinian Superior Security Council:[84,121] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => Palestinian Superior Security Council:[255,292] score:1.000000; title:*null*; score:1.000000
+ => Palestinian Superior Security Council:[84,121] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.5/0.5/0.5; tpCount:1.0; fpCount:1.0; fnCount:1.0
 [20001115_AFP_ARB.0065.eng]
 ***************** Gold Standard: ***********************
 
@@ -69,133 +106,9 @@ P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:0.0
 ***************** Gold Standard: ***********************
 
 ************************ System Result: ***************************
-	FP => Nitsarim:[1026,1034] score:1.000000; title:*null*; score:1.000000
 	FP => Alkarara:[735,743] score:1.000000; title:*null*; score:1.000000
+	FP => Nitsarim:[1026,1034] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:0.0
-[20001115_AFP_ARB.0212.eng]
-***************** Gold Standard: ***********************
-	FN => northeast:[281,290] score:1.000000; title:*null*; score:1.000000
-	FN => State:[77,82] score:1.000000; title:*null*; score:1.000000
-	FN => Stewart Talbot:[28,42] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
-	FP => Globalization Studies Center:[384,412] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:3.0
-[chtb_165.eng]
-***************** Gold Standard: ***********************
- => Pudong Lujiazui financial trading district:[151,193] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
-	FP => Jierong Zhou  Recently:[55,77] score:1.000000; title:*null*; score:1.000000
-	FP => BNP Paris Bank:[560,574] score:1.000000; title:*null*; score:1.000000
-	FP => China Shipping Mansion:[121,143] score:1.000000; title:*null*; score:1.000000
-	FP => Shanghai Branch of Japan:[636,660] score:1.000000; title:*null*; score:1.000000
-	FP => Templeton Company:[1689,1706] score:1.000000; title:*null*; score:1.000000
- => Pudong Lujiazui:[151,166] score:1.000000; title:*null*; score:1.000000
-	FP => Shanghai Branch of the Japan Industrial Bank:[1910,1954] score:1.000000; title:*null*; score:1.000000
-	FP => Shanghai Branch of Japan:[580,604] score:1.000000; title:*null*; score:1.000000
-	FP => Holland Co-operation Bank:[1960,1985] score:1.000000; title:*null*; score:1.000000
-	FP => Pudong Lujiazui Financial Trade District:[796,836] score:1.000000; title:*null*; score:1.000000
-	FP => Franklin Templeton Company:[1233,1259] score:1.000000; title:*null*; score:1.000000
-	FP => Lujiazui Financial Trading District:[2075,2110] score:1.000000; title:*null*; score:1.000000
-	FP => Shanghai Branch of the Belgium Credit Bank:[1987,2029] score:1.000000; title:*null*; score:1.000000
-	FP => Waitan:[2307,2313] score:1.000000; title:*null*; score:1.000000
-	FP => Shanghai Branch of the Standard and Chartered Bank:[497,547] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.06666667/1.0/0.125; tpCount:1.0; fpCount:14.0; fnCount:0.0
-[20001115_AFP_ARB.0072.eng]
-***************** Gold Standard: ***********************
-
-************************ System Result: ***************************
-	FP => French Interests Section:[41,65] score:1.000000; title:*null*; score:1.000000
-	FP => Andre Janier:[89,101] score:1.000000; title:*null*; score:1.000000
-	FP => Janier:[308,314] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:0.0
-[NYT20001124.2050.0257]
-***************** Gold Standard: ***********************
- => Ian Perkin:[2638,2648] score:1.000000; title:*null*; score:1.000000
-	FN => David Robinson:[883,897] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
- => Ian Perkin:[2638,2648] score:1.000000; title:*null*; score:1.000000
-	FP => N.Y. Times News Service:[70,93] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.5/0.5/0.5; tpCount:1.0; fpCount:1.0; fnCount:1.0
-[APW20001001.2021.0521]
-***************** Gold Standard: ***********************
-
-************************ System Result: ***************************
-	FP => Syrian-Israeli:[1870,1884] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:0.0
-[chtb_227.eng]
-***************** Gold Standard: ***********************
- => International Correspondence Communication News Agency:[841,895] score:1.000000; title:*null*; score:1.000000
- => Klelov:[909,915] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
- => International Correspondence Communication News Agency:[841,895] score:1.000000; title:*null*; score:1.000000
- => Klelov:[909,915] score:1.000000; title:*null*; score:1.000000
-	FP => Rong Xie:[55,63] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.6666667/1.0/0.8; tpCount:2.0; fpCount:1.0; fnCount:0.0
-[NYT20001125.1558.0117]
-***************** Gold Standard: ***********************
-	FN => Peter Thompson:[3719,3733] score:1.000000; title:*null*; score:1.000000
-	FN => Rob Williams:[2330,2342] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
-	FP => Koppelo:[1639,1646] score:1.000000; title:*null*; score:1.000000
-	FP => Koppelo:[3144,3151] score:1.000000; title:*null*; score:1.000000
-	FP => Koppelo:[3032,3039] score:1.000000; title:*null*; score:1.000000
-	FP => Michigan Department of Natural Resources &UR;:[895,940] score:1.000000; title:*null*; score:1.000000
-	FP => N.Y. Times News Service:[13,36] score:1.000000; title:*null*; score:1.000000
-	FP => Larry D. Sargent:[1946,1962] score:1.000000; title:*null*; score:1.000000
-	FP => Koppelo:[3426,3433] score:1.000000; title:*null*; score:1.000000
-	FP => Suzanne Koppelo:[811,826] score:1.000000; title:*null*; score:1.000000
-	FP => Koppelo:[1331,1338] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:9.0; fnCount:2.0
-[20000715_AFP_ARB.0072.eng]
-***************** Gold Standard: ***********************
- => Tehran Radio:[2237,2249] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
- => Tehran Radio:[2237,2249] score:1.000000; title:*null*; score:1.000000
-	FP => Soviet Scud:[1264,1275] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.5/1.0/0.6666667; tpCount:1.0; fpCount:1.0; fnCount:0.0
-[VOA20001223.2000.0139]
-***************** Gold Standard: ***********************
-
-************************ System Result: ***************************
-P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
-[VOA20001220.2000.0060]
-***************** Gold Standard: ***********************
-
-************************ System Result: ***************************
-	FP => Anne Venemon:[216,228] score:1.000000; title:*null*; score:1.000000
-	FP => Al Koha Chairman Paul O:[110,133] score:1.000000; title:*null*; score:1.000000
-	FP => David Coler:[6,17] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:0.0
-[PRI20001122.2000.0320]
-***************** Gold Standard: ***********************
-
-************************ System Result: ***************************
-P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
-[NYT20001129.2040.0383]
-***************** Gold Standard: ***********************
- => Kendall Coffey:[2978,2992] score:1.000000; title:*null*; score:1.000000
-	FN => Barry Richard:[1591,1604] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
- => Kendall Coffey:[2978,2992] score:1.000000; title:*null*; score:1.000000
-	FP => N.Y. Times News Service:[281,304] score:1.000000; title:*null*; score:1.000000
-	FP => N. Sanders Sauls:[1199,1215] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.33333334/0.5/0.4; tpCount:1.0; fpCount:2.0; fnCount:1.0
-[20001115_AFP_ARB.0061.eng]
-***************** Gold Standard: ***********************
-	FN => area "A":[191,199] score:1.000000; title:*null*; score:1.000000
- => Palestinian Superior Security Council:[84,121] score:1.000000; title:*null*; score:1.000000
-
-************************ System Result: ***************************
-	FP => Palestinian Superior Security Council:[255,292] score:1.000000; title:*null*; score:1.000000
- => Palestinian Superior Security Council:[84,121] score:1.000000; title:*null*; score:1.000000
-P/R/F:0.5/0.5/0.5; tpCount:1.0; fpCount:1.0; fnCount:1.0
 [NYT20001101.2212.0429]
 ***************** Gold Standard: ***********************
  => Integral Capital:[2145,2161] score:1.000000; title:*null*; score:1.000000
@@ -208,8 +121,8 @@ P/R/F:0.5/0.5/0.5; tpCount:1.0; fpCount:1.0; fnCount:1.0
  => Integral Capital:[2145,2161] score:1.000000; title:*null*; score:1.000000
 	FP => N.Y. Times News Service:[57,80] score:1.000000; title:*null*; score:1.000000
  => Jessica Reif:[2449,2461] score:1.000000; title:*null*; score:1.000000
- => Tom Wolzien:[1577,1588] score:1.000000; title:*null*; score:1.000000
  => Larry Haverty:[820,833] score:1.000000; title:*null*; score:1.000000
+ => Tom Wolzien:[1577,1588] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.8/0.8/0.8000001; tpCount:4.0; fpCount:1.0; fnCount:1.0
 [20001015_AFP_ARB.0229.eng]
 ***************** Gold Standard: ***********************
@@ -223,16 +136,16 @@ P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:0.0
 
 ************************ System Result: ***************************
 	FP => Gregor Craigy:[31,44] score:1.000000; title:*null*; score:1.000000
- => David Chezan:[330,342] score:1.000000; title:*null*; score:1.000000
 	FP => David Chezan:[951,963] score:1.000000; title:*null*; score:1.000000
+ => David Chezan:[330,342] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.33333334/1.0/0.5; tpCount:1.0; fpCount:2.0; fnCount:0.0
 [20001115_AFP_ARB.0184.eng]
 ***************** Gold Standard: ***********************
  => Hussein Abiyat:[1408,1422] score:1.000000; title:*null*; score:1.000000
 
 ************************ System Result: ***************************
-	FP => Abiyat:[1727,1733] score:1.000000; title:*null*; score:1.000000
  => Hussein Abiyat:[1408,1422] score:1.000000; title:*null*; score:1.000000
+	FP => Abiyat:[1727,1733] score:1.000000; title:*null*; score:1.000000
 	FP => Jalaad Shir:[729,740] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.33333334/1.0/0.5; tpCount:1.0; fpCount:2.0; fnCount:0.0
 [NYT20001106.1705.0187]
@@ -246,16 +159,16 @@ P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:0.0
  => Patricia Newell:[4242,4257] score:1.000000; title:*null*; score:1.000000
  => Julie Quastler:[2243,2257] score:1.000000; title:*null*; score:1.000000
 	FN => Dorothy Byrne:[3463,3476] score:1.000000; title:*null*; score:1.000000
-	FN => John Ruth:[1636,1645] score:1.000000; title:*null*; score:1.000000
 	FN => Noni:[815,819] score:1.000000; title:*null*; score:1.000000
+	FN => John Ruth:[1636,1645] score:1.000000; title:*null*; score:1.000000
  => Barbara Lange:[3931,3944] score:1.000000; title:*null*; score:1.000000
 
 ************************ System Result: ***************************
-	FP => Quastler:[2833,2841] score:1.000000; title:*null*; score:1.000000
  => Patricia Newell:[4242,4257] score:1.000000; title:*null*; score:1.000000
  => Julie Quastler:[2243,2257] score:1.000000; title:*null*; score:1.000000
- => Barbara Lange:[3931,3944] score:1.000000; title:*null*; score:1.000000
 	FP => N.Y. Times News Service:[46,69] score:1.000000; title:*null*; score:1.000000
+	FP => Quastler:[2833,2841] score:1.000000; title:*null*; score:1.000000
+ => Barbara Lange:[3931,3944] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.6/0.5/0.54545456; tpCount:3.0; fpCount:2.0; fnCount:3.0
 [NYT20001123.1511.0062]
 ***************** Gold Standard: ***********************
@@ -287,6 +200,15 @@ P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:4.0; fnCount:0.0
 	FP => Russian-American Start-3:[1230,1254] score:1.000000; title:*null*; score:1.000000
 	FP => Russian-American anti-ABM:[1440,1465] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:0.0
+[20001115_AFP_ARB.0212.eng]
+***************** Gold Standard: ***********************
+	FN => northeast:[281,290] score:1.000000; title:*null*; score:1.000000
+	FN => State:[77,82] score:1.000000; title:*null*; score:1.000000
+	FN => Stewart Talbot:[28,42] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => Globalization Studies Center:[384,412] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:3.0
 [chtb_267.eng]
 ***************** Gold Standard: ***********************
 	FN => Brown:[3174,3179] score:1.000000; title:*null*; score:1.000000
@@ -312,6 +234,27 @@ P/R/F:0.75/0.75/0.75; tpCount:6.0; fpCount:2.0; fnCount:2.0
 
 ************************ System Result: ***************************
 P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[chtb_165.eng]
+***************** Gold Standard: ***********************
+ => Pudong Lujiazui financial trading district:[151,193] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => Jierong Zhou  Recently:[55,77] score:1.000000; title:*null*; score:1.000000
+	FP => BNP Paris Bank:[560,574] score:1.000000; title:*null*; score:1.000000
+	FP => China Shipping Mansion:[121,143] score:1.000000; title:*null*; score:1.000000
+	FP => Shanghai Branch of Japan:[636,660] score:1.000000; title:*null*; score:1.000000
+	FP => Templeton Company:[1689,1706] score:1.000000; title:*null*; score:1.000000
+ => Pudong Lujiazui:[151,166] score:1.000000; title:*null*; score:1.000000
+	FP => Shanghai Branch of the Japan Industrial Bank:[1910,1954] score:1.000000; title:*null*; score:1.000000
+	FP => Shanghai Branch of Japan:[580,604] score:1.000000; title:*null*; score:1.000000
+	FP => Holland Co-operation Bank:[1960,1985] score:1.000000; title:*null*; score:1.000000
+	FP => Pudong Lujiazui Financial Trade District:[796,836] score:1.000000; title:*null*; score:1.000000
+	FP => Franklin Templeton Company:[1233,1259] score:1.000000; title:*null*; score:1.000000
+	FP => Lujiazui Financial Trading District:[2075,2110] score:1.000000; title:*null*; score:1.000000
+	FP => Shanghai Branch of the Belgium Credit Bank:[1987,2029] score:1.000000; title:*null*; score:1.000000
+	FP => Waitan:[2307,2313] score:1.000000; title:*null*; score:1.000000
+	FP => Shanghai Branch of the Standard and Chartered Bank:[497,547] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.06666667/1.0/0.125; tpCount:1.0; fpCount:14.0; fnCount:0.0
 [20001115_AFP_ARB.0217.eng]
 ***************** Gold Standard: ***********************
 	FN => Coral Islands:[221,234] score:1.000000; title:*null*; score:1.000000
@@ -320,6 +263,23 @@ P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
 	FP => Irkotsik:[636,644] score:1.000000; title:*null*; score:1.000000
 	FP => Riotaro Hashimoto:[758,775] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:1.0
+[20001115_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+	FP => French Interests Section:[41,65] score:1.000000; title:*null*; score:1.000000
+	FP => Andre Janier:[89,101] score:1.000000; title:*null*; score:1.000000
+	FP => Janier:[308,314] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:3.0; fnCount:0.0
+[NYT20001124.2050.0257]
+***************** Gold Standard: ***********************
+ => Ian Perkin:[2638,2648] score:1.000000; title:*null*; score:1.000000
+	FN => David Robinson:[883,897] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Ian Perkin:[2638,2648] score:1.000000; title:*null*; score:1.000000
+	FP => N.Y. Times News Service:[70,93] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.5/0.5/0.5; tpCount:1.0; fpCount:1.0; fnCount:1.0
 [20001115_AFP_ARB.0089.eng]
 ***************** Gold Standard: ***********************
 	FN => Mohamed al-Dura:[448,463] score:1.000000; title:*null*; score:1.000000
@@ -332,11 +292,27 @@ P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:1.0
  => Albus Camp:[292,302] score:1.000000; title:*null*; score:1.000000
 	FP => Ayn Alhilwa:[678,689] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.33333334/0.25/0.28571427; tpCount:1.0; fpCount:2.0; fnCount:3.0
+[APW20001001.2021.0521]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+	FP => Syrian-Israeli:[1870,1884] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.0/1.0/0.0; tpCount:0.0; fpCount:1.0; fnCount:0.0
 [20001115_AFP_ARB.0210.eng]
 ***************** Gold Standard: ***********************
 
 ************************ System Result: ***************************
 P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[chtb_227.eng]
+***************** Gold Standard: ***********************
+ => International Correspondence Communication News Agency:[841,895] score:1.000000; title:*null*; score:1.000000
+ => Klelov:[909,915] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => International Correspondence Communication News Agency:[841,895] score:1.000000; title:*null*; score:1.000000
+ => Klelov:[909,915] score:1.000000; title:*null*; score:1.000000
+	FP => Rong Xie:[55,63] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.6666667/1.0/0.8; tpCount:2.0; fpCount:1.0; fnCount:0.0
 [20001115_AFP_ARB.0093.eng]
 ***************** Gold Standard: ***********************
 	FN => James Stewart:[335,348] score:1.000000; title:*null*; score:1.000000
@@ -346,6 +322,30 @@ P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
 	FP => Palestinian Superior Security Council:[1402,1439] score:1.000000; title:*null*; score:1.000000
 	FP => Palestinian Superior Security Council:[1200,1237] score:1.000000; title:*null*; score:1.000000
 P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:2.0; fnCount:2.0
+[NYT20001125.1558.0117]
+***************** Gold Standard: ***********************
+	FN => Peter Thompson:[3719,3733] score:1.000000; title:*null*; score:1.000000
+	FN => Rob Williams:[2330,2342] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => Koppelo:[1639,1646] score:1.000000; title:*null*; score:1.000000
+	FP => Koppelo:[3144,3151] score:1.000000; title:*null*; score:1.000000
+	FP => Koppelo:[3032,3039] score:1.000000; title:*null*; score:1.000000
+	FP => Michigan Department of Natural Resources &UR;:[895,940] score:1.000000; title:*null*; score:1.000000
+	FP => N.Y. Times News Service:[13,36] score:1.000000; title:*null*; score:1.000000
+	FP => Larry D. Sargent:[1946,1962] score:1.000000; title:*null*; score:1.000000
+	FP => Koppelo:[3426,3433] score:1.000000; title:*null*; score:1.000000
+	FP => Suzanne Koppelo:[811,826] score:1.000000; title:*null*; score:1.000000
+	FP => Koppelo:[1331,1338] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.0/0.0/0.0; tpCount:0.0; fpCount:9.0; fnCount:2.0
+[20000715_AFP_ARB.0072.eng]
+***************** Gold Standard: ***********************
+ => Tehran Radio:[2237,2249] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Tehran Radio:[2237,2249] score:1.000000; title:*null*; score:1.000000
+	FP => Soviet Scud:[1264,1275] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.5/1.0/0.6666667; tpCount:1.0; fpCount:1.0; fnCount:0.0
 [PRI20001201.2000.1828]
 ***************** Gold Standard: ***********************
  => Judith Spencer:[185,199] score:1.000000; title:*null*; score:1.000000

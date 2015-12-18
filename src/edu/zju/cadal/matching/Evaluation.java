@@ -91,9 +91,6 @@ public class Evaluation<T> {
 			int fp = getSingleFP(systemResult.get(title), goldStandard.get(title), m);
 			fpMap.put(title, fp);
 			} catch (NullPointerException e) {
-				System.out.println(title);
-				System.out.println(systemResult.get(title));
-				System.out.println(goldStandard.get(title));
 				throw new RuntimeException();
 			}
 		}
@@ -106,7 +103,6 @@ public class Evaluation<T> {
 			boolean matched = false;
 			for (T g : goldStandard)
 				if (m.match(s, g) == true) {
-//					System.out.println(s);
 					matched = true;
 					break;
 				}
@@ -134,8 +130,8 @@ public class Evaluation<T> {
 
 	private static <T> int getSingleTP(Set<T> systemResult, Set<T> goldStandard, Matching<T> m) {
 		int tp = 0;
-		for (T s : systemResult)
-			for (T g : goldStandard)
+		for (T g : goldStandard)
+			for (T s : systemResult)
 				if (m.match(g, s) == true) {
 					tp++;
 					break;

@@ -7,6 +7,7 @@ import java.util.Collections;
 import java.util.HashMap;
 import java.util.List;
 import java.util.Map;
+import java.util.Set;
 
 import edu.zju.cadal.cache.EvaluationResult;
 import edu.zju.cadal.cache.SystemResult;
@@ -19,6 +20,10 @@ import edu.zju.cadal.matching.Evaluation;
 import edu.zju.cadal.matching.Matching;
 import edu.zju.cadal.matching.MentionMatching;
 import edu.zju.cadal.matching.NILMatching;
+import edu.zju.cadal.model.Annotation;
+import edu.zju.cadal.model.Candidate;
+import edu.zju.cadal.model.Mention;
+import edu.zju.cadal.model.NIL;
 import edu.zju.cadal.system.AbstractERDSystem;
 import edu.zju.cadal.utils.Pair;
 
@@ -48,61 +53,60 @@ public class Executor<T> {
 		
 		if (m instanceof MentionMatching) {
 			MentionMatching mwm = (MentionMatching)m;
+			Map<String, Set<Mention>> systemMention = result.getMentionCache(s.getName(), ds.getName());
+			Map<String, Set<Mention>> goldMention = ds.getGoldMention();
 			
-			EvaluationResult evaluationResult =
-						Evaluation.getResult(
-						result.getMentionCache(s.getName(), ds.getName()), //选择全部的输出结果
-						ds.getGoldMention(), 
-						mwm);				
+			EvaluationResult evaluationResult = Evaluation.getResult(systemMention,	goldMention, mwm);				
 			System.out.println(evaluationResult);
-			evaluationResult.detailPRF();
-			SystemResultDumper.compare(result, ds, s, mwm);
+//			evaluationResult.detailPRF();
+			SystemResultDumper.compare(systemMention, goldMention, mwm);
 		}
 		else if (m instanceof CandidateMatching) {
 			CandidateMatching cwm = (CandidateMatching)m;
+			Map<String, Set<Candidate>> systemCandidate = result.getCandidateCache(s.getName(), ds.getName());
+			Map<String, Set<Candidate>> goldCandidate = ds.getGoldCandidate();
 			
-			EvaluationResult evaluationResult = Evaluation.getResult(
-					result.getCandidateCache(s.getName(), ds.getName()), 
-					ds.getGoldCandidate(), 
-					cwm);
+			EvaluationResult evaluationResult = Evaluation.getResult(systemCandidate, goldCandidate, cwm);
 			System.out.println(evaluationResult);
-			evaluationResult.detailPRF();
-			SystemResultDumper.compare(result, ds, s, cwm);				
+//			evaluationResult.detailPRF();
+			SystemResultDumper.compare(systemCandidate, goldCandidate, cwm);
 		}
 		else if (m instanceof AnnotationMatching) {
 			AnnotationMatching awm = (AnnotationMatching)m;
 			Map<Float, EvaluationResult> evaluationResult = new HashMap<Float, EvaluationResult>();
+			Map<String, Set<Annotation>> goldAnnotation = ds.getGoldAnnotation();
 			
 			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP) {
 				evaluationResult.put(threshold, Evaluation.getResult(
 //						result.getAnnotationCache(s.getName(), ds.getName()),
 						result.getAnnotationCache(s.getName(), ds.getName(), threshold), 
-						ds.getGoldAnnotation(),
+						goldAnnotation,
 						awm));
 			}
-			for (Float key : evaluationResult.keySet()) {
-				System.out.println(key + " " + evaluationResult.get(key).getMicroF1());
+			for (float t : evaluationResult.keySet()) {
+				System.out.println(t + " " + evaluationResult.get(t).getMicroF1());
 			}
 			Pair<Float, EvaluationResult> bestResult = getBestResult(evaluationResult);
 			System.out.println(bestResult.second);
-			bestResult.second.detailPRF();
-			SystemResultDumper.compare(result, ds, s, awm);				
+//			bestResult.second.detailPRF();
+			SystemResultDumper.compare(result.getAnnotationCache(s.getName(), ds.getName(), bestResult.first), goldAnnotation, awm);
 		}
 		else if (m instanceof NILMatching) {
 			NILMatching nfm = (NILMatching)m;
 			Map<Float, EvaluationResult> evaluationResult = new HashMap<Float, EvaluationResult>();
+			Map<String, Set<NIL>> goldNIL = ds.getGoldNIL();
 			
 			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP) {
 				evaluationResult.put(threshold, Evaluation.getResult(
 //						result.getNILCache(s.getName(), ds.getName()),
 						result.getNILCache(s.getName(), ds.getName(), threshold), 
-						ds.getGoldNIL(), 
+						goldNIL, 
 						nfm));
 			}
 			Pair<Float, EvaluationResult> bestResult = getBestResult(evaluationResult);
 			System.out.println(bestResult.second);
-			bestResult.second.detailPRF();
-			SystemResultDumper.compare(result, ds, s, nfm);
+//			bestResult.second.detailPRF();
+			SystemResultDumper.compare(result.getNILCache(s.getName(), ds.getName(), bestResult.first), goldNIL, nfm);
 		}
 		else {
 			throw new UnknowMatchingException();

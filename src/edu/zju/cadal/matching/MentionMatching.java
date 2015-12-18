@@ -43,13 +43,14 @@ public class MentionMatching implements Matching<Mention>{
 	@Override
 	public void preProcessing(Map<String, Set<Mention>> systemResult, Map<String, Set<Mention>> goldStandard) {
 		preProcessor.mentionCoreference(systemResult);
+		preProcessor.mentionCoreference(goldStandard);
 		preProcessor.filterDuplicatedMention(systemResult, goldStandard);
 	}
 
 
 	@Override
 	public String getName() {
-		return "Mention Fuzzy Matching";
+		return "Mention Matching";
 	}
 
 	/**
@@ -69,8 +70,6 @@ public class MentionMatching implements Matching<Mention>{
 		float length = m1.getSurfaceForm().length() > m2.getSurfaceForm().length() 
 						? m1.getSurfaceForm().length() 
 						: m2.getSurfaceForm().length();
-		//取数据集的词作为标准长度
-//		float length = m2.getSurfaceForm().length();
 		
 //		System.out.println(m1.getSurfaceForm() + " | " + m2.getSurfaceForm() + similarity/length);
 		float confidence = 1 - similarity/length;

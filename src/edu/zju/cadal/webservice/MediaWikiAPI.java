@@ -263,8 +263,8 @@ public class MediaWikiAPI {
 		DocumentBuilderFactory factory = DocumentBuilderFactory.newInstance();
 		DocumentBuilder builder = factory.newDocumentBuilder();
 		InputStream retValue = connection.getInputStream();
-		connection.setConnectTimeout(30000);
-		connection.setReadTimeout(30000);
+		connection.setConnectTimeout(10000);
+		connection.setReadTimeout(10000);
 		Document doc = builder.parse(retValue);
 		
 		XPathFactory xPathFactory = XPathFactory.newInstance();

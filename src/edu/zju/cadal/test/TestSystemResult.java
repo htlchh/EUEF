@@ -19,7 +19,7 @@ public class TestSystemResult {
 	@Test
 	public void test_remove() {
 		SystemResult result = SystemResult.getInstance(true);
-		result.remove("Priorer", "MSNBC");
+		result.remove("Priorer", "IITB");
 		result.flush();
 	}
 	

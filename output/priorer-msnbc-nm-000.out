@@ -1,0 +1,268 @@
+[Bus3683270.txt]
+***************** Gold Standard: ***********************
+ => Al Goldman:[939,949] score:1.000000; title:*null*; score:1.000000
+	FN => Goldman:[3194,3201] score:1.000000; title:*null*; score:1.000000
+ => Cytokinetics Inc:[3684,3700] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Al Goldman:[939,949] score:1.000000; title:*null*; score:1.000000
+ => Cytokinetics Inc.:[3684,3701] score:1.000000; title:*null*; score:1.000000
+	FP => Sirius Satellite Radio Inc.:[3854,3881] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.6666667/0.6666667/0.6666667; tpCount:2.0; fpCount:1.0; fnCount:1.0
+[Pol16447720.txt]
+***************** Gold Standard: ***********************
+ => Karin Lewis:[431,442] score:1.000000; title:*null*; score:1.000000
+	FN => Grace Episcopal Church in East Grand Rapids:[662,705] score:1.000000; title:*null*; score:1.000000
+ => Lynn Chapp:[2245,2255] score:1.000000; title:*null*; score:1.000000
+ => Bobbe Taber:[2106,2117] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Karin Lewis:[431,442] score:1.000000; title:*null*; score:1.000000
+ => Lynn Chapp:[2245,2255] score:1.000000; title:*null*; score:1.000000
+ => Bobbe Taber:[2106,2117] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.75/0.85714287; tpCount:3.0; fpCount:0.0; fnCount:1.0
+[TvN16442287.txt]
+***************** Gold Standard: ***********************
+ => Annual Scientific Meeting:[2461,2486] score:1.000000; title:*null*; score:1.000000
+ => NAASO:[2489,2494] score:1.000000; title:*null*; score:1.000000
+	FN => Joy's Healthy Resolutions:[320,345] score:1.000000; title:*null*; score:1.000000
+ => Sara Lee Food & Beverage:[1938,1962] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => NAASO:[2489,2494] score:1.000000; title:*null*; score:1.000000
+ => Sara Lee Food & Beverage:[1938,1962] score:1.000000; title:*null*; score:1.000000
+ => 2006 Annual Scientific Meeting:[2456,2486] score:1.000000; title:*null*; score:1.000000
+	FP => Joy Bauer:[55,64] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.75/0.75/0.75; tpCount:3.0; fpCount:1.0; fnCount:1.0
+[USN16443053.txt]
+***************** Gold Standard: ***********************
+	FN => Los Angeles:[3585,3596] score:1.000000; title:*null*; score:1.000000
+ => Russ Knocke:[1861,1872] score:1.000000; title:*null*; score:1.000000
+ => Tammy Lapp:[4983,4993] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Russ Knocke:[1861,1872] score:1.000000; title:*null*; score:1.000000
+ => Tammy Lapp:[4983,4993] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.6666667/0.8; tpCount:2.0; fpCount:0.0; fnCount:1.0
+[Hea16384904.txt]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[Pol16452612.txt]
+***************** Gold Standard: ***********************
+ => Positively American:[3443,3462] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Positively American:[3443,3462] score:1.000000; title:*null*; score:1.000000
+	FP => Once Ford:[1296,1305] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.5/1.0/0.6666667; tpCount:1.0; fpCount:1.0; fnCount:0.0
+[Wor13259309.txt]
+***************** Gold Standard: ***********************
+	FN => al-Faroon:[2619,2628] score:1.000000; title:*null*; score:1.000000
+	FN => al-Faroon:[2332,2341] score:1.000000; title:*null*; score:1.000000
+ => Munqith al-Faroon:[1932,1949] score:1.000000; title:*null*; score:1.000000
+	FN => Al-Faroon:[3128,3137] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Munqith:[1932,1939] score:1.000000; title:*null*; score:1.000000
+	FP => anti-American Shiite:[4143,4163] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.5/0.25/0.33333334; tpCount:1.0; fpCount:1.0; fnCount:3.0
+[Spo16417540.txt]
+***************** Gold Standard: ***********************
+	FN => Terry:[1030,1035] score:1.000000; title:*null*; score:1.000000
+ => Ken Whisenhut:[2904,2917] score:1.000000; title:*null*; score:1.000000
+	FN => Terry:[1169,1174] score:1.000000; title:*null*; score:1.000000
+ => Brian Wiedmeier:[3500,3515] score:1.000000; title:*null*; score:1.000000
+ => Dolphins Enterprises:[3474,3494] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Ken Whisenhut:[2904,2917] score:1.000000; title:*null*; score:1.000000
+ => Brian Wiedmeier:[3500,3515] score:1.000000; title:*null*; score:1.000000
+ => Dolphins Enterprises:[3474,3494] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.6/0.75; tpCount:3.0; fpCount:0.0; fnCount:2.0
+[Ent16444023.txt]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[TvN16442342.txt]
+***************** Gold Standard: ***********************
+ => Davitt McAteer:[1150,1164] score:1.000000; title:*null*; score:1.000000
+	FN => McAteer:[1369,1376] score:1.000000; title:*null*; score:1.000000
+ => Debbie Hamner:[635,648] score:1.000000; title:*null*; score:1.000000
+ => Dennis O'Dell:[2156,2169] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Davitt McAteer:[1150,1164] score:1.000000; title:*null*; score:1.000000
+	FP => W. Va:[269,274] score:1.000000; title:*null*; score:1.000000
+ => Debbie Hamner:[635,648] score:1.000000; title:*null*; score:1.000000
+ => Dennis O'Dell:[2156,2169] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.75/0.75/0.75; tpCount:3.0; fpCount:1.0; fnCount:1.0
+[Wor16447201.txt]
+***************** Gold Standard: ***********************
+ => Great Pitcher Festival:[1016,1038] score:1.000000; title:*null*; score:1.000000
+ => Naba Kumar Ghosh:[1523,1539] score:1.000000; title:*null*; score:1.000000
+ => Half Pitcher Festival:[441,462] score:1.000000; title:*null*; score:1.000000
+	FN => Shakuntala:[1699,1709] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Great Pitcher Festival:[1016,1038] score:1.000000; title:*null*; score:1.000000
+ => Naba Kumar Ghosh:[1523,1539] score:1.000000; title:*null*; score:1.000000
+ => Half Pitcher Festival:[441,462] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.75/0.85714287; tpCount:3.0; fpCount:0.0; fnCount:1.0
+[Tra16454203.txt]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[Tec16451635.txt]
+***************** Gold Standard: ***********************
+	FN => Chengdu Research Base:[829,850] score:1.000000; title:*null*; score:1.000000
+ => Cao Qingyao:[360,371] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Cao Qingyao:[360,371] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.5/0.6666667; tpCount:1.0; fpCount:0.0; fnCount:1.0
+[USN16444287.txt]
+***************** Gold Standard: ***********************
+ => Shehadeh:[1738,1746] score:1.000000; title:*null*; score:1.000000
+ => Majida Shehadeh:[3926,3941] score:1.000000; title:*null*; score:1.000000
+ => Joanne Mulligan:[2839,2854] score:1.000000; title:*null*; score:1.000000
+ => Affad Shaikh:[1653,1665] score:1.000000; title:*null*; score:1.000000
+ => Majed Shehadeh:[408,422] score:1.000000; title:*null*; score:1.000000
+	FN => Border Protection:[2495,2512] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[983,991] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3578,3586] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2714,2722] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2236,2244] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3132,3140] score:1.000000; title:*null*; score:1.000000
+ => Roxanne Hercules:[807,823] score:1.000000; title:*null*; score:1.000000
+	FN => Mulligan:[3167,3175] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3906,3914] score:1.000000; title:*null*; score:1.000000
+	FN => Mulligan:[3364,3372] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[902,910] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2567,2575] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Shehadeh:[1738,1746] score:1.000000; title:*null*; score:1.000000
+ => Majida Shehadeh:[3926,3941] score:1.000000; title:*null*; score:1.000000
+	FP => Shehadeh:[464,472] score:1.000000; title:*null*; score:1.000000
+ => Joanne Mulligan:[2839,2854] score:1.000000; title:*null*; score:1.000000
+ => Affad Shaikh:[1653,1665] score:1.000000; title:*null*; score:1.000000
+ => Majed Shehadeh:[408,422] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[983,991] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3578,3586] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2714,2722] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2236,2244] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3132,3140] score:1.000000; title:*null*; score:1.000000
+ => Roxanne Hercules:[807,823] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[3906,3914] score:1.000000; title:*null*; score:1.000000
+	FP => Las Vegas 
+ 
+FRESNO:[112,131] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[902,910] score:1.000000; title:*null*; score:1.000000
+ => Shehadeh:[2567,2575] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.875/0.8235294/0.8484849; tpCount:14.0; fpCount:2.0; fnCount:3.0
+[Ent16453733.txt]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[Tec16454435.txt]
+***************** Gold Standard: ***********************
+ => John Callas:[507,518] score:1.000000; title:*null*; score:1.000000
+	FN => LOS ANGELES:[112,123] score:1.000000; title:*null*; score:1.000000
+	FN => Callas:[1533,1539] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => John Callas:[507,518] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.33333334/0.5; tpCount:1.0; fpCount:0.0; fnCount:2.0
+[Spo16455207.txt]
+***************** Gold Standard: ***********************
+
+************************ System Result: ***************************
+P/R/F:1.0/1.0/1.0; tpCount:0.0; fpCount:0.0; fnCount:0.0
+[Bus16451112.txt]
+***************** Gold Standard: ***********************
+ => Milledge A. Hart III:[5060,5080] score:1.000000; title:*null*; score:1.000000
+ => James Senn:[2874,2884] score:1.000000; title:*null*; score:1.000000
+ => Center for Global Business Leadership:[2917,2954] score:1.000000; title:*null*; score:1.000000
+	FN => DeAngelo:[3466,3474] score:1.000000; title:*null*; score:1.000000
+ => Carol Tome:[3180,3190] score:1.000000; title:*null*; score:1.000000
+	FN => Home Depot Supply:[3272,3289] score:1.000000; title:*null*; score:1.000000
+ => Claudio X. Gonzales:[5036,5055] score:1.000000; title:*null*; score:1.000000
+ => Joe DeAngelo:[3225,3237] score:1.000000; title:*null*; score:1.000000
+ => Jerry Shields:[812,825] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => James Senn:[2874,2884] score:1.000000; title:*null*; score:1.000000
+ => Carol Tome:[3180,3190] score:1.000000; title:*null*; score:1.000000
+ => Milledge A. Hart:[5060,5076] score:1.000000; title:*null*; score:1.000000
+ => Center for Global Business Leadership at Georgia State University:[2917,2982] score:1.000000; title:*null*; score:1.000000
+ => Claudio X. Gonzales:[5036,5055] score:1.000000; title:*null*; score:1.000000
+ => Joe DeAngelo:[3225,3237] score:1.000000; title:*null*; score:1.000000
+ => Jerry Shields:[812,825] score:1.000000; title:*null*; score:1.000000
+P/R/F:1.0/0.7777778/0.875; tpCount:7.0; fpCount:0.0; fnCount:2.0
+[Tra16444229.txt]
+***************** Gold Standard: ***********************
+ => Daniel Venegas:[766,780] score:1.000000; title:*null*; score:1.000000
+	FN => Manuel:[694,700] score:1.000000; title:*null*; score:1.000000
+ => Harris County Jail:[868,886] score:1.000000; title:*null*; score:1.000000
+ => Ricardo Aguilar:[705,720] score:1.000000; title:*null*; score:1.000000
+	FN => Perez:[839,844] score:1.000000; title:*null*; score:1.000000
+	FN => Venegas:[938,945] score:1.000000; title:*null*; score:1.000000
+ => Bownds:[1451,1457] score:1.000000; title:*null*; score:1.000000
+ => Menzies Aviation Group:[1051,1073] score:1.000000; title:*null*; score:1.000000
+ => Bownds:[1020,1026] score:1.000000; title:*null*; score:1.000000
+ => Erick Perez:[745,756] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+ => Daniel Venegas:[766,780] score:1.000000; title:*null*; score:1.000000
+ => Ricardo Aguilar:[705,720] score:1.000000; title:*null*; score:1.000000
+ => Harris County Jail:[868,886] score:1.000000; title:*null*; score:1.000000
+ => Menzies Aviation Group:[1051,1073] score:1.000000; title:*null*; score:1.000000
+ => Bownds:[1451,1457] score:1.000000; title:*null*; score:1.000000
+ => Bownds:[1020,1026] score:1.000000; title:*null*; score:1.000000
+	FP => Rick Bownds:[601,612] score:1.000000; title:*null*; score:1.000000
+ => Erick Perez:[745,756] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.875/0.7/0.7777778; tpCount:7.0; fpCount:1.0; fnCount:3.0
+[Hea16451212.txt]
+***************** Gold Standard: ***********************
+ => Jennifer Tolbert:[1428,1444] score:1.000000; title:*null*; score:1.000000
+ => Denise Grabner:[4185,4199] score:1.000000; title:*null*; score:1.000000
+	FN => Sharp:[3377,3382] score:1.000000; title:*null*; score:1.000000
+	FN => Kyle:[2480,2484] score:1.000000; title:*null*; score:1.000000
+	FN => Tolbert:[1556,1563] score:1.000000; title:*null*; score:1.000000
+ => Al Rohling:[151,161] score:1.000000; title:*null*; score:1.000000
+	FN => Rohling:[630,637] score:1.000000; title:*null*; score:1.000000
+ => Alabama Blue Cross Blue Shield:[2861,2891] score:1.000000; title:*null*; score:1.000000
+	FN => Sharp:[2901,2906] score:1.000000; title:*null*; score:1.000000
+	FN => Sharp:[2808,2813] score:1.000000; title:*null*; score:1.000000
+	FN => Sharp:[2521,2526] score:1.000000; title:*null*; score:1.000000
+	FN => Rohling:[3420,3427] score:1.000000; title:*null*; score:1.000000
+	FN => Dana:[2395,2399] score:1.000000; title:*null*; score:1.000000
+ => Jody Sharp:[2274,2284] score:1.000000; title:*null*; score:1.000000
+	FN => Sharp:[2590,2595] score:1.000000; title:*null*; score:1.000000
+	FN => Rohling:[4769,4776] score:1.000000; title:*null*; score:1.000000
+ => All Kids:[4418,4426] score:1.000000; title:*null*; score:1.000000
+	FN => Rohling:[642,649] score:1.000000; title:*null*; score:1.000000
+ => Child Caring Foundation:[690,713] score:1.000000; title:*null*; score:1.000000
+ => Child Caring Foundation:[2227,2250] score:1.000000; title:*null*; score:1.000000
+	FN => Rohling:[324,331] score:1.000000; title:*null*; score:1.000000
+	FN => Dana:[2465,2469] score:1.000000; title:*null*; score:1.000000
+
+************************ System Result: ***************************
+	FP => Highmark Blue Cross Blue Shield of Western Pennsylvania:[3911,3966] score:1.000000; title:*null*; score:1.000000
+	FP => Kaiser Commission:[1473,1490] score:1.000000; title:*null*; score:1.000000
+ => All Kids program:[4418,4434] score:1.000000; title:*null*; score:1.000000
+ => Jennifer Tolbert:[1428,1444] score:1.000000; title:*null*; score:1.000000
+ => Jody Sharp:[2274,2284] score:1.000000; title:*null*; score:1.000000
+	FP => State Children’s Health Insurance Program:[1635,1676] score:1.000000; title:*null*; score:1.000000
+ => Child Caring Foundation:[690,713] score:1.000000; title:*null*; score:1.000000
+ => Denise Grabner:[4185,4199] score:1.000000; title:*null*; score:1.000000
+ => Child Caring Foundation:[2227,2250] score:1.000000; title:*null*; score:1.000000
+ => Al Rohling:[151,161] score:1.000000; title:*null*; score:1.000000
+	FP => Birmingham School of Nursing:[3546,3574] score:1.000000; title:*null*; score:1.000000
+ => Alabama Blue Cross Blue Shield:[2861,2891] score:1.000000; title:*null*; score:1.000000
+P/R/F:0.6666667/0.36363637/0.47058827; tpCount:8.0; fpCount:4.0; fnCount:14.0
