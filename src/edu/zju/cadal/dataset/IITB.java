@@ -50,7 +50,7 @@ public class IITB extends AbstractDataset{
 			loadRawText(textsFolder);
 			Map<String, Set<IITBAnnotation>> problemMap = loadAnnotations(problemFilePath);
 			filling(problemMap);
-			deleteEmptyDocument();			
+			deleteEmptyDocument();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
@@ -69,7 +69,6 @@ public class IITB extends AbstractDataset{
 				Mention m = new Mention(p.surfaceForm, p.position, p.length);
 				if (mentionSet.contains(m))
 					continue;
-				
 				mentionSet.add(m);
 				int wid = api.getIdByTitle(p.title);
 				if (wid == -1) {
@@ -113,12 +112,16 @@ public class IITB extends AbstractDataset{
 			goldEntity.remove(title);
 			goldNIL.remove(title);
 		}
+		
+		System.out.println(rawText.size());
+		System.out.println(goldMention.size());
+		System.exit(0);
 	}
 	
 	public void loadRawText(String textsFolder) throws IOException {
 		File[] textFiles = new File(textsFolder).listFiles();
 		for (File file : textFiles)
-			if (file.isFile() && file.getName().endsWith("allUrls.txt.txt") == false) {
+			if (file.isFile()) {
 				BufferedReader r = new BufferedReader(new InputStreamReader(new FileInputStream(file), Charset.forName("UTF-8")));
 				String line;
 				String text = "";
@@ -166,7 +169,7 @@ public class IITB extends AbstractDataset{
 					if (!problemMap.containsKey(docName))
 						problemMap.put(docName, new HashSet<IITBAnnotation>());
 					
-					if (wikiName.equals("") == false){//NIL
+					if (wikiName.equals("") == false){
 						problemMap.get(docName).add(
 								new IITBAnnotation(
 										rawText.get(docName).substring(position, position+length),
@@ -194,10 +197,11 @@ public class IITB extends AbstractDataset{
 	}
 
 	private static class IITBAnnotation {
-		public IITBAnnotation(String sorfaceForm, int position, int length, String title) {
+		public IITBAnnotation(String surfaceForm, int position, int length, String title) {
 			this.position = position;
 			this.length = length;
 			this.title = title;
+			this.surfaceForm = surfaceForm;
 		}
 		public int position, length;
 		public String title, surfaceForm;

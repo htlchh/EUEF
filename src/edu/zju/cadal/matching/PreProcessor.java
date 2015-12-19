@@ -35,7 +35,7 @@ public class PreProcessor {
 	 */
 	public void filterDuplicatedMention(Map<String, Set<Mention>> systemResult, Map<String, Set<Mention>> goldStandard) {
 		Map<String, Set<Mention>> resultMap = new HashMap<String, Set<Mention>>();
-		
+	
 		for (String title : systemResult.keySet()) {
 			Map<Integer, Set<Mention>> filterMap = new HashMap<Integer, Set<Mention>>();
 			Set<Mention> mentionSet = new HashSet<Mention>();
@@ -45,16 +45,22 @@ public class PreProcessor {
 			for (Mention systemMention : systemResult.get(title)) 
 			{
 				boolean matched = false;
-				for (Mention goldMention : goldStandard.get(title)) 
-				{
-					if (filterMap.containsKey(goldMention.hashCode()) == false)
-						filterMap.put(goldMention.hashCode(), new HashSet<Mention>());
-					
-					if (mfm.match(systemMention, goldMention) == true) {
-						filterMap.get(goldMention.hashCode()).add(systemMention);
-						matched = true;
-						break;
+				try {
+					for (Mention goldMention : goldStandard.get(title)) 
+					{
+						if (filterMap.containsKey(goldMention.hashCode()) == false)
+							filterMap.put(goldMention.hashCode(), new HashSet<Mention>());
+						
+						if (mfm.match(systemMention, goldMention) == true) {
+							filterMap.get(goldMention.hashCode()).add(systemMention);
+							matched = true;
+							break;
+						}
 					}
+				} catch (NullPointerException e) {
+//					System.out.println(title);
+//					System.out.println(systemResult.containsKey(title));
+//					System.out.println(goldStandard.containsKey(title));
 				}
 				
 				if (matched == false) {
@@ -281,8 +287,14 @@ public class PreProcessor {
 		for (String title : mentionMap.keySet()) {
 			List<Mention> mentionList = new ArrayList<Mention>(mentionMap.get(title));
 			Set<Mention> mentionSet = new HashSet<Mention>();
+//			if (mentionList.size() == 0) {
+//				System.out.println(title);
+//				System.out.println(mentionMap.get(title).isEmpty());
+//			}
 			for (int i = 0; i < mentionList.size(); i++) {
 				Mention bestMention = mentionList.get(i);
+//				if (bestMention.getSurfaceForm() == null || bestMention.getSurfaceForm().equals("null"))
+//					System.out.println(title + " " + bestMention.getSurfaceForm() + " " + bestMention.getPosition() + " " + bestMention.getLength());
 				for (int j = 0; j < mentionList.size(); j++) {
 					if (coMention(bestMention, mentionList.get(j)) != null)
 						bestMention = coMention(bestMention, mentionList.get(j));

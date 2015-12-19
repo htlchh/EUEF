@@ -28,7 +28,7 @@ import org.w3c.dom.Document;
 import org.w3c.dom.Element;
 import org.w3c.dom.NodeList;
 
-import edu.zju.cadal.cache.SystemResult;
+import edu.zju.cadal.cache.Prediction;
 import edu.zju.cadal.dataset.AbstractDataset;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
@@ -44,6 +44,8 @@ import edu.zju.cadal.webservice.MediaWikiAPI;
  * @email:chenhuicn@126.com
  * @date:2015年11月18日
  */
+
+@Deprecated
 public class Spotlight extends AbstractERDSystem{
 
 	private boolean useCache = false;
@@ -75,8 +77,8 @@ public class Spotlight extends AbstractERDSystem{
 	}
 
 	@Override
-	public SystemResult erd(AbstractDataset ds) {
-		SystemResult result = SystemResult.getInstance(useCache);
+	public Prediction erd(AbstractDataset ds) {
+		Prediction result = Prediction.getInstance(useCache);
 		//有缓存，直接返回
 		if (result.isCached(this.getName(), ds.getName()))
 			return result;
@@ -142,7 +144,7 @@ public class Spotlight extends AbstractERDSystem{
 			long currentTime = Calendar.getInstance().getTimeInMillis();
 			URL url = new URL("http://" + host + ":" + port + "/rest/" + service);
 			String parameters = "disambiguator=" + disambiguator + "&confidence=0&support=0&text=" + URLEncoder.encode(text, "UTF-8");
-//			System.out.println(url.toString());
+			System.out.println(url.toString());
 			HttpURLConnection slConnection = (HttpURLConnection) url.openConnection();
 			slConnection.setRequestProperty("accept", "text/xml");
 			slConnection.setDoOutput(true);

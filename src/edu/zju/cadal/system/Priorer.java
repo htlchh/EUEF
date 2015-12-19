@@ -6,7 +6,7 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
-import edu.zju.cadal.cache.SystemResult;
+import edu.zju.cadal.cache.Prediction;
 import edu.zju.cadal.dataset.AbstractDataset;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
@@ -39,8 +39,8 @@ public class Priorer extends AbstractERDSystem {
 	}
 
 	@Override
-	public SystemResult erd(AbstractDataset ds) {
-		SystemResult result = SystemResult.getInstance(useCache);
+	public Prediction erd(AbstractDataset ds) {
+		Prediction result = Prediction.getInstance(useCache);
 		//有缓存，直接返回
 		if (result.isCached(this.getName(), ds.getName()))
 			return result;
@@ -111,7 +111,7 @@ public class Priorer extends AbstractERDSystem {
 		candidateSet.addAll(cSet);
 		
 		for (Candidate c : cSet) {
-			Annotation res = findBestCandidate(c);
+			Annotation res = createAnnotation(c);
 			if (res != null) {
 				annotationSet.add(res);
 				entitySet.add(res.getEntity());
@@ -122,7 +122,7 @@ public class Priorer extends AbstractERDSystem {
 		t.setCostTime(Calendar.getInstance().getTimeInMillis()-currentTime+costtime);
 	}
 	
-	private Annotation findBestCandidate(Candidate c) {
+	private Annotation createAnnotation(Candidate c) {
 		Set<Pair<Entity, Float>> pairSet = c.getPairSet();
 		if (pairSet.size() == 1) {
 			for (Pair<Entity, Float> pair : pairSet) {
@@ -135,8 +135,10 @@ public class Priorer extends AbstractERDSystem {
 		float maxscore = -1;
 		Pair<Entity, Float> bestPair = null;
 		for (Pair<Entity, Float> pair : pairSet) {
-			if (pair.second > maxscore)
+			if (pair.second > maxscore) {
 				bestPair = pair;
+				maxscore = bestPair.second;
+			}
 		}
 		return new Annotation(c.getMention(), new Entity(bestPair.first.getId(), bestPair.first.getTitle()), bestPair.second);
 	}

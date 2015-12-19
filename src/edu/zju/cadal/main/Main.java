@@ -24,7 +24,6 @@ public class Main {
 	public static void main(String[] args) {
 		WikiMiner wm = new WikiMiner(true);
 		Wikifier wf = new Wikifier(true);
-		Spotlight spotlight = new Spotlight(true);
 		Priorer priorer = new Priorer(true); 
 		
 		MSNBC msnbc = new MSNBC(
@@ -34,10 +33,12 @@ public class Main {
 				"dataset/ACE2004_Coref_Turking/Dev/ProblemsNoTranscripts");		
 		AQUAINT aquaint = new AQUAINT("dataset/AQUAINT/RawTexts", "dataset/AQUAINT/Problems");
 		MSNBC test = new MSNBC("dataset/MSNBC1/RawTextsSimpleChars_utf8", "dataset/MSNBC1/Problems");
-		TestA testa = new TestA("dataset/aida/Conll-AIDA-TestA.tsv");
+//		TestA testa = new TestA("dataset/aida/Conll-AIDA-TestA.tsv");
 //		TestB testb = new TestB("dataset/aida/Conll-AIDA-TestB.tsv");
 //		Training training = new Training("dataset/aida/Conll-AIDA-Training.tsv");
 		IITB iitb = new IITB("dataset/iitb/crawledDocs", "dataset/iitb/CSAW_Annotations.xml");
+		
+//		DatasetDumper.statistics(ace);
 		
 		MentionMatching mm = new MentionMatching();
 		mm.setDistanceThreshold(0.00f);
@@ -48,12 +49,11 @@ public class Main {
 //		Executor.run(ace, priorer, mm, "output/priorer-ace-mm-000.out");
 //		System.out.println("+++++++++++++++ Candidate Matching Result ++++++++++++++++++++");
 //		Executor.run(ace, priorer, cm, "output/priorer-ace-cm-000.out");
-//		System.out.println("+++++++++++++++ Annotation Matching Result ++++++++++++++++++++");
-//		Executor.run(aquaint, priorer, am, "output/priorer-aquaint-am-000.out");
-		System.out.println("+++++++++++++++ NIL Matching Result ++++++++++++++++++++");
-		Executor.run(iitb, priorer, mm, "output/priorer-iitb-mm-000.out");		
+		System.out.println("+++++++++++++++ Annotation Matching Result ++++++++++++++++++++");
+		Executor.run(iitb, priorer, mm, "output/priorer-iitb-mm-000.out");
+//		System.out.println("+++++++++++++++ NIL Matching Result ++++++++++++++++++++");
+//		Executor.run(aquaint, priorer, am, "output/priorer-aquaint-am-000.out");		
 		
-//		DatasetDumper.statistics(ace);
 	}
 
 }

@@ -7,8 +7,8 @@ import java.util.Set;
 
 import org.junit.Test;
 
-import edu.zju.cadal.cache.EvaluationResult;
-import edu.zju.cadal.matching.Evaluation;
+import edu.zju.cadal.cache.PRF;
+import edu.zju.cadal.main.Evaluator;
 import edu.zju.cadal.matching.MentionMatching;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;

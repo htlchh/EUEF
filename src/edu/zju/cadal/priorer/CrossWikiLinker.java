@@ -43,8 +43,6 @@ public class CrossWikiLinker extends Linker {
 				new CoreDictSearcher("/home/chenhui/Data/lucene_index/crosswikis_index/core_dict_index");
 	}
 
-	
-
 	@Override
 	public Set<Candidate> link(Set<Mention> mentionSet, String text, Timer timer) {
 		Set<Candidate> mcSet = generateCadidate(mentionSet, text, timer);
@@ -94,10 +92,19 @@ public class CrossWikiLinker extends Linker {
 		Map<String, Float> searchMap = new HashMap<String, Float>();
 		
 		try {
+			//两个同样的mention, 对应同一个entity, 但是可能字典给出的置信度是不同的, 应该选择大的那一个
 			for (int i = 0; i < scoreDocs.length; i++) 
 			{
 				Document document = coreDictSearcher.getSearcher().doc(scoreDocs[i].doc);
-				searchMap.put(document.getField("url").stringValue(), Float.parseFloat(document.getField("cprob").stringValue()));
+				
+				String wikiTitle = document.getField("url").stringValue();
+				float score = Float.parseFloat(document.getField("cprob").stringValue());
+				
+				if (searchMap.containsKey(wikiTitle) == true) {
+					float s = score > searchMap.get(wikiTitle) ? score : searchMap.get(wikiTitle);
+					searchMap.put(wikiTitle, s);
+				} else
+					searchMap.put(wikiTitle, score);
 			}	
 			
 			Set<String> titleSet = new HashSet<String>();
@@ -123,6 +130,8 @@ public class CrossWikiLinker extends Linker {
 		} catch (SAXException e) {
 			e.printStackTrace();
 		}
+		
+		//NIL
 		if (pairSet.isEmpty() == true)
 			pairSet.add(new Pair<Entity, Float>(new Entity(0), 1.0f));
 		return new Candidate(mention, pairSet);

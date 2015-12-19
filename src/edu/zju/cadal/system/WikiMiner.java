@@ -25,7 +25,7 @@ import org.w3c.dom.Node;
 import org.w3c.dom.NodeList;
 import org.xml.sax.SAXException;
 
-import edu.zju.cadal.cache.SystemResult;
+import edu.zju.cadal.cache.Prediction;
 import edu.zju.cadal.dataset.AbstractDataset;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
@@ -55,8 +55,8 @@ public class WikiMiner extends AbstractERDSystem{
 	}
 
 	@Override
-	public SystemResult erd(AbstractDataset ds) {
-		SystemResult result = SystemResult.getInstance(useCache);
+	public Prediction erd(AbstractDataset ds) {
+		Prediction result = Prediction.getInstance(useCache);
 		//有缓存，直接返回
 		if (result.isCached(this.getName(), ds.getName()))
 			return result;

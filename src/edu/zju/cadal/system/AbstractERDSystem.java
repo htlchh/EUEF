@@ -1,6 +1,6 @@
 package edu.zju.cadal.system;
 
-import edu.zju.cadal.cache.SystemResult;
+import edu.zju.cadal.cache.Prediction;
 import edu.zju.cadal.dataset.AbstractDataset;
 
 /**
@@ -20,7 +20,7 @@ public abstract class AbstractERDSystem {
 	 * 
 	 * @param ds
 	 */
-	abstract public SystemResult erd(AbstractDataset ds);
+	abstract public Prediction erd(AbstractDataset ds);
 	
 	
 }
