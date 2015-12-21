@@ -2,9 +2,8 @@ package edu.zju.cadal.dataset;
 
 
 /**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月26日
+ * ACE's format is same with MSNBC 
+ *
  */
 public class ACE2004 extends MSNBC {
 

@@ -19,6 +19,8 @@ import edu.zju.cadal.utils.Pair;
 import edu.zju.cadal.utils.Timer;
 
 /**
+ * Priorer is a simple pipeline ERD system by choosing the entity with largest prior probability as the disambiguation target.
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月18日
@@ -41,7 +43,7 @@ public class Priorer extends AbstractERDSystem {
 	@Override
 	public Prediction erd(AbstractDataset ds) {
 		Prediction result = Prediction.getInstance(useCache);
-		//有缓存，直接返回
+		/** If cached, return */
 		if (result.isCached(this.getName(), ds.getName()))
 			return result;
 		Timer timer = new Timer();
@@ -79,11 +81,11 @@ public class Priorer extends AbstractERDSystem {
 			costTime.put(title, timer.getCostTime());
 		}
 		
-		result.setMentionCache(this.getName(), ds.getName(), mentionMap);
-		result.setCandidateCache(getName(), ds.getName(), candidateMap);
-		result.setAnnotationCache(getName(), ds.getName(), annotationMap);
-		result.setNILCache(getName(), ds.getName(), NILMap);
-		result.setEntityCache(getName(), ds.getName(), entityMap);
+		result.setMention(this.getName(), ds.getName(), mentionMap);
+		result.setCandidate(getName(), ds.getName(), candidateMap);
+		result.setAnnotation(getName(), ds.getName(), annotationMap);
+		result.setNIL(getName(), ds.getName(), NILMap);
+		result.setEntity(getName(), ds.getName(), entityMap);
 		result.setCostTime(getName(), ds.getName(), costTime);
 		result.flush();
 		return result;
@@ -106,7 +108,6 @@ public class Priorer extends AbstractERDSystem {
 		costtime += t.getCostTime();
 		
 		long currentTime = Calendar.getInstance().getTimeInMillis();
-		//填充结果
 		mentionSet.addAll(mSet);
 		candidateSet.addAll(cSet);
 		

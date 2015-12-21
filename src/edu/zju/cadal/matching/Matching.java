@@ -3,11 +3,6 @@ package edu.zju.cadal.matching;
 import java.util.Map;
 import java.util.Set;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月14日
- */
 public interface Matching<T> {
 
 	/**
@@ -19,8 +14,9 @@ public interface Matching<T> {
 	public boolean match(T t1, T t2);
 	
 	
-	public void preProcessing(Map<String, Set<T>> systemResult, Map<String, Set<T>> goldStandard);	
-	
+	public void preProcessing(Map<String, Set<T>> prediction, Map<String, Set<T>> goldStandard);	
 	
 	public String getName();
+	
+	public MentionMatching getBaseMentionMatching();
 }

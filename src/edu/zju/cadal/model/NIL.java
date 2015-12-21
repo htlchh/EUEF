@@ -2,12 +2,7 @@ package edu.zju.cadal.model;
 
 import java.io.Serializable;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月15日
- */
-public class NIL implements Serializable {
+public class NIL implements Serializable, Model {
 
 	private static final long serialVersionUID = 1L;
 
@@ -16,7 +11,7 @@ public class NIL implements Serializable {
 	private float score;
 	
 	/**
-	 * NIL类型的id都定义为0
+	 * Id of NIL is 0
 	 * @param m
 	 * @param score
 	 */
@@ -69,6 +64,11 @@ public class NIL implements Serializable {
 		} else if (!m.equals(other.m))
 			return false;
 		return true;
+	}
+
+	@Override
+	public int getLength() {
+		return m.getLength();
 	}
 	
 }

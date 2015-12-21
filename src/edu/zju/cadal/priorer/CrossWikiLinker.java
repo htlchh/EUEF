@@ -26,10 +26,8 @@ import edu.zju.cadal.utils.Timer;
 import edu.zju.cadal.webservice.MediaWikiAPI;
 
 /**
- * Generate mention candidates by searching CrossWikis.
- * 
+ * Generate candidates by searching CrossWikis.
  * The CrossWikis is indexed by Lucene.
- * 
  * CrossWikis: http://www-nlp.stanford.edu/pubs/crosswikis-data.tar.bz2/
  * 
  */
@@ -45,12 +43,12 @@ public class CrossWikiLinker extends Linker {
 
 	@Override
 	public Set<Candidate> link(Set<Mention> mentionSet, String text, Timer timer) {
-		Set<Candidate> mcSet = generateCadidate(mentionSet, text, timer);
-		return mcSet;
+		Set<Candidate> cSet = generateCadidate(mentionSet, text, timer);
+		return cSet;
 	}
 	
 	/**
-	 * Generate a set of mention candidates for a set of scored mentions
+	 * Generate a set of candidates for mentions
 	 * 
 	 * @param mentionSet
 	 * 		A set of scored mentions
@@ -75,7 +73,6 @@ public class CrossWikiLinker extends Linker {
 	
 	/**
 	 * Parse TopDocs which is returned by a Lucene query.
-	 * 
 	 * Get candidate for the given mention
 	 * 
 	 * @param topDocs
@@ -92,7 +89,7 @@ public class CrossWikiLinker extends Linker {
 		Map<String, Float> searchMap = new HashMap<String, Float>();
 		
 		try {
-			//两个同样的mention, 对应同一个entity, 但是可能字典给出的置信度是不同的, 应该选择大的那一个
+			/** If two entities are returned for a same mention with different confidence scores, then choose the one with maximum score*/
 			for (int i = 0; i < scoreDocs.length; i++) 
 			{
 				Document document = coreDictSearcher.getSearcher().doc(scoreDocs[i].doc);
@@ -111,7 +108,6 @@ public class CrossWikiLinker extends Linker {
 			for (String title : searchMap.keySet())
 				titleSet.add(title);
 			
-			//查询title对应的id
 			List<String> titleToPrefetch = new ArrayList<String>();
 			titleToPrefetch.addAll(titleSet);
 			api.prefetchTitle(titleToPrefetch);
@@ -131,7 +127,7 @@ public class CrossWikiLinker extends Linker {
 			e.printStackTrace();
 		}
 		
-		//NIL
+		/** If no corresponding entities, it is a NIL*/
 		if (pairSet.isEmpty() == true)
 			pairSet.add(new Pair<Entity, Float>(new Entity(0), 1.0f));
 		return new Candidate(mention, pairSet);

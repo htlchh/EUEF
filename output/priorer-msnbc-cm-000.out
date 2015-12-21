@@ -23,7 +23,7 @@
  => Dow Jones:[417,9]; score:1.000000
  => Dow:[1115,3]; score:1.000000
  => Japan:[4831,5]; score:1.000000
- => Standard & Poor's 500:[1328,21]; score:1.000000
+	FN => Standard & Poor's 500:[1328,21]; score:1.000000
 	FN => Home Depot:[69,10]; score:1.000000
 	FN => Home Depot:[518,10]; score:1.000000
  => Wal-Mart Stores Inc.:[3411,20]; score:1.000000
@@ -75,8 +75,8 @@
  => Home Depot Inc.:[295,15]; score:1.000000
  => Japan:[4831,5]; score:1.000000
  => Wal-Mart Stores Inc.:[3411,20]; score:1.000000
- => Standard & Poor:[1328,15]; score:1.000000
  => Bob Nardelli:[3277,12]; score:1.000000
+	FP => Standard & Poor:[1328,15]; score:1.000000
  => Nasdaq:[1418,6]; score:1.000000
  => Commerce Department:[2999,19]; score:1.000000
  => A.G. Edwards:[978,12]; score:1.000000
@@ -91,11 +91,11 @@
  => United States:[2239,13]; score:1.000000
  => New York Mercantile Exchange:[2158,28]; score:1.000000
  => Wal-Mart:[3610,8]; score:1.000000
-	FP => Sirius Satellite Radio Inc.:[3854,27]; score:1.000000
 	FP => Goldman:[3194,7]; score:1.000000
+	FP => Sirius Satellite Radio Inc.:[3854,27]; score:1.000000
  => Germany:[4922,7]; score:1.000000
  => New Year:[4710,8]; score:1.000000
-P/R/F:0.9111111/0.8541667/0.88172036; tpCount:41.0; fpCount:4.0; fnCount:7.0
+P/R/F:0.8888889/0.8333333/0.860215; tpCount:40.0; fpCount:5.0; fnCount:8.0
 [Pol16447720.txt]
 ***************** Gold Standard: ***********************
  => Soviets:[3527,7]; score:1.000000
@@ -195,6 +195,7 @@ P/R/F:0.9111111/0.8541667/0.88172036; tpCount:41.0; fpCount:4.0; fnCount:7.0
  => Bush:[3134,4]; score:1.000000
  => Israel:[3586,6]; score:1.000000
  => Ford:[3267,4]; score:1.000000
+	FP => East Grand Rapids:[688,17]; score:1.000000
  => America:[2919,7]; score:1.000000
 	FP => Grace Episcopal Church:[662,22]; score:1.000000
  => Jimmy Carter:[973,12]; score:1.000000
@@ -249,7 +250,7 @@ P/R/F:0.9111111/0.8541667/0.88172036; tpCount:41.0; fpCount:4.0; fnCount:7.0
  => Ford:[2079,4]; score:1.000000
  => Ford:[4255,4]; score:1.000000
  => Richard Norton Smith:[1073,20]; score:1.000000
-P/R/F:0.9054054/0.8933333/0.8993289; tpCount:67.0; fpCount:7.0; fnCount:8.0
+P/R/F:0.8933333/0.8933333/0.89333326; tpCount:67.0; fpCount:8.0; fnCount:8.0
 [TvN16442287.txt]
 ***************** Gold Standard: ***********************
 	FN => Joy Bauer:[203,9]; score:1.000000
@@ -375,10 +376,10 @@ P/R/F:0.3125/0.35714287/0.33333334; tpCount:5.0; fpCount:11.0; fnCount:9.0
  => Washington, D.C.:[480,16]; score:1.000000
  => Mandan:[4763,6]; score:1.000000
  => Baton Rouge:[640,11]; score:1.000000
+	FP => Los Angeles:[3585,11]; score:1.000000
  => N.D.:[666,4]; score:1.000000
  => American Samoa:[676,14]; score:1.000000
  => U.S.:[154,4]; score:1.000000
-	FP => Los Angeles:[3585,11]; score:1.000000
  => Ohio:[541,4]; score:1.000000
  => Russ Knocke:[1861,11]; score:1.000000
  => Mandan:[5025,6]; score:1.000000
@@ -459,8 +460,8 @@ P/R/F:0.90909094/0.90909094/0.90909094; tpCount:10.0; fpCount:1.0; fnCount:1.0
  => Dan Pfeiffer:[2291,12]; score:1.000000
 	FP => Once Ford:[1296,9]; score:1.000000
 	FP => Americans:[2129,9]; score:1.000000
-	FP => Pfeiffer:[2610,8]; score:1.000000
 	FP => Americans:[1363,9]; score:1.000000
+	FP => Pfeiffer:[2610,8]; score:1.000000
  => Bayh:[2223,4]; score:1.000000
  => Iraq:[751,4]; score:1.000000
 	FP => Americans:[791,9]; score:1.000000
@@ -767,8 +768,8 @@ P/R/F:0.8833333/0.86885244/0.876033; tpCount:53.0; fpCount:7.0; fnCount:8.0
  => Saban:[511,5]; score:1.000000
  => Saban:[0,5]; score:1.000000
  => Huizenga:[3748,8]; score:1.000000
- => Joe Bailey:[3435,10]; score:1.000000
 	FP => Terry:[1030,5]; score:1.000000
+ => Joe Bailey:[3435,10]; score:1.000000
  => Saban:[4360,5]; score:1.000000
  => Dolphins:[4528,8]; score:1.000000
  => Huizenga:[1211,8]; score:1.000000
@@ -833,7 +834,7 @@ P/R/F:0.94949496/0.9591837/0.9543147; tpCount:94.0; fpCount:5.0; fnCount:4.0
 	FN => Star magazine:[183,13]; score:1.000000
  => Saturday Night Live:[544,19]; score:1.000000
  => Cameron Diaz:[123,12]; score:1.000000
- => Star:[214,4]; score:1.000000
+	FN => Star:[214,4]; score:1.000000
  => Timberlake:[284,10]; score:1.000000
  => Justin Timberlake:[101,17]; score:1.000000
  => Diaz:[569,4]; score:1.000000
@@ -857,7 +858,7 @@ P/R/F:0.94949496/0.9591837/0.9543147; tpCount:94.0; fpCount:5.0; fnCount:4.0
 	FP => Spears:[847,6]; score:1.000000
  => Colo.:[271,5]; score:1.000000
  => Cameron Diaz:[123,12]; score:1.000000
- => Star:[214,4]; score:1.000000
+	FP => Star:[214,4]; score:1.000000
  => Timberlake:[284,10]; score:1.000000
  => Justin Timberlake:[101,17]; score:1.000000
  => Diaz:[569,4]; score:1.000000
@@ -868,7 +869,7 @@ P/R/F:0.94949496/0.9591837/0.9543147; tpCount:94.0; fpCount:5.0; fnCount:4.0
  => Innosense:[899,9]; score:1.000000
  => Memphis:[325,7]; score:1.000000
  => Night Live:[553,10]; score:1.000000
-P/R/F:0.9047619/0.82608694/0.86363643; tpCount:19.0; fpCount:2.0; fnCount:4.0
+P/R/F:0.85714287/0.7826087/0.8181819; tpCount:18.0; fpCount:3.0; fnCount:5.0
 [TvN16442342.txt]
 ***************** Gold Standard: ***********************
  => West Virginia:[1265,13]; score:1.000000
@@ -1056,8 +1057,8 @@ P/R/F:0.55/1.0/0.70967746; tpCount:11.0; fpCount:9.0; fnCount:0.0
 
 ************************ System Result: ***************************
  => Sichuan:[1035,7]; score:1.000000
- => Shaanxi:[1071,7]; score:1.000000
 	FP => Chengdu Research Base:[829,21]; score:1.000000
+ => Shaanxi:[1071,7]; score:1.000000
  => China:[526,5]; score:1.000000
  => Sichuan:[721,7]; score:1.000000
 	FP => Wolong Giant Panda Protection and Research Center:[765,49]; score:1.000000
@@ -1149,9 +1150,9 @@ FRESNO:[112,19]; score:1.000000
  => Shehadeh:[1738,8]; score:1.000000
 	FP => Muslims:[3435,7]; score:1.000000
 	FP => Shehadeh:[464,8]; score:1.000000
+ => U.S.:[3405,4]; score:1.000000
 	FP => Islamic:[1264,7]; score:1.000000
 	FP => Washington:[2451,10]; score:1.000000
- => U.S.:[3405,4]; score:1.000000
  => Majed Shehadeh:[408,14]; score:1.000000
 	FP => German:[144,6]; score:1.000000
  => New Year:[2004,8]; score:1.000000
@@ -1479,8 +1480,8 @@ P/R/F:0.78571427/0.58928573/0.6734694; tpCount:33.0; fpCount:9.0; fnCount:23.0
 
 ************************ System Result: ***************************
 	FP => Perez:[839,5]; score:1.000000
-	FP => Venegas:[938,7]; score:1.000000
 	FP => Aguilar:[810,7]; score:1.000000
+	FP => Venegas:[938,7]; score:1.000000
  => Bownds:[1451,6]; score:1.000000
  => Menzies Aviation Group:[1051,22]; score:1.000000
  => United States:[1140,13]; score:1.000000
@@ -1489,8 +1490,8 @@ P/R/F:0.78571427/0.58928573/0.6734694; tpCount:33.0; fpCount:9.0; fnCount:23.0
  => George Bush Intercontinental Airport:[241,36]; score:1.000000
  => London:[1267,6]; score:1.000000
 	FP => Rick Bownds:[601,11]; score:1.000000
- => Daniel Venegas:[766,14]; score:1.000000
 	FP => Manuel:[694,6]; score:1.000000
+ => Daniel Venegas:[766,14]; score:1.000000
  => HOUSTON:[121,7]; score:1.000000
  => Harris County Jail:[868,18]; score:1.000000
  => Ricardo Aguilar:[705,15]; score:1.000000
@@ -1526,7 +1527,7 @@ P/R/F:0.6666667/0.7368421/0.7; tpCount:14.0; fpCount:7.0; fnCount:5.0
  => University of Alabama at Birmingham:[3521,35]; score:1.000000
  => Ala.:[133,4]; score:1.000000
  => United States:[1136,13]; score:1.000000
-	FN => Jennifer Tolbert:[1428,16]; score:1.000000
+ => Jennifer Tolbert:[1428,16]; score:1.000000
 	FN => Blue Cross and Blue Shield of Alabama:[777,37]; score:1.000000
 	FN => Highmark Blue Cross Blue Shield:[3911,31]; score:1.000000
  => U.S. Congress:[1589,13]; score:1.000000
@@ -1567,10 +1568,11 @@ P/R/F:0.6666667/0.7368421/0.7; tpCount:14.0; fpCount:7.0; fnCount:5.0
  => Child Caring Foundation:[690,23]; score:1.000000
  => Congress:[4291,8]; score:1.000000
  => Child Caring Foundation:[2227,23]; score:1.000000
-	FP => Birmingham School of Nursing:[3546,28]; score:1.000000
 	FP => Uninsured:[1511,9]; score:1.000000
+	FP => Birmingham School of Nursing:[3546,28]; score:1.000000
  => Ala.:[133,4]; score:1.000000
  => United States:[1136,13]; score:1.000000
+ => Jennifer Tolbert:[1428,16]; score:1.000000
 	FP => Blue Cross and Blue Shield of Alabama:[777,37]; score:1.000000
  => U.S. Congress:[1589,13]; score:1.000000
  => Denise Grabner:[4185,14]; score:1.000000
@@ -1593,4 +1595,4 @@ P/R/F:0.6666667/0.7368421/0.7; tpCount:14.0; fpCount:7.0; fnCount:5.0
 	FP => Rohling:[324,7]; score:1.000000
 	FP => Dana:[2465,4]; score:1.000000
  => U.S.:[291,4]; score:1.000000
-P/R/F:0.5813953/0.54347825/0.56179774; tpCount:25.0; fpCount:18.0; fnCount:21.0
+P/R/F:0.59090906/0.5652174/0.57777774; tpCount:26.0; fpCount:18.0; fnCount:20.0

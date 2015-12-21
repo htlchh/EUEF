@@ -32,11 +32,7 @@ import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.model.NIL;
 import edu.zju.cadal.utils.Pair;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月26日
- */
+
 public class IITB extends AbstractDataset{
 	private Map<String, String> rawText = new HashMap<String, String>();
 	private Map<String, Set<Annotation>> goldAnnotation = new HashMap<String, Set<Annotation>>();
@@ -49,14 +45,17 @@ public class IITB extends AbstractDataset{
 		try {
 			loadRawText(textsFolder);
 			Map<String, Set<IITBAnnotation>> problemMap = loadAnnotations(problemFilePath);
-			filling(problemMap);
-			deleteEmptyDocument();
+			fill(problemMap);
+			filter();
+			unify();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
-
-	private void filling(Map<String, Set<IITBAnnotation>> problemMap) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
+	/**
+	 * Fill the member variables gold***
+	 */
+	private void fill(Map<String, Set<IITBAnnotation>> problemMap) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
 		for (String title : problemMap.keySet()) {
 			Set<IITBAnnotation> problemSet = problemMap.get(title);
 			Set<Annotation> annotationSet = new HashSet<Annotation>();
@@ -71,7 +70,7 @@ public class IITB extends AbstractDataset{
 					continue;
 				mentionSet.add(m);
 				int wid = api.getIdByTitle(p.title);
-				if (wid == -1) {
+				if (wid == -1) { // NIL
 					NILSet.add(new NIL(m));
 					Entity e = new Entity(0, "*null*");
 					entitySet.add(e);
@@ -96,10 +95,12 @@ public class IITB extends AbstractDataset{
 			this.goldNIL.put(title, NILSet);
 		}		
 	}
-
-	private void deleteEmptyDocument() {
+	
+	/**
+	 * Delete the documents which contain no annotations from all gold*** member variables
+	 */
+	private void filter() {
 		Set<String> empty = new HashSet<String>();
-		
 		for (String title : goldMention.keySet())
 			if (goldMention.get(title).isEmpty() == true)
 				empty.add(title);
@@ -112,12 +113,32 @@ public class IITB extends AbstractDataset{
 			goldEntity.remove(title);
 			goldNIL.remove(title);
 		}
-		
-		System.out.println(rawText.size());
-		System.out.println(goldMention.size());
-		System.exit(0);
 	}
-	
+
+	/**
+	 * Check if the size of rawText is same with the size of goldMention
+	 */
+	private void unify() {
+		Set<String> remove = new HashSet<String>();
+		for (String title : rawText.keySet())
+			if (goldMention.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove)
+			rawText.remove(title);
+		
+		remove.clear();
+		for (String title : goldMention.keySet())
+			if (rawText.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove) {
+			goldMention.remove(title);
+			goldCandidate.remove(title);
+			goldAnnotation.remove(title);
+			goldEntity.remove(title);
+		}
+	}
 	public void loadRawText(String textsFolder) throws IOException {
 		File[] textFiles = new File(textsFolder).listFiles();
 		for (File file : textFiles)

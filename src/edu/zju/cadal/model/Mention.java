@@ -2,22 +2,14 @@ package edu.zju.cadal.model;
 
 import java.io.Serializable;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月14日
- * 
- */
-public class Mention implements Serializable, Comparable<Mention> {
+
+public class Mention implements Serializable, Comparable<Mention>, Model {
 
 	private static final long serialVersionUID = 1L;
 
 	String surfaceForm;
-	//mention在文档中的起始位置
 	private int position;
-	//mention的长度
 	private int length;
-	//mention的置信分数值
 	private float score;
 	
 	public Mention(String surfaceForm, int position, int length, float score) {
@@ -36,7 +28,7 @@ public class Mention implements Serializable, Comparable<Mention> {
 	}
 	
 	/**
-	 * 默认的score是1.0
+	 * The default score is 1.0
 	 * @param position
 	 * @param length
 	 */
@@ -117,6 +109,11 @@ public class Mention implements Serializable, Comparable<Mention> {
 
 	public float getScore() {
 		return score;
+	}
+
+	@Override
+	public Mention getMention() {
+		return this;
 	}
 	
 }

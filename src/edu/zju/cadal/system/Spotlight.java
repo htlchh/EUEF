@@ -46,6 +46,7 @@ import edu.zju.cadal.webservice.MediaWikiAPI;
  */
 
 @Deprecated
+@SuppressWarnings("The Spotlight Web Service has been removed")
 public class Spotlight extends AbstractERDSystem{
 
 	private boolean useCache = false;
@@ -108,11 +109,11 @@ public class Spotlight extends AbstractERDSystem{
 			costTime.put(title, timer.getCostTime());
 		}
 		
-		result.setMentionCache(this.getName(), ds.getName(), mentionMap);
-		result.setCandidateCache(getName(), ds.getName(), candidateMap);
-		result.setAnnotationCache(getName(), ds.getName(), annotationMap);
-		result.setNILCache(getName(), ds.getName(), NILMap);
-		result.setEntityCache(getName(), ds.getName(), entityMap);
+		result.setMention(this.getName(), ds.getName(), mentionMap);
+		result.setCandidate(getName(), ds.getName(), candidateMap);
+		result.setAnnotation(getName(), ds.getName(), annotationMap);
+		result.setNIL(getName(), ds.getName(), NILMap);
+		result.setEntity(getName(), ds.getName(), entityMap);
 		result.setCostTime(getName(), ds.getName(), costTime);
 		result.flush();
 		return result;

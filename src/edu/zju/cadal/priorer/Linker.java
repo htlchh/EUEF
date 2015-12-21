@@ -7,15 +7,11 @@ import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.utils.Timer;
 
 /**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月18日
- */
+ * Generate candidates for mentions
+ * */
 public abstract class Linker {
 
 	abstract public Set<Candidate> link(Set<Mention> mentionSet, String text, Timer timer);
-	
-	
 	
 	abstract public String getName();	
 	

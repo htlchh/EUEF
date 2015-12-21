@@ -2,18 +2,13 @@ package edu.zju.cadal.model;
 
 import java.io.Serializable;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月14日
- */
-public class Entity implements Serializable {
+public class Entity implements Serializable, Model {
 
 	private static final long serialVersionUID = 1L;
 	
-	//维基百科对应页面的id
+	/** Corresponding id of Wikipedia page*/
 	private int id; 
-	//维基百科对应页面的标题
+	/** Corresponding title of Wikipedia page*/
 	private String title;
 	
 	public Entity(int id) {
@@ -58,6 +53,16 @@ public class Entity implements Serializable {
 
 	public String getTitle() {
 		return title;
+	}
+
+	@Override
+	public int getLength() {
+		return 0;
+	}
+
+	@Override
+	public Mention getMention() {
+		return null;
 	}
 
 	

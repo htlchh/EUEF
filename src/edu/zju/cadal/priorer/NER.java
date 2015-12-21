@@ -13,6 +13,8 @@ import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.utils.Timer;
 
 /**
+ * NER based on Stanford NER tool for mention recognition
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月18日

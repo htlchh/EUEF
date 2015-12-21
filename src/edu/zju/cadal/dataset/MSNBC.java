@@ -36,11 +36,6 @@ import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.model.NIL;
 import edu.zju.cadal.utils.Pair;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月15日
- */
 public class MSNBC extends AbstractDataset{
 	private static Pattern wikiUrlPattern = Pattern.compile("http://en.wikipedia.org/wiki/(.*?)\"?");
 	private Map<String, String> rawText = new HashMap<String, String>();
@@ -54,14 +49,18 @@ public class MSNBC extends AbstractDataset{
 		try {
 			loadRawText(rawTextFolder);
 			Map<String, Set<Problem>> problemMap = loadProblem(problemFolder);
-			filling(problemMap);
-			deleteEmptyDocument();
+			fill(problemMap);
+			filter();
+			unify();
 		} catch (IOException | DOMException | XPathExpressionException | ParserConfigurationException | SAXException | DatasetFormatErrorException e) {
 			e.printStackTrace();
 		}
 	}
-	
-	private void deleteEmptyDocument() {
+
+	/**
+	 * Delete the documents which contain no annotations from all gold*** member variables
+	 */
+	private void filter() {
 		Set<String> empty = new HashSet<String>();
 		
 		for (String title : goldMention.keySet())
@@ -78,6 +77,31 @@ public class MSNBC extends AbstractDataset{
 		}
 	}
 
+	/**
+	 * Check if the size of rawText is same with the size of goldMention
+	 */
+	private void unify() {
+		Set<String> remove = new HashSet<String>();
+		for (String title : rawText.keySet())
+			if (goldMention.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove)
+			rawText.remove(title);
+		
+		remove.clear();
+		for (String title : goldMention.keySet())
+			if (rawText.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove) {
+			goldMention.remove(title);
+			goldCandidate.remove(title);
+			goldAnnotation.remove(title);
+			goldEntity.remove(title);
+		}
+	}
+	
 	private void loadRawText(String textFolder) throws IOException {
 		File folder = new File(textFolder);
 		if (folder.isDirectory() == false)
@@ -167,6 +191,8 @@ public class MSNBC extends AbstractDataset{
 	}
 	
 	/**
+	 * Fill the member variables gold***
+	 * 
 	 * 通过problemMap，把各个成员变量的值进行填充
 	 * @param problemMap
 	 * @throws XPathExpressionException
@@ -174,7 +200,7 @@ public class MSNBC extends AbstractDataset{
 	 * @throws ParserConfigurationException
 	 * @throws SAXException
 	 */
-	private void filling(Map<String, Set<Problem>> problemMap) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
+	private void fill(Map<String, Set<Problem>> problemMap) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
 		for (String title : problemMap.keySet()) {
 			Set<Problem> problemSet = problemMap.get(title);
 			Set<Annotation> annotationSet = new HashSet<Annotation>();

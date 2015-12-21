@@ -26,23 +26,56 @@ import edu.zju.cadal.model.NIL;
 import edu.zju.cadal.system.AbstractERDSystem;
 import edu.zju.cadal.utils.Pair;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月14日
- */
+
 public class Executor<T> {
 	
-	private static float THRESHOLD_STEP = 1f/2;
+	/** threshold iterative step */
+	private static float THRESHOLD_STEP = 1.1f;
+	private static boolean printDetail = true;
+	private static boolean iteration = false;
+	private static Map<Float, PRF> prfMap = new HashMap<Float, PRF>();
 	
-	public static <T> void run(AbstractDataset ds, AbstractERDSystem s, Matching<T> m, String outputFile) {
-		Prediction result = s.erd(ds);
-		evaluate(result, ds, s, m, outputFile);
+	
+	/**
+	 * @param printDetail
+	 * @param iteration
+	 * @param thresholdStep
+	 */
+	public static void setExecutor(boolean printDetail, boolean iteration, float thresholdStep) {
+		Executor.printDetail = printDetail;
+		Executor.iteration = iteration;
+		Executor.THRESHOLD_STEP = thresholdStep;
 	}
 	
-	private static <T> void evaluate(Prediction result, AbstractDataset ds, AbstractERDSystem s, Matching<T> m, String outputFile) {
+	/**  
+	 * Get PRF of a specific threshold
+	 * */
+	public static Map<Float, PRF> getIterativePRF() {
+		if (iteration == false) {
+			throw new RuntimeException("Iteration is forbidden. Please open the iteration.");
+		}
+		return prfMap;
+	}
+	
+	public static <T> void run(AbstractDataset ds, AbstractERDSystem s, Matching<T> m, String outputFile) {
+		Prediction prediction = s.erd(ds);
+		evaluate(prediction, ds, s, m, outputFile);
+	}
+	
+	/**
+	 * Evaluate the prediction compared with the given gold standards.
+	 * 
+	 * @param prediction
+	 * @param ds
+	 * @param s
+	 * @param m
+	 * @param outputFile
+	 *  + print in screen if null
+	 *  + output to a specified file
+	 */
+	private static <T> void evaluate(Prediction prediction, AbstractDataset ds, AbstractERDSystem s, Matching<T> m, String outputFile) {
 		
-		//设置结果是否输出到文件
+		/** check if output to file */
 		try {
 			if (outputFile != null)
 				PredictionDumper.setPrintStream(new PrintStream(outputFile));
@@ -52,60 +85,51 @@ public class Executor<T> {
 		
 		if (m instanceof MentionMatching) {
 			MentionMatching mwm = (MentionMatching)m;
-			Map<String, Set<Mention>> systemMention = result.getMentionCache(s.getName(), ds.getName());
-			Map<String, Set<Mention>> goldMention = ds.getGoldMention();
+			Map<String, Set<Mention>> pMention = prediction.getMentionCache(s.getName(), ds.getName());
+			Map<String, Set<Mention>> gMention = ds.getGoldMention();
 			
-			PRF evaluationResult = Evaluator.getResult(systemMention,	goldMention, mwm);				
-			System.out.println(evaluationResult);
-//			evaluationResult.detailPRF();
-			PredictionDumper.compare(systemMention, goldMention, mwm);
+			PRF prf = Evaluator.getResult(pMention,	gMention, mwm);				
+			System.out.println(prf);
+			if (printDetail) prf.detailPRF();
+			PredictionDumper.compare(pMention, gMention, mwm);
 		}
 		else if (m instanceof CandidateMatching) {
 			CandidateMatching cwm = (CandidateMatching)m;
-			Map<String, Set<Candidate>> systemCandidate = result.getCandidateCache(s.getName(), ds.getName());
-			Map<String, Set<Candidate>> goldCandidate = ds.getGoldCandidate();
+			Map<String, Set<Candidate>> pCandidate = prediction.getCandidate(s.getName(), ds.getName());
+			Map<String, Set<Candidate>> gCandidate = ds.getGoldCandidate();
 			
-			PRF evaluationResult = Evaluator.getResult(systemCandidate, goldCandidate, cwm);
-			System.out.println(evaluationResult);
-//			evaluationResult.detailPRF();
-			PredictionDumper.compare(systemCandidate, goldCandidate, cwm);
+			PRF prf = Evaluator.getResult(pCandidate, gCandidate, cwm);
+			System.out.println(prf);
+			if (printDetail) prf.detailPRF();
+			PredictionDumper.compare(pCandidate, gCandidate, cwm);
 		}
 		else if (m instanceof AnnotationMatching) {
 			AnnotationMatching awm = (AnnotationMatching)m;
-			Map<Float, PRF> evaluationResult = new HashMap<Float, PRF>();
-			Map<String, Set<Annotation>> goldAnnotation = ds.getGoldAnnotation();
+			Map<String, Set<Annotation>> gAnnotation = ds.getGoldAnnotation();
 			
-			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP) {
-				evaluationResult.put(threshold, Evaluator.getResult(
-						result.getAnnotationCache(s.getName(), ds.getName()),
-//						result.getAnnotationCache(s.getName(), ds.getName(), threshold), 
-						goldAnnotation,
+			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP)
+				prfMap.put(threshold, Evaluator.getResult(
+						prediction.getAnnotation(s.getName(), ds.getName(), threshold), 
+						gAnnotation,
 						awm));
-			}
-//			for (float t : evaluationResult.keySet()) {
-//				System.out.println(t + " " + evaluationResult.get(t).getMicroF1());
-//			}
-			Pair<Float, PRF> bestResult = getBestResult(evaluationResult);
-			System.out.println(bestResult.second);
-//			bestResult.second.detailPRF();
-			PredictionDumper.compare(result.getAnnotationCache(s.getName(), ds.getName(), bestResult.first), goldAnnotation, awm);
+			Pair<Float, PRF> best = bestPRF(prfMap);
+			System.out.println(best.second);
+			if (printDetail) best.second.detailPRF();
+			PredictionDumper.compare(prediction.getAnnotation(s.getName(), ds.getName(), best.first), gAnnotation, awm);
 		}
 		else if (m instanceof NILMatching) {
 			NILMatching nfm = (NILMatching)m;
-			Map<Float, PRF> evaluationResult = new HashMap<Float, PRF>();
 			Map<String, Set<NIL>> goldNIL = ds.getGoldNIL();
 			
-			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP) {
-				evaluationResult.put(threshold, Evaluator.getResult(
-//						result.getNILCache(s.getName(), ds.getName()),
-						result.getNILCache(s.getName(), ds.getName(), threshold), 
+			for (float threshold = 0; threshold <= 1; threshold += THRESHOLD_STEP)
+				prfMap.put(threshold, Evaluator.getResult(
+						prediction.getNIL(s.getName(), ds.getName(), threshold), 
 						goldNIL, 
 						nfm));
-			}
-			Pair<Float, PRF> bestResult = getBestResult(evaluationResult);
-			System.out.println(bestResult.second);
-//			bestResult.second.detailPRF();
-			PredictionDumper.compare(result.getNILCache(s.getName(), ds.getName(), bestResult.first), goldNIL, nfm);
+			Pair<Float, PRF> best = bestPRF(prfMap);
+			System.out.println(best.second);
+			if (printDetail) best.second.detailPRF();
+			PredictionDumper.compare(prediction.getNIL(s.getName(), ds.getName(), best.first), goldNIL, nfm);
 		}
 		else {
 			throw new UnknowMatchingException();
@@ -113,18 +137,15 @@ public class Executor<T> {
 	}
 	
 	/**
-	 * 取得最好的threshold以及对应的最好的结果
-	 * @param resultMap
-	 * @return
+	 * Find the best PRF
 	 */
-	private static Pair<Float, PRF> getBestResult(Map<Float, PRF> resultMap) {
-		List<Float> thresholds = new ArrayList<Float>(resultMap.keySet());
+	private static Pair<Float, PRF> bestPRF(Map<Float, PRF> prfMap) {
+		List<Float> thresholds = new ArrayList<Float>(prfMap.keySet());
 		Collections.sort(thresholds);
 		Pair<Float, PRF> bestResult = null;
 		for (Float t : thresholds) 
-			if (bestResult == null || resultMap.get(t).getMacroF1() > bestResult.second.getMacroF1())
-				bestResult = new Pair<Float, PRF>(t, resultMap.get(t));
-		
+			if (bestResult == null || prfMap.get(t).getMacroF1() > bestResult.second.getMacroF1())
+				bestResult = new Pair<Float, PRF>(t, prfMap.get(t));
 		return bestResult;
 	}
 }

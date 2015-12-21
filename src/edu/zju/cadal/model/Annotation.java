@@ -2,12 +2,7 @@ package edu.zju.cadal.model;
 
 import java.io.Serializable;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月14日
- */
-public class Annotation implements Serializable{
+public class Annotation implements Model, Serializable{
 
 	private static final long serialVersionUID = 1L;
 	
@@ -24,7 +19,7 @@ public class Annotation implements Serializable{
 	}
 	
 	/**
-	 * 默认的score是1.0f
+	 * The default score is 1.0
 	 * @param m
 	 * @param e
 	 */
@@ -76,6 +71,11 @@ public class Annotation implements Serializable{
 
 	public float getScore() {
 		return score;
+	}
+
+	@Override
+	public int getLength() {
+		return m.getLength();
 	}
 	
 }

@@ -36,6 +36,8 @@ import org.xml.sax.SAXException;
 import edu.zju.cadal.utils.BidiObjectIntHashMap;
 
 /**
+ * Access online Wikipedia by web API.
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月15日
@@ -43,27 +45,21 @@ import edu.zju.cadal.utils.BidiObjectIntHashMap;
 public class MediaWikiAPI {
 
 	private static MediaWikiAPI api = new MediaWikiAPI();
-	
-	//默认的title到id的缓存文件路径
+	/** Default file for storing the mapping: map(title)=id, title: Wikipedia page's title, id:corresponding id */
 	private String title2widCachePath = "cache/title2wid.cache";
-	//默认的redirect到非redirect的缓存文件路径，对于非redirect，则redirect是自身
+	/** Default file for storing mapping: map(redirect_id)=non_redirect_id and map(non_redirect_id)=non-redirect_id */
 	private String redirectCachePath = "cache/redirect.cache";
-	
 	private BidiObjectIntHashMap<String> title2wid = null;
 	private File title2widFile = null;
 	private Int2IntMap redirect = null;
 	private File redirectFile = null;
-	
 	private static final String baseURL = "https://en.wikipedia.org/w/api.php";
-	
 	private int queries = 0;
-	//每次查询的个数
+	/** Number of each request */
 	private final int countPerRequest = 50;
-	/**
-	 * 默认打开的缓存文件
-	 */
+
 	private MediaWikiAPI() {
-		this.openCache(title2widCachePath, redirectCachePath);
+		this.openCache();
 	}
 	
 	public static MediaWikiAPI getInstance() {
@@ -78,16 +74,10 @@ public class MediaWikiAPI {
 		this.redirectCachePath = path;
 	}
 	
-	/**
-	 * 
-	 * @param title2widCacheFilePath
-	 * @param redirectCacheFilePath
-	 */
+
 	@SuppressWarnings("unchecked")
-	public void openCache(String title2widCacheFilePath, String redirectCacheFilePath) {
-		this.title2widCachePath = title2widCacheFilePath;
-		this.redirectCachePath = redirectCacheFilePath;
-		title2widFile = new File(title2widCacheFilePath);
+	public void openCache() {
+		title2widFile = new File(title2widCachePath);
 		if (title2widFile.exists() && title2widFile.length() > 0) {
 			try {
 				title2wid = (BidiObjectIntHashMap<String>)new ObjectInputStream(new FileInputStream(title2widFile)).readObject();
@@ -102,7 +92,7 @@ public class MediaWikiAPI {
 			title2wid = new BidiObjectIntHashMap<String>();
 		}
 		
-		redirectFile = new File(redirectCacheFilePath);
+		redirectFile = new File(redirectCachePath);
 		if (redirectFile.exists() && redirectFile.length() > 0) {
 			try {
 				redirect = (Int2IntOpenHashMap)new ObjectInputStream(new FileInputStream(redirectFile)).readObject();
@@ -119,7 +109,7 @@ public class MediaWikiAPI {
 	}
 	
 	/**
-	 * 把redirect和title2wid写入到文件中
+	 * Flush to cache files
 	 */
 	public void flush()	{
 		try {
@@ -159,16 +149,15 @@ public class MediaWikiAPI {
 	
 	public int getIdByTitle(String title) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
 		title = normalize(title);
-		//如果已经缓存，则直接返回
+		/** If cached, return */
 		if (title2wid.hasObject(title))
 			return title2wid.getByObject(title);
 		
-		//查询title
 		List<String> titleList = new ArrayList<String>();
 		titleList.add(title);
 		prefetchTitle(titleList);
 		
-		//无效的title，返回-1
+		/** invalid title, return -1 */
 		if (title2wid.hasObject(title) == false)
 			return -1;
 		
@@ -176,11 +165,12 @@ public class MediaWikiAPI {
 	}
 	
 	/**
-	 * 查询缓存给定的title的信息
-	 * @throws SAXException 
-	 * @throws ParserConfigurationException 
-	 * @throws IOException 
-	 * @throws XPathExpressionException 
+	 * Pre-fetch titles by web api.
+	 * @param titleList
+	 * @throws XPathExpressionException
+	 * @throws IOException
+	 * @throws ParserConfigurationException
+	 * @throws SAXException
 	 */
 	public void prefetchTitle(List<String> titleList) throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
 		List<String> titleToActuallyPrefetchList = new ArrayList<String>();

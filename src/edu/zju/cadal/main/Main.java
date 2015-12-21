@@ -2,6 +2,7 @@ package edu.zju.cadal.main;
 
 import edu.zju.cadal.dataset.ACE2004;
 import edu.zju.cadal.dataset.AQUAINT;
+import edu.zju.cadal.dataset.DatasetDumper;
 import edu.zju.cadal.dataset.IITB;
 import edu.zju.cadal.dataset.MSNBC;
 import edu.zju.cadal.dataset.TestA;
@@ -9,6 +10,7 @@ import edu.zju.cadal.matching.AnnotationMatching;
 import edu.zju.cadal.matching.CandidateMatching;
 import edu.zju.cadal.matching.MentionMatching;
 import edu.zju.cadal.matching.NILMatching;
+import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.system.Priorer;
 import edu.zju.cadal.system.Spotlight;
 import edu.zju.cadal.system.WikiMiner;
@@ -45,12 +47,14 @@ public class Main {
 		CandidateMatching cm = new CandidateMatching(mm);
 		AnnotationMatching am = new AnnotationMatching(mm);
 		NILMatching nm = new NILMatching(mm);
+		
+		Executor.setExecutor(false, false, 0);
 //		System.out.println("+++++++++++++++ Mention Matching Result ++++++++++++++++++++");
-//		Executor.run(ace, priorer, mm, "output/priorer-ace-mm-000.out");
-//		System.out.println("+++++++++++++++ Candidate Matching Result ++++++++++++++++++++");
-//		Executor.run(ace, priorer, cm, "output/priorer-ace-cm-000.out");
-		System.out.println("+++++++++++++++ Annotation Matching Result ++++++++++++++++++++");
-		Executor.run(iitb, priorer, mm, "output/priorer-iitb-mm-000.out");
+//		Executor.run(msnbc, priorer, mm, "output/priorer-msnbc-mm-000.out");
+		System.out.println("+++++++++++++++ Candidate Matching Result ++++++++++++++++++++");
+		Executor.run(msnbc, priorer, am, "output/priorer-msnbc-am-000.out");
+//		System.out.println("+++++++++++++++ Annotation Matching Result ++++++++++++++++++++");
+//		Executor.run(msnbc, priorer, am, "output/priorer-msnbc-am-000.out");
 //		System.out.println("+++++++++++++++ NIL Matching Result ++++++++++++++++++++");
 //		Executor.run(aquaint, priorer, am, "output/priorer-aquaint-am-000.out");		
 		

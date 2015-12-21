@@ -30,6 +30,8 @@ import edu.zju.cadal.model.NIL;
 import edu.zju.cadal.utils.Pair;
 
 /**
+ * AIDA the base class for loading AIDA-formatted datasets: AIDA/TestA, AIDA/TestB, AIDA/Training
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月26日
@@ -44,25 +46,37 @@ public abstract class AIDA extends AbstractDataset {
 	
 	private Map<String, MutableString> documents = new HashMap<String, MutableString>();
 	Map<String, List<AidaAnnotation>> problemMap = new HashMap<String, List<AidaAnnotation>>();
-//	private List<String> titles = new ArrayList<String>();
-	
+
+	/** pattern to match a Wikipedia url*/
 	private Pattern wikiUrlPattern = Pattern.compile("http://en.wikipedia.org/wiki/(.*)");
+	/** pattern to match a mention*/
 	private Pattern mentionPattern = Pattern.compile("^(.*?)\t([BI]?)\t(.*?)\t(.*?)\t(.*?)(?:\t(.*))?$");
+	/** pattern to match a NIL*/
 	private Pattern nmePattern = Pattern.compile("^(.*)\t([BI])\t(.*)\t(.*)--NME--$");
+	/** pattern to match a punctuation*/
 	private Pattern punctuationPattern = Pattern.compile("^\\W.*$");
 	
 	
 	public AIDA(String file) {
 		try {
 			load(file);
-			filling();
-			deleteEmptyDocument();
+			fill();
+			filter();
+			unify();
 		} catch (Exception e) {
 			e.printStackTrace();
 		}
 	}
 
-	private void filling() throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
+	/**
+	 * Fill the member variables gold***
+	 * 
+	 * @throws XPathExpressionException
+	 * @throws IOException
+	 * @throws ParserConfigurationException
+	 * @throws SAXException
+	 */
+	private void fill() throws XPathExpressionException, IOException, ParserConfigurationException, SAXException {
 		for (String title : documents.keySet()) {
 			this.rawText.put(title, documents.get(title).toString());
 			Set<Mention> mentionSet = new HashSet<Mention>();
@@ -75,7 +89,7 @@ public abstract class AIDA extends AbstractDataset {
 				Mention m = new Mention(aa.surfaceForm, aa.position, aa.length);
 				mentionSet.add(m);
 				int wid = api.getIdByTitle(aa.title);
-				if (wid == -1) {
+				if (wid == -1) { // NIL
 					nILSet.add(new NIL(m));
 					Entity e = new Entity(0, "*null*");
 					entitySet.add(e);
@@ -101,14 +115,17 @@ public abstract class AIDA extends AbstractDataset {
 		}
 	}
 
-	private void deleteEmptyDocument() {
-		Set<String> empty = new HashSet<String>();
+	/**
+	 * Delete the documents which contain no annotations from all gold*** member variables
+	 */
+	private void filter() {
+		Set<String> remove = new HashSet<String>();
 		
 		for (String title : goldMention.keySet())
 			if (goldMention.get(title).isEmpty() == true)
-				empty.add(title);
+				remove.add(title);
 		
-		for (String title : empty) {
+		for (String title : remove) {
 			rawText.remove(title);
 			goldMention.remove(title);
 			goldAnnotation.remove(title);
@@ -118,17 +135,41 @@ public abstract class AIDA extends AbstractDataset {
 		}
 	}
 	
+	/**
+	 * Check if the size of rawText is same with the size of goldMention
+	 */
+	private void unify() {
+		Set<String> remove = new HashSet<String>();
+		for (String title : rawText.keySet())
+			if (goldMention.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove)
+			rawText.remove(title);
+		
+		remove.clear();
+		for (String title : goldMention.keySet())
+			if (rawText.containsKey(title) == false)
+				remove.add(title);
+		
+		for (String title : remove) {
+			goldMention.remove(title);
+			goldCandidate.remove(title);
+			goldAnnotation.remove(title);
+			goldEntity.remove(title);
+		}
+	}
+	
 	@Override
 	abstract public String getName();
 
 	
 	/**
-	 * AIDA的源文本和标注都在一个文件中
+	 * Load and parse dataset
 	 * @param file
 	 * @throws Exception
 	 */
 	private void load(String file) throws Exception {
-		
 		List<String> titlesToPrefetch = new ArrayList<String>();
 		BufferedReader r = new BufferedReader( new InputStreamReader(new FileInputStream(file), Charset.forName("UTF-8")));
 		String line = null;

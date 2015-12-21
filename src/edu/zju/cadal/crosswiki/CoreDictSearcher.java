@@ -13,6 +13,9 @@ import org.apache.lucene.search.TopDocs;
 import org.apache.lucene.store.FSDirectory;
 
 /**
+ * CoreDictSearcher class is used to
+ * Search CrossWikis's core dictionary using Lucene.
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年8月27日
@@ -43,11 +46,6 @@ public class CoreDictSearcher {
 	public TopDocs search(String field, String queryString) 
 	{
 		try {
-//			BooleanQuery bq = new BooleanQuery();
-//			String[] terms = queryString.toLowerCase().replaceAll("_", " ").split(" ");
-//			for (String t : terms) {
-//				bq.add(new TermQuery(new Term(field, t)), BooleanClause.Occur.MUST);
-//			}
 			Query query = new TermQuery(new Term(field, queryString.toLowerCase()));
 			return searcher.search(query, 100);
 		} catch (IOException e) {

@@ -13,35 +13,30 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.xml.sax.SAXException;
 
+import edu.zju.cadal.main.Filter;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.utils.Pair;
 import edu.zju.cadal.webservice.MediaWikiAPI;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月17日
- */
 public class CandidateMatching implements Matching<Candidate>{
 
-	private MentionMatching mfm;
+	private MentionMatching mm;
 	private MediaWikiAPI api = MediaWikiAPI.getInstance();
-	private PreProcessor preProcessor;
+	private Filter<Candidate> filter;
 	
-	public CandidateMatching(MentionMatching mfm) {
-		this.mfm = mfm;
-		this.preProcessor = new PreProcessor(mfm);
+	public CandidateMatching(MentionMatching mm) {
+		this.mm = mm;
+		this.filter = new Filter<Candidate>(this);
 	}
 	
 	@Override
 	public boolean match(Candidate c1, Candidate c2) {
-		if (mfm.match(c1.getMention(), c2.getMention()) == false)
+		if (mm.match(c1.getMention(), c2.getMention()) == false)
 			return false;
 		Set<Pair<Entity, Float>> s1 = c1.getPairSet();
 		Set<Pair<Entity, Float>> s2 = c2.getPairSet();
 		
-		//提取并比较所有的候选消歧项的id
 		Set<Integer> s3 = new HashSet<Integer>();
 		Set<Integer> s4 = new HashSet<Integer>();
 		for (Pair<Entity, Float> p : s1)
@@ -56,11 +51,11 @@ public class CandidateMatching implements Matching<Candidate>{
 
 
 	@Override
-	public void preProcessing(Map<String, Set<Candidate>> systemResult,	Map<String, Set<Candidate>> goldStandard) {
-		//预处理id，加快比较速度
+	public void preProcessing(Map<String, Set<Candidate>> prediction, Map<String, Set<Candidate>> goldStandard) {
+		/** pre-fetch titles to accelerate computing*/
 		List<Integer> idList = new ArrayList<Integer>();
-		for (String title : systemResult.keySet()) {
-			for (Candidate c : systemResult.get(title))
+		for (String title : prediction.keySet()) {
+			for (Candidate c : prediction.get(title))
 				for (Pair<Entity, Float> p : c.getPairSet())
 					idList.add(p.first.getId());
 		}
@@ -74,19 +69,23 @@ public class CandidateMatching implements Matching<Candidate>{
 		try {
 			api.prefetchWId(idList);
 			api.flush();
-		} catch (XPathExpressionException | IOException
-				| ParserConfigurationException | SAXException e) {
+		} catch (XPathExpressionException | IOException	| ParserConfigurationException | SAXException e) {
 			e.printStackTrace();
 		}
 		
-		preProcessor.candidateCoreference(systemResult);
-		preProcessor.candidateCoreference(goldStandard);
-		preProcessor.filterDuplicatedCandidate(systemResult, goldStandard);
+		filter.coreference(prediction);
+		filter.coreference(goldStandard);
+		filter.filterMany2One(prediction, goldStandard);
 	}
 	
 	@Override
 	public String getName() {
 		return "Candidate Matching";
+	}
+
+	@Override
+	public MentionMatching getBaseMentionMatching() {
+		return this.mm;
 	}
 
 }

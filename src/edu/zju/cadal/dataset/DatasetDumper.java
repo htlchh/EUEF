@@ -4,9 +4,9 @@ import java.util.HashSet;
 import java.util.Map;
 import java.util.Set;
 
+import edu.zju.cadal.main.Filter;
 import edu.zju.cadal.matching.Matching;
 import edu.zju.cadal.matching.MentionMatching;
-import edu.zju.cadal.matching.PreProcessor;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Candidate;
 import edu.zju.cadal.model.Entity;
@@ -20,7 +20,7 @@ import edu.zju.cadal.model.NIL;
  */
 public class DatasetDumper {
 	
-	private static PreProcessor preProcessor;
+	private static Filter preProcessor;
 	
 	public static int getMentionCount(AbstractDataset ds) {
 		Map<String, Set<Mention>> goldMentionMap = ds.getGoldMention();
@@ -116,7 +116,7 @@ public class DatasetDumper {
 				+ "\nDistinct Entity Count: " + diseCount
 				+ "\nLongest Text Length: " + longest
 				+ "\nAverage Text Length: " + length/(float)size
-				+ "\nEmtpy Document Count: " + emptyDocCount
+				+ "\nDocument Without Annotations Count: " + emptyDocCount
 		);
 	}
 }

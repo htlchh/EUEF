@@ -15,8 +15,8 @@ import org.apache.lucene.index.IndexWriterConfig;
 import org.apache.lucene.store.FSDirectory;
 
 /**
- * Index and Search CrossWikis using Lucene.
- * 
+ * CoreDictIndexer class is used to
+ * Index CrossWikis's core dictionary using Lucene.
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年9月25日

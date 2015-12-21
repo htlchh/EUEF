@@ -1,9 +1,5 @@
 package edu.zju.cadal.exception;
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月19日
- */
+
 public class UnknowMatchingException extends RuntimeException{
 	private static final long serialVersionUID = 1L;
 

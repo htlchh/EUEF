@@ -3,22 +3,17 @@ package edu.zju.cadal.matching;
 import java.util.Map;
 import java.util.Set;
 
-import edu.zju.cadal.model.Candidate;
+import edu.zju.cadal.main.Filter;
 import edu.zju.cadal.model.Mention;
 import edu.zju.cadal.utils.EditDistance;
 
-/**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月16日
- */
 public class MentionMatching implements Matching<Mention>{
 
-	private PreProcessor preProcessor;
+	private Filter<Mention> filter;
 	private float distanceThreshold = 0.85f;
 
 	public MentionMatching() {
-		this.preProcessor = new PreProcessor(this);
+		this.filter = new Filter<Mention>(this);
 	}
 	
 	public MentionMatching(float distanceThreshold) {
@@ -41,10 +36,10 @@ public class MentionMatching implements Matching<Mention>{
 	}
 	
 	@Override
-	public void preProcessing(Map<String, Set<Mention>> systemResult, Map<String, Set<Mention>> goldStandard) {
-		preProcessor.mentionCoreference(systemResult);
-		preProcessor.mentionCoreference(goldStandard);
-		preProcessor.filterDuplicatedMention(systemResult, goldStandard);
+	public void preProcessing(Map<String, Set<Mention>> prediction, Map<String, Set<Mention>> goldStandard) {
+		filter.coreference(prediction);
+		filter.coreference(goldStandard);
+		filter.filterMany2One(prediction, goldStandard);
 	}
 
 
@@ -54,19 +49,15 @@ public class MentionMatching implements Matching<Mention>{
 	}
 
 	/**
-	 * 注意传入参数的顺序
-	 * 因为标准长度是取的gold的长度
-	 * @param m1 system output mention
-	 * @param m2 gold mention
-	 * @return
-	 */
+	 * Check if two mentions are matched or not,
+	 * If the distance >= distanceThreshold, then true; Otherwise, false
+	 * */
 	private boolean editDistanceFuzzyMatching(Mention m1, Mention m2) {
 		if (m1.overlap(m2) == false)
 			return false;
 		
 		float similarity = EditDistance.distance(m1.getSurfaceForm(), m2.getSurfaceForm());
 //		System.out.println(m1.getSurfaceForm() + "|" + m2.getSurfaceForm() + ":" + similarity);
-		//取两个词中较长的一个词的长度
 		float length = m1.getSurfaceForm().length() > m2.getSurfaceForm().length() 
 						? m1.getSurfaceForm().length() 
 						: m2.getSurfaceForm().length();
@@ -77,6 +68,11 @@ public class MentionMatching implements Matching<Mention>{
 			return true;
 		else 
 			return false;
+	}
+
+	@Override
+	public MentionMatching getBaseMentionMatching() {
+		return this;
 	}
 	
 }

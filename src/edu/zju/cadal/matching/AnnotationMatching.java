@@ -12,28 +12,33 @@ import javax.xml.xpath.XPathExpressionException;
 
 import org.xml.sax.SAXException;
 
+import edu.zju.cadal.main.Filter;
 import edu.zju.cadal.model.Annotation;
 import edu.zju.cadal.model.Entity;
 import edu.zju.cadal.webservice.MediaWikiAPI;
 
 /**
+ * AnnotationMatching is the class to check if two annotations matched
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年11月17日
  */
 public class AnnotationMatching implements Matching<Annotation>{
-	private MentionMatching mfm ;
-	private PreProcessor preProcessor;
-	MediaWikiAPI api = MediaWikiAPI.getInstance();
 	
-	public AnnotationMatching(MentionMatching mfm) {
-		this.mfm = mfm;
-		this.preProcessor = new PreProcessor(mfm);
+	/** Embedded mention matching */
+	private MentionMatching mm;
+	private Filter<Annotation> filter;
+	private MediaWikiAPI api = MediaWikiAPI.getInstance();
+	
+	public AnnotationMatching(MentionMatching mm) {
+		this.mm = mm;
+		this.filter = new Filter<Annotation>(this);
 	}
 	
 	@Override
 	public boolean match(Annotation a1, Annotation a2) {
-		if (mfm.match(a1.getMention(), a2.getMention()) == false)
+		if (mm.match(a1.getMention(), a2.getMention()) == false)
 			return false;
 		
 		Entity e1 = a1.getEntity();
@@ -53,7 +58,9 @@ public class AnnotationMatching implements Matching<Annotation>{
 	@Override
 	public void preProcessing(Map<String, Set<Annotation>> systemResult, Map<String, Set<Annotation>> goldStandard) {
 		List<Integer> idList = new ArrayList<Integer>();
+		
 		//预先查询结果中的id，加快比较速度
+		/**  */
 		for (Set<Annotation> aSet : systemResult.values()) 
 			for (Annotation a : aSet)
 				idList.add(a.getEntity().getId());
@@ -68,9 +75,14 @@ public class AnnotationMatching implements Matching<Annotation>{
 			e.printStackTrace();
 		}
 		
-		preProcessor.annotationCoreference(systemResult);
-		preProcessor.annotationCoreference(goldStandard);
-		preProcessor.filterDuplicatedAnnotation(systemResult, goldStandard);
+		filter.coreference(systemResult);
+		filter.coreference(goldStandard);
+		filter.filterMany2One(systemResult, goldStandard);
+	}
+
+	@Override
+	public MentionMatching getBaseMentionMatching() {
+		return this.mm;
 	}
 
 }

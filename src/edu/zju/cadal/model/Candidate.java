@@ -11,13 +11,12 @@ import edu.zju.cadal.utils.Pair;
  * @email:chenhuicn@126.com
  * @date:2015年11月14日
  */
-public class Candidate implements Serializable {
+public class Candidate implements Serializable, Model {
 
 	private static final long serialVersionUID = 1L;
 
-	//内嵌的Mention
 	private Mention m;
-	//集合的每个元素都是一个entity和score的pair
+	/**<entity,score> pairs embedded in candidates */
 	private Set<Pair<Entity,Float>> pairSet;
 	
 	public Candidate(Mention m, Set<Pair<Entity, Float>> pairSet) {
@@ -26,10 +25,10 @@ public class Candidate implements Serializable {
 	}
 	
 	/**
-	 * 进行hash不使用pairSet，仅仅依赖于mention，如果依赖pairSet，就会间接依赖Pair的第二项分数值
-	 * 
-	 * 一般情况下一个mention对应一个candidate
-	 */
+	 * In the hash step, it does not take pairSet into consideration,
+	 * and is only based on the mention. 
+	 * If two candidates have same mentions, their hash codes are same.
+	 * */
 	@Override
 	public int hashCode() {
 		final int prime = 31;
@@ -39,11 +38,9 @@ public class Candidate implements Serializable {
 	}
 
 	/**
-	 * 两个candidate匹配当且仅当两个mention匹配，
-	 * 
-	 * 且对应的Pair集合中有至少一个相同的entity，
-	 * 
-	 * 忽略entity对应的分数，在进行candidate比较时，只考虑entity，不考虑分数
+	 * Two candidates are equal <=>
+	 * The embedded mentions are matched &&
+	 * There are at least one same entity in the pair sets.
 	 */
 	@Override
 	public boolean equals(Object obj) {
@@ -76,6 +73,11 @@ public class Candidate implements Serializable {
 
 	public Set<Pair<Entity, Float>> getPairSet() {
 		return pairSet;
+	}
+
+	@Override
+	public int getLength() {
+		return m.getLength();
 	}
 
 	

@@ -15,6 +15,8 @@ import org.apache.lucene.store.FSDirectory;
 import edu.zju.cadal.utils.BZ2;
 
 /**
+ * Index CrossWikis's inv.dict using Lucene
+ * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
  * @date:2015年9月25日
@@ -27,11 +29,6 @@ public class InvDictIndexer {
 	private BZ2 reader;	
 		
 
-	/**
-	 * 
-	 * @param resource, files to indexed
-	 * @param destination, directory where stores the index files
-	 */
 	public InvDictIndexer(String indexDirectory, String dictPath) {
 		try {
 			reader = new BZ2(dictPath);

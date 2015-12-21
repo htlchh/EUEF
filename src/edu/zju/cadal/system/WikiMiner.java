@@ -36,9 +36,7 @@ import edu.zju.cadal.utils.Pair;
 import edu.zju.cadal.utils.Timer;
 
 /**
- * @author:chenhui 
- * @email:chenhuicn@126.com
- * @date:2015年11月16日
+ * Do ERD task with Wikipedia Miner based on its web service.
  */
 public class WikiMiner extends AbstractERDSystem{
 
@@ -57,7 +55,6 @@ public class WikiMiner extends AbstractERDSystem{
 	@Override
 	public Prediction erd(AbstractDataset ds) {
 		Prediction result = Prediction.getInstance(useCache);
-		//有缓存，直接返回
 		if (result.isCached(this.getName(), ds.getName()))
 			return result;
 		Timer timer = new Timer();
@@ -86,11 +83,11 @@ public class WikiMiner extends AbstractERDSystem{
 			costTime.put(title, timer.getCostTime());
 		}
 		
-		result.setMentionCache(this.getName(), ds.getName(), mentionMap);
-		result.setCandidateCache(getName(), ds.getName(), candidateMap);
-		result.setAnnotationCache(getName(), ds.getName(), annotationMap);
-		result.setNILCache(getName(), ds.getName(), NILMap);
-		result.setEntityCache(getName(), ds.getName(), entityMap);
+		result.setMention(this.getName(), ds.getName(), mentionMap);
+		result.setCandidate(getName(), ds.getName(), candidateMap);
+		result.setAnnotation(getName(), ds.getName(), annotationMap);
+		result.setNIL(getName(), ds.getName(), NILMap);
+		result.setEntity(getName(), ds.getName(), entityMap);
 		result.setCostTime(getName(), ds.getName(), costTime);
 		result.flush();
 		return result;
@@ -126,7 +123,7 @@ public class WikiMiner extends AbstractERDSystem{
 			DocumentBuilder builder = factory.newDocumentBuilder();
 			Document doc = builder.parse(connection.getInputStream());
 			
-			//返回结果，计时结束
+			/** End of the timing as the request is returned */
 			timer.setCostTime(Calendar.getInstance().getTimeInMillis()-currentTime);
 			
 			XPathFactory xPathfactory = XPathFactory.newInstance();
@@ -157,7 +154,7 @@ public class WikiMiner extends AbstractERDSystem{
 						int start = Integer.parseInt(starts.item(j).getNodeValue());
 						int end = Integer.parseInt(ends.item(j).getNodeValue());
 						int length = end - start;
-						//填充变量
+						/** filling */
 						Mention m = new Mention(text.substring(start, start+length), start, length, weight);
 						Entity e = new Entity(id, title);
 						Set<Pair<Entity, Float>> pairSet = new HashSet<Pair<Entity, Float>>();

@@ -4,8 +4,8 @@ import org.apache.lucene.analysis.util.CharTokenizer;
 
 /**
  * 
- * CrossWikis索引分析器 
- * 统一转换成小写,不做其他处理
+ * CrossWikis索引分析器,统一转换成小写,不做其他处理
+ * Analyzer, transform the characters into lowercase 
  * 
  * @author:chenhui 
  * @email:chenhuicn@126.com
@@ -31,11 +31,6 @@ public class CrossWikiAnalyzer extends Analyzer{
 		 */
 		@Override
 		protected boolean isTokenChar(int c) {
-//			char ch = (char)c;
-//			if (ch == '_')
-//				return false;
-//			if (Character.isWhitespace(c))
-//				return false;
 			return true;
 		}
 	}

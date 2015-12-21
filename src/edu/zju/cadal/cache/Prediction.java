@@ -43,7 +43,7 @@ public class Prediction implements Serializable {
 	/** The flag of whether the cache is opened*/
 	private static boolean cacheOpened = false;
 	
-	//存储annotation任务的结果，Map<系统名字+数据集名字,Map<文档title,title对应的annotation集合>>
+	/** 存储annotation任务的结果，Map<系统名字+数据集名字,Map<文档title,title对应的annotation集合>> */
 	/** Map<ERD system's name + dataset's name, Map<document title, Set<Annotation>>> */
 	private Map<String, Map<String, Set<Annotation>>> annotation 
 					= new HashMap<String, Map<String,Set<Annotation>>>();
@@ -89,11 +89,8 @@ public class Prediction implements Serializable {
 				try {
 					prediction = (Prediction)new ObjectInputStream(new FileInputStream(cacheFile)).readObject();
 				} catch (ClassNotFoundException | IOException e) {
-					throw new RuntimeException(
-							"Could Not Load Cache File "
-									+ cacheFile.getAbsolutePath()
-									+ ". Try to Manually Delete The File to Clear The Cache. Message: "
-									+ e.getMessage());
+					throw new RuntimeException("Could Not Load Cache File " + cacheFile.getAbsolutePath()
+							+ ". Try to Manually Delete The File to Clear The Cache. Message: "	+ e.getMessage());
 				}
 			}				
 		}
@@ -120,7 +117,7 @@ public class Prediction implements Serializable {
 	 * @param datasetName
 	 * @return 
 	 */
-	public Map<String, Set<Annotation>> getAnnotationCache(String systemName, String datasetName) {
+	public Map<String, Set<Annotation>> getAnnotation(String systemName, String datasetName) {
 		return annotation.get(systemName + datasetName);
 	}
 	
@@ -132,12 +129,12 @@ public class Prediction implements Serializable {
 	 * @param threshold
 	 * @return
 	 */
-	public Map<String, Set<Annotation>> getAnnotationCache(String systemName, String datasetName, float threshold) {
+	public Map<String, Set<Annotation>> getAnnotation(String systemName, String datasetName, float threshold) {
 		Map<String, Set<Annotation>> retMap = new HashMap<String, Set<Annotation>>();
-		Map<String, Set<Annotation>> resultMap = this.annotation.get(systemName + datasetName);
-		for (String title : resultMap.keySet()) 
+		Map<String, Set<Annotation>> annotationMap = this.annotation.get(systemName + datasetName);
+		for (String title : annotationMap.keySet()) 
 		{
-			for (Annotation a : resultMap.get(title)) 
+			for (Annotation a : annotationMap.get(title)) 
 			{
 				if (retMap.containsKey(title) == false)
 					retMap.put(title, new HashSet<Annotation>());
@@ -149,7 +146,7 @@ public class Prediction implements Serializable {
 		return retMap;
 	}
 
-	public void setAnnotationCache(String systemName, String datasetName, Map<String, Set<Annotation>> annotationMap) {
+	public void setAnnotation(String systemName, String datasetName, Map<String, Set<Annotation>> annotationMap) {
 		this.annotation.put(systemName+datasetName, annotationMap);
 		
 	}
@@ -158,11 +155,11 @@ public class Prediction implements Serializable {
 		return mention.get(systemName + datasetName);
 	}
 
-	public Map<String, Set<Mention>> getMentionCache(String systemName, String datasetName, float threshold) {
+	public Map<String, Set<Mention>> getMention(String systemName, String datasetName, float threshold) {
 		Map<String, Set<Mention>> retMap = new HashMap<String, Set<Mention>>();
-		Map<String, Set<Mention>> resultMap = this.mention.get(systemName + datasetName);
-		for (String title : resultMap.keySet()) {
-			for (Mention m : resultMap.get(title)) {
+		Map<String, Set<Mention>> mentionMap = this.mention.get(systemName + datasetName);
+		for (String title : mentionMap.keySet()) {
+			for (Mention m : mentionMap.get(title)) {
 				if (retMap.containsKey(title) == false)
 					retMap.put(title, new HashSet<Mention>());
 				
@@ -174,23 +171,23 @@ public class Prediction implements Serializable {
 	}
 	
 	
-	public void setMentionCache(String systemName, String datasetName, Map<String, Set<Mention>> mentionCache) {
+	public void setMention(String systemName, String datasetName, Map<String, Set<Mention>> mentionCache) {
 		this.mention.put(systemName + datasetName, mentionCache);
 	}
 
-	public Map<String, Set<NIL>> getNILCache(String systemName, String datasetName) {
+	public Map<String, Set<NIL>> getNIL(String systemName, String datasetName) {
 		return NIL.get(systemName + datasetName);
 	}
 	
-	public Map<String, Set<NIL>> getNILCache(String systemName, String datasetName, float threshold) {
+	public Map<String, Set<NIL>> getNIL(String systemName, String datasetName, float threshold) {
 		Map<String, Set<NIL>> retMap = new HashMap<String, Set<NIL>>();
-		Map<String, Set<NIL>> resultMap = this.NIL.get(systemName + datasetName);
+		Map<String, Set<NIL>> nILMap = this.NIL.get(systemName + datasetName);
 		
-		for (String title : resultMap.keySet()) { 
+		for (String title : nILMap.keySet()) { 
 			if (retMap.containsKey(title) == false) {
 				retMap.put(title, new HashSet<NIL>());
 			}
-			for (NIL n : resultMap.get(title)) {
+			for (NIL n : nILMap.get(title)) {
 				if (n.getScore() >= threshold)
 					retMap.get(title).add(n);
 			}
@@ -198,23 +195,23 @@ public class Prediction implements Serializable {
 		return retMap;
 	}
 
-	public void setNILCache(String systemName, String datasetName, Map<String, Set<NIL>> nILCache) {
+	public void setNIL(String systemName, String datasetName, Map<String, Set<NIL>> nILCache) {
 		NIL.put(systemName + datasetName, nILCache);
 	}
 
-	public Map<String, Set<Candidate>> getCandidateCache(String systemName, String datasetName) {
+	public Map<String, Set<Candidate>> getCandidate(String systemName, String datasetName) {
 		return candidate.get(systemName + datasetName);
 	}
 	
-	public void setCandidateCache(String systemName, String datasetName, Map<String, Set<Candidate>> candidateCache) {
+	public void setCandidate(String systemName, String datasetName, Map<String, Set<Candidate>> candidateCache) {
 		this.candidate.put(systemName + datasetName, candidateCache);
 	}
 	
-	public Map<String, Set<Entity>> getEntityCache(String systeName, String datasetName) {
+	public Map<String, Set<Entity>> getEntity(String systeName, String datasetName) {
 		return this.entity.get(systeName + datasetName);
 	}
 	
-	public void setEntityCache(String systemName, String datasetName, Map<String, Set<Entity>> entityMap) {
+	public void setEntity(String systemName, String datasetName, Map<String, Set<Entity>> entityMap) {
 		this.entity.put(systemName + datasetName, entityMap);
 	}
 
@@ -226,6 +223,7 @@ public class Prediction implements Serializable {
 		this.costTime.put(systemName + datasetName, costTime);
 	}
 	
+	/** Remove the cached results from the cache variables according to the given system name and dataset name*/
 	public void remove(String systemName, String datasetName) {
 		if (this.mention.containsKey(systemName+datasetName))
 			this.mention.remove(systemName+datasetName);

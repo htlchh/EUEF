@@ -40,11 +40,6 @@ public class InvDictSearcher {
 	public TopDocs search(String field, String queryString) 
 	{
 		try {
-//			BooleanQuery bq = new BooleanQuery();
-//			String[] terms = queryString.toLowerCase().replaceAll("_", " ").split(" ");
-//			for (String t : terms) {
-//				bq.add(new TermQuery(new Term(field, t)), BooleanClause.Occur.MUST);
-//			}
 			Query query = new TermQuery(new Term(field, queryString.toLowerCase()));
 			return searcher.search(query, 100);
 			
